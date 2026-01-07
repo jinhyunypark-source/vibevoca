@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: MINUTENESS_SMALLNESS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Tiny - 아주 작은 (Small보다 더 작은)
+2. Miniscule - 극소의 (너무 작아서 잘 안 보이는)
+3. Microscopic - 현미경으로 봐야 할 (눈에 안 보이는)
+4. Minute - 미세한, 상세한 (발음: 마이뉴트)
+5. Diminutive - 자그마한 (귀엽거나 약해 보일 정도로 작은)
+6. Petite - 아담한 (주로 여성의 체구가 작고 맵시 있는)
+7. Compact - 소형의, 콤팩트한 (작게 뭉쳐진)
+8. Miniature - 축소된, 소형의 (실물을 작게 만든)
+9. Teeny - 정말 작은 (구어체) (아주아주 작은)
+10. Wee - 조그마한 (스코틀랜드 방언)
+11. Puny - 작고 연약한, 하찮은 (보잘것없는)
+12. Slight - 약간의, 가냘픈 (정도가 약한)
+13. Marginal - 미미한, 주변부의 (중요하지 않은)
+14. Negligible - 무시해도 될 정도의 (양이 아주 적은)
+15. Minimal - 최소한의 (가장 적은 양의)
+16. Nominal - 명목상의, 얼마 안 되는 (이름뿐인)
+17. Insubstantial - 실체가 없는, 빈약한 (튼튼하지 않은)
+18. Trifling - 하찮은 (가치가 거의 없는)
+19. Fine - 가느다란, 미세한 (입자가 고운)
+20. Thin - 얇은, 가는 (두께가 없는)
+21. Slender - 날씬한, 가느다란 (길고 가는)
+22. Narrow - 좁은 (폭이 좁은)
+23. Limited - 제한된 (양이 정해져 있는)
+24. Restricted - 제한된, 좁은 (범위가 좁은)
+25. Atomic - 원자의, 극소의 (원자만큼 작은)
+26. Molecular - 분자의 (분자 수준의)
+27. Nano - 나노의 (10억분의 1, 아주 미세한)
+28. Pocket-sized - 주머니에 들어가는 (휴대용의)
+29. Bite-sized - 한입 크기의 (작게 나눈)
+30. Fractional - 아주 적은, 단편적인 (부분적인)
+
+## 추천 태그 (상황/맥락)
+medical, digital, movie, restaurant, interview, develope, university, sad, nature, office
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "MINUTENESS_SMALLNESS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "MINUTENESS_SMALLNESS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

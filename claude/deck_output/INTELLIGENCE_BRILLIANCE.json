@@ -1,0 +1,906 @@
+{
+  "deck_title": "INTELLIGENCE_BRILLIANCE",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Knowledgeable",
+      "sentence_en": "He is very knowledgeable about the latest smartphone trends and features.",
+      "sentence_ko": "그는 최신 스마트폰 트렌드와 기능에 대해 아는 것이 매우 많습니다.",
+      "tags": ["technology", "smartphone", "learning"]
+    },
+    {
+      "word": "Knowledgeable",
+      "sentence_en": "We need a knowledgeable guide for our trip to Europe to learn the history.",
+      "sentence_ko": "역사를 배우기 위해 우리는 유럽 여행에 박식한 가이드가 필요합니다.",
+      "tags": ["travel", "learning", "job"]
+    },
+    {
+      "word": "Knowledgeable",
+      "sentence_en": "The interviewer was knowledgeable about my previous work experience.",
+      "sentence_ko": "면접관은 저의 이전 업무 경험에 대해 잘 알고 있었습니다.",
+      "tags": ["interview", "job", "warm"]
+    },
+    {
+      "word": "Knowledgeable",
+      "sentence_en": "She is knowledgeable in digital marketing strategies for startups.",
+      "sentence_ko": "그녀는 스타트업을 위한 디지털 마케팅 전략에 대해 식견이 있습니다.",
+      "tags": ["marketing", "startup", "job"]
+    },
+    {
+      "word": "Knowledgeable",
+      "sentence_en": "It feels warm to talk to someone so knowledgeable and kind.",
+      "sentence_ko": "그렇게 박식하고 친절한 사람과 대화하는 것은 마음이 따뜻해집니다.",
+      "tags": ["warm", "technology", "interview"]
+    },
+    {
+      "word": "Intelligent",
+      "sentence_en": "Artificial intelligence is becoming more intelligent every day.",
+      "sentence_ko": "인공지능은 매일 점점 더 똑똑해지고 있습니다.",
+      "tags": ["technology", "learning", "startup"]
+    },
+    {
+      "word": "Intelligent",
+      "sentence_en": "She gave an intelligent answer that impressed the hiring manager.",
+      "sentence_ko": "그녀는 채용 담당자에게 깊은 인상을 남긴 지적인 답변을 했습니다.",
+      "tags": ["interview", "job", "learning"]
+    },
+    {
+      "word": "Intelligent",
+      "sentence_en": "Intelligent design is key for a successful startup product.",
+      "sentence_ko": "지능적인 설계는 성공적인 스타트업 제품의 핵심입니다.",
+      "tags": ["startup", "technology", "marketing"]
+    },
+    {
+      "word": "Intelligent",
+      "sentence_en": "It is sad to see such an intelligent person wasting their talent.",
+      "sentence_ko": "그렇게 지적인 사람이 재능을 낭비하는 것을 보니 슬픕니다.",
+      "tags": ["sad", "job", "learning"]
+    },
+    {
+      "word": "Intelligent",
+      "sentence_en": "Dogs are intelligent animals that can learn many tricks quickly.",
+      "sentence_ko": "개는 많은 재주를 빨리 배울 수 있는 영리한 동물입니다.",
+      "tags": ["warm", "learning", "technology"]
+    },
+    {
+      "word": "Smart",
+      "sentence_en": "My new smartphone has a very smart camera system.",
+      "sentence_ko": "제 새 스마트폰에는 아주 똑똑한 카메라 시스템이 있습니다.",
+      "tags": ["smartphone", "technology", "travel"]
+    },
+    {
+      "word": "Smart",
+      "sentence_en": "He is a smart entrepreneur who knows how to spot trends.",
+      "sentence_ko": "그는 트렌드를 파악할 줄 아는 똑똑한 기업가입니다.",
+      "tags": ["entrepreneur", "startup", "marketing"]
+    },
+    {
+      "word": "Smart",
+      "sentence_en": "You look very smart in that suit for the interview.",
+      "sentence_ko": "면접을 위해 그 정장을 입으니 아주 말끔하고 똑똑해 보입니다.",
+      "tags": ["interview", "job", "warm"]
+    },
+    {
+      "word": "Smart",
+      "sentence_en": "Using a map app is a smart way to travel in a new city.",
+      "sentence_ko": "지도 앱을 사용하는 것은 낯선 도시를 여행하는 현명한 방법입니다.",
+      "tags": ["travel", "technology", "smartphone"]
+    },
+    {
+      "word": "Smart",
+      "sentence_en": "It was smart of you to bring an umbrella on this trip.",
+      "sentence_ko": "이번 여행에 우산을 챙긴 것은 아주 현명한 일이었습니다.",
+      "tags": ["warm", "travel", "learning"]
+    },
+    {
+      "word": "Bright",
+      "sentence_en": "She has a bright future in the technology industry.",
+      "sentence_ko": "그녀는 기술 산업 분야에서 밝은 미래를 가지고 있습니다.",
+      "tags": ["technology", "job", "startup"]
+    },
+    {
+      "word": "Bright",
+      "sentence_en": "The screen on this smartphone is incredibly bright and clear.",
+      "sentence_ko": "이 스마트폰의 화면은 믿을 수 없을 정도로 밝고 선명합니다.",
+      "tags": ["smartphone", "technology", "learning"]
+    },
+    {
+      "word": "Bright",
+      "sentence_en": "He is a bright student who always asks good questions.",
+      "sentence_ko": "그는 항상 좋은 질문을 하는 총명한 학생입니다.",
+      "tags": ["learning", "job", "interview"]
+    },
+    {
+      "word": "Bright",
+      "sentence_en": "Her bright smile made the sad situation a bit better.",
+      "sentence_ko": "그녀의 환한 미소가 슬픈 상황을 조금이나마 낫게 해주었습니다.",
+      "tags": ["sad", "warm", "travel"]
+    },
+    {
+      "word": "Bright",
+      "sentence_en": "We are looking for bright minds to join our startup.",
+      "sentence_ko": "우리는 우리 스타트업에 합류할 영리한 인재들을 찾고 있습니다.",
+      "tags": ["startup", "entrepreneur", "job"]
+    },
+    {
+      "word": "Brilliant",
+      "sentence_en": "That was a brilliant idea for the marketing campaign.",
+      "sentence_ko": "그것은 마케팅 캠페인을 위한 훌륭하고 기발한 아이디어였습니다.",
+      "tags": ["marketing", "startup", "job"]
+    },
+    {
+      "word": "Brilliant",
+      "sentence_en": "The brilliant colors of the sunset made the travel memorable.",
+      "sentence_ko": "석양의 찬란한 색채가 여행을 기억에 남게 만들었습니다.",
+      "tags": ["travel", "warm", "smartphone"]
+    },
+    {
+      "word": "Brilliant",
+      "sentence_en": "He had a brilliant career before he sadly lost his job.",
+      "sentence_ko": "그는 안타깝게 직장을 잃기 전까지 화려한 경력을 쌓았습니다.",
+      "tags": ["sad", "job", "interview"]
+    },
+    {
+      "word": "Brilliant",
+      "sentence_en": "The AI came up with a brilliant solution to the problem.",
+      "sentence_ko": "AI가 그 문제에 대해 아주 훌륭한 해결책을 내놓았습니다.",
+      "tags": ["technology", "ai", "learning"]
+    },
+    {
+      "word": "Brilliant",
+      "sentence_en": "She is a brilliant engineer who leads the tech team.",
+      "sentence_ko": "그녀는 기술 팀을 이끄는 아주 명석한 엔지니어입니다.",
+      "tags": ["job", "technology", "startup"]
+    },
+    {
+      "word": "Genius",
+      "sentence_en": "Steve Jobs was considered a genius in the tech world.",
+      "sentence_ko": "스티브 잡스는 기술계에서 천재로 여겨졌습니다.",
+      "tags": ["technology", "entrepreneur", "startup"]
+    },
+    {
+      "word": "Genius",
+      "sentence_en": "It takes a genius to understand this complex algorithm.",
+      "sentence_ko": "이 복잡한 알고리즘을 이해하는 데는 천재적인 머리가 필요합니다.",
+      "tags": ["learning", "technology", "job"]
+    },
+    {
+      "word": "Genius",
+      "sentence_en": "The marketing strategy was pure genius.",
+      "sentence_ko": "그 마케팅 전략은 정말 천재적이었습니다.",
+      "tags": ["marketing", "startup", "job"]
+    },
+    {
+      "word": "Genius",
+      "sentence_en": "Even a genius can feel lonely and sad sometimes.",
+      "sentence_ko": "천재라 할지라도 때때로 외롭고 슬플 수 있습니다.",
+      "tags": ["sad", "warm", "job"]
+    },
+    {
+      "word": "Genius",
+      "sentence_en": "My mom is a genius at making comfort food.",
+      "sentence_ko": "우리 엄마는 위로가 되는 음식을 만드는 데 천재입니다.",
+      "tags": ["warm", "travel", "learning"]
+    },
+    {
+      "word": "Resourceful",
+      "sentence_en": "A startup founder needs to be resourceful with limited funds.",
+      "sentence_ko": "스타트업 창업자는 한정된 자금으로 수완을 발휘해야 합니다.",
+      "tags": ["startup", "entrepreneur", "marketing"]
+    },
+    {
+      "word": "Resourceful",
+      "sentence_en": "She was resourceful enough to fix the smartphone herself.",
+      "sentence_ko": "그녀는 스스로 스마트폰을 고칠 만큼 기지가 넘쳤습니다.",
+      "tags": ["smartphone", "technology", "learning"]
+    },
+    {
+      "word": "Resourceful",
+      "sentence_en": "Travelers need to be resourceful when things go wrong.",
+      "sentence_ko": "여행자들은 일이 잘못될 때 임기응변에 능해야 합니다.",
+      "tags": ["travel", "learning", "sad"]
+    },
+    {
+      "word": "Resourceful",
+      "sentence_en": "He is a resourceful employee who solves problems quickly.",
+      "sentence_ko": "그는 문제를 신속하게 해결하는 수완 좋은 직원입니다.",
+      "tags": ["job", "interview", "startup"]
+    },
+    {
+      "word": "Resourceful",
+      "sentence_en": "Being resourceful helped us survive the sad news.",
+      "sentence_ko": "기지를 발휘한 덕분에 우리는 슬픈 소식을 견뎌낼 수 있었습니다.",
+      "tags": ["sad", "warm", "learning"]
+    },
+    {
+      "word": "Erudite",
+      "sentence_en": "The professor gave an erudite lecture on history.",
+      "sentence_ko": "교수님은 역사에 대해 박식한 강의를 하셨습니다.",
+      "tags": ["learning", "job", "travel"]
+    },
+    {
+      "word": "Erudite",
+      "sentence_en": "He tried to sound erudite during the job interview.",
+      "sentence_ko": "그는 취업 면접 중에 유식해 보이려고 노력했습니다.",
+      "tags": ["interview", "job", "marketing"]
+    },
+    {
+      "word": "Erudite",
+      "sentence_en": "Her erudite book reviews are popular online.",
+      "sentence_ko": "그녀의 학식 있는 서평은 온라인에서 인기가 많습니다.",
+      "tags": ["technology", "internet", "learning"]
+    },
+    {
+      "word": "Erudite",
+      "sentence_en": "An erudite scholar often spends time alone.",
+      "sentence_ko": "박식한 학자는 종종 혼자 시간을 보냅니다.",
+      "tags": ["sad", "job", "learning"]
+    },
+    {
+      "word": "Erudite",
+      "sentence_en": "We had a warm and erudite conversation over dinner.",
+      "sentence_ko": "우리는 저녁 식사를 하며 따뜻하고도 지적인 대화를 나눴습니다.",
+      "tags": ["warm", "travel", "learning"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "My knowledge of coding is still rudimentary.",
+      "sentence_ko": "저의 코딩 지식은 여전히 기초적인 수준입니다.",
+      "tags": ["learning", "technology", "job"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "The first smartphones had only rudimentary features.",
+      "sentence_ko": "최초의 스마트폰들은 오직 기초적인 기능만 가지고 있었습니다.",
+      "tags": ["smartphone", "technology", "history"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "We stayed in a rudimentary hut during our travel.",
+      "sentence_ko": "우리는 여행 중에 아주 기본적인 시설만 갖춘 오두막에서 지냈습니다.",
+      "tags": ["travel", "warm", "sad"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "The startup started with a rudimentary business plan.",
+      "sentence_ko": "그 스타트업은 기초적인 사업 계획서로 시작했습니다.",
+      "tags": ["startup", "entrepreneur", "marketing"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "Even rudimentary skills can get you a basic job.",
+      "sentence_ko": "기초적인 기술이라도 기본적인 일자리를 얻게 해줄 수 있습니다.",
+      "tags": ["job", "interview", "learning"]
+    },
+    {
+      "word": "Cerebral",
+      "sentence_en": "This movie is very cerebral and makes you think hard.",
+      "sentence_ko": "이 영화는 매우 지적이라서 깊게 생각하게 만듭니다.",
+      "tags": ["learning", "technology", "warm"]
+    },
+    {
+      "word": "Cerebral",
+      "sentence_en": "He takes a cerebral approach to investing in startups.",
+      "sentence_ko": "그는 스타트업 투자에 이성적인 접근 방식을 취합니다.",
+      "tags": ["startup", "entrepreneur", "marketing"]
+    },
+    {
+      "word": "Cerebral",
+      "sentence_en": "Chess is a cerebral game that requires focus.",
+      "sentence_ko": "체스는 집중력을 요하는 두뇌 게임입니다.",
+      "tags": ["learning", "job", "travel"]
+    },
+    {
+      "word": "Cerebral",
+      "sentence_en": "Her writing style is too cerebral for mass marketing.",
+      "sentence_ko": "그녀의 글쓰기 스타일은 대중 마케팅을 하기에는 너무 지적입니다.",
+      "tags": ["marketing", "job", "technology"]
+    },
+    {
+      "word": "Cerebral",
+      "sentence_en": "He is more cerebral than emotional, which can be sad.",
+      "sentence_ko": "그는 감성적이기보다 이성적인데, 이는 슬플 수도 있습니다.",
+      "tags": ["sad", "warm", "interview"]
+    },
+    {
+      "word": "Gifted",
+      "sentence_en": "She is a gifted programmer who creates amazing apps.",
+      "sentence_ko": "그녀는 놀라운 앱을 만드는 타고난 재능이 있는 프로그래머입니다.",
+      "tags": ["technology", "smartphone", "job"]
+    },
+    {
+      "word": "Gifted",
+      "sentence_en": "The school has a special program for gifted children.",
+      "sentence_ko": "그 학교에는 영재들을 위한 특별 프로그램이 있습니다.",
+      "tags": ["learning", "job", "warm"]
+    },
+    {
+      "word": "Gifted",
+      "sentence_en": "He is a gifted storyteller who warms everyone's heart.",
+      "sentence_ko": "그는 모든 사람의 마음을 따뜻하게 하는 재능 있는 이야기꾼입니다.",
+      "tags": ["warm", "travel", "interview"]
+    },
+    {
+      "word": "Gifted",
+      "sentence_en": "It is sad to see a gifted artist give up their dream.",
+      "sentence_ko": "재능 있는 예술가가 꿈을 포기하는 것을 보는 건 슬픈 일입니다.",
+      "tags": ["sad", "job", "learning"]
+    },
+    {
+      "word": "Gifted",
+      "sentence_en": "Companies fight to hire gifted engineers.",
+      "sentence_ko": "기업들은 재능 있는 엔지니어를 고용하기 위해 경쟁합니다.",
+      "tags": ["job", "interview", "startup"]
+    },
+    {
+      "word": "Talented",
+      "sentence_en": "We are looking for talented designers for our startup.",
+      "sentence_ko": "우리는 우리 스타트업을 위한 재능 있는 디자이너를 찾고 있습니다.",
+      "tags": ["startup", "job", "marketing"]
+    },
+    {
+      "word": "Talented",
+      "sentence_en": "She is a talented photographer who loves travel.",
+      "sentence_ko": "그녀는 여행을 사랑하는 재능 있는 사진작가입니다.",
+      "tags": ["travel", "job", "hobby"]
+    },
+    {
+      "word": "Talented",
+      "sentence_en": "The talented actor made the sad movie very moving.",
+      "sentence_ko": "그 재능 있는 배우가 슬픈 영화를 매우 감동적으로 만들었습니다.",
+      "tags": ["sad", "warm", "job"]
+    },
+    {
+      "word": "Talented",
+      "sentence_en": "He used his talented voice for the marketing video.",
+      "sentence_ko": "그는 마케팅 비디오에 자신의 재능 있는 목소리를 사용했습니다.",
+      "tags": ["marketing", "technology", "job"]
+    },
+    {
+      "word": "Talented",
+      "sentence_en": "You are so talented at fixing things around the house.",
+      "sentence_ko": "당신은 집안 물건을 고치는 데 정말 재주가 있군요.",
+      "tags": ["warm", "learning", "technology"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "He has a sharp mind for business and marketing.",
+      "sentence_ko": "그는 비즈니스와 마케팅에 대해 예리한 감각을 가지고 있습니다.",
+      "tags": ["marketing", "business", "startup"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "The image quality on this smartphone is very sharp.",
+      "sentence_ko": "이 스마트폰의 화질은 매우 선명합니다.",
+      "tags": ["smartphone", "technology", "photo"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "She looked sharp in her suit for the interview.",
+      "sentence_ko": "그녀는 면접을 위해 입은 정장이 아주 말끔해 보였습니다.",
+      "tags": ["interview", "job", "style"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "Be sharp and pay attention during the meeting.",
+      "sentence_ko": "회의 중에는 정신 바짝 차리고 집중하세요.",
+      "tags": ["job", "learning", "startup"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "His sharp words made me feel sad.",
+      "sentence_ko": "그의 날카로운 말은 저를 슬프게 만들었습니다.",
+      "tags": ["sad", "relationship", "communication"]
+    },
+    {
+      "word": "Quick-witted",
+      "sentence_en": "His quick-witted joke lightened the mood in the office.",
+      "sentence_ko": "그의 재치 있는 농담이 사무실 분위기를 밝게 했습니다.",
+      "tags": ["job", "warm", "marketing"]
+    },
+    {
+      "word": "Quick-witted",
+      "sentence_en": "You need to be quick-witted to succeed in a startup.",
+      "sentence_ko": "스타트업에서 성공하려면 두뇌 회전이 빨라야 합니다.",
+      "tags": ["startup", "entrepreneur", "learning"]
+    },
+    {
+      "word": "Quick-witted",
+      "sentence_en": "The quick-witted hero saved the day in the movie.",
+      "sentence_ko": "영화에서 기지 넘치는 영웅이 위기를 모면했습니다.",
+      "tags": ["movie", "warm", "learning"]
+    },
+    {
+      "word": "Quick-witted",
+      "sentence_en": "She gave a quick-witted answer during the interview.",
+      "sentence_ko": "그녀는 면접 중에 재치 있는 답변을 했습니다.",
+      "tags": ["interview", "job", "communication"]
+    },
+    {
+      "word": "Quick-witted",
+      "sentence_en": "AI assistants are becoming more quick-witted.",
+      "sentence_ko": "AI 비서들이 점점 더 눈치가 빨라지고 있습니다.",
+      "tags": ["technology", "ai", "smartphone"]
+    },
+    {
+      "word": "Brainy",
+      "sentence_en": "He was the brainy kid who always got A's.",
+      "sentence_ko": "그는 항상 A 학점을 받는 머리 좋은 아이였습니다.",
+      "tags": ["learning", "school", "job"]
+    },
+    {
+      "word": "Brainy",
+      "sentence_en": "We need some brainy developers to fix this code.",
+      "sentence_ko": "이 코드를 수정하려면 머리 좋은 개발자들이 좀 필요합니다.",
+      "tags": ["technology", "startup", "job"]
+    },
+    {
+      "word": "Brainy",
+      "sentence_en": "Smartphone games can be fun for brainy people.",
+      "sentence_ko": "스마트폰 게임은 머리 쓰는 걸 좋아하는 사람들에게 재미있을 수 있습니다.",
+      "tags": ["smartphone", "game", "fun"]
+    },
+    {
+      "word": "Brainy",
+      "sentence_en": "She prefers brainy conversations over small talk.",
+      "sentence_ko": "그녀는 잡담보다 지적인 대화를 선호합니다.",
+      "tags": ["job", "interview", "relationship"]
+    },
+    {
+      "word": "Brainy",
+      "sentence_en": "Being brainy doesn't mean you can't be warm and kind.",
+      "sentence_ko": "머리가 좋다고 해서 따뜻하고 친절할 수 없는 건 아닙니다.",
+      "tags": ["warm", "sad", "relationship"]
+    },
+    {
+      "word": "Intellectual",
+      "sentence_en": "They had an intellectual debate about the future of AI.",
+      "sentence_ko": "그들은 AI의 미래에 대해 지적인 토론을 벌였습니다.",
+      "tags": ["technology", "ai", "learning"]
+    },
+    {
+      "word": "Intellectual",
+      "sentence_en": "She enjoys intellectual movies that challenge her views.",
+      "sentence_ko": "그녀는 자신의 관점에 도전하는 지적인 영화를 즐깁니다.",
+      "tags": ["movie", "learning", "hobby"]
+    },
+    {
+      "word": "Intellectual",
+      "sentence_en": "The job requires strong intellectual capabilities.",
+      "sentence_ko": "그 직업은 강력한 지적 능력을 요구합니다.",
+      "tags": ["job", "interview", "startup"]
+    },
+    {
+      "word": "Intellectual",
+      "sentence_en": "He felt a bit sad and isolated in his intellectual world.",
+      "sentence_ko": "그는 자신의 지적 세계 안에서 약간 슬프고 고립된 느낌을 받았습니다.",
+      "tags": ["sad", "learning", "life"]
+    },
+    {
+      "word": "Intellectual",
+      "sentence_en": "Travel can be an intellectual journey as well.",
+      "sentence_ko": "여행은 지적인 여정이 될 수도 있습니다.",
+      "tags": ["travel", "learning", "warm"]
+    },
+    {
+      "word": "Academic",
+      "sentence_en": "He has an impressive academic background.",
+      "sentence_ko": "그는 인상적인 학업 배경을 가지고 있습니다.",
+      "tags": ["learning", "interview", "job"]
+    },
+    {
+      "word": "Academic",
+      "sentence_en": "The interview focused on his academic achievements.",
+      "sentence_ko": "면접은 그의 학업 성취에 초점을 맞췄습니다.",
+      "tags": ["interview", "job", "learning"]
+    },
+    {
+      "word": "Academic",
+      "sentence_en": "This book is too academic for general marketing.",
+      "sentence_ko": "이 책은 일반 마케팅에 쓰기에는 너무 학구적입니다.",
+      "tags": ["marketing", "book", "learning"]
+    },
+    {
+      "word": "Academic",
+      "sentence_en": "She decided to pursue an academic career.",
+      "sentence_ko": "그녀는 학자로서의 길을 걷기로 결심했습니다.",
+      "tags": ["job", "career", "learning"]
+    },
+    {
+      "word": "Academic",
+      "sentence_en": "Academic success doesn't always guarantee happiness.",
+      "sentence_ko": "학문적 성공이 항상 행복을 보장하는 것은 아닙니다.",
+      "tags": ["sad", "life", "learning"]
+    },
+    {
+      "word": "Clever",
+      "sentence_en": "That was a clever way to solve the technical issue.",
+      "sentence_ko": "그것은 기술적 문제를 해결하는 영리한 방법이었습니다.",
+      "tags": ["technology", "job", "startup"]
+    },
+    {
+      "word": "Clever",
+      "sentence_en": "The startup used a clever marketing tactic.",
+      "sentence_ko": "그 스타트업은 기발한 마케팅 전술을 사용했습니다.",
+      "tags": ["marketing", "startup", "business"]
+    },
+    {
+      "word": "Clever",
+      "sentence_en": "He is clever at fixing broken smartphones.",
+      "sentence_ko": "그는 고장 난 스마트폰을 고치는 데 영리합니다.",
+      "tags": ["smartphone", "technology", "repair"]
+    },
+    {
+      "word": "Clever",
+      "sentence_en": "It was clever of you to book the travel tickets early.",
+      "sentence_ko": "여행 티켓을 일찍 예매한 것은 현명했습니다.",
+      "tags": ["travel", "planning", "warm"]
+    },
+    {
+      "word": "Clever",
+      "sentence_en": "A clever joke can make everyone feel warm.",
+      "sentence_ko": "재치 있는 농담 하나가 모두를 따뜻하게 만들 수 있습니다.",
+      "tags": ["warm", "social", "job"]
+    },
+    {
+      "word": "Ingenious",
+      "sentence_en": "The engineer came up with an ingenious solution.",
+      "sentence_ko": "그 엔지니어는 기발한 해결책을 생각해 냈습니다.",
+      "tags": ["technology", "job", "startup"]
+    },
+    {
+      "word": "Ingenious",
+      "sentence_en": "This ingenious app helps you organize your life.",
+      "sentence_ko": "이 독창적인 앱은 당신의 삶을 정리하는 데 도움을 줍니다.",
+      "tags": ["smartphone", "app", "life"]
+    },
+    {
+      "word": "Ingenious",
+      "sentence_en": "The startup's business model is truly ingenious.",
+      "sentence_ko": "그 스타트업의 비즈니스 모델은 정말 독창적입니다.",
+      "tags": ["startup", "business", "entrepreneur"]
+    },
+    {
+      "word": "Ingenious",
+      "sentence_en": "He found an ingenious way to save money for travel.",
+      "sentence_ko": "그는 여행 경비를 모을 기발한 방법을 찾아냈습니다.",
+      "tags": ["travel", "money", "learning"]
+    },
+    {
+      "word": "Ingenious",
+      "sentence_en": "The movie plot had an ingenious twist.",
+      "sentence_ko": "그 영화 줄거리에는 기발한 반전이 있었습니다.",
+      "tags": ["movie", "entertainment", "warm"]
+    },
+    {
+      "word": "Capable",
+      "sentence_en": "This smartphone is capable of taking professional photos.",
+      "sentence_ko": "이 스마트폰은 전문적인 사진을 찍을 수 있는 성능을 갖췄습니다.",
+      "tags": ["smartphone", "technology", "photo"]
+    },
+    {
+      "word": "Capable",
+      "sentence_en": "She is a capable manager who leads the team well.",
+      "sentence_ko": "그녀는 팀을 잘 이끄는 유능한 매니저입니다.",
+      "tags": ["job", "interview", "startup"]
+    },
+    {
+      "word": "Capable",
+      "sentence_en": "We need a capable person to handle the marketing.",
+      "sentence_ko": "우리는 마케팅을 담당할 유능한 사람이 필요합니다.",
+      "tags": ["marketing", "job", "business"]
+    },
+    {
+      "word": "Capable",
+      "sentence_en": "I felt sad that I wasn't capable of helping him.",
+      "sentence_ko": "그를 도울 능력이 없어서 슬펐습니다.",
+      "tags": ["sad", "relationship", "warm"]
+    },
+    {
+      "word": "Capable",
+      "sentence_en": "He proved he is capable during the interview.",
+      "sentence_ko": "그는 면접 중에 자신이 유능하다는 것을 증명했습니다.",
+      "tags": ["interview", "job", "learning"]
+    },
+    {
+      "word": "Competent",
+      "sentence_en": "We need a competent developer for this project.",
+      "sentence_ko": "이 프로젝트에는 유능한 개발자가 필요합니다.",
+      "tags": ["technology", "job", "startup"]
+    },
+    {
+      "word": "Competent",
+      "sentence_en": "She gave a competent answer to the difficult question.",
+      "sentence_ko": "그녀는 어려운 질문에 대해 능숙한 답변을 했습니다.",
+      "tags": ["interview", "learning", "job"]
+    },
+    {
+      "word": "Competent",
+      "sentence_en": "A competent travel guide makes the trip much better.",
+      "sentence_ko": "유능한 여행 가이드는 여행을 훨씬 더 좋게 만듭니다.",
+      "tags": ["travel", "job", "warm"]
+    },
+    {
+      "word": "Competent",
+      "sentence_en": "He is a competent leader in the startup community.",
+      "sentence_ko": "그는 스타트업 커뮤니티에서 유능한 리더입니다.",
+      "tags": ["startup", "entrepreneur", "social"]
+    },
+    {
+      "word": "Competent",
+      "sentence_en": "It is sad when competent people lose their jobs.",
+      "sentence_ko": "유능한 사람들이 일자리를 잃는 것은 슬픈 일입니다.",
+      "tags": ["sad", "job", "social"]
+    },
+    {
+      "word": "Proficient",
+      "sentence_en": "You need to be proficient in English for this job.",
+      "sentence_ko": "이 직업을 갖기 위해서는 영어가 유창해야 합니다.",
+      "tags": ["job", "interview", "language"]
+    },
+    {
+      "word": "Proficient",
+      "sentence_en": "He is proficient in using various AI tools.",
+      "sentence_ko": "그는 다양한 AI 도구를 사용하는 데 능숙합니다.",
+      "tags": ["technology", "ai", "learning"]
+    },
+    {
+      "word": "Proficient",
+      "sentence_en": "She became proficient in coding after months of learning.",
+      "sentence_ko": "그녀는 몇 달간의 학습 끝에 코딩에 능숙해졌습니다.",
+      "tags": ["learning", "technology", "job"]
+    },
+    {
+      "word": "Proficient",
+      "sentence_en": "The marketer is proficient in social media strategies.",
+      "sentence_ko": "그 마케터는 소셜 미디어 전략에 능통합니다.",
+      "tags": ["marketing", "social", "job"]
+    },
+    {
+      "word": "Proficient",
+      "sentence_en": "Being proficient with a smartphone is essential today.",
+      "sentence_ko": "오늘날 스마트폰 사용에 능숙한 것은 필수적입니다.",
+      "tags": ["smartphone", "technology", "life"]
+    },
+    {
+      "word": "Skilled",
+      "sentence_en": "The company is looking for skilled workers.",
+      "sentence_ko": "그 회사는 숙련된 근로자를 찾고 있습니다.",
+      "tags": ["job", "interview", "startup"]
+    },
+    {
+      "word": "Skilled",
+      "sentence_en": "He is a skilled negotiator in business.",
+      "sentence_ko": "그는 비즈니스에서 숙련된 협상가입니다.",
+      "tags": ["startup", "entrepreneur", "marketing"]
+    },
+    {
+      "word": "Skilled",
+      "sentence_en": "She is skilled at making people feel warm and welcome.",
+      "sentence_ko": "그녀는 사람들을 따뜻하고 환영받는 기분이 들게 하는 데 능숙합니다.",
+      "tags": ["warm", "social", "relationship"]
+    },
+    {
+      "word": "Skilled",
+      "sentence_en": "Skilled use of technology can save a lot of time.",
+      "sentence_ko": "기술을 숙련되게 사용하면 많은 시간을 절약할 수 있습니다.",
+      "tags": ["technology", "learning", "job"]
+    },
+    {
+      "word": "Skilled",
+      "sentence_en": "The movie was directed by a very skilled artist.",
+      "sentence_ko": "그 영화는 매우 숙련된 예술가에 의해 연출되었습니다.",
+      "tags": ["movie", "art", "job"]
+    },
+    {
+      "word": "Expert",
+      "sentence_en": "He is an expert in the field of artificial intelligence.",
+      "sentence_ko": "그는 인공지능 분야의 전문가입니다.",
+      "tags": ["technology", "ai", "job"]
+    },
+    {
+      "word": "Expert",
+      "sentence_en": "We need expert advice on our marketing plan.",
+      "sentence_ko": "우리는 마케팅 계획에 대한 전문가의 조언이 필요합니다.",
+      "tags": ["marketing", "startup", "business"]
+    },
+    {
+      "word": "Expert",
+      "sentence_en": "She gave an expert opinion during the interview.",
+      "sentence_ko": "그녀는 면접 중에 전문적인 의견을 제시했습니다.",
+      "tags": ["interview", "job", "learning"]
+    },
+    {
+      "word": "Expert",
+      "sentence_en": "Travel experts recommend visiting this place.",
+      "sentence_ko": "여행 전문가들은 이곳을 방문할 것을 추천합니다.",
+      "tags": ["travel", "recommendation", "hobby"]
+    },
+    {
+      "word": "Expert",
+      "sentence_en": "Becoming an expert requires years of learning.",
+      "sentence_ko": "전문가가 되는 데는 수년의 학습이 필요합니다.",
+      "tags": ["learning", "job", "time"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "His masterful leadership saved the startup.",
+      "sentence_ko": "그의 뛰어난 리더십이 스타트업을 구했습니다.",
+      "tags": ["startup", "entrepreneur", "job"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "The director's masterful storytelling made the movie great.",
+      "sentence_ko": "감독의 거장다운 스토리텔링이 영화를 훌륭하게 만들었습니다.",
+      "tags": ["movie", "art", "job"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "She showed a masterful command of the technology.",
+      "sentence_ko": "그녀는 기술에 대한 능수능란한 지휘력을 보여주었습니다.",
+      "tags": ["technology", "learning", "job"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "He gave a masterful presentation at the job interview.",
+      "sentence_ko": "그는 취업 면접에서 능수능란한 프레젠테이션을 했습니다.",
+      "tags": ["interview", "job", "marketing"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "Her masterful cooking brought the family together.",
+      "sentence_ko": "그녀의 훌륭한 요리 솜씨가 가족을 하나로 모았습니다.",
+      "tags": ["warm", "food", "family"]
+    },
+    {
+      "word": "Educated",
+      "sentence_en": "An educated workforce is key to economic growth.",
+      "sentence_ko": "교육받은 노동력은 경제 성장의 열쇠입니다.",
+      "tags": ["job", "learning", "business"]
+    },
+    {
+      "word": "Educated",
+      "sentence_en": "She made an educated guess about the market trends.",
+      "sentence_ko": "그녀는 시장 동향에 대해 근거 있는 추측을 했습니다.",
+      "tags": ["marketing", "startup", "job"]
+    },
+    {
+      "word": "Educated",
+      "sentence_en": "He is educated in the latest AI developments.",
+      "sentence_ko": "그는 최신 AI 개발에 대해 교육받았습니다.",
+      "tags": ["technology", "ai", "learning"]
+    },
+    {
+      "word": "Educated",
+      "sentence_en": "Travel makes you more educated about the world.",
+      "sentence_ko": "여행은 당신을 세상에 대해 더 많이 알게(교육받게) 해줍니다.",
+      "tags": ["travel", "learning", "life"]
+    },
+    {
+      "word": "Educated",
+      "sentence_en": "It is sad to see educated youth without opportunities.",
+      "sentence_ko": "교육받은 젊은이들이 기회를 얻지 못하는 것을 보는 것은 슬픕니다.",
+      "tags": ["sad", "job", "social"]
+    },
+    {
+      "word": "Literate",
+      "sentence_en": "Being computer literate is essential for this job.",
+      "sentence_ko": "컴퓨터를 다룰 줄 아는 것은 이 직업에 필수적입니다.",
+      "tags": ["technology", "job", "learning"]
+    },
+    {
+      "word": "Literate",
+      "sentence_en": "We aim to make every child financially literate.",
+      "sentence_ko": "우리는 모든 아이가 금융 지식을 갖추게 하는 것을 목표로 합니다.",
+      "tags": ["learning", "money", "future"]
+    },
+    {
+      "word": "Literate",
+      "sentence_en": "Digital literate people adapt better to new smartphones.",
+      "sentence_ko": "디지털 리터러시가 있는 사람들은 새로운 스마트폰에 더 잘 적응합니다.",
+      "tags": ["smartphone", "technology", "learning"]
+    },
+    {
+      "word": "Literate",
+      "sentence_en": "She is literate in three different languages.",
+      "sentence_ko": "그녀는 세 가지 다른 언어를 읽고 쓸 줄 압니다.",
+      "tags": ["job", "learning", "language"]
+    },
+    {
+      "word": "Literate",
+      "sentence_en": "Helping someone become literate is a warm deed.",
+      "sentence_ko": "누군가 글을 깨우치도록 돕는 것은 따뜻한 행동입니다.",
+      "tags": ["warm", "learning", "social"]
+    },
+    {
+      "word": "Well-read",
+      "sentence_en": "The CEO is very well-read and knowledgeable.",
+      "sentence_ko": "그 CEO는 책을 많이 읽어 박식합니다.",
+      "tags": ["startup", "entrepreneur", "learning"]
+    },
+    {
+      "word": "Well-read",
+      "sentence_en": "Being well-read helps in job interviews.",
+      "sentence_ko": "다독하는 것은 취업 면접에 도움이 됩니다.",
+      "tags": ["interview", "job", "learning"]
+    },
+    {
+      "word": "Well-read",
+      "sentence_en": "She is well-read in history and culture.",
+      "sentence_ko": "그녀는 역사와 문화에 대해 책을 많이 읽었습니다.",
+      "tags": ["learning", "hobby", "social"]
+    },
+    {
+      "word": "Well-read",
+      "sentence_en": "A well-read person is never boring on a trip.",
+      "sentence_ko": "책을 많이 읽은 사람은 여행지에서 결코 지루하지 않습니다.",
+      "tags": ["travel", "learning", "fun"]
+    },
+    {
+      "word": "Well-read",
+      "sentence_en": "He felt sad that he wasn't as well-read as his peers.",
+      "sentence_ko": "그는 자신이 또래들만큼 다독하지 못했다는 사실에 슬퍼했습니다.",
+      "tags": ["sad", "learning", "social"]
+    },
+    {
+      "word": "Scholarly",
+      "sentence_en": "He writes scholarly articles about technology.",
+      "sentence_ko": "그는 기술에 관한 학술적인 기사를 씁니다.",
+      "tags": ["technology", "learning", "job"]
+    },
+    {
+      "word": "Scholarly",
+      "sentence_en": "The library has a quiet, scholarly atmosphere.",
+      "sentence_ko": "도서관은 조용하고 학구적인 분위기를 자아냅니다.",
+      "tags": ["learning", "place", "mood"]
+    },
+    {
+      "word": "Scholarly",
+      "sentence_en": "She has a scholarly interest in ancient history.",
+      "sentence_ko": "그녀는 고대 역사에 학문적인 관심을 가지고 있습니다.",
+      "tags": ["job", "learning", "history"]
+    },
+    {
+      "word": "Scholarly",
+      "sentence_en": "His scholarly approach didn't fit the fast startup culture.",
+      "sentence_ko": "그의 학자적인 접근 방식은 빠른 스타트업 문화와 맞지 않았습니다.",
+      "tags": ["startup", "job", "conflict"]
+    },
+    {
+      "word": "Scholarly",
+      "sentence_en": "It was a scholarly debate, not an argument.",
+      "sentence_ko": "그것은 학술적인 토론이었지, 말다툼이 아니었습니다.",
+      "tags": ["warm", "learning", "communication"]
+    },
+    {
+      "word": "Bookish",
+      "sentence_en": "He was a bookish child who loved learning.",
+      "sentence_ko": "그는 배움을 사랑하는 책벌레 같은 아이였습니다.",
+      "tags": ["learning", "child", "hobby"]
+    },
+    {
+      "word": "Bookish",
+      "sentence_en": "She has a bookish charm that is very warm.",
+      "sentence_ko": "그녀에게는 매우 따뜻한 학구적인 매력이 있습니다.",
+      "tags": ["warm", "social", "personality"]
+    },
+    {
+      "word": "Bookish",
+      "sentence_en": "The movie character is a bookish librarian.",
+      "sentence_ko": "그 영화 등장인물은 책을 좋아하는 사서입니다.",
+      "tags": ["movie", "job", "character"]
+    },
+    {
+      "word": "Bookish",
+      "sentence_en": "He felt a bit sad and bookish at the loud party.",
+      "sentence_ko": "그는 시끄러운 파티에서 약간 슬프고 겉도는 느낌을 받았습니다.",
+      "tags": ["sad", "social", "mood"]
+    },
+    {
+      "word": "Bookish",
+      "sentence_en": "Her bookish knowledge helped her in the interview.",
+      "sentence_ko": "그녀의 책에서 얻은 지식은 면접에서 도움이 되었습니다.",
+      "tags": ["interview", "job", "learning"]
+    }
+  ]
+}

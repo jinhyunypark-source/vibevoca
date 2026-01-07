@@ -1,0 +1,906 @@
+{
+  "deck_title": "DOMINANCE_CONTROL",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Potent",
+      "sentence_en": "The chef used a potent spice that completely changed the flavor.",
+      "sentence_ko": "셰프는 맛을 완전히 바꿔버리는 강력한 향신료를 사용했습니다.",
+      "tags": ["cooking", "hobby", "time"]
+    },
+    {
+      "word": "Potent",
+      "sentence_en": "Music can be a potent tool for improving your mood.",
+      "sentence_ko": "음악은 기분을 좋게 만드는 강력한 도구가 될 수 있습니다.",
+      "tags": ["happy", "hobby", "time"]
+    },
+    {
+      "word": "Potent",
+      "sentence_en": "The entrepreneur had a potent strategy to capture the market.",
+      "sentence_ko": "그 기업가는 시장을 장악할 강력한 전략을 가지고 있었습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Potent",
+      "sentence_en": "This medicine is very potent, so take it exactly on schedule.",
+      "sentence_ko": "이 약은 매우 독하니(강력하니) 일정에 맞춰 정확히 복용하세요.",
+      "tags": ["schedule", "time", "education"]
+    },
+    {
+      "word": "Potent",
+      "sentence_en": "A potent argument can change the direction of a social movement.",
+      "sentence_ko": "강력한 주장은 사회 운동의 방향을 바꿀 수 있습니다.",
+      "tags": ["social", "education", "study"]
+    },
+    {
+      "word": "Forceful",
+      "sentence_en": "He made a forceful speech about the importance of education.",
+      "sentence_ko": "그는 교육의 중요성에 대해 힘찬 연설을 했습니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Forceful",
+      "sentence_en": "The striker's forceful kick sent the soccer ball into the net.",
+      "sentence_ko": "공격수의 강력한 킥이 축구공을 골망으로 날려 보냈습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Forceful",
+      "sentence_en": "You need a forceful personality to lead a large social group.",
+      "sentence_ko": "큰 사교 모임을 이끌려면 강단 있는 성격이 필요합니다.",
+      "tags": ["social", "happy", "time"]
+    },
+    {
+      "word": "Forceful",
+      "sentence_en": "The wind was so forceful that it delayed our travel schedule.",
+      "sentence_ko": "바람이 너무 거세서 우리 여행 일정이 지연되었습니다.",
+      "tags": ["schedule", "time", "hobby"]
+    },
+    {
+      "word": "Forceful",
+      "sentence_en": "She presented a forceful argument for changing the cooking method.",
+      "sentence_ko": "그녀는 조리법을 변경해야 한다는 강력한 주장을 펼쳤습니다.",
+      "tags": ["cooking", "hobby", "education"]
+    },
+    {
+      "word": "Dominant",
+      "sentence_en": "Brazil has been a dominant force in world soccer for decades.",
+      "sentence_ko": "브라질은 수십 년간 세계 축구계에서 지배적인 세력이었습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Dominant",
+      "sentence_en": "The dominant flavor in this dish is fresh basil.",
+      "sentence_ko": "이 요리의 지배적인(주된) 맛은 신선한 바질입니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Dominant",
+      "sentence_en": "English is the dominant language in international education.",
+      "sentence_ko": "영어는 국제 교육에서 지배적인 언어입니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Dominant",
+      "sentence_en": "Our company aims to become the dominant player in the market.",
+      "sentence_ko": "우리 회사는 시장에서 우세한 기업이 되는 것을 목표로 합니다.",
+      "tags": ["entrepreneur", "time", "social"]
+    },
+    {
+      "word": "Dominant",
+      "sentence_en": "She has a dominant personality that controls the social atmosphere.",
+      "sentence_ko": "그녀는 사교적인 분위기를 주도하는 지배적인 성격을 가지고 있습니다.",
+      "tags": ["social", "happy", "time"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "Every entrepreneur wants to be sovereign over their own decisions.",
+      "sentence_ko": "모든 기업가는 자신의 결정에 대해 자주적이고 싶어 합니다.",
+      "tags": ["entrepreneur", "time", "happy"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "Consumers are sovereign when choosing what to buy.",
+      "sentence_ko": "무엇을 살지 선택할 때 소비자는 주권을 가집니다.",
+      "tags": ["social", "time", "hobby"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "A sovereign nation creates its own education system.",
+      "sentence_ko": "주권 국가는 독자적인 교육 시스템을 만듭니다.",
+      "tags": ["education", "social", "study"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "You are the sovereign of your own schedule and time.",
+      "sentence_ko": "당신은 당신 자신의 일정과 시간의 주인입니다.",
+      "tags": ["schedule", "time", "happy"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "The king was the sovereign ruler of the land.",
+      "sentence_ko": "그 왕은 그 땅의 최고 통치자였습니다.",
+      "tags": ["social", "education", "time"]
+    },
+    {
+      "word": "Commanding",
+      "sentence_en": "The captain has a commanding presence on the soccer field.",
+      "sentence_ko": "주장은 축구장에서 위엄 있는 존재감을 뽐냅니다.",
+      "tags": ["soccer", "hobby", "social"]
+    },
+    {
+      "word": "Commanding",
+      "sentence_en": "She holds a commanding lead in the class grades.",
+      "sentence_ko": "그녀는 학급 성적에서 압도적인 우위를 점하고 있습니다.",
+      "tags": ["education", "study", "time"]
+    },
+    {
+      "word": "Commanding",
+      "sentence_en": "The hotel offers a commanding view of the city.",
+      "sentence_ko": "그 호텔은 도시가 내려다보이는 탁 트인 전망을 제공합니다.",
+      "tags": ["happy", "time", "social"]
+    },
+    {
+      "word": "Commanding",
+      "sentence_en": "He gave the team commanding instructions before the project.",
+      "sentence_ko": "그는 프로젝트 전에 팀에게 지휘하는 듯한 지시를 내렸습니다.",
+      "tags": ["entrepreneur", "schedule", "social"]
+    },
+    {
+      "word": "Commanding",
+      "sentence_en": "A commanding voice is useful when teaching large groups.",
+      "sentence_ko": "위엄 있는 목소리는 큰 그룹을 가르칠 때 유용합니다.",
+      "tags": ["education", "social", "study"]
+    },
+    {
+      "word": "Prevailing",
+      "sentence_en": "The prevailing mood at the party was happy and relaxed.",
+      "sentence_ko": "파티의 주된(지배적인) 분위기는 행복하고 편안했습니다.",
+      "tags": ["happy", "social", "time"]
+    },
+    {
+      "word": "Prevailing",
+      "sentence_en": "We must adapt to the prevailing market trends.",
+      "sentence_ko": "우리는 우세한 시장 트렌드에 적응해야 합니다.",
+      "tags": ["entrepreneur", "time", "study"]
+    },
+    {
+      "word": "Prevailing",
+      "sentence_en": "The prevailing wind made playing soccer difficult.",
+      "sentence_ko": "강하게 부는 바람 때문에 축구를 하기가 어려웠습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Prevailing",
+      "sentence_en": "Despite the prevailing opinion, he followed his own schedule.",
+      "sentence_ko": "지배적인 여론에도 불구하고, 그는 자신의 일정을 따랐습니다.",
+      "tags": ["schedule", "social", "time"]
+    },
+    {
+      "word": "Prevailing",
+      "sentence_en": "This is the prevailing method for cooking pasta in Italy.",
+      "sentence_ko": "이것이 이탈리아에서 파스타를 요리하는 널리 퍼진 방식입니다.",
+      "tags": ["cooking", "hobby", "education"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "He is very controlling about the ingredients used in his kitchen.",
+      "sentence_ko": "그는 자신의 주방에서 사용되는 재료에 대해 매우 통제적입니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "Controlling your study time is key to academic success.",
+      "sentence_ko": "공부 시간을 통제하는 것이 학업 성공의 열쇠입니다.",
+      "tags": ["study", "education", "time"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "The midfielder is good at controlling the pace of the game.",
+      "sentence_ko": "그 미드필더는 경기 템포를 조절하는 데 능숙합니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "An entrepreneur must be good at controlling expenses.",
+      "sentence_ko": "기업가는 비용을 관리(통제)하는 데 능숙해야 합니다.",
+      "tags": ["entrepreneur", "time", "social"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "She has a controlling interest in the new startup.",
+      "sentence_ko": "그녀는 새로운 스타트업의 지배적인 지분을 가지고 있습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Powerful",
+      "sentence_en": "Knowledge is the most powerful tool for changing the world.",
+      "sentence_ko": "지식은 세상을 바꾸는 가장 강력한 도구입니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Powerful",
+      "sentence_en": "He has a powerful kick that goalkeepers fear.",
+      "sentence_ko": "그는 골키퍼들이 두려워하는 강력한 킥을 가지고 있습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Powerful",
+      "sentence_en": "The blender is powerful enough to crush ice.",
+      "sentence_ko": "이 믹서는 얼음을 갈아버릴 만큼 강력합니다.",
+      "tags": ["cooking", "hobby", "time"]
+    },
+    {
+      "word": "Powerful",
+      "sentence_en": "She gave a powerful presentation to the investors.",
+      "sentence_ko": "그녀는 투자자들에게 강력한 프레젠테이션을 했습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Powerful",
+      "sentence_en": "Feeling happy is a powerful way to boost your health.",
+      "sentence_ko": "행복을 느끼는 것은 건강을 증진하는 강력한 방법입니다.",
+      "tags": ["happy", "social", "time"]
+    },
+    {
+      "word": "Mighty",
+      "sentence_en": "The mighty oak tree provided shade for our picnic.",
+      "sentence_ko": "그 거대한 참나무는 우리 소풍에 그늘을 제공했습니다.",
+      "tags": ["happy", "social", "time"]
+    },
+    {
+      "word": "Mighty",
+      "sentence_en": "Even a mighty entrepreneur can face failure.",
+      "sentence_ko": "아무리 대단한 기업가라도 실패를 겪을 수 있습니다.",
+      "tags": ["entrepreneur", "time", "education"]
+    },
+    {
+      "word": "Mighty",
+      "sentence_en": "The soccer team celebrated a mighty victory.",
+      "sentence_ko": "축구 팀은 대단한 승리를 축하했습니다.",
+      "tags": ["soccer", "hobby", "happy"]
+    },
+    {
+      "word": "Mighty",
+      "sentence_en": "He wields a mighty pen when writing social commentary.",
+      "sentence_ko": "그는 사회 논평을 쓸 때 강력한 필력을 휘어잡습니다.",
+      "tags": ["social", "hobby", "education"]
+    },
+    {
+      "word": "Mighty",
+      "sentence_en": "They put a mighty effort into finishing the schedule on time.",
+      "sentence_ko": "그들은 제시간에 일정을 마치기 위해 엄청난 노력을 기울였습니다.",
+      "tags": ["schedule", "time", "study"]
+    },
+    {
+      "word": "Supreme",
+      "sentence_en": "This pizza is the supreme choice for cheese lovers.",
+      "sentence_ko": "이 피자는 치즈 애호가들에게 최고의 선택입니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Supreme",
+      "sentence_en": "The Supreme Court makes the final legal decisions.",
+      "sentence_ko": "대법원은 최종적인 법적 판결을 내립니다.",
+      "tags": ["social", "education", "time"]
+    },
+    {
+      "word": "Supreme",
+      "sentence_en": "He holds supreme confidence in his business plan.",
+      "sentence_ko": "그는 자신의 사업 계획에 대해 최고의 자신감을 가지고 있습니다.",
+      "tags": ["entrepreneur", "time", "study"]
+    },
+    {
+      "word": "Supreme",
+      "sentence_en": "Winning the championship was the supreme moment of his career.",
+      "sentence_ko": "챔피언십 우승은 그의 경력에서 최고의 순간이었습니다.",
+      "tags": ["soccer", "hobby", "happy"]
+    },
+    {
+      "word": "Supreme",
+      "sentence_en": "Time management is of supreme importance for students.",
+      "sentence_ko": "시간 관리는 학생들에게 더할 나위 없이 중요합니다.",
+      "tags": ["time", "study", "education"]
+    },
+    {
+      "word": "Ruling",
+      "sentence_en": "The ruling party implemented new education policies.",
+      "sentence_ko": "집권당은 새로운 교육 정책을 시행했습니다.",
+      "tags": ["education", "social", "time"]
+    },
+    {
+      "word": "Ruling",
+      "sentence_en": "He has a ruling passion for cooking Italian food.",
+      "sentence_ko": "그는 이탈리아 요리에 대해 지배적인(강한) 열정을 가지고 있습니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Ruling",
+      "sentence_en": "The referee's ruling on the foul was controversial.",
+      "sentence_ko": "파울에 대한 심판의 판정은 논란이 되었습니다.",
+      "tags": ["soccer", "hobby", "social"]
+    },
+    {
+      "word": "Ruling",
+      "sentence_en": "Logic should be the ruling principle in your study.",
+      "sentence_ko": "논리는 당신의 공부에서 지배적인 원칙이어야 합니다.",
+      "tags": ["study", "education", "time"]
+    },
+    {
+      "word": "Ruling",
+      "sentence_en": "The ruling champion defended his title successfully.",
+      "sentence_ko": "현재 챔피언은 타이틀을 성공적으로 방어했습니다.",
+      "tags": ["hobby", "time", "happy"]
+    },
+    {
+      "word": "Governing",
+      "sentence_en": "The governing body of soccer sets the rules.",
+      "sentence_ko": "축구 관리 기구가 규칙을 정합니다.",
+      "tags": ["soccer", "hobby", "social"]
+    },
+    {
+      "word": "Governing",
+      "sentence_en": "Governing a startup requires strict schedule management.",
+      "sentence_ko": "스타트업을 관리하는 것은 철저한 일정 관리를 필요로 합니다.",
+      "tags": ["entrepreneur", "schedule", "time"]
+    },
+    {
+      "word": "Governing",
+      "sentence_en": "Self-discipline is the governing factor in effective study.",
+      "sentence_ko": "자기 절제는 효과적인 공부를 좌우하는 주된 요인입니다.",
+      "tags": ["study", "education", "time"]
+    },
+    {
+      "word": "Governing",
+      "sentence_en": "The governing board meets every month to discuss plans.",
+      "sentence_ko": "이사회는 매달 만나 계획을 논의합니다.",
+      "tags": ["social", "time", "schedule"]
+    },
+    {
+      "word": "Governing",
+      "sentence_en": "Passion is the governing force behind his cooking.",
+      "sentence_ko": "열정은 그의 요리 뒤에 있는 지배적인 힘입니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Reigning",
+      "sentence_en": "He is the reigning champion of the chess club.",
+      "sentence_ko": "그는 체스 클럽의 현재 챔피언입니다.",
+      "tags": ["hobby", "social", "time"]
+    },
+    {
+      "word": "Reigning",
+      "sentence_en": "The reigning queen visited the new school.",
+      "sentence_ko": "재위 중인 여왕이 새 학교를 방문했습니다.",
+      "tags": ["education", "social", "time"]
+    },
+    {
+      "word": "Reigning",
+      "sentence_en": "She is the reigning expert on social media marketing.",
+      "sentence_ko": "그녀는 소셜 미디어 마케팅 분야에서 현존하는 최고의 전문가입니다.",
+      "tags": ["entrepreneur", "social", "study"]
+    },
+    {
+      "word": "Reigning",
+      "sentence_en": "Despite the rain, happiness was reigning at the festival.",
+      "sentence_ko": "비가 왔지만, 축제에는 행복이 가득했습니다(지배했습니다).",
+      "tags": ["happy", "social", "time"]
+    },
+    {
+      "word": "Reigning",
+      "sentence_en": "The reigning team looks unbeatable this season.",
+      "sentence_ko": "현재 우승 팀은 이번 시즌에 천하무적처럼 보입니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Invincible",
+      "sentence_en": "After winning ten games, the soccer team felt invincible.",
+      "sentence_ko": "10경기를 이긴 후, 축구 팀은 천하무적이라고 느꼈습니다.",
+      "tags": ["soccer", "hobby", "happy"]
+    },
+    {
+      "word": "Invincible",
+      "sentence_en": "With a good schedule, you will feel invincible in your studies.",
+      "sentence_ko": "좋은 일정 관리가 있다면, 공부에 있어서 무적이라고 느낄 것입니다.",
+      "tags": ["study", "schedule", "education"]
+    },
+    {
+      "word": "Invincible",
+      "sentence_en": "The superhero in the movie seemed invincible.",
+      "sentence_ko": "영화 속 슈퍼히어로는 천하무적처럼 보였습니다.",
+      "tags": ["hobby", "time", "happy"]
+    },
+    {
+      "word": "Invincible",
+      "sentence_en": "No entrepreneur is invincible against market changes.",
+      "sentence_ko": "어떤 기업가도 시장 변화 앞에서는 무적일 수 없습니다.",
+      "tags": ["entrepreneur", "time", "social"]
+    },
+    {
+      "word": "Invincible",
+      "sentence_en": "Her invincible spirit helped her overcome the difficulty.",
+      "sentence_ko": "그녀의 불굴의 정신은 어려움을 극복하는 데 도움이 되었습니다.",
+      "tags": ["happy", "time", "education"]
+    },
+    {
+      "word": "Ascendant",
+      "sentence_en": "His career as an entrepreneur is currently ascendant.",
+      "sentence_ko": "기업가로서의 그의 경력은 현재 상승세를 타고 있습니다.",
+      "tags": ["entrepreneur", "time", "social"]
+    },
+    {
+      "word": "Ascendant",
+      "sentence_en": "Online education is ascendant compared to traditional methods.",
+      "sentence_ko": "온라인 교육은 전통적인 방식에 비해 상승세입니다.",
+      "tags": ["education", "study", "time"]
+    },
+    {
+      "word": "Ascendant",
+      "sentence_en": "The ascendant star played soccer with the local kids.",
+      "sentence_ko": "떠오르는 스타가 동네 아이들과 축구를 했습니다.",
+      "tags": ["soccer", "hobby", "happy"]
+    },
+    {
+      "word": "Ascendant",
+      "sentence_en": "Vegan cooking is ascendant in the culinary world.",
+      "sentence_ko": "비건 요리는 요리업계에서 상승세를 타고 있습니다.",
+      "tags": ["cooking", "hobby", "social"]
+    },
+    {
+      "word": "Ascendant",
+      "sentence_en": "Her influence in the social group remained ascendant.",
+      "sentence_ko": "사교 모임에서 그녀의 영향력은 계속해서 우위를 점했습니다.",
+      "tags": ["social", "time", "happy"]
+    },
+    {
+      "word": "Predominant",
+      "sentence_en": "Red is the predominant color in this painting.",
+      "sentence_ko": "이 그림에서 두드러진 색은 빨간색입니다.",
+      "tags": ["hobby", "time", "education"]
+    },
+    {
+      "word": "Predominant",
+      "sentence_en": "English is the predominant language used in global business.",
+      "sentence_ko": "영어는 글로벌 비즈니스에서 사용되는 주된 언어입니다.",
+      "tags": ["entrepreneur", "social", "study"]
+    },
+    {
+      "word": "Predominant",
+      "sentence_en": "The predominant feeling after the exam was relief.",
+      "sentence_ko": "시험 후의 지배적인 감정은 안도감이었습니다.",
+      "tags": ["study", "education", "happy"]
+    },
+    {
+      "word": "Predominant",
+      "sentence_en": "Passing the ball is the predominant strategy of our soccer team.",
+      "sentence_ko": "패스는 우리 축구 팀의 주된 전략입니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Predominant",
+      "sentence_en": "Garlic is the predominant flavor in this sauce.",
+      "sentence_ko": "이 소스에서 마늘은 두드러진 맛을 냅니다.",
+      "tags": ["cooking", "hobby", "time"]
+    },
+    {
+      "word": "Hegemonic",
+      "sentence_en": "The company fought against the hegemonic power of big tech.",
+      "sentence_ko": "그 회사는 거대 기술 기업의 패권적인 힘에 맞서 싸웠습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Hegemonic",
+      "sentence_en": "History studies often discuss hegemonic empires.",
+      "sentence_ko": "역사 공부에서는 종종 패권적인 제국들에 대해 논합니다.",
+      "tags": ["study", "education", "social"]
+    },
+    {
+      "word": "Hegemonic",
+      "sentence_en": "They challenged the hegemonic culture of the industry.",
+      "sentence_ko": "그들은 그 산업의 패권적인 문화에 도전했습니다.",
+      "tags": ["social", "time", "entrepreneur"]
+    },
+    {
+      "word": "Hegemonic",
+      "sentence_en": "Soccer has a hegemonic status in sports in this country.",
+      "sentence_ko": "이 나라에서 축구는 스포츠 중 패권적인(지배적인) 지위를 가집니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Hegemonic",
+      "sentence_en": "The debate was about the hegemonic influence of media.",
+      "sentence_ko": "그 토론은 미디어의 지배적인 영향력에 관한 것이었습니다.",
+      "tags": ["education", "social", "study"]
+    },
+    {
+      "word": "Omnipotent",
+      "sentence_en": "A CEO should not feel omnipotent; teamwork is key.",
+      "sentence_ko": "CEO는 전지전능하다고 느껴선 안 됩니다. 팀워크가 핵심입니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Omnipotent",
+      "sentence_en": "In his own kitchen, the chef felt omnipotent.",
+      "sentence_ko": "자신의 주방에서 셰프는 전지전능함을 느꼈습니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Omnipotent",
+      "sentence_en": "Young children often think their parents are omnipotent.",
+      "sentence_ko": "어린아이들은 종종 부모가 전지전능하다고 생각합니다.",
+      "tags": ["education", "social", "happy"]
+    },
+    {
+      "word": "Omnipotent",
+      "sentence_en": "No schedule is omnipotent; you must be flexible.",
+      "sentence_ko": "어떤 일정도 완벽(전지전능)하지 않습니다. 유연해야 합니다.",
+      "tags": ["schedule", "time", "study"]
+    },
+    {
+      "word": "Omnipotent",
+      "sentence_en": "The villain in the movie sought omnipotent power.",
+      "sentence_ko": "영화 속 악당은 전지전능한 힘을 추구했습니다.",
+      "tags": ["hobby", "time", "social"]
+    },
+    {
+      "word": "Unrivaled",
+      "sentence_en": "Her skill in cooking pasta is unrivaled in our family.",
+      "sentence_ko": "그녀의 파스타 요리 실력은 우리 가족 중에서 타의 추종을 불허합니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Unrivaled",
+      "sentence_en": "The view from the mountain top is unrivaled.",
+      "sentence_ko": "산 정상에서 보는 경치는 비할 데가 없습니다.",
+      "tags": ["happy", "hobby", "time"]
+    },
+    {
+      "word": "Unrivaled",
+      "sentence_en": "This university offers unrivaled opportunities for research.",
+      "sentence_ko": "이 대학교는 연구에 있어 경쟁자가 없는 기회를 제공합니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Unrivaled",
+      "sentence_en": "Our soccer team has an unrivaled record this year.",
+      "sentence_ko": "우리 축구 팀은 올해 독보적인 기록을 가지고 있습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Unrivaled",
+      "sentence_en": "The entrepreneur's success is unrivaled in the tech industry.",
+      "sentence_ko": "그 기업가의 성공은 기술 업계에서 비할 데가 없습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Superior",
+      "sentence_en": "This new study method produces superior results.",
+      "sentence_ko": "이 새로운 공부 방법은 우월한 결과를 낳습니다.",
+      "tags": ["study", "education", "time"]
+    },
+    {
+      "word": "Superior",
+      "sentence_en": "I prefer using superior ingredients when cooking.",
+      "sentence_ko": "저는 요리할 때 상급의 재료를 사용하는 것을 선호합니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Superior",
+      "sentence_en": "Always be polite to your superior officers.",
+      "sentence_ko": "상급자에게는 항상 예의를 갖추세요.",
+      "tags": ["social", "time", "education"]
+    },
+    {
+      "word": "Superior",
+      "sentence_en": "The team showed superior tactics in the second half.",
+      "sentence_ko": "그 팀은 후반전에 우월한 전술을 보여주었습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Superior",
+      "sentence_en": "The entrepreneur aimed to provide superior customer service.",
+      "sentence_ko": "그 기업가는 남보다 뛰어난 고객 서비스를 제공하는 것을 목표로 했습니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Chief",
+      "sentence_en": "The chief reason for my happiness is my family.",
+      "sentence_ko": "나의 행복의 주된 이유는 가족입니다.",
+      "tags": ["happy", "social", "time"]
+    },
+    {
+      "word": "Chief",
+      "sentence_en": "She is the chief editor of the school newspaper.",
+      "sentence_ko": "그녀는 학교 신문의 편집장입니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Chief",
+      "sentence_en": "The chief ingredient in this soup is pumpkin.",
+      "sentence_ko": "이 수프의 주된 재료는 호박입니다.",
+      "tags": ["cooking", "hobby", "time"]
+    },
+    {
+      "word": "Chief",
+      "sentence_en": "He met with the chief executives to discuss the schedule.",
+      "sentence_ko": "그는 일정을 논의하기 위해 최고 경영자들과 만났습니다.",
+      "tags": ["schedule", "entrepreneur", "time"]
+    },
+    {
+      "word": "Chief",
+      "sentence_en": "Our chief goal is to win the soccer tournament.",
+      "sentence_ko": "우리의 주된 목표는 축구 대회에서 우승하는 것입니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Lead",
+      "sentence_en": "She will lead the study group this semester.",
+      "sentence_ko": "그녀는 이번 학기에 스터디 그룹을 이끌 것입니다.",
+      "tags": ["study", "education", "social"]
+    },
+    {
+      "word": "Lead",
+      "sentence_en": "A good entrepreneur knows how to lead a team.",
+      "sentence_ko": "훌륭한 기업가는 팀을 이끄는 법을 압니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Lead",
+      "sentence_en": "The captain will lead the soccer players onto the field.",
+      "sentence_ko": "주장이 축구 선수들을 경기장으로 이끌 것입니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Lead",
+      "sentence_en": "I need to lead a balanced life to be happy.",
+      "sentence_ko": "행복하기 위해서는 균형 잡힌 삶을 영위해야(이끌어야) 합니다.",
+      "tags": ["happy", "time", "social"]
+    },
+    {
+      "word": "Lead",
+      "sentence_en": "This schedule will lead us to finish the project early.",
+      "sentence_ko": "이 일정은 우리가 프로젝트를 일찍 끝내도록 이끌 것입니다.",
+      "tags": ["schedule", "time", "education"]
+    },
+    {
+      "word": "Directing",
+      "sentence_en": "He is directing a play at the local school.",
+      "sentence_ko": "그는 지역 학교에서 연극을 지휘(연출)하고 있습니다.",
+      "tags": ["education", "hobby", "social"]
+    },
+    {
+      "word": "Directing",
+      "sentence_en": "Directing traffic during the event was difficult.",
+      "sentence_ko": "행사 중 교통을 정리하는(지시하는) 것은 어려웠습니다.",
+      "tags": ["social", "time", "hobby"]
+    },
+    {
+      "word": "Directing",
+      "sentence_en": "The entrepreneur is directing the company towards new markets.",
+      "sentence_ko": "그 기업가는 회사를 새로운 시장으로 이끌고(지시하고) 있습니다.",
+      "tags": ["entrepreneur", "time", "social"]
+    },
+    {
+      "word": "Directing",
+      "sentence_en": "She enjoys directing her friends in cooking classes.",
+      "sentence_ko": "그녀는 요리 교실에서 친구들을 지도하는 것을 즐깁니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Directing",
+      "sentence_en": "The coach is directing the soccer players from the sidelines.",
+      "sentence_ko": "코치는 사이드라인에서 축구 선수들에게 지시를 내리고 있습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Managing",
+      "sentence_en": "Managing your time is crucial for exam preparation.",
+      "sentence_ko": "시간 관리는 시험 준비에 있어 매우 중요합니다.",
+      "tags": ["time", "study", "education"]
+    },
+    {
+      "word": "Managing",
+      "sentence_en": "She is managing a busy restaurant downtown.",
+      "sentence_ko": "그녀는 시내에서 바쁜 식당을 운영하고 있습니다.",
+      "tags": ["social", "time", "entrepreneur"]
+    },
+    {
+      "word": "Managing",
+      "sentence_en": "Managing a soccer team requires patience.",
+      "sentence_ko": "축구 팀을 관리하는 것은 인내심을 필요로 합니다.",
+      "tags": ["soccer", "hobby", "social"]
+    },
+    {
+      "word": "Managing",
+      "sentence_en": "He finds happiness in managing his small garden.",
+      "sentence_ko": "그는 자신의 작은 정원을 가꾸는(관리하는) 데서 행복을 찾습니다.",
+      "tags": ["happy", "hobby", "time"]
+    },
+    {
+      "word": "Managing",
+      "sentence_en": "The student is managing a difficult class schedule.",
+      "sentence_ko": "그 학생은 어려운 수업 일정을 관리하고 있습니다.",
+      "tags": ["schedule", "study", "education"]
+    },
+    {
+      "word": "Supervising",
+      "sentence_en": "The teacher is supervising the exam in the hall.",
+      "sentence_ko": "선생님은 강당에서 시험을 감독하고 있습니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Supervising",
+      "sentence_en": "He is supervising the construction of the new kitchen.",
+      "sentence_ko": "그는 새 주방 공사를 감독하고 있습니다.",
+      "tags": ["cooking", "time", "social"]
+    },
+    {
+      "word": "Supervising",
+      "sentence_en": "Supervising a large team is a challenge for any entrepreneur.",
+      "sentence_ko": "큰 팀을 감독하는 것은 모든 기업가에게 도전입니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Supervising",
+      "sentence_en": "She enjoys supervising the children's soccer practice.",
+      "sentence_ko": "그녀는 아이들의 축구 연습을 지켜보는(감독하는) 것을 즐깁니다.",
+      "tags": ["soccer", "hobby", "happy"]
+    },
+    {
+      "word": "Supervising",
+      "sentence_en": "Strictly supervising your schedule can increase productivity.",
+      "sentence_ko": "일정을 엄격하게 감독하면 생산성을 높일 수 있습니다.",
+      "tags": ["schedule", "time", "study"]
+    },
+    {
+      "word": "In charge",
+      "sentence_en": "Who is in charge of the cooking for the party?",
+      "sentence_ko": "파티 요리 담당은 누구입니까?",
+      "tags": ["cooking", "hobby", "social"]
+    },
+    {
+      "word": "In charge",
+      "sentence_en": "The student was put in charge of the class project.",
+      "sentence_ko": "그 학생은 학급 프로젝트의 책임을 맡게 되었습니다.",
+      "tags": ["education", "study", "school"]
+    },
+    {
+      "word": "In charge",
+      "sentence_en": "Being in charge of a company brings great responsibility.",
+      "sentence_ko": "회사를 책임진다는 것은 큰 책임감을 가져옵니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "In charge",
+      "sentence_en": "The captain is in charge on the soccer field.",
+      "sentence_ko": "축구장에서는 주장이 책임을 집니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "In charge",
+      "sentence_en": "I am in charge of making my own happy memories.",
+      "sentence_ko": "나만의 행복한 추억을 만드는 것은 내 책임입니다.",
+      "tags": ["happy", "hobby", "time"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "He gave a masterful presentation on business strategy.",
+      "sentence_ko": "그는 사업 전략에 대해 능수능란한 프레젠테이션을 했습니다.",
+      "tags": ["entrepreneur", "study", "social"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "Her masterful use of spices made the dish delicious.",
+      "sentence_ko": "그녀의 능수능란한 향신료 사용이 요리를 맛있게 만들었습니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "The player scored a goal with a masterful kick.",
+      "sentence_ko": "그 선수는 훌륭한 킥으로 골을 넣었습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "She showed masterful control over her study schedule.",
+      "sentence_ko": "그녀는 자신의 공부 일정에 대해 완벽한(능수능란한) 통제력을 보여주었습니다.",
+      "tags": ["schedule", "study", "education"]
+    },
+    {
+      "word": "Masterful",
+      "sentence_en": "The teacher handled the noisy class in a masterful way.",
+      "sentence_ko": "선생님은 시끄러운 학급을 능숙하게 다루었습니다.",
+      "tags": ["education", "social", "time"]
+    },
+    {
+      "word": "Overriding",
+      "sentence_en": "Safety is the overriding concern in our travel schedule.",
+      "sentence_ko": "우리 여행 일정에서 안전은 최우선 고려 사항입니다.",
+      "tags": ["schedule", "time", "social"]
+    },
+    {
+      "word": "Overriding",
+      "sentence_en": "His overriding passion for soccer dictates his weekends.",
+      "sentence_ko": "축구에 대한 그의 지배적인 열정이 그의 주말을 좌우합니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Overriding",
+      "sentence_en": "The overriding goal of education is to foster critical thinking.",
+      "sentence_ko": "교육의 최우선 목표는 비판적 사고를 기르는 것입니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Overriding",
+      "sentence_en": "Customer satisfaction is the overriding principle for the entrepreneur.",
+      "sentence_ko": "고객 만족은 그 기업가의 최우선 원칙입니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Overriding",
+      "sentence_en": "Happiness should be the overriding theme of your life.",
+      "sentence_ko": "행복은 당신 삶의 가장 중요한 테마여야 합니다.",
+      "tags": ["happy", "time", "social"]
+    },
+    {
+      "word": "Preeminent",
+      "sentence_en": "He is the preeminent scholar in the field of history.",
+      "sentence_ko": "그는 역사 분야에서 독보적인(탁월한) 학자입니다.",
+      "tags": ["education", "study", "social"]
+    },
+    {
+      "word": "Preeminent",
+      "sentence_en": "This restaurant is preeminent for its French cooking.",
+      "sentence_ko": "이 식당은 프랑스 요리로 탁월합니다.",
+      "tags": ["cooking", "hobby", "happy"]
+    },
+    {
+      "word": "Preeminent",
+      "sentence_en": "The club is the preeminent soccer academy in the city.",
+      "sentence_ko": "그 클럽은 시에서 으뜸가는 축구 아카데미입니다.",
+      "tags": ["soccer", "hobby", "education"]
+    },
+    {
+      "word": "Preeminent",
+      "sentence_en": "Time is the preeminent resource for any student.",
+      "sentence_ko": "시간은 모든 학생에게 가장 탁월한(중요한) 자원입니다.",
+      "tags": ["time", "study", "schedule"]
+    },
+    {
+      "word": "Preeminent",
+      "sentence_en": "She is the preeminent leader in her social circle.",
+      "sentence_ko": "그녀는 자신의 사교 모임에서 단연 돋보이는 리더입니다.",
+      "tags": ["social", "happy", "time"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "You need to be assertive to maintain your study schedule.",
+      "sentence_ko": "공부 일정을 지키려면 단호해야 합니다.",
+      "tags": ["schedule", "study", "education"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "An assertive entrepreneur negotiates better deals.",
+      "sentence_ko": "자기주장이 확실한 기업가가 더 나은 거래를 성사시킵니다.",
+      "tags": ["entrepreneur", "social", "time"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "She was assertive about choosing the restaurant for dinner.",
+      "sentence_ko": "그녀는 저녁 식사할 식당을 고르는 데 있어 자기 의견을 확실히 했습니다.",
+      "tags": ["cooking", "social", "happy"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "Being assertive on the field helped him win the soccer match.",
+      "sentence_ko": "경기장에서 적극적으로 임한 것이 그가 축구 경기에서 이기는 데 도움이 되었습니다.",
+      "tags": ["soccer", "hobby", "time"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "Teachers encourage students to be assertive in asking questions.",
+      "sentence_ko": "선생님들은 학생들이 질문할 때 적극적이기를 장려합니다.",
+      "tags": ["education", "study", "social"]
+    }
+  ]
+}

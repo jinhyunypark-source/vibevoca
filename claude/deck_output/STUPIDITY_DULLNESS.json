@@ -1,0 +1,972 @@
+{
+  "deck_title": "STUPIDITY_DULLNESS",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Stupid",
+      "sentence_en": "It was stupid of me to leave my wallet at the restaurant.",
+      "sentence_ko": "레스토랑에 지갑을 두고 온 건 내가 멍청했어.",
+      "tags": ["restaurant", "mistake"]
+    },
+    {
+      "word": "Stupid",
+      "sentence_en": "Don't make stupid decisions when planning your travel schedule.",
+      "sentence_ko": "여행 스케줄을 계획할 때 멍청한 결정을 하지 마.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Stupid",
+      "sentence_en": "The movie had a stupid plot that made no sense.",
+      "sentence_ko": "그 영화는 말도 안 되는 멍청한 줄거리였어.",
+      "tags": ["movie", "criticism"]
+    },
+    {
+      "word": "Stupid",
+      "sentence_en": "I feel stupid for not understanding such a simple concept.",
+      "sentence_ko": "그렇게 간단한 개념을 이해 못 해서 멍청하게 느껴져.",
+      "tags": ["learning", "sad"]
+    },
+    {
+      "word": "Stupid",
+      "sentence_en": "That was a stupid thing to say during our daily conversation.",
+      "sentence_ko": "일상 대화 중에 그렇게 말한 건 멍청했어.",
+      "tags": ["daily_life", "conversation"]
+    },
+    {
+      "word": "Stupid",
+      "sentence_en": "The health advice he gave was completely stupid and dangerous.",
+      "sentence_ko": "그가 준 건강 조언은 완전히 멍청하고 위험했다.",
+      "tags": ["health", "advice"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "It was dumb to go hiking without checking the weather.",
+      "sentence_ko": "날씨 확인 안 하고 등산 간 건 바보 같았어.",
+      "tags": ["travel", "outdoor"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "I made a dumb mistake at the restaurant by ordering twice.",
+      "sentence_ko": "레스토랑에서 두 번 주문해서 바보 같은 실수를 했어.",
+      "tags": ["restaurant", "mistake"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "That's the dumbest idea I've heard all day.",
+      "sentence_ko": "그건 오늘 하루 들은 것 중 가장 바보 같은 아이디어야.",
+      "tags": ["daily_life", "criticism"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "Don't do anything dumb that could affect your health.",
+      "sentence_ko": "건강에 영향을 줄 수 있는 바보 같은 짓은 하지 마.",
+      "tags": ["health", "advice"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "The movie's ending was so dumb it ruined everything.",
+      "sentence_ko": "영화 결말이 너무 바보 같아서 모든 걸 망쳤어.",
+      "tags": ["movie", "disappointing"]
+    },
+    {
+      "word": "Dumb",
+      "sentence_en": "I felt dumb for getting lost in such a familiar place.",
+      "sentence_ko": "그렇게 익숙한 장소에서 길을 잃어서 바보 같았어.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Idiotic",
+      "sentence_en": "The idiotic decision to cancel the trip made everyone sad.",
+      "sentence_ko": "여행을 취소한 백치 같은 결정이 모두를 슬프게 만들었다.",
+      "tags": ["travel", "sad"]
+    },
+    {
+      "word": "Idiotic",
+      "sentence_en": "His idiotic behavior at the restaurant embarrassed the whole family.",
+      "sentence_ko": "레스토랑에서 그의 백치 같은 행동이 온 가족을 창피하게 만들었다.",
+      "tags": ["restaurant", "embarrassing"]
+    },
+    {
+      "word": "Idiotic",
+      "sentence_en": "It's idiotic to ignore health warnings from professionals.",
+      "sentence_ko": "전문가의 건강 경고를 무시하는 건 백치 같은 짓이야.",
+      "tags": ["health", "warning"]
+    },
+    {
+      "word": "Idiotic",
+      "sentence_en": "The movie portrayed an idiotic character who made terrible decisions.",
+      "sentence_ko": "영화는 끔찍한 결정을 내리는 백치 같은 캐릭터를 그렸다.",
+      "tags": ["movie", "character"]
+    },
+    {
+      "word": "Idiotic",
+      "sentence_en": "That idiotic schedule change ruined our entire wellness retreat.",
+      "sentence_ko": "그 백치 같은 스케줄 변경이 우리 전체 웰니스 휴양을 망쳤다.",
+      "tags": ["wellness", "schedule"]
+    },
+    {
+      "word": "Moronic",
+      "sentence_en": "The moronic plan to drive without GPS got us completely lost.",
+      "sentence_ko": "GPS 없이 운전하겠다는 저능한 계획이 우리를 완전히 길 잃게 만들었다.",
+      "tags": ["travel", "mistake"]
+    },
+    {
+      "word": "Moronic",
+      "sentence_en": "It was moronic to ignore the restaurant's closing time.",
+      "sentence_ko": "레스토랑 마감 시간을 무시한 건 저능했어.",
+      "tags": ["restaurant", "planning"]
+    },
+    {
+      "word": "Moronic",
+      "sentence_en": "His moronic attitude toward learning prevented any real progress.",
+      "sentence_ko": "학습에 대한 그의 저능한 태도가 실질적 진전을 막았다.",
+      "tags": ["learning", "attitude"]
+    },
+    {
+      "word": "Moronic",
+      "sentence_en": "The moronic decision made me feel sad and disappointed.",
+      "sentence_ko": "저능한 결정이 나를 슬프고 실망하게 만들었다.",
+      "tags": ["sad", "emotion"]
+    },
+    {
+      "word": "Moronic",
+      "sentence_en": "That was a moronic thing to say about someone's health condition.",
+      "sentence_ko": "누군가의 건강 상태에 대해 그렇게 말한 건 저능했어.",
+      "tags": ["health", "insensitive"]
+    },
+    {
+      "word": "Imbecilic",
+      "sentence_en": "The imbecilic plot twist ruined what could have been a good movie.",
+      "sentence_ko": "천치 같은 반전이 좋은 영화가 될 수 있었던 걸 망쳤다.",
+      "tags": ["movie", "disappointing"]
+    },
+    {
+      "word": "Imbecilic",
+      "sentence_en": "His imbecilic approach to daily tasks frustrated everyone around him.",
+      "sentence_ko": "일상 업무에 대한 그의 천치 같은 접근법이 주변 모두를 좌절시켰다.",
+      "tags": ["daily_life", "frustration"]
+    },
+    {
+      "word": "Imbecilic",
+      "sentence_en": "It's imbecilic to ignore basic health and wellness principles.",
+      "sentence_ko": "기본적인 건강과 웰니스 원칙을 무시하는 건 천치 같은 짓이야.",
+      "tags": ["health", "wellness"]
+    },
+    {
+      "word": "Imbecilic",
+      "sentence_en": "The imbecilic travel schedule left us exhausted and sad.",
+      "sentence_ko": "천치 같은 여행 스케줄이 우리를 지치고 슬프게 만들었다.",
+      "tags": ["travel", "sad"]
+    },
+    {
+      "word": "Imbecilic",
+      "sentence_en": "That imbecilic suggestion at the restaurant meeting was embarrassing.",
+      "sentence_ko": "레스토랑 회의에서 그 천치 같은 제안은 창피했다.",
+      "tags": ["restaurant", "embarrassing"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "It was foolish to spend all my money before the trip.",
+      "sentence_ko": "여행 전에 돈을 다 쓴 건 어리석었어.",
+      "tags": ["travel", "money"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "Don't make foolish decisions about your health without consulting a doctor.",
+      "sentence_ko": "의사와 상담 없이 건강에 대한 어리석은 결정을 하지 마.",
+      "tags": ["health", "advice"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "The foolish mistake cost us the entire day at that place.",
+      "sentence_ko": "어리석은 실수가 그 장소에서 하루 전체를 날렸다.",
+      "tags": ["place", "time"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "I felt foolish for not learning from my previous mistakes.",
+      "sentence_ko": "이전 실수로부터 배우지 못해서 어리석게 느껴졌어.",
+      "tags": ["learning", "regret"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "The movie character's foolish choices led to a sad ending.",
+      "sentence_ko": "영화 캐릭터의 어리석은 선택이 슬픈 결말로 이어졌다.",
+      "tags": ["movie", "sad"]
+    },
+    {
+      "word": "Foolish",
+      "sentence_en": "It's foolish to skip meals when following a wellness routine.",
+      "sentence_ko": "웰니스 루틴을 따를 때 식사를 거르는 건 어리석어.",
+      "tags": ["wellness", "health"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "That was a silly question to ask at the restaurant.",
+      "sentence_ko": "레스토랑에서 물어본 건 철없는 질문이었어.",
+      "tags": ["restaurant", "social"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "Don't be silly, of course you can learn this skill!",
+      "sentence_ko": "바보 같은 소리 하지 마, 당연히 이 기술 배울 수 있어!",
+      "tags": ["learning", "encouragement"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "The movie had some silly moments that made everyone laugh.",
+      "sentence_ko": "영화는 모두를 웃게 만든 철없는 순간들이 있었다.",
+      "tags": ["movie", "comedy"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "I made a silly mistake with my daily schedule today.",
+      "sentence_ko": "오늘 일과 스케줄에서 바보 같은 실수를 했어.",
+      "tags": ["daily_life", "schedule"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "Stop being silly and take your health seriously.",
+      "sentence_ko": "철없게 굴지 말고 건강을 진지하게 생각해.",
+      "tags": ["health", "serious"]
+    },
+    {
+      "word": "Silly",
+      "sentence_en": "That silly decision to skip breakfast affected my entire day.",
+      "sentence_ko": "아침을 거르겠다는 철없는 결정이 내 하루 전체에 영향을 미쳤다.",
+      "tags": ["daily_life", "health"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "The prices at that restaurant were absolutely ridiculous.",
+      "sentence_ko": "그 레스토랑 가격은 정말 터무니없었어.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "It's ridiculous to travel without any health insurance.",
+      "sentence_ko": "건강보험 없이 여행하는 건 터무니없어.",
+      "tags": ["travel", "health"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "The movie's ridiculous plot made it hard to watch.",
+      "sentence_ko": "영화의 터무니없는 줄거리가 보기 힘들게 만들었다.",
+      "tags": ["movie", "bad"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "The schedule changes were ridiculous and made everyone sad.",
+      "sentence_ko": "스케줄 변경이 터무니없어서 모두를 슬프게 만들었다.",
+      "tags": ["schedule", "sad"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "That's a ridiculous way to approach learning new skills.",
+      "sentence_ko": "새로운 기술을 배우는 데 그건 터무니없는 방법이야.",
+      "tags": ["learning", "method"]
+    },
+    {
+      "word": "Ridiculous",
+      "sentence_en": "The wellness program's requirements seemed ridiculous at first.",
+      "sentence_ko": "웰니스 프로그램 요구사항이 처음엔 터무니없어 보였다.",
+      "tags": ["wellness", "program"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "The idea of traveling without planning anything is absurd.",
+      "sentence_ko": "아무 계획 없이 여행한다는 생각은 부조리해.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "It's absurd to expect good health without proper wellness habits.",
+      "sentence_ko": "적절한 웰니스 습관 없이 좋은 건강을 기대하는 건 불합리해.",
+      "tags": ["health", "wellness"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "The restaurant's policy seemed absurd to all the customers.",
+      "sentence_ko": "레스토랑 정책이 모든 손님들에게 부조리해 보였다.",
+      "tags": ["restaurant", "policy"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "The movie's absurd ending left everyone confused and sad.",
+      "sentence_ko": "영화의 부조리한 결말이 모두를 혼란스럽고 슬프게 만들었다.",
+      "tags": ["movie", "sad"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "It's absurd to think you can learn without making mistakes.",
+      "sentence_ko": "실수 없이 배울 수 있다고 생각하는 건 불합리해.",
+      "tags": ["learning", "reality"]
+    },
+    {
+      "word": "Absurd",
+      "sentence_en": "The daily schedule was so absurd that nobody could follow it.",
+      "sentence_ko": "일과 스케줄이 너무 부조리해서 아무도 따를 수 없었다.",
+      "tags": ["daily_life", "schedule"]
+    },
+    {
+      "word": "Ludicrous",
+      "sentence_en": "The travel delay was ludicrous and made us miss everything.",
+      "sentence_ko": "여행 지연이 우스꽝스러울 정도여서 모든 걸 놓치게 만들었다.",
+      "tags": ["travel", "delay"]
+    },
+    {
+      "word": "Ludicrous",
+      "sentence_en": "It's ludicrous to ignore basic health advice from doctors.",
+      "sentence_ko": "의사의 기본적인 건강 조언을 무시하는 건 우스꽝스러워.",
+      "tags": ["health", "advice"]
+    },
+    {
+      "word": "Ludicrous",
+      "sentence_en": "The restaurant charged ludicrous prices for tiny portions.",
+      "sentence_ko": "레스토랑은 작은 양에 우스꽝스러운 가격을 받았다.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Ludicrous",
+      "sentence_en": "The movie's special effects were so bad they looked ludicrous.",
+      "sentence_ko": "영화의 특수효과가 너무 나빠서 우스꽝스러워 보였다.",
+      "tags": ["movie", "quality"]
+    },
+    {
+      "word": "Ludicrous",
+      "sentence_en": "The learning method they suggested was absolutely ludicrous.",
+      "sentence_ko": "그들이 제안한 학습 방법은 정말 우스꽝스러웠다.",
+      "tags": ["learning", "method"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "The preposterous schedule left no time for wellness activities.",
+      "sentence_ko": "가당찮은 스케줄이 웰니스 활동을 위한 시간을 전혀 남기지 않았다.",
+      "tags": ["schedule", "wellness"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "It's preposterous to travel to that place without proper research.",
+      "sentence_ko": "적절한 조사 없이 그 장소로 여행하는 건 가당찮아.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "The restaurant's preposterous rules drove customers away.",
+      "sentence_ko": "레스토랑의 가당찮은 규칙이 고객들을 쫓아냈다.",
+      "tags": ["restaurant", "business"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "The movie's preposterous plot was criticized by everyone.",
+      "sentence_ko": "영화의 가당찮은 줄거리는 모두에게 비판받았다.",
+      "tags": ["movie", "criticism"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "That preposterous health claim has no scientific basis.",
+      "sentence_ko": "그 가당찮은 건강 주장은 과학적 근거가 없어.",
+      "tags": ["health", "misinformation"]
+    },
+    {
+      "word": "Preposterous",
+      "sentence_en": "The idea that learning requires no effort is preposterous.",
+      "sentence_ko": "학습이 노력을 필요로 하지 않는다는 생각은 가당찮아.",
+      "tags": ["learning", "reality"]
+    },
+    {
+      "word": "Senseless",
+      "sentence_en": "The senseless violence in the movie made me sad.",
+      "sentence_ko": "영화의 무분별한 폭력이 나를 슬프게 만들었다.",
+      "tags": ["movie", "sad"]
+    },
+    {
+      "word": "Senseless",
+      "sentence_en": "It's senseless to risk your health for such minor gains.",
+      "sentence_ko": "그런 사소한 이득을 위해 건강을 위험에 빠뜨리는 건 무분별해.",
+      "tags": ["health", "risk"]
+    },
+    {
+      "word": "Senseless",
+      "sentence_en": "The senseless travel plan wasted our entire vacation.",
+      "sentence_ko": "무분별한 여행 계획이 우리 휴가 전체를 낭비했다.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Senseless",
+      "sentence_en": "Senseless spending at restaurants left me broke by month's end.",
+      "sentence_ko": "레스토랑에서 무분별한 지출이 달 말에 나를 빈털터리로 만들었다.",
+      "tags": ["restaurant", "money"]
+    },
+    {
+      "word": "Senseless",
+      "sentence_en": "The senseless daily routine was affecting my wellness badly.",
+      "sentence_ko": "무의미한 일상 루틴이 내 웰니스에 나쁜 영향을 미쳤다.",
+      "tags": ["daily_life", "wellness"]
+    },
+    {
+      "word": "Mindless",
+      "sentence_en": "Mindless scrolling through my phone wasted hours of study time.",
+      "sentence_ko": "생각 없이 폰을 스크롤하느라 공부 시간을 몇 시간 낭비했다.",
+      "tags": ["daily_life", "learning"]
+    },
+    {
+      "word": "Mindless",
+      "sentence_en": "The mindless eating at the restaurant made me feel sick.",
+      "sentence_ko": "레스토랑에서 생각 없이 먹느라 속이 안 좋아졌다.",
+      "tags": ["restaurant", "health"]
+    },
+    {
+      "word": "Mindless",
+      "sentence_en": "Mindless travel without planning led to many problems.",
+      "sentence_ko": "계획 없이 생각 없는 여행이 많은 문제로 이어졌다.",
+      "tags": ["travel", "problems"]
+    },
+    {
+      "word": "Mindless",
+      "sentence_en": "The movie was mindless entertainment with no real substance.",
+      "sentence_ko": "영화는 실질적 내용 없는 생각 없는 오락거리였다.",
+      "tags": ["movie", "shallow"]
+    },
+    {
+      "word": "Mindless",
+      "sentence_en": "Mindless daily routines can harm your mental wellness.",
+      "sentence_ko": "생각 없는 일상 루틴이 정신 건강에 해를 끼칠 수 있다.",
+      "tags": ["daily_life", "wellness"]
+    },
+    {
+      "word": "Brainless",
+      "sentence_en": "The brainless decision to skip the health check cost him dearly.",
+      "sentence_ko": "건강검진을 건너뛴 뇌 없는 결정이 그에게 큰 대가를 치르게 했다.",
+      "tags": ["health", "regret"]
+    },
+    {
+      "word": "Brainless",
+      "sentence_en": "That was a brainless move that ruined our travel plans.",
+      "sentence_ko": "그건 우리 여행 계획을 망친 멍청한 행동이었어.",
+      "tags": ["travel", "mistake"]
+    },
+    {
+      "word": "Brainless",
+      "sentence_en": "The restaurant's brainless policy confused all the customers.",
+      "sentence_ko": "레스토랑의 멍청한 정책이 모든 손님을 혼란스럽게 했다.",
+      "tags": ["restaurant", "confusion"]
+    },
+    {
+      "word": "Brainless",
+      "sentence_en": "The movie character made one brainless choice after another.",
+      "sentence_ko": "영화 캐릭터는 멍청한 선택을 연달아 했다.",
+      "tags": ["movie", "character"]
+    },
+    {
+      "word": "Brainless",
+      "sentence_en": "Brainless learning methods will never lead to real understanding.",
+      "sentence_ko": "뇌 없는 학습 방법은 절대 진정한 이해로 이어지지 않아.",
+      "tags": ["learning", "method"]
+    },
+    {
+      "word": "Vacuous",
+      "sentence_en": "The vacuous conversation at the restaurant bored everyone.",
+      "sentence_ko": "레스토랑에서 멍한 대화가 모두를 지루하게 만들었다.",
+      "tags": ["restaurant", "boring"]
+    },
+    {
+      "word": "Vacuous",
+      "sentence_en": "His vacuous stare suggested he wasn't learning anything.",
+      "sentence_ko": "그의 멍한 응시가 아무것도 배우지 못하고 있음을 암시했다.",
+      "tags": ["learning", "attention"]
+    },
+    {
+      "word": "Vacuous",
+      "sentence_en": "The movie was full of vacuous dialogue and empty characters.",
+      "sentence_ko": "영화는 공허한 대사와 빈 캐릭터들로 가득했다.",
+      "tags": ["movie", "quality"]
+    },
+    {
+      "word": "Vacuous",
+      "sentence_en": "The wellness guru's vacuous advice helped nobody.",
+      "sentence_ko": "웰니스 구루의 공허한 조언은 아무에게도 도움이 안 됐다.",
+      "tags": ["wellness", "useless"]
+    },
+    {
+      "word": "Vacuous",
+      "sentence_en": "Her vacuous expression during the discussion was concerning.",
+      "sentence_ko": "토론 중 그녀의 멍한 표정이 걱정스러웠다.",
+      "tags": ["daily_life", "concern"]
+    },
+    {
+      "word": "Vapid",
+      "sentence_en": "The vapid movie failed to engage any of the audience.",
+      "sentence_ko": "흥미롭지 못한 영화가 관객 누구도 사로잡지 못했다.",
+      "tags": ["movie", "boring"]
+    },
+    {
+      "word": "Vapid",
+      "sentence_en": "The conversation at the restaurant was vapid and uninspiring.",
+      "sentence_ko": "레스토랑에서 대화는 김빠지고 영감을 주지 못했다.",
+      "tags": ["restaurant", "boring"]
+    },
+    {
+      "word": "Vapid",
+      "sentence_en": "His vapid comments about wellness showed no real understanding.",
+      "sentence_ko": "웰니스에 대한 그의 김빠진 코멘트는 진정한 이해가 없음을 보여줬다.",
+      "tags": ["wellness", "shallow"]
+    },
+    {
+      "word": "Vapid",
+      "sentence_en": "The vapid travel guide provided no useful information.",
+      "sentence_ko": "흥미롭지 못한 여행 가이드는 유용한 정보를 전혀 제공하지 않았다.",
+      "tags": ["travel", "useless"]
+    },
+    {
+      "word": "Vapid",
+      "sentence_en": "The learning material was vapid and failed to teach anything.",
+      "sentence_ko": "학습 자료는 김빠져서 아무것도 가르치지 못했다.",
+      "tags": ["learning", "ineffective"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "He's too dense to understand the health risks involved.",
+      "sentence_ko": "그는 너무 둔해서 관련된 건강 위험을 이해하지 못해.",
+      "tags": ["health", "understanding"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The student was dense and struggled with basic learning concepts.",
+      "sentence_ko": "그 학생은 둔해서 기본적인 학습 개념을 힘들어했다.",
+      "tags": ["learning", "difficulty"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "I felt dense for not getting the joke at the restaurant.",
+      "sentence_ko": "레스토랑에서 농담을 이해 못 해서 둔하게 느껴졌어.",
+      "tags": ["restaurant", "social"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The movie's plot was simple, but I was too dense to follow.",
+      "sentence_ko": "영화 줄거리는 간단했지만 나는 너무 둔해서 따라가지 못했다.",
+      "tags": ["movie", "confusion"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "Don't be so dense about the travel schedule changes.",
+      "sentence_ko": "여행 스케줄 변경에 대해 그렇게 둔하게 굴지 마.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Thick",
+      "sentence_en": "He's a bit thick when it comes to understanding health advice.",
+      "sentence_ko": "건강 조언을 이해하는 데 있어 그는 좀 머리가 나빠.",
+      "tags": ["health", "understanding"]
+    },
+    {
+      "word": "Thick",
+      "sentence_en": "I was thick for not realizing the restaurant was closed.",
+      "sentence_ko": "레스토랑이 문 닫은 걸 몰랐으니 내가 머리가 나빴어.",
+      "tags": ["restaurant", "mistake"]
+    },
+    {
+      "word": "Thick",
+      "sentence_en": "Don't be thick, the travel directions are clearly marked.",
+      "sentence_ko": "머리 나쁘게 굴지 마, 여행 길 안내가 분명히 표시돼 있어.",
+      "tags": ["travel", "directions"]
+    },
+    {
+      "word": "Thick",
+      "sentence_en": "She's too thick to understand the learning material quickly.",
+      "sentence_ko": "그녀는 너무 머리가 나빠서 학습 자료를 빠르게 이해 못 해.",
+      "tags": ["learning", "pace"]
+    },
+    {
+      "word": "Thick",
+      "sentence_en": "I felt thick for missing such an obvious point in the movie.",
+      "sentence_ko": "영화에서 그렇게 명백한 요점을 놓쳐서 머리가 나쁘게 느껴졌어.",
+      "tags": ["movie", "obvious"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "I'm a bit slow at learning new languages.",
+      "sentence_ko": "나는 새로운 언어를 배우는 게 좀 느려.",
+      "tags": ["learning", "pace"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "He's slow to understand the health implications of his actions.",
+      "sentence_ko": "그는 자신의 행동이 건강에 미치는 영향을 이해하는 게 느려.",
+      "tags": ["health", "awareness"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "The service at the restaurant was painfully slow.",
+      "sentence_ko": "레스토랑의 서비스가 고통스럽게 느렸다.",
+      "tags": ["restaurant", "service"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "I was slow to realize we were going to the wrong place.",
+      "sentence_ko": "우리가 잘못된 장소로 가고 있다는 걸 깨닫는 게 느렸어.",
+      "tags": ["place", "mistake"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "The movie was slow and made me feel sleepy and sad.",
+      "sentence_ko": "영화가 느려서 졸리고 슬프게 만들었어.",
+      "tags": ["movie", "sad"]
+    },
+    {
+      "word": "Slow",
+      "sentence_en": "My daily routine feels slow and needs more energy.",
+      "sentence_ko": "내 일과가 느리게 느껴지고 더 많은 에너지가 필요해.",
+      "tags": ["daily_life", "energy"]
+    },
+    {
+      "word": "Dim",
+      "sentence_en": "He's a bit dim when it comes to understanding wellness concepts.",
+      "sentence_ko": "웰니스 개념을 이해하는 데 있어 그는 좀 둔해.",
+      "tags": ["wellness", "understanding"]
+    },
+    {
+      "word": "Dim",
+      "sentence_en": "I felt dim for not seeing the obvious solution earlier.",
+      "sentence_ko": "명백한 해결책을 더 일찍 보지 못해서 흐릿하게 느껴졌어.",
+      "tags": ["daily_life", "realization"]
+    },
+    {
+      "word": "Dim",
+      "sentence_en": "The student seemed dim and struggled with basic learning tasks.",
+      "sentence_ko": "그 학생은 둔해 보였고 기본적인 학습 과제를 힘들어했다.",
+      "tags": ["learning", "difficulty"]
+    },
+    {
+      "word": "Dim",
+      "sentence_en": "Don't be dim about the health risks of that behavior.",
+      "sentence_ko": "그 행동의 건강 위험에 대해 둔하게 굴지 마.",
+      "tags": ["health", "warning"]
+    },
+    {
+      "word": "Dim",
+      "sentence_en": "He's too dim to understand the travel schedule properly.",
+      "sentence_ko": "그는 너무 둔해서 여행 스케줄을 제대로 이해 못 해.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "The movie was dull and put everyone to sleep.",
+      "sentence_ko": "영화가 둔감해서 모두를 재웠다.",
+      "tags": ["movie", "boring"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "His dull understanding of health issues was concerning.",
+      "sentence_ko": "건강 문제에 대한 그의 둔한 이해가 걱정스러웠다.",
+      "tags": ["health", "concern"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "The restaurant atmosphere was dull and uninviting.",
+      "sentence_ko": "레스토랑 분위기가 우둔하고 매력이 없었다.",
+      "tags": ["restaurant", "atmosphere"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "My daily life has become dull and needs excitement.",
+      "sentence_ko": "내 일상이 둔감해져서 흥분이 필요해.",
+      "tags": ["daily_life", "boredom"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "The learning material was dull and failed to engage students.",
+      "sentence_ko": "학습 자료가 둔감해서 학생들을 사로잡지 못했다.",
+      "tags": ["learning", "ineffective"]
+    },
+    {
+      "word": "Dull",
+      "sentence_en": "The travel guide's dull narration made the tour boring.",
+      "sentence_ko": "여행 가이드의 둔한 해설이 투어를 지루하게 만들었다.",
+      "tags": ["travel", "boring"]
+    },
+    {
+      "word": "Obtuse",
+      "sentence_en": "He's being deliberately obtuse about the health warnings.",
+      "sentence_ko": "그는 건강 경고에 대해 일부러 둔감하게 굴고 있어.",
+      "tags": ["health", "intentional"]
+    },
+    {
+      "word": "Obtuse",
+      "sentence_en": "Stop being obtuse and understand the travel schedule clearly.",
+      "sentence_ko": "둔감하게 굴지 말고 여행 스케줄을 명확히 이해해.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Obtuse",
+      "sentence_en": "Her obtuse response to the learning material frustrated the teacher.",
+      "sentence_ko": "학습 자료에 대한 그녀의 둔감한 반응이 선생님을 좌절시켰다.",
+      "tags": ["learning", "frustration"]
+    },
+    {
+      "word": "Obtuse",
+      "sentence_en": "The movie character was deliberately obtuse to create conflict.",
+      "sentence_ko": "영화 캐릭터는 갈등을 만들기 위해 일부러 둔감했다.",
+      "tags": ["movie", "character"]
+    },
+    {
+      "word": "Obtuse",
+      "sentence_en": "Don't be obtuse about the obvious problems at this place.",
+      "sentence_ko": "이 장소의 명백한 문제들에 대해 둔감하게 굴지 마.",
+      "tags": ["place", "obvious"]
+    },
+    {
+      "word": "Unintelligent",
+      "sentence_en": "The decision seemed unintelligent given the health risks involved.",
+      "sentence_ko": "관련된 건강 위험을 고려하면 그 결정은 지능이 낮아 보였다.",
+      "tags": ["health", "decision"]
+    },
+    {
+      "word": "Unintelligent",
+      "sentence_en": "The movie portrayed an unintelligent character for comic relief.",
+      "sentence_ko": "영화는 코믹 릴리프를 위해 지능이 낮은 캐릭터를 그렸다.",
+      "tags": ["movie", "comedy"]
+    },
+    {
+      "word": "Unintelligent",
+      "sentence_en": "The travel plan was unintelligent and poorly thought out.",
+      "sentence_ko": "여행 계획은 지능이 낮고 제대로 생각하지 않았다.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Unintelligent",
+      "sentence_en": "The learning approach seemed unintelligent and ineffective.",
+      "sentence_ko": "학습 접근법이 지능이 낮고 비효과적으로 보였다.",
+      "tags": ["learning", "method"]
+    },
+    {
+      "word": "Unintelligent",
+      "sentence_en": "Making unintelligent choices about wellness can harm your health.",
+      "sentence_ko": "웰니스에 대한 지능이 낮은 선택이 건강을 해칠 수 있다.",
+      "tags": ["wellness", "health"]
+    },
+    {
+      "word": "Simple-minded",
+      "sentence_en": "The simple-minded approach to health problems won't work.",
+      "sentence_ko": "건강 문제에 대한 단순한 접근법은 효과가 없을 거야.",
+      "tags": ["health", "approach"]
+    },
+    {
+      "word": "Simple-minded",
+      "sentence_en": "Don't be simple-minded about complex travel logistics.",
+      "sentence_ko": "복잡한 여행 물류에 대해 단순하게 생각하지 마.",
+      "tags": ["travel", "complexity"]
+    },
+    {
+      "word": "Simple-minded",
+      "sentence_en": "The movie character was simple-minded but lovable.",
+      "sentence_ko": "영화 캐릭터는 단순했지만 사랑스러웠다.",
+      "tags": ["movie", "character"]
+    },
+    {
+      "word": "Simple-minded",
+      "sentence_en": "His simple-minded view of learning prevented real progress.",
+      "sentence_ko": "학습에 대한 그의 단순한 관점이 실질적 진전을 막았다.",
+      "tags": ["learning", "limitation"]
+    },
+    {
+      "word": "Simple-minded",
+      "sentence_en": "The restaurant owner's simple-minded business strategy failed quickly.",
+      "sentence_ko": "레스토랑 주인의 단순한 비즈니스 전략은 빠르게 실패했다.",
+      "tags": ["restaurant", "business"]
+    },
+    {
+      "word": "Half-witted",
+      "sentence_en": "The half-witted plan to skip wellness activities backfired badly.",
+      "sentence_ko": "웰니스 활동을 건너뛰겠다는 얼간이 같은 계획이 심하게 역효과를 냈다.",
+      "tags": ["wellness", "mistake"]
+    },
+    {
+      "word": "Half-witted",
+      "sentence_en": "His half-witted decision to travel without insurance was risky.",
+      "sentence_ko": "보험 없이 여행하겠다는 그의 얼간이 같은 결정은 위험했다.",
+      "tags": ["travel", "risk"]
+    },
+    {
+      "word": "Half-witted",
+      "sentence_en": "The movie's half-witted villain made everyone laugh instead of fear.",
+      "sentence_ko": "영화의 얼간이 같은 악당이 두려움 대신 모두를 웃게 만들었다.",
+      "tags": ["movie", "comedy"]
+    },
+    {
+      "word": "Half-witted",
+      "sentence_en": "That half-witted approach to learning won't get you anywhere.",
+      "sentence_ko": "학습에 대한 그 얼간이 같은 접근법은 어디에도 데려다주지 못할 거야.",
+      "tags": ["learning", "ineffective"]
+    },
+    {
+      "word": "Half-witted",
+      "sentence_en": "The restaurant's half-witted service left customers frustrated and sad.",
+      "sentence_ko": "레스토랑의 얼간이 같은 서비스가 고객들을 좌절시키고 슬프게 만들었다.",
+      "tags": ["restaurant", "sad"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "It's crazy to travel to that place without checking the weather.",
+      "sentence_ko": "날씨 확인 안 하고 그 장소로 여행하는 건 미쳤어.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "That crazy decision about health could have serious consequences.",
+      "sentence_ko": "건강에 대한 그 미친 결정은 심각한 결과를 가져올 수 있어.",
+      "tags": ["health", "consequences"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "The movie had a crazy twist that nobody saw coming.",
+      "sentence_ko": "영화는 아무도 예상 못 한 미친 반전이 있었어.",
+      "tags": ["movie", "surprise"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "The restaurant prices are crazy for such small portions.",
+      "sentence_ko": "그렇게 작은 양에 레스토랑 가격이 미쳤어.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "Your daily schedule is crazy and unsustainable for wellness.",
+      "sentence_ko": "네 일과는 미쳤고 웰니스에 지속 가능하지 않아.",
+      "tags": ["daily_life", "wellness"]
+    },
+    {
+      "word": "Crazy",
+      "sentence_en": "It's crazy to think you can learn without proper practice.",
+      "sentence_ko": "제대로 된 연습 없이 배울 수 있다고 생각하는 건 미쳤어.",
+      "tags": ["learning", "reality"]
+    },
+    {
+      "word": "Insane",
+      "sentence_en": "The travel schedule was insane and left everyone exhausted.",
+      "sentence_ko": "여행 스케줄이 정신 나가서 모두를 지치게 만들었다.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Insane",
+      "sentence_en": "It's insane to ignore health warnings from medical professionals.",
+      "sentence_ko": "의료 전문가의 건강 경고를 무시하는 건 정신 나간 짓이야.",
+      "tags": ["health", "warning"]
+    },
+    {
+      "word": "Insane",
+      "sentence_en": "The restaurant prices were insane for mediocre food.",
+      "sentence_ko": "평범한 음식에 레스토랑 가격이 비상식적이었어.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Insane",
+      "sentence_en": "The movie's plot became increasingly insane and hard to follow.",
+      "sentence_ko": "영화 줄거리가 점점 더 정신 나가고 따라가기 힘들어졌다.",
+      "tags": ["movie", "confusing"]
+    },
+    {
+      "word": "Insane",
+      "sentence_en": "That insane wellness routine is doing more harm than good.",
+      "sentence_ko": "그 정신 나간 웰니스 루틴은 득보다 실이 많아.",
+      "tags": ["wellness", "harmful"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "You'd be mad to travel there without proper preparation.",
+      "sentence_ko": "제대로 된 준비 없이 거기로 여행하면 미친 거야.",
+      "tags": ["travel", "preparation"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "The idea of ignoring health advice is absolutely mad.",
+      "sentence_ko": "건강 조언을 무시한다는 생각은 정말 미쳤어.",
+      "tags": ["health", "advice"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "The restaurant owner must be mad to charge those prices.",
+      "sentence_ko": "그런 가격을 받으려면 레스토랑 주인이 미친 게 틀림없어.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "The movie's ending was so mad it left everyone confused.",
+      "sentence_ko": "영화 결말이 너무 미쳐서 모두를 혼란스럽게 만들었다.",
+      "tags": ["movie", "confusing"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "That mad learning method will never help you understand properly.",
+      "sentence_ko": "그 미친 학습 방법은 절대 제대로 이해하는 데 도움이 안 될 거야.",
+      "tags": ["learning", "ineffective"]
+    },
+    {
+      "word": "Mad",
+      "sentence_en": "The daily schedule is so mad it affects my wellness negatively.",
+      "sentence_ko": "일과가 너무 미쳐서 내 웰니스에 부정적 영향을 미쳐.",
+      "tags": ["daily_life", "wellness"]
+    },
+    {
+      "word": "Lunatic",
+      "sentence_en": "Only a lunatic would attempt that dangerous travel route.",
+      "sentence_ko": "미치광이만이 그 위험한 여행 경로를 시도할 거야.",
+      "tags": ["travel", "danger"]
+    },
+    {
+      "word": "Lunatic",
+      "sentence_en": "The lunatic decision to ignore health protocols was dangerous.",
+      "sentence_ko": "건강 규약을 무시한 광적인 결정은 위험했다.",
+      "tags": ["health", "danger"]
+    },
+    {
+      "word": "Lunatic",
+      "sentence_en": "The movie portrayed a lunatic character who scared everyone.",
+      "sentence_ko": "영화는 모두를 겁먹게 한 미치광이 같은 캐릭터를 그렸다.",
+      "tags": ["movie", "scary"]
+    },
+    {
+      "word": "Lunatic",
+      "sentence_en": "That lunatic schedule leaves no time for wellness activities.",
+      "sentence_ko": "그 광적인 스케줄은 웰니스 활동을 위한 시간을 전혀 남기지 않아.",
+      "tags": ["schedule", "wellness"]
+    },
+    {
+      "word": "Lunatic",
+      "sentence_en": "The restaurant owner's lunatic pricing strategy drove customers away.",
+      "sentence_ko": "레스토랑 주인의 광적인 가격 전략이 고객들을 쫓아냈다.",
+      "tags": ["restaurant", "business"]
+    },
+    {
+      "word": "Deranged",
+      "sentence_en": "The travel plan seemed deranged and completely unrealistic.",
+      "sentence_ko": "여행 계획이 정신 착란이고 완전히 비현실적으로 보였다.",
+      "tags": ["travel", "unrealistic"]
+    },
+    {
+      "word": "Deranged",
+      "sentence_en": "His deranged approach to health issues worried everyone around him.",
+      "sentence_ko": "건강 문제에 대한 그의 정상이 아닌 접근법이 주변 모두를 걱정시켰다.",
+      "tags": ["health", "concern"]
+    },
+    {
+      "word": "Deranged",
+      "sentence_en": "The movie villain was portrayed as completely deranged and dangerous.",
+      "sentence_ko": "영화 악당은 완전히 정신 착란이고 위험하게 묘사됐다.",
+      "tags": ["movie", "villain"]
+    },
+    {
+      "word": "Deranged",
+      "sentence_en": "That deranged schedule is making everyone sad and exhausted.",
+      "sentence_ko": "그 정상이 아닌 스케줄이 모두를 슬프고 지치게 만들고 있어.",
+      "tags": ["schedule", "sad"]
+    },
+    {
+      "word": "Deranged",
+      "sentence_en": "The restaurant's deranged policy confused all the customers.",
+      "sentence_ko": "레스토랑의 정신 착란 같은 정책이 모든 손님을 혼란스럽게 했다.",
+      "tags": ["restaurant", "confusion"]
+    }
+  ]
+}

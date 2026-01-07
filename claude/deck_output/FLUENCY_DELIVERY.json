@@ -1,0 +1,1456 @@
+{
+    "deck_title": "FLUENCY_DELIVERY",
+    "total_sentences": 145,
+    "sentences": [
+        {
+            "word": "Eloquent",
+            "sentence_en": "The CEO gave an eloquent speech about the digital future of the company.",
+            "sentence_ko": "CEO는 회사의 디지털 미래에 대해 감동적인 연설을 했습니다.",
+            "tags": [
+                "office",
+                "digital",
+                "social"
+            ]
+        },
+        {
+            "word": "Eloquent",
+            "sentence_en": "Her eloquent description of the vacation spot made everyone want to go.",
+            "sentence_ko": "휴가지에 대한 그녀의 유려한 설명은 모두가 그곳에 가고 싶게 만들었습니다.",
+            "tags": [
+                "vacation",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Eloquent",
+            "sentence_en": "AI tools can now generate eloquent essays in a matter of seconds.",
+            "sentence_ko": "이제 AI 도구들이 단 몇 초 만에 설득력 있는 에세이를 생성할 수 있습니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Eloquent",
+            "sentence_en": "He is an eloquent speaker who captures the mood of the audience perfectly.",
+            "sentence_ko": "그는 청중의 분위기를 완벽하게 사로잡는 웅변적인 연설가입니다.",
+            "tags": [
+                "social",
+                "mood",
+                "office"
+            ]
+        },
+        {
+            "word": "Eloquent",
+            "sentence_en": "The movie had an eloquent script that moved many viewers to tears.",
+            "sentence_ko": "그 영화는 많은 관객을 눈물짓게 한 감동적인 대본을 가지고 있었습니다.",
+            "tags": [
+                "movie",
+                "warm",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Resonant",
+            "sentence_en": "His deep, resonant voice is perfect for narrating digital audiobooks.",
+            "sentence_ko": "그의 깊고 울림 있는 목소리는 디지털 오디오북 내레이션에 완벽합니다.",
+            "tags": [
+                "digital",
+                "hobby",
+                "social"
+            ]
+        },
+        {
+            "word": "Resonant",
+            "sentence_en": "The message of the movie was resonant with many young people today.",
+            "sentence_ko": "그 영화의 메시지는 오늘날 많은 젊은이에게 큰 울림을 주었습니다.",
+            "tags": [
+                "movie",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Resonant",
+            "sentence_en": "A resonant sound filled the warm concert hall during the performance.",
+            "sentence_ko": "공연 중 따뜻한 콘서트홀이 울림 있는 소리로 가득 찼습니다.",
+            "tags": [
+                "warm",
+                "hobby",
+                "social"
+            ]
+        },
+        {
+            "word": "Resonant",
+            "sentence_en": "Her words were resonant, staying with me long after the office meeting.",
+            "sentence_ko": "그녀의 말은 울림이 있어서 사무실 회의가 끝난 후에도 오랫동안 기억에 남았습니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Resonant",
+            "sentence_en": "Small digital speakers can't always capture the resonant quality of live music.",
+            "sentence_ko": "작은 디지털 스피커가 라이브 음악의 울림을 항상 담아내지는 못합니다.",
+            "tags": [
+                "digital",
+                "hobby",
+                "music"
+            ]
+        },
+        {
+            "word": "Spontaneous",
+            "sentence_en": "We took a spontaneous vacation to the beach last weekend without planning.",
+            "sentence_ko": "우리는 지난 주말에 계획 없이 즉흥적으로 해변으로 휴가를 떠났습니다.",
+            "tags": [
+                "vacation",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Spontaneous",
+            "sentence_en": "Her spontaneous laughter lightened the heavy mood in the office.",
+            "sentence_ko": "그녀의 즉흥적인 웃음소리가 사무실의 무거운 분위기를 밝게 만들었습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Spontaneous",
+            "sentence_en": "Social media encourages the spontaneous sharing of daily life moments.",
+            "sentence_ko": "소셜 미디어는 일상의 순간들을 즉흥적으로 공유하도록 장려합니다.",
+            "tags": [
+                "social",
+                "digital",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Spontaneous",
+            "sentence_en": "He made a spontaneous decision to buy the expensive fashion item.",
+            "sentence_ko": "그는 비싼 패션 아이템을 사기로 즉흥적인 결정을 내렸습니다.",
+            "tags": [
+                "fashion",
+                "hobby",
+                "mood"
+            ]
+        },
+        {
+            "word": "Spontaneous",
+            "sentence_en": "The actor's spontaneous ad-lib made the scene much funnier.",
+            "sentence_ko": "배우의 즉흥적인 애드립이 그 장면을 훨씬 더 재미있게 만들었습니다.",
+            "tags": [
+                "movie",
+                "hobby",
+                "social"
+            ]
+        },
+        {
+            "word": "Improvised",
+            "sentence_en": "The jazz band played an improvised tune that warmed the room.",
+            "sentence_ko": "재즈 밴드가 방 안을 따뜻하게 만드는 즉흥 연주를 들려주었습니다.",
+            "tags": [
+                "hobby",
+                "warm",
+                "mood"
+            ]
+        },
+        {
+            "word": "Improvised",
+            "sentence_en": "He gave an improvised speech because the digital teleprompter failed.",
+            "sentence_ko": "디지털 프롬프터가 고장 나서 그는 즉석에서 연설을 했습니다.",
+            "tags": [
+                "office",
+                "digital",
+                "social"
+            ]
+        },
+        {
+            "word": "Improvised",
+            "sentence_en": "We made an improvised shelter during our camping vacation.",
+            "sentence_ko": "우리는 캠핑 휴가 중에 임시변통으로 천막을 만들었습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "outdoor"
+            ]
+        },
+        {
+            "word": "Improvised",
+            "sentence_en": "The comedian's improvised jokes were better than the script.",
+            "sentence_ko": "코미디언의 즉흥적인 농담이 대본보다 더 나았습니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Improvised",
+            "sentence_en": "She created an improvised fashion look using old scarves.",
+            "sentence_ko": "그녀는 낡은 스카프를 활용해 즉석에서 패션 스타일을 연출했습니다.",
+            "tags": [
+                "fashion",
+                "hobby",
+                "mood"
+            ]
+        },
+        {
+            "word": "Stutter",
+            "sentence_en": "He tends to stutter when he feels nervous in social situations.",
+            "sentence_ko": "그는 사교적인 자리에서 긴장하면 말을 더듬는 경향이 있습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "health"
+            ]
+        },
+        {
+            "word": "Stutter",
+            "sentence_en": "The video began to stutter due to a poor digital connection.",
+            "sentence_ko": "디지털 연결 상태가 좋지 않아 영상이 끊기기 시작했습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Stutter",
+            "sentence_en": "Do not mock someone who has a stutter; be patient and warm.",
+            "sentence_ko": "말을 더듬는 사람을 놀리지 말고 따뜻하게 기다려 주세요.",
+            "tags": [
+                "social",
+                "warm",
+                "mood"
+            ]
+        },
+        {
+            "word": "Stutter",
+            "sentence_en": "She tried to hide her stutter during the important office presentation.",
+            "sentence_ko": "그녀는 중요한 사무실 프레젠테이션 중에 말을 더듬지 않으려 애썼습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Stutter",
+            "sentence_en": "The AI voice seemed to stutter when processing complex data.",
+            "sentence_ko": "AI 음성이 복잡한 데이터를 처리할 때 버벅거리는 것 같았습니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Stammer",
+            "sentence_en": "He began to stammer an apology when he accidentally broke the vase.",
+            "sentence_ko": "그는 실수로 꽃병을 깨뜨리자 말을 더듬으며 사과하기 시작했습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "home"
+            ]
+        },
+        {
+            "word": "Stammer",
+            "sentence_en": "She stammered out a reply, clearly surprised by the office news.",
+            "sentence_ko": "그녀는 사무실 소식에 분명히 놀란 듯 말을 더듬으며 대답했습니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Stammer",
+            "sentence_en": "Even the advanced AI seemed to stammer due to a system glitch.",
+            "sentence_ko": "진보된 AI조차 시스템 결함으로 인해 말을 더듬는 것처럼 보였습니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Stammer",
+            "sentence_en": "Overcoming a stammer takes courage and practice in public speaking.",
+            "sentence_ko": "말더듬을 극복하는 것은 대중 연설에서 용기와 연습이 필요합니다.",
+            "tags": [
+                "hobby",
+                "social",
+                "education"
+            ]
+        },
+        {
+            "word": "Stammer",
+            "sentence_en": "He stammered nervously when asking for directions on his vacation.",
+            "sentence_ko": "그는 휴가 중에 길을 물을 때 긴장해서 말을 더듬었습니다.",
+            "tags": [
+                "vacation",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Mumble",
+            "sentence_en": "Please don't mumble; speak clearly during the digital conference.",
+            "sentence_ko": "웅얼거리지 마세요. 화상 회의 중에는 명확하게 말씀해 주세요.",
+            "tags": [
+                "digital",
+                "office",
+                "social"
+            ]
+        },
+        {
+            "word": "Mumble",
+            "sentence_en": "He walked away, mumbling something about the bad weather.",
+            "sentence_ko": "그는 날씨가 안 좋다며 뭔가 웅얼거리면서 걸어갔습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "weather"
+            ]
+        },
+        {
+            "word": "Mumble",
+            "sentence_en": "The actor mumbled his lines, making the movie hard to understand.",
+            "sentence_ko": "배우가 대사를 웅얼거려서 영화를 이해하기 힘들었습니다.",
+            "tags": [
+                "movie",
+                "social",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Mumble",
+            "sentence_en": "She tends to mumble when she is deep in thought about AI codes.",
+            "sentence_ko": "그녀는 AI 코드에 대해 깊이 생각할 때 웅얼거리는 경향이 있습니다.",
+            "tags": [
+                "ai",
+                "hobby",
+                "work"
+            ]
+        },
+        {
+            "word": "Mumble",
+            "sentence_en": "Stop mumbling and tell us what you really think about the fashion show.",
+            "sentence_ko": "웅얼대지 말고 패션쇼에 대해 진짜 어떻게 생각하는지 말해 보세요.",
+            "tags": [
+                "fashion",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Rambling",
+            "sentence_en": "His rambling story bored everyone at the social gathering.",
+            "sentence_ko": "그의 두서없는 이야기는 모임에 있는 모든 사람을 지루하게 만들었습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Rambling",
+            "sentence_en": "We went for a rambling walk through the countryside during vacation.",
+            "sentence_ko": "우리는 휴가 중에 시골길을 따라 정처 없이 산책을 했습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "warm"
+            ]
+        },
+        {
+            "word": "Rambling",
+            "sentence_en": "The blog post was rambling and didn't get to the point.",
+            "sentence_ko": "그 블로그 게시물은 횡설수설해서 요점을 알 수 없었습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Rambling",
+            "sentence_en": "She apologized for her rambling answer in the office interview.",
+            "sentence_ko": "그녀는 사무실 면접에서 횡설수설 대답한 것에 대해 사과했습니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Rambling",
+            "sentence_en": "A rambling speech can lose the audience's attention quickly.",
+            "sentence_ko": "두서없는 연설은 청중의 주의를 금방 잃게 할 수 있습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Slur",
+            "sentence_en": "He was so tired that his speech began to slur.",
+            "sentence_ko": "그는 너무 피곤해서 발음이 꼬이기 시작했습니다.",
+            "tags": [
+                "mood",
+                "health",
+                "social"
+            ]
+        },
+        {
+            "word": "Slur",
+            "sentence_en": "The audio quality was bad, making the speaker's words slur together.",
+            "sentence_ko": "오디오 품질이 나빠서 화자의 말이 뭉개져 들렸습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "tech"
+            ]
+        },
+        {
+            "word": "Slur",
+            "sentence_en": "Don't slur your words when presenting the fashion project.",
+            "sentence_ko": "패션 프로젝트를 발표할 때는 발음을 얼버무리지 마세요.",
+            "tags": [
+                "fashion",
+                "office",
+                "social"
+            ]
+        },
+        {
+            "word": "Slur",
+            "sentence_en": "Slurring speech can sometimes be a sign of a medical issue.",
+            "sentence_ko": "발음이 어눌해지는 것은 때때로 의학적 문제의 신호일 수 있습니다.",
+            "tags": [
+                "social",
+                "health",
+                "care"
+            ]
+        },
+        {
+            "word": "Slur",
+            "sentence_en": "The actor slurred his lines to portray a sleepy character in the movie.",
+            "sentence_ko": "그 배우는 영화에서 졸린 캐릭터를 연기하기 위해 대사를 흘려서 말했습니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Deliberate",
+            "sentence_en": "She made a deliberate effort to include everyone in the social event.",
+            "sentence_ko": "그녀는 사교 행사에서 모두를 포함시키려고 신중하게 노력했습니다.",
+            "tags": [
+                "social",
+                "warm",
+                "event"
+            ]
+        },
+        {
+            "word": "Deliberate",
+            "sentence_en": "His deliberate way of speaking commands respect in the office.",
+            "sentence_ko": "그의 신중하고 또박또박한 말투는 사무실에서 존경을 받습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Deliberate",
+            "sentence_en": "We took slow, deliberate steps on the icy vacation path.",
+            "sentence_ko": "우리는 얼어붙은 휴가지 길 위에서 천천히 신중하게 발걸음을 옮겼습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "outdoor"
+            ]
+        },
+        {
+            "word": "Deliberate",
+            "sentence_en": "The fashion designer made a deliberate choice to use recycled materials.",
+            "sentence_ko": "그 패션 디자이너는 재활용 소재를 사용하기로 신중한 선택을 했습니다.",
+            "tags": [
+                "fashion",
+                "social",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Deliberate",
+            "sentence_en": "AI makes deliberate calculations based on the massive data provided.",
+            "sentence_ko": "AI는 제공된 방대한 데이터를 바탕으로 정교한 계산을 수행합니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Fluent",
+            "sentence_en": "She is fluent in three languages, which helps in international business.",
+            "sentence_ko": "그녀는 3개 국어에 유창해서 국제 비즈니스에 도움이 됩니다.",
+            "tags": [
+                "office",
+                "social",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Fluent",
+            "sentence_en": "Being fluent in Python is essential for this AI project.",
+            "sentence_ko": "이 AI 프로젝트를 위해서는 파이썬을 능숙하게 다루는 것이 필수적입니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "office"
+            ]
+        },
+        {
+            "word": "Fluent",
+            "sentence_en": "He became fluent in Spanish after his long vacation in Mexico.",
+            "sentence_ko": "그는 멕시코에서 긴 휴가를 보낸 후 스페인어가 유창해졌습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "learning"
+            ]
+        },
+        {
+            "word": "Fluent",
+            "sentence_en": "Her fluent movements on the dance floor amazed everyone.",
+            "sentence_ko": "무도회장에서 그녀의 유려한 몸짓은 모두를 놀라게 했습니다.",
+            "tags": [
+                "hobby",
+                "social",
+                "warm"
+            ]
+        },
+        {
+            "word": "Fluent",
+            "sentence_en": "Fluency in digital tools is required for the modern office environment.",
+            "sentence_ko": "현대 사무실 환경에서는 디지털 도구에 대한 능숙함이 요구됩니다.",
+            "tags": [
+                "digital",
+                "office",
+                "social"
+            ]
+        },
+        {
+            "word": "Monotone",
+            "sentence_en": "The professor's monotone voice made it hard to stay awake.",
+            "sentence_ko": "교수님의 단조로운 목소리 때문에 깨어 있기가 힘들었습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "education"
+            ]
+        },
+        {
+            "word": "Monotone",
+            "sentence_en": "Early AI voices sounded robotic and monotone.",
+            "sentence_ko": "초기 AI 음성들은 로봇 같고 단조롭게 들렸습니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Monotone",
+            "sentence_en": "Don't speak in a monotone when pitching a fashion idea.",
+            "sentence_ko": "패션 아이디어를 제안할 때 단조로운 톤으로 말하지 마세요.",
+            "tags": [
+                "fashion",
+                "social",
+                "office"
+            ]
+        },
+        {
+            "word": "Monotone",
+            "sentence_en": "His monotone delivery ruined the emotional scene in the movie.",
+            "sentence_ko": "그의 단조로운 대사 전달이 영화의 감정적인 장면을 망쳤습니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Monotone",
+            "sentence_en": "Reading a story in a monotone voice will bore the children.",
+            "sentence_ko": "단조로운 목소리로 이야기를 읽어주면 아이들이 지루해할 것입니다.",
+            "tags": [
+                "social",
+                "warm",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Expressive",
+            "sentence_en": "She has very expressive eyes that show her mood instantly.",
+            "sentence_ko": "그녀는 기분을 즉시 드러내는 매우 표정이 풍부한 눈을 가졌습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "beauty"
+            ]
+        },
+        {
+            "word": "Expressive",
+            "sentence_en": "Digital avatars are becoming more expressive and lifelike.",
+            "sentence_ko": "디지털 아바타들이 점점 더 표정이 풍부해지고 실물과 같아지고 있습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "tech"
+            ]
+        },
+        {
+            "word": "Expressive",
+            "sentence_en": "His expressive reading of the poem warmed our hearts.",
+            "sentence_ko": "그의 감정 풍부한 시 낭독은 우리 마음을 따뜻하게 했습니다.",
+            "tags": [
+                "warm",
+                "hobby",
+                "mood"
+            ]
+        },
+        {
+            "word": "Expressive",
+            "sentence_en": "Fashion is an expressive way to show your unique personality.",
+            "sentence_ko": "패션은 당신의 독특한 개성을 보여주는 표현력 있는 방법입니다.",
+            "tags": [
+                "fashion",
+                "social",
+                "style"
+            ]
+        },
+        {
+            "word": "Expressive",
+            "sentence_en": "The actor gave an expressive performance that won an award.",
+            "sentence_ko": "그 배우는 상을 받을 만한 표현력 풍부한 연기를 보여주었습니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Dynamic",
+            "sentence_en": "We need a dynamic leader to energize the office team.",
+            "sentence_ko": "우리 사무실 팀에 활력을 불어넣을 역동적인 리더가 필요합니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Dynamic",
+            "sentence_en": "The digital market is dynamic and changes every day.",
+            "sentence_ko": "디지털 시장은 역동적이며 매일 변화합니다.",
+            "tags": [
+                "digital",
+                "office",
+                "business"
+            ]
+        },
+        {
+            "word": "Dynamic",
+            "sentence_en": "She has a dynamic personality that attracts many friends.",
+            "sentence_ko": "그녀는 많은 친구를 끌어들이는 활기찬 성격을 가지고 있습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "warm"
+            ]
+        },
+        {
+            "word": "Dynamic",
+            "sentence_en": "The movie features dynamic action scenes and great effects.",
+            "sentence_ko": "그 영화는 역동적인 액션 장면과 훌륭한 효과를 특징으로 합니다.",
+            "tags": [
+                "movie",
+                "hobby",
+                "entertainment"
+            ]
+        },
+        {
+            "word": "Dynamic",
+            "sentence_en": "AI creates dynamic responses based on complex user input.",
+            "sentence_ko": "AI는 복잡한 사용자 입력을 기반으로 역동적인 응답을 생성합니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Animated",
+            "sentence_en": "He became very animated when talking about his favorite hobby.",
+            "sentence_ko": "그는 가장 좋아하는 취미에 대해 이야기할 때 매우 생기가 돌았습니다.",
+            "tags": [
+                "hobby",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Animated",
+            "sentence_en": "The discussion at the office became animated but remained friendly.",
+            "sentence_ko": "사무실에서의 토론은 활기를 띠었지만 여전히 우호적이었습니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Animated",
+            "sentence_en": "My kids love watching animated movies during vacation.",
+            "sentence_ko": "제 아이들은 방학 동안 애니메이션 영화 보는 것을 좋아합니다.",
+            "tags": [
+                "movie",
+                "vacation",
+                "family"
+            ]
+        },
+        {
+            "word": "Animated",
+            "sentence_en": "Her animated gestures made the story much more interesting.",
+            "sentence_ko": "그녀의 생생한 제스처가 이야기를 훨씬 더 흥미롭게 만들었습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "story"
+            ]
+        },
+        {
+            "word": "Animated",
+            "sentence_en": "Digital tools allow us to create animated characters easily.",
+            "sentence_ko": "디지털 도구를 사용하면 애니메이션 캐릭터를 쉽게 만들 수 있습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Audible",
+            "sentence_en": "Her sigh was audible in the quiet library.",
+            "sentence_ko": "조용한 도서관에서 그녀의 한숨 소리가 들렸습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "place"
+            ]
+        },
+        {
+            "word": "Audible",
+            "sentence_en": "Is the sound audible at the back of the office?",
+            "sentence_ko": "사무실 뒤쪽에서도 소리가 들리나요?",
+            "tags": [
+                "office",
+                "digital",
+                "social"
+            ]
+        },
+        {
+            "word": "Audible",
+            "sentence_en": "The audible click confirmed the digital transaction was complete.",
+            "sentence_ko": "딸깍하는 소리가 들리며 디지털 거래가 완료되었음을 확인해 주었습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "money"
+            ]
+        },
+        {
+            "word": "Audible",
+            "sentence_en": "His voice was barely audible over the noise of the waves.",
+            "sentence_ko": "파도 소리 때문에 그의 목소리가 거의 들리지 않았습니다.",
+            "tags": [
+                "vacation",
+                "mood",
+                "nature"
+            ]
+        },
+        {
+            "word": "Audible",
+            "sentence_en": "Make sure your instructions are audible to the whole team.",
+            "sentence_ko": "지시 사항이 팀 전체에 들리도록 하세요.",
+            "tags": [
+                "office",
+                "social",
+                "communication"
+            ]
+        },
+        {
+            "word": "Inaudible",
+            "sentence_en": "He mumbled something inaudible under his breath.",
+            "sentence_ko": "그는 작은 목소리로 알아들을 수 없게 뭔가 웅얼거렸습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "talk"
+            ]
+        },
+        {
+            "word": "Inaudible",
+            "sentence_en": "The background noise made the actor's lines inaudible.",
+            "sentence_ko": "배경 소음 때문에 배우의 대사가 들리지 않았습니다.",
+            "tags": [
+                "movie",
+                "digital",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Inaudible",
+            "sentence_en": "Some high-frequency sounds are inaudible to human ears.",
+            "sentence_ko": "어떤 고주파 소리는 사람의 귀에 들리지 않습니다.",
+            "tags": [
+                "hobby",
+                "science",
+                "digital"
+            ]
+        },
+        {
+            "word": "Inaudible",
+            "sentence_en": "Her whisper was inaudible to everyone else in the office.",
+            "sentence_ko": "그녀의 속삭임은 사무실의 다른 사람들에게는 들리지 않았습니다.",
+            "tags": [
+                "office",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Inaudible",
+            "sentence_en": "The digital recording was corrupted and became inaudible.",
+            "sentence_ko": "디지털 녹음 파일이 손상되어 들리지 않게 되었습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "office"
+            ]
+        },
+        {
+            "word": "Shrill",
+            "sentence_en": "A shrill alarm woke us up early on our vacation.",
+            "sentence_ko": "휴가 중에 날카로운 알람 소리가 우리를 일찍 깨웠습니다.",
+            "tags": [
+                "vacation",
+                "mood",
+                "morning"
+            ]
+        },
+        {
+            "word": "Shrill",
+            "sentence_en": "The shrill sound of the whistle stopped the game.",
+            "sentence_ko": "날카로운 호루라기 소리가 경기를 중단시켰습니다.",
+            "tags": [
+                "hobby",
+                "sport",
+                "action"
+            ]
+        },
+        {
+            "word": "Shrill",
+            "sentence_en": "Her voice becomes shrill when she gets excited or angry.",
+            "sentence_ko": "그녀는 흥분하거나 화가 나면 목소리가 찢어지는 듯 날카로워집니다.",
+            "tags": [
+                "mood",
+                "social",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Shrill",
+            "sentence_en": "I dislike the shrill ringtone on your digital phone.",
+            "sentence_ko": "네 디지털 폰의 시끄러운 벨 소리가 싫어.",
+            "tags": [
+                "digital",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Shrill",
+            "sentence_en": "The shrill critique of the fashion show was unnecessary.",
+            "sentence_ko": "그 패션쇼에 대한 날카로운 비판은 불필요했습니다.",
+            "tags": [
+                "fashion",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Husky",
+            "sentence_en": "She has a husky voice that sounds very warm and inviting.",
+            "sentence_ko": "그녀는 매우 따뜻하고 매력적으로 들리는 허스키한 목소리를 가졌습니다.",
+            "tags": [
+                "warm",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Husky",
+            "sentence_en": "His voice became husky after shouting at the sports game.",
+            "sentence_ko": "스포츠 경기에서 소리를 지른 후 그의 목소리가 쉬었습니다.",
+            "tags": [
+                "hobby",
+                "social",
+                "sport"
+            ]
+        },
+        {
+            "word": "Husky",
+            "sentence_en": "The singer is famous for her unique, husky tone.",
+            "sentence_ko": "그 가수는 독특하고 허스키한 음색으로 유명합니다.",
+            "tags": [
+                "hobby",
+                "music",
+                "art"
+            ]
+        },
+        {
+            "word": "Husky",
+            "sentence_en": "A husky voice narration fits the mood of this mystery movie.",
+            "sentence_ko": "허스키한 목소리의 내레이션이 이 미스터리 영화의 분위기와 잘 어울립니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Husky",
+            "sentence_en": "I sound husky because I caught a cold during vacation.",
+            "sentence_ko": "휴가 중에 감기에 걸려서 목소리가 잠겼습니다.",
+            "tags": [
+                "vacation",
+                "health",
+                "social"
+            ]
+        },
+        {
+            "word": "Soft-spoken",
+            "sentence_en": "He is a soft-spoken man who rarely raises his voice.",
+            "sentence_ko": "그는 목소리를 높이는 법이 거의 없는 조곤조곤한 사람입니다.",
+            "tags": [
+                "social",
+                "mood",
+                "character"
+            ]
+        },
+        {
+            "word": "Soft-spoken",
+            "sentence_en": "The soft-spoken librarian helped me find the book.",
+            "sentence_ko": "목소리가 부드러운 사서가 내가 책을 찾는 것을 도와주었습니다.",
+            "tags": [
+                "hobby",
+                "warm",
+                "social"
+            ]
+        },
+        {
+            "word": "Soft-spoken",
+            "sentence_en": "Despite being soft-spoken, she is a powerful leader in the office.",
+            "sentence_ko": "조곤조곤하게 말하지만, 그녀는 사무실에서 영향력 있는 리더입니다.",
+            "tags": [
+                "office",
+                "social",
+                "work"
+            ]
+        },
+        {
+            "word": "Soft-spoken",
+            "sentence_en": "The AI assistant has a soft-spoken and calming voice.",
+            "sentence_ko": "그 AI 비서는 부드럽고 차분한 목소리를 가졌습니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Soft-spoken",
+            "sentence_en": "Being soft-spoken can sometimes be perceived as being shy.",
+            "sentence_ko": "목소리가 작고 부드러우면 때로는 수줍음이 많은 것으로 비칠 수 있습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "psychology"
+            ]
+        },
+        {
+            "word": "Outspoken",
+            "sentence_en": "She is outspoken about the need for better digital privacy.",
+            "sentence_ko": "그녀는 더 나은 디지털 프라이버시의 필요성에 대해 거침없이 말합니다.",
+            "tags": [
+                "digital",
+                "social",
+                "tech"
+            ]
+        },
+        {
+            "word": "Outspoken",
+            "sentence_en": "The outspoken critic hated the new fashion collection.",
+            "sentence_ko": "그 독설가 평론가는 새로운 패션 컬렉션을 아주 싫어했습니다.",
+            "tags": [
+                "fashion",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Outspoken",
+            "sentence_en": "We value outspoken employees who share honest feedback.",
+            "sentence_ko": "우리는 솔직한 피드백을 공유하는 거침없는 직원을 높이 평가합니다.",
+            "tags": [
+                "office",
+                "social",
+                "work"
+            ]
+        },
+        {
+            "word": "Outspoken",
+            "sentence_en": "He is outspoken on social media about environmental issues.",
+            "sentence_ko": "그는 소셜 미디어에서 환경 문제에 대해 거침없이 의견을 밝힙니다.",
+            "tags": [
+                "social",
+                "digital",
+                "issue"
+            ]
+        },
+        {
+            "word": "Outspoken",
+            "sentence_en": "The movie features an outspoken hero who fights for justice.",
+            "sentence_ko": "그 영화는 정의를 위해 싸우는 거침없는 영웅을 다룹니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Vocal",
+            "sentence_en": "Fans were very vocal about their dislike of the new movie ending.",
+            "sentence_ko": "팬들은 새 영화 결말에 대한 불만을 목소리 높여 표현했습니다.",
+            "tags": [
+                "movie",
+                "social",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Vocal",
+            "sentence_en": "She has been vocal in her support for ethical fashion.",
+            "sentence_ko": "그녀는 윤리적인 패션을 지지하는 데 목소리를 높여왔습니다.",
+            "tags": [
+                "fashion",
+                "social",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Vocal",
+            "sentence_en": "Be vocal about your needs during the project meeting.",
+            "sentence_ko": "프로젝트 회의 중에 필요한 것에 대해 확실히 말하세요.",
+            "tags": [
+                "office",
+                "social",
+                "work"
+            ]
+        },
+        {
+            "word": "Vocal",
+            "sentence_en": "The group was vocal in demanding better digital tools.",
+            "sentence_ko": "그 그룹은 더 나은 디지털 도구를 요구하는 데 목소리를 높였습니다.",
+            "tags": [
+                "digital",
+                "ai",
+                "office"
+            ]
+        },
+        {
+            "word": "Vocal",
+            "sentence_en": "He is a vocal advocate for animal rights.",
+            "sentence_ko": "그는 동물 권리를 위해 목소리를 높이는 옹호자입니다.",
+            "tags": [
+                "social",
+                "hobby",
+                "care"
+            ]
+        },
+        {
+            "word": "Silver-tongued",
+            "sentence_en": "The silver-tongued salesman convinced me to buy the expensive car.",
+            "sentence_ko": "언변이 좋은 영업사원이 비싼 차를 사도록 저를 설득했습니다.",
+            "tags": [
+                "social",
+                "hobby",
+                "shopping"
+            ]
+        },
+        {
+            "word": "Silver-tongued",
+            "sentence_en": "He is a silver-tongued speaker who can charm any audience.",
+            "sentence_ko": "그는 어떤 청중도 매료시킬 수 있는 달변가입니다.",
+            "tags": [
+                "social",
+                "mood",
+                "talk"
+            ]
+        },
+        {
+            "word": "Silver-tongued",
+            "sentence_en": "Don't be fooled by a silver-tongued scammer online.",
+            "sentence_ko": "온라인에서 말재주 좋은 사기꾼에게 속지 마세요.",
+            "tags": [
+                "digital",
+                "social",
+                "safety"
+            ]
+        },
+        {
+            "word": "Silver-tongued",
+            "sentence_en": "The movie character is a silver-tongued lawyer who never loses.",
+            "sentence_ko": "그 영화 캐릭터는 절대 지지 않는 언변 좋은 변호사입니다.",
+            "tags": [
+                "movie",
+                "office",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Silver-tongued",
+            "sentence_en": "She used her silver-tongued skills to negotiate a better deal.",
+            "sentence_ko": "그녀는 유창한 말솜씨를 이용해 더 나은 거래를 성사시켰습니다.",
+            "tags": [
+                "office",
+                "social",
+                "business"
+            ]
+        },
+        {
+            "word": "Tongue-tied",
+            "sentence_en": "I got tongue-tied when I met my favorite movie star.",
+            "sentence_ko": "제가 좋아하는 영화배우를 만났을 때 꿀 먹은 벙어리가 되었습니다.",
+            "tags": [
+                "movie",
+                "mood",
+                "social"
+            ]
+        },
+        {
+            "word": "Tongue-tied",
+            "sentence_en": "He became tongue-tied during the important office presentation.",
+            "sentence_ko": "그는 중요한 사무실 프레젠테이션 중에 말이 막혀버렸습니다.",
+            "tags": [
+                "office",
+                "mood",
+                "work"
+            ]
+        },
+        {
+            "word": "Tongue-tied",
+            "sentence_en": "She was tongue-tied and couldn't explain the digital error.",
+            "sentence_ko": "그녀는 말문이 막혀 디지털 오류를 설명할 수 없었습니다.",
+            "tags": [
+                "digital",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Tongue-tied",
+            "sentence_en": "Don't get tongue-tied; just speak from your heart.",
+            "sentence_ko": "말을 아끼지 말고 그냥 마음에서 우러나오는 대로 말하세요.",
+            "tags": [
+                "warm",
+                "social",
+                "mood"
+            ]
+        },
+        {
+            "word": "Tongue-tied",
+            "sentence_en": "The shy boy was tongue-tied when talking to the girl he liked.",
+            "sentence_ko": "수줍음 많은 소년은 좋아하는 소녀와 이야기할 때 말문이 막혔습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "romance"
+            ]
+        },
+        {
+            "word": "Hesitant",
+            "sentence_en": "She was hesitant to try the exotic food on vacation.",
+            "sentence_ko": "그녀는 휴가 중에 이국적인 음식을 시도하는 것을 주저했습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "food"
+            ]
+        },
+        {
+            "word": "Hesitant",
+            "sentence_en": "Investors are hesitant about investing in the new AI technology.",
+            "sentence_ko": "투자자들은 새로운 AI 기술에 투자하는 것을 망설이고 있습니다.",
+            "tags": [
+                "ai",
+                "office",
+                "business"
+            ]
+        },
+        {
+            "word": "Hesitant",
+            "sentence_en": "He gave a hesitant smile, not sure if I was joking.",
+            "sentence_ko": "그는 제가 농담하는 건지 확신이 안 서서 주저하며 미소를 지었습니다.",
+            "tags": [
+                "mood",
+                "social",
+                "interaction"
+            ]
+        },
+        {
+            "word": "Hesitant",
+            "sentence_en": "Don't be hesitant to ask for help in the office.",
+            "sentence_ko": "사무실에서 도움을 요청하는 것을 주저하지 마세요.",
+            "tags": [
+                "office",
+                "social",
+                "warm"
+            ]
+        },
+        {
+            "word": "Hesitant",
+            "sentence_en": "Her hesitant reply suggested she wasn't telling the whole truth.",
+            "sentence_ko": "그녀의 머뭇거리는 대답은 그녀가 진실을 다 말하고 있지 않음을 암시했습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Pausing",
+            "sentence_en": "Pausing for effect, the speaker looked at the audience.",
+            "sentence_ko": "효과를 주기 위해 잠시 멈춘 연사는 청중을 바라보았습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "speech"
+            ]
+        },
+        {
+            "word": "Pausing",
+            "sentence_en": "The video keeps pausing because of the slow internet.",
+            "sentence_ko": "인터넷이 느려서 영상이 계속 멈춥니다.",
+            "tags": [
+                "digital",
+                "hobby",
+                "tech"
+            ]
+        },
+        {
+            "word": "Pausing",
+            "sentence_en": "We are pausing the project until we get more funding.",
+            "sentence_ko": "우리는 자금을 더 확보할 때까지 프로젝트를 잠시 중단합니다.",
+            "tags": [
+                "office",
+                "business",
+                "work"
+            ]
+        },
+        {
+            "word": "Pausing",
+            "sentence_en": "Pausing to breathe deeply can help regulate your mood.",
+            "sentence_ko": "잠시 멈춰서 심호흡을 하면 기분을 조절하는 데 도움이 됩니다.",
+            "tags": [
+                "mood",
+                "warm",
+                "health"
+            ]
+        },
+        {
+            "word": "Pausing",
+            "sentence_en": "After pausing to check the map, we continued our vacation hike.",
+            "sentence_ko": "지도를 확인하기 위해 잠시 멈춘 뒤, 우리는 휴가 하이킹을 계속했습니다.",
+            "tags": [
+                "vacation",
+                "hobby",
+                "outdoor"
+            ]
+        },
+        {
+            "word": "Rhythmic",
+            "sentence_en": "The rhythmic sound of the waves helped me sleep on vacation.",
+            "sentence_ko": "규칙적인 파도 소리가 휴가지에서 잠드는 데 도움을 주었습니다.",
+            "tags": [
+                "vacation",
+                "mood",
+                "nature"
+            ]
+        },
+        {
+            "word": "Rhythmic",
+            "sentence_en": "Coding often involves the rhythmic clicking of the keyboard.",
+            "sentence_ko": "코딩은 종종 키보드의 리듬감 있는 클릭 소리를 동반합니다.",
+            "tags": [
+                "hobby",
+                "digital",
+                "work"
+            ]
+        },
+        {
+            "word": "Rhythmic",
+            "sentence_en": "She speaks in a rhythmic way that sounds like poetry.",
+            "sentence_ko": "그녀는 시 낭송처럼 리듬감 있게 말합니다.",
+            "tags": [
+                "social",
+                "hobby",
+                "art"
+            ]
+        },
+        {
+            "word": "Rhythmic",
+            "sentence_en": "The movie was edited in a rhythmic style to match the music.",
+            "sentence_ko": "그 영화는 음악에 맞춰 리듬감 있는 스타일로 편집되었습니다.",
+            "tags": [
+                "movie",
+                "digital",
+                "art"
+            ]
+        },
+        {
+            "word": "Rhythmic",
+            "sentence_en": "Rhythmic breathing exercises are good for stress relief.",
+            "sentence_ko": "리듬감 있는 호흡 운동은 스트레스 해소에 좋습니다.",
+            "tags": [
+                "warm",
+                "mood",
+                "health"
+            ]
+        },
+        {
+            "word": "Fast-paced",
+            "sentence_en": "The fast-paced environment of the office keeps me motivated.",
+            "sentence_ko": "사무실의 빠르게 돌아가는 환경이 저에게 동기를 부여합니다.",
+            "tags": [
+                "office",
+                "mood",
+                "work"
+            ]
+        },
+        {
+            "word": "Fast-paced",
+            "sentence_en": "This is a fast-paced action movie with no boring moments.",
+            "sentence_ko": "이것은 지루할 틈이 없는 속도감 있는 액션 영화입니다.",
+            "tags": [
+                "movie",
+                "hobby",
+                "entertainment"
+            ]
+        },
+        {
+            "word": "Fast-paced",
+            "sentence_en": "The fashion industry is fast-paced and constantly changing.",
+            "sentence_ko": "패션 산업은 속도가 빠르고 끊임없이 변화합니다.",
+            "tags": [
+                "fashion",
+                "social",
+                "trend"
+            ]
+        },
+        {
+            "word": "Fast-paced",
+            "sentence_en": "AI development is so fast-paced it's hard to keep up.",
+            "sentence_ko": "AI 개발 속도가 너무 빨라서 따라가기가 힘듭니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "tech"
+            ]
+        },
+        {
+            "word": "Fast-paced",
+            "sentence_en": "I need a vacation to escape this fast-paced city life.",
+            "sentence_ko": "이 숨 가쁜 도시 생활에서 벗어나려면 휴가가 필요해요.",
+            "tags": [
+                "vacation",
+                "mood",
+                "life"
+            ]
+        },
+        {
+            "word": "Measured",
+            "sentence_en": "He replied in a measured tone to avoid an argument.",
+            "sentence_ko": "그는 언쟁을 피하기 위해 신중한 어조로 대답했습니다.",
+            "tags": [
+                "social",
+                "mood",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Measured",
+            "sentence_en": "The politician gave a measured response to the crisis.",
+            "sentence_ko": "그 정치인은 위기에 대해 정제된 답변을 내놓았습니다.",
+            "tags": [
+                "social",
+                "office",
+                "news"
+            ]
+        },
+        {
+            "word": "Measured",
+            "sentence_en": "AI provides measured predictions based on historical data.",
+            "sentence_ko": "AI는 과거 데이터를 바탕으로 신중한 예측을 제공합니다.",
+            "tags": [
+                "ai",
+                "digital",
+                "data"
+            ]
+        },
+        {
+            "word": "Measured",
+            "sentence_en": "She took measured steps across the icy street.",
+            "sentence_ko": "그녀는 빙판길을 한 발 한 발 조심스럽게 걸었습니다.",
+            "tags": [
+                "mood",
+                "action",
+                "winter"
+            ]
+        },
+        {
+            "word": "Measured",
+            "sentence_en": "His measured approach to the problem solved it efficiently.",
+            "sentence_ko": "문제에 대한 그의 신중한 접근 방식이 문제를 효율적으로 해결했습니다.",
+            "tags": [
+                "office",
+                "hobby",
+                "work"
+            ]
+        }
+    ]
+}

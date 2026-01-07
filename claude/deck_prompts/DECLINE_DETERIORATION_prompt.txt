@@ -1,0 +1,102 @@
+  # 영어 학습 예문 생성 요청
+
+  ## 덱 정보
+  - **덱 이름**: DECLINE_DETERIORATION
+  - **총 단어 수**: 30개
+
+  ## 단어 목록
+  1. Deteriorate - 악화되다 (질이나 상태가 나빠지다)
+  2. Deplete - 고갈시키다 (자원을 다 써버리다)
+  3. Degenerate - 퇴보하다, 타락하다 (나쁜 상태로 변질되다)
+  4. Worsen - 나빠지다 (단순히 더 안 좋아지다)
+  5. Decline - 쇠퇴하다, 감소하다 (수치나 힘이 줄다)
+  6. Diminish - 줄어들다, 약해지다 (크기나 중요성이 작아지다)
+  7. Dwindle - 점점 줄어들다 (거의 없어질 정도로 줄다)
+  8. Shrink - 오그라들다, 줄다 (수축하다)
+  9. Contract - 수축하다 (쪼그라들다, *계약하다 아님*)
+  10. Recede - 물러나다, 희미해지다 (뒤로 빠지다)
+  11. Wither - 시들다 (생기를 잃고 마르다)
+  12. Decay - 부패하다, 충치 먹다 (서서히 썩다)
+  13. Rot - 썩다 (심하게 부패하다)
+  14. Decompose - 분해되다 (화학적/생물학적으로 썩다)
+  15. Corrode - 부식하다 (녹이 슬어 갉아먹다)
+  16. Erode - 침식하다 (비바람에 깎이다/서서히 파괴되다)
+  17. Crumble - 바스러지다, 허물어지다 (조각나서 무너지다)
+  18. Collapse - 붕괴하다, 쓰러지다 (갑자기 무너지다)
+  19. Plummet - 곤두박질치다 (수직으로 떨어지다)
+  20. Plunge - 급락하다 (거칠게 떨어지다)
+  21. Slump - 급감하다, 털썩 앉다 (경제 등이 푹 꺼지다)
+  22. Crash - 폭락하다, 추락하다 (완전히 망가지다)
+  23. Nosedive - 급강하하다 (코를 박고 떨어지다)
+  24. Tumble - 굴러 떨어지다 (비틀거리며 추락하다)
+  25. Subside - 가라앉다 (격렬함이 줄어들다)
+  26. Wane - 약해지다, 이지러지다 (달이 기울듯)
+  27. Fade - 희미해지다, 바래다 (사라져 가다)
+  28. Exhaust - 다 써버리다, 지치게 하다 (완전히 비우다)
+  29. Weaken - 약화시키다 (힘을 빼다)
+  30. Fail - 실패하다, 고장 나다 (기능을 멈추다)
+
+  ## 추천 태그 (상황/맥락)
+  office, vacation, digital, smartphone, marketing, communication, friendship, startup, time, work
+
+  ## 작업 요구사항
+
+  당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+  ### 예문 생성 가이드라인
+
+  1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+  2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+  3. **태그 활용**:
+    - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+    - 각 예문마다 어울리는 태그 5개 내외만 선택
+    - **중요**: 모든 태그를 억지로 사용하지 말 것
+  4. **다양성**: 다양한 맥락과 상황을 다룰 것
+  5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+  6. **한국어 번역**:
+    - 직역이 아닌 **자연스러운 한국어 의역**
+    - 한국인이 실제로 사용하는 표현으로 번역
+
+  ### 출력 형식
+
+  반드시 아래의 JSON 형식으로 출력해주세요:
+
+  ```json
+  {
+    "deck_title": "DECLINE_DETERIORATION",
+    "total_sentences": 0,
+    "sentences": [
+      {
+        "word": "단어",
+        "sentence_en": "영어 예문",
+        "sentence_ko": "자연스러운 한국어 번역",
+        "tags": ["선택된", "태그", "5개", "내외"]
+      }
+    ]
+  }
+  ```
+
+  ### 예시
+
+  ```json
+  {
+    "deck_title": "DECLINE_DETERIORATION",
+    "total_sentences": 2,
+    "sentences": [
+      {
+        "word": "prudent",
+        "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+        "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+        "tags": ["business", "work", "planning"]
+      },
+      {
+        "word": "sage",
+        "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+        "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+        "tags": ["conversation", "relationship", "learning"]
+      }
+    ]
+  }
+  ```
+
+  이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

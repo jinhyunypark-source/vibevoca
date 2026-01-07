@@ -1,0 +1,102 @@
+  # 영어 학습 예문 생성 요청
+
+  ## 덱 정보
+  - **덱 이름**: INTIMACY_AFFECTION
+  - **총 단어 수**: 30개
+
+  ## 단어 목록
+  1. Tender - 상냥한, 부드러운 (조심스럽고 다정한)
+  2. Intimate - 친밀한, 사적인 (매우 가깝고 깊은 관계)
+  3. Fraternal - 형제애의, 우애 깊은 (형제 같은)
+  4. Close - 가까운 (정서적/물리적으로 친한)
+  5. Affectionate - 다정한, 애정 어린 (사랑을 표현하는)
+  6. Loving - 사랑하는, 애정이 깊은 (따뜻한 마음)
+  7. Devoted - 헌신적인 (깊은 사랑으로 충성하는)
+  8. Platonic - 정신적인 사랑의 (육체적 관계가 없는 순수한)
+  9. Romantic - 로맨틱한, 연애의 (남녀 간의 사랑)
+  10. Passionate - 열정적인 (감정이 격렬하고 뜨거운)
+  11. Inseparable - 떼려야 뗄 수 없는 (늘 붙어 다니는)
+  12. Bonded - 유대감이 형성된 (깊이 연결된)
+  13. Attached - 애착을 가진 (정서적으로 달라붙은)
+  14. Close-knit - 긴밀하게 맺어진 (구성원 간 사이가 끈끈한)
+  15. Familial - 가족적인 (가족 같은 유대감의)
+  16. Maternal - 모성애의, 어머니 같은 (보살피는)
+  17. Confidant - (라)fides 믿음,  절친한 친구, 막역한 사이 (비밀을 털어놓는 상대)
+  18. Paternal - 부성애의, 아버지 같은 (보호하는)
+  19. Cherished - 소중히 여겨지는 (아끼고 사랑받는)
+  20. Beloved - 사랑하는, 총애받는 (매우 사랑받는 대상)
+  21. Adoring - 흠모하는, 아주 좋아하는 (사랑과 존경이 섞인)
+  22. Dear - 소중한, 친애하는 (가깝고 아끼는)
+  23. Fond - 좋아하는, 다정한 (은근한 애정)
+  24. Warm - 따뜻한 (정이 많고 친절한)
+  25. Soulmate - 소울메이트, 영혼의 단짝 (영혼이 통하는 상대)
+  26. Companion - 동반자, 말동무 (함께 시간을 보내는 사람)
+  27. Partner - 반려자, 파트너 (삶이나 일을 함께하는)
+  28. Spouse - 배우자 (남편이나 아내, 법적 용어)
+  29. Significant other - 연인, 배우자 (중요한 타인/파트너)
+  30. Buddy - 친구, 단짝 (구어체) (편한 친구)
+
+  ## 추천 태그 (상황/맥락)
+  home, exercise, entrepreneur, conversation, outdoor, mood, study, code, office, shopping
+
+  ## 작업 요구사항
+
+  당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+  ### 예문 생성 가이드라인
+
+  1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+  2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+  3. **태그 활용**:
+    - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+    - 각 예문마다 어울리는 태그 5개 내외만 선택
+    - **중요**: 모든 태그를 억지로 사용하지 말 것
+  4. **다양성**: 다양한 맥락과 상황을 다룰 것
+  5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+  6. **한국어 번역**:
+    - 직역이 아닌 **자연스러운 한국어 의역**
+    - 한국인이 실제로 사용하는 표현으로 번역
+
+  ### 출력 형식
+
+  반드시 아래의 JSON 형식으로 출력해주세요:
+
+  ```json
+  {
+    "deck_title": "INTIMACY_AFFECTION",
+    "total_sentences": 0,
+    "sentences": [
+      {
+        "word": "단어",
+        "sentence_en": "영어 예문",
+        "sentence_ko": "자연스러운 한국어 번역",
+        "tags": ["선택된", "태그", "5개", "내외"]
+      }
+    ]
+  }
+  ```
+
+  ### 예시
+
+  ```json
+  {
+    "deck_title": "INTIMACY_AFFECTION",
+    "total_sentences": 2,
+    "sentences": [
+      {
+        "word": "prudent",
+        "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+        "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+        "tags": ["business", "work", "planning"]
+      },
+      {
+        "word": "sage",
+        "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+        "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+        "tags": ["conversation", "relationship", "learning"]
+      }
+    ]
+  }
+  ```
+
+  이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

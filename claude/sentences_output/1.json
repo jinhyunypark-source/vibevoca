@@ -1,0 +1,906 @@
+{
+  "deck_title": "2_WISDOM_INSIGHT_PRUDENCE",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Deep",
+      "sentence_en": "We need to take a deep dive into the code to find the root cause of the bug.",
+      "sentence_ko": "버그의 근본 원인을 찾으려면 코드를 깊이 파고들어 확인해야 합니다.",
+      "tags": ["code", "work", "problem_solving"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "After the soccer match, he fell into a deep sleep due to exhaustion.",
+      "sentence_ko": "축구 경기가 끝난 후, 그는 피로 때문에 깊은 잠에 빠졌습니다.",
+      "tags": ["soccer", "home", "mood"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "She was in deep thought about the future of her startup.",
+      "sentence_ko": "그녀는 자신의 스타트업의 미래에 대해 깊은 생각에 잠겨 있었습니다.",
+      "tags": ["startup", "work", "mood"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "We had a deep conversation about life and career paths late into the night.",
+      "sentence_ko": "우리는 밤늦게까지 인생과 진로에 대해 깊은 대화를 나눴습니다.",
+      "tags": ["conversation", "home", "life"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "The professor has a deep understanding of artificial intelligence algorithms.",
+      "sentence_ko": "그 교수님은 인공지능 알고리즘에 대해 깊은 지식을 가지고 계십니다.",
+      "tags": ["school", "code", "learning"]
+    },
+    {
+      "word": "Sage",
+      "sentence_en": "My mentor offered some sage advice regarding the new business contract.",
+      "sentence_ko": "제 멘토는 새로운 사업 계약에 관해 현명한 조언을 해주셨습니다.",
+      "tags": ["work", "job", "conversation"]
+    },
+    {
+      "word": "Sage",
+      "sentence_en": "He is considered the sage of the team, always guiding us through crises.",
+      "sentence_ko": "그는 위기 때마다 우리를 이끌어주는 팀의 현자로 여겨집니다.",
+      "tags": ["work", "startup", "relationship"]
+    },
+    {
+      "word": "Sage",
+      "sentence_en": "The old developer nodded with a sage expression as I explained the architecture.",
+      "sentence_ko": "제가 아키텍처를 설명하자, 그 노련한 개발자는 현명한 표정으로 고개를 끄덕였습니다.",
+      "tags": ["code", "work", "conversation"]
+    },
+    {
+      "word": "Sage",
+      "sentence_en": "Listening to sage counsel can save you a lot of time and money.",
+      "sentence_ko": "현명한 조언을 귀담아들으면 많은 시간과 비용을 절약할 수 있습니다.",
+      "tags": ["startup", "money", "learning"]
+    },
+    {
+      "word": "Sage",
+      "sentence_en": "She shared her sage wisdom with the students during the graduation ceremony.",
+      "sentence_ko": "그녀는 졸업식에서 학생들에게 자신의 지혜로운 말씀을 나누어 주었습니다.",
+      "tags": ["school", "event", "speech"]
+    },
+    {
+      "word": "Sagacious",
+      "sentence_en": "The CEO made a sagacious decision to pivot the company before the market crashed.",
+      "sentence_ko": "CEO는 시장이 붕괴하기 전에 회사의 방향을 전환하는 현명한 결정을 내렸습니다.",
+      "tags": ["startup", "work", "business"]
+    },
+    {
+      "word": "Sagacious",
+      "sentence_en": "He is a sagacious leader who knows exactly who to hire for the project.",
+      "sentence_ko": "그는 프로젝트를 위해 누구를 채용해야 할지 정확히 아는 총명한 리더입니다.",
+      "tags": ["job", "work", "leadership"]
+    },
+    {
+      "word": "Sagacious",
+      "sentence_en": "Her sagacious handling of the personnel issue prevented a major conflict.",
+      "sentence_ko": "그녀가 인사 문제를 현명하게 처리한 덕분에 큰 갈등을 막을 수 있었습니다.",
+      "tags": ["work", "office", "relationship"]
+    },
+    {
+      "word": "Sagacious",
+      "sentence_en": "A sagacious investor looks at long-term value rather than short-term gains.",
+      "sentence_ko": "현명한 투자자는 단기적인 이익보다는 장기적인 가치를 봅니다.",
+      "tags": ["money", "business", "planning"]
+    },
+    {
+      "word": "Sagacious",
+      "sentence_en": "The coach was sagacious enough to change tactics in the second half.",
+      "sentence_ko": "감독은 후반전에 전술을 바꿀 만큼 판단력이 뛰어났습니다.",
+      "tags": ["soccer", "strategy", "game"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "It is prudent to back up your code repository every day.",
+      "sentence_ko": "코드 저장소를 매일 백업하는 것은 신중한 일입니다.",
+      "tags": ["code", "work", "habit"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "We need to be prudent with our budget until the next funding round.",
+      "sentence_ko": "다음 투자 라운드까지는 예산을 신중하게 써야 합니다.",
+      "tags": ["startup", "money", "planning"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "A prudent student starts studying weeks before the final exams.",
+      "sentence_ko": "신중한 학생은 기말고사 몇 주 전부터 공부를 시작합니다.",
+      "tags": ["school", "schedule", "study"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "It wouldn't be prudent to quit your job without a backup plan.",
+      "sentence_ko": "대안 없이 직장을 그만두는 것은 신중하지 못한 일입니다.",
+      "tags": ["job", "career", "advice"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "She took a prudent approach to the negotiations, listening more than speaking.",
+      "sentence_ko": "그녀는 말하기보다 경청하며 협상에 신중하게 접근했습니다.",
+      "tags": ["business", "conversation", "strategy"]
+    },
+    {
+      "word": "Discriminating",
+      "sentence_en": "He has a discriminating eye for clean and efficient code.",
+      "sentence_ko": "그는 깔끔하고 효율적인 코드를 알아보는 안목이 있습니다.",
+      "tags": ["code", "work", "skill"]
+    },
+    {
+      "word": "Discriminating",
+      "sentence_en": "We need to be discriminating consumers when choosing software tools.",
+      "sentence_ko": "소프트웨어 툴을 고를 때는 안목 있는 소비자가 되어야 합니다.",
+      "tags": ["startup", "shopping", "tech"]
+    },
+    {
+      "word": "Discriminating",
+      "sentence_en": "She is very discriminating about the coffee she drinks in the morning.",
+      "sentence_ko": "그녀는 아침에 마시는 커피에 대해 취향이 매우 까다롭습니다.",
+      "tags": ["home", "routine", "food"]
+    },
+    {
+      "word": "Discriminating",
+      "sentence_en": "A discriminating collector can easily spot a fake antique.",
+      "sentence_ko": "안목 있는 수집가는 가짜 골동품을 쉽게 알아낼 수 있습니다.",
+      "tags": ["hobby", "skill", "observation"]
+    },
+    {
+      "word": "Discriminating",
+      "sentence_en": "The hiring manager was discriminating in selecting candidates for the interview.",
+      "sentence_ko": "채용 담당자는 면접 대상자를 선정할 때 매우 신중하게 가려냈습니다.",
+      "tags": ["job", "work", "hiring"]
+    },
+    {
+      "word": "Criticize",
+      "sentence_en": "It is important to criticize the code, not the person who wrote it.",
+      "sentence_ko": "작성자가 아니라 코드를 비평하는 것이 중요합니다.",
+      "tags": ["code", "work", "communication"]
+    },
+    {
+      "word": "Criticize",
+      "sentence_en": "Do not criticize your teammates during the soccer match; encourage them instead.",
+      "sentence_ko": "축구 경기 중에 팀원을 비난하지 말고, 대신 격려해 주세요.",
+      "tags": ["soccer", "teamwork", "sports"]
+    },
+    {
+      "word": "Criticize",
+      "sentence_en": "My boss tends to criticize small details rather than looking at the big picture.",
+      "sentence_ko": "제 상사는 큰 그림을 보기보다 사소한 세부 사항을 비판하는 경향이 있습니다.",
+      "tags": ["job", "work", "stress"]
+    },
+    {
+      "word": "Criticize",
+      "sentence_en": "Constructive feedback is meant to help, not just to criticize.",
+      "sentence_ko": "건설적인 피드백은 단순히 비판하기 위함이 아니라 돕기 위한 것입니다.",
+      "tags": ["conversation", "learning", "growth"]
+    },
+    {
+      "word": "Criticize",
+      "sentence_en": "Critics often criticize movies without understanding the director's intent.",
+      "sentence_ko": "비평가들은 종종 감독의 의도를 이해하지 못한 채 영화를 비판하곤 합니다.",
+      "tags": ["movie", "hobby", "culture"]
+    },
+    {
+      "word": "Discerning",
+      "sentence_en": "She is a discerning reader who only enjoys high-quality literature.",
+      "sentence_ko": "그녀는 수준 높은 문학 작품만 즐기는 식견 있는 독자입니다.",
+      "tags": ["home", "hobby", "reading"]
+    },
+    {
+      "word": "Discerning",
+      "sentence_en": "We need a discerning eye to spot potential security flaws in the system.",
+      "sentence_ko": "시스템의 잠재적인 보안 결함을 찾아내려면 예리한 식견이 필요합니다.",
+      "tags": ["code", "security", "work"]
+    },
+    {
+      "word": "Discerning",
+      "sentence_en": "Discerning customers will notice the difference in product quality immediately.",
+      "sentence_ko": "식견 있는 고객들은 제품의 품질 차이를 즉시 알아차릴 것입니다.",
+      "tags": ["business", "sales", "quality"]
+    },
+    {
+      "word": "Discerning",
+      "sentence_en": "He was discerning enough to realize that the deal was too good to be true.",
+      "sentence_ko": "그는 그 거래가 사실이라기엔 너무 좋다는 것을 깨달을 만큼 판단력이 있었습니다.",
+      "tags": ["business", "money", "wisdom"]
+    },
+    {
+      "word": "Discerning",
+      "sentence_en": "The scout is discerning when it comes to identifying young soccer talents.",
+      "sentence_ko": "그 스카우트는 어린 축구 유망주를 알아보는 데 있어 안목이 탁월합니다.",
+      "tags": ["soccer", "job", "talent"]
+    },
+    {
+      "word": "Judicious",
+      "sentence_en": "We must make judicious use of our limited server resources.",
+      "sentence_ko": "우리는 제한된 서버 자원을 현명하게 사용해야 합니다.",
+      "tags": ["code", "tech", "efficiency"]
+    },
+    {
+      "word": "Judicious",
+      "sentence_en": "The judge was praised for her judicious handling of the complex case.",
+      "sentence_ko": "그 판사는 복잡한 사건을 신중하고 적절하게 처리하여 찬사를 받았습니다.",
+      "tags": ["law", "work", "news"]
+    },
+    {
+      "word": "Judicious",
+      "sentence_en": "You should be judicious when sharing personal information online.",
+      "sentence_ko": "온라인에서 개인 정보를 공유할 때는 신중해야 합니다.",
+      "tags": ["internet", "home", "security"]
+    },
+    {
+      "word": "Judicious",
+      "sentence_en": "A judicious schedule allows for breaks to prevent burnout.",
+      "sentence_ko": "적절한 판단하에 짜인 일정은 번아웃을 막기 위해 휴식 시간을 포함합니다.",
+      "tags": ["schedule", "health", "work"]
+    },
+    {
+      "word": "Judicious",
+      "sentence_en": "He made a judicious choice to invest in education rather than luxury goods.",
+      "sentence_ko": "그는 명품 대신 교육에 투자하는 현명한 선택을 했습니다.",
+      "tags": ["money", "life", "planning"]
+    },
+    {
+      "word": "Contemplative",
+      "sentence_en": "He was in a contemplative mood, staring out the window at the rain.",
+      "sentence_ko": "그는 사색에 잠겨 창밖의 비를 멍하니 바라보고 있었습니다.",
+      "tags": ["mood", "home", "weather"]
+    },
+    {
+      "word": "Contemplative",
+      "sentence_en": "Coding can be a contemplative activity when you are solving deep logic problems.",
+      "sentence_ko": "깊은 논리 문제를 풀 때 코딩은 사색적인 활동이 될 수 있습니다.",
+      "tags": ["code", "hobby", "mindset"]
+    },
+    {
+      "word": "Contemplative",
+      "sentence_en": "She took a contemplative walk around the campus before making her decision.",
+      "sentence_ko": "그녀는 결정을 내리기 전에 캠퍼스를 걸으며 깊은 생각에 잠겼습니다.",
+      "tags": ["school", "walking", "decision"]
+    },
+    {
+      "word": "Contemplative",
+      "sentence_en": "The art gallery provides a quiet, contemplative atmosphere.",
+      "sentence_ko": "그 미술관은 조용하고 사색하기 좋은 분위기를 제공합니다.",
+      "tags": ["culture", "place", "weekend"]
+    },
+    {
+      "word": "Contemplative",
+      "sentence_en": "I enjoy contemplative moments early in the morning with my coffee.",
+      "sentence_ko": "저는 이른 아침 커피와 함께하는 사색의 시간을 즐깁니다.",
+      "tags": ["home", "routine", "morning"]
+    },
+    {
+      "word": "Pensive",
+      "sentence_en": "She looked pensive after hearing the sad news about her colleague.",
+      "sentence_ko": "동료에 대한 슬픈 소식을 들은 후 그녀는 수심에 잠긴 표정이었습니다.",
+      "tags": ["mood", "work", "emotion"]
+    },
+    {
+      "word": "Pensive",
+      "sentence_en": "The pensive melody of the song made everyone in the room quiet.",
+      "sentence_ko": "그 노래의 애수 어린 선율이 방 안의 모두를 조용하게 만들었습니다.",
+      "tags": ["music", "mood", "atmosphere"]
+    },
+    {
+      "word": "Pensive",
+      "sentence_en": "He sat in a pensive silence before answering the difficult interview question.",
+      "sentence_ko": "그는 어려운 면접 질문에 답하기 전, 생각에 잠겨 침묵을 지켰습니다.",
+      "tags": ["job", "interview", "conversation"]
+    },
+    {
+      "word": "Pensive",
+      "sentence_en": "I caught him in a pensive moment, looking at an old photograph.",
+      "sentence_ko": "저는 그가 옛 사진을 보며 깊은 생각에 잠겨 있는 순간을 목격했습니다.",
+      "tags": ["home", "memory", "relationship"]
+    },
+    {
+      "word": "Pensive",
+      "sentence_en": "Her face was pensive as she watched her children play in the yard.",
+      "sentence_ko": "아이들이 마당에서 노는 모습을 바라보는 그녀의 얼굴은 왠지 모를 생각에 잠겨 있었습니다.",
+      "tags": ["home", "family", "mood"]
+    },
+    {
+      "word": "Pendulum",
+      "sentence_en": "The pendulum of the old clock swung back and forth rhythmically.",
+      "sentence_ko": "오래된 시계의 추는 규칙적으로 앞뒤로 흔들렸습니다.",
+      "tags": ["home", "object", "time"]
+    },
+    {
+      "word": "Pendulum",
+      "sentence_en": "Public opinion swings like a pendulum, changing from support to criticism.",
+      "sentence_ko": "여론은 마치 시계추처럼 지지에서 비판으로 오가며 변합니다.",
+      "tags": ["news", "society", "conversation"]
+    },
+    {
+      "word": "Pendulum",
+      "sentence_en": "In a startup, the mood often swings like a pendulum between excitement and fear.",
+      "sentence_ko": "스타트업에서는 분위기가 설렘과 두려움 사이를 시계추처럼 오갈 때가 많습니다.",
+      "tags": ["startup", "work", "emotion"]
+    },
+    {
+      "word": "Pendulum",
+      "sentence_en": "The political pendulum has shifted towards more conservative policies.",
+      "sentence_ko": "정치적 흐름(추)이 좀 더 보수적인 정책 쪽으로 이동했습니다.",
+      "tags": ["politics", "news", "society"]
+    },
+    {
+      "word": "Pendulum",
+      "sentence_en": "Momentum in a soccer game can swing like a pendulum.",
+      "sentence_ko": "축구 경기에서 기세는 시계추처럼 이쪽저쪽으로 넘어갈 수 있습니다.",
+      "tags": ["soccer", "sports", "game"]
+    },
+    {
+      "word": "Intuitive",
+      "sentence_en": "This app interface is so intuitive that I didn't need a manual.",
+      "sentence_ko": "이 앱 인터페이스는 정말 직관적이어서 설명서가 필요 없었습니다.",
+      "tags": ["code", "app", "tech"]
+    },
+    {
+      "word": "Intuitive",
+      "sentence_en": "Great strikers have an intuitive sense of where the ball will land.",
+      "sentence_ko": "위대한 공격수들은 공이 어디로 떨어질지에 대한 직관적인 감각을 가지고 있습니다.",
+      "tags": ["soccer", "sports", "skill"]
+    },
+    {
+      "word": "Intuitive",
+      "sentence_en": "Her intuitive understanding of customer needs helped us design a better product.",
+      "sentence_ko": "고객의 니즈에 대한 그녀의 직관적인 이해 덕분에 더 좋은 제품을 설계할 수 있었습니다.",
+      "tags": ["startup", "work", "design"]
+    },
+    {
+      "word": "Intuitive",
+      "sentence_en": "Driving a car becomes intuitive after years of practice.",
+      "sentence_ko": "수년간 연습하면 운전은 직관적으로 할 수 있게 됩니다.",
+      "tags": ["driving", "skill", "habit"]
+    },
+    {
+      "word": "Intuitive",
+      "sentence_en": "Some people have an intuitive grasp of foreign languages.",
+      "sentence_ko": "어떤 사람들은 외국어에 대해 직관적으로 이해하는 능력이 있습니다.",
+      "tags": ["school", "learning", "language"]
+    },
+    {
+      "word": "Sensible",
+      "sentence_en": "It is sensible to bring an umbrella when the forecast says rain.",
+      "sentence_ko": "일기 예보에 비가 있다고 하면 우산을 챙기는 것이 분별 있는 행동입니다.",
+      "tags": ["home", "weather", "preparation"]
+    },
+    {
+      "word": "Sensible",
+      "sentence_en": "We need a sensible approach to fixing these bugs without breaking other features.",
+      "sentence_ko": "다른 기능을 망가뜨리지 않으면서 버그를 수정하는 합리적인 접근이 필요합니다.",
+      "tags": ["code", "work", "strategy"]
+    },
+    {
+      "word": "Sensible",
+      "sentence_en": "Wearing comfortable shoes is sensible if you're going to stand all day.",
+      "sentence_ko": "하루 종일 서 있어야 한다면 편한 신발을 신는 것이 현명합니다.",
+      "tags": ["job", "health", "clothing"]
+    },
+    {
+      "word": "Sensible",
+      "sentence_en": "She gave me some sensible advice about managing my monthly expenses.",
+      "sentence_ko": "그녀는 제 월 지출 관리에 대해 실용적인 조언을 해주었습니다.",
+      "tags": ["money", "life", "conversation"]
+    },
+    {
+      "word": "Sensible",
+      "sentence_en": "Let's be sensible and stop working before we get too tired.",
+      "sentence_ko": "너무 지치기 전에 일을 멈추는 게 분별 있는 행동입니다.",
+      "tags": ["work", "health", "decision"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "The deadline for the project seems reasonable given the team size.",
+      "sentence_ko": "팀 규모를 고려할 때 프로젝트 마감 기한은 합리적인 것 같습니다.",
+      "tags": ["work", "schedule", "project"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "I think 20 dollars is a reasonable price for this meal.",
+      "sentence_ko": "이 식사에 20달러면 합리적인 가격이라고 생각합니다.",
+      "tags": ["money", "food", "shopping"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "If you have a reasonable excuse, the teacher might extend the due date.",
+      "sentence_ko": "타당한 사유가 있다면 선생님이 마감일을 연장해 줄 수도 있습니다.",
+      "tags": ["school", "communication", "rules"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "Let's try to find a reasonable solution that satisfies everyone.",
+      "sentence_ko": "모두를 만족시킬 수 있는 합리적인 해결책을 찾아봅시다.",
+      "tags": ["conversation", "problem_solving", "meeting"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "He is a reasonable man; I'm sure he will understand your situation.",
+      "sentence_ko": "그는 이성적인 사람이니 당신의 상황을 분명 이해해 줄 것입니다.",
+      "tags": ["relationship", "character", "belief"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "We need to make a rational decision based on data, not emotions.",
+      "sentence_ko": "감정이 아니라 데이터에 기반한 이성적인 결정을 내려야 합니다.",
+      "tags": ["work", "business", "data"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "There must be a rational explanation for this system error.",
+      "sentence_ko": "이 시스템 오류에 대한 논리적인 설명이 분명히 있을 겁니다.",
+      "tags": ["code", "tech", "problem_solving"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "When you are angry, it is hard to stay rational.",
+      "sentence_ko": "화가 나면 이성적인 상태를 유지하기가 어렵습니다.",
+      "tags": ["mood", "psychology", "self_control"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "Investors act in a rational way to maximize their profits.",
+      "sentence_ko": "투자자들은 이익을 극대화하기 위해 이성적으로 행동합니다.",
+      "tags": ["money", "business", "market"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "Let's have a rational discussion about the pros and cons of this feature.",
+      "sentence_ko": "이 기능의 장단점에 대해 이성적인 토론을 해봅시다.",
+      "tags": ["meeting", "work", "development"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "There is a logical error in your code causing the infinite loop.",
+      "sentence_ko": "당신의 코드에 무한 루프를 일으키는 논리적 오류가 있습니다.",
+      "tags": ["code", "bug", "tech"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "The next logical step is to test the prototype with real users.",
+      "sentence_ko": "다음으로 논리적인(타당한) 단계는 실제 사용자와 프로토타입을 테스트하는 것입니다.",
+      "tags": ["startup", "process", "work"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "His argument was so logical that no one could dispute it.",
+      "sentence_ko": "그의 주장은 너무나 논리적이어서 아무도 반박할 수 없었습니다.",
+      "tags": ["debate", "conversation", "school"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "Organizing files by date is a logical way to manage documents.",
+      "sentence_ko": "날짜별로 파일을 정리하는 것은 문서를 관리하는 논리적인 방법입니다.",
+      "tags": ["work", "organization", "computer"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "Thinking in a logical manner helps in solving math problems.",
+      "sentence_ko": "논리적인 방식으로 사고하는 것은 수학 문제를 푸는 데 도움이 됩니다.",
+      "tags": ["school", "study", "math"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "The building's structure is sound and safe for occupancy.",
+      "sentence_ko": "그 건물의 구조는 건전하고 입주하기에 안전합니다.",
+      "tags": ["architecture", "safety", "home"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "He gave me some sound advice on how to handle the interview.",
+      "sentence_ko": "그는 저에게 면접을 어떻게 대처해야 할지에 대해 타당한 조언을 해주었습니다.",
+      "tags": ["job", "advice", "career"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "A sound mind in a sound body is essential for a happy life.",
+      "sentence_ko": "건강한 신체에 건전한 정신은 행복한 삶을 위해 필수적입니다.",
+      "tags": ["health", "life", "proverb"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "Their business plan looks sound and financially viable.",
+      "sentence_ko": "그들의 사업 계획은 타당해 보이고 재정적으로도 실행 가능해 보입니다.",
+      "tags": ["startup", "business", "money"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "She made a sound judgment based on all the available evidence.",
+      "sentence_ko": "그녀는 이용 가능한 모든 증거를 바탕으로 올바른 판단을 내렸습니다.",
+      "tags": ["law", "decision", "work"]
+    },
+    {
+      "word": "Insightful",
+      "sentence_en": "His comments on the code review were very insightful.",
+      "sentence_ko": "코드 리뷰에서 그의 코멘트는 매우 통찰력이 있었습니다.",
+      "tags": ["code", "work", "feedback"]
+    },
+    {
+      "word": "Insightful",
+      "sentence_en": "The documentary offered an insightful look into the lives of wild animals.",
+      "sentence_ko": "그 다큐멘터리는 야생 동물들의 삶에 대한 통찰력 있는 시선을 제공했습니다.",
+      "tags": ["tv", "learning", "nature"]
+    },
+    {
+      "word": "Insightful",
+      "sentence_en": "She asked an insightful question that changed the direction of the meeting.",
+      "sentence_ko": "그녀는 회의의 방향을 바꿀 만한 통찰력 있는 질문을 던졌습니다.",
+      "tags": ["meeting", "work", "communication"]
+    },
+    {
+      "word": "Insightful",
+      "sentence_en": "Reading history books can be very insightful for understanding current events.",
+      "sentence_ko": "역사책을 읽는 것은 현재의 사건들을 이해하는 데 매우 통찰력을 줄 수 있습니다.",
+      "tags": ["school", "reading", "history"]
+    },
+    {
+      "word": "Insightful",
+      "sentence_en": "The coach provided an insightful analysis of the opponent's strategy.",
+      "sentence_ko": "코치는 상대방의 전략에 대해 통찰력 있는 분석을 제공했습니다.",
+      "tags": ["soccer", "strategy", "sports"]
+    },
+    {
+      "word": "Perceptive",
+      "sentence_en": "You are very perceptive to notice that I was feeling down.",
+      "sentence_ko": "제가 기분이 안 좋다는 것을 눈치채다니 당신은 정말 눈치가 빠르군요.",
+      "tags": ["mood", "relationship", "conversation"]
+    },
+    {
+      "word": "Perceptive",
+      "sentence_en": "A perceptive teacher knows when a student is struggling without asking.",
+      "sentence_ko": "지각력 있는 선생님은 학생이 물어보지 않아도 어려워하는 것을 압니다.",
+      "tags": ["school", "teaching", "empathy"]
+    },
+    {
+      "word": "Perceptive",
+      "sentence_en": "Her perceptive remarks helped us identify the flaw in our marketing plan.",
+      "sentence_ko": "그녀의 예리한 지적은 우리 마케팅 계획의 결함을 찾는 데 도움이 되었습니다.",
+      "tags": ["business", "work", "marketing"]
+    },
+    {
+      "word": "Perceptive",
+      "sentence_en": "He is a perceptive observer of human behavior.",
+      "sentence_ko": "그는 인간 행동에 대한 예리한 관찰자입니다.",
+      "tags": ["psychology", "people", "observation"]
+    },
+    {
+      "word": "Perceptive",
+      "sentence_en": "Only a perceptive traveler would notice the hidden gems of the city.",
+      "sentence_ko": "예리한 여행자만이 그 도시의 숨겨진 보석 같은 명소들을 알아차릴 것입니다.",
+      "tags": ["travel", "hobby", "discovery"]
+    },
+    {
+      "word": "Prescient",
+      "sentence_en": "His warning about the economic crisis turned out to be prescient.",
+      "sentence_ko": "경제 위기에 대한 그의 경고는 예지력이 있었던 것으로 판명되었습니다.",
+      "tags": ["money", "economy", "news"]
+    },
+    {
+      "word": "Prescient",
+      "sentence_en": "The sci-fi novel was prescient in predicting the rise of the internet.",
+      "sentence_ko": "그 공상과학 소설은 인터넷의 부상을 예측했다는 점에서 예지력이 있었습니다.",
+      "tags": ["book", "tech", "future"]
+    },
+    {
+      "word": "Prescient",
+      "sentence_en": "A prescient leader prepares for challenges before they even appear.",
+      "sentence_ko": "선견지명이 있는 리더는 도전 과제가 나타나기도 전에 미리 대비합니다.",
+      "tags": ["leadership", "work", "planning"]
+    },
+    {
+      "word": "Prescient",
+      "sentence_en": "Buying that land ten years ago was a prescient investment.",
+      "sentence_ko": "10년 전에 그 땅을 산 것은 앞을 내다본 투자였습니다.",
+      "tags": ["money", "investment", "real_estate"]
+    },
+    {
+      "word": "Prescient",
+      "sentence_en": "Her prescient decision saved the startup from bankruptcy.",
+      "sentence_ko": "그녀의 예지력 있는 결정이 스타트업을 파산 위기에서 구했습니다.",
+      "tags": ["startup", "business", "crisis"]
+    },
+    {
+      "word": "Observant",
+      "sentence_en": "You have to be observant to spot the subtle bugs in this code.",
+      "sentence_ko": "이 코드의 미세한 버그를 찾으려면 관찰력이 있어야 합니다.",
+      "tags": ["code", "work", "attention"]
+    },
+    {
+      "word": "Observant",
+      "sentence_en": "My observant neighbor noticed that I left my garage door open.",
+      "sentence_ko": "관찰력 좋은 이웃이 제가 차고 문을 열어둔 것을 알아차렸습니다.",
+      "tags": ["home", "neighborhood", "safety"]
+    },
+    {
+      "word": "Observant",
+      "sentence_en": "An observant player always checks the position of the defenders.",
+      "sentence_ko": "관찰력 있는 선수는 항상 수비수들의 위치를 확인합니다.",
+      "tags": ["soccer", "sports", "game"]
+    },
+    {
+      "word": "Observant",
+      "sentence_en": "She is very observant and notices whenever I get a haircut.",
+      "sentence_ko": "그녀는 눈썰미가 좋아서 제가 머리를 자를 때마다 알아봅니다.",
+      "tags": ["relationship", "conversation", "social"]
+    },
+    {
+      "word": "Observant",
+      "sentence_en": "Be observant of the traffic signs when driving in a new city.",
+      "sentence_ko": "낯선 도시에서 운전할 때는 교통 표지판을 주의 깊게 살피세요.",
+      "tags": ["driving", "travel", "safety"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "The book had a profound impact on my philosophy of life.",
+      "sentence_ko": "그 책은 제 인생 철학에 심오한 영향을 끼쳤습니다.",
+      "tags": ["book", "life", "reading"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "There was a profound silence in the room after the announcement.",
+      "sentence_ko": "발표가 끝난 후 방 안에는 깊은 정적이 흘렀습니다.",
+      "tags": ["mood", "atmosphere", "meeting"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "He has a profound knowledge of ancient history.",
+      "sentence_ko": "그는 고대 역사에 대해 깊이 있는 지식을 가지고 있습니다.",
+      "tags": ["school", "history", "learning"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "The changes in the AI industry are profound and rapid.",
+      "sentence_ko": "AI 산업의 변화는 심오하고 빠릅니다.",
+      "tags": ["tech", "startup", "industry"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "We expressed our profound gratitude for their support.",
+      "sentence_ko": "우리는 그들의 지원에 대해 깊은 감사를 표했습니다.",
+      "tags": ["conversation", "emotion", "politeness"]
+    },
+    {
+      "word": "Philosophical",
+      "sentence_en": "He gets very philosophical after a few drinks.",
+      "sentence_ko": "그는 술을 몇 잔 마시면 매우 철학적으로 변합니다.",
+      "tags": ["conversation", "social", "character"]
+    },
+    {
+      "word": "Philosophical",
+      "sentence_en": "We had a philosophical debate about the ethics of artificial intelligence.",
+      "sentence_ko": "우리는 인공지능의 윤리에 대해 철학적인 토론을 벌였습니다.",
+      "tags": ["tech", "debate", "future"]
+    },
+    {
+      "word": "Philosophical",
+      "sentence_en": "Instead of getting angry, he took a philosophical view of his failure.",
+      "sentence_ko": "그는 화를 내는 대신 실패를 철학적인 관점으로 받아들였습니다.",
+      "tags": ["mood", "mindset", "resilience"]
+    },
+    {
+      "word": "Philosophical",
+      "sentence_en": "The coach was philosophical about the loss, saying it's part of the game.",
+      "sentence_ko": "감독은 패배에 대해 그것도 경기의 일부라며 철학적인 태도를 보였습니다.",
+      "tags": ["soccer", "sports", "interview"]
+    },
+    {
+      "word": "Philosophical",
+      "sentence_en": "She enjoys reading philosophical texts that challenge her thinking.",
+      "sentence_ko": "그녀는 사고를 자극하는 철학적인 글을 읽는 것을 즐깁니다.",
+      "tags": ["reading", "hobby", "school"]
+    },
+    {
+      "word": "Enlightened",
+      "sentence_en": "We need an enlightened approach to employee management.",
+      "sentence_ko": "우리는 직원 관리에 있어 깨어있는(계몽된) 접근 방식이 필요합니다.",
+      "tags": ["work", "management", "culture"]
+    },
+    {
+      "word": "Enlightened",
+      "sentence_en": "Education creates an enlightened society.",
+      "sentence_ko": "교육은 깨어있는 사회를 만듭니다.",
+      "tags": ["school", "society", "value"]
+    },
+    {
+      "word": "Enlightened",
+      "sentence_en": "After traveling the world, he returned as an enlightened man.",
+      "sentence_ko": "세상을 여행한 후, 그는 깨우침을 얻은 사람이 되어 돌아왔습니다.",
+      "tags": ["travel", "life", "growth"]
+    },
+    {
+      "word": "Enlightened",
+      "sentence_en": "The company has an enlightened policy regarding parental leave.",
+      "sentence_ko": "그 회사는 육아 휴직에 관해 선진적인 정책을 가지고 있습니다.",
+      "tags": ["job", "welfare", "company"]
+    },
+    {
+      "word": "Enlightened",
+      "sentence_en": "I felt enlightened after listening to his lecture on physics.",
+      "sentence_ko": "그의 물리학 강의를 듣고 나서 지혜를 얻은 기분이 들었습니다.",
+      "tags": ["school", "learning", "science"]
+    },
+    {
+      "word": "Visionary",
+      "sentence_en": "Steve Jobs is often described as a visionary leader.",
+      "sentence_ko": "스티브 잡스는 종종 선견지명 있는 리더로 묘사됩니다.",
+      "tags": ["tech", "business", "history"]
+    },
+    {
+      "word": "Visionary",
+      "sentence_en": "The startup needs a visionary idea to attract investors.",
+      "sentence_ko": "스타트업이 투자자를 유치하려면 비전 있는 아이디어가 필요합니다.",
+      "tags": ["startup", "money", "pitch"]
+    },
+    {
+      "word": "Visionary",
+      "sentence_en": "Her visionary plans for the city include green parks and smart transport.",
+      "sentence_ko": "도시에 대한 그녀의 미래지향적인 계획에는 녹지 공원과 스마트 교통이 포함됩니다.",
+      "tags": ["politics", "urban", "planning"]
+    },
+    {
+      "word": "Visionary",
+      "sentence_en": "A visionary architect designed this futuristic building.",
+      "sentence_ko": "선견지명 있는 건축가가 이 미래지향적인 건물을 설계했습니다.",
+      "tags": ["architecture", "design", "art"]
+    },
+    {
+      "word": "Visionary",
+      "sentence_en": "He is a visionary who sees opportunities where others see problems.",
+      "sentence_ko": "그는 남들이 문제를 보는 곳에서 기회를 보는 비전 있는 사람입니다.",
+      "tags": ["character", "mindset", "success"]
+    },
+    {
+      "word": "Far-sighted",
+      "sentence_en": "Making a pension plan in your 20s is a far-sighted decision.",
+      "sentence_ko": "20대 때 연금 계획을 세우는 것은 장기적인 안목이 있는 결정입니다.",
+      "tags": ["money", "planning", "life"]
+    },
+    {
+      "word": "Far-sighted",
+      "sentence_en": "The company's far-sighted investment in AI is now paying off.",
+      "sentence_ko": "AI에 대한 회사의 미래를 내다본 투자가 이제 성과를 내고 있습니다.",
+      "tags": ["business", "tech", "profit"]
+    },
+    {
+      "word": "Far-sighted",
+      "sentence_en": "He was far-sighted enough to bring extra supplies for the trip.",
+      "sentence_ko": "그는 여행을 위해 여분의 물품을 챙길 만큼 선견지명이 있었습니다.",
+      "tags": ["travel", "preparation", "wisdom"]
+    },
+    {
+      "word": "Far-sighted",
+      "sentence_en": "Far-sighted policies are needed to combat climate change.",
+      "sentence_ko": "기후 변화에 대처하기 위해서는 장기적인 안목의 정책이 필요합니다.",
+      "tags": ["environment", "politics", "future"]
+    },
+    {
+      "word": "Far-sighted",
+      "sentence_en": "She is a far-sighted leader who focuses on sustainable growth.",
+      "sentence_ko": "그녀는 지속 가능한 성장에 집중하는 미래 지향적인 리더입니다.",
+      "tags": ["leadership", "work", "vision"]
+    },
+    {
+      "word": "Thoughtful",
+      "sentence_en": "Thank you for the thoughtful gift; it is exactly what I needed.",
+      "sentence_ko": "사려 깊은 선물 감사합니다. 딱 제가 필요했던 거예요.",
+      "tags": ["home", "gift", "relationship"]
+    },
+    {
+      "word": "Thoughtful",
+      "sentence_en": "He is a thoughtful developer who writes comments for every function.",
+      "sentence_ko": "그는 모든 함수에 주석을 달아주는 사려 깊은 개발자입니다.",
+      "tags": ["code", "work", "teamwork"]
+    },
+    {
+      "word": "Thoughtful",
+      "sentence_en": "She gave a thoughtful answer to the reporter's difficult question.",
+      "sentence_ko": "그녀는 기자의 어려운 질문에 신중한 답변을 내놓았습니다.",
+      "tags": ["interview", "communication", "wisdom"]
+    },
+    {
+      "word": "Thoughtful",
+      "sentence_en": "It was very thoughtful of you to prepare lunch for the whole team.",
+      "sentence_ko": "전체 팀을 위해 점심을 준비하다니 정말 배려심이 깊으시네요.",
+      "tags": ["work", "lunch", "kindness"]
+    },
+    {
+      "word": "Thoughtful",
+      "sentence_en": "He sat in a thoughtful silence, planning his next move.",
+      "sentence_ko": "그는 다음 행동을 계획하며 생각에 잠긴 침묵 속에 앉아 있었습니다.",
+      "tags": ["mood", "strategy", "planning"]
+    },
+    {
+      "word": "Reflective",
+      "sentence_en": "The end of the year is usually a reflective time for me.",
+      "sentence_ko": "연말은 저에게 보통 지난날을 성찰하는 시간입니다.",
+      "tags": ["time", "calendar", "mood"]
+    },
+    {
+      "word": "Reflective",
+      "sentence_en": "Writing a diary helps me be more reflective about my daily life.",
+      "sentence_ko": "일기를 쓰는 것은 제 일상에 대해 더 성찰하게 도와줍니다.",
+      "tags": ["writing", "hobby", "habit"]
+    },
+    {
+      "word": "Reflective",
+      "sentence_en": "He was in a reflective mood after revisiting his hometown.",
+      "sentence_ko": "고향을 다시 방문한 후 그는 회상에 잠긴 기분이었습니다.",
+      "tags": ["travel", "memory", "emotion"]
+    },
+    {
+      "word": "Reflective",
+      "sentence_en": "Reflective practice is important for improving your coding skills.",
+      "sentence_ko": "성찰적인 연습(복기)은 코딩 실력을 향상하는 데 중요합니다.",
+      "tags": ["code", "learning", "growth"]
+    },
+    {
+      "word": "Reflective",
+      "sentence_en": "The calm lake was reflective, mirroring the mountains perfectly.",
+      "sentence_ko": "고요한 호수는 반사가 잘 되어 산을 완벽하게 비추고 있었습니다.",
+      "tags": ["nature", "scenery", "travel"]
+    },
+    {
+      "word": "Meditative",
+      "sentence_en": "Running in the morning can be a meditative experience.",
+      "sentence_ko": "아침에 달리는 것은 명상적인 경험이 될 수 있습니다.",
+      "tags": ["health", "sport", "routine"]
+    },
+    {
+      "word": "Meditative",
+      "sentence_en": "She enjoys the meditative process of brewing tea.",
+      "sentence_ko": "그녀는 차를 우려내는 명상적인 과정을 즐깁니다.",
+      "tags": ["home", "hobby", "tea"]
+    },
+    {
+      "word": "Meditative",
+      "sentence_en": "The repetitive nature of coding HTML was strangely meditative.",
+      "sentence_ko": "HTML을 코딩하는 반복적인 작업은 묘하게 명상적이었습니다.",
+      "tags": ["code", "work", "feeling"]
+    },
+    {
+      "word": "Meditative",
+      "sentence_en": "He sat in a meditative pose to calm his mind before the presentation.",
+      "sentence_ko": "그는 발표 전 마음을 진정시키기 위해 명상 자세로 앉아 있었습니다.",
+      "tags": ["work", "stress", "health"]
+    },
+    {
+      "word": "Meditative",
+      "sentence_en": "Gardening is a meditative hobby that helps reduce stress.",
+      "sentence_ko": "정원 가꾸기는 스트레스를 줄여주는 명상적인 취미입니다.",
+      "tags": ["home", "hobby", "nature"]
+    },
+    {
+      "word": "Introspective",
+      "sentence_en": "He became very introspective after failing the exam.",
+      "sentence_ko": "그는 시험에 떨어진 후 매우 내성적(자아 성찰적)이 되었습니다.",
+      "tags": ["school", "fail", "mindset"]
+    },
+    {
+      "word": "Introspective",
+      "sentence_en": "Introspective people tend to understand their own emotions well.",
+      "sentence_ko": "내면을 성찰하는 사람들은 자신의 감정을 잘 이해하는 경향이 있습니다.",
+      "tags": ["psychology", "character", "people"]
+    },
+    {
+      "word": "Introspective",
+      "sentence_en": "The lyrics of this song are deeply introspective and personal.",
+      "sentence_ko": "이 노래의 가사는 매우 자전적이고 개인적입니다.",
+      "tags": ["music", "art", "writing"]
+    },
+    {
+      "word": "Introspective",
+      "sentence_en": "You need an introspective look to find your true passion.",
+      "sentence_ko": "진정한 열정을 찾으려면 내면을 들여다보는 시선이 필요합니다.",
+      "tags": ["life", "career", "advice"]
+    },
+    {
+      "word": "Introspective",
+      "sentence_en": "During the retreat, we spent a lot of time in introspective silence.",
+      "sentence_ko": "수련회 기간 동안 우리는 자아 성찰적인 침묵 속에서 많은 시간을 보냈습니다.",
+      "tags": ["travel", "healing", "group"]
+    }
+  ]
+}

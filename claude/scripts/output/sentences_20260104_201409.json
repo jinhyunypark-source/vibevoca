@@ -1,0 +1,882 @@
+[
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The pasta at this Italian restaurant was absolutely delicious.",
+    "sentence_ko": "이 이탈리안 레스토랑의 파스타는 정말 맛있었다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "I tried delicious street food during my trip to Bangkok.",
+    "sentence_ko": "방콕 여행 중 맛있는 길거리 음식을 먹어봤다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The delicious cake made everyone happy at the party.",
+    "sentence_ko": "맛있는 케이크가 파티에서 모두를 행복하게 했다.",
+    "tags": ["restaurant", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "This homemade pizza is the most delicious thing I've ever tasted.",
+    "sentence_ko": "이 수제 피자는 내가 맛본 것 중 가장 맛있다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The startup's catering service offers delicious meals for offices.",
+    "sentence_ko": "그 스타트업의 케이터링 서비스는 사무실용 맛있는 식사를 제공한다.",
+    "tags": ["restaurant", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "The chef prepared a savory soup with mushrooms and herbs.",
+    "sentence_ko": "셰프는 버섯과 허브로 감칠맛 나는 수프를 만들었다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "I prefer savory snacks like chips over sweet desserts.",
+    "sentence_ko": "나는 달콤한 디저트보다 칩 같은 짭짤한 간식을 선호한다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "The restaurant is famous for its savory Korean stew.",
+    "sentence_ko": "그 레스토랑은 감칠맛 나는 한국식 찌개로 유명하다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "On a warm evening, savory grilled meat tastes even better.",
+    "sentence_ko": "따뜻한 저녁에 감칠맛 나는 구운 고기는 더욱 맛있다.",
+    "tags": ["food", "warm"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "I discovered many savory dishes while traveling through Spain.",
+    "sentence_ko": "스페인을 여행하며 많은 감칠맛 나는 요리를 발견했다.",
+    "tags": ["restaurant", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The succulent steak was cooked to perfection at the steakhouse.",
+    "sentence_ko": "스테이크 하우스에서 즙이 많은 스테이크가 완벽하게 조리되었다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "These succulent peaches are perfect for summer desserts.",
+    "sentence_ko": "이 즙이 많은 복숭아는 여름 디저트로 완벽하다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The restaurant serves succulent roasted chicken every Sunday.",
+    "sentence_ko": "그 레스토랑은 매주 일요일 즙이 많은 로스트 치킨을 제공한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "Even in hot weather, people love succulent watermelon.",
+    "sentence_ko": "더운 날씨에도 사람들은 즙이 많은 수박을 좋아한다.",
+    "tags": ["food", "hot"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The entrepreneur opened a restaurant famous for succulent BBQ ribs.",
+    "sentence_ko": "그 기업가는 즙이 많은 바비큐 립으로 유명한 레스토랑을 열었다.",
+    "tags": ["restaurant", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The chef added a zesty lemon dressing to the salad.",
+    "sentence_ko": "셰프가 샐러드에 상큼한 레몬 드레싱을 추가했다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "This zesty salsa makes everyone happy at the party.",
+    "sentence_ko": "이 톡 쏘는 살사는 파티에서 모두를 행복하게 한다.",
+    "tags": ["food", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The restaurant's zesty lime soup is refreshing and delicious.",
+    "sentence_ko": "그 레스토랑의 상큼한 라임 수프는 신선하고 맛있다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "A zesty drink is perfect for cooling down in hot weather.",
+    "sentence_ko": "상큼한 음료는 더운 날씨에 시원하게 해준다.",
+    "tags": ["food", "hot"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "I enjoyed zesty Mexican food during my trip to Cancun.",
+    "sentence_ko": "칸쿤 여행 중 톡 쏘는 멕시코 음식을 즐겼다.",
+    "tags": ["restaurant", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "This tangy yogurt pairs well with fresh berries.",
+    "sentence_ko": "이 새콤한 요거트는 신선한 베리와 잘 어울린다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The restaurant serves a tangy barbecue sauce with the ribs.",
+    "sentence_ko": "그 레스토랑은 갈비와 함께 새콤한 바비큐 소스를 제공한다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "Tangy kimchi tastes great on a warm spring day.",
+    "sentence_ko": "새콤한 김치는 따뜻한 봄날에 맛있다.",
+    "tags": ["food", "warm"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The chef's tangy vinaigrette elevated the simple salad.",
+    "sentence_ko": "셰프의 새콤한 비네그레트가 심플한 샐러드를 더욱 맛있게 했다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "I discovered tangy pickled vegetables while traveling in Eastern Europe.",
+    "sentence_ko": "동유럽 여행 중 새콤한 피클 채소를 발견했다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "The scrumptious dessert made my birthday celebration perfect.",
+    "sentence_ko": "정말 맛있는 디저트가 내 생일 축하를 완벽하게 만들었다.",
+    "tags": ["restaurant", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "My grandmother makes the most scrumptious apple pie.",
+    "sentence_ko": "우리 할머니는 정말 맛있는 애플 파이를 만드신다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "The entrepreneur's bakery became famous for scrumptious croissants.",
+    "sentence_ko": "그 기업가의 베이커리는 정말 맛있는 크루아상으로 유명해졌다.",
+    "tags": ["restaurant", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "This French restaurant serves scrumptious dishes at reasonable prices.",
+    "sentence_ko": "이 프랑스 레스토랑은 합리적인 가격에 정말 맛있는 요리를 제공한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "I found scrumptious local specialties in every city I visited.",
+    "sentence_ko": "방문한 모든 도시에서 정말 맛있는 현지 특산물을 찾았다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The five-star restaurant offers delectable seafood dishes.",
+    "sentence_ko": "그 5성급 레스토랑은 입안이 즐거운 해산물 요리를 제공한다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "These delectable chocolates always make me happy.",
+    "sentence_ko": "이 맛있는 초콜릿은 항상 나를 행복하게 한다.",
+    "tags": ["food", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The chef prepared a delectable menu for the wedding.",
+    "sentence_ko": "셰프는 결혼식을 위해 입안이 즐거운 메뉴를 준비했다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "On warm evenings, delectable ice cream is the perfect treat.",
+    "sentence_ko": "따뜻한 저녁에 맛있는 아이스크림은 완벽한 간식이다.",
+    "tags": ["food", "warm"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "I tasted delectable pastries in Parisian cafes.",
+    "sentence_ko": "파리 카페에서 입안이 즐거운 페이스트리를 맛봤다.",
+    "tags": ["restaurant", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The medicine was more palatable when mixed with juice.",
+    "sentence_ko": "약은 주스와 섞으면 더 먹을 만했다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The restaurant made healthy food more palatable for children.",
+    "sentence_ko": "그 레스토랑은 아이들에게 건강식을 더 입에 맞게 만들었다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The startup creates palatable protein drinks for athletes.",
+    "sentence_ko": "그 스타트업은 운동선수들을 위한 먹을 만한 프로틴 음료를 만든다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "Even picky eaters find this restaurant's dishes palatable.",
+    "sentence_ko": "까다로운 사람들도 이 레스토랑 요리는 입에 맞다고 한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "She made the vegetables more palatable by adding spices.",
+    "sentence_ko": "그녀는 향신료를 추가해 채소를 더 먹을 만하게 만들었다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing aroma from the kitchen drew customers in.",
+    "sentence_ko": "주방에서 나는 구미를 당기는 향기가 손님들을 끌어들였다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing display of fresh fruits made shoppers happy.",
+    "sentence_ko": "신선한 과일의 구미를 당기는 진열이 쇼핑객들을 행복하게 했다.",
+    "tags": ["food", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The chef creates appetizing presentations for every dish.",
+    "sentence_ko": "셰프는 모든 요리에 구미를 당기는 플레이팅을 만든다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "Appetizing food photography is crucial for restaurant marketing.",
+    "sentence_ko": "구미를 당기는 음식 사진은 레스토랑 마케팅에 중요하다.",
+    "tags": ["food", "marketing"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing local cuisine was the highlight of my trip.",
+    "sentence_ko": "구미를 당기는 현지 요리가 내 여행의 하이라이트였다.",
+    "tags": ["restaurant", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The Michelin-starred restaurant serves exquisite French cuisine.",
+    "sentence_ko": "미슐랭 스타 레스토랑은 정교한 맛의 프랑스 요리를 제공한다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "I experienced exquisite Japanese kaiseki during my Tokyo visit.",
+    "sentence_ko": "도쿄 방문 중 정교한 맛의 일본 가이세키를 경험했다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The chef's exquisite dishes helped the restaurant win awards.",
+    "sentence_ko": "셰프의 정교한 요리가 레스토랑이 상을 받는 데 도움이 됐다.",
+    "tags": ["restaurant", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "Her exquisite cake decorating skills are truly impressive.",
+    "sentence_ko": "그녀의 정교한 케이크 장식 기술은 정말 인상적이다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The restaurant's exquisite tasting menu takes three hours to complete.",
+    "sentence_ko": "그 레스토랑의 정교한 테이스팅 메뉴는 완료하는 데 3시간이 걸린다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "The bland hospital food made patients sad and unmotivated.",
+    "sentence_ko": "싱거운 병원 음식은 환자들을 슬프고 의욕 없게 만들었다.",
+    "tags": ["food", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "The bland soup needed more salt and spices.",
+    "sentence_ko": "그 밋밋한 수프는 소금과 향신료가 더 필요했다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "Without seasoning, chicken breast can taste quite bland.",
+    "sentence_ko": "양념 없이는 닭가슴살이 꽤 싱거울 수 있다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "The restaurant's bland dishes disappointed many customers.",
+    "sentence_ko": "그 레스토랑의 밋밋한 요리는 많은 손님들을 실망시켰다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "The startup failed because their product was too bland for consumers.",
+    "sentence_ko": "그 스타트업은 제품이 소비자들에게 너무 밋밋해서 실패했다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The bread became stale after sitting out for two days.",
+    "sentence_ko": "빵은 이틀간 밖에 두니 눅눅해졌다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "Customers were sad when they received stale pastries.",
+    "sentence_ko": "손님들은 눅눅해진 페이스트리를 받고 슬펐다.",
+    "tags": ["restaurant", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The bakery lost customers due to selling stale products.",
+    "sentence_ko": "그 베이커리는 눅눅한 제품을 팔아서 손님을 잃었다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "Stale crackers lose their appealing crunch and flavor.",
+    "sentence_ko": "눅눅해진 크래커는 매력적인 바삭함과 맛을 잃는다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The restaurant was fined for serving stale food to customers.",
+    "sentence_ko": "그 레스토랑은 손님들에게 상한 음식을 제공해 벌금을 받았다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The rancid butter had an unpleasant smell and taste.",
+    "sentence_ko": "산패한 버터는 불쾌한 냄새와 맛이 났다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The restaurant closed after serving rancid oil in their dishes.",
+    "sentence_ko": "그 레스토랑은 요리에 산패한 기름을 사용한 후 문을 닫았다.",
+    "tags": ["restaurant", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "Rancid nuts should be thrown away immediately for safety.",
+    "sentence_ko": "산패한 견과류는 안전을 위해 즉시 버려야 한다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The food company recalled products with rancid ingredients.",
+    "sentence_ko": "그 식품 회사는 산패한 재료가 든 제품을 리콜했다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "You can tell the oil is rancid by its sharp, bitter smell.",
+    "sentence_ko": "기름이 산패했는지는 날카롭고 쓴 냄새로 알 수 있다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "Years of conflict left deep rancor between the two families.",
+    "sentence_ko": "수년간의 갈등이 두 가족 사이에 깊은 원한을 남겼다.",
+    "tags": ["sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The business partners split with rancor after the failed startup.",
+    "sentence_ko": "사업 파트너들은 스타트업 실패 후 원한을 품고 갈라섰다.",
+    "tags": ["business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "She spoke without rancor despite the unfair treatment.",
+    "sentence_ko": "그녀는 부당한 대우에도 불구하고 원한 없이 말했다.",
+    "tags": ["sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The CEO's resignation was filled with rancor and disappointment.",
+    "sentence_ko": "CEO의 사임은 원한과 실망으로 가득했다.",
+    "tags": ["business", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The debate ended without rancor, with both sides respectful.",
+    "sentence_ko": "토론은 원한 없이 끝났고, 양측 모두 예의를 지켰다.",
+    "tags": [],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid coffee tasted like dishwater.",
+    "sentence_ko": "그 맛없는 커피는 설거지물 같은 맛이 났다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid meal left customers feeling disappointed.",
+    "sentence_ko": "김빠진 식사는 손님들을 실망하게 만들었다.",
+    "tags": ["restaurant", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "Without herbs, the soup became insipid and boring.",
+    "sentence_ko": "허브 없이는 수프가 맛없고 지루해졌다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The restaurant's insipid menu failed to attract diners.",
+    "sentence_ko": "그 레스토랑의 김빠진 메뉴는 손님들을 끌어들이지 못했다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The startup's insipid snacks didn't sell well in the market.",
+    "sentence_ko": "그 스타트업의 맛없는 스낵은 시장에서 잘 팔리지 않았다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The pungent smell of garlic filled the kitchen.",
+    "sentence_ko": "마늘의 톡 쏘는 냄새가 주방을 가득 채웠다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The restaurant is famous for its pungent kimchi stew.",
+    "sentence_ko": "그 레스토랑은 톡 쏘는 김치찌개로 유명하다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "I tried pungent blue cheese while traveling through France.",
+    "sentence_ko": "프랑스 여행 중 톡 쏘는 블루치즈를 먹어봤다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The pungent curry had a strong and spicy aroma.",
+    "sentence_ko": "그 자극적인 카레는 강하고 매운 향이 났다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "Some customers love pungent flavors while others avoid them.",
+    "sentence_ko": "어떤 손님들은 톡 쏘는 맛을 좋아하지만 다른 이들은 피한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The burnt toast had an acrid taste that ruined breakfast.",
+    "sentence_ko": "탄 토스트의 매캐한 맛이 아침 식사를 망쳤다.",
+    "tags": ["food", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The acrid smoke from the grill bothered nearby customers.",
+    "sentence_ko": "그릴에서 나는 매캐한 연기가 근처 손님들을 괴롭혔다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The acrid aftertaste made the cheap wine undrinkable.",
+    "sentence_ko": "매캐한 뒷맛이 싼 와인을 마실 수 없게 만들었다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "In hot weather, acrid smells from garbage are even worse.",
+    "sentence_ko": "더운 날씨에는 쓰레기의 매캐한 냄새가 더욱 심하다.",
+    "tags": ["food", "hot"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The chef avoided acrid flavors by controlling cooking temperatures.",
+    "sentence_ko": "셰프는 조리 온도를 조절해 매캐한 맛을 피했다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "Dark chocolate has a slightly bitter taste.",
+    "sentence_ko": "다크 초콜릿은 약간 쓴맛이 난다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The bitter greens balanced the rich flavors in the salad.",
+    "sentence_ko": "쓴맛의 채소가 샐러드의 진한 맛의 균형을 맞췄다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The bitter medicine made the sick child cry.",
+    "sentence_ko": "쓴 약이 아픈 아이를 울게 만들었다.",
+    "tags": ["food", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "I learned to appreciate bitter coffee during my Italian trip.",
+    "sentence_ko": "이탈리아 여행 중 쓴 커피를 즐기는 법을 배웠다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The restaurant's bitter melon dish is an acquired taste.",
+    "sentence_ko": "그 레스토랑의 쓴 여주 요리는 익숙해져야 하는 맛이다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The greasy pizza left oil stains on the napkins.",
+    "sentence_ko": "기름진 피자가 냅킨에 기름 얼룩을 남겼다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "Customers felt sad and heavy after the greasy meal.",
+    "sentence_ko": "손님들은 느끼한 식사 후 슬프고 무거운 기분이 들었다.",
+    "tags": ["restaurant", "sad"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The fast food chain reduced greasy items on their menu.",
+    "sentence_ko": "그 패스트푸드 체인은 메뉴에서 기름진 항목을 줄였다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "Some people avoid greasy food for health reasons.",
+    "sentence_ko": "어떤 사람들은 건강상의 이유로 기름진 음식을 피한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The greasy fried chicken was delicious but unhealthy.",
+    "sentence_ko": "기름진 프라이드 치킨은 맛있지만 건강에 좋지 않았다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The restaurant serves a rich chocolate mousse for dessert.",
+    "sentence_ko": "그 레스토랑은 디저트로 진한 초콜릿 무스를 제공한다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The rich cream sauce made everyone happy at dinner.",
+    "sentence_ko": "진한 크림 소스가 저녁 식사에서 모두를 행복하게 했다.",
+    "tags": ["food", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "I enjoyed rich French pastries during my Paris vacation.",
+    "sentence_ko": "파리 휴가 중 풍부한 프랑스 페이스트리를 즐겼다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The chef's rich risotto won several culinary awards.",
+    "sentence_ko": "셰프의 진한 리조또는 여러 요리 상을 받았다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The bakery's rich cakes became popular among entrepreneurs.",
+    "sentence_ko": "그 베이커리의 진한 케이크는 기업가들 사이에서 인기를 얻었다.",
+    "tags": ["food", "business"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy bacon complemented the soft scrambled eggs.",
+    "sentence_ko": "바삭한 베이컨이 부드러운 스크램블 에그와 잘 어울렸다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy fried chicken made customers happy and satisfied.",
+    "sentence_ko": "바삭한 프라이드 치킨이 손님들을 행복하고 만족스럽게 했다.",
+    "tags": ["restaurant", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "Crispy vegetables taste great even on warm summer days.",
+    "sentence_ko": "바삭한 채소는 따뜻한 여름날에도 맛있다.",
+    "tags": ["food", "warm"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The restaurant's crispy duck is their signature dish.",
+    "sentence_ko": "그 레스토랑의 바삭한 오리는 시그니처 요리다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "I discovered crispy Korean fried chicken during my Seoul trip.",
+    "sentence_ko": "서울 여행 중 바삭한 한국 치킨을 발견했다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chewy noodles were perfectly cooked al dente.",
+    "sentence_ko": "쫄깃한 면은 알덴테로 완벽하게 조리되었다.",
+    "tags": ["food"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "This restaurant serves chewy rice cakes in spicy sauce.",
+    "sentence_ko": "이 레스토랑은 매운 소스에 쫄깃한 떡을 제공한다.",
+    "tags": ["restaurant"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "I loved the chewy mochi I tried in Japan.",
+    "sentence_ko": "일본에서 먹어본 쫄깃한 모찌가 좋았다.",
+    "tags": ["food", "travel"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chewy caramel candies always make me happy.",
+    "sentence_ko": "쫄깃한 카라멜 사탕은 항상 나를 행복하게 한다.",
+    "tags": ["food", "happy"],
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chef specializes in chewy pasta dishes.",
+    "sentence_ko": "그 셰프는 쫄깃한 파스타 요리를 전문으로 한다.",
+    "tags": ["restaurant", "food"],
+    "deck_name": "TASTE"
+  }
+]

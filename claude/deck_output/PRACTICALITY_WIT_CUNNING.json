@@ -1,0 +1,713 @@
+{
+  "deck_title": "PRACTICALITY_WIT_CUNNING",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Shrewd",
+      "sentence_en": "A shrewd investor knows exactly when to pull out of a failing startup.",
+      "sentence_ko": "상황 판단이 빠른 투자자는 실패하는 스타트업에서 언제 손을 떼야 할지 정확히 압니다.",
+      "tags": ["startup", "business", "money"]
+    },
+    {
+      "word": "Shrewd",
+      "sentence_en": "She made a shrewd move by buying the property before the development plans were announced.",
+      "sentence_ko": "그녀는 개발 계획이 발표되기 전에 그 부동산을 매입하는 기민한 움직임을 보였습니다.",
+      "tags": ["place", "business", "money"]
+    },
+    {
+      "word": "Shrewd",
+      "sentence_en": "His shrewd observation saved the team from a major scheduling conflict.",
+      "sentence_ko": "그의 예리한 관찰 덕분에 팀은 큰 일정 충돌을 피할 수 있었습니다.",
+      "tags": ["schedule", "business", "mood"]
+    },
+    {
+      "word": "Shrewd",
+      "sentence_en": "Being shrewd about your health choices now will pay off in the future.",
+      "sentence_ko": "지금 건강에 대해 현명하게 판단하는 것이 나중에 큰 도움이 될 것입니다.",
+      "tags": ["health", "future", "warm"]
+    },
+    {
+      "word": "Shrewd",
+      "sentence_en": "The CEO is a shrewd negotiator who never leaves money on the table.",
+      "sentence_ko": "그 CEO는 협상에서 절대 손해를 보지 않는 셈이 빠른 협상가입니다.",
+      "tags": ["business", "startup", "communication"]
+    },
+    {
+      "word": "Astute",
+      "sentence_en": "An astute observer noticed the subtle bug in the AI code immediately.",
+      "sentence_ko": "빈틈없는 관찰자가 AI 코드의 미묘한 버그를 즉시 알아차렸습니다.",
+      "tags": ["ai", "code", "technology"]
+    },
+    {
+      "word": "Astute",
+      "sentence_en": "Her astute analysis of the market trends helped the company grow.",
+      "sentence_ko": "시장 트렌드에 대한 그녀의 예리한 분석이 회사 성장에 도움이 되었습니다.",
+      "tags": ["business", "startup", "marketing"]
+    },
+    {
+      "word": "Astute",
+      "sentence_en": "He made an astute comment that changed the mood of the entire meeting.",
+      "sentence_ko": "그가 핵심을 찌르는 발언을 해서 회의 전체의 분위기를 바꿨습니다.",
+      "tags": ["mood", "communication", "meeting"]
+    },
+    {
+      "word": "Astute",
+      "sentence_en": "It was an astute decision to integrate the new technology so early.",
+      "sentence_ko": "새로운 기술을 그렇게 일찍 도입한 것은 혜안이 있는 결정이었습니다.",
+      "tags": ["technology", "business", "choice"]
+    },
+    {
+      "word": "Astute",
+      "sentence_en": "Keep an astute eye on your health metrics when training for a marathon.",
+      "sentence_ko": "마라톤 훈련을 할 때는 건강 수치를 빈틈없이 주시하세요.",
+      "tags": ["health", "sports", "schedule"]
+    },
+    {
+      "word": "Canny",
+      "sentence_en": "He was canny enough to avoid the office politics during the restructuring.",
+      "sentence_ko": "그는 구조조정 기간 동안 사내 정치를 피할 만큼 영리했습니다.",
+      "tags": ["business", "mood", "survival"]
+    },
+    {
+      "word": "Canny",
+      "sentence_en": "A canny shopper knows how to find the best deals on high-end style items.",
+      "sentence_ko": "약삭빠른 쇼핑객은 고급 패션 아이템을 가장 싸게 사는 법을 압니다.",
+      "tags": ["style", "money", "shopping"]
+    },
+    {
+      "word": "Canny",
+      "sentence_en": "The politician was canny in how he answered the difficult questions.",
+      "sentence_ko": "그 정치인은 어려운 질문에 대답하는 방식이 매우 노련했습니다.",
+      "tags": ["communication", "politics", "media"]
+    },
+    {
+      "word": "Canny",
+      "sentence_en": "Scots are often described as canny with their money.",
+      "sentence_ko": "스코틀랜드 사람들은 종종 돈에 있어 신중하고 알뜰하다고 묘사됩니다.",
+      "tags": ["culture", "money", "character"]
+    },
+    {
+      "word": "Canny",
+      "sentence_en": "Her canny investment in the tech startup yielded huge returns.",
+      "sentence_ko": "그 기술 스타트업에 대한 그녀의 신중한 투자는 거대한 수익을 냈습니다.",
+      "tags": ["startup", "technology", "money"]
+    },
+    {
+      "word": "Savvy",
+      "sentence_en": "You need to be tech-savvy to survive in this AI-driven world.",
+      "sentence_ko": "이 AI 주도 세상에서 살아남으려면 기술에 정통해야 합니다.",
+      "tags": ["ai", "technology", "future"]
+    },
+    {
+      "word": "Savvy",
+      "sentence_en": "She is known for being savvy about social media marketing.",
+      "sentence_ko": "그녀는 소셜 미디어 마케팅에 요령이 있기로 유명합니다.",
+      "tags": ["marketing", "business", "style"]
+    },
+    {
+      "word": "Savvy",
+      "sentence_en": "His savvy advice helped me fix the error in my code quickly.",
+      "sentence_ko": "그의 정통한 조언 덕분에 코드 오류를 빨리 고칠 수 있었습니다.",
+      "tags": ["code", "technology", "help"]
+    },
+    {
+      "word": "Savvy",
+      "sentence_en": "Travelers who are savvy know how to pack light for any schedule.",
+      "sentence_ko": "요령 있는 여행자들은 어떤 일정에도 짐을 가볍게 싸는 법을 압니다.",
+      "tags": ["travel", "schedule", "lifestyle"]
+    },
+    {
+      "word": "Savvy",
+      "sentence_en": "The savvy consumers checked the health ingredients before buying.",
+      "sentence_ko": "똑똑한 소비자들은 구매 전에 건강 성분표를 확인했습니다.",
+      "tags": ["health", "shopping", "food"]
+    },
+    {
+      "word": "Droll",
+      "sentence_en": "His droll sense of humor lightened the mood during the intense meeting.",
+      "sentence_ko": "그의 엉뚱하고 익살스러운 유머 감각이 긴장된 회의 분위기를 풀어주었습니다.",
+      "tags": ["mood", "communication", "business"]
+    },
+    {
+      "word": "Droll",
+      "sentence_en": "The movie was full of droll characters and strange situations.",
+      "sentence_ko": "그 영화는 기묘하게 웃긴 캐릭터들과 이상한 상황들로 가득했습니다.",
+      "tags": ["movie", "art", "fun"]
+    },
+    {
+      "word": "Droll",
+      "sentence_en": "She told a droll story about her failed attempt at coding.",
+      "sentence_ko": "그녀는 자신의 실패한 코딩 시도에 대해 익살스러운 이야기를 들려주었습니다.",
+      "tags": ["code", "story", "warm"]
+    },
+    {
+      "word": "Droll",
+      "sentence_en": "I enjoy his droll commentary on the latest tech trends.",
+      "sentence_ko": "저는 최신 기술 트렌드에 대한 그의 냉소적이고 웃긴 논평을 즐깁니다.",
+      "tags": ["technology", "ai", "media"]
+    },
+    {
+      "word": "Droll",
+      "sentence_en": "With a droll expression, he accepted the strange gift.",
+      "sentence_ko": "그는 우스꽝스러운 표정을 지으며 그 이상한 선물을 받았습니다.",
+      "tags": ["mood", "face", "relationship"]
+    },
+    {
+      "word": "Devious",
+      "sentence_en": "The hacker used a devious method to bypass the security code.",
+      "sentence_ko": "해커는 보안 코드를 우회하기 위해 기만적인 방법을 사용했습니다.",
+      "tags": ["code", "technology", "security"]
+    },
+    {
+      "word": "Devious",
+      "sentence_en": "He had a devious plan to take over the startup.",
+      "sentence_ko": "그는 그 스타트업을 차지하려는 음흉한 계획을 가지고 있었습니다.",
+      "tags": ["startup", "business", "conflict"]
+    },
+    {
+      "word": "Devious",
+      "sentence_en": "Don't take the devious route; just be honest with your team.",
+      "sentence_ko": "정도를 벗어난 길로 가지 말고, 팀에게 솔직해지세요.",
+      "tags": ["communication", "ethics", "mood"]
+    },
+    {
+      "word": "Devious",
+      "sentence_en": "The maze was designed with devious twists and turns.",
+      "sentence_ko": "그 미로는 교묘하게 꼬불꼬불 설계되어 있었습니다.",
+      "tags": ["place", "game", "design"]
+    },
+    {
+      "word": "Devious",
+      "sentence_en": "A devious mind can be useful in writing complex mystery novels.",
+      "sentence_ko": "기만적인 사고방식은 복잡한 추리 소설을 쓸 때 유용할 수 있습니다.",
+      "tags": ["art", "writing", "creativity"]
+    },
+    {
+      "word": "Scheming",
+      "sentence_en": "A scheming competitor tried to steal our startup's confidential data.",
+      "sentence_ko": "책략을 꾸미던 경쟁사가 우리 스타트업의 기밀 데이터를 훔치려 했습니다.",
+      "tags": ["startup", "business", "security"]
+    },
+    {
+      "word": "Scheming",
+      "sentence_en": "Stop scheming and just tell us what you want.",
+      "sentence_ko": "꿍꿍이 좀 그만 부리고 그냥 원하는 게 뭔지 말해.",
+      "tags": ["communication", "mood", "relationship"]
+    },
+    {
+      "word": "Scheming",
+      "sentence_en": "The characters in the drama are always scheming against each other.",
+      "sentence_ko": "그 드라마의 등장인물들은 항상 서로를 모함하려고 책략을 꾸밉니다.",
+      "tags": ["tv", "story", "mood"]
+    },
+    {
+      "word": "Scheming",
+      "sentence_en": "He was caught scheming to manipulate the project schedule.",
+      "sentence_ko": "그는 프로젝트 일정을 조작하려고 꾸미다가 걸렸습니다.",
+      "tags": ["schedule", "business", "ethics"]
+    },
+    {
+      "word": "Scheming",
+      "sentence_en": "A scheming politician can ruin the warm atmosphere of a community.",
+      "sentence_ko": "음흉한 정치인은 지역 사회의 따뜻한 분위기를 망칠 수 있습니다.",
+      "tags": ["politics", "warm", "place"]
+    },
+    {
+      "word": "Sly",
+      "sentence_en": "He gave a sly smile when I asked about the secret project.",
+      "sentence_ko": "비밀 프로젝트에 대해 묻자 그는 은밀한 미소를 지었습니다.",
+      "tags": ["mood", "communication", "secret"]
+    },
+    {
+      "word": "Sly",
+      "sentence_en": "The fox is often depicted as a sly animal in fables.",
+      "sentence_ko": "여우는 우화에서 종종 교활한 동물로 묘사됩니다.",
+      "tags": ["story", "animal", "nature"]
+    },
+    {
+      "word": "Sly",
+      "sentence_en": "She took a sly glance at the clock, hoping the meeting would end.",
+      "sentence_ko": "그녀는 회의가 끝나길 바라며 시계를 슬쩍 쳐다보았습니다.",
+      "tags": ["schedule", "meeting", "mood"]
+    },
+    {
+      "word": "Sly",
+      "sentence_en": "It was sly of him to include that clause in the contract.",
+      "sentence_ko": "계약서에 그 조항을 넣은 것은 그의 교활한 수였습니다.",
+      "tags": ["business", "law", "contract"]
+    },
+    {
+      "word": "Sly",
+      "sentence_en": "Don't be sly; open communication is key to a healthy relationship.",
+      "sentence_ko": "음흉하게 굴지 마세요. 열린 소통이 건강한 관계의 핵심입니다.",
+      "tags": ["health", "relationship", "warm"]
+    },
+    {
+      "word": "Street-smart",
+      "sentence_en": "In the startup world, being street-smart is often more valuable than a degree.",
+      "sentence_ko": "스타트업 세계에서는 학위보다 실전 감각(street-smart)이 더 가치 있을 때가 많습니다.",
+      "tags": ["startup", "business", "education"]
+    },
+    {
+      "word": "Street-smart",
+      "sentence_en": "He is street-smart and knows how to navigate the city safely.",
+      "sentence_ko": "그는 세상 물정에 밝아서 도시를 안전하게 다니는 법을 압니다.",
+      "tags": ["place", "safety", "travel"]
+    },
+    {
+      "word": "Street-smart",
+      "sentence_en": "You need to be street-smart to negotiate prices in this market.",
+      "sentence_ko": "이 시장에서 가격을 흥정하려면 눈치가 빠르고 요령이 있어야 합니다.",
+      "tags": ["money", "market", "shopping"]
+    },
+    {
+      "word": "Street-smart",
+      "sentence_en": "Her street-smart attitude helped her solve practical problems quickly.",
+      "sentence_ko": "그녀의 실전적인 태도는 현실적인 문제들을 빠르게 해결하는 데 도움이 되었습니다.",
+      "tags": ["problem_solving", "mood", "efficiency"]
+    },
+    {
+      "word": "Street-smart",
+      "sentence_en": "AI developers need to be street-smart about how their tools are actually used.",
+      "sentence_ko": "AI 개발자들은 자신들의 도구가 실제로 어떻게 쓰이는지에 대해 세상 물정을 알아야 합니다.",
+      "tags": ["ai", "technology", "ethics"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "You look sharp in that new suit; it fits your style perfectly.",
+      "sentence_ko": "그 새 정장을 입으니 아주 멋져(깔끔해) 보여요. 당신 스타일과 완벽하게 어울립니다.",
+      "tags": ["style", "fashion", "mood"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "Keep your mind sharp by learning to code every day.",
+      "sentence_ko": "매일 코딩을 배우면서 정신을 또렷하게 유지하세요.",
+      "tags": ["code", "health", "education"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "She has a sharp tongue, but her heart is warm.",
+      "sentence_ko": "그녀는 독설가(말이 날카로움)이지만, 마음만은 따뜻합니다.",
+      "tags": ["warm", "communication", "character"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "Be sharp during the negotiation; don't miss any details.",
+      "sentence_ko": "협상 중에는 빠릿빠릿하게 행동하세요. 어떤 세부 사항도 놓치지 마세요.",
+      "tags": ["business", "meeting", "money"]
+    },
+    {
+      "word": "Sharp",
+      "sentence_en": "The image quality on this new screen is incredibly sharp.",
+      "sentence_ko": "이 새 화면의 화질은 믿을 수 없을 정도로 선명합니다.",
+      "tags": ["technology", "quality", "visual"]
+    },
+    {
+      "word": "Keen",
+      "sentence_en": "He has a keen interest in how AI will change the medical field.",
+      "sentence_ko": "그는 AI가 의료 분야를 어떻게 바꿀지에 대해 지대한 관심을 가지고 있습니다.",
+      "tags": ["ai", "health", "future"]
+    },
+    {
+      "word": "Keen",
+      "sentence_en": "Dogs have a keen sense of smell.",
+      "sentence_ko": "개들은 예민한 후각을 가지고 있습니다.",
+      "tags": ["nature", "animal", "sense"]
+    },
+    {
+      "word": "Keen",
+      "sentence_en": "She is a keen observer of fashion trends in this place.",
+      "sentence_ko": "그녀는 이 지역의 패션 트렌드를 예리하게 관찰하는 사람입니다.",
+      "tags": ["style", "place", "trend"]
+    },
+    {
+      "word": "Keen",
+      "sentence_en": "The startup is keen to hire talented developers.",
+      "sentence_ko": "그 스타트업은 재능 있는 개발자를 채용하고 싶어 안달이 나 있습니다.",
+      "tags": ["startup", "business", "code"]
+    },
+    {
+      "word": "Keen",
+      "sentence_en": "Maintain a keen awareness of your schedule to avoid burnout.",
+      "sentence_ko": "번아웃을 피하기 위해 자신의 일정에 대해 날카로운 인식을 유지하세요.",
+      "tags": ["schedule", "health", "mood"]
+    },
+    {
+      "word": "Witty",
+      "sentence_en": "The AI chatbot gave a surprisingly witty answer to my question.",
+      "sentence_ko": "AI 챗봇이 제 질문에 놀라울 정도로 재치 있는 답변을 내놓았습니다.",
+      "tags": ["ai", "technology", "fun"]
+    },
+    {
+      "word": "Witty",
+      "sentence_en": "He is famous for his witty remarks during dinner parties.",
+      "sentence_ko": "그는 저녁 파티에서 재치 있는 농담을 하기로 유명합니다.",
+      "tags": ["mood", "communication", "social"]
+    },
+    {
+      "word": "Witty",
+      "sentence_en": "A witty slogan can help a startup stand out.",
+      "sentence_ko": "재치 있는 슬로건은 스타트업이 돋보이게 도와줄 수 있습니다.",
+      "tags": ["startup", "marketing", "business"]
+    },
+    {
+      "word": "Witty",
+      "sentence_en": "She wrote a witty code comment that made the developers laugh.",
+      "sentence_ko": "그녀는 개발자들을 웃게 만든 재치 있는 주석을 코드에 남겼습니다.",
+      "tags": ["code", "mood", "work"]
+    },
+    {
+      "word": "Witty",
+      "sentence_en": "Warm and witty conversation is the key to a good date.",
+      "sentence_ko": "따뜻하고 재치 있는 대화는 좋은 데이트의 핵심입니다.",
+      "tags": ["warm", "relationship", "love"]
+    },
+    {
+      "word": "Humorous",
+      "sentence_en": "A humorous speech can warm up the audience before a presentation.",
+      "sentence_ko": "유머러스한 연설은 발표 전에 청중의 분위기를 훈훈하게 만들 수 있습니다.",
+      "tags": ["warm", "mood", "speech"]
+    },
+    {
+      "word": "Humorous",
+      "sentence_en": "He tried to be humorous, but his joke fell flat.",
+      "sentence_ko": "그는 웃기려고 노력했지만, 그의 농담은 썰렁했습니다.",
+      "tags": ["communication", "fail", "social"]
+    },
+    {
+      "word": "Humorous",
+      "sentence_en": "Coding can be a humorous process when you find silly bugs.",
+      "sentence_ko": "바보 같은 버그를 발견할 때 코딩은 꽤 재미있는 과정이 될 수 있습니다.",
+      "tags": ["code", "fun", "technology"]
+    },
+    {
+      "word": "Humorous",
+      "sentence_en": "She has a humorous take on the difficulties of parenting.",
+      "sentence_ko": "그녀는 육아의 어려움에 대해 유머러스한 견해를 가지고 있습니다.",
+      "tags": ["family", "life", "mood"]
+    },
+    {
+      "word": "Humorous",
+      "sentence_en": "Humorous ads often perform better on social media.",
+      "sentence_ko": "재미있는 광고들이 소셜 미디어에서 종종 더 좋은 성과를 냅니다.",
+      "tags": ["business", "marketing", "media"]
+    },
+    {
+      "word": "Cunning",
+      "sentence_en": "It took a cunning plan to fix the schedule conflict without upsetting anyone.",
+      "sentence_ko": "아무도 기분 상하게 하지 않고 일정 충돌을 해결하는 데는 교묘한 계획이 필요했습니다.",
+      "tags": ["schedule", "business", "problem_solving"]
+    },
+    {
+      "word": "Cunning",
+      "sentence_en": "The cunning fox waited for the right moment to strike.",
+      "sentence_ko": "교활한 여우는 공격할 적절한 타이밍을 기다렸습니다.",
+      "tags": ["nature", "animal", "strategy"]
+    },
+    {
+      "word": "Cunning",
+      "sentence_en": "You need cunning to win in this competitive strategy game.",
+      "sentence_ko": "이 치열한 전략 게임에서 이기려면 간교한 지혜가 필요합니다.",
+      "tags": ["game", "strategy", "mood"]
+    },
+    {
+      "word": "Cunning",
+      "sentence_en": "His cunning use of AI tools gave him an advantage over others.",
+      "sentence_ko": "그가 AI 도구를 교묘하게 활용한 것이 다른 사람들보다 우위를 점하게 해주었습니다.",
+      "tags": ["ai", "technology", "advantage"]
+    },
+    {
+      "word": "Cunning",
+      "sentence_en": "She admired his cunning intellect, even if she didn't trust him.",
+      "sentence_ko": "그녀는 그를 신뢰하지는 않았지만, 그의 비상한 머리(교활한 지능)는 감탄했습니다.",
+      "tags": ["mood", "character", "mind"]
+    },
+    {
+      "word": "Crafty",
+      "sentence_en": "The crafty developer found a workaround for the system limitation.",
+      "sentence_ko": "그 손재주 좋은(술수 좋은) 개발자는 시스템 한계에 대한 해결책을 찾아냈습니다.",
+      "tags": ["code", "technology", "solution"]
+    },
+    {
+      "word": "Crafty",
+      "sentence_en": "She is crafty with her hands and makes beautiful decorations.",
+      "sentence_ko": "그녀는 손재주가 좋아서 아름다운 장식품을 만듭니다.",
+      "tags": ["art", "hobby", "style"]
+    },
+    {
+      "word": "Crafty",
+      "sentence_en": "Beware of crafty sales tactics that hide hidden fees.",
+      "sentence_ko": "숨겨진 요금을 감추는 교묘한 판매 전략을 조심하세요.",
+      "tags": ["business", "money", "warning"]
+    },
+    {
+      "word": "Crafty",
+      "sentence_en": "He came up with a crafty excuse to leave the party early.",
+      "sentence_ko": "그는 파티에서 일찍 빠져나오기 위해 그럴싸한(교묘한) 핑계를 대었습니다.",
+      "tags": ["mood", "social", "lie"]
+    },
+    {
+      "word": "Crafty",
+      "sentence_en": "A crafty startup founder knows how to leverage free resources.",
+      "sentence_ko": "요령 좋은 스타트업 창업자는 무료 자원을 활용하는 법을 압니다.",
+      "tags": ["startup", "resource", "money"]
+    },
+    {
+      "word": "Wily",
+      "sentence_en": "The wily old veteran used his experience to win the negotiation.",
+      "sentence_ko": "그 약삭빠른 노장은 자신의 경험을 이용해 협상에서 이겼습니다.",
+      "tags": ["business", "experience", "mood"]
+    },
+    {
+      "word": "Wily",
+      "sentence_en": "He is a wily opponent who never reveals his strategy.",
+      "sentence_ko": "그는 자신의 전략을 절대 드러내지 않는 교활한 상대입니다.",
+      "tags": ["competition", "strategy", "game"]
+    },
+    {
+      "word": "Wily",
+      "sentence_en": "The pitcher threw a wily curveball that tricked the batter.",
+      "sentence_ko": "투수는 타자를 속이는 노련한(약삭빠른) 커브볼을 던졌습니다.",
+      "tags": ["sports", "action", "skill"]
+    },
+    {
+      "word": "Wily",
+      "sentence_en": "Be wily when dealing with unknown contractors.",
+      "sentence_ko": "모르는 계약업체와 거래할 때는 빈틈없이(약삭빠르게) 구세요.",
+      "tags": ["business", "money", "caution"]
+    },
+    {
+      "word": "Wily",
+      "sentence_en": "His wily tactics in the game annoyed his friends.",
+      "sentence_ko": "게임에서 그의 얍삽한 전술은 친구들을 짜증 나게 했습니다.",
+      "tags": ["game", "mood", "friend"]
+    },
+    {
+      "word": "Artful",
+      "sentence_en": "Her artful arrangement of the furniture made the place look bigger.",
+      "sentence_ko": "그녀가 가구를 기교 있게 배치한 덕분에 공간이 더 넓어 보였습니다.",
+      "tags": ["place", "style", "interior"]
+    },
+    {
+      "word": "Artful",
+      "sentence_en": "He is artful at dodging difficult questions.",
+      "sentence_ko": "그는 곤란한 질문을 교묘하게 피하는 데 능숙합니다.",
+      "tags": ["communication", "skill", "mood"]
+    },
+    {
+      "word": "Artful",
+      "sentence_en": "The artful design of the app encourages users to stay longer.",
+      "sentence_ko": "그 앱의 교묘한 디자인은 사용자들이 더 오래 머물도록 유도합니다.",
+      "tags": ["technology", "design", "app"]
+    },
+    {
+      "word": "Artful",
+      "sentence_en": "She used artful makeup to enhance her natural style.",
+      "sentence_ko": "그녀는 자연스러운 스타일을 살리기 위해 기교 있는 메이크업을 했습니다.",
+      "tags": ["style", "beauty", "fashion"]
+    },
+    {
+      "word": "Artful",
+      "sentence_en": "It was an artful deception that fooled everyone.",
+      "sentence_ko": "그것은 모두를 속인 감쪽같은(교묘한) 속임수였습니다.",
+      "tags": ["lie", "story", "drama"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "Avoid using manipulative design patterns in your app interface.",
+      "sentence_ko": "앱 인터페이스에 사용자를 조종하는 디자인 패턴(다크 패턴)을 사용하지 마세요.",
+      "tags": ["technology", "design", "ethics"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "He is manipulative and tries to control everyone's schedule.",
+      "sentence_ko": "그는 조종하려 드는 성격이라 모든 사람의 일정을 통제하려고 합니다.",
+      "tags": ["schedule", "relationship", "mood"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "Manipulative advertising can damage a brand's reputation.",
+      "sentence_ko": "소비자를 조종하는 광고는 브랜드 평판을 해칠 수 있습니다.",
+      "tags": ["business", "marketing", "brand"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "She realized her boss was being manipulative to get more work out of her.",
+      "sentence_ko": "그녀는 상사가 일을 더 시키려고 자신을 교묘하게 부리고 있다는 것을 깨달았습니다.",
+      "tags": ["work", "business", "stress"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "True leaders are inspiring, not manipulative.",
+      "sentence_ko": "진정한 리더는 영감을 주지, 사람을 조종하지 않습니다.",
+      "tags": ["leadership", "warm", "mood"]
+    },
+    {
+      "word": "Vigilant",
+      "sentence_en": "You must be vigilant about your health when working long hours.",
+      "sentence_ko": "장시간 근무할 때는 건강에 대해 항상 방심하지 말아야 합니다.",
+      "tags": ["health", "work", "schedule"]
+    },
+    {
+      "word": "Vigilant",
+      "sentence_en": "Be vigilant against phishing emails that target startups.",
+      "sentence_ko": "스타트업을 노리는 피싱 이메일에 대해 경계를 늦추지 마세요.",
+      "tags": ["startup", "security", "technology"]
+    },
+    {
+      "word": "Vigilant",
+      "sentence_en": "The security software is vigilant in detecting new threats.",
+      "sentence_ko": "보안 소프트웨어는 새로운 위협을 탐지하는 데 있어 빈틈이 없습니다.",
+      "tags": ["technology", "code", "security"]
+    },
+    {
+      "word": "Vigilant",
+      "sentence_en": "Drivers need to be vigilant in this busy place.",
+      "sentence_ko": "운전자들은 이 혼잡한 장소에서 각별히 주의해야 합니다.",
+      "tags": ["place", "safety", "traffic"]
+    },
+    {
+      "word": "Vigilant",
+      "sentence_en": "We must remain vigilant to protect our personal data.",
+      "sentence_ko": "우리는 개인 정보를 보호하기 위해 항상 깨어 있어야 합니다.",
+      "tags": ["privacy", "data", "life"]
+    },
+    {
+      "word": "vigil",
+      "sentence_en": "The team kept a lonely vigil at the office while the server rebooted.",
+      "sentence_ko": "팀은 서버가 재부팅되는 동안 사무실에서 외롭게 밤샘 대기를 했습니다.",
+      "tags": ["technology", "work", "mood"]
+    },
+    {
+      "word": "vigil",
+      "sentence_en": "She held a bedside vigil for her sick mother.",
+      "sentence_ko": "그녀는 아픈 어머니의 침상 곁을 밤새워 지켰습니다.",
+      "tags": ["health", "family", "warm"]
+    },
+    {
+      "word": "vigil",
+      "sentence_en": "The protesters held a candlelight vigil in the square.",
+      "sentence_ko": "시위대는 광장에서 촛불 철야 집회를 열었습니다.",
+      "tags": ["place", "social", "mood"]
+    },
+    {
+      "word": "vigil",
+      "sentence_en": "His all-night vigil to finish the code paid off.",
+      "sentence_ko": "코드를 완성하기 위한 그의 밤샘 노력은 보상을 받았습니다.",
+      "tags": ["code", "work", "success"]
+    },
+    {
+      "word": "vigil",
+      "sentence_en": "Keep a vigil on the stock market trends tonight.",
+      "sentence_ko": "오늘 밤 주식 시장 동향을 밤새워 지켜보세요.",
+      "tags": ["money", "business", "schedule"]
+    },
+    {
+      "word": "surveil",
+      "sentence_en": "New AI tools can surveil network traffic to detect threats.",
+      "sentence_ko": "새로운 AI 도구는 위협을 탐지하기 위해 네트워크 트래픽을 감시할 수 있습니다.",
+      "tags": ["ai", "technology", "security"]
+    },
+    {
+      "word": "surveil",
+      "sentence_en": "The police were authorized to surveil the suspect's house.",
+      "sentence_ko": "경찰은 용의자의 집을 감시할 권한을 얻었습니다.",
+      "tags": ["law", "place", "crime"]
+    },
+    {
+      "word": "surveil",
+      "sentence_en": "It is unethical to surveil employees without their consent.",
+      "sentence_ko": "동의 없이 직원을 감시하는 것은 비윤리적입니다.",
+      "tags": ["business", "ethics", "work"]
+    },
+    {
+      "word": "surveil",
+      "sentence_en": "Drones are used to surveil the forest for fires.",
+      "sentence_ko": "드론은 산불 감시를 위해 숲을 정찰하는 데 사용됩니다.",
+      "tags": ["technology", "nature", "safety"]
+    },
+    {
+      "word": "surveil",
+      "sentence_en": "They used cameras to surveil the entrance of the building.",
+      "sentence_ko": "그들은 건물 입구를 감시하기 위해 카메라를 사용했습니다.",
+      "tags": ["place", "security", "technology"]
+    },
+    {
+      "word": "Pragmatic",
+      "sentence_en": "We need a pragmatic solution to this coding error, not a theoretical one.",
+      "sentence_ko": "우리는 이 코딩 오류에 대해 이론적인 것이 아닌 실용적인 해결책이 필요합니다.",
+      "tags": ["code", "problem_solving", "work"]
+    },
+    {
+      "word": "Pragmatic",
+      "sentence_en": "He takes a pragmatic approach to his health, focusing on what works.",
+      "sentence_ko": "그는 자신의 건강에 대해 효과가 있는 것에 집중하는 실리적인 접근 방식을 취합니다.",
+      "tags": ["health", "lifestyle", "smart"]
+    },
+    {
+      "word": "Pragmatic",
+      "sentence_en": "Startups must be pragmatic about their spending.",
+      "sentence_ko": "스타트업은 지출에 있어 실리적이어야 합니다.",
+      "tags": ["startup", "money", "business"]
+    },
+    {
+      "word": "Pragmatic",
+      "sentence_en": "Her pragmatic style of leadership is respected by the team.",
+      "sentence_ko": "그녀의 실용적인 리더십 스타일은 팀에게 존경받습니다.",
+      "tags": ["leadership", "style", "business"]
+    },
+    {
+      "word": "Pragmatic",
+      "sentence_en": "Let's be pragmatic; we can't finish everything in one day.",
+      "sentence_ko": "현실적으로 생각합시다. 하루 만에 모든 것을 끝낼 수는 없습니다.",
+      "tags": ["schedule", "work", "mood"]
+    },
+    {
+      "word": "Machiavellian",
+      "sentence_en": "His Machiavellian tactics helped him rise to the top, but he lost friends.",
+      "sentence_ko": "그의 권모술수적인 전술은 그가 정상에 오르는 데 도움을 주었지만, 친구들을 잃게 했습니다.",
+      "tags": ["business", "relationship", "mood"]
+    },
+    {
+      "word": "Machiavellian",
+      "sentence_en": "The plot of the movie was full of Machiavellian schemes.",
+      "sentence_ko": "그 영화의 줄거리는 권모술수의 음모로 가득 차 있었습니다.",
+      "tags": ["movie", "story", "drama"]
+    },
+    {
+      "word": "Machiavellian",
+      "sentence_en": "Avoid Machiavellian behavior if you want a warm and trusting team.",
+      "sentence_ko": "따뜻하고 신뢰하는 팀을 원한다면 권모술수적인 행동을 피하세요.",
+      "tags": ["warm", "team", "business"]
+    },
+    {
+      "word": "Machiavellian",
+      "sentence_en": "Some believe that politics is inherently Machiavellian.",
+      "sentence_ko": "어떤 사람들은 정치가 본질적으로 권모술수적이라고 믿습니다.",
+      "tags": ["politics", "society", "belief"]
+    },
+    {
+      "word": "Machiavellian",
+      "sentence_en": "He played a Machiavellian game to get the promotion.",
+      "sentence_ko": "그는 승진하기 위해 수단과 방법을 가리지 않는 게임을 했습니다.",
+      "tags": ["work", "career", "competition"]
+    },
+    {
+      "word": "Practical",
+      "sentence_en": "This coat is warm and practical for the cold winter weather.",
+      "sentence_ko": "이 코트는 추운 겨울 날씨에 따뜻하고 실용적입니다.",
+      "tags": ["warm", "style", "weather"]
+    },
+    {
+      "word": "Practical",
+      "sentence_en": "Coding is a practical skill that is in high demand.",
+      "sentence_ko": "코딩은 수요가 많은 실용적인 기술입니다.",
+      "tags": ["code", "skill", "job"]
+    },
+    {
+      "word": "Practical",
+      "sentence_en": "We need to make practical changes to our daily schedule.",
+      "sentence_ko": "우리는 일상 일정에 실질적인 변화를 주어야 합니다.",
+      "tags": ["schedule", "life", "change"]
+    }]
+}

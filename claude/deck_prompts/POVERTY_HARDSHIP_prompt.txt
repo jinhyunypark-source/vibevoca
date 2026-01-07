@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: POVERTY_HARDSHIP
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Poor - 가난한 (일반적인 표현)
+2. Destitute - 극빈한 (가진 것이 아무것도 없는)
+3. Impoverished - 빈곤해진 (가난하게 된/열악한)
+4. Indigent - 곤궁한 (생필품이 부족한 - 격식)
+5. Needy - 어려운, 궁핍한 (도움이 필요한)
+6. Penniless - 무일푼의 (동전 한 푼 없는)
+7. Broke - 빈털터리인 (돈이 다 떨어진 - 구어체)
+8. Deprived - 궁핍한, 불우한 (필수적인 것을 못 누리는)
+9. Bankrupt - 파산한 (법적으로 빚을 갚을 수 없는)
+10. Insolvent - 지불 불능의 (빚이 자산보다 많은)
+11. Bust - 파산한 (망한 - 구어체)
+12. In debt - 빚을 진
+13. Hard up - 돈에 쪼들리는 (돈이 부족한)
+14. Strapped - 돈이 궁한 (현금이 없는)
+15. Short - 부족한 (돈이 모자라는)
+16. Pinched - 쪼들리는 (경제적으로 압박받는)
+17. Squalid - 지저분한, 불결한 (가난으로 더러운)
+18. Underprivileged - 혜택 받지 못한 (사회적/경제적으로 낮은)
+19. Low-income - 저소득의 (수입이 적은)
+20. Subsistence - 최저 생계의 (겨우 먹고사는)
+21. Hand-to-mouth - 하루 벌어 하루 먹는 (저축 없는)
+22. Penury - 극빈 (지독한 가난 - 명사)
+23. Pauper - 빈민, 극빈자 (거지)
+24. Beggar - 거지 (구걸하는 사람)
+25. Hardship - 곤란, 고난 (경제적 어려움)
+26. Adversity - 역경 (불운과 어려움)
+27. Default - 채무 불이행 (빚을 못 갚음)
+28. Ruined - 파산한, 망한 (완전히 무너진)
+29. Tight - 빠듯한 (여유가 없는)
+30. Skint - 빈털터리인 (영국 속어: 돈이 없는)
+
+## 추천 태그 (상황/맥락)
+daily_life, health, emotion, university, vacation, entrepreneur, career, conversation, ai, style
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "POVERTY_HARDSHIP",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "POVERTY_HARDSHIP",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

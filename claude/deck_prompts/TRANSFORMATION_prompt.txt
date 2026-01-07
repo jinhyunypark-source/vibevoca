@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: TRANSFORMATION
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Evolve - 진화하다 (서서히 더 나은 형태로 변하다)
+2. Transform - 변형시키다 (모습을 완전히 바꾸다)
+3. Metamorphose - 변태하다, 탈바꿈하다 (생물학적/극적 변화)
+4. Convert - 전환하다 (용도나 형태를 바꾸다)
+5. Alter - 고치다, 변경하다 (약간 수정하다)
+6. Modify - 수정하다 (개선을 위해 조금 바꾸다)
+7. Adjust - 조절하다, 맞추다 (적합하게 맞추다)
+8. Adapt - 적응하다 (환경에 맞게 변화하다)
+9. Acclimate - 익숙해지다, 순응시키다 (기후/환경에)
+10. Revise - 개정하다 (다시 보고 고치다)
+11. Reform - 개혁하다 (제도를 뜯어고치다)
+12. Remodel - 리모델링하다 (구조를 바꾸다)
+13. Renovate - 보수하다, 새롭게 하다 (낡은 것을 새것처럼)
+14. Revolutionize - 혁신을 일으키다 (근본적으로 바꾸다)
+15. Shift - 이동하다, 바뀌다 (위치나 방향을 바꾸다)
+16. Vary - 다양하다, 달라지다 (변화를 주다)
+17. Diversify - 다각화하다 (여러 가지로 나누다)
+18. Mutate - 돌연변이하다 (유전자가 변하다)
+19. Transmute - (성질을) 바꾸다 (마법/연금술처럼 변하다)
+20. Reshape - 모양을 다시 만들다 (재형성하다)
+21. Reconfigure - 재구성하다 (설정을 다시 하다)
+22. Overhaul - 철저히 점검하다, 뜯어고치다
+23. Refine - 정제하다, 다듬다 (불순물을 없애다)
+24. Polish - 광을 내다, 세련되게 하다
+25. Tweak - 살짝 조정하다 (미세하게 바꾸다)
+26. Customize - 주문 제작하다 (개인에게 맞추다)
+27. Tailor - (목적에) 맞추다 (재단사가 옷을 맞추듯)
+28. Transition - 이행하다 (다른 상태로 넘어가다)
+29. Switch - 바꾸다, 전환하다 (다른 것으로 휙 바꾸다)
+30. Substitute - 대체하다 (대신 쓰다)
+
+## 추천 태그 (상황/맥락)
+sport, fashion, technology, outdoor, sad, cooking, place, career, food, health
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "TRANSFORMATION",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "TRANSFORMATION",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

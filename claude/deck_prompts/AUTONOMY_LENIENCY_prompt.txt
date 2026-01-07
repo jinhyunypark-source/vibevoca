@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: AUTONOMY_LENIENCY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Just - 정의로운 (올바른)
+2. Lenient - 관대한 (처벌이 엄하지 않은)
+3. Permissive - 허용적인 (자유방임적인)
+4. Egalitarian - 평등주의의 (모두가 동등한)
+5. Tolerant - 관용적인 (다름을 참아주는)
+6. Liberal - 자유주의적인 (규제가 적은)
+7. Compassionate - 연민 어린 (동정심 있는)
+8. Indulgent - 멋대로 하게 놔두는 (오냐오냐하는)
+9. Free - 자유로운 (속박이 없는)
+10. Independent - 독립적인 (남에게 의존하지 않는)
+11. Autonomous - 자치의, 자율적인 (스스로 다스리는)
+12. Sovereign - 자주적인 (간섭받지 않는)
+13. Liberated - 해방된 (억압에서 풀려난)
+14. Unrestricted - 제한이 없는 (자유로운)
+15. Unbound - 얽매이지 않은 (풀려난)
+16. Loose - 느슨한 (엄격하지 않은)
+17. Flexible - 융통성 있는 (상황에 맞춰 바꾸는)
+18. Open-minded - 개방적인 (편견 없는)
+19. Democratic - 민주적인 (모두가 평등하게 참여하는)
+20. Fair - 공정한 (치우치지 않은)
+21. Magnanimous - 도량이 넓은 (적에게도 관대한)
+22. Forgiving - 용서하는 (잘 봐주는)
+23. Merciful - 자비로운 (고통을 줄여주는)
+24. Soft - 무른, 온화한 (엄하지 않은)
+25. Gentle - 온화한 (거칠지 않은)
+26. Lax - 해이한, 느슨한 (규율이 엉성한 - 부정적)
+27. Easy-going - 태평한, 느긋한 (까다롭지 않은)
+28. Empowering - 권한을 주는 (자신감을 북돋우는)
+29. Enfranchised - 참정권을 얻은 (권리가 생긴)
+30. Self-governing - 자치적인 (스스로 통치하는)
+
+## 추천 태그 (상황/맥락)
+develope, business, office, happy, communication, warm, entrepreneur, environment, outdoor, sad
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "AUTONOMY_LENIENCY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "AUTONOMY_LENIENCY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

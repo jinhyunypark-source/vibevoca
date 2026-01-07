@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: BREVITY_VERBOSITY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Concise - 간결한
+2. Brief - 짧은, 잠시의
+3. Succinct - 간단명료한  cinch
+4. Laconic - 과묵한, 말수가 적은
+5. Reticent - 말을 아끼는 (신중함)
+6. Taciturn - 무뚝뚝한, 말이 없는
+7. tacit [tǽsit] - 무언의
+8. Pithy - 함축적인, 핵심을 찌르는
+9. Wordy - 말이 많은, 너저분한
+10. Terse - (퉁명스럽게) 간결한
+11. Loquacious - 수다스러운 (격식)라.Loqui말하다
+12. Verbose - 장황한
+13. Long-winded - 길게 늘어놓는
+14. Garrulous - 주책없이 수다스러운 (갈갈이)
+15. Comprehensive - 포괄적인
+16. Chatty - 수다 떠는, 잡담하는
+17. Talkative - 말하기 좋아하는
+18. Silent - 침묵하는
+19. Detailed - 상세한
+20. Elaborate - 상세히 설명하다
+21. Exhaustive - 철저한, 남김없는
+22. Sketchy - 대략적인, 불완전한
+23. Summarized - 요약된
+24. Abbreviated - 축약된
+25. Redundant - 불필요하게 중복되는
+26. Meandering - 두서없는, 정처 없는 (터키의 구불강)
+27. Repetitive - 반복적인
+28. Digressive - 주제를 벗어나는
+29. To the point - 핵심을 찌르는
+30. Curt - 퉁명스러운
+
+## 추천 태그 (상황/맥락)
+place, travel, marketing, exercise, emotion, fashion, feeling, university, friendship, nature
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "BREVITY_VERBOSITY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "BREVITY_VERBOSITY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

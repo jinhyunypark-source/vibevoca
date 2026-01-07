@@ -1,0 +1,906 @@
+{
+  "deck_title": "COST_PRICE_VALUE",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Cost",
+      "sentence_en": "The cost of living near the university is quite high.",
+      "sentence_ko": "대학 근처의 생활비는 꽤 비쌉니다.",
+      "tags": ["university", "home", "shopping"]
+    },
+    {
+      "word": "Cost",
+      "sentence_en": "We need to cut costs to keep the project within budget.",
+      "sentence_ko": "프로젝트 예산을 맞추려면 비용을 절감해야 합니다.",
+      "tags": ["meeting", "conversation", "business"]
+    },
+    {
+      "word": "Cost",
+      "sentence_en": "What is the total cost of the ingredients for this recipe?",
+      "sentence_ko": "이 레시피의 재료비는 총 얼마인가요?",
+      "tags": ["food", "shopping", "home"]
+    },
+    {
+      "word": "Cost",
+      "sentence_en": "The emotional cost of the breakup was hard to handle.",
+      "sentence_ko": "이별에 따른 감정적 대가는 감당하기 힘들었습니다.",
+      "tags": ["relationship", "wellness", "conversation"]
+    },
+    {
+      "word": "Cost",
+      "sentence_en": "Shipping costs are included in the final price.",
+      "sentence_ko": "배송비는 최종 가격에 포함되어 있습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Price",
+      "sentence_en": "The price of organic food has gone up recently.",
+      "sentence_ko": "최근 유기농 식품 가격이 올랐습니다.",
+      "tags": ["food", "shopping", "wellness"]
+    },
+    {
+      "word": "Price",
+      "sentence_en": "I think the price for this jacket is reasonable.",
+      "sentence_ko": "이 재킷 가격은 합리적인 것 같아요.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Price",
+      "sentence_en": "House prices in this neighborhood are skyrocketing.",
+      "sentence_ko": "이 동네 집값이 천정부지로 치솟고 있습니다.",
+      "tags": ["home", "conversation", "shopping"]
+    },
+    {
+      "word": "Price",
+      "sentence_en": "Can you check the price of that textbook for me?",
+      "sentence_ko": "저 전공 서적 가격 좀 확인해 줄 수 있어?",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Price",
+      "sentence_en": "There is a heavy price to pay for success sometimes.",
+      "sentence_ko": "성공에는 때때로 혹독한 대가가 따릅니다.",
+      "tags": ["conversation", "wellness", "interview"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "We offer great value for money at our restaurant.",
+      "sentence_ko": "우리 식당은 가격 대비 훌륭한 가치(가성비)를 제공합니다.",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "This internship will add value to your resume.",
+      "sentence_ko": "이 인턴십은 당신의 이력서에 가치를 더해줄 겁니다.",
+      "tags": ["university", "interview", "meeting"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "Family time is something I value the most.",
+      "sentence_ko": "가족과 함께하는 시간은 제가 가장 소중하게 여기는 가치입니다.",
+      "tags": ["home", "relationship", "warm"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "The nutritional value of this meal is excellent.",
+      "sentence_ko": "이 식사의 영양가는 아주 훌륭합니다.",
+      "tags": ["food", "wellness", "home"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "We discussed the core values of our company.",
+      "sentence_ko": "우리는 회사의 핵심 가치에 대해 논의했습니다.",
+      "tags": ["meeting", "interview", "conversation"]
+    },
+    {
+      "word": "Worth",
+      "sentence_en": "This movie is definitely worth watching with friends.",
+      "sentence_ko": "이 영화는 친구들과 함께 볼 만한 가치가 분명히 있습니다.",
+      "tags": ["conversation", "relationship", "home"]
+    },
+    {
+      "word": "Worth",
+      "sentence_en": "Is it worth buying a new laptop for school?",
+      "sentence_ko": "학교 때문에 새 노트북을 사는 게 가치가 있을까?",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Worth",
+      "sentence_en": "The house is worth much more than we paid for it.",
+      "sentence_ko": "그 집은 우리가 지불한 돈보다 훨씬 더 가치가 있습니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Worth",
+      "sentence_en": "Your mental health is worth more than any job.",
+      "sentence_ko": "당신의 정신 건강은 그 어떤 직업보다 소중합니다.",
+      "tags": ["wellness", "conversation", "interview"]
+    },
+    {
+      "word": "Worth",
+      "sentence_en": "That old painting might be worth a fortune.",
+      "sentence_ko": "저 오래된 그림은 아마 엄청난 값어치가 나갈지도 모릅니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Valuable",
+      "sentence_en": "He gave me some valuable advice before the interview.",
+      "sentence_ko": "그는 면접 전에 제게 아주 귀중한 조언을 해주었습니다.",
+      "tags": ["interview", "conversation", "university"]
+    },
+    {
+      "word": "Valuable",
+      "sentence_en": "This antique vase is extremely valuable to my grandmother.",
+      "sentence_ko": "이 골동품 꽃병은 할머니께 매우 귀중한 물건입니다.",
+      "tags": ["home", "relationship", "warm"]
+    },
+    {
+      "word": "Valuable",
+      "sentence_en": "Time is our most valuable resource, so spend it wisely.",
+      "sentence_ko": "시간은 우리의 가장 귀중한 자원이니 현명하게 쓰세요.",
+      "tags": ["wellness", "university", "conversation"]
+    },
+    {
+      "word": "Valuable",
+      "sentence_en": "She is a valuable member of our research team.",
+      "sentence_ko": "그녀는 우리 연구팀의 귀중한 일원입니다.",
+      "tags": ["university", "meeting", "conversation"]
+    },
+    {
+      "word": "Valuable",
+      "sentence_en": "Please keep your valuable items in the safe.",
+      "sentence_ko": "귀중품은 금고에 보관해 주세요.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Precious",
+      "sentence_en": "Time spent with family is precious and should be cherished.",
+      "sentence_ko": "가족과 함께 보내는 시간은 소중하며 아껴야 합니다.",
+      "tags": ["home", "relationship", "warm"]
+    },
+    {
+      "word": "Precious",
+      "sentence_en": "She lost her precious ring at the park.",
+      "sentence_ko": "그녀는 공원에서 소중한 반지를 잃어버렸습니다.",
+      "tags": ["shopping", "conversation", "sad"]
+    },
+    {
+      "word": "Precious",
+      "sentence_en": "Water is a precious resource that we must save.",
+      "sentence_ko": "물은 우리가 아껴야 할 소중한 자원입니다.",
+      "tags": ["wellness", "university", "conversation"]
+    },
+    {
+      "word": "Precious",
+      "sentence_en": "The look on his face was a precious moment.",
+      "sentence_ko": "그의 표정은 정말 소중한 순간이었습니다.",
+      "tags": ["relationship", "warm", "conversation"]
+    },
+    {
+      "word": "Precious",
+      "sentence_en": "My grandmother's recipes are precious to me.",
+      "sentence_ko": "할머니의 요리법은 제게 정말 소중합니다.",
+      "tags": ["food", "home", "warm"]
+    },
+    {
+      "word": "Priceless",
+      "sentence_en": "The smile on her face was absolutely priceless.",
+      "sentence_ko": "그녀의 얼굴에 핀 미소는 돈으로 살 수 없을 만큼 귀중했습니다.",
+      "tags": ["relationship", "warm", "wellness"]
+    },
+    {
+      "word": "Priceless",
+      "sentence_en": "Education is a priceless gift you give to yourself.",
+      "sentence_ko": "교육은 자신에게 주는 돈으로 살 수 없는 귀한 선물입니다.",
+      "tags": ["university", "wellness", "conversation"]
+    },
+    {
+      "word": "Priceless",
+      "sentence_en": "We saw a priceless collection of art at the museum.",
+      "sentence_ko": "우리는 박물관에서 돈으로 따질 수 없는 예술 컬렉션을 보았습니다.",
+      "tags": ["conversation", "shopping", "university"]
+    },
+    {
+      "word": "Priceless",
+      "sentence_en": "True friendship is priceless and cannot be bought.",
+      "sentence_ko": "진정한 우정은 돈으로 살 수 없는 귀중한 것입니다.",
+      "tags": ["relationship", "warm", "conversation"]
+    },
+    {
+      "word": "Priceless",
+      "sentence_en": "The view from the mountain top was priceless.",
+      "sentence_ko": "산 정상에서 본 경치는 무엇과도 바꿀 수 없이 멋졌습니다.",
+      "tags": ["wellness", "conversation", "warm"]
+    },
+    {
+      "word": "Invaluable",
+      "sentence_en": "Your support during this time has been invaluable to me.",
+      "sentence_ko": "이 시기에 당신의 지지는 제게 값을 따질 수 없을 만큼 귀했습니다.",
+      "tags": ["relationship", "warm", "wellness"]
+    },
+    {
+      "word": "Invaluable",
+      "sentence_en": "This book provides invaluable tips for job interviews.",
+      "sentence_ko": "이 책은 면접을 위한 매우 유용한 팁을 제공합니다.",
+      "tags": ["interview", "university", "shopping"]
+    },
+    {
+      "word": "Invaluable",
+      "sentence_en": "The experience I gained here is invaluable for my career.",
+      "sentence_ko": "여기서 얻은 경험은 제 경력에 있어 매우 귀중합니다.",
+      "tags": ["interview", "meeting", "university"]
+    },
+    {
+      "word": "Invaluable",
+      "sentence_en": "Her help in the kitchen was invaluable for the party.",
+      "sentence_ko": "파티 때 부엌에서 그녀의 도움은 정말로 귀중했습니다.",
+      "tags": ["food", "home", "relationship"]
+    },
+    {
+      "word": "Invaluable",
+      "sentence_en": "Mentors provide invaluable guidance to students.",
+      "sentence_ko": "멘토는 학생들에게 매우 귀중한 지도를 제공합니다.",
+      "tags": ["university", "relationship", "conversation"]
+    },
+    {
+      "word": "Worthless",
+      "sentence_en": "The warranty is worthless if you lose the receipt.",
+      "sentence_ko": "영수증을 잃어버리면 보증서는 쓸모가 없습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Worthless",
+      "sentence_en": "Without data, these statistics are essentially worthless.",
+      "sentence_ko": "데이터가 없다면 이 통계는 본질적으로 가치가 없습니다.",
+      "tags": ["meeting", "university", "conversation"]
+    },
+    {
+      "word": "Worthless",
+      "sentence_en": "He felt worthless after failing the exam, which is sad.",
+      "sentence_ko": "그는 시험에 떨어진 후 자신이 쓸모없다고 느꼈는데, 참 슬픈 일입니다.",
+      "tags": ["university", "wellness", "relationship"]
+    },
+    {
+      "word": "Worthless",
+      "sentence_en": "That old currency is now worthless.",
+      "sentence_ko": "그 옛날 화폐는 이제 가치가 없습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Worthless",
+      "sentence_en": "Don't listen to worthless gossip about your friends.",
+      "sentence_ko": "친구들에 대한 쓸데없는 소문에 귀 기울이지 마세요.",
+      "tags": ["relationship", "conversation", "university"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "I bought a cheap bike to get around campus.",
+      "sentence_ko": "저는 캠퍼스를 돌아다니려고 싼 자전거를 샀습니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "This furniture looks cheap and might break easily.",
+      "sentence_ko": "이 가구는 싸구려 같아 보이고 쉽게 부서질 것 같습니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "Don't buy cheap ingredients if you want good flavor.",
+      "sentence_ko": "좋은 맛을 원한다면 싼 재료를 사지 마세요.",
+      "tags": ["food", "shopping", "home"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "It was a cheap trick to win the argument.",
+      "sentence_ko": "그건 논쟁에서 이기기 위한 치사한(싸구려) 속임수였습니다.",
+      "tags": ["relationship", "conversation", "meeting"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "Housing is relatively cheap in this part of town.",
+      "sentence_ko": "이 동네의 주거비는 비교적 쌉니다.",
+      "tags": ["home", "university", "conversation"]
+    },
+    {
+      "word": "Inexpensive",
+      "sentence_en": "This restaurant offers delicious and inexpensive meals.",
+      "sentence_ko": "이 식당은 맛있고 저렴한 식사를 제공합니다.",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Inexpensive",
+      "sentence_en": "I am looking for an inexpensive way to decorate my dorm.",
+      "sentence_ko": "저는 기숙사를 꾸밀 저렴한 방법을 찾고 있습니다.",
+      "tags": ["university", "home", "shopping"]
+    },
+    {
+      "word": "Inexpensive",
+      "sentence_en": "Walking is an inexpensive way to stay healthy.",
+      "sentence_ko": "걷기는 건강을 유지하는 돈 안 드는(저렴한) 방법입니다.",
+      "tags": ["wellness", "conversation", "home"]
+    },
+    {
+      "word": "Inexpensive",
+      "sentence_en": "It is an inexpensive gift, but it comes from the heart.",
+      "sentence_ko": "비싸지 않은 선물이지만 진심이 담겨 있습니다.",
+      "tags": ["relationship", "warm", "shopping"]
+    },
+    {
+      "word": "Inexpensive",
+      "sentence_en": "Public transport is an inexpensive option for students.",
+      "sentence_ko": "대중교통은 학생들에게 저렴한 선택지입니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "The quality of this fabric is inferior to the sample.",
+      "sentence_ko": "이 원단의 품질은 샘플보다 떨어집니다.",
+      "tags": ["shopping", "meeting", "conversation"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "Do not feel inferior just because you lack experience.",
+      "sentence_ko": "경험이 부족하다고 해서 열등감을 느끼지 마세요.",
+      "tags": ["interview", "wellness", "relationship"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "This coffee tastes inferior compared to the one we usually drink.",
+      "sentence_ko": "이 커피는 우리가 평소 마시는 것보다 맛이 떨어집니다.",
+      "tags": ["food", "conversation", "shopping"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "Inferior products often break within a few months.",
+      "sentence_ko": "질 낮은 제품들은 종종 몇 달 안에 고장 납니다.",
+      "tags": ["shopping", "home", "conversation"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "He always buys superior goods and avoids inferior ones.",
+      "sentence_ko": "그는 항상 고급 제품을 사고 질 낮은 것은 피합니다.",
+      "tags": ["shopping", "home", "conversation"]
+    },
+    {
+      "word": "Shoddy",
+      "sentence_en": "The contractor did a shoddy job on the roof repair.",
+      "sentence_ko": "그 도급업자는 지붕 수리를 조잡하게 해놓았습니다.",
+      "tags": ["home", "conversation", "meeting"]
+    },
+    {
+      "word": "Shoddy",
+      "sentence_en": "I returned the shirt because of the shoddy stitching.",
+      "sentence_ko": "바느질이 조잡해서 셔츠를 반품했습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Shoddy",
+      "sentence_en": "Shoddy workmanship can lead to safety issues later.",
+      "sentence_ko": "부실한 솜씨는 나중에 안전 문제로 이어질 수 있습니다.",
+      "tags": ["meeting", "home", "conversation"]
+    },
+    {
+      "word": "Shoddy",
+      "sentence_en": "Don't accept shoddy excuses for being late.",
+      "sentence_ko": "지각에 대한 성의 없는 변명을 받아주지 마세요.",
+      "tags": ["relationship", "conversation", "interview"]
+    },
+    {
+      "word": "Shoddy",
+      "sentence_en": "The report was full of errors and shoddy research.",
+      "sentence_ko": "그 보고서는 오류와 엉터리 조사로 가득했습니다.",
+      "tags": ["university", "meeting", "conversation"]
+    },
+    {
+      "word": "Rip-off",
+      "sentence_en": "$10 for a coffee? That is a total rip-off!",
+      "sentence_ko": "커피 한 잔에 10달러라니? 완전 바가지네요!",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Rip-off",
+      "sentence_en": "Don't buy tickets from scalpers; it's usually a rip-off.",
+      "sentence_ko": "암표상에게 표를 사지 마세요. 보통 바가지입니다.",
+      "tags": ["shopping", "conversation", "relationship"]
+    },
+    {
+      "word": "Rip-off",
+      "sentence_en": "The tourist trap restaurant was a complete rip-off.",
+      "sentence_ko": "그 관광지 식당은 완전히 바가지였습니다.",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Rip-off",
+      "sentence_en": "I felt like the repair bill was a rip-off.",
+      "sentence_ko": "수리비 청구서가 바가지 같다고 느꼈습니다.",
+      "tags": ["home", "conversation", "shopping"]
+    },
+    {
+      "word": "Rip-off",
+      "sentence_en": "Paying that much for a simple t-shirt is a rip-off.",
+      "sentence_ko": "단순한 티셔츠에 그렇게 많이 내는 건 바가지예요.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Steal",
+      "sentence_en": "Getting this designer bag for $50 was a steal.",
+      "sentence_ko": "이 명품 가방을 50달러에 산 건 거저나 다름없었어요.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Steal",
+      "sentence_en": "The apartment rent is so low, it's practically a steal.",
+      "sentence_ko": "아파트 월세가 너무 싸서 사실상 거저 얻은 셈입니다.",
+      "tags": ["home", "university", "conversation"]
+    },
+    {
+      "word": "Steal",
+      "sentence_en": "At that price, this car is a steal.",
+      "sentence_ko": "그 가격이라면 이 차는 거저입니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Steal",
+      "sentence_en": "I got these shoes on sale; they were a steal.",
+      "sentence_ko": "세일 때 이 신발을 샀는데, 완전 득템(거저)이었어요.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Steal",
+      "sentence_en": "This lunch deal is a steal for the amount of food you get.",
+      "sentence_ko": "이 점심 특선은 음식 양에 비하면 정말 거저입니다.",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Deal",
+      "sentence_en": "We closed a big deal with the new client yesterday.",
+      "sentence_ko": "어제 새 고객과 큰 계약을 체결했습니다.",
+      "tags": ["meeting", "interview", "business"]
+    },
+    {
+      "word": "Deal",
+      "sentence_en": "I got a great deal on my new winter coat.",
+      "sentence_ko": "새 겨울 코트를 아주 좋은 가격에 샀습니다.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Deal",
+      "sentence_en": "Let's make a deal: you cook, and I'll clean.",
+      "sentence_ko": "거래하자. 네가 요리하면 내가 청소할게.",
+      "tags": ["home", "relationship", "food"]
+    },
+    {
+      "word": "Deal",
+      "sentence_en": "Check online for the best deal before booking a hotel.",
+      "sentence_ko": "호텔을 예약하기 전에 온라인에서 최저가를 확인하세요.",
+      "tags": ["shopping", "conversation", "relationship"]
+    },
+    {
+      "word": "Deal",
+      "sentence_en": "Getting a scholarship was a huge deal for my family.",
+      "sentence_ko": "장학금을 받는 것은 우리 가족에게 정말 큰일이었습니다.",
+      "tags": ["university", "home", "warm"]
+    },
+    {
+      "word": "Expense",
+      "sentence_en": "We need to track every expense for the business trip.",
+      "sentence_ko": "출장 경비는 하나하나 다 기록해야 합니다.",
+      "tags": ["meeting", "conversation", "business"]
+    },
+    {
+      "word": "Expense",
+      "sentence_en": "Living expenses in the city are getting higher.",
+      "sentence_ko": "도시의 생활비가 점점 비싸지고 있습니다.",
+      "tags": ["home", "university", "conversation"]
+    },
+    {
+      "word": "Expense",
+      "sentence_en": "The company will reimburse you for travel expenses.",
+      "sentence_ko": "회사에서 여행 경비를 환급해 줄 것입니다.",
+      "tags": ["interview", "meeting", "conversation"]
+    },
+    {
+      "word": "Expense",
+      "sentence_en": "Buying a car is a major expense for most people.",
+      "sentence_ko": "자동차 구매는 대부분의 사람에게 큰 지출입니다.",
+      "tags": ["shopping", "home", "conversation"]
+    },
+    {
+      "word": "Expense",
+      "sentence_en": "Spare no expense for the wedding anniversary party.",
+      "sentence_ko": "결혼기념일 파티에는 비용을 아끼지 마세요.",
+      "tags": ["relationship", "warm", "food"]
+    },
+    {
+      "word": "Expenditure",
+      "sentence_en": "The government plans to increase expenditure on education.",
+      "sentence_ko": "정부는 교육 지출을 늘릴 계획입니다.",
+      "tags": ["university", "meeting", "conversation"]
+    },
+    {
+      "word": "Expenditure",
+      "sentence_en": "We must reduce our monthly household expenditure.",
+      "sentence_ko": "우리는 월 가계 지출을 줄여야 합니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Expenditure",
+      "sentence_en": "Major expenditures need approval from the board.",
+      "sentence_ko": "주요 지출은 이사회의 승인이 필요합니다.",
+      "tags": ["meeting", "conversation", "business"]
+    },
+    {
+      "word": "Expenditure",
+      "sentence_en": "Energy expenditure increases when you exercise.",
+      "sentence_ko": "운동을 하면 에너지 소비량이 증가합니다.",
+      "tags": ["wellness", "conversation", "home"]
+    },
+    {
+      "word": "Expenditure",
+      "sentence_en": "Keep a record of your daily revenue and expenditure.",
+      "sentence_ko": "매일의 수입과 지출을 기록해 두세요.",
+      "tags": ["shopping", "meeting", "home"]
+    },
+    {
+      "word": "Overhead",
+      "sentence_en": "High overhead costs are eating into our profits.",
+      "sentence_ko": "높은 고정비가 수익을 갉아먹고 있습니다.",
+      "tags": ["meeting", "conversation", "business"]
+    },
+    {
+      "word": "Overhead",
+      "sentence_en": "Working from home reduces overhead for the company.",
+      "sentence_ko": "재택근무는 회사의 운영비를 줄여줍니다.",
+      "tags": ["home", "meeting", "business"]
+    },
+    {
+      "word": "Overhead",
+      "sentence_en": "We need to calculate the overhead before setting the price.",
+      "sentence_ko": "가격을 정하기 전에 간접비를 계산해야 합니다.",
+      "tags": ["meeting", "shopping", "business"]
+    },
+    {
+      "word": "Overhead",
+      "sentence_en": "Rent and electricity are part of the monthly overhead.",
+      "sentence_ko": "임대료와 전기세는 월 고정비의 일부입니다.",
+      "tags": ["home", "meeting", "conversation"]
+    },
+    {
+      "word": "Overhead",
+      "sentence_en": "Lowering overhead allows us to offer competitive prices.",
+      "sentence_ko": "고정비를 낮추면 경쟁력 있는 가격을 제공할 수 있습니다.",
+      "tags": ["shopping", "meeting", "business"]
+    },
+    {
+      "word": "Quote",
+      "sentence_en": "Can you give me a quote for the renovation work?",
+      "sentence_ko": "리모델링 공사 견적을 좀 주실 수 있나요?",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Quote",
+      "sentence_en": "The mechanic gave me a quote for fixing the brakes.",
+      "sentence_ko": "정비공이 브레이크 수리 견적을 내주었습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Quote",
+      "sentence_en": "We are waiting for a quote from the catering company.",
+      "sentence_ko": "우리는 케이터링 업체의 견적을 기다리고 있습니다.",
+      "tags": ["food", "meeting", "conversation"]
+    },
+    {
+      "word": "Quote",
+      "sentence_en": "The quote includes labor and materials.",
+      "sentence_ko": "그 견적에는 인건비와 재료비가 포함되어 있습니다.",
+      "tags": ["home", "shopping", "business"]
+    },
+    {
+      "word": "Quote",
+      "sentence_en": "Get a written quote before you agree to the service.",
+      "sentence_ko": "서비스에 동의하기 전에 서면 견적을 받으세요.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Outlay",
+      "sentence_en": "The initial outlay for the equipment was substantial.",
+      "sentence_ko": "장비에 대한 초기 지출이 상당했습니다.",
+      "tags": ["meeting", "shopping", "business"]
+    },
+    {
+      "word": "Outlay",
+      "sentence_en": "There is a considerable financial outlay involved in buying a house.",
+      "sentence_ko": "집을 사는 데는 상당한 재정적 지출이 따릅니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Outlay",
+      "sentence_en": "We expect to recover the capital outlay within two years.",
+      "sentence_ko": "우리는 2년 안에 자본 지출을 회수할 것으로 예상합니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Outlay",
+      "sentence_en": "You need a small outlay to start this hobby.",
+      "sentence_ko": "이 취미를 시작하려면 약간의 비용이 듭니다.",
+      "tags": ["wellness", "shopping", "conversation"]
+    },
+    {
+      "word": "Outlay",
+      "sentence_en": "The project requires a large outlay of cash upfront.",
+      "sentence_ko": "이 프로젝트는 초기에 막대한 현금 지출이 필요합니다.",
+      "tags": ["meeting", "university", "business"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "We need to stick to our monthly food budget.",
+      "sentence_ko": "우리는 월 식비 예산을 지켜야 합니다.",
+      "tags": ["food", "home", "shopping"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "The marketing team is presenting their budget proposal today.",
+      "sentence_ko": "마케팅팀이 오늘 예산안을 발표합니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "As a student, I have to live on a tight budget.",
+      "sentence_ko": "학생이라서 빠듯한 예산으로 살아야 합니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "Creating a budget helps you manage stress and finances.",
+      "sentence_ko": "예산을 짜는 것은 스트레스와 재정을 관리하는 데 도움이 됩니다.",
+      "tags": ["wellness", "home", "conversation"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "We went over budget on the kitchen renovation.",
+      "sentence_ko": "주방 리모델링에서 예산을 초과했습니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Estimate",
+      "sentence_en": "Can you give me a rough estimate of the cost?",
+      "sentence_ko": "대략적인 비용 견적을 주실 수 있나요?",
+      "tags": ["shopping", "meeting", "conversation"]
+    },
+    {
+      "word": "Estimate",
+      "sentence_en": "The contractor's estimate was lower than the final bill.",
+      "sentence_ko": "계약자의 견적가는 최종 청구서보다 낮았습니다.",
+      "tags": ["home", "shopping", "business"]
+    },
+    {
+      "word": "Estimate",
+      "sentence_en": "It is hard to estimate the value of sentimental items.",
+      "sentence_ko": "추억이 깃든 물건의 가치를 추산하기란 어렵습니다.",
+      "tags": ["relationship", "home", "conversation"]
+    },
+    {
+      "word": "Estimate",
+      "sentence_en": "The estimate for the project completion is next month.",
+      "sentence_ko": "프로젝트 완료 예상 시기는 다음 달입니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Estimate",
+      "sentence_en": "We need an accurate estimate of the number of guests.",
+      "sentence_ko": "손님 수에 대한 정확한 추정치가 필요합니다.",
+      "tags": ["food", "relationship", "meeting"]
+    },
+    {
+      "word": "Valuation",
+      "sentence_en": "The property valuation came in higher than expected.",
+      "sentence_ko": "부동산 감정가가 예상보다 높게 나왔습니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Valuation",
+      "sentence_en": "We need a professional valuation of the company's assets.",
+      "sentence_ko": "회사 자산에 대한 전문적인 가치 평가가 필요합니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Valuation",
+      "sentence_en": "The bank requires a valuation before approving the loan.",
+      "sentence_ko": "은행은 대출 승인 전에 가치 평가를 요구합니다.",
+      "tags": ["home", "meeting", "shopping"]
+    },
+    {
+      "word": "Valuation",
+      "sentence_en": "His valuation of the antique painting was very precise.",
+      "sentence_ko": "그 골동품 그림에 대한 그의 감정은 매우 정확했습니다.",
+      "tags": ["shopping", "conversation", "home"]
+    },
+    {
+      "word": "Valuation",
+      "sentence_en": "Market valuation fluctuates based on economic conditions.",
+      "sentence_ko": "시장 가치는 경제 상황에 따라 변동합니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Assessment",
+      "sentence_en": "The tax assessment will arrive in the mail soon.",
+      "sentence_ko": "세금 고지서(평가서)가 곧 우편으로 도착할 겁니다.",
+      "tags": ["home", "meeting", "conversation"]
+    },
+    {
+      "word": "Assessment",
+      "sentence_en": "Your performance assessment will determine your bonus.",
+      "sentence_ko": "당신의 성과 평가가 보너스를 결정할 것입니다.",
+      "tags": ["interview", "meeting", "business"]
+    },
+    {
+      "word": "Assessment",
+      "sentence_en": "We need a risk assessment before starting the project.",
+      "sentence_ko": "프로젝트 시작 전에 위험성 평가가 필요합니다.",
+      "tags": ["meeting", "university", "business"]
+    },
+    {
+      "word": "Assessment",
+      "sentence_en": "The doctor's assessment of my health was positive.",
+      "sentence_ko": "제 건강에 대한 의사의 진단은 긍정적이었습니다.",
+      "tags": ["wellness", "conversation", "home"]
+    },
+    {
+      "word": "Assessment",
+      "sentence_en": "An honest assessment of your skills helps in job interviews.",
+      "sentence_ko": "자신의 기술에 대한 솔직한 평가는 취업 면접에 도움이 됩니다.",
+      "tags": ["interview", "university", "conversation"]
+    },
+    {
+      "word": "Appraisal",
+      "sentence_en": "We scheduled an appraisal for the house we want to sell.",
+      "sentence_ko": "우리는 팔고 싶은 집의 감정을 예약했습니다.",
+      "tags": ["home", "shopping", "conversation"]
+    },
+    {
+      "word": "Appraisal",
+      "sentence_en": "My annual performance appraisal is tomorrow.",
+      "sentence_ko": "제 연례 인사 고과(평가)가 내일입니다.",
+      "tags": ["interview", "meeting", "business"]
+    },
+    {
+      "word": "Appraisal",
+      "sentence_en": "The jewelry appraisal confirmed the diamond is real.",
+      "sentence_ko": "보석 감정 결과 다이아몬드가 진짜임이 확인되었습니다.",
+      "tags": ["shopping", "conversation", "fashion"]
+    },
+    {
+      "word": "Appraisal",
+      "sentence_en": "An honest appraisal of the situation is necessary.",
+      "sentence_ko": "상황에 대한 정직한 평가가 필요합니다.",
+      "tags": ["conversation", "meeting", "business"]
+    },
+    {
+      "word": "Appraisal",
+      "sentence_en": "The bank ordered an appraisal of the property.",
+      "sentence_ko": "은행이 그 부동산에 대한 감정을 의뢰했습니다.",
+      "tags": ["home", "business", "shopping"]
+    },
+    {
+      "word": "Charge",
+      "sentence_en": "Does the restaurant charge extra for service?",
+      "sentence_ko": "그 식당은 봉사료를 따로 청구하나요?",
+      "tags": ["food", "shopping", "conversation"]
+    },
+    {
+      "word": "Charge",
+      "sentence_en": "There is no charge for using the gym facilities.",
+      "sentence_ko": "체육관 시설 이용료는 무료입니다.",
+      "tags": ["wellness", "university", "shopping"]
+    },
+    {
+      "word": "Charge",
+      "sentence_en": "The lawyer will charge an hourly rate for consultation.",
+      "sentence_ko": "변호사는 상담에 대해 시간당 요금을 청구할 것입니다.",
+      "tags": ["meeting", "conversation", "business"]
+    },
+    {
+      "word": "Charge",
+      "sentence_en": "Please charge this to my credit card.",
+      "sentence_ko": "제 신용카드로 결제해 주세요.",
+      "tags": ["shopping", "food", "conversation"]
+    },
+    {
+      "word": "Charge",
+      "sentence_en": "Delivery charge is waived for orders over $50.",
+      "sentence_ko": "50달러 이상 주문 시 배송비는 면제됩니다.",
+      "tags": ["shopping", "food", "home"]
+    },
+    {
+      "word": "Fee",
+      "sentence_en": "The tuition fee for the university is increasing.",
+      "sentence_ko": "대학교 등록금이 인상되고 있습니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Fee",
+      "sentence_en": "There is an entrance fee for the museum.",
+      "sentence_ko": "박물관에는 입장료가 있습니다.",
+      "tags": ["conversation", "shopping", "university"]
+    },
+    {
+      "word": "Fee",
+      "sentence_en": "We paid a fee to a consultant for advice.",
+      "sentence_ko": "우리는 자문을 위해 컨설턴트에게 수수료를 지불했습니다.",
+      "tags": ["meeting", "business", "conversation"]
+    },
+    {
+      "word": "Fee",
+      "sentence_en": "Late payment fee will be added to your bill.",
+      "sentence_ko": "연체료가 청구서에 추가될 것입니다.",
+      "tags": ["home", "shopping", "business"]
+    },
+    {
+      "word": "Fee",
+      "sentence_en": "The membership fee includes access to all classes.",
+      "sentence_ko": "회원비에는 모든 수업에 대한 이용 권한이 포함되어 있습니다.",
+      "tags": ["wellness", "university", "shopping"]
+    },
+    {
+      "word": "Fare",
+      "sentence_en": "Bus fare is cheaper if you use a student card.",
+      "sentence_ko": "학생증을 쓰면 버스 요금이 더 쌉니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Fare",
+      "sentence_en": "We split the taxi fare to get home.",
+      "sentence_ko": "우리는 집에 가기 위해 택시비를 나눠 냈습니다.",
+      "tags": ["relationship", "home", "conversation"]
+    },
+    {
+      "word": "Fare",
+      "sentence_en": "Air fare prices usually drop in the off-season.",
+      "sentence_ko": "항공 운임은 보통 비수기에 떨어집니다.",
+      "tags": ["shopping", "conversation", "business"]
+    },
+    {
+      "word": "Fare",
+      "sentence_en": "Do you have enough cash for the train fare?",
+      "sentence_ko": "기차 요금 낼 현금은 충분해?",
+      "tags": ["shopping", "university", "conversation"]
+    },
+    {
+      "word": "Fare",
+      "sentence_en": "The subway fare has increased recently.",
+      "sentence_ko": "최근 지하철 요금이 올랐습니다.",
+      "tags": ["conversation", "shopping", "university"]
+    },
+    {
+      "word": "Rate",
+      "sentence_en": "What is the hourly rate for this job?",
+      "sentence_ko": "이 일의 시급은 얼마인가요?",
+      "tags": ["interview", "meeting", "business"]
+    },
+    {
+      "word": "Rate",
+      "sentence_en": "Hotels usually offer a discounted rate for students.",
+      "sentence_ko": "호텔은 보통 학생들에게 할인된 요금을 제공합니다.",
+      "tags": ["university", "shopping", "conversation"]
+    },
+    {
+      "word": "Rate",
+      "sentence_en": "The exchange rate is favorable for us right now.",
+      "sentence_ko": "지금 환율은 우리에게 유리합니다.",
+      "tags": ["shopping", "meeting", "business"]
+    },
+    {
+      "word": "Rate",
+      "sentence_en": "We got a special group rate for the dinner.",
+      "sentence_ko": "우리는 저녁 식사에 대해 특별 단체 요금을 적용받았습니다.",
+      "tags": ["food", "relationship", "meeting"]
+    },
+    {
+      "word": "Rate",
+      "sentence_en": "Heart rate monitoring is important during exercise.",
+      "sentence_ko": "운동 중 심박수 모니터링은 중요합니다.",
+      "tags": ["wellness", "conversation", "home"]
+    }
+  ]
+}

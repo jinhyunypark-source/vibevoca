@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "cf02ecf5-fbc4-475e-8cc9-0fb38c150255",
+    "word": "Evolve",
+    "meaning": "진화하다 (서서히 더 나은 형태로 변하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "64d2f5c4-de12-4bdd-9fdc-934e8fd2e685",
+    "word": "Transform",
+    "meaning": "변형시키다 (모습을 완전히 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "918aaee1-6fe7-4e63-b410-f5e6b50d3e61",
+    "word": "Metamorphose",
+    "meaning": "변태하다, 탈바꿈하다 (생물학적/극적 변화)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "5a9d668b-05d4-48bd-93f8-e23225ae4346",
+    "word": "Convert",
+    "meaning": "전환하다 (용도나 형태를 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "1cf4497c-2dcd-4815-8a2d-3ebec87a02a3",
+    "word": "Alter",
+    "meaning": "고치다, 변경하다 (약간 수정하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "e048b91c-392f-4ec6-86d7-4bed27f1f414",
+    "word": "Modify",
+    "meaning": "수정하다 (개선을 위해 조금 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "266f1f43-b10d-43e4-b5ce-0a3bf4c0654a",
+    "word": "Adjust",
+    "meaning": "조절하다, 맞추다 (적합하게 맞추다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "d9d38b3a-22af-43be-a0b1-8cf2300e8ece",
+    "word": "Adapt",
+    "meaning": "적응하다 (환경에 맞게 변화하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "6ac70c37-2f4c-4a7c-9ac2-d5f07993d63f",
+    "word": "Acclimate",
+    "meaning": "익숙해지다, 순응시키다 (기후/환경에)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "de028bf0-911c-45ed-bda4-93e9f2866403",
+    "word": "Revise",
+    "meaning": "개정하다 (다시 보고 고치다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "b4c9110a-3b16-4445-88e1-bf1521cd2b85",
+    "word": "Reform",
+    "meaning": "개혁하다 (제도를 뜯어고치다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "d2bb64e4-99e9-4c7d-9d83-8c6eb58b5e4d",
+    "word": "Remodel",
+    "meaning": "리모델링하다 (구조를 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "3e9fd0a1-b284-4c88-9246-33ffdedf46d7",
+    "word": "Renovate",
+    "meaning": "보수하다, 새롭게 하다 (낡은 것을 새것처럼)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "d36783f0-061b-444a-b968-8ab0bbe0499f",
+    "word": "Revolutionize",
+    "meaning": "혁신을 일으키다 (근본적으로 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "38636fd5-ceb2-4da0-a2b4-251961502e64",
+    "word": "Shift",
+    "meaning": "이동하다, 바뀌다 (위치나 방향을 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "5a3caaf5-4b6b-43c1-a30c-c17c4a614fc1",
+    "word": "Vary",
+    "meaning": "다양하다, 달라지다 (변화를 주다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "5f8d04d3-f7b8-4f96-930d-cbf1be5e41ad",
+    "word": "Diversify",
+    "meaning": "다각화하다 (여러 가지로 나누다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "3279f005-aedb-4633-90b9-9b36c9620ba9",
+    "word": "Mutate",
+    "meaning": "돌연변이하다 (유전자가 변하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "5f26a13a-a157-48cc-bb73-1819404eb207",
+    "word": "Transmute",
+    "meaning": "(성질을) 바꾸다 (마법/연금술처럼 변하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "8c8fec4d-6aaf-4039-9235-b6a44965b1d3",
+    "word": "Reshape",
+    "meaning": "모양을 다시 만들다 (재형성하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "5361fcf6-269b-4eda-b3c5-b2e20a290245",
+    "word": "Reconfigure",
+    "meaning": "재구성하다 (설정을 다시 하다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "55f3ab58-6382-4959-a84c-9a6e42627c26",
+    "word": "Overhaul",
+    "meaning": "철저히 점검하다, 뜯어고치다",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "1f06e854-cd08-4fc9-99ed-f67b42811ccd",
+    "word": "Refine",
+    "meaning": "정제하다, 다듬다 (불순물을 없애다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "b32ef000-3cd5-43c6-823d-f7f6a312adbc",
+    "word": "Polish",
+    "meaning": "광을 내다, 세련되게 하다",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "05577cbb-e238-4ccc-a34d-c218f07be9bf",
+    "word": "Tweak",
+    "meaning": "살짝 조정하다 (미세하게 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "f02de0f2-a4b1-4bfe-b9e2-e678485d27a8",
+    "word": "Customize",
+    "meaning": "주문 제작하다 (개인에게 맞추다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "6728b70d-20d6-43f7-89f5-8a6f90801b0a",
+    "word": "Tailor",
+    "meaning": "(목적에) 맞추다 (재단사가 옷을 맞추듯)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "e2138afa-688f-4859-90d0-33c822dbcd93",
+    "word": "Transition",
+    "meaning": "이행하다 (다른 상태로 넘어가다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "d2a7a0aa-8660-480f-b972-0865266ccd37",
+    "word": "Switch",
+    "meaning": "바꾸다, 전환하다 (다른 것으로 휙 바꾸다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  },
+  {
+    "card_id": "a60413af-cfb1-4651-bb67-ce9776a8c85f",
+    "word": "Substitute",
+    "meaning": "대체하다 (대신 쓰다)",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "deck_name": "TRANSFORMATION_ADAPTATION"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "6e5f306d-dcf5-4d1f-a0b1-b6fdd7a8e5a6",
+    "word": "Assertive",
+    "meaning": "단호한, 자기주장이 강한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "fa5517bb-378b-4323-a4ed-7753db3f2adb",
+    "word": "Polite",
+    "meaning": "예의 바른",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "cd81e24c-69ca-4b45-9be4-98c0ae5098ad",
+    "word": "Enthusiastic",
+    "meaning": "열정적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "b87c515a-f04d-457e-a155-f0ff5c4cc563",
+    "word": "Humble",
+    "meaning": "겸손한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "20d513c9-e1a9-4b9f-8d68-a300c9249128",
+    "word": "Aggressive",
+    "meaning": "공격적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "4a05c177-ae0f-44e0-93d3-a94f77591dd9",
+    "word": "Condescending",
+    "meaning": "거들먹거리는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "dfd1b4b0-75df-4415-b012-8cd7febdafa1",
+    "word": "Passive",
+    "meaning": "수동적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "2ab67fce-2b63-4127-a99b-56f514d70272",
+    "word": "Patronizing",
+    "meaning": "가르치려 드는, 생색내는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "e6a7ed6a-5e32-43c6-8a76-56adfc7fdbc8",
+    "word": "Defensive",
+    "meaning": "방어적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "559b8506-4ea6-4471-8306-7b278a7b915a",
+    "word": "Sarcastic",
+    "meaning": "빈정대는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "02f9624e-72b8-4a50-8395-c412e166b86d",
+    "word": "Haughty",
+    "meaning": "거만한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "d5f8afab-c245-45db-b8e6-c9558b4133b7",
+    "word": "Insincere",
+    "meaning": "가식적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "c3cec62f-f8f5-462f-b890-785aa2135de3",
+    "word": "Apathetic",
+    "meaning": "무관심한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "44d271e7-6787-47b7-a935-5171fa2d45b3",
+    "word": "Arrogant",
+    "meaning": "오만한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "d5ccb6d5-1be9-402d-b78b-07666240b865",
+    "word": "Rude",
+    "meaning": "무례한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "0d7340cd-5608-4c88-be54-dd5c0ad15b29",
+    "word": "Flippant",
+    "meaning": "경박한, 건방진",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "9092caf0-5aac-4ef1-b222-89ba378b0aa2",
+    "word": "Offensive",
+    "meaning": "모욕적인, 불쾌한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "4fb18489-344e-47ef-8417-a8300e8849f0",
+    "word": "Cynical",
+    "meaning": "냉소적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "322c84f6-be0f-4ba9-9a69-4ed154e04ee4",
+    "word": "Ironic",
+    "meaning": "반어적인, 아이러니한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "58a3c151-be2a-49af-b14b-c3c59cf777d9",
+    "word": "Sympathetic",
+    "meaning": "동정적인, 공감하는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "9cde290a-0950-4402-92c1-9a71f142136c",
+    "word": "Hypocritical",
+    "meaning": "위선적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "b3118a72-d84e-46ec-8ee6-79280d1385a4",
+    "word": "Empathetic",
+    "meaning": "감정이입하는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "f5ed5060-92be-4a20-b6cd-11dddacd4d7d",
+    "word": "Hostile",
+    "meaning": "적대적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "91ea577f-84be-4980-8a26-572781fac7fb",
+    "word": "Friendly",
+    "meaning": "우호적인",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "e071f04d-cd01-440d-99fc-a8cc783221d4",
+    "word": "Cold",
+    "meaning": "차가운",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "6aebb31e-a5e7-4a22-85a0-d4778d04b301",
+    "word": "Distant",
+    "meaning": "거리감을 두는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "8215771f-5396-46e5-b7d5-565d94e596ab",
+    "word": "Indifferent",
+    "meaning": "무심한, 관심 없는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "a17c9be1-72bf-42b4-be4e-180954b8f31e",
+    "word": "Sincere",
+    "meaning": "진심 어린",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "835463b8-2fc7-4388-b802-97dc4bc39923",
+    "word": "Earnest",
+    "meaning": "성실한, 진지한",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  },
+  {
+    "card_id": "e89f8ef2-2586-4b1b-9333-20f42cd8dc21",
+    "word": "Respectful",
+    "meaning": "존중하는",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "deck_name": "ATTITUDE_TONE"
+  }
+]

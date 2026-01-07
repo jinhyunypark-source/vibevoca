@@ -1,0 +1,62 @@
+{
+  "tags_by_interest": {
+    "soccer": [
+      "soccer"
+    ],
+    "business": [
+      "business",
+      "startup",
+      "entrepreneur",
+      "marketing"
+    ],
+    "emotion_happy": [
+      "happy"
+    ],
+    "emotion_sad": [
+      "sad"
+    ],
+    "env_rainy": [
+      "happy"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "food": [
+      "restaurant"
+    ],
+    "developer": [
+      "code",
+      "develope"
+    ],
+    "technology": [
+      "technology",
+      "ai",
+      "startup"
+    ],
+    "env_hot": [
+      "hot"
+    ],
+    "env_warm": [
+      "warm"
+    ]
+  },
+  "all_unique_tags": [
+    "ai",
+    "business",
+    "code",
+    "develope",
+    "entrepreneur",
+    "happy",
+    "hot",
+    "marketing",
+    "restaurant",
+    "sad",
+    "soccer",
+    "startup",
+    "technology",
+    "travel",
+    "warm"
+  ],
+  "total_interests": 11,
+  "total_unique_tags": 15
+}

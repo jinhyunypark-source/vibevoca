@@ -1,0 +1,906 @@
+{
+  "deck_title": "LOGIC_CLARITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Articulate",
+      "sentence_en": "She is very articulate when explaining her feelings in our relationship.",
+      "sentence_ko": "그녀는 우리 관계에 대한 자신의 감정을 설명할 때 매우 조리 있게 말합니다.",
+      "tags": ["relationship", "conversation", "warm", "social"]
+    },
+    {
+      "word": "Articulate",
+      "sentence_en": "He gave an articulate presentation about the new art project.",
+      "sentence_ko": "그는 새로운 미술 프로젝트에 대해 분명하고 조리 있는 프레젠테이션을 했습니다.",
+      "tags": ["art", "learning", "social", "conversation"]
+    },
+    {
+      "word": "Articulate",
+      "sentence_en": "It is important to be articulate when you meet new friends.",
+      "sentence_ko": "새로운 친구를 만날 때는 자신의 생각을 분명하게 표현하는 것이 중요합니다.",
+      "tags": ["friendship", "social", "conversation", "happy"]
+    },
+    {
+      "word": "Articulate",
+      "sentence_en": "The teacher helped the student become more articulate in class.",
+      "sentence_ko": "선생님은 학생이 수업 시간에 더 조리 있게 말할 수 있도록 도와주었습니다.",
+      "tags": ["learning", "social", "conversation", "education"]
+    },
+    {
+      "word": "Articulate",
+      "sentence_en": "An articulate speaker can easily capture the attention of the audience.",
+      "sentence_ko": "조리 있는 연설가는 청중의 주의를 쉽게 사로잡을 수 있습니다.",
+      "tags": ["social", "conversation", "learning", "art"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "We need a coherent schedule for our outdoor trip next week.",
+      "sentence_ko": "다음 주 야외 여행을 위해서는 일관성 있고 체계적인 일정이 필요합니다.",
+      "tags": ["outdoor", "schedule", "social", "happy"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "His explanation was coherent and easy for everyone to understand.",
+      "sentence_ko": "그의 설명은 앞뒤가 잘 맞아서 누구나 쉽게 이해할 수 있었습니다.",
+      "tags": ["learning", "conversation", "social", "warm"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "Try to write a coherent essay connecting art and history.",
+      "sentence_ko": "미술과 역사를 연결하는 일관성 있는 에세이를 써보세요.",
+      "tags": ["art", "learning", "school", "writing"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "A coherent plan helps maintain a happy and stress-free life.",
+      "sentence_ko": "일관성 있는 계획은 행복하고 스트레스 없는 삶을 유지하는 데 도움이 됩니다.",
+      "tags": ["happy", "schedule", "life", "warm"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "Her argument was logical and coherent throughout the discussion.",
+      "sentence_ko": "토론 내내 그녀의 주장은 논리적이고 앞뒤가 맞았습니다.",
+      "tags": ["conversation", "learning", "social", "logic"]
+    },
+    {
+      "word": "Candid",
+      "sentence_en": "We had a candid conversation about our future and friendship.",
+      "sentence_ko": "우리는 우리의 미래와 우정에 대해 솔직한 대화를 나눴습니다.",
+      "tags": ["friendship", "conversation", "warm", "future"]
+    },
+    {
+      "word": "Candid",
+      "sentence_en": "I appreciate your candid feedback on my art piece.",
+      "sentence_ko": "제 예술 작품에 대한 당신의 솔직한 피드백에 감사드립니다.",
+      "tags": ["art", "conversation", "social", "learning"]
+    },
+    {
+      "word": "Candid",
+      "sentence_en": "Let's be candid about how we feel to improve our relationship.",
+      "sentence_ko": "우리 관계를 개선하기 위해 서로의 감정에 대해 솔직해집시다.",
+      "tags": ["relationship", "warm", "conversation", "love"]
+    },
+    {
+      "word": "Candid",
+      "sentence_en": "He posted a candid photo of his happy family outdoors.",
+      "sentence_ko": "그는 야외에서 찍은 행복한 가족의 자연스러운(설정 없는) 사진을 올렸습니다.",
+      "tags": ["outdoor", "happy", "social", "family"]
+    },
+    {
+      "word": "Candid",
+      "sentence_en": "A candid admission of mistakes can strengthen a friendship.",
+      "sentence_ko": "실수를 솔직하게 인정하는 것은 우정을 돈독하게 할 수 있습니다.",
+      "tags": ["friendship", "social", "warm", "trust"]
+    },
+    {
+      "word": "Frank",
+      "sentence_en": "To be frank, I am not happy with the current schedule.",
+      "sentence_ko": "솔직히 말해서, 저는 현재 일정에 만족하지 않습니다.",
+      "tags": ["schedule", "conversation", "social", "work"]
+    },
+    {
+      "word": "Frank",
+      "sentence_en": "They had a frank discussion to resolve their misunderstanding.",
+      "sentence_ko": "그들은 오해를 풀기 위해 허심탄회한 토론을 했습니다.",
+      "tags": ["relationship", "conversation", "social", "warm"]
+    },
+    {
+      "word": "Frank",
+      "sentence_en": "Her frank opinion helped me improve my learning methods.",
+      "sentence_ko": "그녀의 솔직한 의견은 제가 학습 방법을 개선하는 데 도움이 되었습니다.",
+      "tags": ["learning", "conversation", "friendship", "help"]
+    },
+    {
+      "word": "Frank",
+      "sentence_en": "He is always frank about his feelings, which I admire.",
+      "sentence_ko": "그는 항상 자신의 감정에 솔직한데, 저는 그 점을 존경합니다.",
+      "tags": ["relationship", "warm", "character", "social"]
+    },
+    {
+      "word": "Frank",
+      "sentence_en": "A frank exchange of views is necessary for a good relationship.",
+      "sentence_ko": "좋은 관계를 위해서는 솔직한 의견 교환이 필요합니다.",
+      "tags": ["relationship", "conversation", "social", "love"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "It is logical to check the weather before planning an outdoor event.",
+      "sentence_ko": "야외 행사를 계획하기 전에 날씨를 확인하는 것은 논리적입니다.",
+      "tags": ["outdoor", "schedule", "planning", "social"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "She presented a logical argument during our social debate.",
+      "sentence_ko": "그녀는 우리의 사회적 토론 중에 논리적인 주장을 펼쳤습니다.",
+      "tags": ["social", "conversation", "learning", "logic"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "Try to approach the problem in a logical and calm manner.",
+      "sentence_ko": "논리적이고 차분한 태도로 문제에 접근해 보세요.",
+      "tags": ["learning", "warm", "advice", "mindset"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "There is a logical progression in learning a new language.",
+      "sentence_ko": "새로운 언어를 배우는 데는 논리적인 단계가 있습니다.",
+      "tags": ["learning", "language", "education", "process"]
+    },
+    {
+      "word": "Logical",
+      "sentence_en": "His decision to study art seemed logical given his talent.",
+      "sentence_ko": "그의 재능을 고려할 때 미술을 공부하기로 한 결정은 타당해 보였습니다.",
+      "tags": ["art", "learning", "happy", "career"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "We need to make a rational decision about our vacation schedule.",
+      "sentence_ko": "우리는 휴가 일정에 대해 합리적인 결정을 내려야 합니다.",
+      "tags": ["schedule", "outdoor", "planning", "happy"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "Let's have a rational conversation instead of arguing emotionally.",
+      "sentence_ko": "감정적으로 다투지 말고 이성적인 대화를 나눕시다.",
+      "tags": ["conversation", "relationship", "warm", "peace"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "It is rational to save money for future happiness.",
+      "sentence_ko": "미래의 행복을 위해 돈을 저축하는 것은 합리적입니다.",
+      "tags": ["happy", "future", "life", "planning"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "Humans are not always rational when it comes to friendship.",
+      "sentence_ko": "인간은 우정에 관해서는 항상 이성적이지는 않습니다.",
+      "tags": ["friendship", "relationship", "social", "psychology"]
+    },
+    {
+      "word": "Rational",
+      "sentence_en": "Scientific learning requires a rational way of thinking.",
+      "sentence_ko": "과학적 학습은 합리적인 사고방식을 요구합니다.",
+      "tags": ["learning", "science", "thinking", "education"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "The professor gave a lucid explanation of the art history.",
+      "sentence_ko": "교수님은 미술사에 대해 명쾌한 설명을 해주셨습니다.",
+      "tags": ["art", "learning", "education", "history"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "She had a lucid dream where she was flying outdoors.",
+      "sentence_ko": "그녀는 야외를 날아다니는 생생한 자각몽을 꿨습니다.",
+      "tags": ["outdoor", "happy", "dream", "sleep"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "Keep your writing lucid so your friends can understand.",
+      "sentence_ko": "친구들이 이해할 수 있도록 글을 명료하게 쓰세요.",
+      "tags": ["friendship", "writing", "communication", "social"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "He had a lucid moment during our confusing conversation.",
+      "sentence_ko": "우리의 혼란스러운 대화 도중 그에게 명료한 순간이 있었습니다.",
+      "tags": ["conversation", "social", "mind", "clarity"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "A lucid mind helps you organize your daily schedule better.",
+      "sentence_ko": "명료한 정신은 일일 스케줄을 더 잘 정리하도록 도와줍니다.",
+      "tags": ["schedule", "learning", "life", "health"]
+    },
+    {
+      "word": "Subjective",
+      "sentence_en": "Art appreciation is often a very subjective experience.",
+      "sentence_ko": "예술 감상은 종종 매우 주관적인 경험입니다.",
+      "tags": ["art", "happy", "experience", "feeling"]
+    },
+    {
+      "word": "Subjective",
+      "sentence_en": "Happiness is subjective and means different things to people.",
+      "sentence_ko": "행복은 주관적이며 사람마다 다른 의미를 갖습니다.",
+      "tags": ["happy", "life", "social", "philosophy"]
+    },
+    {
+      "word": "Subjective",
+      "sentence_en": "My view on this relationship is purely subjective.",
+      "sentence_ko": "이 관계에 대한 저의 견해는 순전히 주관적입니다.",
+      "tags": ["relationship", "conversation", "feeling", "warm"]
+    },
+    {
+      "word": "Subjective",
+      "sentence_en": "Taste in food and friends is highly subjective.",
+      "sentence_ko": "음식과 친구에 대한 취향은 매우 주관적입니다.",
+      "tags": ["friendship", "social", "life", "choice"]
+    },
+    {
+      "word": "Subjective",
+      "sentence_en": "Don't let subjective feelings ruin your study schedule.",
+      "sentence_ko": "주관적인 감정 때문에 공부 계획을 망치지 마세요.",
+      "tags": ["schedule", "learning", "emotion", "discipline"]
+    },
+    {
+      "word": "Objective",
+      "sentence_en": "We need an objective opinion to settle this friendly argument.",
+      "sentence_ko": "이 가벼운 말다툼을 해결하려면 객관적인 의견이 필요합니다.",
+      "tags": ["friendship", "conversation", "social", "solution"]
+    },
+    {
+      "word": "Objective",
+      "sentence_en": "Science aims to provide objective facts about nature.",
+      "sentence_ko": "과학은 자연에 대한 객관적인 사실을 제공하는 것을 목표로 합니다.",
+      "tags": ["learning", "outdoor", "nature", "science"]
+    },
+    {
+      "word": "Objective",
+      "sentence_en": "Try to look at your relationship from an objective perspective.",
+      "sentence_ko": "당신의 관계를 객관적인 관점에서 바라보도록 노력하세요.",
+      "tags": ["relationship", "learning", "advice", "warm"]
+    },
+    {
+      "word": "Objective",
+      "sentence_en": "The test questions were objective and fair to all students.",
+      "sentence_ko": "시험 문제들은 객관적이었고 모든 학생에게 공정했습니다.",
+      "tags": ["learning", "school", "fairness", "test"]
+    },
+    {
+      "word": "Objective",
+      "sentence_en": "Set an objective goal for your exercise schedule.",
+      "sentence_ko": "운동 스케줄에 대해 객관적인 목표를 설정하세요.",
+      "tags": ["schedule", "outdoor", "health", "goal"]
+    },
+    {
+      "word": "Ambiguous",
+      "sentence_en": "His ambiguous reply left us confused about the schedule.",
+      "sentence_ko": "그의 모호한 대답은 일정에 대해 우리를 혼란스럽게 했습니다.",
+      "tags": ["schedule", "conversation", "confusion", "social"]
+    },
+    {
+      "word": "Ambiguous",
+      "sentence_en": "Modern art can sometimes be ambiguous and open to interpretation.",
+      "sentence_ko": "현대 미술은 때때로 모호하며 해석의 여지가 열려 있습니다.",
+      "tags": ["art", "learning", "culture", "meaning"]
+    },
+    {
+      "word": "Ambiguous",
+      "sentence_en": "I dislike ambiguous endings in happy romance movies.",
+      "sentence_ko": "저는 행복한 로맨스 영화의 애매모호한 결말을 싫어합니다.",
+      "tags": ["happy", "movie", "relationship", "preference"]
+    },
+    {
+      "word": "Ambiguous",
+      "sentence_en": "The instructions for the outdoor game were too ambiguous.",
+      "sentence_ko": "그 야외 게임의 설명은 너무 모호했습니다.",
+      "tags": ["outdoor", "social", "play", "fun"]
+    },
+    {
+      "word": "Ambiguous",
+      "sentence_en": "An ambiguous relationship can cause unnecessary stress.",
+      "sentence_ko": "애매한 관계는 불필요한 스트레스를 유발할 수 있습니다.",
+      "tags": ["relationship", "warm", "emotion", "friendship"]
+    },
+    {
+      "word": "Fallacious",
+      "sentence_en": "It is fallacious to think that money alone brings a happy life.",
+      "sentence_ko": "돈만 있으면 행복한 삶이 온다고 생각하는 것은 틀린 생각입니다.",
+      "tags": ["happy", "learning", "life", "value"]
+    },
+    {
+      "word": "Fallacious",
+      "sentence_en": "His argument about art history was based on fallacious reasoning.",
+      "sentence_ko": "미술사에 대한 그의 주장은 잘못된 추론에 근거하고 있었습니다.",
+      "tags": ["art", "learning", "history", "debate"]
+    },
+    {
+      "word": "Fallacious",
+      "sentence_en": "Avoid fallacious logic when discussing important social issues.",
+      "sentence_ko": "중요한 사회 문제를 논의할 때는 오류가 있는 논리를 피하세요.",
+      "tags": ["social", "conversation", "logic", "thinking"]
+    },
+    {
+      "word": "Fallacious",
+      "sentence_en": "The advertisement used a fallacious claim to sell the product.",
+      "sentence_ko": "그 광고는 제품을 팔기 위해 허위 주장을 사용했습니다.",
+      "tags": ["social", "business", "media", "learning"]
+    },
+    {
+      "word": "Fallacious",
+      "sentence_en": "Believing rumors without checking facts is a fallacious habit.",
+      "sentence_ko": "사실 확인 없이 소문을 믿는 것은 잘못된 습관입니다.",
+      "tags": ["learning", "social", "habit", "conversation"]
+    },
+    {
+      "word": "Vague",
+      "sentence_en": "We only have a vague plan for our outdoor picnic.",
+      "sentence_ko": "우리는 야외 소풍에 대해 막연한 계획만 가지고 있습니다.",
+      "tags": ["outdoor", "happy", "planning", "social"]
+    },
+    {
+      "word": "Vague",
+      "sentence_en": "She gave a vague description of the stranger she met.",
+      "sentence_ko": "그녀는 자신이 만난 낯선 사람에 대해 애매하게 묘사했습니다.",
+      "tags": ["conversation", "social", "mystery", "talk"]
+    },
+    {
+      "word": "Vague",
+      "sentence_en": "My memory of that childhood event is a bit vague.",
+      "sentence_ko": "그 어린 시절 사건에 대한 제 기억은 좀 희미합니다.",
+      "tags": ["learning", "memory", "past", "story"]
+    },
+    {
+      "word": "Vague",
+      "sentence_en": "Vague goals make it hard to stick to a study schedule.",
+      "sentence_ko": "목표가 모호하면 공부 일정을 지키기 어렵습니다.",
+      "tags": ["schedule", "learning", "goal", "success"]
+    },
+    {
+      "word": "Vague",
+      "sentence_en": "He has a vague interest in learning to paint.",
+      "sentence_ko": "그는 그림 그리는 것을 배우는 데 막연한 관심이 있습니다.",
+      "tags": ["art", "learning", "hobby", "interest"]
+    },
+    {
+      "word": "Incoherent",
+      "sentence_en": "He was so excited that his story became incoherent.",
+      "sentence_ko": "그는 너무 흥분해서 이야기가 앞뒤가 맞지 않았습니다.",
+      "tags": ["happy", "conversation", "social", "emotion"]
+    },
+    {
+      "word": "Incoherent",
+      "sentence_en": "The sleepy student mumbled an incoherent answer.",
+      "sentence_ko": "졸린 학생은 웅얼거리며 조리 없는 대답을 했습니다.",
+      "tags": ["learning", "school", "funny", "sleep"]
+    },
+    {
+      "word": "Incoherent",
+      "sentence_en": "Her essay was incoherent and hard to follow.",
+      "sentence_ko": "그녀의 에세이는 일관성이 없어서 이해하기 힘들었습니다.",
+      "tags": ["learning", "writing", "art", "school"]
+    },
+    {
+      "word": "Incoherent",
+      "sentence_en": "Conflicting feelings can make us act in incoherent ways.",
+      "sentence_ko": "상충되는 감정은 우리가 일관성 없는 방식으로 행동하게 만들 수 있습니다.",
+      "tags": ["relationship", "emotion", "psychology", "warm"]
+    },
+    {
+      "word": "Incoherent",
+      "sentence_en": "The schedule is incoherent with too many overlapping events.",
+      "sentence_ko": "일정이 너무 많은 행사가 겹쳐서 뒤죽박죽입니다.",
+      "tags": ["schedule", "planning", "chaos", "social"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "I have an irrational fear of spiders, even outdoors.",
+      "sentence_ko": "저는 야외에서도 거미에 대한 비이성적인 공포가 있습니다.",
+      "tags": ["outdoor", "fear", "nature", "emotion"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "Love often makes people do irrational things.",
+      "sentence_ko": "사랑은 종종 사람들을 비이성적인 행동을 하게 만듭니다.",
+      "tags": ["relationship", "warm", "love", "happy"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "It is irrational to worry about things you cannot control.",
+      "sentence_ko": "통제할 수 없는 일에 대해 걱정하는 것은 비합리적입니다.",
+      "tags": ["learning", "mindset", "life", "advice"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "His anger seemed irrational given the small mistake.",
+      "sentence_ko": "작은 실수를 고려할 때 그의 분노는 비이성적으로 보였습니다.",
+      "tags": ["conversation", "relationship", "emotion", "conflict"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "Don't let irrational thoughts ruin your happy mood.",
+      "sentence_ko": "비이성적인 생각으로 행복한 기분을 망치지 마세요.",
+      "tags": ["happy", "mood", "warm", "mental"]
+    },
+    {
+      "word": "Valid",
+      "sentence_en": "You raised a valid point during our conversation.",
+      "sentence_ko": "당신은 대화 중에 타당한 지적을 했습니다.",
+      "tags": ["conversation", "social", "logic", "agreement"]
+    },
+    {
+      "word": "Valid",
+      "sentence_en": "Is your parking ticket still valid for the outdoor lot?",
+      "sentence_ko": "당신의 주차권은 야외 주차장에서 여전히 유효한가요?",
+      "tags": ["outdoor", "schedule", "life", "travel"]
+    },
+    {
+      "word": "Valid",
+      "sentence_en": "Everyone has a valid reason for feeling the way they do.",
+      "sentence_ko": "모든 사람은 자신이 느끼는 감정에 대해 타당한 이유가 있습니다.",
+      "tags": ["relationship", "warm", "emotion", "empathy"]
+    },
+    {
+      "word": "Valid",
+      "sentence_en": "We need a valid ID to enter the art museum.",
+      "sentence_ko": "미술관에 입장하려면 유효한 신분증이 필요합니다.",
+      "tags": ["art", "social", "rules", "travel"]
+    },
+    {
+      "word": "Valid",
+      "sentence_en": "Her excuse for missing the schedule was perfectly valid.",
+      "sentence_ko": "일정을 놓친 것에 대한 그녀의 변명은 지극히 타당했습니다.",
+      "tags": ["schedule", "relationship", "communication", "understanding"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "My father gave me sound advice about maintaining friendships.",
+      "sentence_ko": "아버지는 우정 유지에 관해 건전한 조언을 해주셨습니다.",
+      "tags": ["friendship", "relationship", "warm", "advice"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "A sound mind leads to a happy and healthy life.",
+      "sentence_ko": "건전한 정신은 행복하고 건강한 삶으로 이끕니다.",
+      "tags": ["happy", "health", "life", "warm"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "The bridge structure appears sound and safe for crossing.",
+      "sentence_ko": "다리 구조는 건너기에 튼튼하고 안전해 보입니다.",
+      "tags": ["outdoor", "safety", "structure", "travel"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "Make sure your investment plan is financially sound.",
+      "sentence_ko": "투자 계획이 재정적으로 건전한지 확인하세요.",
+      "tags": ["learning", "planning", "future", "life"]
+    },
+    {
+      "word": "Sound",
+      "sentence_en": "We arrived safe and sound after our outdoor adventure.",
+      "sentence_ko": "우리는 야외 모험을 마치고 무사히 도착했습니다.",
+      "tags": ["outdoor", "happy", "travel", "safety"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "The instructions for the art class were very explicit.",
+      "sentence_ko": "미술 수업에 대한 지시 사항은 매우 명확했습니다.",
+      "tags": ["art", "learning", "class", "instruction"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "He gave explicit directions to the outdoor festival.",
+      "sentence_ko": "그는 야외 축제장으로 가는 길을 명확하게 알려주었습니다.",
+      "tags": ["outdoor", "travel", "social", "help"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "Be explicit about your feelings to avoid misunderstandings.",
+      "sentence_ko": "오해를 피하기 위해 당신의 감정을 명확하게 표현하세요.",
+      "tags": ["relationship", "conversation", "warm", "emotion"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "The schedule has explicit times for breaks and lunch.",
+      "sentence_ko": "일정표에는 휴식과 점심시간이 명시되어 있습니다.",
+      "tags": ["schedule", "work", "planning", "time"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "She made an explicit promise to help her friend.",
+      "sentence_ko": "그녀는 친구를 돕겠다고 분명하게 약속했습니다.",
+      "tags": ["friendship", "promise", "warm", "support"]
+    },
+    {
+      "word": "Implicit",
+      "sentence_en": "There was an implicit trust between the two old friends.",
+      "sentence_ko": "두 오랜 친구 사이에는 암묵적인 신뢰가 있었습니다.",
+      "tags": ["friendship", "trust", "warm", "relationship"]
+    },
+    {
+      "word": "Implicit",
+      "sentence_en": "We understood the implicit rules of the social club.",
+      "sentence_ko": "우리는 그 사교 클럽의 암묵적인 규칙들을 이해했습니다.",
+      "tags": ["social", "learning", "culture", "group"]
+    },
+    {
+      "word": "Implicit",
+      "sentence_en": "Her silence was an implicit agreement to the plan.",
+      "sentence_ko": "그녀의 침묵은 그 계획에 대한 암묵적인 동의였습니다.",
+      "tags": ["conversation", "planning", "relationship", "agreement"]
+    },
+    {
+      "word": "Implicit",
+      "sentence_en": "Implicit learning happens when you acquire skills naturally.",
+      "sentence_ko": "암묵적 학습은 자연스럽게 기술을 습득할 때 일어납니다.",
+      "tags": ["learning", "skill", "nature", "education"]
+    },
+    {
+      "word": "Implicit",
+      "sentence_en": "Art often contains implicit messages about society.",
+      "sentence_ko": "예술은 종종 사회에 대한 암시적인 메시지를 담고 있습니다.",
+      "tags": ["art", "learning", "society", "meaning"]
+    },
+    {
+      "word": "Subtle",
+      "sentence_en": "The artist used subtle shades of blue in the painting.",
+      "sentence_ko": "화가는 그림에 미묘한 톤의 파란색을 사용했습니다.",
+      "tags": ["art", "color", "learning", "beauty"]
+    },
+    {
+      "word": "Subtle",
+      "sentence_en": "There was a subtle change in his happy expression.",
+      "sentence_ko": "그의 행복한 표정에 미묘한 변화가 있었습니다.",
+      "tags": ["happy", "emotion", "relationship", "observation"]
+    },
+    {
+      "word": "Subtle",
+      "sentence_en": "She gave a subtle hint about the surprise party.",
+      "sentence_ko": "그녀는 깜짝 파티에 대해 미묘한 힌트를 주었습니다.",
+      "tags": ["social", "happy", "party", "friendship"]
+    },
+    {
+      "word": "Subtle",
+      "sentence_en": "The flavor of this tea is very subtle and relaxing.",
+      "sentence_ko": "이 차의 맛은 매우 은은하고 편안합니다.",
+      "tags": ["warm", "relaxation", "taste", "life"]
+    },
+    {
+      "word": "Subtle",
+      "sentence_en": "Pay attention to the subtle details in nature outdoors.",
+      "sentence_ko": "야외 자연의 미묘한 세부 사항에 주의를 기울여 보세요.",
+      "tags": ["outdoor", "nature", "learning", "mindfulness"]
+    },
+    {
+      "word": "Nuanced",
+      "sentence_en": "We had a nuanced conversation about different cultures.",
+      "sentence_ko": "우리는 다른 문화에 대해 미묘한 차이를 다루는 대화를 나눴습니다.",
+      "tags": ["conversation", "learning", "culture", "social"]
+    },
+    {
+      "word": "Nuanced",
+      "sentence_en": "Her acting performance was deep and nuanced.",
+      "sentence_ko": "그녀의 연기는 깊이 있고 뉘앙스가 풍부했습니다.",
+      "tags": ["art", "movie", "entertainment", "talent"]
+    },
+    {
+      "word": "Nuanced",
+      "sentence_en": "Friendship is a nuanced relationship with many layers.",
+      "sentence_ko": "우정은 여러 층위를 가진 미묘한 관계입니다.",
+      "tags": ["friendship", "relationship", "warm", "life"]
+    },
+    {
+      "word": "Nuanced",
+      "sentence_en": "Understanding history requires a nuanced perspective.",
+      "sentence_ko": "역사를 이해하는 것은 미묘한 차이를 아는 관점을 요구합니다.",
+      "tags": ["learning", "history", "perspective", "education"]
+    },
+    {
+      "word": "Nuanced",
+      "sentence_en": "The debate covered nuanced arguments from both sides.",
+      "sentence_ko": "그 토론은 양측의 미묘한 주장들을 다루었습니다.",
+      "tags": ["social", "conversation", "debate", "logic"]
+    },
+    {
+      "word": "Relevant",
+      "sentence_en": "Please ask questions that are relevant to the art topic.",
+      "sentence_ko": "미술 주제와 관련된 질문을 해주세요.",
+      "tags": ["art", "learning", "conversation", "class"]
+    },
+    {
+      "word": "Relevant",
+      "sentence_en": "His advice was very relevant to my current situation.",
+      "sentence_ko": "그의 조언은 내 현재 상황에 매우 적절했습니다.",
+      "tags": ["relationship", "advice", "help", "warm"]
+    },
+    {
+      "word": "Relevant",
+      "sentence_en": "Is this schedule relevant to next week's plan?",
+      "sentence_ko": "이 일정이 다음 주 계획과 관련이 있나요?",
+      "tags": ["schedule", "planning", "work", "time"]
+    },
+    {
+      "word": "Relevant",
+      "sentence_en": "Learning history is relevant to understanding today's world.",
+      "sentence_ko": "역사를 배우는 것은 오늘날의 세상을 이해하는 데 관련이 있습니다.",
+      "tags": ["learning", "history", "social", "education"]
+    },
+    {
+      "word": "Relevant",
+      "sentence_en": "Keep your social media posts relevant to your interests.",
+      "sentence_ko": "소셜 미디어 게시물을 당신의 관심사와 관련 있게 유지하세요.",
+      "tags": ["social", "internet", "hobby", "life"]
+    },
+    {
+      "word": "Irrelevant",
+      "sentence_en": "Ignore irrelevant details and focus on the main goal.",
+      "sentence_ko": "상관없는 세부 사항은 무시하고 주요 목표에 집중하세요.",
+      "tags": ["learning", "focus", "goal", "success"]
+    },
+    {
+      "word": "Irrelevant",
+      "sentence_en": "His comment was irrelevant to our happy conversation.",
+      "sentence_ko": "그의 말은 우리의 행복한 대화와는 상관이 없었습니다.",
+      "tags": ["conversation", "happy", "social", "mood"]
+    },
+    {
+      "word": "Irrelevant",
+      "sentence_en": "Age is irrelevant when it comes to true friendship.",
+      "sentence_ko": "진정한 우정에 있어서 나이는 중요하지 않습니다.",
+      "tags": ["friendship", "warm", "relationship", "age"]
+    },
+    {
+      "word": "Irrelevant",
+      "sentence_en": "Don't bring up irrelevant past mistakes in an argument.",
+      "sentence_ko": "논쟁 중에 무관한 과거의 실수를 꺼내지 마세요.",
+      "tags": ["relationship", "conversation", "conflict", "advice"]
+    },
+    {
+      "word": "Irrelevant",
+      "sentence_en": "The old schedule is now irrelevant because plans changed.",
+      "sentence_ko": "계획이 변경되었기 때문에 예전 일정은 이제 무의미합니다.",
+      "tags": ["schedule", "planning", "change", "time"]
+    },
+    {
+      "word": "Precise",
+      "sentence_en": "Art restoration requires precise movements of the hand.",
+      "sentence_ko": "미술품 복원은 손의 정밀한 움직임을 필요로 합니다.",
+      "tags": ["art", "skill", "work", "learning"]
+    },
+    {
+      "word": "Precise",
+      "sentence_en": "We need the precise time for the train schedule.",
+      "sentence_ko": "기차 일정을 위해 정확한 시간이 필요합니다.",
+      "tags": ["schedule", "travel", "time", "planning"]
+    },
+    {
+      "word": "Precise",
+      "sentence_en": "Be precise when explaining your feelings to a friend.",
+      "sentence_ko": "친구에게 감정을 설명할 때는 꼼꼼하고 정확하게 하세요.",
+      "tags": ["friendship", "conversation", "emotion", "warm"]
+    },
+    {
+      "word": "Precise",
+      "sentence_en": "Scientific experiments rely on precise measurements.",
+      "sentence_ko": "과학 실험은 정밀한 측정에 의존합니다.",
+      "tags": ["learning", "science", "education", "accuracy"]
+    },
+    {
+      "word": "Precise",
+      "sentence_en": "She has a precise memory of our first happy meeting.",
+      "sentence_ko": "그녀는 우리의 첫 행복한 만남에 대해 정확한 기억을 가지고 있습니다.",
+      "tags": ["relationship", "memory", "happy", "love"]
+    },
+    {
+      "word": "Accurate",
+      "sentence_en": "This map provides an accurate guide for outdoor hiking.",
+      "sentence_ko": "이 지도는 야외 하이킹을 위한 정확한 가이드를 제공합니다.",
+      "tags": ["outdoor", "travel", "guide", "hobby"]
+    },
+    {
+      "word": "Accurate",
+      "sentence_en": "It is important to keep accurate records of your schedule.",
+      "sentence_ko": "일정을 정확하게 기록해 두는 것이 중요합니다.",
+      "tags": ["schedule", "planning", "organization", "life"]
+    },
+    {
+      "word": "Accurate",
+      "sentence_en": "His description of the event was completely accurate.",
+      "sentence_ko": "그 사건에 대한 그의 묘사는 완전히 정확했습니다.",
+      "tags": ["conversation", "social", "truth", "story"]
+    },
+    {
+      "word": "Accurate",
+      "sentence_en": "Accurate pronunciation helps in learning a new language.",
+      "sentence_ko": "정확한 발음은 새로운 언어를 배우는 데 도움이 됩니다.",
+      "tags": ["learning", "language", "education", "skill"]
+    },
+    {
+      "word": "Accurate",
+      "sentence_en": "An accurate diagnosis is the first step to recovery.",
+      "sentence_ko": "정확한 진단은 회복의 첫걸음입니다.",
+      "tags": ["health", "learning", "science", "life"]
+    },
+    {
+      "word": "Misleading",
+      "sentence_en": "The advertisement was misleading about the product's price.",
+      "sentence_ko": "그 광고는 제품 가격에 대해 오해의 소지가 있었습니다.",
+      "tags": ["social", "shopping", "business", "media"]
+    },
+    {
+      "word": "Misleading",
+      "sentence_en": "Misleading information can spread quickly on social media.",
+      "sentence_ko": "오해의 소지가 있는 정보는 소셜 미디어에서 빠르게 퍼질 수 있습니다.",
+      "tags": ["social", "internet", "news", "learning"]
+    },
+    {
+      "word": "Misleading",
+      "sentence_en": "The title of the article was misleading and confusing.",
+      "sentence_ko": "그 기사의 제목은 오해를 불러일으키고 혼란스러웠습니다.",
+      "tags": ["learning", "reading", "news", "confusion"]
+    },
+    {
+      "word": "Misleading",
+      "sentence_en": "Don't give misleading signals in a relationship.",
+      "sentence_ko": "관계에서 오해할 만한 신호를 주지 마세요.",
+      "tags": ["relationship", "advice", "communication", "love"]
+    },
+    {
+      "word": "Misleading",
+      "sentence_en": "The map was misleading, so we got lost outdoors.",
+      "sentence_ko": "지도가 오해하기 쉬워서 우리는 야외에서 길을 잃었습니다.",
+      "tags": ["outdoor", "travel", "mistake", "adventure"]
+    },
+    {
+      "word": "Deceptive",
+      "sentence_en": "A deceptive calm appeared before the storm.",
+      "sentence_ko": "폭풍 전야에 기만적인(속임수 같은) 고요함이 나타났습니다.",
+      "tags": ["nature", "weather", "outdoor", "mood"]
+    },
+    {
+      "word": "Deceptive",
+      "sentence_en": "Appearances can be deceptive; he is actually very warm.",
+      "sentence_ko": "겉모습은 속이기 쉽습니다. 그는 사실 매우 따뜻한 사람입니다.",
+      "tags": ["relationship", "warm", "character", "social"]
+    },
+    {
+      "word": "Deceptive",
+      "sentence_en": "The puzzle looks simple but is actually deceptive.",
+      "sentence_ko": "그 퍼즐은 간단해 보이지만 사실은 사람을 속입니다(어렵습니다).",
+      "tags": ["learning", "game", "fun", "challenge"]
+    },
+    {
+      "word": "Deceptive",
+      "sentence_en": "Deceptive marketing practices damage customer trust.",
+      "sentence_ko": "기만적인 마케팅 관행은 고객의 신뢰를 손상시킵니다.",
+      "tags": ["business", "social", "trust", "ethics"]
+    },
+    {
+      "word": "Deceptive",
+      "sentence_en": "She used a deceptive tactic to win the game.",
+      "sentence_ko": "그녀는 게임에서 이기기 위해 속임수 전술을 썼습니다.",
+      "tags": ["social", "play", "strategy", "competition"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "I appreciate your direct approach to solving problems.",
+      "sentence_ko": "문제 해결에 대한 당신의 직접적인 접근 방식에 감사드립니다.",
+      "tags": ["conversation", "relationship", "problem_solving", "work"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "Take the direct route to save time on your schedule.",
+      "sentence_ko": "일정 시간을 절약하기 위해 직통 경로로 가세요.",
+      "tags": ["schedule", "travel", "time", "efficiency"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "He gave me direct eye contact during our conversation.",
+      "sentence_ko": "그는 대화 중에 저와 직접 눈을 맞추었습니다.",
+      "tags": ["conversation", "social", "connection", "body_language"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "Direct sunlight is good for outdoor plants.",
+      "sentence_ko": "직사광선은 야외 식물에게 좋습니다.",
+      "tags": ["outdoor", "nature", "gardening", "sun"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "Art creates a direct connection between the artist and viewer.",
+      "sentence_ko": "예술은 예술가와 관객 사이에 직접적인 연결을 만들어 줍니다.",
+      "tags": ["art", "connection", "feeling", "culture"]
+    },
+    {
+      "word": "Indirect",
+      "sentence_en": "She gave an indirect answer to avoid hurting his feelings.",
+      "sentence_ko": "그녀는 그의 감정을 상하게 하지 않으려고 우회적인 대답을 했습니다.",
+      "tags": ["conversation", "relationship", "warm", "kindness"]
+    },
+    {
+      "word": "Indirect",
+      "sentence_en": "We took an indirect path through the forest outdoors.",
+      "sentence_ko": "우리는 숲을 통과하는 우회로를 택했습니다.",
+      "tags": ["outdoor", "travel", "nature", "adventure"]
+    },
+    {
+      "word": "Indirect",
+      "sentence_en": "Indirect lighting creates a cozy and happy atmosphere.",
+      "sentence_ko": "간접 조명은 아늑하고 행복한 분위기를 연출합니다.",
+      "tags": ["home", "happy", "warm", "interior"]
+    },
+    {
+      "word": "Indirect",
+      "sentence_en": "Learning through play is an indirect method of education.",
+      "sentence_ko": "놀이를 통한 학습은 간접적인 교육 방식입니다.",
+      "tags": ["learning", "education", "play", "fun"]
+    },
+    {
+      "word": "Indirect",
+      "sentence_en": "Gossiping is an indirect form of social aggression.",
+      "sentence_ko": "험담은 사회적 공격의 간접적인 형태입니다.",
+      "tags": ["social", "conversation", "behavior", "psychology"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "He enjoys studying obscure art history facts.",
+      "sentence_ko": "그는 잘 알려지지 않은 미술사 사실들을 공부하는 것을 즐깁니다.",
+      "tags": ["art", "learning", "history", "hobby"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "The meaning of the poem was obscure to the students.",
+      "sentence_ko": "그 시의 의미는 학생들에게 모호했습니다.",
+      "tags": ["learning", "literature", "education", "reading"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "We found a lovely obscure cafe during our outdoor walk.",
+      "sentence_ko": "우리는 야외 산책 중에 사랑스럽고 눈에 잘 띄지 않는 카페를 발견했습니다.",
+      "tags": ["outdoor", "happy", "discovery", "place"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "Fog tended to obscure the view of the mountains.",
+      "sentence_ko": "안개가 산의 경치를 가리는(모호하게 하는) 경향이 있었습니다.",
+      "tags": ["outdoor", "nature", "weather", "view"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "Don't use obscure words in casual conversation.",
+      "sentence_ko": "일상적인 대화에서 이해하기 힘든 단어는 사용하지 마세요.",
+      "tags": ["conversation", "social", "communication", "language"]
+    },
+    {
+      "word": "Clear-cut",
+      "sentence_en": "We need a clear-cut plan for the weekend schedule.",
+      "sentence_ko": "우리는 주말 일정을 위한 명확한 계획이 필요합니다.",
+      "tags": ["schedule", "planning", "weekend", "life"]
+    },
+    {
+      "word": "Clear-cut",
+      "sentence_en": "There is no clear-cut answer to this social problem.",
+      "sentence_ko": "이 사회 문제에는 명백한 정답이 없습니다.",
+      "tags": ["social", "learning", "problem", "discussion"]
+    },
+    {
+      "word": "Clear-cut",
+      "sentence_en": "The difference between the two art styles is clear-cut.",
+      "sentence_ko": "두 예술 스타일의 차이는 명백합니다.",
+      "tags": ["art", "learning", "comparison", "style"]
+    },
+    {
+      "word": "Clear-cut",
+      "sentence_en": "He made a clear-cut decision to pursue his happiness.",
+      "sentence_ko": "그는 자신의 행복을 추구하기로 확실한 결정을 내렸습니다.",
+      "tags": ["happy", "life", "decision", "future"]
+    },
+    {
+      "word": "Clear-cut",
+      "sentence_en": "Friendship rules are not always clear-cut.",
+      "sentence_ko": "우정의 규칙이 항상 명백한 것은 아닙니다.",
+      "tags": ["friendship", "relationship", "social", "complexity"]
+    }
+  ]
+}

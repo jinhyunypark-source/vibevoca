@@ -1,0 +1,906 @@
+{
+  "deck_title": "FREQUENCY_REPETITION",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Intermittent",
+      "sentence_en": "The intermittent wifi signal made it difficult to join the video meeting.",
+      "sentence_ko": "와이파이 신호가 오락가락해서 화상 회의에 참여하기가 어려웠습니다.",
+      "tags": ["work", "smartphone", "daily_life"]
+    },
+    {
+      "word": "Intermittent",
+      "sentence_en": "We experienced intermittent rain showers throughout our mountain journey.",
+      "sentence_ko": "산행을 하는 내내 비가 오다 그치다를 반복했습니다.",
+      "tags": ["journey", "daily_life", "entertainment"]
+    },
+    {
+      "word": "Intermittent",
+      "sentence_en": "Intermittent fasting is a popular method for managing weight these days.",
+      "sentence_ko": "간헐적 단식은 요즘 체중 관리를 위해 인기 있는 방법입니다.",
+      "tags": ["dining", "daily_life", "education"]
+    },
+    {
+      "word": "Intermittent",
+      "sentence_en": "The app has an intermittent bug that crashes the system occasionally.",
+      "sentence_ko": "그 앱에는 가끔 시스템을 다운시키는 간헐적인 버그가 있습니다.",
+      "tags": ["develope", "smartphone", "work"]
+    },
+    {
+      "word": "Intermittent",
+      "sentence_en": "He worked on his startup project in intermittent bursts of energy.",
+      "sentence_ko": "그는 간헐적으로 에너지를 쏟아부으며 스타트업 프로젝트를 진행했습니다.",
+      "tags": ["startup", "work", "daily_life"]
+    },
+    {
+      "word": "Sporadic",
+      "sentence_en": "Sporadic gunfire was heard in the movie's action sequence.",
+      "sentence_ko": "영화 액션 장면에서 산발적인 총소리가 들렸습니다.",
+      "tags": ["entertainment", "movie", "daily_life"]
+    },
+    {
+      "word": "Sporadic",
+      "sentence_en": "His attendance at the coding bootcamp was sporadic at best.",
+      "sentence_ko": "코딩 부트캠프에 대한 그의 출석은 기껏해야 드문드문했습니다.",
+      "tags": ["education", "develope", "work"]
+    },
+    {
+      "word": "Sporadic",
+      "sentence_en": "We only receive sporadic updates from the development team.",
+      "sentence_ko": "우리는 개발팀으로부터 산발적인 업데이트만 받고 있습니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Sporadic",
+      "sentence_en": "Sporadic visits from customers keep the small restaurant alive.",
+      "sentence_ko": "드문드문 찾아오는 손님들이 그 작은 식당을 유지하게 해줍니다.",
+      "tags": ["restaurant", "dining", "work"]
+    },
+    {
+      "word": "Sporadic",
+      "sentence_en": "There were sporadic complaints about the new smartphone interface.",
+      "sentence_ko": "새로운 스마트폰 인터페이스에 대해 산발적인 불만이 있었습니다.",
+      "tags": ["smartphone", "develope", "daily_life"]
+    },
+    {
+      "word": "Occasional",
+      "sentence_en": "I enjoy an occasional glass of wine with my dinner.",
+      "sentence_ko": "저는 저녁 식사와 함께 가끔 와인 한 잔 즐기는 것을 좋아합니다.",
+      "tags": ["dining", "daily_life", "restaurant"]
+    },
+    {
+      "word": "Occasional",
+      "sentence_en": "Aside from occasional glitches, the software runs smoothly.",
+      "sentence_ko": "가끔 발생하는 결함을 제외하면 소프트웨어는 원활하게 작동합니다.",
+      "tags": ["develope", "work", "smartphone"]
+    },
+    {
+      "word": "Occasional",
+      "sentence_en": "He pays occasional visits to the office, but mostly works remotely.",
+      "sentence_ko": "그는 가끔 사무실에 들르지만, 대개 원격으로 근무합니다.",
+      "tags": ["work", "startup", "daily_life"]
+    },
+    {
+      "word": "Occasional",
+      "sentence_en": "We take occasional trips to the beach to relax.",
+      "sentence_ko": "우리는 휴식을 취하러 가끔 해변으로 여행을 갑니다.",
+      "tags": ["journey", "entertainment", "daily_life"]
+    },
+    {
+      "word": "Occasional",
+      "sentence_en": "The teacher allows occasional breaks during the long lecture.",
+      "sentence_ko": "선생님은 긴 강의 도중에 가끔 휴식 시간을 줍니다.",
+      "tags": ["education", "daily_life", "work"]
+    },
+    {
+      "word": "Periodic",
+      "sentence_en": "The company conducts periodic reviews of employee performance.",
+      "sentence_ko": "회사는 직원 성과에 대해 주기적인 검토를 수행합니다.",
+      "tags": ["work", "startup", "education"]
+    },
+    {
+      "word": "Periodic",
+      "sentence_en": "You need to do periodic maintenance on your smartphone to keep it fast.",
+      "sentence_ko": "스마트폰 속도를 유지하려면 주기적으로 관리를 해줘야 합니다.",
+      "tags": ["smartphone", "daily_life", "develope"]
+    },
+    {
+      "word": "Periodic",
+      "sentence_en": "We receive periodic reports on the project's status.",
+      "sentence_ko": "우리는 프로젝트 현황에 대한 주기적인 보고서를 받습니다.",
+      "tags": ["work", "develope", "startup"]
+    },
+    {
+      "word": "Periodic",
+      "sentence_en": "Periodic updates are essential for app security.",
+      "sentence_ko": "앱 보안을 위해 주기적인 업데이트는 필수적입니다.",
+      "tags": ["develope", "smartphone", "work"]
+    },
+    {
+      "word": "Periodic",
+      "sentence_en": "I make periodic visits to my favorite restaurant downtown.",
+      "sentence_ko": "저는 시내에 있는 단골 식당에 주기적으로 방문합니다.",
+      "tags": ["restaurant", "dining", "daily_life"]
+    },
+    {
+      "word": "Recurrent",
+      "sentence_en": "The recurrent theme in this movie is love and loss.",
+      "sentence_ko": "이 영화에서 되풀이되는 주제는 사랑과 상실입니다.",
+      "tags": ["entertainment", "movie", "education"]
+    },
+    {
+      "word": "Recurrent",
+      "sentence_en": "We are facing a recurrent problem with the server crashing.",
+      "sentence_ko": "우리는 서버가 다운되는 반복적인 문제에 직면해 있습니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Recurrent",
+      "sentence_en": "Recurrent expenses can drain a startup's budget quickly.",
+      "sentence_ko": "반복되는 지출은 스타트업의 예산을 빠르게 고갈시킬 수 있습니다.",
+      "tags": ["startup", "work", "daily_life"]
+    },
+    {
+      "word": "Recurrent",
+      "sentence_en": "He suffers from recurrent headaches due to stress.",
+      "sentence_ko": "그는 스트레스로 인해 재발하는 두통에 시달립니다.",
+      "tags": ["daily_life", "work", "education"]
+    },
+    {
+      "word": "Recurrent",
+      "sentence_en": "There is a recurrent rumor about the new product launch.",
+      "sentence_ko": "신제품 출시에 대한 소문이 끊임없이 돌고 있습니다.",
+      "tags": ["marketing", "smartphone", "work"]
+    },
+    {
+      "word": "Frequent",
+      "sentence_en": "Frequent updates to the app can be annoying for users.",
+      "sentence_ko": "앱의 빈번한 업데이트는 사용자에게 짜증을 유발할 수 있습니다.",
+      "tags": ["smartphone", "develope", "daily_life"]
+    },
+    {
+      "word": "Frequent",
+      "sentence_en": "He is a frequent traveler who visits Asia often.",
+      "sentence_ko": "그는 아시아를 자주 방문하는 빈번한 여행객입니다.",
+      "tags": ["journey", "daily_life", "work"]
+    },
+    {
+      "word": "Frequent",
+      "sentence_en": "Frequent meetings are slowing down the development process.",
+      "sentence_ko": "빈번한 회의가 개발 과정을 늦추고 있습니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Frequent",
+      "sentence_en": "She is a frequent customer at this Italian restaurant.",
+      "sentence_ko": "그녀는 이 이탈리아 식당의 단골손님입니다.",
+      "tags": ["restaurant", "dining", "daily_life"]
+    },
+    {
+      "word": "Frequent",
+      "sentence_en": "Frequent practice is the key to mastering a new language.",
+      "sentence_ko": "빈번한 연습이 새로운 언어를 마스터하는 열쇠입니다.",
+      "tags": ["education", "daily_life", "work"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "The constant noise from the construction site is distracting.",
+      "sentence_ko": "공사장의 끊임없는 소음은 주의를 산만하게 합니다.",
+      "tags": ["daily_life", "work", "education"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "Startups face constant changes in the market environment.",
+      "sentence_ko": "스타트업은 시장 환경의 끊임없는 변화에 직면합니다.",
+      "tags": ["startup", "work", "develope"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "Smartphone notifications are a constant source of interruption.",
+      "sentence_ko": "스마트폰 알림은 끊임없는 방해의 원인입니다.",
+      "tags": ["smartphone", "daily_life", "work"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "He requires constant feedback to improve his work.",
+      "sentence_ko": "그는 업무 향상을 위해 끊임없는 피드백을 필요로 합니다.",
+      "tags": ["work", "education", "develope"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "The constant demand for new content keeps creators busy.",
+      "sentence_ko": "새로운 콘텐츠에 대한 끊임없는 수요가 창작자들을 바쁘게 합니다.",
+      "tags": ["entertainment", "work", "marketing"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "We experienced continual problems with the old car during our journey.",
+      "sentence_ko": "여행 중에 낡은 차 때문에 계속해서 문제가 발생했습니다.",
+      "tags": ["journey", "daily_life", "work"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "The continual rain ruined our plans for a picnic.",
+      "sentence_ko": "줄기차게 내리는 비가 우리의 소풍 계획을 망쳤습니다.",
+      "tags": ["daily_life", "entertainment", "journey"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "Continual learning is necessary for software developers.",
+      "sentence_ko": "소프트웨어 개발자에게는 끊임없는 학습이 필요합니다.",
+      "tags": ["develope", "education", "work"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "She was tired of the continual arguments at work.",
+      "sentence_ko": "그녀는 직장에서의 계속되는 언쟁에 지쳤습니다.",
+      "tags": ["work", "daily_life", "startup"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "There were continual interruptions during the movie.",
+      "sentence_ko": "영화 상영 중에 계속해서 방해가 있었습니다.",
+      "tags": ["entertainment", "movie", "daily_life"]
+    },
+    {
+      "word": "Regular",
+      "sentence_en": "Regular exercise is important for a healthy lifestyle.",
+      "sentence_ko": "규칙적인 운동은 건강한 생활 방식에 중요합니다.",
+      "tags": ["daily_life", "education", "work"]
+    },
+    {
+      "word": "Regular",
+      "sentence_en": "We have a regular team meeting every Monday morning.",
+      "sentence_ko": "우리는 매주 월요일 아침에 정기 팀 회의를 합니다.",
+      "tags": ["work", "startup", "daily_life"]
+    },
+    {
+      "word": "Regular",
+      "sentence_en": "He is a regular customer at this coffee shop.",
+      "sentence_ko": "그는 이 커피숍의 단골손님입니다.",
+      "tags": ["dining", "daily_life", "restaurant"]
+    },
+    {
+      "word": "Regular",
+      "sentence_en": "Make sure to take regular breaks while studying.",
+      "sentence_ko": "공부하는 동안 규칙적으로 휴식을 취하도록 하세요.",
+      "tags": ["education", "daily_life", "work"]
+    },
+    {
+      "word": "Regular",
+      "sentence_en": "Regular updates keep the smartphone secure.",
+      "sentence_ko": "정기적인 업데이트는 스마트폰을 안전하게 유지해 줍니다.",
+      "tags": ["smartphone", "develope", "work"]
+    },
+    {
+      "word": "Irregular",
+      "sentence_en": "Freelancers often have irregular working hours.",
+      "sentence_ko": "프리랜서들은 종종 근무 시간이 불규칙합니다.",
+      "tags": ["work", "daily_life", "startup"]
+    },
+    {
+      "word": "Irregular",
+      "sentence_en": "Irregular eating habits can lead to health problems.",
+      "sentence_ko": "불규칙한 식습관은 건강 문제로 이어질 수 있습니다.",
+      "tags": ["dining", "daily_life", "education"]
+    },
+    {
+      "word": "Irregular",
+      "sentence_en": "The buses here run at irregular intervals.",
+      "sentence_ko": "이곳의 버스는 불규칙한 간격으로 운행됩니다.",
+      "tags": ["journey", "daily_life", "work"]
+    },
+    {
+      "word": "Irregular",
+      "sentence_en": "We noticed irregular activity on the user account.",
+      "sentence_ko": "우리는 사용자 계정에서 불규칙한 활동을 감지했습니다.",
+      "tags": ["develope", "smartphone", "work"]
+    },
+    {
+      "word": "Irregular",
+      "sentence_en": "The tiled floor had an irregular pattern.",
+      "sentence_ko": "타일 바닥은 불규칙한 패턴을 가지고 있었습니다.",
+      "tags": ["restaurant", "daily_life", "entertainment"]
+    },
+    {
+      "word": "Cyclical",
+      "sentence_en": "The semiconductor industry is known to be cyclical.",
+      "sentence_ko": "반도체 산업은 순환적인 것으로 알려져 있습니다.",
+      "tags": ["work", "startup", "develope"]
+    },
+    {
+      "word": "Cyclical",
+      "sentence_en": "Fashion trends are cyclical and often come back.",
+      "sentence_ko": "패션 트렌드는 순환하며 종종 다시 돌아옵니다.",
+      "tags": ["entertainment", "daily_life", "shopping"]
+    },
+    {
+      "word": "Cyclical",
+      "sentence_en": "We study the cyclical nature of the economy in class.",
+      "sentence_ko": "우리는 수업 시간에 경제의 순환적 특성을 공부합니다.",
+      "tags": ["education", "work", "daily_life"]
+    },
+    {
+      "word": "Cyclical",
+      "sentence_en": "Moods can be cyclical depending on the season.",
+      "sentence_ko": "기분은 계절에 따라 주기적으로 변할 수 있습니다.",
+      "tags": ["daily_life", "education", "work"]
+    },
+    {
+      "word": "Cyclical",
+      "sentence_en": "Startup funding often follows a cyclical pattern.",
+      "sentence_ko": "스타트업 자금 조달은 종종 순환적인 패턴을 따릅니다.",
+      "tags": ["startup", "work", "finance"]
+    },
+    {
+      "word": "Hourly",
+      "sentence_en": "The weather forecast is updated on an hourly basis.",
+      "sentence_ko": "일기 예보는 매시간 단위로 업데이트됩니다.",
+      "tags": ["smartphone", "daily_life", "journey"]
+    },
+    {
+      "word": "Hourly",
+      "sentence_en": "Part-time workers are paid an hourly wage.",
+      "sentence_ko": "아르바이트생들은 시급을 받습니다.",
+      "tags": ["work", "dining", "restaurant"]
+    },
+    {
+      "word": "Hourly",
+      "sentence_en": "Buses to the city center depart hourly.",
+      "sentence_ko": "도심으로 가는 버스는 매시간 출발합니다.",
+      "tags": ["journey", "daily_life", "work"]
+    },
+    {
+      "word": "Hourly",
+      "sentence_en": "We check the server logs hourly to ensure stability.",
+      "sentence_ko": "우리는 안정성을 보장하기 위해 매시간 서버 로그를 확인합니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Hourly",
+      "sentence_en": "Hourly reminders on my phone help me drink water.",
+      "sentence_ko": "휴대전화의 매시간 알림은 물을 마시는 데 도움이 됩니다.",
+      "tags": ["smartphone", "daily_life", "health"]
+    },
+    {
+      "word": "Biennial",
+      "sentence_en": "The art museum hosts a biennial exhibition.",
+      "sentence_ko": "그 미술관은 격년으로 전시회를 엽니다.",
+      "tags": ["entertainment", "daily_life", "journey"]
+    },
+    {
+      "word": "Biennial",
+      "sentence_en": "We have a biennial conference for all global employees.",
+      "sentence_ko": "우리는 전 세계 모든 직원을 위한 격년 회의를 갖습니다.",
+      "tags": ["work", "startup", "journey"]
+    },
+    {
+      "word": "Biennial",
+      "sentence_en": "This plant is biennial, flowering in its second year.",
+      "sentence_ko": "이 식물은 2년생이라 2년 차에 꽃이 핍니다.",
+      "tags": ["education", "daily_life", "nature"]
+    },
+    {
+      "word": "Biennial",
+      "sentence_en": "The biennial budget review is coming up next month.",
+      "sentence_ko": "격년 예산 검토가 다음 달로 다가왔습니다.",
+      "tags": ["work", "startup", "finance"]
+    },
+    {
+      "word": "Biennial",
+      "sentence_en": "They organize a biennial charity run in the city.",
+      "sentence_ko": "그들은 도시에서 격년으로 자선 달리기 대회를 조직합니다.",
+      "tags": ["daily_life", "entertainment", "work"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "Funding is a perennial problem for many startups.",
+      "sentence_ko": "자금 조달은 많은 스타트업에게 끊이지 않는 문제입니다.",
+      "tags": ["startup", "work", "business"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "This movie is a perennial favorite during the holidays.",
+      "sentence_ko": "이 영화는 연휴 때마다 사랑받는 스테디셀러입니다.",
+      "tags": ["entertainment", "daily_life", "movie"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "Roses are perennial plants that bloom every year.",
+      "sentence_ko": "장미는 매년 꽃을 피우는 다년생 식물입니다.",
+      "tags": ["daily_life", "education", "nature"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "The quest for happiness is a perennial human theme.",
+      "sentence_ko": "행복 추구는 인간의 영원한 주제입니다.",
+      "tags": ["education", "daily_life", "philosophy"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "We face perennial delays in the supply chain.",
+      "sentence_ko": "우리는 공급망에서 연중 계속되는 지연에 직면해 있습니다.",
+      "tags": ["work", "business", "journey"]
+    },
+    {
+      "word": "Habitual",
+      "sentence_en": "His habitual lateness annoyed his coworkers.",
+      "sentence_ko": "그의 습관적인 지각은 동료들을 짜증 나게 했습니다.",
+      "tags": ["work", "daily_life", "startup"]
+    },
+    {
+      "word": "Habitual",
+      "sentence_en": "She is a habitual coffee drinker every morning.",
+      "sentence_ko": "그녀는 매일 아침 습관적으로 커피를 마시는 사람입니다.",
+      "tags": ["dining", "daily_life", "work"]
+    },
+    {
+      "word": "Habitual",
+      "sentence_en": "Habitual checking of smartphones can reduce focus.",
+      "sentence_ko": "습관적인 스마트폰 확인은 집중력을 떨어뜨릴 수 있습니다.",
+      "tags": ["smartphone", "education", "work"]
+    },
+    {
+      "word": "Habitual",
+      "sentence_en": "We need to break habitual patterns to innovate.",
+      "sentence_ko": "혁신하기 위해서는 습관적인 패턴을 깨야 합니다.",
+      "tags": ["startup", "develope", "work"]
+    },
+    {
+      "word": "Habitual",
+      "sentence_en": "He made a habitual glance at his watch.",
+      "sentence_ko": "그는 습관적으로 시계를 쳐다봤습니다.",
+      "tags": ["daily_life", "work", "meeting"]
+    },
+    {
+      "word": "Customary",
+      "sentence_en": "It is customary to tip 20% in American restaurants.",
+      "sentence_ko": "미국 식당에서는 20% 팁을 주는 것이 관례입니다.",
+      "tags": ["restaurant", "dining", "journey"]
+    },
+    {
+      "word": "Customary",
+      "sentence_en": "It is customary to exchange business cards at the meeting.",
+      "sentence_ko": "회의에서 명함을 교환하는 것이 관례입니다.",
+      "tags": ["work", "startup", "daily_life"]
+    },
+    {
+      "word": "Customary",
+      "sentence_en": "She greeted him with her customary smile.",
+      "sentence_ko": "그녀는 늘 그렇듯 미소로 그를 맞이했습니다.",
+      "tags": ["daily_life", "relationship", "work"]
+    },
+    {
+      "word": "Customary",
+      "sentence_en": "Taking off shoes is customary in many Asian homes.",
+      "sentence_ko": "많은 아시아 가정에서는 신발을 벗는 것이 관습입니다.",
+      "tags": ["daily_life", "journey", "culture"]
+    },
+    {
+      "word": "Customary",
+      "sentence_en": "It is customary to bring a small gift when visiting.",
+      "sentence_ko": "방문할 때 작은 선물을 가져가는 것이 관례입니다.",
+      "tags": ["daily_life", "dining", "social"]
+    },
+    {
+      "word": "Routine",
+      "sentence_en": "Checking emails is part of my morning routine.",
+      "sentence_ko": "이메일 확인은 제 아침 일과 중 하나입니다.",
+      "tags": ["work", "daily_life", "startup"]
+    },
+    {
+      "word": "Routine",
+      "sentence_en": "The server underwent routine maintenance last night.",
+      "sentence_ko": "지난밤에 서버 정기 점검이 있었습니다.",
+      "tags": ["develope", "work", "technology"]
+    },
+    {
+      "word": "Routine",
+      "sentence_en": "It was just a routine checkup at the hospital.",
+      "sentence_ko": "그것은 병원에서의 일상적인 검진일 뿐이었습니다.",
+      "tags": ["daily_life", "health", "care"]
+    },
+    {
+      "word": "Routine",
+      "sentence_en": "Following a routine helps children feel secure.",
+      "sentence_ko": "규칙적인 일과를 따르는 것은 아이들이 안정감을 느끼게 돕습니다.",
+      "tags": ["education", "daily_life", "family"]
+    },
+    {
+      "word": "Routine",
+      "sentence_en": "Cooking dinner became a boring routine for him.",
+      "sentence_ko": "저녁 요리는 그에게 지루한 일상이 되었습니다.",
+      "tags": ["dining", "daily_life", "restaurant"]
+    },
+    {
+      "word": "Systematic",
+      "sentence_en": "We need a systematic approach to solve these bugs.",
+      "sentence_ko": "이 버그들을 해결하려면 체계적인 접근 방식이 필요합니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Systematic",
+      "sentence_en": "She conducted a systematic review of the literature.",
+      "sentence_ko": "그녀는 문헌에 대한 체계적인 검토를 수행했습니다.",
+      "tags": ["education", "work", "research"]
+    },
+    {
+      "word": "Systematic",
+      "sentence_en": "A systematic search was launched to find the lost file.",
+      "sentence_ko": "잃어버린 파일을 찾기 위해 체계적인 검색이 시작되었습니다.",
+      "tags": ["work", "daily_life", "technology"]
+    },
+    {
+      "word": "Systematic",
+      "sentence_en": "Learning a language requires systematic practice.",
+      "sentence_ko": "언어 학습은 체계적인 연습을 필요로 합니다.",
+      "tags": ["education", "daily_life", "study"]
+    },
+    {
+      "word": "Systematic",
+      "sentence_en": "The factory has a systematic process for quality control.",
+      "sentence_ko": "그 공장은 품질 관리를 위한 체계적인 공정을 갖추고 있습니다.",
+      "tags": ["work", "business", "technology"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "We have meetings on alternate Mondays.",
+      "sentence_ko": "우리는 격주 월요일마다 회의를 합니다.",
+      "tags": ["work", "startup", "daily_life"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Use alternate layers of cheese and sauce in the lasagna.",
+      "sentence_ko": "라자냐에 치즈와 소스를 번갈아 가며 층층이 쌓으세요.",
+      "tags": ["dining", "restaurant", "daily_life"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "You should alternate between running and walking.",
+      "sentence_ko": "달리기와 걷기를 번갈아 가며 해야 합니다.",
+      "tags": ["daily_life", "education", "health"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Farmers alternate crops to keep the soil healthy.",
+      "sentence_ko": "농부들은 토양을 건강하게 유지하기 위해 작물을 번갈아 심습니다.",
+      "tags": ["work", "nature", "education"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Please use the alternate route due to traffic.",
+      "sentence_ko": "교통 체증 때문에 우회 경로를 이용해 주세요.",
+      "tags": ["journey", "daily_life", "transport"]
+    },
+    {
+      "word": "Consecutive",
+      "sentence_en": "It rained for five consecutive days during our trip.",
+      "sentence_ko": "우리 여행 중 5일 연속으로 비가 왔습니다.",
+      "tags": ["journey", "daily_life", "weather"]
+    },
+    {
+      "word": "Consecutive",
+      "sentence_en": "The team won three consecutive games.",
+      "sentence_ko": "그 팀은 3연승을 거두었습니다.",
+      "tags": ["entertainment", "daily_life", "sports"]
+    },
+    {
+      "word": "Consecutive",
+      "sentence_en": "He worked for ten consecutive hours to finish the code.",
+      "sentence_ko": "그는 코드를 완성하기 위해 10시간 연속으로 일했습니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Consecutive",
+      "sentence_en": "She was absent for two consecutive days.",
+      "sentence_ko": "그녀는 이틀 연속으로 결석했습니다.",
+      "tags": ["education", "work", "daily_life"]
+    },
+    {
+      "word": "Consecutive",
+      "sentence_en": "Number the pages in consecutive order.",
+      "sentence_ko": "페이지에 연속된 순서로 번호를 매기세요.",
+      "tags": ["work", "education", "daily_life"]
+    },
+    {
+      "word": "Successive",
+      "sentence_en": "We released three successive versions of the app.",
+      "sentence_ko": "우리는 앱의 세 가지 버전을 잇달아 출시했습니다.",
+      "tags": ["develope", "smartphone", "startup"]
+    },
+    {
+      "word": "Successive",
+      "sentence_en": "Successive governments have failed to solve the problem.",
+      "sentence_ko": "역대 정부들이 잇따라 그 문제 해결에 실패했습니다.",
+      "tags": ["daily_life", "news", "politics"]
+    },
+    {
+      "word": "Successive",
+      "sentence_en": "He scored goals in successive matches.",
+      "sentence_ko": "그는 연이은 경기에서 골을 넣었습니다.",
+      "tags": ["entertainment", "sports", "daily_life"]
+    },
+    {
+      "word": "Successive",
+      "sentence_en": "The plant produces successive blooms throughout summer.",
+      "sentence_ko": "그 식물은 여름 내내 잇달아 꽃을 피웁니다.",
+      "tags": ["daily_life", "nature", "education"]
+    },
+    {
+      "word": "Successive",
+      "sentence_en": "She achieved success in successive business ventures.",
+      "sentence_ko": "그녀는 잇따른 사업 벤처에서 성공을 거두었습니다.",
+      "tags": ["startup", "business", "work"]
+    },
+    {
+      "word": "Spasmodic",
+      "sentence_en": "He has a spasmodic interest in learning the guitar.",
+      "sentence_ko": "그는 기타 배우기에 대해 발작적인(했다 안 했다 하는) 관심을 보입니다.",
+      "tags": ["entertainment", "education", "daily_life"]
+    },
+    {
+      "word": "Spasmodic",
+      "sentence_en": "Work on the project was spasmodic and disorganized.",
+      "sentence_ko": "프로젝트 작업은 산발적이고 체계적이지 못했습니다.",
+      "tags": ["work", "startup", "develope"]
+    },
+    {
+      "word": "Spasmodic",
+      "sentence_en": "The car made spasmodic movements before stopping.",
+      "sentence_ko": "차가 멈추기 전에 덜컥거리는 움직임을 보였습니다.",
+      "tags": ["journey", "daily_life", "transport"]
+    },
+    {
+      "word": "Spasmodic",
+      "sentence_en": "She suffered from spasmodic coughing fits.",
+      "sentence_ko": "그녀는 발작적인 기침으로 고통받았습니다.",
+      "tags": ["daily_life", "health", "care"]
+    },
+    {
+      "word": "Spasmodic",
+      "sentence_en": "His attendance at the gym was spasmodic.",
+      "sentence_ko": "그의 체육관 출석은 들쑥날쑥했습니다.",
+      "tags": ["daily_life", "exercise", "health"]
+    },
+    {
+      "word": "Fitful",
+      "sentence_en": "I had a fitful sleep before the important interview.",
+      "sentence_ko": "중요한 면접을 앞두고 잠을 설쳤습니다.",
+      "tags": ["work", "daily_life", "health"]
+    },
+    {
+      "word": "Fitful",
+      "sentence_en": "The wind was fitful, changing direction constantly.",
+      "sentence_ko": "바람이 불규칙해서 방향이 계속 바뀌었습니다.",
+      "tags": ["journey", "weather", "daily_life"]
+    },
+    {
+      "word": "Fitful",
+      "sentence_en": "Progress on the startup has been fitful lately.",
+      "sentence_ko": "최근 스타트업의 진행 상황이 오락가락합니다.",
+      "tags": ["startup", "work", "business"]
+    },
+    {
+      "word": "Fitful",
+      "sentence_en": "The baby's breathing was fitful while crying.",
+      "sentence_ko": "아기가 울 때 호흡이 불규칙했습니다.",
+      "tags": ["daily_life", "family", "care"]
+    },
+    {
+      "word": "Fitful",
+      "sentence_en": "We made fitful attempts to fix the old computer.",
+      "sentence_ko": "우리는 낡은 컴퓨터를 고치기 위해 단속적으로 시도했습니다.",
+      "tags": ["develope", "technology", "daily_life"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "It is a rare opportunity to meet such a famous CEO.",
+      "sentence_ko": "그렇게 유명한 CEO를 만나는 것은 드문 기회입니다.",
+      "tags": ["work", "startup", "entertainment"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "We spotted a rare bird during our journey.",
+      "sentence_ko": "우리는 여행 중에 희귀한 새를 발견했습니다.",
+      "tags": ["journey", "daily_life", "nature"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "Errors like this are rare in our software.",
+      "sentence_ko": "우리 소프트웨어에서 이런 오류는 드뭅니다.",
+      "tags": ["develope", "work", "smartphone"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "She has a rare talent for coding.",
+      "sentence_ko": "그녀는 코딩에 보기 드문 재능이 있습니다.",
+      "tags": ["develope", "education", "work"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "He likes his steak cooked rare.",
+      "sentence_ko": "그는 스테이크를 레어로 익혀 먹는 것을 좋아합니다.",
+      "tags": ["dining", "restaurant", "daily_life"]
+    },
+    {
+      "word": "Infrequent",
+      "sentence_en": "Bus service to this village is infrequent.",
+      "sentence_ko": "이 마을로 가는 버스 운행은 드뭅니다.",
+      "tags": ["journey", "daily_life", "transport"]
+    },
+    {
+      "word": "Infrequent",
+      "sentence_en": "My visits to the dentist have been infrequent.",
+      "sentence_ko": "치과에 가는 횟수가 뜸했습니다.",
+      "tags": ["daily_life", "health", "care"]
+    },
+    {
+      "word": "Infrequent",
+      "sentence_en": "He makes infrequent posts on his social media.",
+      "sentence_ko": "그는 소셜 미디어에 게시물을 드문드문 올립니다.",
+      "tags": ["smartphone", "entertainment", "daily_life"]
+    },
+    {
+      "word": "Infrequent",
+      "sentence_en": "Infrequent updates can leave the app vulnerable.",
+      "sentence_ko": "드문 업데이트는 앱을 취약하게 만들 수 있습니다.",
+      "tags": ["develope", "smartphone", "work"]
+    },
+    {
+      "word": "Infrequent",
+      "sentence_en": "We have infrequent meetings, so email is important.",
+      "sentence_ko": "우리는 회의가 잦지 않아서 이메일이 중요합니다.",
+      "tags": ["work", "startup", "communication"]
+    },
+    {
+      "word": "Seldom",
+      "sentence_en": "I seldom eat fast food these days.",
+      "sentence_ko": "저는 요즘 패스트푸드를 거의 먹지 않습니다.",
+      "tags": ["dining", "daily_life", "health"]
+    },
+    {
+      "word": "Seldom",
+      "sentence_en": "She is seldom late for work.",
+      "sentence_ko": "그녀는 좀처럼 회사에 지각하지 않습니다.",
+      "tags": ["work", "daily_life", "business"]
+    },
+    {
+      "word": "Seldom",
+      "sentence_en": "We seldom see such dedication in young students.",
+      "sentence_ko": "어린 학생들에게서 그런 헌신을 보기는 힘듭니다.",
+      "tags": ["education", "daily_life", "school"]
+    },
+    {
+      "word": "Seldom",
+      "sentence_en": "Opportunities like this come very seldom.",
+      "sentence_ko": "이런 기회는 아주 드물게 옵니다.",
+      "tags": ["startup", "work", "life"]
+    },
+    {
+      "word": "Seldom",
+      "sentence_en": "He seldom complains about the workload.",
+      "sentence_ko": "그는 업무량에 대해 좀처럼 불평하지 않습니다.",
+      "tags": ["work", "daily_life", "attitude"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Fresh water was scarce during the desert journey.",
+      "sentence_ko": "사막 여행 중에는 신선한 물이 부족했습니다.",
+      "tags": ["journey", "daily_life", "nature"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Good developers are scarce in this region.",
+      "sentence_ko": "이 지역에서는 훌륭한 개발자를 찾기 힘듭니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Resources were scarce in the early days of the startup.",
+      "sentence_ko": "스타트업 초기에는 자원이 부족했습니다.",
+      "tags": ["startup", "work", "business"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Information about the new product is scarce.",
+      "sentence_ko": "신제품에 대한 정보가 거의 없습니다.",
+      "tags": ["marketing", "smartphone", "work"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Vegetables become scarce in winter.",
+      "sentence_ko": "겨울에는 채소가 귀해집니다.",
+      "tags": ["dining", "daily_life", "food"]
+    },
+    {
+      "word": "Commonplace",
+      "sentence_en": "Smartphones have become commonplace in modern society.",
+      "sentence_ko": "스마트폰은 현대 사회에서 흔한 물건이 되었습니다.",
+      "tags": ["smartphone", "daily_life", "tech"]
+    },
+    {
+      "word": "Commonplace",
+      "sentence_en": "Remote work is becoming commonplace for developers.",
+      "sentence_ko": "원격 근무는 개발자들에게 흔한 일이 되고 있습니다.",
+      "tags": ["develope", "work", "startup"]
+    },
+    {
+      "word": "Commonplace",
+      "sentence_en": "Electric cars are becoming more commonplace on the roads.",
+      "sentence_ko": "전기차가 도로에서 점점 더 흔해지고 있습니다.",
+      "tags": ["journey", "daily_life", "tech"]
+    },
+    {
+      "word": "Commonplace",
+      "sentence_en": "Such errors were commonplace in the old system.",
+      "sentence_ko": "그런 오류들은 구형 시스템에서는 흔했습니다.",
+      "tags": ["work", "technology", "develope"]
+    },
+    {
+      "word": "Commonplace",
+      "sentence_en": "It is commonplace to check emails on the weekend.",
+      "sentence_ko": "주말에 이메일을 확인하는 것은 흔한 일입니다.",
+      "tags": ["work", "daily_life", "smartphone"]
+    },
+    {
+      "word": "Ubiquitous",
+      "sentence_en": "Coffee shops are ubiquitous in Seoul.",
+      "sentence_ko": "서울에는 커피숍이 어디에나 있습니다.",
+      "tags": ["dining", "daily_life", "journey"]
+    },
+    {
+      "word": "Ubiquitous",
+      "sentence_en": "Smartphone usage is ubiquitous among teenagers.",
+      "sentence_ko": "십 대들 사이에서 스마트폰 사용은 보편적입니다.",
+      "tags": ["smartphone", "education", "daily_life"]
+    },
+    {
+      "word": "Ubiquitous",
+      "sentence_en": "Plastic waste has become a ubiquitous problem.",
+      "sentence_ko": "플라스틱 쓰레기는 어디에나 있는 문제가 되었습니다.",
+      "tags": ["daily_life", "nature", "environment"]
+    },
+    {
+      "word": "Ubiquitous",
+      "sentence_en": "The internet is ubiquitous in our daily lives.",
+      "sentence_ko": "인터넷은 우리 일상생활 어디에나 존재합니다.",
+      "tags": ["develope", "work", "daily_life"]
+    },
+    {
+      "word": "Ubiquitous",
+      "sentence_en": "English is becoming a ubiquitous language in business.",
+      "sentence_ko": "영어는 비즈니스에서 어디서나 쓰이는 언어가 되고 있습니다.",
+      "tags": ["work", "startup", "education"]
+    },
+    {
+      "word": "Annual",
+      "sentence_en": "We have an annual performance review at work.",
+      "sentence_ko": "우리는 직장에서 연례 성과 검토를 합니다.",
+      "tags": ["work", "startup", "daily_life"]
+    },
+    {
+      "word": "Annual",
+      "sentence_en": "The annual music festival attracts many tourists.",
+      "sentence_ko": "그 연례 음악 축제는 많은 관광객을 끌어모읍니다.",
+      "tags": ["entertainment", "journey", "daily_life"]
+    },
+    {
+      "word": "Annual",
+      "sentence_en": "I go for an annual health checkup.",
+      "sentence_ko": "저는 매년 건강 검진을 받으러 갑니다.",
+      "tags": ["daily_life", "health", "care"]
+    },
+    {
+      "word": "Annual",
+      "sentence_en": "The company publishes an annual report for investors.",
+      "sentence_ko": "회사는 투자자들을 위해 연례 보고서를 발행합니다.",
+      "tags": ["startup", "work", "business"]
+    },
+    {
+      "word": "Annual",
+      "sentence_en": "My annual subscription to the app renews today.",
+      "sentence_ko": "제 앱 연간 구독이 오늘 갱신됩니다.",
+      "tags": ["smartphone", "daily_life", "entertainment"]
+    }
+  ]
+}

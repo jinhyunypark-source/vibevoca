@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "meaning": "부수적인 (중요한 것에 딸려오는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "meaning": "대단히 중요한, 위태로운 (생사가 걸린)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "meaning": "사소한, 하찮은 (신경 쓸 필요 없는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "meaning": "작은, 별로 중요치 않은 (심각하지 않은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "meaning": "안 중요한, 옹졸한 (작고 시시한)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "meaning": "약간의 (정도가 미미한)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "meaning": "무시해도 될 정도의 (양이 아주 적은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "meaning": "대수롭지 않은 (의미가 없는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "meaning": "미미한, 주변부의 (중요하지 않은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "meaning": "표면적인 (깊이가 없는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "meaning": "경박한, 하찮은 (진지하지 않은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "meaning": "하찮은 (가치가 거의 없는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "meaning": "결정적인 (성패를 좌우하는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "meaning": "필수적인, 생명의 (없으면 안 되는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "meaning": "중추적인 (회전축처럼 방향을 바꾸는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "meaning": "본질적인, 필수적인 (가장 기본이 되는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "meaning": "주요한, 큰 (규모나 중요도가 큰)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "meaning": "심각한, 진지한 (가볍지 않은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "meaning": "중대한, 엄숙한 (매우 심각하고 무거운)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "meaning": "극심한, 급성의 (문제의 정도가 날카롭고 심한)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "meaning": "가혹한, 심한 (엄격하고 고통스러운)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "meaning": "심오한, 엄청난 (깊이가 있고 영향이 큰)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "meaning": "깊은 (표면적이지 않은)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "meaning": "중대한, 무거운 (영향력이 큰)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "meaning": "기념비적인, 엄청난 (역사에 남을 만큼 큰)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "meaning": "중대한 결과가 따르는 (중요한)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "meaning": "상당한, 실질적인 (양이나 중요성이 꽤 되는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "meaning": "긴박한 (당장 처리해야 하는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "meaning": "시급한 (지체할 수 없는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "meaning": "최고로 중요한 (다른 무엇보다 우선하는)",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "deck_name": "SIGNIFICANCE_DEPTH"
+  }
+]

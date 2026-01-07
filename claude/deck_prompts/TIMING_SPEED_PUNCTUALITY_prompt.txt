@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: TIMING_SPEED_PUNCTUALITY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Punctual - 시간을 엄수하는 (정해진 시각에 딱 맞추는)
+2. Prompt - 즉각적인, 지체 없는 (반응이 빠른)
+3. Timely - 시기적절한 (딱 알맞은 때에 일어난)
+4. Tardy - 느린, 지각한 (제시간보다 늦은)
+5. Delayed - 지연된 (예정보다 늦어진)
+6. Overdue - 기한이 지난 (이미 늦은)
+7. Belated - 뒤늦은 (시기를 놓치고 나중에 한)
+8. Premature - 시기상조의, 너무 이른 (제때보다 이른)
+9. Precocious - 조숙한 (나이에 비해 발달이 빠른)
+10. Simultaneous - 동시의 (같은 시각에 일어나는)
+11. Synchronized - 동기화된 (시간을 딱 맞춘)
+12. Coincident - 일치하는, 동시에 일어나는 (우연히 겹친)
+13. Opportune - 시의적절한 (기회 잡기에 좋은)
+14. Inopportune - 시기가 나쁜 (때가 안 좋은)
+15. Seasonable - 계절에 맞는 (제철의)
+16. Urgent - 긴급한 (즉각적 행동이 필요한)
+17. Pressing - 압박하는, 긴박한 (무시할 수 없는)
+18. Immediate - 즉시의 (시간차 없는)
+19. Instant - 즉석의, 순간적인 (조리/준비 없이 바로)
+20. Swift - 신속한 (움직임이 빠른)
+21. Rapid - 빠른 (속도가 높은)
+22. Hasty - 서두르는 (급하게 해서 엉성한)
+23. Brisk - 활발한, 빠른 (기분 좋게 빠른)
+24. Accelerated - 가속화된 (점점 빨라지는)
+25. Pace - 속도 (걸음걸이나 진행 속도)
+26. Tempo - 템포, 박자 (활동의 빠르기)
+27. Lag - 지체, 뒤처짐 (시간 차이)
+28. Procrastinate - 미루다, 꾸물거리다 (해야 할 일을 늦추다)
+29. Defer - 미루다, 연기하다 (결정을 나중으로)
+30. Postpone - 연기하다 (일정을 뒤로 늦추다)
+
+## 추천 태그 (상황/맥락)
+planning, restaurant, activity, social, hobby, sport, marketing, home, daily_life, health
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "TIMING_SPEED_PUNCTUALITY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "TIMING_SPEED_PUNCTUALITY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

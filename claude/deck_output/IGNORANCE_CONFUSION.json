@@ -1,0 +1,966 @@
+{
+  "deck_title": "IGNORANCE_CONFUSION",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Ignorant",
+      "sentence_en": "He remained ignorant of the dangers until it was too late.",
+      "sentence_ko": "그는 너무 늦을 때까지 위험을 전혀 모르고 있었다.",
+      "tags": ["movie", "travel"]
+    },
+    {
+      "word": "Ignorant",
+      "sentence_en": "I was ignorant about Korean history before taking this class.",
+      "sentence_ko": "이 수업을 듣기 전까지 한국 역사에 대해 아는 게 없었어.",
+      "tags": ["school", "study"]
+    },
+    {
+      "word": "Ignorant",
+      "sentence_en": "She's not stupid, just ignorant of the facts.",
+      "sentence_ko": "그녀가 멍청한 게 아니라 그냥 사실을 모를 뿐이야.",
+      "tags": ["school", "conversation"]
+    },
+    {
+      "word": "Ignorant",
+      "sentence_en": "Don't be ignorant of your rights as a consumer.",
+      "sentence_ko": "소비자로서의 권리를 모른 채 있지 마세요.",
+      "tags": ["shopping", "learning"]
+    },
+    {
+      "word": "Ignorant",
+      "sentence_en": "Many tourists are ignorant of local customs and offend people accidentally.",
+      "sentence_ko": "많은 관광객들이 현지 문화를 몰라서 무심코 실례를 저지른다.",
+      "tags": ["travel", "culture"]
+    },
+    {
+      "word": "Ignorant",
+      "sentence_en": "The manager made an ignorant comment that upset the entire team.",
+      "sentence_ko": "매니저가 무지한 발언을 해서 팀 전체가 기분 나빠했다.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Uneducated",
+      "sentence_en": "Despite being uneducated, my grandfather was incredibly wise.",
+      "sentence_ko": "할아버지는 배우지 못하셨지만 정말 지혜로우셨다.",
+      "tags": ["family", "conversation"]
+    },
+    {
+      "word": "Uneducated",
+      "sentence_en": "She felt insecure about her uneducated background at the university.",
+      "sentence_ko": "그녀는 대학에서 자신의 학력 없는 배경 때문에 주눅이 들었다.",
+      "tags": ["school", "mood"]
+    },
+    {
+      "word": "Uneducated",
+      "sentence_en": "The documentary showed how uneducated workers were exploited in factories.",
+      "sentence_ko": "다큐멘터리는 교육받지 못한 노동자들이 공장에서 착취당하는 모습을 보여줬다.",
+      "tags": ["movie", "social"]
+    },
+    {
+      "word": "Uneducated",
+      "sentence_en": "Don't underestimate uneducated people; they often have street smarts.",
+      "sentence_ko": "교육받지 못한 사람들을 무시하지 마. 그들은 종종 세상 물정에 밝거든.",
+      "tags": ["conversation", "learning"]
+    },
+    {
+      "word": "Uneducated",
+      "sentence_en": "His uneducated guess turned out to be completely wrong.",
+      "sentence_ko": "그의 무식한 추측은 완전히 틀린 것으로 밝혀졌다.",
+      "tags": ["study", "school"]
+    },
+    {
+      "word": "Illiterate",
+      "sentence_en": "My grandmother was illiterate but ran a successful business.",
+      "sentence_ko": "우리 할머니는 문맹이셨지만 사업을 성공적으로 운영하셨다.",
+      "tags": ["family", "business"]
+    },
+    {
+      "word": "Illiterate",
+      "sentence_en": "He's computer illiterate and can't even send an email.",
+      "sentence_ko": "그는 컴퓨터를 전혀 못 다뤄서 이메일도 못 보낸다.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Illiterate",
+      "sentence_en": "The charity provides free classes for illiterate adults.",
+      "sentence_ko": "그 자선단체는 문맹 성인들을 위한 무료 수업을 제공한다.",
+      "tags": ["social", "study"]
+    },
+    {
+      "word": "Illiterate",
+      "sentence_en": "I'm financially illiterate and need help managing my budget.",
+      "sentence_ko": "나는 재테크를 전혀 몰라서 예산 관리에 도움이 필요해.",
+      "tags": ["shopping", "planning"]
+    },
+    {
+      "word": "Illiterate",
+      "sentence_en": "Being illiterate makes traveling abroad extremely challenging.",
+      "sentence_ko": "문맹이면 해외여행이 정말 힘들다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Uninformed",
+      "sentence_en": "I can't vote on this issue because I'm completely uninformed.",
+      "sentence_ko": "이 문제에 대해 전혀 모르니까 투표할 수가 없어.",
+      "tags": ["social", "thinking"]
+    },
+    {
+      "word": "Uninformed",
+      "sentence_en": "Don't make uninformed decisions when buying a house.",
+      "sentence_ko": "집 살 때 아무것도 모르고 결정하지 마세요.",
+      "tags": ["shopping", "planning"]
+    },
+    {
+      "word": "Uninformed",
+      "sentence_en": "The reporter's uninformed article caused unnecessary panic.",
+      "sentence_ko": "기자의 무지한 기사가 불필요한 공포를 조장했다.",
+      "tags": ["news", "social"]
+    },
+    {
+      "word": "Uninformed",
+      "sentence_en": "She felt embarrassed being so uninformed about current events.",
+      "sentence_ko": "그녀는 시사에 대해 너무 무지해서 창피했다.",
+      "tags": ["mood", "social"]
+    },
+    {
+      "word": "Uninformed",
+      "sentence_en": "His uninformed opinion on the topic annoyed the experts.",
+      "sentence_ko": "그 주제에 대한 그의 무지한 의견이 전문가들을 짜증나게 했다.",
+      "tags": ["conversation", "work"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "I was unaware that the restaurant had a dress code.",
+      "sentence_ko": "그 레스토랑에 복장 규정이 있는 줄 몰랐어.",
+      "tags": ["dining", "travel"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "She walked through the dangerous area, completely unaware of the risks.",
+      "sentence_ko": "그녀는 위험을 전혀 모른 채 위험한 구역을 지나갔다.",
+      "tags": ["travel", "movie"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "He was unaware that his mic was still on during the break.",
+      "sentence_ko": "그는 쉬는 시간에 마이크가 켜져 있는 줄 몰랐다.",
+      "tags": ["work", "embarrassing"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "Are you unaware of what happened yesterday?",
+      "sentence_ko": "어제 무슨 일 있었는지 모르세요?",
+      "tags": ["conversation", "school"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "I was unaware that my card had expired until checkout.",
+      "sentence_ko": "계산할 때까지 카드가 만료된 줄 몰랐어.",
+      "tags": ["shopping", "embarrassing"]
+    },
+    {
+      "word": "Unaware",
+      "sentence_en": "The team was unaware of the new policy changes.",
+      "sentence_ko": "팀원들은 새로운 정책 변경 사항을 전혀 몰랐다.",
+      "tags": ["work", "communication"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "He's oblivious to how much she likes him.",
+      "sentence_ko": "그녀가 자기를 얼마나 좋아하는지 전혀 눈치 못 채고 있어.",
+      "tags": ["relationship", "mood"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "She was oblivious to the mess around her while studying.",
+      "sentence_ko": "그녀는 공부하면서 주변 난장판을 전혀 의식하지 못했다.",
+      "tags": ["study", "school"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "The tourists were oblivious to the pickpocket following them.",
+      "sentence_ko": "관광객들은 소매치기가 따라오는 걸 전혀 몰랐다.",
+      "tags": ["travel", "danger"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "He walked past me, completely oblivious to my presence.",
+      "sentence_ko": "그는 내가 있는 줄도 모르고 그냥 지나쳤어.",
+      "tags": ["mood", "relationship"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "My dad is oblivious to technology trends.",
+      "sentence_ko": "우리 아빠는 기술 트렌드에 관심이 없으셔.",
+      "tags": ["family", "code"]
+    },
+    {
+      "word": "Oblivious",
+      "sentence_en": "She remained oblivious to the obvious hints everyone was giving.",
+      "sentence_ko": "그녀는 모두가 주는 뻔한 힌트를 전혀 알아채지 못했다.",
+      "tags": ["conversation", "social"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "I was naive to think I could learn coding in one week.",
+      "sentence_ko": "일주일 만에 코딩을 배울 수 있다고 생각한 내가 순진했지.",
+      "tags": ["code", "study"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "Don't be naive about online shopping scams.",
+      "sentence_ko": "온라인 쇼핑 사기에 대해 너무 순진하게 생각하지 마.",
+      "tags": ["shopping", "warning"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "She's too naive to survive in the competitive business world.",
+      "sentence_ko": "그녀는 너무 순진해서 경쟁이 치열한 비즈니스 세계에서 살아남기 힘들 거야.",
+      "tags": ["work", "business"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "His naive trust in strangers got him into trouble.",
+      "sentence_ko": "낯선 사람들에 대한 그의 순진한 믿음이 그를 곤란하게 만들었다.",
+      "tags": ["travel", "danger"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "It's naive to expect perfection from your first attempt.",
+      "sentence_ko": "첫 시도에서 완벽을 기대하는 건 순진한 생각이야.",
+      "tags": ["study", "learning"]
+    },
+    {
+      "word": "Naive",
+      "sentence_en": "The naive character in the movie made many foolish decisions.",
+      "sentence_ko": "영화 속 순진한 캐릭터는 어리석은 결정을 많이 내렸다.",
+      "tags": ["movie", "story"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "He's so gullible that he believed the April Fools prank immediately.",
+      "sentence_ko": "그는 너무 잘 속아서 만우절 장난을 바로 믿었어.",
+      "tags": ["happy", "social"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "Gullible tourists often pay inflated prices at markets.",
+      "sentence_ko": "잘 속는 관광객들은 시장에서 바가지 요금을 내곤 한다.",
+      "tags": ["travel", "shopping"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "Don't be so gullible; check the reviews before buying.",
+      "sentence_ko": "너무 쉽게 믿지 말고 사기 전에 리뷰를 확인해봐.",
+      "tags": ["shopping", "advice"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "My gullible sister falls for every sales pitch she hears.",
+      "sentence_ko": "우리 누나는 잘 속아서 듣는 판매 멘트마다 다 넘어가.",
+      "tags": ["shopping", "family"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "He's not gullible anymore after being scammed twice.",
+      "sentence_ko": "두 번 사기당한 후로 그는 더 이상 잘 안 속아.",
+      "tags": ["learning", "experience"]
+    },
+    {
+      "word": "Gullible",
+      "sentence_en": "Scammers target gullible elderly people online.",
+      "sentence_ko": "사기꾼들은 온라인에서 잘 속는 노인들을 노린다.",
+      "tags": ["social", "warning"]
+    },
+    {
+      "word": "Credulous",
+      "sentence_en": "She's too credulous and believes everything she reads online.",
+      "sentence_ko": "그녀는 너무 쉽게 믿어서 온라인에서 읽는 모든 걸 믿어버려.",
+      "tags": ["social", "news"]
+    },
+    {
+      "word": "Credulous",
+      "sentence_en": "A credulous investor lost everything in a pyramid scheme.",
+      "sentence_ko": "쉽게 믿는 투자자가 다단계 사기로 전재산을 잃었다.",
+      "tags": ["business", "warning"]
+    },
+    {
+      "word": "Credulous",
+      "sentence_en": "Don't be credulous about miracle diet products.",
+      "sentence_ko": "기적의 다이어트 제품에 대해 쉽게 믿지 마세요.",
+      "tags": ["shopping", "health"]
+    },
+    {
+      "word": "Credulous",
+      "sentence_en": "His credulous nature makes him an easy target for pranks.",
+      "sentence_ko": "그의 잘 믿는 성격 때문에 장난의 쉬운 표적이 돼.",
+      "tags": ["social", "mood"]
+    },
+    {
+      "word": "Credulous",
+      "sentence_en": "The credulous audience believed the magician's fake story.",
+      "sentence_ko": "쉽게 믿는 관객들은 마술사의 거짓 이야기를 믿었다.",
+      "tags": ["movie", "entertainment"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "The child asked innocent questions about where babies come from.",
+      "sentence_ko": "아이가 아기가 어디서 오는지 천진난만하게 물어봤다.",
+      "tags": ["family", "conversation"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "He was proven innocent after three years in prison.",
+      "sentence_ko": "그는 3년간의 수감 후 무죄로 밝혀졌다.",
+      "tags": ["movie", "drama"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "Her innocent smile made everyone feel comfortable.",
+      "sentence_ko": "그녀의 천진난만한 미소가 모두를 편안하게 만들었다.",
+      "tags": ["happy", "mood"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "It was just an innocent mistake, not intentional.",
+      "sentence_ko": "그냥 실수였을 뿐이야, 일부러 그런 게 아니라.",
+      "tags": ["school", "work"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "The puppy's innocent eyes melted everyone's heart.",
+      "sentence_ko": "강아지의 순수한 눈빛이 모두의 마음을 녹였다.",
+      "tags": ["happy", "mood"]
+    },
+    {
+      "word": "Innocent",
+      "sentence_en": "She had an innocent crush on her teacher in elementary school.",
+      "sentence_ko": "그녀는 초등학교 때 선생님을 순수하게 좋아했었다.",
+      "tags": ["school", "relationship"]
+    },
+    {
+      "word": "Green",
+      "sentence_en": "I'm still green at this job, so please be patient with me.",
+      "sentence_ko": "이 일에 아직 풋내기라서 좀 봐주세요.",
+      "tags": ["work", "learning"]
+    },
+    {
+      "word": "Green",
+      "sentence_en": "The green programmer made several rookie mistakes in the code.",
+      "sentence_ko": "풋내기 프로그래머가 코드에서 초보적인 실수를 여러 개 했다.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Green",
+      "sentence_en": "Don't worry about being green; everyone starts somewhere.",
+      "sentence_ko": "풋내기인 거 걱정하지 마. 누구나 처음은 있는 거니까.",
+      "tags": ["study", "learning"]
+    },
+    {
+      "word": "Green",
+      "sentence_en": "She's too green to handle such a complex project alone.",
+      "sentence_ko": "그녀는 너무 풋내기라서 그렇게 복잡한 프로젝트를 혼자 맡기 힘들어.",
+      "tags": ["work", "planning"]
+    },
+    {
+      "word": "Green",
+      "sentence_en": "The green recruit struggled during the first week of training.",
+      "sentence_ko": "풋내기 신병은 훈련 첫 주 동안 고생했다.",
+      "tags": ["sport", "training"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "The inexperienced driver panicked in heavy traffic.",
+      "sentence_ko": "경험 없는 운전자는 교통 체증에서 당황했다.",
+      "tags": ["travel", "stress"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "I'm too inexperienced to give advice on relationships.",
+      "sentence_ko": "나는 경험이 없어서 연애 조언을 해줄 수가 없어.",
+      "tags": ["relationship", "conversation"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "The company hired inexperienced workers to save money.",
+      "sentence_ko": "회사는 돈을 아끼려고 경험 없는 직원들을 고용했다.",
+      "tags": ["work", "business"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "Don't feel bad about being inexperienced; we all were once.",
+      "sentence_ko": "경험이 없다고 기분 나빠하지 마. 우리 모두 그랬으니까.",
+      "tags": ["study", "mood"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "An inexperienced cook shouldn't attempt that complicated recipe.",
+      "sentence_ko": "경험 없는 요리사가 그런 복잡한 레시피를 시도하면 안 돼.",
+      "tags": ["dining", "cooking"]
+    },
+    {
+      "word": "Inexperienced",
+      "sentence_en": "She felt inexperienced compared to her colleagues at the meeting.",
+      "sentence_ko": "그녀는 회의에서 동료들에 비해 경험이 없다고 느꼈다.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Amateurish",
+      "sentence_en": "The website design looks amateurish and unprofessional.",
+      "sentence_ko": "웹사이트 디자인이 아마추어 같고 전문성이 없어 보여.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Amateurish",
+      "sentence_en": "His amateurish presentation embarrassed the entire team.",
+      "sentence_ko": "그의 아마추어 같은 발표가 팀 전체를 창피하게 만들었다.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Amateurish",
+      "sentence_en": "The movie had an amateurish quality despite the big budget.",
+      "sentence_ko": "그 영화는 큰 예산에도 불구하고 아마추어 같은 느낌이었다.",
+      "tags": ["movie", "entertainment"]
+    },
+    {
+      "word": "Amateurish",
+      "sentence_en": "Don't submit amateurish work if you want to be taken seriously.",
+      "sentence_ko": "진지하게 받아들여지고 싶으면 아마추어 같은 작업물을 제출하지 마.",
+      "tags": ["school", "work"]
+    },
+    {
+      "word": "Amateurish",
+      "sentence_en": "Her cooking skills are still amateurish but improving.",
+      "sentence_ko": "그녀의 요리 실력은 아직 아마추어 수준이지만 나아지고 있어.",
+      "tags": ["dining", "learning"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "I'm too clumsy to play basketball without tripping over myself.",
+      "sentence_ko": "나는 너무 서툴러서 농구하면 넘어지기만 해.",
+      "tags": ["sport", "mood"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "His clumsy attempt at flirting made everyone uncomfortable.",
+      "sentence_ko": "그의 서툰 작업 시도가 모두를 불편하게 만들었다.",
+      "tags": ["relationship", "embarrassing"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "She's clumsy in the kitchen and always breaks something.",
+      "sentence_ko": "그녀는 부엌에서 서툴러서 항상 뭔가를 깨뜨려.",
+      "tags": ["dining", "home"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "The clumsy waiter spilled wine on my new shirt.",
+      "sentence_ko": "서툰 웨이터가 내 새 셔츠에 와인을 쏟았어.",
+      "tags": ["dining", "mood"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "I made a clumsy mistake in my code that crashed the entire system.",
+      "sentence_ko": "코드에서 서툰 실수를 해서 시스템 전체가 다운됐어.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Clumsy",
+      "sentence_en": "His clumsy apology only made things worse.",
+      "sentence_ko": "그의 서툰 사과가 상황을 더 악화시켰다.",
+      "tags": ["relationship", "conversation"]
+    },
+    {
+      "word": "Inept",
+      "sentence_en": "He's completely inept at handling customer complaints.",
+      "sentence_ko": "그는 고객 불만 처리에 완전히 무능해.",
+      "tags": ["work", "service"]
+    },
+    {
+      "word": "Inept",
+      "sentence_en": "The manager's inept leadership led to the project's failure.",
+      "sentence_ko": "매니저의 무능한 리더십이 프로젝트 실패로 이어졌다.",
+      "tags": ["work", "business"]
+    },
+    {
+      "word": "Inept",
+      "sentence_en": "I feel inept when it comes to fixing technical problems.",
+      "sentence_ko": "기술적 문제를 해결할 때 나는 무능하다고 느껴.",
+      "tags": ["code", "mood"]
+    },
+    {
+      "word": "Inept",
+      "sentence_en": "The inept response from support frustrated all the users.",
+      "sentence_ko": "지원팀의 무능한 대응이 모든 사용자를 좌절시켰다.",
+      "tags": ["service", "mood"]
+    },
+    {
+      "word": "Inept",
+      "sentence_en": "She's socially inept and struggles to make friends.",
+      "sentence_ko": "그녀는 사회성이 없어서 친구 사귀는 데 어려움을 겪어.",
+      "tags": ["relationship", "social"]
+    },
+    {
+      "word": "Incompetent",
+      "sentence_en": "The incompetent contractor ruined our entire renovation.",
+      "sentence_ko": "무능한 업체가 우리 리모델링을 완전히 망쳤어.",
+      "tags": ["home", "mood"]
+    },
+    {
+      "word": "Incompetent",
+      "sentence_en": "I felt incompetent during my first day at the new job.",
+      "sentence_ko": "새 직장 첫날에 무능하다고 느꼈어.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Incompetent",
+      "sentence_en": "The team suffered under an incompetent coach for two seasons.",
+      "sentence_ko": "팀은 2시즌 동안 무능한 코치 밑에서 고생했다.",
+      "tags": ["sport", "team"]
+    },
+    {
+      "word": "Incompetent",
+      "sentence_en": "How did such an incompetent person get promoted?",
+      "sentence_ko": "어떻게 저렇게 무능한 사람이 승진했지?",
+      "tags": ["work", "conversation"]
+    },
+    {
+      "word": "Incompetent",
+      "sentence_en": "The movie portrayed an incompetent detective who couldn't solve simple cases.",
+      "sentence_ko": "그 영화는 간단한 사건도 해결 못 하는 무능한 형사를 그렸다.",
+      "tags": ["movie", "comedy"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "I'm confused about which subway line to take.",
+      "sentence_ko": "어느 지하철 노선을 타야 할지 헷갈려.",
+      "tags": ["travel", "transportation"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "The confused student raised his hand to ask a question.",
+      "sentence_ko": "헷갈린 학생이 질문하려고 손을 들었다.",
+      "tags": ["school", "study"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "She looked confused when I explained the new system.",
+      "sentence_ko": "내가 새 시스템을 설명했을 때 그녀는 헷갈려하는 것 같았어.",
+      "tags": ["work", "conversation"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "Don't be confused; let me explain it again more slowly.",
+      "sentence_ko": "헷갈려하지 마. 더 천천히 다시 설명해줄게.",
+      "tags": ["study", "learning"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "I'm confused about whether to order chicken or pasta.",
+      "sentence_ko": "치킨을 시킬지 파스타를 시킬지 고민돼.",
+      "tags": ["dining", "decision"]
+    },
+    {
+      "word": "Confused",
+      "sentence_en": "The movie plot was so complicated that everyone felt confused.",
+      "sentence_ko": "영화 줄거리가 너무 복잡해서 모두가 헷갈려했다.",
+      "tags": ["movie", "entertainment"]
+    },
+    {
+      "word": "Puzzled",
+      "sentence_en": "I'm puzzled by his sudden change in attitude.",
+      "sentence_ko": "그의 갑작스런 태도 변화가 이해가 안 가.",
+      "tags": ["relationship", "mood"]
+    },
+    {
+      "word": "Puzzled",
+      "sentence_en": "The puzzled detective couldn't figure out the killer's motive.",
+      "sentence_ko": "어리둥절한 형사는 살인자의 동기를 알아낼 수가 없었다.",
+      "tags": ["movie", "mystery"]
+    },
+    {
+      "word": "Puzzled",
+      "sentence_en": "She gave me a puzzled look when I mentioned the meeting.",
+      "sentence_ko": "내가 회의를 언급하자 그녀는 어리둥절한 표정을 지었다.",
+      "tags": ["work", "communication"]
+    },
+    {
+      "word": "Puzzled",
+      "sentence_en": "I'm puzzled about how this algorithm works.",
+      "sentence_ko": "이 알고리즘이 어떻게 작동하는지 이해가 안 가.",
+      "tags": ["code", "study"]
+    },
+    {
+      "word": "Puzzled",
+      "sentence_en": "The teacher seemed puzzled by my unusual question.",
+      "sentence_ko": "선생님은 내 이상한 질문에 어리둥절해하시는 것 같았다.",
+      "tags": ["school", "conversation"]
+    },
+    {
+      "word": "Perplexed",
+      "sentence_en": "I was perplexed by the contradictory instructions in the manual.",
+      "sentence_ko": "설명서의 모순되는 지침들 때문에 당혹스러웠어.",
+      "tags": ["work", "study"]
+    },
+    {
+      "word": "Perplexed",
+      "sentence_en": "She looked perplexed when the GPS showed three different routes.",
+      "sentence_ko": "GPS가 세 개의 다른 경로를 보여주자 그녀는 당혹스러워했다.",
+      "tags": ["travel", "transportation"]
+    },
+    {
+      "word": "Perplexed",
+      "sentence_en": "The perplexed customer couldn't decide between so many options.",
+      "sentence_ko": "당혹스러워하는 고객은 너무 많은 선택지 사이에서 결정을 못 내렸다.",
+      "tags": ["shopping", "decision"]
+    },
+    {
+      "word": "Perplexed",
+      "sentence_en": "I'm perplexed about why the code works on my computer but not yours.",
+      "sentence_ko": "왜 내 컴퓨터에서는 코드가 작동하는데 네 컴퓨터에서는 안 되는지 당혹스러워.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Perplexed",
+      "sentence_en": "The perplexed jury couldn't reach a verdict after three days.",
+      "sentence_ko": "당혹스러워하는 배심원들은 3일이 지나도 평결에 도달하지 못했다.",
+      "tags": ["movie", "drama"]
+    },
+    {
+      "word": "Baffled",
+      "sentence_en": "I'm completely baffled by how she solved that math problem.",
+      "sentence_ko": "그녀가 그 수학 문제를 어떻게 풀었는지 도저히 이해가 안 가.",
+      "tags": ["school", "study"]
+    },
+    {
+      "word": "Baffled",
+      "sentence_en": "The magician's trick left everyone baffled.",
+      "sentence_ko": "마술사의 트릭은 모두를 완전히 어리둥절하게 만들었다.",
+      "tags": ["entertainment", "happy"]
+    },
+    {
+      "word": "Baffled",
+      "sentence_en": "Scientists are baffled by the mysterious phenomenon.",
+      "sentence_ko": "과학자들은 그 신비로운 현상 때문에 당혹스러워하고 있다.",
+      "tags": ["study", "mystery"]
+    },
+    {
+      "word": "Baffled",
+      "sentence_en": "I'm baffled that this simple fix actually worked.",
+      "sentence_ko": "이 간단한 해결책이 실제로 효과가 있다는 게 놀라워.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Baffled",
+      "sentence_en": "The coach was baffled by the team's poor performance.",
+      "sentence_ko": "코치는 팀의 부진한 성적에 도저히 이해가 안 갔다.",
+      "tags": ["sport", "team"]
+    },
+    {
+      "word": "Bewildered",
+      "sentence_en": "The bewildered tourist couldn't find his hotel in the maze-like streets.",
+      "sentence_ko": "어리둥절한 관광객은 미로 같은 거리에서 호텔을 찾을 수가 없었다.",
+      "tags": ["travel", "stress"]
+    },
+    {
+      "word": "Bewildered",
+      "sentence_en": "I felt bewildered during my first day in the big city.",
+      "sentence_ko": "대도시에서의 첫날에 정신이 없었어.",
+      "tags": ["travel", "mood"]
+    },
+    {
+      "word": "Bewildered",
+      "sentence_en": "She stood bewildered among the crowd at the busy train station.",
+      "sentence_ko": "그녀는 붐비는 기차역에서 군중 사이에 어리둥절하게 서 있었다.",
+      "tags": ["travel", "transportation"]
+    },
+    {
+      "word": "Bewildered",
+      "sentence_en": "The new employee looked bewildered by all the information.",
+      "sentence_ko": "신입사원은 너무 많은 정보 때문에 정신이 없어 보였다.",
+      "tags": ["work", "learning"]
+    },
+    {
+      "word": "Bewildered",
+      "sentence_en": "I was bewildered by the unexpected plot twist in the movie.",
+      "sentence_ko": "영화의 예상치 못한 반전에 어리둥절했어.",
+      "tags": ["movie", "entertainment"]
+    },
+    {
+      "word": "Disoriented",
+      "sentence_en": "I felt disoriented after waking up in the hotel room.",
+      "sentence_ko": "호텔 방에서 깨어났을 때 어디가 어딘지 헷갈렸어.",
+      "tags": ["travel", "mood"]
+    },
+    {
+      "word": "Disoriented",
+      "sentence_en": "The jet lag left me completely disoriented for two days.",
+      "sentence_ko": "시차 적응 때문에 이틀 동안 완전히 정신이 없었어.",
+      "tags": ["travel", "health"]
+    },
+    {
+      "word": "Disoriented",
+      "sentence_en": "She became disoriented in the dark forest.",
+      "sentence_ko": "그녀는 어두운 숲에서 방향 감각을 잃었다.",
+      "tags": ["travel", "adventure"]
+    },
+    {
+      "word": "Disoriented",
+      "sentence_en": "The spinning ride left everyone disoriented and dizzy.",
+      "sentence_ko": "회전 놀이기구 때문에 모두가 어지럽고 정신이 없었다.",
+      "tags": ["entertainment", "mood"]
+    },
+    {
+      "word": "Disoriented",
+      "sentence_en": "I felt disoriented after the long and confusing presentation.",
+      "sentence_ko": "길고 혼란스러운 발표 후에 정신이 없었어.",
+      "tags": ["work", "school"]
+    },
+    {
+      "word": "Dazed",
+      "sentence_en": "He looked dazed after hitting his head on the cabinet.",
+      "sentence_ko": "그는 캐비닛에 머리를 부딪힌 후 멍해 보였다.",
+      "tags": ["accident", "health"]
+    },
+    {
+      "word": "Dazed",
+      "sentence_en": "The boxer was dazed but refused to give up.",
+      "sentence_ko": "복서는 멍했지만 포기하기를 거부했다.",
+      "tags": ["sport", "determination"]
+    },
+    {
+      "word": "Dazed",
+      "sentence_en": "I was dazed from lack of sleep during exam week.",
+      "sentence_ko": "시험 기간 동안 수면 부족으로 멍했어.",
+      "tags": ["school", "study"]
+    },
+    {
+      "word": "Dazed",
+      "sentence_en": "She walked around dazed after hearing the shocking news.",
+      "sentence_ko": "그녀는 충격적인 소식을 듣고 멍하니 돌아다녔다.",
+      "tags": ["mood", "emotional"]
+    },
+    {
+      "word": "Dazed",
+      "sentence_en": "The sudden bright lights left me dazed for a moment.",
+      "sentence_ko": "갑작스러운 밝은 불빛 때문에 잠시 멍했어.",
+      "tags": ["experience", "sensory"]
+    },
+    {
+      "word": "Absent-minded",
+      "sentence_en": "My absent-minded professor often forgets where he parked his car.",
+      "sentence_ko": "우리 멍한 교수님은 자주 차를 어디 주차했는지 잊어버리신다.",
+      "tags": ["school", "funny"]
+    },
+    {
+      "word": "Absent-minded",
+      "sentence_en": "I'm so absent-minded that I left my phone at the restaurant.",
+      "sentence_ko": "나 너무 정신이 없어서 레스토랑에 폰을 두고 왔어.",
+      "tags": ["dining", "mistake"]
+    },
+    {
+      "word": "Absent-minded",
+      "sentence_en": "She's been absent-minded lately because of stress at work.",
+      "sentence_ko": "그녀는 요즘 직장 스트레스 때문에 멍하고 정신이 없어.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Absent-minded",
+      "sentence_en": "His absent-minded mistakes cost the company thousands of dollars.",
+      "sentence_ko": "그의 멍한 실수들이 회사에 수천 달러의 손실을 입혔다.",
+      "tags": ["work", "mistake"]
+    },
+    {
+      "word": "Absent-minded",
+      "sentence_en": "I made an absent-minded error in my code that took hours to find.",
+      "sentence_ko": "코드에서 멍하고 한 실수를 찾는 데 몇 시간이 걸렸어.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Forgetful",
+      "sentence_en": "I'm getting more forgetful as I get older.",
+      "sentence_ko": "나이 들면서 점점 더 잘 잊어버리게 돼.",
+      "tags": ["health", "aging"]
+    },
+    {
+      "word": "Forgetful",
+      "sentence_en": "My forgetful roommate never remembers to pay bills on time.",
+      "sentence_ko": "우리 잘 잊는 룸메이트는 청구서를 제때 내는 걸 절대 기억 못 해.",
+      "tags": ["home", "frustration"]
+    },
+    {
+      "word": "Forgetful",
+      "sentence_en": "Don't be forgetful; set a reminder on your phone.",
+      "sentence_ko": "잊어버리지 말고 폰에 알림 설정해둬.",
+      "tags": ["advice", "planning"]
+    },
+    {
+      "word": "Forgetful",
+      "sentence_en": "She's not usually forgetful, so something must be wrong.",
+      "sentence_ko": "그녀는 평소에 잘 안 잊어버리는데 뭔가 문제가 있나 봐.",
+      "tags": ["concern", "relationship"]
+    },
+    {
+      "word": "Forgetful",
+      "sentence_en": "The forgetful student kept missing assignment deadlines.",
+      "sentence_ko": "잘 잊어버리는 학생은 과제 마감일을 계속 놓쳤다.",
+      "tags": ["school", "study"]
+    },
+    {
+      "word": "Scatterbrained",
+      "sentence_en": "I'm too scatterbrained to multitask effectively.",
+      "sentence_ko": "나는 너무 정신산만해서 멀티태스킹을 제대로 못 해.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Scatterbrained",
+      "sentence_en": "Her scatterbrained approach to packing made her forget essential items.",
+      "sentence_ko": "그녀의 산만한 짐싸기 방식 때문에 필수품을 잊어버렸다.",
+      "tags": ["travel", "mistake"]
+    },
+    {
+      "word": "Scatterbrained",
+      "sentence_en": "Don't be so scatterbrained; make a list before shopping.",
+      "sentence_ko": "너무 산만하게 굴지 말고 쇼핑 가기 전에 목록 만들어.",
+      "tags": ["shopping", "advice"]
+    },
+    {
+      "word": "Scatterbrained",
+      "sentence_en": "My scatterbrained colleague can never find important documents.",
+      "sentence_ko": "우리 산만한 동료는 중요한 문서를 절대 못 찾아.",
+      "tags": ["work", "frustration"]
+    },
+    {
+      "word": "Scatterbrained",
+      "sentence_en": "I feel scatterbrained when I don't get enough sleep.",
+      "sentence_ko": "충분히 자지 못하면 정신이 산만해져.",
+      "tags": ["health", "mood"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "My irrational fear of flying prevents me from traveling abroad.",
+      "sentence_ko": "비행기 타는 것에 대한 비이성적인 두려움 때문에 해외여행을 못 가.",
+      "tags": ["travel", "fear"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "Don't be irrational; think this through logically.",
+      "sentence_ko": "비이성적으로 굴지 말고 논리적으로 생각해봐.",
+      "tags": ["conversation", "advice"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "Her irrational anger scared everyone in the meeting.",
+      "sentence_ko": "그녀의 비이성적인 분노가 회의 참석자들을 겁먹게 했다.",
+      "tags": ["work", "mood"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "It's irrational to spend all your savings on lottery tickets.",
+      "sentence_ko": "전 재산을 복권에 다 쓰는 건 비이성적이야.",
+      "tags": ["shopping", "money"]
+    },
+    {
+      "word": "Irrational",
+      "sentence_en": "The character's irrational decisions drove the plot forward.",
+      "sentence_ko": "등장인물의 비이성적인 결정들이 줄거리를 이끌어갔다.",
+      "tags": ["movie", "story"]
+    },
+    {
+      "word": "Illogical",
+      "sentence_en": "Your argument is completely illogical and doesn't make sense.",
+      "sentence_ko": "너의 논리는 완전히 비논리적이고 말이 안 돼.",
+      "tags": ["conversation", "debate"]
+    },
+    {
+      "word": "Illogical",
+      "sentence_en": "The plot twist was so illogical that it ruined the movie.",
+      "sentence_ko": "그 반전이 너무 비논리적이어서 영화를 망쳤어.",
+      "tags": ["movie", "criticism"]
+    },
+    {
+      "word": "Illogical",
+      "sentence_en": "It's illogical to buy a new phone when yours works perfectly.",
+      "sentence_ko": "네 폰이 완벽하게 작동하는데 새 거 사는 건 비논리적이야.",
+      "tags": ["shopping", "advice"]
+    },
+    {
+      "word": "Illogical",
+      "sentence_en": "The code contains illogical conditions that will never execute.",
+      "sentence_ko": "코드에 절대 실행되지 않을 비논리적인 조건들이 있어.",
+      "tags": ["code", "work"]
+    },
+    {
+      "word": "Illogical",
+      "sentence_en": "His illogical explanation confused everyone even more.",
+      "sentence_ko": "그의 비논리적인 설명이 모두를 더 혼란스럽게 만들었다.",
+      "tags": ["school", "conversation"]
+    },
+    {
+      "word": "Unreasonable",
+      "sentence_en": "The deadline is unreasonable; we need at least two more weeks.",
+      "sentence_ko": "마감일이 무리야. 적어도 2주는 더 필요해.",
+      "tags": ["work", "stress"]
+    },
+    {
+      "word": "Unreasonable",
+      "sentence_en": "Don't be unreasonable; nobody can finish that much work in one day.",
+      "sentence_ko": "무리하지 마. 그렇게 많은 일을 하루 만에 끝낼 수 있는 사람은 없어.",
+      "tags": ["work", "conversation"]
+    },
+    {
+      "word": "Unreasonable",
+      "sentence_en": "The hotel prices during peak season are unreasonable.",
+      "sentence_ko": "성수기 동안 호텔 가격이 말도 안 돼.",
+      "tags": ["travel", "shopping"]
+    },
+    {
+      "word": "Unreasonable",
+      "sentence_en": "She made unreasonable demands that nobody could meet.",
+      "sentence_ko": "그녀는 아무도 충족시킬 수 없는 무리한 요구를 했다.",
+      "tags": ["work", "relationship"]
+    },
+    {
+      "word": "Unreasonable",
+      "sentence_en": "It's unreasonable to expect perfection on your first try.",
+      "sentence_ko": "첫 시도에서 완벽을 기대하는 건 무리야.",
+      "tags": ["study", "learning"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "The referee was clearly biased toward the home team.",
+      "sentence_ko": "심판이 명백히 홈팀 편을 들었어.",
+      "tags": ["sport", "unfair"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "Don't be biased; consider both sides of the argument.",
+      "sentence_ko": "편향되지 말고 양쪽 입장을 다 고려해봐.",
+      "tags": ["conversation", "thinking"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "The news report was biased and didn't show the full story.",
+      "sentence_ko": "그 뉴스 보도는 편향적이었고 전체 이야기를 보여주지 않았어.",
+      "tags": ["news", "media"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "I'm biased because she's my friend, but I think she's right.",
+      "sentence_ko": "그녀가 내 친구라서 편향적이긴 하지만, 그녀가 맞다고 생각해.",
+      "tags": ["relationship", "conversation"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "The hiring process seemed biased against younger candidates.",
+      "sentence_ko": "채용 과정이 젊은 지원자들에게 불리하게 편향된 것 같았어.",
+      "tags": ["work", "unfair"]
+    },
+    {
+      "word": "Biased",
+      "sentence_en": "Movie reviews can be biased based on the critic's personal taste.",
+      "sentence_ko": "영화 리뷰는 평론가의 개인 취향에 따라 편향될 수 있어.",
+      "tags": ["movie", "criticism"]
+    }
+  ]
+}

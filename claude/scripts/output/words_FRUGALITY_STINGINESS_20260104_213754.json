@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "f815dd3c-d4ac-453d-93d6-18338c3289a8",
+    "word": "Frugal",
+    "meaning": "검소한 (필요한 것만 사며 아끼는 - 긍정적)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "0d33ddb6-30ac-4f39-84fb-7409f390ffe4",
+    "word": "Thrifty",
+    "meaning": "절약하는 (돈 관리를 잘하는 - 긍정적)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "732c6900-3fc5-4b39-971d-364fcbfc410e",
+    "word": "Economical",
+    "meaning": "경제적인 (낭비가 없고 효율적인)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "39f8ac13-f8f8-4330-b614-0cae35a08676",
+    "word": "Prudent",
+    "meaning": "신중한 (미래를 위해 돈을 아끼는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "027efbcc-c722-4e2c-8aa8-f043e2d1ca81",
+    "word": "Budget",
+    "meaning": "저렴한, 예산의 (가격이 싼)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "d40de30c-b26a-4b5b-ac91-a4c22b2558dc",
+    "word": "Cheap",
+    "meaning": "싼, 인색한 (값이 싸거나 돈 쓰기 싫어하는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "0c853102-b45a-4116-9c07-78ee40c50b1e",
+    "word": "Stingy",
+    "meaning": "인색한 (돈 쓰는 것을 싫어하는 - 부정적)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "bbd67357-455a-48a0-9d0f-aa779e80390e",
+    "word": "Miserly",
+    "meaning": "구두쇠 같은 (돈을 모으기만 하고 안 쓰는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "8588ff9e-eac3-44c0-bc3d-f6512bb0f10d",
+    "word": "Parsimonious",
+    "meaning": "지나치게 인색한 (돈을 극도로 아끼는 - 격식)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "7a6dce83-95fe-47af-9310-db77a10ac7e6",
+    "word": "Tight-fisted",
+    "meaning": "주먹을 꽉 쥔 (인색한) (돈을 안 놓으려는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "11284b1b-4365-4735-a5e6-416d6499870b",
+    "word": "Penny-pinching",
+    "meaning": "구두쇠 짓을 하는 (동전 한 닢도 아끼는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "415c7fd0-92a5-4d69-a663-a29a792a91c2",
+    "word": "Mean",
+    "meaning": "인색한 (영국식: 돈에 대해 쩨쩨한)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "740e547c-11e2-49d7-b628-82d1056ed12a",
+    "word": "Close",
+    "meaning": "돈을 잘 안 쓰는 (지갑을 닫은)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "d44ecaca-2119-45d3-ad3a-33b366700783",
+    "word": "Sparing",
+    "meaning": "아껴 쓰는, 조금만 쓰는 (절약하는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "bc8f2dcd-df96-4787-a8b7-86d114bea888",
+    "word": "Ascetic",
+    "meaning": "금욕적인 (물질적 쾌락을 거부하는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "7a2af701-17d5-4296-9134-53c42e817c72",
+    "word": "Austere",
+    "meaning": "검소한, 긴축의 (사치 없이 엄격한)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "166b0bb4-ebae-40d2-8fcd-5bfba4f3fc74",
+    "word": "Conservative",
+    "meaning": "보수적인 (재정적으로 모험하지 않는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "32c1d296-c312-4f42-9a21-ed7f2411ac3e",
+    "word": "Cost-effective",
+    "meaning": "비용 효율적인 (가격 대비 성능이 좋은)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "ef90141e-25c8-4190-b546-e81cb5241583",
+    "word": "Discount",
+    "meaning": "할인 (깎아주는 것)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "f1f3eb3a-219f-41b5-b4a1-8709c6f8d49c",
+    "word": "Bargain",
+    "meaning": "특가품, 흥정 (싸게 잘 산 물건)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "fbb286cc-d04a-421f-a230-c4fadf16092f",
+    "word": "Value",
+    "meaning": "가성비 좋은, 가치 (가격 대비 가치가 있는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "134a4f4c-9125-42ce-a194-5fbe57d7021b",
+    "word": "Low-cost",
+    "meaning": "저비용의 (값이 싼)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "e8c31149-1a0f-4396-95f9-cb5abfad4037",
+    "word": "Reasonable",
+    "meaning": "합리적인 (가격이 적당한)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "4039dd37-199c-4ead-9922-285752e3375c",
+    "word": "Affordable",
+    "meaning": "감당할 수 있는 (비싸지 않은)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "73d2d3a7-f11e-4b0c-a95e-9cc7c79380dd",
+    "word": "Modest",
+    "meaning": "수수한, 적당한 (비싸지 않은)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "7fa98e3e-0256-47ea-814e-691f5a11355e",
+    "word": "Simple",
+    "meaning": "소박한 (화려하지 않은)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "3b56b9bc-098f-4ca1-b4aa-aca81a307ff6",
+    "word": "Spartan",
+    "meaning": "검소하고 엄격한 (편의시설이 없는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "007a2c31-7b84-4666-9243-e9bc083f21db",
+    "word": "Skimping",
+    "meaning": "지나치게 아끼는 (재료 등을 덜 쓰는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "ff7c0714-7e3d-41eb-b354-4ec283ce7056",
+    "word": "Tight",
+    "meaning": "인색한, 꽉 조인 (돈을 안 푸는)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  },
+  {
+    "card_id": "75bbabae-be76-4a13-86ed-aef9deddea3e",
+    "word": "Scrooge",
+    "meaning": "스크루지, 구두쇠 (인색한 사람의 대명사)",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "deck_name": "FRUGALITY_STINGINESS"
+  }
+]

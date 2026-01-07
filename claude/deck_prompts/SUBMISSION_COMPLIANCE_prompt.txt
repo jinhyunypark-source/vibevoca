@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SUBMISSION_COMPLIANCE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Subservient - 굴종하는, 비굴한 (지나치게 남의 눈치를 보며 복종하는)
+2. Submissive - 순종적인 (권위에 저항 없이 따르는)
+3. Obedient - 말 잘 듣는 (규칙이나 명령을 지키는)
+4. Compliant - 준수하는, 고분고분한 (요구대로 따르는)
+5. Docile - 유순한, 다루기 쉬운 (성격이 온순한)
+6. Acquiescent - 묵인하는 (마지못해 따르는)
+7. Passive - 수동적인 (스스로 행동하지 않고 당하는)
+8. Meek - 온순한, 기가 죽은 (자기를 내세우지 않는)
+9. Yielding - 양보하는, 유연한 (압력에 굴복하는/잘 휘는)
+10. Resigned - 체념한 (피할 수 없음을 받아들이는)
+11. Deferential - 경의를 표하는 (윗사람을 존중하여 따르는)
+12. Inferior - 하등의, 열등한 (지위나 질이 낮은)
+13. Subordinate - 종속된, 부하의 (지위가 아래인)
+14. Dependent - 의존적인 (남에게 기대는)
+15. Servile - 굽실거리는, 노예 근성의 (자존심 없이 비굴한)
+16. Slavish - 노예적인, 맹종하는 (줏대 없이 따라 하는)
+17. Tame - 길들여진 (야성이 없고 순한)
+18. Controlled - 통제된, 억제된 (자유가 없는)
+19. Obeisant - 정중하게 복종하는 (격식, 경의를 표하는)
+20. Powerless - 무력한 (힘이 없는)
+21. Weak - 약한 (신체적/정신적으로 힘이 부족한)
+22. Vulnerable - 취약한 (상처받기 쉬운)
+23. Defenseless - 무방비의 (방어할 수 없는)
+24. Subject - 지배를 받는, 신하 (왕이나 법의 통제하에 있는)
+25. Underling - 아랫사람, 졸개 (비하하는 뉘앙스)
+26. Follower - 추종자, 팔로워 (리더를 따르는 사람)
+27. Pliant - 유순한, 잘 휘는 (남의 말에 쉽게 좌우되는)
+28. Malleable - 영향받기 쉬운, 가소성이 있는 (모양을 바꾸기 쉬운)
+29. Timid - 소심한 (겁이 많은)
+30. Ungovernable - 통제 불능의 (다스리기 힘든 - *반항적 뉘앙스*)
+
+## 추천 태그 (상황/맥락)
+office, restaurant, code, movie, university, marketing, job, art, time, environment
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SUBMISSION_COMPLIANCE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SUBMISSION_COMPLIANCE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

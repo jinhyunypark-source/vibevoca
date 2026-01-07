@@ -1,0 +1,226 @@
+[
+  {
+    "card_id": "ea34cf8d-6b52-4694-b55a-a69fbdc9adeb",
+    "word": "Sociable",
+    "meaning": "사교적인 (사람들과 어울리기 좋아하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "f9603c8c-25d1-40c8-bea5-5ebe31183487",
+    "word": "Gregarious",
+    "meaning": "남과 어울리기 좋아하는 (군집 본능이 강한)   (라)*grex 군집*",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "02439463-aa45-43f3-8c69-87b77b03ea52",
+    "word": "*greg*",
+    "meaning": "무리",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "ecaa8fba-fa38-4db0-9e77-df4fd1045d4b",
+    "word": "egregious",
+    "meaning": "e(바깥) +gregious(무리)무리 밖에 있는 , 악명높은,",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "0c80ff13-9d9b-46c4-ae05-a0bb7fb4ef8f",
+    "word": "Outgoing",
+    "meaning": "외향적인 (활달하고 나서는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "0732a7c4-2c3d-4c9e-a8b8-d87164d5a700",
+    "word": "Extroverted",
+    "meaning": "외향적인 (에너지를 밖으로 발산하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "b211f2c8-5781-4766-b4e8-511645ceb283",
+    "word": "Introverted",
+    "meaning": "내향적인 (에너지를 안으로 갈무리하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "6562ad4a-7b1e-44ed-9a3f-2d06b811b5cf",
+    "word": "Charismatic",
+    "meaning": "카리스마 있는 (사람을 끌어당기는 매력)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "951b0243-0500-4a1a-9529-60e72c840828",
+    "word": "Charming",
+    "meaning": "매력적인 (사람의 마음을 사는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "42d3c04a-b5ef-4a5e-9a73-2564ea8d8dbb",
+    "word": "Likable",
+    "meaning": "호감 가는 (누구나 좋아하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "33ecdbc0-0a12-4f46-88c2-577f800fd179",
+    "word": "Popular",
+    "meaning": "인기 있는 (많은 사람이 좋아하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "84791b2e-cadd-49bd-af23-298c95d37263",
+    "word": "Altruistic",
+    "meaning": "이타적인 (남을 위해 희생하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "3732cdb4-2031-458f-9ca6-59f47ae4854b",
+    "word": "Approachable",
+    "meaning": "다가가기 쉬운 (말 걸기 편한)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "e331296a-b8fc-4bf4-b596-c34e35f75c0d",
+    "word": "Accessible",
+    "meaning": "접근 가능한 (쉽게 만날 수 있는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "ae05f45b-a31b-481a-aa66-2ca898214094",
+    "word": "Welcoming",
+    "meaning": "환대하는 (반갑게 맞아주는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "865b64b2-8626-4046-9677-68d08400528c",
+    "word": "Hospitable",
+    "meaning": "손님을 잘 대접하는 (후한 대접)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "b7c21305-bba3-4469-98bb-4a7e2625ffec",
+    "word": "Generous",
+    "meaning": "관대한, 베푸는 (잘 나누어 주는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "f277166c-98bd-4143-8a18-b8c15ed28ed8",
+    "word": "Selfish",
+    "meaning": "이기적인 (자기만 아는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "1770b90e-9e40-45cb-879e-f6359cdabbc5",
+    "word": "Egocentric",
+    "meaning": "자기중심적인 (세상이 자기를 중심으로 도는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "2c920c14-de70-488f-8e0c-7d54013f3ce0",
+    "word": "Narcissistic",
+    "meaning": "자아도취적인 (자기를 너무 사랑하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "d13f6389-3ab5-4740-9bff-c7a2183b67ae",
+    "word": "Arrogant",
+    "meaning": "오만한 (남을 깔보는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "44763a01-96dc-4fe3-8554-d317213b1754",
+    "word": "Humble",
+    "meaning": "겸손한 (자기를 낮추는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "92489897-eebb-47c5-b815-2a64cfbb89e3",
+    "word": "Modest",
+    "meaning": "겸손한, 수수한 (자랑하지 않는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "80a71bc8-d657-404f-9fe4-dfeea791f725",
+    "word": "Shy",
+    "meaning": "수줍음 타는 (낯을 가리는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "ef71e9f1-b84a-43e1-8ae2-01e318a41de8",
+    "word": "Timid",
+    "meaning": "소심한 (겁이 많고 자신감 없는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "a59a6ef2-0b15-463b-ab5e-aede948a783d",
+    "word": "Bashful",
+    "meaning": "부끄럼 타는 (칭찬받으면 수줍어하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "b3b72041-af6c-4bd4-b174-5edee3ee89c7",
+    "word": "Awkward",
+    "meaning": "어색한 (사교적으로 서투른)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "909cf2e0-d98f-4c2d-ad23-3b17c0a31560",
+    "word": "Socially awkward",
+    "meaning": "사회성이 부족한 (눈치가 없거나 서툰)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "b2896882-4741-43be-8a44-c0b90b95b161",
+    "word": "Confident",
+    "meaning": "자신감 있는 (당당한)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "81c13518-ba01-45e3-81fd-b258928e40d3",
+    "word": "Assertive",
+    "meaning": "자기주장이 뚜렷한 (단호한)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "c6e1cba1-bf3a-436f-a5d5-6fd158fae0f2",
+    "word": "Dominant",
+    "meaning": "지배적인 (주도권을 잡는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  },
+  {
+    "card_id": "9415c2f0-576c-4d2c-9ed0-f69d7d4da1b8",
+    "word": "Submissive",
+    "meaning": "순종적인 (시키는 대로 하는)",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY"
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "deck_title": "2_WISDOM_INSIGHT_PRUDENCE",
+    "deck_id": "79ea45bb-6bbf-4bc5-ad18-4859a9dd83a2",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_2_WISDOM_INSIGHT_PRUDENCE.py"
+  },
+  {
+    "deck_title": "ABUNDANCE_EXCESS",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_ABUNDANCE_EXCESS.py"
+  },
+  {
+    "deck_title": "AESTHETIC_SENSE",
+    "deck_id": "a684d2c4-a9a4-4e13-a081-a2b62d3c218e",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_AESTHETIC_SENSE.py"
+  },
+  {
+    "deck_title": "ATTITUDE_TONE",
+    "deck_id": "46a54b8c-1737-4c73-9168-f3ccbee2ac2a",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_ATTITUDE_TONE.py"
+  },
+  {
+    "deck_title": "AUTHORITY_PRESTIGE",
+    "deck_id": "270deafe-06b3-4560-b863-ac93a3676f48",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_AUTHORITY_PRESTIGE.py"
+  },
+  {
+    "deck_title": "AUTONOMY_LENIENCY",
+    "deck_id": "32994a99-f00b-4ee9-9870-9e855a09a2b6",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_AUTONOMY_LENIENCY.py"
+  },
+  {
+    "deck_title": "BREVITY_VERBOSITY",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_BREVITY_VERBOSITY.py"
+  },
+  {
+    "deck_title": "COMPLEXITY_INTRICACY",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_COMPLEXITY_INTRICACY.py"
+  },
+  {
+    "deck_title": "CONFLICT_DISTANCE",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_CONFLICT_DISTANCE.py"
+  },
+  {
+    "deck_title": "COOPERATION_HARMONY",
+    "deck_id": "85e04ae3-8e14-4eb0-a76d-bcb762586648",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_COOPERATION_HARMONY.py"
+  },
+  {
+    "deck_title": "COST_PRICE_VALUE",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_COST_PRICE_VALUE.py"
+  },
+  {
+    "deck_title": "DECLINE_DETERIORATION",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_DECLINE_DETERIORATION.py"
+  },
+  {
+    "deck_title": "DOMINANCE_CONTROL",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_DOMINANCE_CONTROL.py"
+  },
+  {
+    "deck_title": "DURATION",
+    "deck_id": "29cfff6b-aa4e-483c-9e85-4f4d470b16da",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_DURATION.py"
+  },
+  {
+    "deck_title": "ENORMOUSNESS_VASTNESS",
+    "deck_id": "e713ce9e-9c95-45c6-b3c6-0b863963c4f1",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_ENORMOUSNESS_VASTNESS.py"
+  },
+  {
+    "deck_title": "FINANCIAL_STATUS",
+    "deck_id": "06df4fff-7a4a-4097-9055-5098b523def1",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_FINANCIAL_STATUS.py"
+  },
+  {
+    "deck_title": "FLUCTUATION_STAGNATION",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_FLUCTUATION_STAGNATION.py"
+  },
+  {
+    "deck_title": "FLUENCY_DELIVERY",
+    "deck_id": "00f1a693-c06d-46f5-8e76-d501050f4b76",
+    "word_count": 29,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_FLUENCY_DELIVERY.py"
+  },
+  {
+    "deck_title": "FREQUENCY_REPETITION",
+    "deck_id": "a6a8346b-9187-43cc-acab-e47e047f984e",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_FREQUENCY_REPETITION.py"
+  },
+  {
+    "deck_title": "FRUGALITY_STINGINESS",
+    "deck_id": "f4c171f5-08fd-4436-829c-2f9dd9204597",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_FRUGALITY_STINGINESS.py"
+  },
+  {
+    "deck_title": "GROWTH_PROSPERITY",
+    "deck_id": "d6f27f44-4958-4d0d-a295-3f562908ca9d",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_GROWTH_PROSPERITY.py"
+  },
+  {
+    "deck_title": "HIGH_DIFFICULTY_EFFORT",
+    "deck_id": "783c6a5b-7e66-4744-9378-0f4a0f9cc93c",
+    "word_count": 29,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_HIGH_DIFFICULTY_EFFORT.py"
+  },
+  {
+    "deck_title": "IGNORANCE_CONFUSION",
+    "deck_id": "09d28c03-555d-47ea-b2ea-f6836ba680c0",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_IGNORANCE_CONFUSION.py"
+  },
+  {
+    "deck_title": "INTELLIGENCE_BRILLIANCE",
+    "deck_id": "03e874a8-6a51-4a58-82b3-232eb4cf7b01",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_INTELLIGENCE_BRILLIANCE.py"
+  },
+  {
+    "deck_title": "INTIMACY_AFFECTION",
+    "deck_id": "36aed428-e1b3-48f1-98c8-d7279486d05a",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_INTIMACY_AFFECTION.py"
+  },
+  {
+    "deck_title": "LOGIC_CLARITY",
+    "deck_id": "3c319e42-dc0b-4a02-a942-fb60237e1c10",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_LOGIC_CLARITY.py"
+  },
+  {
+    "deck_title": "LOW_DIFFICULTY_EASE",
+    "deck_id": "8ee701c5-f189-4d1f-b0d6-d262b8b2241a",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_LOW_DIFFICULTY_EASE.py"
+  },
+  {
+    "deck_title": "LUXURY_EXTRAVAGANCE",
+    "deck_id": "fbeba55c-ee74-49bd-af86-29a2a1f8e4b1",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_LUXURY_EXTRAVAGANCE.py"
+  },
+  {
+    "deck_title": "MINUTENESS_SMALLNESS",
+    "deck_id": "bfb3c473-65fe-4252-9dd2-16f0bf166eee",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_MINUTENESS_SMALLNESS.py"
+  },
+  {
+    "deck_title": "OPPRESSION_TYRANNY",
+    "deck_id": "be02ae19-dcf9-4709-ad19-d94833e992bd",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_OPPRESSION_TYRANNY.py"
+  },
+  {
+    "deck_title": "PERMANENCE_LONGEVITY",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_PERMANENCE_LONGEVITY.py"
+  },
+  {
+    "deck_title": "PERSUASION_CONFLICT",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_PERSUASION_CONFLICT.py"
+  },
+  {
+    "deck_title": "POVERTY_HARDSHIP",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_POVERTY_HARDSHIP.py"
+  },
+  {
+    "deck_title": "PRACTICALITY_WIT_CUNNING",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_PRACTICALITY_WIT_CUNNING.py"
+  },
+  {
+    "deck_title": "SCARCITY_DEFICIENCY",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SCARCITY_DEFICIENCY.py"
+  },
+  {
+    "deck_title": "SCOPE_COMPREHENSIVENESS",
+    "deck_id": "6a95738f-4eeb-4021-99c6-3e8c662ef956",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SCOPE_COMPREHENSIVENESS.py"
+  },
+  {
+    "deck_title": "SIGHT",
+    "deck_id": "c7010323-1ee7-45a3-b5b5-69229b44aacc",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SIGHT.py"
+  },
+  {
+    "deck_title": "SIGNIFICANCE_DEPTH",
+    "deck_id": "61e13492-8645-4361-a1f1-3dc43a1b0365",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SIGNIFICANCE_DEPTH.py"
+  },
+  {
+    "deck_title": "SIMPLICITY_CLARITY",
+    "deck_id": "8e707742-a241-4c9f-8cb5-a25cbc231c39",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SIMPLICITY_CLARITY.py"
+  },
+  {
+    "deck_title": "SMELL_SCENT",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "word_count": 21,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SMELL_SCENT.py"
+  },
+  {
+    "deck_title": "SOCIAL_BEHAVIOR_PERSONALITY",
+    "deck_id": "add69933-3065-4146-9a6b-ecbc8204b20a",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SOCIAL_BEHAVIOR_PERSONALITY.py"
+  },
+  {
+    "deck_title": "SOCIAL_STATUS_CONNECTION",
+    "deck_id": "c1f6aabe-8beb-449b-bf58-7635ace29643",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SOCIAL_STATUS_CONNECTION.py"
+  },
+  {
+    "deck_title": "SOUND_AUDITORY",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "word_count": 21,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SOUND_AUDITORY.py"
+  },
+  {
+    "deck_title": "START_END_RECOVERY",
+    "deck_id": "9df3e72d-4661-494a-8a7a-eac78cb323c8",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_START_END_RECOVERY.py"
+  },
+  {
+    "deck_title": "STUPIDITY_DULLNESS",
+    "deck_id": "cb1db2e3-81f7-43c0-8168-fe695316b9c7",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_STUPIDITY_DULLNESS.py"
+  },
+  {
+    "deck_title": "SUBMISSION_COMPLIANCE",
+    "deck_id": "7c5c4c23-531a-43ab-9938-d96a2767af3d",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_SUBMISSION_COMPLIANCE.py"
+  },
+  {
+    "deck_title": "TASTE",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "word_count": 22,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TASTE.py"
+  },
+  {
+    "deck_title": "TIMELINESS_FUTURE_PAST",
+    "deck_id": "2c4e6e97-5bf8-4442-81d7-666d09084032",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TIMELINESS_FUTURE_PAST.py"
+  },
+  {
+    "deck_title": "TIMING_SPEED_PUNCTUALITY",
+    "deck_id": "96a43bac-82b3-4e96-ab4d-dcef434bf07e",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TIMING_SPEED_PUNCTUALITY.py"
+  },
+  {
+    "deck_title": "TOUCH_TEXTURE",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "word_count": 23,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TOUCH_TEXTURE.py"
+  },
+  {
+    "deck_title": "TRANSFORMATION",
+    "deck_id": "20d4b397-2173-4a22-98d0-4840e86b98ae",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TRANSFORMATION.py"
+  },
+  {
+    "deck_title": "TRANSIENCE_BREVITY",
+    "deck_id": "c3bf4630-ac47-4bf0-9cab-d147f7ebf1ac",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_TRANSIENCE_BREVITY.py"
+  },
+  {
+    "deck_title": "WEALTH_AFFLUENCE",
+    "deck_id": "4c9286ae-c556-4aa5-93e7-cd2db8a82d9e",
+    "word_count": 30,
+    "tag_count": 10,
+    "script_path": "deck_scripts/generate_WEALTH_AFFLUENCE.py"
+  }
+]

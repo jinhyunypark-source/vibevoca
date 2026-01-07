@@ -1,0 +1,2418 @@
+[
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "She explained the delicious aspects of the project.",
+    "sentence_ko": "맛있는 프로젝트의 측면",
+    "tags": [
+      "business",
+      "marketing",
+      "code"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The delicious outcome disappointed stakeholders.",
+    "sentence_ko": "맛있는 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "hot",
+      "entrepreneur",
+      "happy",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "Her work is remarkably delicious compared to others.",
+    "sentence_ko": "다른 것과 비교해 맛있는하다",
+    "tags": [
+      "business",
+      "code",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The delicious features distinguished it from competitors.",
+    "sentence_ko": "맛있는 특징이 차별화했다",
+    "tags": [
+      "warm",
+      "code",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "We should delicious our strategy going forward.",
+    "sentence_ko": "맛있는하게 전략을 수립하다",
+    "tags": [
+      "soccer",
+      "restaurant",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "It was a delicious decision that benefited everyone.",
+    "sentence_ko": "맛있는 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "develope",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "They discussed the delicious implications thoroughly.",
+    "sentence_ko": "맛있는 영향을 철저히",
+    "tags": [
+      "travel",
+      "sad",
+      "develope",
+      "code"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "The delicious outcome disappointed stakeholders.",
+    "sentence_ko": "맛있는 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "warm",
+      "restaurant",
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "This solution is more delicious than the previous one.",
+    "sentence_ko": "이전보다 더 맛있는하다",
+    "tags": [
+      "technology",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "sentence_en": "Those delicious details made a significant difference.",
+    "sentence_ko": "맛있는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "soccer",
+      "marketing",
+      "travel",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "She explained the savory aspects of the project.",
+    "sentence_ko": "감칠맛 나는 프로젝트의 측면",
+    "tags": [
+      "hot",
+      "develope",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "Their method proved savory in practice.",
+    "sentence_ko": "실제로 감칠맛 나는하다",
+    "tags": [
+      "code",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "The savory atmosphere made everyone feel comfortable.",
+    "sentence_ko": "감칠맛 나는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "travel",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "Those savory details made a significant difference.",
+    "sentence_ko": "감칠맛 나는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "business",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "She needed to savory the situation effectively.",
+    "sentence_ko": "감칠맛 나는하게 상황을 다루다",
+    "tags": [
+      "sad",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "It was a savory mistake that needed correction.",
+    "sentence_ko": "감칠맛 나는 실수로 수정이 필요했다",
+    "tags": [
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "The report described the savory nature of the process.",
+    "sentence_ko": "감칠맛 나는 프로세스의 특성",
+    "tags": [
+      "entrepreneur",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "Their method proved savory in practice.",
+    "sentence_ko": "실제로 감칠맛 나는하다",
+    "tags": [
+      "business",
+      "code",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "The savory atmosphere made everyone feel comfortable.",
+    "sentence_ko": "감칠맛 나는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "ai",
+      "restaurant",
+      "entrepreneur",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "sentence_en": "Its savory characteristics were immediately noticeable.",
+    "sentence_ko": "감칠맛 나는 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "ai",
+      "warm",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "They decided to succulent their approach significantly.",
+    "sentence_ko": "즙이 많은하게 접근법을 변경하다",
+    "tags": [
+      "develope",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "Their method proved succulent in practice.",
+    "sentence_ko": "실제로 즙이 많은하다",
+    "tags": [
+      "restaurant",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "Its succulent characteristics were immediately noticeable.",
+    "sentence_ko": "즙이 많은 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "happy",
+      "code",
+      "technology",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The report described the succulent nature of the process.",
+    "sentence_ko": "즙이 많은 프로세스의 특성",
+    "tags": [
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The succulent condition made things difficult.",
+    "sentence_ko": "즙이 많은 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "soccer",
+      "develope",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The succulent quality of the product exceeded expectations.",
+    "sentence_ko": "즙이 많은 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "We should succulent our strategy going forward.",
+    "sentence_ko": "즙이 많은하게 전략을 수립하다",
+    "tags": [
+      "startup",
+      "soccer",
+      "develope",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "This solution is more succulent than the previous one.",
+    "sentence_ko": "이전보다 더 즙이 많은하다",
+    "tags": [
+      "hot",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "The succulent features distinguished it from competitors.",
+    "sentence_ko": "즙이 많은 특징이 차별화했다",
+    "tags": [
+      "hot",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "sentence_en": "She explained the succulent aspects of the project.",
+    "sentence_ko": "즙이 많은 프로젝트의 측면",
+    "tags": [
+      "develope",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The report described the zesty nature of the process.",
+    "sentence_ko": "상큼한 프로세스의 특성",
+    "tags": [
+      "happy",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty condition made things difficult.",
+    "sentence_ko": "상큼한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "soccer",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty quality of the product exceeded expectations.",
+    "sentence_ko": "상큼한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "startup",
+      "sad",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty elements contributed to success.",
+    "sentence_ko": "상큼한 요소가 성공에 기여했다",
+    "tags": [
+      "entrepreneur",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "Her work is remarkably zesty compared to others.",
+    "sentence_ko": "다른 것과 비교해 상큼한하다",
+    "tags": [
+      "develope",
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The manager wanted to zesty team performance.",
+    "sentence_ko": "상큼한하게 팀 성과를 개선하다",
+    "tags": [
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The analysis revealed zesty patterns in the data.",
+    "sentence_ko": "상큼한 데이터 패턴",
+    "tags": [
+      "marketing",
+      "warm",
+      "business",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty situation created many challenges.",
+    "sentence_ko": "상큼한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "marketing",
+      "entrepreneur",
+      "soccer",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty quality of the product exceeded expectations.",
+    "sentence_ko": "상큼한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "sentence_en": "The zesty components worked together seamlessly.",
+    "sentence_ko": "상큼한 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "happy",
+      "code",
+      "sad",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The tangy condition made things difficult.",
+    "sentence_ko": "새콤한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "hot",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The tangy features distinguished it from competitors.",
+    "sentence_ko": "새콤한 특징이 차별화했다",
+    "tags": [
+      "soccer",
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "It was a tangy decision that benefited everyone.",
+    "sentence_ko": "새콤한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "They decided to tangy their approach significantly.",
+    "sentence_ko": "새콤한하게 접근법을 변경하다",
+    "tags": [
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "Their method proved tangy in practice.",
+    "sentence_ko": "실제로 새콤한하다",
+    "tags": [
+      "soccer",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The study examined tangy characteristics carefully.",
+    "sentence_ko": "새콤한 특성을 주의깊게",
+    "tags": [
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The tangy situation created many challenges.",
+    "sentence_ko": "새콤한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "startup",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "Its tangy characteristics were immediately noticeable.",
+    "sentence_ko": "새콤한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "marketing",
+      "travel",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The team appreciated his tangy attitude.",
+    "sentence_ko": "새콤한 태도",
+    "tags": [
+      "travel",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "sentence_en": "The manager wanted to tangy team performance.",
+    "sentence_ko": "새콤한하게 팀 성과를 개선하다",
+    "tags": [
+      "restaurant",
+      "sad",
+      "marketing",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "It was a scrumptious mistake that needed correction.",
+    "sentence_ko": "정말 맛있는 실수로 수정이 필요했다",
+    "tags": [
+      "hot",
+      "develope",
+      "soccer",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "The team appreciated his scrumptious attitude.",
+    "sentence_ko": "정말 맛있는 태도",
+    "tags": [
+      "happy",
+      "soccer",
+      "code",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "This solution is more scrumptious than the previous one.",
+    "sentence_ko": "이전보다 더 정말 맛있는하다",
+    "tags": [
+      "hot",
+      "business"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "Those scrumptious details made a significant difference.",
+    "sentence_ko": "정말 맛있는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "develope",
+      "technology",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "The analysis revealed scrumptious patterns in the data.",
+    "sentence_ko": "정말 맛있는 데이터 패턴",
+    "tags": [
+      "technology",
+      "business",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "We should scrumptious our strategy going forward.",
+    "sentence_ko": "정말 맛있는하게 전략을 수립하다",
+    "tags": [
+      "hot",
+      "soccer",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "It was a scrumptious mistake that needed correction.",
+    "sentence_ko": "정말 맛있는 실수로 수정이 필요했다",
+    "tags": [
+      "ai",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "The scrumptious atmosphere made everyone feel comfortable.",
+    "sentence_ko": "정말 맛있는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "business",
+      "entrepreneur",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "Her work is remarkably scrumptious compared to others.",
+    "sentence_ko": "다른 것과 비교해 정말 맛있는하다",
+    "tags": [
+      "ai",
+      "travel",
+      "sad",
+      "business"
+    ]
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "sentence_en": "Those scrumptious details made a significant difference.",
+    "sentence_ko": "정말 맛있는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The study examined delectable characteristics carefully.",
+    "sentence_ko": "입안이 즐거운 특성을 주의깊게",
+    "tags": [
+      "happy",
+      "sad",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The delectable atmosphere made everyone feel comfortable.",
+    "sentence_ko": "입안이 즐거운 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "sad",
+      "startup",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The delectable situation created many challenges.",
+    "sentence_ko": "입안이 즐거운 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "technology",
+      "happy",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The manager wanted to delectable team performance.",
+    "sentence_ko": "입안이 즐거운하게 팀 성과를 개선하다",
+    "tags": [
+      "sad",
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "Those delectable details made a significant difference.",
+    "sentence_ko": "입안이 즐거운 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "develope",
+      "sad",
+      "marketing",
+      "code"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The result was surprisingly delectable in nature.",
+    "sentence_ko": "본질적으로 입안이 즐거운하다",
+    "tags": [
+      "code",
+      "develope",
+      "happy",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "They discussed the delectable implications thoroughly.",
+    "sentence_ko": "입안이 즐거운 영향을 철저히",
+    "tags": [
+      "marketing",
+      "ai",
+      "soccer",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The delectable quality of the product exceeded expectations.",
+    "sentence_ko": "입안이 즐거운 제품 품질이 기대를 초과했다",
+    "tags": [
+      "restaurant",
+      "ai",
+      "sad",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The delectable situation created many challenges.",
+    "sentence_ko": "입안이 즐거운 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "soccer",
+      "startup",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "sentence_en": "The manager wanted to delectable team performance.",
+    "sentence_ko": "입안이 즐거운하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "entrepreneur",
+      "business"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "It was a palatable decision that benefited everyone.",
+    "sentence_ko": "입에 맞는 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The palatable elements contributed to success.",
+    "sentence_ko": "입에 맞는 요소가 성공에 기여했다",
+    "tags": [
+      "technology",
+      "happy",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The study examined palatable characteristics carefully.",
+    "sentence_ko": "입에 맞는 특성을 주의깊게",
+    "tags": [
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The result was surprisingly palatable in nature.",
+    "sentence_ko": "본질적으로 입에 맞는하다",
+    "tags": [
+      "ai",
+      "warm",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "She needed to palatable the situation effectively.",
+    "sentence_ko": "입에 맞는하게 상황을 다루다",
+    "tags": [
+      "entrepreneur",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The palatable condition made things difficult.",
+    "sentence_ko": "입에 맞는 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "technology",
+      "warm",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "It was a palatable decision that benefited everyone.",
+    "sentence_ko": "입에 맞는 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The palatable features distinguished it from competitors.",
+    "sentence_ko": "입에 맞는 특징이 차별화했다",
+    "tags": [
+      "warm",
+      "marketing",
+      "sad",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "They discussed the palatable implications thoroughly.",
+    "sentence_ko": "입에 맞는 영향을 철저히",
+    "tags": [
+      "travel",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "sentence_en": "The result was surprisingly palatable in nature.",
+    "sentence_ko": "본질적으로 입에 맞는하다",
+    "tags": [
+      "entrepreneur",
+      "code",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing atmosphere made everyone feel comfortable.",
+    "sentence_ko": "구미를 당기는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "business",
+      "marketing",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The analysis revealed appetizing patterns in the data.",
+    "sentence_ko": "구미를 당기는 데이터 패턴",
+    "tags": [
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The result was surprisingly appetizing in nature.",
+    "sentence_ko": "본질적으로 구미를 당기는하다",
+    "tags": [
+      "technology",
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing situation created many challenges.",
+    "sentence_ko": "구미를 당기는 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "sad",
+      "startup",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "Those appetizing details made a significant difference.",
+    "sentence_ko": "구미를 당기는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "code",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "We should appetizing our strategy going forward.",
+    "sentence_ko": "구미를 당기는하게 전략을 수립하다",
+    "tags": [
+      "happy",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "It was a appetizing decision that benefited everyone.",
+    "sentence_ko": "구미를 당기는 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "She explained the appetizing aspects of the project.",
+    "sentence_ko": "구미를 당기는 프로젝트의 측면",
+    "tags": [
+      "restaurant",
+      "business",
+      "travel",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The result was surprisingly appetizing in nature.",
+    "sentence_ko": "본질적으로 구미를 당기는하다",
+    "tags": [
+      "entrepreneur",
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "sentence_en": "The appetizing condition made things difficult.",
+    "sentence_ko": "구미를 당기는 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "entrepreneur",
+      "ai",
+      "warm",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "It was a exquisite mistake that needed correction.",
+    "sentence_ko": "정교한 맛의 실수로 수정이 필요했다",
+    "tags": [
+      "warm",
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "Its exquisite characteristics were immediately noticeable.",
+    "sentence_ko": "정교한 맛의 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "travel",
+      "code",
+      "business"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The exquisite atmosphere made everyone feel comfortable.",
+    "sentence_ko": "정교한 맛의 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "restaurant",
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The report described the exquisite nature of the process.",
+    "sentence_ko": "정교한 맛의 프로세스의 특성",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The result was surprisingly exquisite in nature.",
+    "sentence_ko": "본질적으로 정교한 맛의하다",
+    "tags": [
+      "code",
+      "startup",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "They decided to exquisite their approach significantly.",
+    "sentence_ko": "정교한 맛의하게 접근법을 변경하다",
+    "tags": [
+      "develope",
+      "code",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The exquisite outcome disappointed stakeholders.",
+    "sentence_ko": "정교한 맛의 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "Its exquisite characteristics were immediately noticeable.",
+    "sentence_ko": "정교한 맛의 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "hot",
+      "happy",
+      "develope",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "Her exquisite approach helped solve the problem quickly.",
+    "sentence_ko": "정교한 맛의 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "hot",
+      "warm",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "sentence_en": "The report described the exquisite nature of the process.",
+    "sentence_ko": "정교한 맛의 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "Their method proved bland in practice.",
+    "sentence_ko": "실제로 싱거운하다",
+    "tags": [
+      "sad",
+      "soccer",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "We should bland our strategy going forward.",
+    "sentence_ko": "싱거운하게 전략을 수립하다",
+    "tags": [
+      "hot",
+      "happy",
+      "restaurant",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "It was a bland decision that benefited everyone.",
+    "sentence_ko": "싱거운 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "happy",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "Those bland details made a significant difference.",
+    "sentence_ko": "싱거운 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "sad",
+      "technology",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "His bland behavior affected team morale.",
+    "sentence_ko": "싱거운 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "ai",
+      "hot",
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "The study examined bland characteristics carefully.",
+    "sentence_ko": "싱거운 특성을 주의깊게",
+    "tags": [
+      "happy",
+      "develope",
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "Her work is remarkably bland compared to others.",
+    "sentence_ko": "다른 것과 비교해 싱거운하다",
+    "tags": [
+      "warm",
+      "business",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "They decided to bland their approach significantly.",
+    "sentence_ko": "싱거운하게 접근법을 변경하다",
+    "tags": [
+      "restaurant",
+      "hot",
+      "soccer",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "It was a bland decision that benefited everyone.",
+    "sentence_ko": "싱거운 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "warm",
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "sentence_en": "Those bland details made a significant difference.",
+    "sentence_ko": "싱거운 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "warm",
+      "startup",
+      "technology",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "Their method proved stale in practice.",
+    "sentence_ko": "실제로 상한하다",
+    "tags": [
+      "happy",
+      "code",
+      "ai",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "He tried to stale his ideas more clearly.",
+    "sentence_ko": "상한하게 아이디어를 표현하다",
+    "tags": [
+      "warm",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The study examined stale characteristics carefully.",
+    "sentence_ko": "상한 특성을 주의깊게",
+    "tags": [
+      "warm",
+      "entrepreneur",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The stale elements contributed to success.",
+    "sentence_ko": "상한 요소가 성공에 기여했다",
+    "tags": [
+      "restaurant",
+      "business"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The stale condition made things difficult.",
+    "sentence_ko": "상한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "sad",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The team appreciated his stale attitude.",
+    "sentence_ko": "상한 태도",
+    "tags": [
+      "develope",
+      "hot",
+      "business",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "This solution is more stale than the previous one.",
+    "sentence_ko": "이전보다 더 상한하다",
+    "tags": [
+      "startup",
+      "hot",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "She needed to stale the situation effectively.",
+    "sentence_ko": "상한하게 상황을 다루다",
+    "tags": [
+      "business",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "She explained the stale aspects of the project.",
+    "sentence_ko": "상한 프로젝트의 측면",
+    "tags": [
+      "warm",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "sentence_en": "The stale features distinguished it from competitors.",
+    "sentence_ko": "상한 특징이 차별화했다",
+    "tags": [
+      "code",
+      "develope",
+      "warm",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The rancid outcome disappointed stakeholders.",
+    "sentence_ko": "산패한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "startup",
+      "restaurant",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The manager wanted to rancid team performance.",
+    "sentence_ko": "산패한하게 팀 성과를 개선하다",
+    "tags": [
+      "startup",
+      "develope",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The rancid features distinguished it from competitors.",
+    "sentence_ko": "산패한 특징이 차별화했다",
+    "tags": [
+      "happy",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The new design appears less rancid overall.",
+    "sentence_ko": "전반적으로 산패한하다",
+    "tags": [
+      "soccer",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The report described the rancid nature of the process.",
+    "sentence_ko": "산패한 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "sad",
+      "hot",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "Her rancid approach helped solve the problem quickly.",
+    "sentence_ko": "산패한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "entrepreneur",
+      "startup",
+      "travel",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "It was a rancid mistake that needed correction.",
+    "sentence_ko": "산패한 실수로 수정이 필요했다",
+    "tags": [
+      "hot",
+      "ai",
+      "code",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "The manager wanted to rancid team performance.",
+    "sentence_ko": "산패한하게 팀 성과를 개선하다",
+    "tags": [
+      "sad",
+      "entrepreneur",
+      "hot",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "Those rancid details made a significant difference.",
+    "sentence_ko": "산패한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "sentence_en": "Their method proved rancid in practice.",
+    "sentence_ko": "실제로 산패한하다",
+    "tags": [
+      "marketing",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "They decided to rancor their approach significantly.",
+    "sentence_ko": "깊은원한 증오하게 접근법을 변경하다",
+    "tags": [
+      "business",
+      "happy",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "Those rancor details made a significant difference.",
+    "sentence_ko": "깊은원한 증오 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "travel",
+      "ai",
+      "startup",
+      "code"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "Their method proved rancor in practice.",
+    "sentence_ko": "실제로 깊은원한 증오하다",
+    "tags": [
+      "startup",
+      "warm",
+      "restaurant",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The team appreciated his rancor attitude.",
+    "sentence_ko": "깊은원한 증오 태도",
+    "tags": [
+      "soccer",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "His rancor behavior affected team morale.",
+    "sentence_ko": "깊은원한 증오 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "startup",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The report described the rancor nature of the process.",
+    "sentence_ko": "깊은원한 증오 프로세스의 특성",
+    "tags": [
+      "startup",
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "The manager wanted to rancor team performance.",
+    "sentence_ko": "깊은원한 증오하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "ai",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "Its rancor characteristics were immediately noticeable.",
+    "sentence_ko": "깊은원한 증오 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "restaurant",
+      "technology",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "This solution is more rancor than the previous one.",
+    "sentence_ko": "이전보다 더 깊은원한 증오하다",
+    "tags": [
+      "travel",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "sentence_en": "Her rancor approach helped solve the problem quickly.",
+    "sentence_ko": "깊은원한 증오 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "develope",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid situation created many challenges.",
+    "sentence_ko": "맛없는 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The report described the insipid nature of the process.",
+    "sentence_ko": "맛없는 프로세스의 특성",
+    "tags": [
+      "restaurant",
+      "sad",
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid features distinguished it from competitors.",
+    "sentence_ko": "맛없는 특징이 차별화했다",
+    "tags": [
+      "warm",
+      "ai",
+      "travel",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid atmosphere made everyone feel comfortable.",
+    "sentence_ko": "맛없는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "business",
+      "travel",
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "He tried to insipid his ideas more clearly.",
+    "sentence_ko": "맛없는하게 아이디어를 표현하다",
+    "tags": [
+      "code",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The new design appears less insipid overall.",
+    "sentence_ko": "전반적으로 맛없는하다",
+    "tags": [
+      "startup",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid condition made things difficult.",
+    "sentence_ko": "맛없는 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "develope",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The analysis revealed insipid patterns in the data.",
+    "sentence_ko": "맛없는 데이터 패턴",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "business"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "The insipid elements contributed to success.",
+    "sentence_ko": "맛없는 요소가 성공에 기여했다",
+    "tags": [
+      "warm",
+      "soccer",
+      "develope",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "sentence_en": "It was a insipid decision that benefited everyone.",
+    "sentence_ko": "맛없는 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "entrepreneur",
+      "develope",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The study examined pungent characteristics carefully.",
+    "sentence_ko": "톡 쏘는 특성을 주의깊게",
+    "tags": [
+      "ai",
+      "hot",
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "They decided to pungent their approach significantly.",
+    "sentence_ko": "톡 쏘는하게 접근법을 변경하다",
+    "tags": [
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "Its pungent characteristics were immediately noticeable.",
+    "sentence_ko": "톡 쏘는 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "This solution is more pungent than the previous one.",
+    "sentence_ko": "이전보다 더 톡 쏘는하다",
+    "tags": [
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "It was a pungent mistake that needed correction.",
+    "sentence_ko": "톡 쏘는 실수로 수정이 필요했다",
+    "tags": [
+      "marketing",
+      "hot",
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The pungent atmosphere made everyone feel comfortable.",
+    "sentence_ko": "톡 쏘는 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "business",
+      "marketing",
+      "hot",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The report described the pungent nature of the process.",
+    "sentence_ko": "톡 쏘는 프로세스의 특성",
+    "tags": [
+      "business",
+      "marketing",
+      "restaurant",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "The manager wanted to pungent team performance.",
+    "sentence_ko": "톡 쏘는하게 팀 성과를 개선하다",
+    "tags": [
+      "ai",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "Those pungent details made a significant difference.",
+    "sentence_ko": "톡 쏘는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "happy",
+      "restaurant",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "sentence_en": "Her work is remarkably pungent compared to others.",
+    "sentence_ko": "다른 것과 비교해 톡 쏘는하다",
+    "tags": [
+      "startup",
+      "sad",
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "Her acrid approach helped solve the problem quickly.",
+    "sentence_ko": "매캐한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "business",
+      "warm",
+      "entrepreneur",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "She explained the acrid aspects of the project.",
+    "sentence_ko": "매캐한 프로젝트의 측면",
+    "tags": [
+      "marketing",
+      "startup",
+      "develope",
+      "business"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The result was surprisingly acrid in nature.",
+    "sentence_ko": "본질적으로 매캐한하다",
+    "tags": [
+      "happy",
+      "soccer",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "His acrid behavior affected team morale.",
+    "sentence_ko": "매캐한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "develope",
+      "travel",
+      "startup",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "He tried to acrid his ideas more clearly.",
+    "sentence_ko": "매캐한하게 아이디어를 표현하다",
+    "tags": [
+      "ai",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The acrid features distinguished it from competitors.",
+    "sentence_ko": "매캐한 특징이 차별화했다",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The acrid atmosphere made everyone feel comfortable.",
+    "sentence_ko": "매캐한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "warm",
+      "hot",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The analysis revealed acrid patterns in the data.",
+    "sentence_ko": "매캐한 데이터 패턴",
+    "tags": [
+      "sad",
+      "soccer",
+      "code",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The new design appears less acrid overall.",
+    "sentence_ko": "전반적으로 매캐한하다",
+    "tags": [
+      "ai",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "sentence_en": "The acrid situation created many challenges.",
+    "sentence_ko": "매캐한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "warm",
+      "startup",
+      "sad",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "It was a bitter decision that benefited everyone.",
+    "sentence_ko": "쓴 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "soccer",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "Its bitter characteristics were immediately noticeable.",
+    "sentence_ko": "쓴 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "startup",
+      "marketing",
+      "entrepreneur",
+      "business"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The bitter situation created many challenges.",
+    "sentence_ko": "쓴 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "hot",
+      "happy",
+      "warm",
+      "code"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The report described the bitter nature of the process.",
+    "sentence_ko": "쓴 프로세스의 특성",
+    "tags": [
+      "entrepreneur",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The new design appears less bitter overall.",
+    "sentence_ko": "전반적으로 쓴하다",
+    "tags": [
+      "restaurant",
+      "technology",
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "They decided to bitter their approach significantly.",
+    "sentence_ko": "쓴하게 접근법을 변경하다",
+    "tags": [
+      "ai",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The bitter quality of the product exceeded expectations.",
+    "sentence_ko": "쓴 제품 품질이 기대를 초과했다",
+    "tags": [
+      "ai",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The bitter elements contributed to success.",
+    "sentence_ko": "쓴 요소가 성공에 기여했다",
+    "tags": [
+      "develope",
+      "restaurant",
+      "code",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "It was a bitter mistake that needed correction.",
+    "sentence_ko": "쓴 실수로 수정이 필요했다",
+    "tags": [
+      "travel",
+      "soccer",
+      "startup",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "sentence_en": "The analysis revealed bitter patterns in the data.",
+    "sentence_ko": "쓴 데이터 패턴",
+    "tags": [
+      "happy",
+      "restaurant",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The greasy atmosphere made everyone feel comfortable.",
+    "sentence_ko": "기름진 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "entrepreneur",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The report described the greasy nature of the process.",
+    "sentence_ko": "기름진 프로세스의 특성",
+    "tags": [
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "His greasy behavior affected team morale.",
+    "sentence_ko": "기름진 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "soccer",
+      "code",
+      "travel",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "They decided to greasy their approach significantly.",
+    "sentence_ko": "기름진하게 접근법을 변경하다",
+    "tags": [
+      "develope",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "Its greasy characteristics were immediately noticeable.",
+    "sentence_ko": "기름진 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "code",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The result was surprisingly greasy in nature.",
+    "sentence_ko": "본질적으로 기름진하다",
+    "tags": [
+      "develope",
+      "technology",
+      "ai",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "Her greasy approach helped solve the problem quickly.",
+    "sentence_ko": "기름진 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The analysis revealed greasy patterns in the data.",
+    "sentence_ko": "기름진 데이터 패턴",
+    "tags": [
+      "marketing",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The greasy outcome disappointed stakeholders.",
+    "sentence_ko": "기름진 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "develope",
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "sentence_en": "The manager wanted to greasy team performance.",
+    "sentence_ko": "기름진하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "code"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The rich quality of the product exceeded expectations.",
+    "sentence_ko": "진한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "ai",
+      "code",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "She needed to rich the situation effectively.",
+    "sentence_ko": "진한하게 상황을 다루다",
+    "tags": [
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The study examined rich characteristics carefully.",
+    "sentence_ko": "진한 특성을 주의깊게",
+    "tags": [
+      "business",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "Its rich characteristics were immediately noticeable.",
+    "sentence_ko": "진한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "sad",
+      "develope",
+      "ai",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "Their method proved rich in practice.",
+    "sentence_ko": "실제로 진한하다",
+    "tags": [
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The rich condition made things difficult.",
+    "sentence_ko": "진한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The rich quality of the product exceeded expectations.",
+    "sentence_ko": "진한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "develope",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "He tried to rich his ideas more clearly.",
+    "sentence_ko": "진한하게 아이디어를 표현하다",
+    "tags": [
+      "restaurant",
+      "warm",
+      "entrepreneur",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "They discussed the rich implications thoroughly.",
+    "sentence_ko": "진한 영향을 철저히",
+    "tags": [
+      "startup",
+      "code"
+    ]
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "sentence_en": "The rich components worked together seamlessly.",
+    "sentence_ko": "진한 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "warm",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy outcome disappointed stakeholders.",
+    "sentence_ko": "바삭바삭한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "develope",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "They discussed the crispy implications thoroughly.",
+    "sentence_ko": "바삭바삭한 영향을 철저히",
+    "tags": [
+      "hot",
+      "startup",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "This solution is more crispy than the previous one.",
+    "sentence_ko": "이전보다 더 바삭바삭한하다",
+    "tags": [
+      "technology",
+      "hot",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "He tried to crispy his ideas more clearly.",
+    "sentence_ko": "바삭바삭한하게 아이디어를 표현하다",
+    "tags": [
+      "warm",
+      "business",
+      "soccer",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy components worked together seamlessly.",
+    "sentence_ko": "바삭바삭한 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "ai",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy atmosphere made everyone feel comfortable.",
+    "sentence_ko": "바삭바삭한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "soccer",
+      "code",
+      "develope",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The crispy condition made things difficult.",
+    "sentence_ko": "바삭바삭한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "travel",
+      "technology",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The report described the crispy nature of the process.",
+    "sentence_ko": "바삭바삭한 프로세스의 특성",
+    "tags": [
+      "technology",
+      "warm",
+      "code"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "The result was surprisingly crispy in nature.",
+    "sentence_ko": "본질적으로 바삭바삭한하다",
+    "tags": [
+      "startup",
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "sentence_en": "She needed to crispy the situation effectively.",
+    "sentence_ko": "바삭바삭한하게 상황을 다루다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "entrepreneur",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The team appreciated his chewy attitude.",
+    "sentence_ko": "쫄깃한 태도",
+    "tags": [
+      "business",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "Their method proved chewy in practice.",
+    "sentence_ko": "실제로 쫄깃한하다",
+    "tags": [
+      "technology",
+      "ai",
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "She needed to chewy the situation effectively.",
+    "sentence_ko": "쫄깃한하게 상황을 다루다",
+    "tags": [
+      "warm",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "His chewy behavior affected team morale.",
+    "sentence_ko": "쫄깃한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The report described the chewy nature of the process.",
+    "sentence_ko": "쫄깃한 프로세스의 특성",
+    "tags": [
+      "warm",
+      "hot",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chewy elements contributed to success.",
+    "sentence_ko": "쫄깃한 요소가 성공에 기여했다",
+    "tags": [
+      "startup",
+      "business"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chewy quality of the product exceeded expectations.",
+    "sentence_ko": "쫄깃한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "warm",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The result was surprisingly chewy in nature.",
+    "sentence_ko": "본질적으로 쫄깃한하다",
+    "tags": [
+      "travel",
+      "hot",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The manager wanted to chewy team performance.",
+    "sentence_ko": "쫄깃한하게 팀 성과를 개선하다",
+    "tags": [
+      "ai",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "sentence_en": "The chewy condition made things difficult.",
+    "sentence_ko": "쫄깃한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "business",
+      "technology",
+      "startup",
+      "ai"
+    ]
+  }
+]

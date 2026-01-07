@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "meaning": "악화되다 (질이나 상태가 나빠지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "meaning": "고갈시키다 (자원을 다 써버리다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "meaning": "퇴보하다, 타락하다 (나쁜 상태로 변질되다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "meaning": "나빠지다 (단순히 더 안 좋아지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "meaning": "쇠퇴하다, 감소하다 (수치나 힘이 줄다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "meaning": "줄어들다, 약해지다 (크기나 중요성이 작아지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "meaning": "점점 줄어들다 (거의 없어질 정도로 줄다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "meaning": "오그라들다, 줄다 (수축하다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "meaning": "수축하다 (쪼그라들다, *계약하다 아님*)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "meaning": "물러나다, 희미해지다 (뒤로 빠지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "meaning": "시들다 (생기를 잃고 마르다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "meaning": "부패하다, 충치 먹다 (서서히 썩다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "meaning": "썩다 (심하게 부패하다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "meaning": "분해되다 (화학적/생물학적으로 썩다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "meaning": "부식하다 (녹이 슬어 갉아먹다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "meaning": "침식하다 (비바람에 깎이다/서서히 파괴되다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "meaning": "바스러지다, 허물어지다 (조각나서 무너지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "meaning": "붕괴하다, 쓰러지다 (갑자기 무너지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "meaning": "곤두박질치다 (수직으로 떨어지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "meaning": "급락하다 (거칠게 떨어지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "meaning": "급감하다, 털썩 앉다 (경제 등이 푹 꺼지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "meaning": "폭락하다, 추락하다 (완전히 망가지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "meaning": "급강하하다 (코를 박고 떨어지다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "meaning": "굴러 떨어지다 (비틀거리며 추락하다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "meaning": "가라앉다 (격렬함이 줄어들다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "meaning": "약해지다, 이지러지다 (달이 기울듯)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "meaning": "희미해지다, 바래다 (사라져 가다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "meaning": "다 써버리다, 지치게 하다 (완전히 비우다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "meaning": "약화시키다 (힘을 빼다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "meaning": "실패하다, 고장 나다 (기능을 멈추다)",
+    "deck_id": "c1ca18ae-de58-4d70-8675-1a17dfdb5372",
+    "deck_name": "DECLINE_DETERIORATION"
+  }
+]

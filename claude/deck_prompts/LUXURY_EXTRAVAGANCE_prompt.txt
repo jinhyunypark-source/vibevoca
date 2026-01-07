@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: LUXURY_EXTRAVAGANCE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Extravagant - 사치스러운, 낭비하는 (분수에 넘치게 쓰는)
+2. Lavish - 호화로운, 아끼지 않는 (풍성하게 쏟아붓는)
+3. Luxurious - 고급스러운, 사치스러운 (편안하고 비싼)
+4. Sumptuous - 비싸고 화려한 (보기에도 훌륭한)
+5. Costly - 비싼, 대가가 큰 (비용이 많이 드는)
+6. Exorbitant - 터무니없이 비싼 (상식을 벗어난 가격)
+7. Expensive - 비싼 (가격이 높은)
+8. Splurging - 돈을 펑펑 쓰는 (기분 내서 쓰는)
+9. Dear - 비싼 (영국식 격식: 가격이 높은)
+10. Pricey - 값비싼 (구어체: 꽤 비싼)
+11. Prodigal - 낭비하는, 방탕한 (돈을 흥청망청 쓰는)
+12. Steep - (가격이) 비싼 (너무 높게 책정된)
+13. Wasteful - 낭비하는 (쓸데없이 버리는)
+14. Spendthrift - 돈을 헤프게 쓰는 사람 (낭비벽이 있는 사람)
+15. Immoderate - 무절제한 (과도한)
+16. Indulgent - 탐닉하는, 사치 부리는 (욕망을 채우는)
+17. Excessive - 과도한 (지나친)
+18. Fancy - 고급의, 화려한 (비싸고 장식적인)
+19. High-end - 고급의, 고가의 (상위 모델의)
+20. Premium - 프리미엄, 고급의 (웃돈을 주는)
+21. Deluxe - 호화로운, 특급의 (고급스러운)
+22. Exclusive - 독점적인, 고급의 (아무나 못 들어가는)
+23. Posh - 상류층의, 우아한 (영국식: 고급스러운)
+24. Upscale - 부유층을 겨냥한 (상류층의)
+25. Flashy - 호화찬란한, 튀는 (돈 자랑하는)
+26. Ostentatious - 대놓고 과시하는 (거들먹거리는 사치)
+27. Showy - 화려한, 허세 부리는 (보여주기 위한)
+28. Squandering - 탕진하는 (함부로 써버리는)
+29. Burning (money) - 돈을 태우는 (낭비하는)
+30. Overpriced - 너무 비싼 (가치보다 비싼)
+
+## 추천 태그 (상황/맥락)
+health, restaurant, hot, journey, vacation, work, digital, communication, outdoor, sad
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "LUXURY_EXTRAVAGANCE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "LUXURY_EXTRAVAGANCE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

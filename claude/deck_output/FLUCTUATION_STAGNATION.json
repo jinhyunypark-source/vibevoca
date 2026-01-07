@@ -1,0 +1,906 @@
+{
+  "deck_title": "FLUCTUATION_STAGNATION",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Fluctuate",
+      "sentence_en": "My mood tends to fluctuate when I don't get enough sleep.",
+      "sentence_ko": "저는 잠을 충분히 자지 못하면 기분이 오락가락하는 편입니다.",
+      "tags": ["mood", "health", "feeling", "emotion"]
+    },
+    {
+      "word": "Fluctuate",
+      "sentence_en": "Vegetable prices fluctuate depending on the season and weather.",
+      "sentence_ko": "채소 가격은 계절과 날씨에 따라 변동합니다.",
+      "tags": ["food", "nature", "shopping", "conversation"]
+    },
+    {
+      "word": "Fluctuate",
+      "sentence_en": "The frame rate in the game fluctuates during intense scenes.",
+      "sentence_ko": "게임의 프레임 속도는 격렬한 장면에서 불안정하게 변동합니다.",
+      "tags": ["code", "style", "game", "technology"]
+    },
+    {
+      "word": "Fluctuate",
+      "sentence_en": "Heart rate fluctuates naturally during different stages of exercise.",
+      "sentence_ko": "심박수는 운동 단계에 따라 자연스럽게 오르내립니다.",
+      "tags": ["exercise", "sport", "health", "body"]
+    },
+    {
+      "word": "Fluctuate",
+      "sentence_en": "Temperature fluctuates widely in the desert between day and night.",
+      "sentence_ko": "사막에서는 낮과 밤 사이의 기온 차가 심하게 변동합니다.",
+      "tags": ["nature", "weather", "environment", "travel"]
+    },
+    {
+      "word": "Vacillate",
+      "sentence_en": "I always vacillate between ordering pizza or pasta.",
+      "sentence_ko": "저는 항상 피자를 시킬지 파스타를 시킬지 갈팡질팡합니다.",
+      "tags": ["food", "mood", "conversation", "choice"]
+    },
+    {
+      "word": "Vacillate",
+      "sentence_en": "She vacillated for a long time before choosing a dress.",
+      "sentence_ko": "그녀는 드레스를 고르기 전 오랫동안 망설였습니다.",
+      "tags": ["style", "fashion", "feeling", "shopping"]
+    },
+    {
+      "word": "Vacillate",
+      "sentence_en": "The coach vacillated on which player to send in next.",
+      "sentence_ko": "감독은 다음 선수를 누구로 내보낼지 결정을 못 하고 흔들렸습니다.",
+      "tags": ["sport", "conversation", "strategy", "game"]
+    },
+    {
+      "word": "Vacillate",
+      "sentence_en": "Public opinion vacillated after the controversial news.",
+      "sentence_ko": "논란이 된 뉴스 이후 여론이 이리저리 흔들렸습니다.",
+      "tags": ["conversation", "society", "mood", "news"]
+    },
+    {
+      "word": "Vacillate",
+      "sentence_en": "My feelings vacillate from hope to despair regarding the project.",
+      "sentence_ko": "프로젝트에 대해 희망과 절망 사이에서 제 감정이 오락가락합니다.",
+      "tags": ["emotion", "feeling", "work", "mood"]
+    },
+    {
+      "word": "Oscillate",
+      "sentence_en": "The fan oscillates to distribute cool air around the room.",
+      "sentence_ko": "선풍기가 회전하며 방 전체에 시원한 바람을 보냅니다.",
+      "tags": ["home", "nature", "comfort", "style"]
+    },
+    {
+      "word": "Oscillate",
+      "sentence_en": "His mood oscillates between extreme joy and deep sadness.",
+      "sentence_ko": "그의 기분은 극도의 기쁨과 깊은 슬픔 사이를 왔다 갔다 합니다.",
+      "tags": ["mood", "emotion", "feeling", "psychology"]
+    },
+    {
+      "word": "Oscillate",
+      "sentence_en": "The pendulum of the clock oscillates with a steady rhythm.",
+      "sentence_ko": "시계추가 일정한 리듬으로 진동합니다.",
+      "tags": ["nature", "physics", "time", "object"]
+    },
+    {
+      "word": "Oscillate",
+      "sentence_en": "Opinions on the new policy oscillate wildly.",
+      "sentence_ko": "새 정책에 대한 의견이 극과 극을 오갑니다.",
+      "tags": ["conversation", "society", "politics", "mood"]
+    },
+    {
+      "word": "Oscillate",
+      "sentence_en": "My weight oscillates a bit depending on how much I exercise.",
+      "sentence_ko": "제 체중은 운동량에 따라 약간씩 변동합니다.",
+      "tags": ["exercise", "health", "body", "sport"]
+    },
+    {
+      "word": "Swing",
+      "sentence_en": "Kids love to swing high at the playground.",
+      "sentence_ko": "아이들은 놀이터에서 그네를 높이 타는 것을 좋아합니다.",
+      "tags": ["nature", "sport", "play", "feeling"]
+    },
+    {
+      "word": "Swing",
+      "sentence_en": "He has a powerful swing when playing baseball.",
+      "sentence_ko": "그는 야구를 할 때 스윙이 아주 힘찹니다.",
+      "tags": ["sport", "exercise", "action", "style"]
+    },
+    {
+      "word": "Swing",
+      "sentence_en": "Her mood swings are quite unpredictable today.",
+      "sentence_ko": "오늘 그녀의 기분 변화가 꽤 예측할 수 없습니다.",
+      "tags": ["mood", "emotion", "feeling", "conversation"]
+    },
+    {
+      "word": "Swing",
+      "sentence_en": "The door swings open easily with a gentle push.",
+      "sentence_ko": "문은 살짝만 미러도 쉽게 열립니다.",
+      "tags": ["home", "style", "action", "nature"]
+    },
+    {
+      "word": "Swing",
+      "sentence_en": "Public sentiment can swing quickly during an election.",
+      "sentence_ko": "선거 기간에는 대중의 정서가 급격하게 바뀔 수 있습니다.",
+      "tags": ["conversation", "society", "mood", "news"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "You should vary your exercise routine to avoid boredom.",
+      "sentence_ko": "지루함을 피하려면 운동 루틴에 변화를 주어야 합니다.",
+      "tags": ["exercise", "sport", "health", "habit"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "Menu options vary depending on the season.",
+      "sentence_ko": "메뉴 옵션은 계절에 따라 달라집니다.",
+      "tags": ["food", "nature", "restaurant", "style"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "Code syntax can vary between different programming languages.",
+      "sentence_ko": "코드 문법은 프로그래밍 언어마다 다를 수 있습니다.",
+      "tags": ["code", "style", "tech", "education"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "The colors of the leaves vary in autumn.",
+      "sentence_ko": "가을에는 나뭇잎의 색깔이 다양하게 변합니다.",
+      "tags": ["nature", "style", "beauty", "mood"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "Reactions to the movie vary from person to person.",
+      "sentence_ko": "그 영화에 대한 반응은 사람마다 제각각입니다.",
+      "tags": ["conversation", "emotion", "feeling", "culture"]
+    },
+    {
+      "word": "Waver",
+      "sentence_en": "Her voice wavered as she held back tears.",
+      "sentence_ko": "눈물을 참느라 그녀의 목소리가 떨렸습니다.",
+      "tags": ["emotion", "feeling", "mood", "conversation"]
+    },
+    {
+      "word": "Waver",
+      "sentence_en": "My determination to diet began to waver seeing the cake.",
+      "sentence_ko": "케이크를 보니 다이어트 결심이 흔들리기 시작했습니다.",
+      "tags": ["food", "diet", "feeling", "mood"]
+    },
+    {
+      "word": "Waver",
+      "sentence_en": "The flame wavered in the gentle breeze.",
+      "sentence_ko": "촛불이 산들바람에 일렁였습니다.",
+      "tags": ["nature", "style", "camping", "atmosphere"]
+    },
+    {
+      "word": "Waver",
+      "sentence_en": "Don't let your focus waver during the match.",
+      "sentence_ko": "경기 중에 집중력이 흐트러지지 않게 하세요.",
+      "tags": ["sport", "exercise", "mental", "game"]
+    },
+    {
+      "word": "Waver",
+      "sentence_en": "His support for the team never wavered despite the loss.",
+      "sentence_ko": "패배에도 불구하고 팀에 대한 그의 지지는 결코 흔들리지 않았습니다.",
+      "tags": ["sport", "emotion", "loyalty", "conversation"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Alternate between running and walking for interval training.",
+      "sentence_ko": "인터벌 트레이닝을 위해 달리기와 걷기를 번갈아 하세요.",
+      "tags": ["exercise", "sport", "health", "training"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "We alternate cooking duties every other week.",
+      "sentence_ko": "우리는 격주로 요리 당번을 번갈아 합니다.",
+      "tags": ["food", "home", "conversation", "life"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "The pattern alternates red and blue stripes.",
+      "sentence_ko": "그 패턴은 빨간색과 파란색 줄무늬가 교차합니다.",
+      "tags": ["style", "fashion", "art", "visual"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Feelings of hope and fear alternated in his mind.",
+      "sentence_ko": "희망과 두려움의 감정이 그의 마음속에서 교차했습니다.",
+      "tags": ["emotion", "feeling", "mood", "psychology"]
+    },
+    {
+      "word": "Alternate",
+      "sentence_en": "Use alternate rows for different background colors in the code.",
+      "sentence_ko": "코드에서 배경색을 다르게 하려면 줄을 번갈아 사용하세요.",
+      "tags": ["code", "style", "design", "tech"]
+    },
+    {
+      "word": "Seesaw",
+      "sentence_en": "The game score seesawed back and forth until the end.",
+      "sentence_ko": "경기 점수는 끝날 때까지 엎치락뒤치락했습니다.",
+      "tags": ["sport", "game", "excitement", "conversation"]
+    },
+    {
+      "word": "Seesaw",
+      "sentence_en": "My emotions seesaw when I watch sad movies.",
+      "sentence_ko": "슬픈 영화를 보면 제 감정이 롤러코스터를 탑니다.",
+      "tags": ["emotion", "mood", "feeling", "entertainment"]
+    },
+    {
+      "word": "Seesaw",
+      "sentence_en": "Vegetable prices seesaw depending on the harvest.",
+      "sentence_ko": "채소 가격은 수확량에 따라 널뛰기를 합니다.",
+      "tags": ["food", "economy", "market", "nature"]
+    },
+    {
+      "word": "Seesaw",
+      "sentence_en": "The conversation seesawed between serious and funny topics.",
+      "sentence_ko": "대화가 진지한 주제와 재미있는 주제를 오갔습니다.",
+      "tags": ["conversation", "social", "mood", "style"]
+    },
+    {
+      "word": "Seesaw",
+      "sentence_en": "Power seesawed between the two political parties.",
+      "sentence_ko": "권력이 두 정당 사이에서 시소 타듯 오갔습니다.",
+      "tags": ["society", "politics", "news", "conversation"]
+    },
+    {
+      "word": "Stagnate",
+      "sentence_en": "Water will stagnate and smell if it doesn't flow.",
+      "sentence_ko": "물은 흐르지 않으면 고여서 냄새가 납니다.",
+      "tags": ["nature", "environment", "science", "health"]
+    },
+    {
+      "word": "Stagnate",
+      "sentence_en": "My coding skills stagnated because I stopped learning.",
+      "sentence_ko": "공부를 멈췄더니 제 코딩 실력이 정체되었습니다.",
+      "tags": ["code", "learning", "growth", "work"]
+    },
+    {
+      "word": "Stagnate",
+      "sentence_en": "Don't let your exercise progress stagnate by doing the same thing.",
+      "sentence_ko": "같은 것만 해서 운동 성과가 정체되게 두지 마세요.",
+      "tags": ["exercise", "sport", "health", "advice"]
+    },
+    {
+      "word": "Stagnate",
+      "sentence_en": "The conversation stagnated after we ran out of topics.",
+      "sentence_ko": "화젯거리가 떨어지자 대화가 끊겼습니다.",
+      "tags": ["conversation", "social", "mood", "awkward"]
+    },
+    {
+      "word": "Stagnate",
+      "sentence_en": "Without innovation, the company's growth stagnated.",
+      "sentence_ko": "혁신이 없자 회사의 성장이 침체했습니다.",
+      "tags": ["business", "economy", "work", "mood"]
+    },
+    {
+      "word": "Stall",
+      "sentence_en": "The car engine stalled in the middle of the road.",
+      "sentence_ko": "도로 한복판에서 차 엔진이 꺼져버렸습니다.",
+      "tags": ["transport", "accident", "mood", "stress"]
+    },
+    {
+      "word": "Stall",
+      "sentence_en": "Negotiations stalled over the final price.",
+      "sentence_ko": "최종 가격 문제로 협상이 교착 상태에 빠졌습니다.",
+      "tags": ["conversation", "business", "money", "work"]
+    },
+    {
+      "word": "Stall",
+      "sentence_en": "My weight loss stalled despite sticking to the diet.",
+      "sentence_ko": "식단을 지켰는데도 체중 감량이 정체되었습니다.",
+      "tags": ["health", "food", "exercise", "diet"]
+    },
+    {
+      "word": "Stall",
+      "sentence_en": "The program stalled due to an unexpected bug.",
+      "sentence_ko": "예상치 못한 버그로 프로그램이 멈췄습니다.",
+      "tags": ["code", "tech", "error", "work"]
+    },
+    {
+      "word": "Stall",
+      "sentence_en": "He tried to stall for time during the presentation.",
+      "sentence_ko": "그는 발표 도중 시간을 끌려고 애썼습니다.",
+      "tags": ["conversation", "work", "mood", "pressure"]
+    },
+    {
+      "word": "Plateau",
+      "sentence_en": "My running speed hit a plateau after months of improvement.",
+      "sentence_ko": "몇 달간 빨라지던 달리기 속도가 정체기에 접어들었습니다.",
+      "tags": ["exercise", "sport", "running", "health"]
+    },
+    {
+      "word": "Plateau",
+      "sentence_en": "Learning to code often hits a plateau before a breakthrough.",
+      "sentence_ko": "코딩 학습은 종종 돌파구를 찾기 전에 정체기를 맞습니다.",
+      "tags": ["code", "learning", "education", "mood"]
+    },
+    {
+      "word": "Plateau",
+      "sentence_en": "Sales reached a plateau after the holiday season ended.",
+      "sentence_ko": "휴가 시즌이 끝나자 매출이 정체되었습니다.",
+      "tags": ["business", "economy", "work", "conversation"]
+    },
+    {
+      "word": "Plateau",
+      "sentence_en": "We hiked up to a high plateau with a great view.",
+      "sentence_ko": "우리는 전망이 좋은 높은 고원까지 하이킹했습니다.",
+      "tags": ["nature", "sport", "hiking", "travel"]
+    },
+    {
+      "word": "Plateau",
+      "sentence_en": "His recovery seems to have reached a plateau.",
+      "sentence_ko": "그의 회복세가 정체 상태에 이른 것 같습니다.",
+      "tags": ["health", "medical", "mood", "feeling"]
+    },
+    {
+      "word": "Stabilize",
+      "sentence_en": "We need a tripod to stabilize the camera for a clear shot.",
+      "sentence_ko": "선명한 사진을 찍으려면 카메라를 고정할 삼각대가 필요합니다.",
+      "tags": ["style", "art", "photography", "hobby"]
+    },
+    {
+      "word": "Stabilize",
+      "sentence_en": "The patient's condition stabilized after the surgery.",
+      "sentence_ko": "수술 후 환자의 상태가 안정되었습니다.",
+      "tags": ["health", "medical", "feeling", "relief"]
+    },
+    {
+      "word": "Stabilize",
+      "sentence_en": "The code finally stabilized after applying the patch.",
+      "sentence_ko": "패치를 적용한 후 코드가 마침내 안정되었습니다.",
+      "tags": ["code", "tech", "work", "success"]
+    },
+    {
+      "word": "Stabilize",
+      "sentence_en": "Deep breathing helps stabilize your mood when stressed.",
+      "sentence_ko": "심호흡은 스트레스를 받을 때 기분을 안정시키는 데 도움이 됩니다.",
+      "tags": ["exercise", "mood", "feeling", "health"]
+    },
+    {
+      "word": "Stabilize",
+      "sentence_en": "Food prices stabilized after the harvest season.",
+      "sentence_ko": "수확철이 지나자 식료품 가격이 안정되었습니다.",
+      "tags": ["food", "economy", "nature", "shopping"]
+    },
+    {
+      "word": "Settle",
+      "sentence_en": "Let the dust settle before you start cleaning.",
+      "sentence_ko": "청소를 시작하기 전에 먼지가 가라앉도록 두세요.",
+      "tags": ["home", "cleaning", "nature", "style"]
+    },
+    {
+      "word": "Settle",
+      "sentence_en": "We need to settle this argument calmly and politely.",
+      "sentence_ko": "우리는 이 논쟁을 차분하고 정중하게 해결해야 합니다.",
+      "tags": ["conversation", "emotion", "mood", "relationship"]
+    },
+    {
+      "word": "Settle",
+      "sentence_en": "I want to settle in a quiet house near the countryside.",
+      "sentence_ko": "저는 시골 근처 조용한 집에서 정착하고 싶습니다.",
+      "tags": ["nature", "home", "lifestyle", "dream"]
+    },
+    {
+      "word": "Settle",
+      "sentence_en": "Give the food time to settle in your stomach.",
+      "sentence_ko": "음식이 소화될(속이 진정될) 시간을 좀 주세요.",
+      "tags": ["food", "health", "body", "feeling"]
+    },
+    {
+      "word": "Settle",
+      "sentence_en": "Please settle down and focus on your code.",
+      "sentence_ko": "진정하고 코드에 집중해 주세요.",
+      "tags": ["code", "work", "mood", "focus"]
+    },
+    {
+      "word": "Remain",
+      "sentence_en": "Please remain calm during the emergency situation.",
+      "sentence_ko": "비상 상황에서는 침착함을 유지해 주십시오.",
+      "tags": ["safety", "emotion", "feeling", "mood"]
+    },
+    {
+      "word": "Remain",
+      "sentence_en": "Only a few cookies remain in the jar.",
+      "sentence_ko": "병에 쿠키가 몇 개밖에 안 남았습니다.",
+      "tags": ["food", "home", "snack", "count"]
+    },
+    {
+      "word": "Remain",
+      "sentence_en": "Some bugs remain in the software despite updates.",
+      "sentence_ko": "업데이트에도 불구하고 소프트웨어에 일부 버그가 남아 있습니다.",
+      "tags": ["code", "tech", "work", "problem"]
+    },
+    {
+      "word": "Remain",
+      "sentence_en": "He remained silent throughout the entire conversation.",
+      "sentence_ko": "그는 대화 내내 침묵을 지켰습니다.",
+      "tags": ["conversation", "mood", "feeling", "attitude"]
+    },
+    {
+      "word": "Remain",
+      "sentence_en": "The ancient ruins remain a mystery to historians.",
+      "sentence_ko": "그 고대 유적은 역사학자들에게 미스터리로 남아 있습니다.",
+      "tags": ["nature", "history", "culture", "mystery"]
+    },
+    {
+      "word": "Persist",
+      "sentence_en": "If symptoms persist, please consult a doctor immediately.",
+      "sentence_ko": "증상이 지속되면 즉시 의사와 상담하세요.",
+      "tags": ["health", "medical", "feeling", "body"]
+    },
+    {
+      "word": "Persist",
+      "sentence_en": "He persisted in learning to code despite the difficulties.",
+      "sentence_ko": "그는 어려움에도 불구하고 코딩 배우기를 고집했습니다.",
+      "tags": ["code", "learning", "mood", "effort"]
+    },
+    {
+      "word": "Persist",
+      "sentence_en": "The rain persisted all day long, ruining our picnic.",
+      "sentence_ko": "하루 종일 비가 계속되어 소풍을 망쳤습니다.",
+      "tags": ["nature", "weather", "mood", "outdoor"]
+    },
+    {
+      "word": "Persist",
+      "sentence_en": "Negative emotions can persist if you ignore them.",
+      "sentence_ko": "부정적인 감정은 무시하면 계속될 수 있습니다.",
+      "tags": ["emotion", "feeling", "health", "psychology"]
+    },
+    {
+      "word": "Persist",
+      "sentence_en": "She persisted with her exercise routine every morning.",
+      "sentence_ko": "그녀는 매일 아침 운동 루틴을 꾸준히 이어갔습니다.",
+      "tags": ["exercise", "sport", "habit", "health"]
+    },
+    {
+      "word": "Endure",
+      "sentence_en": "Athletes endure great pain to win medals.",
+      "sentence_ko": "선수들은 메달을 따기 위해 큰 고통을 견뎌냅니다.",
+      "tags": ["sport", "exercise", "feeling", "pain"]
+    },
+    {
+      "word": "Endure",
+      "sentence_en": "I cannot endure this hot and humid weather.",
+      "sentence_ko": "저는 이 덥고 습한 날씨를 견딜 수가 없습니다.",
+      "tags": ["nature", "weather", "mood", "feeling"]
+    },
+    {
+      "word": "Endure",
+      "sentence_en": "True friendship endures through tough times.",
+      "sentence_ko": "진정한 우정은 힘든 시기를 겪으면서도 지속됩니다.",
+      "tags": ["conversation", "emotion", "relationship", "life"]
+    },
+    {
+      "word": "Endure",
+      "sentence_en": "The server must endure heavy traffic during events.",
+      "sentence_ko": "서버는 행사 기간 동안 많은 트래픽을 견뎌야 합니다.",
+      "tags": ["code", "tech", "work", "stress"]
+    },
+    {
+      "word": "Endure",
+      "sentence_en": "She endured a long flight without any food.",
+      "sentence_ko": "그녀는 음식 없이 긴 비행을 견뎌냈습니다.",
+      "tags": ["food", "travel", "feeling", "mood"]
+    },
+    {
+      "word": "Last",
+      "sentence_en": "The soccer match lasts for 90 minutes plus extra time.",
+      "sentence_ko": "축구 경기는 90분에 추가 시간을 더해 진행됩니다.",
+      "tags": ["sport", "exercise", "time", "game"]
+    },
+    {
+      "word": "Last",
+      "sentence_en": "This feeling of joy will last in my memory forever.",
+      "sentence_ko": "이 기쁨은 제 기억 속에 영원히 남을 것입니다.",
+      "tags": ["emotion", "feeling", "mood", "memory"]
+    },
+    {
+      "word": "Last",
+      "sentence_en": "Fresh food doesn't last long in this heat.",
+      "sentence_ko": "이런 더위에는 신선한 음식이 오래가지 못합니다.",
+      "tags": ["food", "nature", "kitchen", "weather"]
+    },
+    {
+      "word": "Last",
+      "sentence_en": "The battery lasts longer when on power saving mode.",
+      "sentence_ko": "절전 모드일 때 배터리가 더 오래 갑니다.",
+      "tags": ["style", "tech", "code", "device"]
+    },
+    {
+      "word": "Last",
+      "sentence_en": "Their conversation lasted until midnight.",
+      "sentence_ko": "그들의 대화는 자정까지 이어졌습니다.",
+      "tags": ["conversation", "mood", "social", "night"]
+    },
+    {
+      "word": "Freeze",
+      "sentence_en": "Pure water freezes at zero degrees Celsius.",
+      "sentence_ko": "순수한 물은 섭씨 0도에서 얼어붙습니다.",
+      "tags": ["nature", "science", "food", "temperature"]
+    },
+    {
+      "word": "Freeze",
+      "sentence_en": "My computer screen froze suddenly while working.",
+      "sentence_ko": "일하는 도중에 갑자기 컴퓨터 화면이 멈췄습니다.",
+      "tags": ["code", "tech", "mood", "work"]
+    },
+    {
+      "word": "Freeze",
+      "sentence_en": "He froze with fear when he saw the wild bear.",
+      "sentence_ko": "그는 야생 곰을 보자 두려움에 얼어붙었습니다.",
+      "tags": ["emotion", "feeling", "nature", "danger"]
+    },
+    {
+      "word": "Freeze",
+      "sentence_en": "We need to freeze the project budget for now.",
+      "sentence_ko": "지금은 프로젝트 예산을 동결해야 합니다.",
+      "tags": ["business", "conversation", "plan", "money"]
+    },
+    {
+      "word": "Freeze",
+      "sentence_en": "Freeze the leftover soup for a quick meal later.",
+      "sentence_ko": "나중에 간편하게 먹을 수 있게 남은 수프는 얼려두세요.",
+      "tags": ["food", "home", "style", "cooking"]
+    },
+    {
+      "word": "Halt",
+      "sentence_en": "The referee halted the game due to heavy rain.",
+      "sentence_ko": "심판은 폭우로 인해 경기를 중단시켰습니다.",
+      "tags": ["sport", "nature", "weather", "game"]
+    },
+    {
+      "word": "Halt",
+      "sentence_en": "Traffic came to a complete halt in the city center.",
+      "sentence_ko": "도심의 교통이 완전히 마비되었습니다.",
+      "tags": ["nature", "style", "mood", "city"]
+    },
+    {
+      "word": "Halt",
+      "sentence_en": "Halt the code execution to check for errors.",
+      "sentence_ko": "오류를 확인하기 위해 코드 실행을 중지하세요.",
+      "tags": ["code", "style", "tech", "work"]
+    },
+    {
+      "word": "Halt",
+      "sentence_en": "Construction halted because of complaints about the noise.",
+      "sentence_ko": "소음 불만으로 인해 공사가 중단되었습니다.",
+      "tags": ["business", "conversation", "environment", "noise"]
+    },
+    {
+      "word": "Halt",
+      "sentence_en": "A sudden noise caused me to halt in my tracks.",
+      "sentence_ko": "갑작스러운 소리에 나는 가던 길을 멈췄습니다.",
+      "tags": ["feeling", "emotion", "action", "fear"]
+    },
+    {
+      "word": "Pause",
+      "sentence_en": "Pause the movie, I need to get some snacks.",
+      "sentence_ko": "영화 잠깐 멈춰봐, 간식 좀 가져올게.",
+      "tags": ["food", "conversation", "entertainment", "movie"]
+    },
+    {
+      "word": "Pause",
+      "sentence_en": "He paused to catch his breath while running.",
+      "sentence_ko": "그는 달리던 중 숨을 고르기 위해 잠시 멈췄습니다.",
+      "tags": ["exercise", "sport", "health", "action"]
+    },
+    {
+      "word": "Pause",
+      "sentence_en": "Let's pause the conversation for a moment and think.",
+      "sentence_ko": "대화를 잠시 멈추고 생각해 봅시다.",
+      "tags": ["conversation", "mood", "social", "thought"]
+    },
+    {
+      "word": "Pause",
+      "sentence_en": "Pause the code debugger at this line.",
+      "sentence_ko": "이 줄에서 코드 디버거를 일시 중지하세요.",
+      "tags": ["code", "style", "tech", "work"]
+    },
+    {
+      "word": "Pause",
+      "sentence_en": "She paused to enjoy the beautiful nature scenery.",
+      "sentence_ko": "그녀는 아름다운 자연경관을 즐기기 위해 걸음을 멈췄습니다.",
+      "tags": ["nature", "feeling", "emotion", "travel"]
+    },
+    {
+      "word": "Suspend",
+      "sentence_en": "The account was suspended for violating community rules.",
+      "sentence_ko": "커뮤니티 규칙 위반으로 계정이 정지되었습니다.",
+      "tags": ["code", "social", "internet", "rules"]
+    },
+    {
+      "word": "Suspend",
+      "sentence_en": "A beautiful lamp was suspended from the ceiling.",
+      "sentence_ko": "아름다운 램프가 천장에 매달려 있었습니다.",
+      "tags": ["style", "home", "decor", "interior"]
+    },
+    {
+      "word": "Suspend",
+      "sentence_en": "The baseball game was suspended due to lightning.",
+      "sentence_ko": "번개 때문에 야구 경기가 일시 중단되었습니다.",
+      "tags": ["sport", "nature", "weather", "safety"]
+    },
+    {
+      "word": "Suspend",
+      "sentence_en": "Suspend your judgment until you hear all the facts.",
+      "sentence_ko": "모든 사실을 들을 때까지 판단을 유보하세요.",
+      "tags": ["conversation", "emotion", "feeling", "thought"]
+    },
+    {
+      "word": "Suspend",
+      "sentence_en": "Construction was suspended for the winter months.",
+      "sentence_ko": "겨울철 동안 공사가 중단되었습니다.",
+      "tags": ["business", "nature", "time", "weather"]
+    },
+    {
+      "word": "Linger",
+      "sentence_en": "The smell of delicious food lingered in the kitchen.",
+      "sentence_ko": "맛있는 음식 냄새가 부엌에 오래 머물렀습니다.",
+      "tags": ["food", "mood", "home", "smell"]
+    },
+    {
+      "word": "Linger",
+      "sentence_en": "Don't linger in the hallway after class is over.",
+      "sentence_ko": "수업이 끝나면 복도에서 서성거리지 마세요.",
+      "tags": ["education", "conversation", "social", "school"]
+    },
+    {
+      "word": "Linger",
+      "sentence_en": "A sad feeling lingered in his heart all day.",
+      "sentence_ko": "슬픈 감정이 하루 종일 그의 마음에 남아 있었습니다.",
+      "tags": ["emotion", "feeling", "mood", "sadness"]
+    },
+    {
+      "word": "Linger",
+      "sentence_en": "The taste of the coffee lingered in my mouth.",
+      "sentence_ko": "커피 맛이 입안에 감돌았습니다.",
+      "tags": ["food", "style", "sensory", "taste"]
+    },
+    {
+      "word": "Linger",
+      "sentence_en": "Morning fog lingered over the lake.",
+      "sentence_ko": "아침 안개가 호수 위에 자욱하게 머물렀습니다.",
+      "tags": ["nature", "weather", "scenery", "mood"]
+    },
+    {
+      "word": "Hover",
+      "sentence_en": "Hover the mouse cursor over the button to see details.",
+      "sentence_ko": "버튼 위에 마우스 커서를 올리면 자세한 내용을 볼 수 있습니다.",
+      "tags": ["code", "style", "tech", "computer"]
+    },
+    {
+      "word": "Hover",
+      "sentence_en": "A helicopter hovered above the tall building.",
+      "sentence_ko": "헬리콥터 한 대가 높은 건물 위를 맴돌았습니다.",
+      "tags": ["nature", "city", "sight", "action"]
+    },
+    {
+      "word": "Hover",
+      "sentence_en": "The waiter hovered nearby, waiting for our order.",
+      "sentence_ko": "웨이터가 우리 주문을 기다리며 근처를 서성거렸습니다.",
+      "tags": ["food", "restaurant", "conversation", "service"]
+    },
+    {
+      "word": "Hover",
+      "sentence_en": "Temperatures hovered around freezing all week.",
+      "sentence_ko": "일주일 내내 기온이 0도 안팎을 맴돌았습니다.",
+      "tags": ["nature", "weather", "feeling", "cold"]
+    },
+    {
+      "word": "Hover",
+      "sentence_en": "Anxiety hovered in the back of my mind.",
+      "sentence_ko": "불안감이 내 마음 한구석을 맴돌았습니다.",
+      "tags": ["emotion", "feeling", "mood", "mental"]
+    },
+    {
+      "word": "Drift",
+      "sentence_en": "The empty boat drifted aimlessly on the lake.",
+      "sentence_ko": "빈 배가 호수 위를 정처 없이 표류했습니다.",
+      "tags": ["nature", "water", "mood", "scene"]
+    },
+    {
+      "word": "Drift",
+      "sentence_en": "My mind started to drift during the long lecture.",
+      "sentence_ko": "긴 강의 시간 동안 딴생각이 들기 시작했습니다.",
+      "tags": ["education", "feeling", "emotion", "boredom"]
+    },
+    {
+      "word": "Drift",
+      "sentence_en": "Snow drifted against the front door overnight.",
+      "sentence_ko": "밤새 눈이 현관문 앞까지 쌓였습니다.",
+      "tags": ["nature", "weather", "winter", "home"]
+    },
+    {
+      "word": "Drift",
+      "sentence_en": "Old friends sometimes drift apart over time.",
+      "sentence_ko": "오랜 친구들도 시간이 지나면 때때로 멀어집니다.",
+      "tags": ["conversation", "relationship", "emotion", "life"]
+    },
+    {
+      "word": "Drift",
+      "sentence_en": "The smell of BBQ drifted from the park.",
+      "sentence_ko": "바비큐 냄새가 공원에서 풍겨왔습니다.",
+      "tags": ["food", "nature", "smell", "mood"]
+    },
+    {
+      "word": "Meander",
+      "sentence_en": "The river meanders through the green valley.",
+      "sentence_ko": "강이 푸른 계곡을 굽이굽이 흐릅니다.",
+      "tags": ["nature", "scenic", "mood", "view"]
+    },
+    {
+      "word": "Meander",
+      "sentence_en": "We meandered through the old town streets.",
+      "sentence_ko": "우리는 구시가 거리를 이리저리 거닐었습니다.",
+      "tags": ["travel", "style", "exercise", "walk"]
+    },
+    {
+      "word": "Meander",
+      "sentence_en": "The conversation meandered from topic to topic.",
+      "sentence_ko": "대화 주제가 이리저리 옮겨 다녔습니다.",
+      "tags": ["conversation", "social", "mood", "talk"]
+    },
+    {
+      "word": "Meander",
+      "sentence_en": "A narrow path meanders through the forest.",
+      "sentence_ko": "좁은 길이 숲속을 구불구불 통과합니다.",
+      "tags": ["nature", "exercise", "walk", "hiking"]
+    },
+    {
+      "word": "Meander",
+      "sentence_en": "The code logic meanders and is hard to follow.",
+      "sentence_ko": "코드 로직이 두서없이 꼬여 있어서 이해하기 어렵습니다.",
+      "tags": ["code", "style", "logic", "difficulty"]
+    },
+    {
+      "word": "Deviate",
+      "sentence_en": "Do not deviate from the agreed marketing plan.",
+      "sentence_ko": "합의된 마케팅 계획에서 벗어나지 마세요.",
+      "tags": ["conversation", "business", "strategy", "marketing"]
+    },
+    {
+      "word": "Deviate",
+      "sentence_en": "The bus had to deviate due to roadworks.",
+      "sentence_ko": "버스 공사 때문에 버스가 우회해야 했습니다.",
+      "tags": ["transport", "nature", "travel", "city"]
+    },
+    {
+      "word": "Deviate",
+      "sentence_en": "His fashion style deviates from the norm.",
+      "sentence_ko": "그의 패션 스타일은 일반적인 기준에서 벗어납니다.",
+      "tags": ["social", "emotion", "style", "fashion"]
+    },
+    {
+      "word": "Deviate",
+      "sentence_en": "Never deviate from the recipe when baking bread.",
+      "sentence_ko": "빵을 구울 때는 절대로 레시피를 벗어나지 마세요.",
+      "tags": ["food", "cooking", "style", "baking"]
+    },
+    {
+      "word": "Deviate",
+      "sentence_en": "The test results deviate slightly from the prediction.",
+      "sentence_ko": "실험 결과가 예측과 약간 다릅니다.",
+      "tags": ["code", "math", "science", "data"]
+    },
+    {
+      "word": "Diverge",
+      "sentence_en": "The road diverges into two paths at the fork.",
+      "sentence_ko": "길이 갈림길에서 두 갈래로 나뉩니다.",
+      "tags": ["nature", "travel", "direction", "choice"]
+    },
+    {
+      "word": "Diverge",
+      "sentence_en": "Our opinions diverge on this political issue.",
+      "sentence_ko": "이 정치적 이슈에 대해 우리의 의견이 갈립니다.",
+      "tags": ["conversation", "emotion", "social", "thought"]
+    },
+    {
+      "word": "Diverge",
+      "sentence_en": "The code branches diverge for different features.",
+      "sentence_ko": "코드 브랜치가 서로 다른 기능을 위해 갈라집니다.",
+      "tags": ["code", "style", "dev", "tech"]
+    },
+    {
+      "word": "Diverge",
+      "sentence_en": "Their career paths diverged after graduating college.",
+      "sentence_ko": "대학 졸업 후 그들의 진로가 갈라졌습니다.",
+      "tags": ["education", "social", "life", "career"]
+    },
+    {
+      "word": "Diverge",
+      "sentence_en": "Styles of music diverge greatly across cultures.",
+      "sentence_ko": "음악 스타일은 문화권마다 크게 다릅니다.",
+      "tags": ["style", "art", "culture", "music"]
+    },
+    {
+      "word": "Converge",
+      "sentence_en": "The two rivers converge at the city center.",
+      "sentence_ko": "두 강이 도심에서 합류합니다.",
+      "tags": ["nature", "geography", "travel", "water"]
+    },
+    {
+      "word": "Converge",
+      "sentence_en": "Fans converged on the stadium for the big game.",
+      "sentence_ko": "팬들이 큰 경기를 위해 경기장으로 모여들었습니다.",
+      "tags": ["sport", "social", "mood", "crowd"]
+    },
+    {
+      "word": "Converge",
+      "sentence_en": "Our ideas finally converged into a single solution.",
+      "sentence_ko": "우리의 아이디어가 마침내 하나의 해결책으로 모였습니다.",
+      "tags": ["conversation", "business", "logic", "teamwork"]
+    },
+    {
+      "word": "Converge",
+      "sentence_en": "The data streams converge in the main server.",
+      "sentence_ko": "데이터 스트림들이 메인 서버로 모입니다.",
+      "tags": ["code", "tech", "style", "data"]
+    },
+    {
+      "word": "Converge",
+      "sentence_en": "All roads converge to the capital city.",
+      "sentence_ko": "모든 길은 수도로 통합니다.",
+      "tags": ["travel", "nature", "structure", "city"]
+    },
+    {
+      "word": "Level off",
+      "sentence_en": "The airplane began to level off at cruising altitude.",
+      "sentence_ko": "비행기가 순항 고도에서 수평을 유지하기 시작했습니다.",
+      "tags": ["travel", "nature", "sky", "flight"]
+    },
+    {
+      "word": "Level off",
+      "sentence_en": "Sales growth is expected to level off soon.",
+      "sentence_ko": "매출 성장이 곧 정체될 것으로 예상됩니다.",
+      "tags": ["business", "conversation", "data", "economy"]
+    },
+    {
+      "word": "Level off",
+      "sentence_en": "My excitement leveled off after the initial shock.",
+      "sentence_ko": "처음의 충격이 지나자 제 흥분이 가라앉았습니다.",
+      "tags": ["emotion", "feeling", "mood", "calm"]
+    },
+    {
+      "word": "Level off",
+      "sentence_en": "The terrain levels off near the beach.",
+      "sentence_ko": "지형이 해변 근처에서 평평해집니다.",
+      "tags": ["nature", "exercise", "landscape", "view"]
+    },
+    {
+      "word": "Level off",
+      "sentence_en": "Inflation seems to be leveling off this month.",
+      "sentence_ko": "이번 달에는 물가 상승이 멈추는 것 같습니다.",
+      "tags": ["social", "business", "money", "news"]
+    },
+    {
+      "word": "Steady",
+      "sentence_en": "Keep your hand steady when pouring the tea.",
+      "sentence_ko": "차를 따를 때는 손을 흔들리지 않게 하세요.",
+      "tags": ["food", "style", "action", "care"]
+    },
+    {
+      "word": "Steady",
+      "sentence_en": "He ran at a steady pace to finish the marathon.",
+      "sentence_ko": "그는 마라톤을 완주하기 위해 꾸준한 페이스로 달렸습니다.",
+      "tags": ["sport", "exercise", "health", "running"]
+    },
+    {
+      "word": "Steady",
+      "sentence_en": "She has a steady job in a tech company.",
+      "sentence_ko": "그녀는 기술 회사에서 안정적인 직장을 다니고 있습니다.",
+      "tags": ["business", "code", "life", "career"]
+    },
+    {
+      "word": "Steady",
+      "sentence_en": "We are making steady progress on the project.",
+      "sentence_ko": "우리는 프로젝트에서 꾸준한 진전을 보이고 있습니다.",
+      "tags": ["conversation", "work", "success", "progress"]
+    },
+    {
+      "word": "Steady",
+      "sentence_en": "Keep the camera steady for a good photo.",
+      "sentence_ko": "좋은 사진을 찍으려면 카메라를 흔들리지 않게 하세요.",
+      "tags": ["style", "art", "hobby", "photo"]
+    }
+  ]
+}

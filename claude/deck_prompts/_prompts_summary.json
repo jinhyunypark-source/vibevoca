@@ -1,0 +1,373 @@
+[
+  {
+    "deck_name": "2_WISDOM_INSIGHT_PRUDENCE",
+    "deck_title": "2_WISDOM_INSIGHT_PRUDENCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "2_WISDOM_INSIGHT_PRUDENCE_prompt.txt"
+  },
+  {
+    "deck_name": "ABUNDANCE_EXCESS",
+    "deck_title": "ABUNDANCE_EXCESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "ABUNDANCE_EXCESS_prompt.txt"
+  },
+  {
+    "deck_name": "AESTHETIC_SENSE",
+    "deck_title": "AESTHETIC_SENSE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "AESTHETIC_SENSE_prompt.txt"
+  },
+  {
+    "deck_name": "ATTITUDE_TONE",
+    "deck_title": "ATTITUDE_TONE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "ATTITUDE_TONE_prompt.txt"
+  },
+  {
+    "deck_name": "AUTHORITY_PRESTIGE",
+    "deck_title": "AUTHORITY_PRESTIGE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "AUTHORITY_PRESTIGE_prompt.txt"
+  },
+  {
+    "deck_name": "AUTONOMY_LENIENCY",
+    "deck_title": "AUTONOMY_LENIENCY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "AUTONOMY_LENIENCY_prompt.txt"
+  },
+  {
+    "deck_name": "BREVITY_VERBOSITY",
+    "deck_title": "BREVITY_VERBOSITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "BREVITY_VERBOSITY_prompt.txt"
+  },
+  {
+    "deck_name": "COMPLEXITY_INTRICACY",
+    "deck_title": "COMPLEXITY_INTRICACY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "COMPLEXITY_INTRICACY_prompt.txt"
+  },
+  {
+    "deck_name": "CONFLICT_DISTANCE",
+    "deck_title": "CONFLICT_DISTANCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "CONFLICT_DISTANCE_prompt.txt"
+  },
+  {
+    "deck_name": "COOPERATION_HARMONY",
+    "deck_title": "COOPERATION_HARMONY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "COOPERATION_HARMONY_prompt.txt"
+  },
+  {
+    "deck_name": "COST_PRICE_VALUE",
+    "deck_title": "COST_PRICE_VALUE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "COST_PRICE_VALUE_prompt.txt"
+  },
+  {
+    "deck_name": "DECLINE_DETERIORATION",
+    "deck_title": "DECLINE_DETERIORATION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "DECLINE_DETERIORATION_prompt.txt"
+  },
+  {
+    "deck_name": "DOMINANCE_CONTROL",
+    "deck_title": "DOMINANCE_CONTROL",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "DOMINANCE_CONTROL_prompt.txt"
+  },
+  {
+    "deck_name": "DURATION",
+    "deck_title": "DURATION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "DURATION_prompt.txt"
+  },
+  {
+    "deck_name": "ENORMOUSNESS_VASTNESS",
+    "deck_title": "ENORMOUSNESS_VASTNESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "ENORMOUSNESS_VASTNESS_prompt.txt"
+  },
+  {
+    "deck_name": "FINANCIAL_STATUS",
+    "deck_title": "FINANCIAL_STATUS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "FINANCIAL_STATUS_prompt.txt"
+  },
+  {
+    "deck_name": "FLUCTUATION_STAGNATION",
+    "deck_title": "FLUCTUATION_STAGNATION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "FLUCTUATION_STAGNATION_prompt.txt"
+  },
+  {
+    "deck_name": "FLUENCY_DELIVERY",
+    "deck_title": "FLUENCY_DELIVERY",
+    "word_count": 29,
+    "tag_count": 10,
+    "prompt_file": "FLUENCY_DELIVERY_prompt.txt"
+  },
+  {
+    "deck_name": "FREQUENCY_REPETITION",
+    "deck_title": "FREQUENCY_REPETITION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "FREQUENCY_REPETITION_prompt.txt"
+  },
+  {
+    "deck_name": "FRUGALITY_STINGINESS",
+    "deck_title": "FRUGALITY_STINGINESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "FRUGALITY_STINGINESS_prompt.txt"
+  },
+  {
+    "deck_name": "GROWTH_PROSPERITY",
+    "deck_title": "GROWTH_PROSPERITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "GROWTH_PROSPERITY_prompt.txt"
+  },
+  {
+    "deck_name": "HIGH_DIFFICULTY_EFFORT",
+    "deck_title": "HIGH_DIFFICULTY_EFFORT",
+    "word_count": 29,
+    "tag_count": 10,
+    "prompt_file": "HIGH_DIFFICULTY_EFFORT_prompt.txt"
+  },
+  {
+    "deck_name": "IGNORANCE_CONFUSION",
+    "deck_title": "IGNORANCE_CONFUSION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "IGNORANCE_CONFUSION_prompt.txt"
+  },
+  {
+    "deck_name": "INTELLIGENCE_BRILLIANCE",
+    "deck_title": "INTELLIGENCE_BRILLIANCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "INTELLIGENCE_BRILLIANCE_prompt.txt"
+  },
+  {
+    "deck_name": "INTIMACY_AFFECTION",
+    "deck_title": "INTIMACY_AFFECTION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "INTIMACY_AFFECTION_prompt.txt"
+  },
+  {
+    "deck_name": "LOGIC_CLARITY",
+    "deck_title": "LOGIC_CLARITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "LOGIC_CLARITY_prompt.txt"
+  },
+  {
+    "deck_name": "LOW_DIFFICULTY_EASE",
+    "deck_title": "LOW_DIFFICULTY_EASE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "LOW_DIFFICULTY_EASE_prompt.txt"
+  },
+  {
+    "deck_name": "LUXURY_EXTRAVAGANCE",
+    "deck_title": "LUXURY_EXTRAVAGANCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "LUXURY_EXTRAVAGANCE_prompt.txt"
+  },
+  {
+    "deck_name": "MINUTENESS_SMALLNESS",
+    "deck_title": "MINUTENESS_SMALLNESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "MINUTENESS_SMALLNESS_prompt.txt"
+  },
+  {
+    "deck_name": "OPPRESSION_TYRANNY",
+    "deck_title": "OPPRESSION_TYRANNY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "OPPRESSION_TYRANNY_prompt.txt"
+  },
+  {
+    "deck_name": "PERMANENCE_LONGEVITY",
+    "deck_title": "PERMANENCE_LONGEVITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "PERMANENCE_LONGEVITY_prompt.txt"
+  },
+  {
+    "deck_name": "PERSUASION_CONFLICT",
+    "deck_title": "PERSUASION_CONFLICT",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "PERSUASION_CONFLICT_prompt.txt"
+  },
+  {
+    "deck_name": "POVERTY_HARDSHIP",
+    "deck_title": "POVERTY_HARDSHIP",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "POVERTY_HARDSHIP_prompt.txt"
+  },
+  {
+    "deck_name": "PRACTICALITY_WIT_CUNNING",
+    "deck_title": "PRACTICALITY_WIT_CUNNING",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "PRACTICALITY_WIT_CUNNING_prompt.txt"
+  },
+  {
+    "deck_name": "SCARCITY_DEFICIENCY",
+    "deck_title": "SCARCITY_DEFICIENCY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SCARCITY_DEFICIENCY_prompt.txt"
+  },
+  {
+    "deck_name": "SCOPE_COMPREHENSIVENESS",
+    "deck_title": "SCOPE_COMPREHENSIVENESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SCOPE_COMPREHENSIVENESS_prompt.txt"
+  },
+  {
+    "deck_name": "SIGHT",
+    "deck_title": "SIGHT",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SIGHT_prompt.txt"
+  },
+  {
+    "deck_name": "SIGNIFICANCE_DEPTH",
+    "deck_title": "SIGNIFICANCE_DEPTH",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SIGNIFICANCE_DEPTH_prompt.txt"
+  },
+  {
+    "deck_name": "SIMPLICITY_CLARITY",
+    "deck_title": "SIMPLICITY_CLARITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SIMPLICITY_CLARITY_prompt.txt"
+  },
+  {
+    "deck_name": "SMELL_SCENT",
+    "deck_title": "SMELL_SCENT",
+    "word_count": 21,
+    "tag_count": 10,
+    "prompt_file": "SMELL_SCENT_prompt.txt"
+  },
+  {
+    "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY",
+    "deck_title": "SOCIAL_BEHAVIOR_PERSONALITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SOCIAL_BEHAVIOR_PERSONALITY_prompt.txt"
+  },
+  {
+    "deck_name": "SOCIAL_STATUS_CONNECTION",
+    "deck_title": "SOCIAL_STATUS_CONNECTION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SOCIAL_STATUS_CONNECTION_prompt.txt"
+  },
+  {
+    "deck_name": "SOUND_AUDITORY",
+    "deck_title": "SOUND_AUDITORY",
+    "word_count": 21,
+    "tag_count": 10,
+    "prompt_file": "SOUND_AUDITORY_prompt.txt"
+  },
+  {
+    "deck_name": "START_END_RECOVERY",
+    "deck_title": "START_END_RECOVERY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "START_END_RECOVERY_prompt.txt"
+  },
+  {
+    "deck_name": "STUPIDITY_DULLNESS",
+    "deck_title": "STUPIDITY_DULLNESS",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "STUPIDITY_DULLNESS_prompt.txt"
+  },
+  {
+    "deck_name": "SUBMISSION_COMPLIANCE",
+    "deck_title": "SUBMISSION_COMPLIANCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "SUBMISSION_COMPLIANCE_prompt.txt"
+  },
+  {
+    "deck_name": "TASTE",
+    "deck_title": "TASTE",
+    "word_count": 22,
+    "tag_count": 10,
+    "prompt_file": "TASTE_prompt.txt"
+  },
+  {
+    "deck_name": "TIMELINESS_FUTURE_PAST",
+    "deck_title": "TIMELINESS_FUTURE_PAST",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "TIMELINESS_FUTURE_PAST_prompt.txt"
+  },
+  {
+    "deck_name": "TIMING_SPEED_PUNCTUALITY",
+    "deck_title": "TIMING_SPEED_PUNCTUALITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "TIMING_SPEED_PUNCTUALITY_prompt.txt"
+  },
+  {
+    "deck_name": "TOUCH_TEXTURE",
+    "deck_title": "TOUCH_TEXTURE",
+    "word_count": 23,
+    "tag_count": 10,
+    "prompt_file": "TOUCH_TEXTURE_prompt.txt"
+  },
+  {
+    "deck_name": "TRANSFORMATION",
+    "deck_title": "TRANSFORMATION",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "TRANSFORMATION_prompt.txt"
+  },
+  {
+    "deck_name": "TRANSIENCE_BREVITY",
+    "deck_title": "TRANSIENCE_BREVITY",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "TRANSIENCE_BREVITY_prompt.txt"
+  },
+  {
+    "deck_name": "WEALTH_AFFLUENCE",
+    "deck_title": "WEALTH_AFFLUENCE",
+    "word_count": 30,
+    "tag_count": 10,
+    "prompt_file": "WEALTH_AFFLUENCE_prompt.txt"
+  }
+]

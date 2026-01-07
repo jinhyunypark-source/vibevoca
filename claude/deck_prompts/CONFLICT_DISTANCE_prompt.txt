@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: CONFLICT_DISTANCE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Hostile - 적대적인 (적으로 간주하고 공격적인)
+2. Estranged - 소원해진, 별거 중인 (사이가 멀어져 남남이 된)
+3. Distant - 거리감을 두는 (친하지 않고 멀리하는)
+4. Cold - 차가운, 쌀쌀맞은 (감정이 없는)
+5. Aloof - 냉담한 (거리를 두고 무심한 척하는)
+6. Detached - 무심한, 초연한 (감정적으로 분리된)
+7. Alienated - 소외된 (동떨어지고 배척당한 느낌)
+8. Isolated - 고립된 (혼자 떨어져 있는)
+9. Incompatible - 맞지 않는 (성격 차이로 공존 불가능한)
+10. Abusive - 학대하는 (폭력적이거나 모욕적인)
+11. Toxic - 유해한 (정신적으로 해를 끼치는 관계)
+12. Manipulative - 조종하는 (교묘하게 이용해 먹는)
+13. Controlling - 통제하려는 (자기 멋대로 하려는)
+14. Jealous - 질투하는 (내 것을 뺏길까 봐/남을 시샘하여)
+15. Envious - 부러워하는 (남의 것이 탐나서)
+16. Resentful - 원망하는, 앙심을 품은 (억울해서 화난)
+17. Bitter - 쓰라린, 비통해하는 (상처받아 냉소적인)
+18. Vengeful - 복수심에 불타는 (되갚아주려는)
+19. Spiteful - 앙심 깊은 (괴롭히려는 악의가 있는)
+20. Feud - 불화, 반목 (오랫동안 지속된 싸움)
+21. Rivalry - 라이벌 의식, 경쟁 (서로 이기려는 관계)
+22. Friction - 마찰 (의견 충돌로 인한 삐걱거림)
+23. Tension - 긴장 (불편하고 팽팽한 분위기)
+24. Conflict - 갈등, 충돌 (직접적인 싸움)
+25. Broken - 깨진 (관계가 파탄 난)
+26. Divorced - 이혼한 (법적으로 갈라선)
+27. Separated - 별거 중인 (헤어져 사는)
+28. Antagonistic - 적대적인, 반감을 가진 (사사건건 반대하는)    (그)agonistes(배우,경쟁자)
+29. Confrontational - 대립을 일삼는 (싸움을 거는 성향)
+30. Unfriendly - 비우호적인 (친절하지 않은)
+
+## 추천 태그 (상황/맥락)
+home, restaurant, dining, social, medical, weather, cooking, friendship, family, ai
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "CONFLICT_DISTANCE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "CONFLICT_DISTANCE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

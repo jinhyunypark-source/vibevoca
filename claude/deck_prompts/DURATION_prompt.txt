@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: DURATION
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Chronological - 연대순의 (시간 순서대로)
+2. Sequential - 순차적인 (논리적 순서에 따른)
+3. Subsequent - 그 다음의, 차후의 (뒤에 일어나는)
+4. Preceding - 이전의, 선행하는 (앞서 일어난)
+5. Prior - 사전의, 이전의 (더 중요한/먼저인)
+6. Anterior - 앞쪽의, 이전의 (격식: 앞선)
+7. Posterior - 뒤쪽의, 이후의 (격식: 뒤에 오는)
+8. Simultaneous - 동시의 (같은 시간에)
+9. Concurrent - 동시에 발생하는, 공존하는 (함께 진행되는)
+10. Era - 시대 (특정 사건/인물이 지배하는 시기)
+11. Epoch - 시대 (역사의 획을 긋는 중요한 시기)
+12. Eon - 억겁, 매우 긴 시간 (지질학적 시대)
+13. Millennium - 천년 (1000년의 기간)
+14. Century - 세기 (100년의 기간)
+15. Decade - 10년 (10년의 기간)
+16. Generation - 세대 (약 30년)
+17. Dynasty - 왕조, 명문가 (대가 이어지는 기간)
+18. Period - 기간, 시기 (일정한 시간의 구분)
+19. Phase - 단계, 국면 (변화의 한 과정)
+20. Stage - 단계, 무대 (진행 과정의 한 부분)
+21. Interim - 중간의, 잠정적인 (사이의 시간)
+22. Interval - 간격 (두 사건 사이의 시간)
+23. Gap - 공백, 차이 (빈 시간이나 격차)
+24. Hiatus - 중단, 공백기 (활동을 잠시 멈춤)
+25. Lull - 소강상태 (잠잠해진 시기)
+26. Respite - 유예, 일시적 중단 (고통이 멈춘 휴식)
+27. Tenure - 재임 기간 (직위에 있는 기간)
+28. Term - 임기, 학기 (정해진 기간)
+29. Duration - 지속 기간 (계속되는 동안)
+30. Span - 기간, 폭 (걸쳐 있는 범위)
+
+## 추천 태그 (상황/맥락)
+journey, health, travel, planning, soccer, university, develope, style, restaurant, vacation
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "DURATION",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "DURATION",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

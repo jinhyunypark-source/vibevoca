@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: OPPRESSION_TYRANNY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Oppressive - 억압적인 (숨 막히게 내리누르는)
+2. Tyrannical - 폭군의, 전제적인 (제멋대로 권력을 휘두르는)
+3. Dictatorial - 독재적인 (남의 말을 안 듣고 지시만 하는)
+4. Autocratic - 전제 군주적인, 독단적인 (혼자서 모든 결정을 내리는)
+5. Despotic - 폭군적인 (절대 권력으로 횡포를 부리는)
+6. Totalitarian - 전체주의적인 (개인의 자유를 완전히 통제하는)
+7. Coercive - 강압적인 (힘이나 위협으로 강요하는)
+8. Draconian - 매우 엄격한, 가혹한 (법이나 처벌이 지나친)
+9. Repressive - 탄압하는 (감정이나 자유를 억누르는)
+10. Ruthless - 무자비한 (동정심 없이 잔인한)
+11. Cruel - 잔인한 (고통을 주는 것을 즐기는)
+12. Heavy-handed - 가혹한, 서투른 (힘을 너무 과하게 쓰는)
+13. Iron-fisted - 철권통치의 (매우 엄격하고 타협 없는)
+14. Domineering - 오만한, 거만한 (남을 쥐고 흔들려는)
+15. Bossy - 이래라저래라 하는 (사사건건 지시하는 - 비격식)
+16. Imperious - 고압적인 (황제처럼 거만하게 명령하는)
+17. Arbitrary - 제멋대로인, 독단적인 (원칙 없이 기분 내키는 대로)
+18. Unjust - 부당한 (정의롭지 못한)
+19. Exploitative - 착취하는 (남의 노동력을 부당하게 이용하는)
+20. Subjugating - 예속시키는, 정복하는 (지배하에 두는)
+21. Crushing - 짓밟는, 압도적인 (희망이나 저항을 박살 내는)
+22. Intimidating - 위협적인 (겁을 주는)
+23. Suffocating - 숨 막히는 (자유가 없어 답답한)
+24. Restrictive - 제한하는, 구속하는 (자유를 막는)
+25. Threatening - 협박하는 (해를 끼칠 듯한)
+26. Menacing - 위협적인 (불길하고 위험한 느낌)
+27. Bullying - 괴롭히는 (약자를 못살게 구는)
+28. Overbearing - 압제적인, 거만한 (남을 누르고 자기 뜻대로만 하는)
+29. Violent - 폭력적인 (물리적 힘을 쓰는)
+30. Harsh - 가혹한 (너무 엄하고 모진)
+
+## 추천 태그 (상황/맥락)
+warm, health, cooking, happy, meeting, communication, business, medical, education, entrepreneur
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "OPPRESSION_TYRANNY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "OPPRESSION_TYRANNY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

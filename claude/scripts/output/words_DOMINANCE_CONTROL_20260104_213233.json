@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "1dd200a1-9892-4c86-8849-ffd20220ed0e",
+    "word": "Potent",
+    "meaning": "강력한 (효과나 영향력이 센)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "596724eb-347f-4a4b-a810-ab3ac65e7cb7",
+    "word": "Forceful",
+    "meaning": "강압적인, 힘찬 (강하게 밀어붙이는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "51f74d17-c82f-4757-b6c8-0b6b716e41bb",
+    "word": "Dominant",
+    "meaning": "지배적인, 우세한 (가장 힘이 세고 주도적인)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "86d5d8c7-7c84-4553-9d31-00fcacb0e18f",
+    "word": "Sovereign",
+    "meaning": "주권이 있는, 자주적인 (간섭받지 않는 최고의 권력)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "0534789e-ed3b-443c-9bec-fa4ec316d107",
+    "word": "Commanding",
+    "meaning": "지휘하는, 위엄 있는 (명령을 내릴 위치에 있는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "4e3cdc7e-30eb-4f7a-85c6-bace54760ef4",
+    "word": "Prevailing",
+    "meaning": "우세한, 널리 퍼진 (현재 이기고 있거나 주류인)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "d9cf3cc3-2b64-43bc-b5e9-1b73419524d4",
+    "word": "Controlling",
+    "meaning": "통제하는 (모든 것을 관리하려는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "eaba191c-7618-4a2b-9fd9-a656d4de03a7",
+    "word": "Powerful",
+    "meaning": "강력한 (힘이나 영향력이 큰)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "cdb2d30c-b797-4ea0-9514-3c1fd0146958",
+    "word": "Mighty",
+    "meaning": "강대한, 힘센 (규모가 크고 압도적인)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "b39d9b4d-4d72-4f05-b4d6-21a915093547",
+    "word": "Supreme",
+    "meaning": "최고의, 최상의 (가장 높은 위치의)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "53c60ad4-f37e-437f-8e14-b4ae250209cd",
+    "word": "Ruling",
+    "meaning": "지배하는, 통치하는 (현재 권력을 잡고 있는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "f7e1912f-9f03-4ea9-9efa-7c4435f4bf76",
+    "word": "Governing",
+    "meaning": "통치하는, 관리하는 (행정적으로 다스리는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "b0b60343-14d8-4853-92fb-ee7bea99696a",
+    "word": "Reigning",
+    "meaning": "군림하는, 현재 타이틀을 가진 (왕이나 챔피언)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "2f575ed4-f250-4722-923f-833b866fa105",
+    "word": "Invincible",
+    "meaning": "천하무적의 (이길 수 없는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "e940b923-60db-41b1-8f8e-a6309c65fc49",
+    "word": "Ascendant",
+    "meaning": "상승세인, 우세한 (힘이 커지고 있는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "84c937ce-78a5-42ea-ba0e-420b6449b844",
+    "word": "Predominant",
+    "meaning": "두드러진, 주된 (수적으로나 힘으로 우위인)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "1acdb4b9-a4f4-485b-81fa-e638cda59684",
+    "word": "Hegemonic",
+    "meaning": "패권적인 (한 국가나 집단이 주도권을 잡은)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "e3ad5452-82ff-4701-b070-e8c1fd7e3c61",
+    "word": "Omnipotent",
+    "meaning": "전지전능한 (모든 힘을 다 가진)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "cef7bbd0-03db-4a04-8ae3-976af00b18e5",
+    "word": "Unrivaled",
+    "meaning": "경쟁자가 없는 (비할 데 없는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "63d43d1b-7f01-4482-aa35-ffc58607f700",
+    "word": "Superior",
+    "meaning": "우월한, 상급의 (남보다 나은)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "e5b89a72-bfff-4939-b23b-362e3124d06b",
+    "word": "Chief",
+    "meaning": "주요한, 장(長) (조직의 우두머리)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "c2598613-d435-42bc-9751-6749888e8f11",
+    "word": "Lead",
+    "meaning": "이끄는, 선두의 (앞장서는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "e7e9e056-b442-47cc-91db-f1dfc4e7d25e",
+    "word": "Directing",
+    "meaning": "지시하는, 감독하는 (방향을 잡아주는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "575b0f57-c09c-4866-87cc-cf3ec3660669",
+    "word": "Managing",
+    "meaning": "관리하는 (운영하고 다루는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "b372cb0e-4d4f-4a54-b49c-df4f3f35b9be",
+    "word": "Supervising",
+    "meaning": "감독하는 (지켜보며 관리하는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "30b12460-8a8a-46fb-8fa3-b6ac6b7fd83a",
+    "word": "In charge",
+    "meaning": "책임이 있는, 담당하는 (권한을 가진)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "f6811b4d-9933-4efd-adcc-133291175434",
+    "word": "Masterful",
+    "meaning": "주인 같은, 능수능란한 (통제력을 가진)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "5b7356e7-24d4-46a8-b5bd-f010b056a09b",
+    "word": "Overriding",
+    "meaning": "최우선의, 기각하는 (다른 것보다 더 중요한 권한)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "a6f4af57-5438-4813-aad0-9a1f2bde9363",
+    "word": "Preeminent",
+    "meaning": "탁월한, 우위의 (남보다 뛰어난)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  },
+  {
+    "card_id": "8c1a4bc3-c31a-4542-aef9-77402f427ee7",
+    "word": "Assertive",
+    "meaning": "자기주장이 강한 (단호하게 권리를 찾는)",
+    "deck_id": "eee15cc6-7b0d-4b17-9921-9225c31d5c88",
+    "deck_name": "DOMINANCE_CONTROL"
+  }
+]

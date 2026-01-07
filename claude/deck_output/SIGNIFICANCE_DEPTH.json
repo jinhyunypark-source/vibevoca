@@ -1,0 +1,984 @@
+{
+  "deck_title": "SIGNIFICANCE_DEPTH",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Incidental",
+      "sentence_en": "The scratches on my phone are purely incidental damage from daily use.",
+      "sentence_ko": "내 폰의 긁힌 자국은 일상적 사용으로 인한 순전히 부수적인 손상이야.",
+      "tags": ["smartphone", "daily"]
+    },
+    {
+      "word": "Incidental",
+      "sentence_en": "Any health benefits from the trip were merely incidental to the vacation.",
+      "sentence_ko": "여행으로 얻은 건강상 이점은 휴가에 딸려온 부수적인 것일 뿐이었다.",
+      "tags": ["travel", "health"]
+    },
+    {
+      "word": "Incidental",
+      "sentence_en": "The music in the background was incidental to the main presentation.",
+      "sentence_ko": "배경 음악은 주요 프레젠테이션에 부수적인 것이었다.",
+      "tags": ["work", "event"]
+    },
+    {
+      "word": "Incidental",
+      "sentence_en": "Her success was not incidental but the result of hard work.",
+      "sentence_ko": "그녀의 성공은 부수적인 게 아니라 노력의 결과였다.",
+      "tags": ["achievement", "effort"]
+    },
+    {
+      "word": "Incidental",
+      "sentence_en": "The cost of parking was incidental compared to the hotel price.",
+      "sentence_ko": "주차비는 호텔 가격에 비하면 부수적인 비용이었다.",
+      "tags": ["travel", "expense"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "The patient is in critical condition and needs immediate surgery.",
+      "sentence_ko": "환자는 위중한 상태이고 즉시 수술이 필요하다.",
+      "tags": ["medical", "urgent"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "This is a critical moment in our team's soccer season.",
+      "sentence_ko": "이건 우리 팀 축구 시즌의 대단히 중요한 순간이야.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "Backing up your smartphone data is critical to avoid losing everything.",
+      "sentence_ko": "스마트폰 데이터 백업은 모든 걸 잃지 않으려면 대단히 중요하다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "The next few hours are critical for the project deadline.",
+      "sentence_ko": "다음 몇 시간이 프로젝트 마감에 결정적이다.",
+      "tags": ["work", "schedule"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "Her critical thinking skills saved the company from a bad decision.",
+      "sentence_ko": "그녀의 비판적 사고 능력이 회사를 나쁜 결정으로부터 구했다.",
+      "tags": ["work", "intelligence"]
+    },
+    {
+      "word": "Critical",
+      "sentence_en": "Timing is critical when cooking a perfect steak.",
+      "sentence_ko": "완벽한 스테이크를 요리할 때 타이밍이 대단히 중요하다.",
+      "tags": ["cooking", "skill"]
+    },
+    {
+      "word": "Trivial",
+      "sentence_en": "Don't waste time arguing over trivial details.",
+      "sentence_ko": "사소한 디테일로 논쟁하느라 시간 낭비하지 마.",
+      "tags": ["advice", "time"]
+    },
+    {
+      "word": "Trivial",
+      "sentence_en": "The damage to my home was trivial and easily fixed.",
+      "sentence_ko": "집의 손상은 사소했고 쉽게 고쳐졌다.",
+      "tags": ["home", "repair"]
+    },
+    {
+      "word": "Trivial",
+      "sentence_en": "She gets upset over trivial matters that don't really matter.",
+      "sentence_ko": "그녀는 별로 중요하지도 않은 사소한 일로 화를 낸다.",
+      "tags": ["feeling", "personality"]
+    },
+    {
+      "word": "Trivial",
+      "sentence_en": "The cost increase was trivial compared to the benefits.",
+      "sentence_ko": "비용 증가는 혜택에 비하면 하찮았다.",
+      "tags": ["finance", "comparison"]
+    },
+    {
+      "word": "Trivial",
+      "sentence_en": "What seems trivial now might become important later.",
+      "sentence_ko": "지금 하찮아 보이는 게 나중에 중요해질 수도 있어.",
+      "tags": ["wisdom", "perspective"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "It's just a minor scratch on the smartphone screen.",
+      "sentence_ko": "스마트폰 화면에 작은 긁힌 자국일 뿐이야.",
+      "tags": ["smartphone", "damage"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "The soccer player suffered a minor injury during practice.",
+      "sentence_ko": "축구 선수가 연습 중에 가벼운 부상을 입었다.",
+      "tags": ["soccer", "medical"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "We had a few minor issues during our travel, but nothing serious.",
+      "sentence_ko": "여행 중에 작은 문제가 몇 가지 있었지만 심각한 건 없었어.",
+      "tags": ["travel", "problems"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "The changes to my schedule were minor and easy to accommodate.",
+      "sentence_ko": "내 스케줄 변경은 작았고 수용하기 쉬웠다.",
+      "tags": ["schedule", "flexibility"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "He made a few minor mistakes in his cooking but it still tasted great.",
+      "sentence_ko": "그는 요리에서 사소한 실수를 몇 개 했지만 여전히 맛있었다.",
+      "tags": ["cooking", "mistakes"]
+    },
+    {
+      "word": "Minor",
+      "sentence_en": "It's a minor inconvenience, nothing to get sad about.",
+      "sentence_ko": "사소한 불편일 뿐이야, 슬퍼할 일 아니야.",
+      "tags": ["sad", "perspective"]
+    },
+    {
+      "word": "Petty",
+      "sentence_en": "Stop being so petty about small things at home.",
+      "sentence_ko": "집에서 사소한 일로 그렇게 옹졸하게 굴지 마.",
+      "tags": ["home", "attitude"]
+    },
+    {
+      "word": "Petty",
+      "sentence_en": "Their argument was over something so petty I can't even remember.",
+      "sentence_ko": "그들의 말다툼은 너무 시시한 일이어서 기억도 안 나.",
+      "tags": ["conflict", "trivial"]
+    },
+    {
+      "word": "Petty",
+      "sentence_en": "He committed petty theft by stealing from the store.",
+      "sentence_ko": "그는 가게에서 훔쳐서 경미한 절도죄를 저질렀다.",
+      "tags": ["crime", "legal"]
+    },
+    {
+      "word": "Petty",
+      "sentence_en": "Don't let petty jealousy ruin your feelings about the trip.",
+      "sentence_ko": "시시한 질투가 여행에 대한 네 기분을 망치게 하지 마.",
+      "tags": ["travel", "feeling"]
+    },
+    {
+      "word": "Petty",
+      "sentence_en": "She's too petty and holds grudges over minor disagreements.",
+      "sentence_ko": "그녀는 너무 옹졸해서 사소한 의견 차이에도 원한을 품는다.",
+      "tags": ["personality", "negative"]
+    },
+    {
+      "word": "Slight",
+      "sentence_en": "There's a slight chance of rain during our travel tomorrow.",
+      "sentence_ko": "내일 여행 중에 비가 올 가능성이 약간 있어.",
+      "tags": ["travel", "weather"]
+    },
+    {
+      "word": "Slight",
+      "sentence_en": "I felt a slight improvement in my health after the treatment.",
+      "sentence_ko": "치료 후에 건강이 약간 나아진 걸 느꼈다.",
+      "tags": ["medical", "health"]
+    },
+    {
+      "word": "Slight",
+      "sentence_en": "The smartphone has a slight edge over its competitors.",
+      "sentence_ko": "그 스마트폰은 경쟁사보다 약간의 우위가 있다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Slight",
+      "sentence_en": "There was only a slight delay in my schedule today.",
+      "sentence_ko": "오늘 내 스케줄에 약간의 지연만 있었어.",
+      "tags": ["schedule", "time"]
+    },
+    {
+      "word": "Slight",
+      "sentence_en": "She felt slightly sad about leaving home for college.",
+      "sentence_ko": "그녀는 대학 가려고 집을 떠나는 것에 대해 약간 슬펐다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Negligible",
+      "sentence_en": "The cost difference was negligible, so I chose the better option.",
+      "sentence_ko": "가격 차이는 무시할 만했어서 더 나은 옵션을 골랐어.",
+      "tags": ["shopping", "decision"]
+    },
+    {
+      "word": "Negligible",
+      "sentence_en": "The side effects of the medication were negligible.",
+      "sentence_ko": "약의 부작용은 무시해도 될 정도였다.",
+      "tags": ["medical", "health"]
+    },
+    {
+      "word": "Negligible",
+      "sentence_en": "The impact on my schedule was negligible and easily managed.",
+      "sentence_ko": "내 스케줄에 미치는 영향은 미미했고 쉽게 관리됐다.",
+      "tags": ["schedule", "management"]
+    },
+    {
+      "word": "Negligible",
+      "sentence_en": "The difference in smartphone battery life is negligible.",
+      "sentence_ko": "스마트폰 배터리 수명 차이는 무시할 만하다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Negligible",
+      "sentence_en": "His contribution to the project was negligible at best.",
+      "sentence_ko": "프로젝트에 대한 그의 기여는 기껏해야 무시할 만한 수준이었다.",
+      "tags": ["work", "criticism"]
+    },
+    {
+      "word": "Insignificant",
+      "sentence_en": "The problem seems insignificant compared to what we faced last year.",
+      "sentence_ko": "그 문제는 작년에 우리가 직면한 것에 비하면 대수롭지 않아 보인다.",
+      "tags": ["perspective", "comparison"]
+    },
+    {
+      "word": "Insignificant",
+      "sentence_en": "Don't let insignificant details ruin your travel experience.",
+      "sentence_ko": "대수롭지 않은 디테일이 여행 경험을 망치게 하지 마.",
+      "tags": ["travel", "advice"]
+    },
+    {
+      "word": "Insignificant",
+      "sentence_en": "He felt insignificant and sad after being overlooked at work.",
+      "sentence_ko": "그는 직장에서 무시당한 후 하찮고 슬픈 기분이 들었다.",
+      "tags": ["work", "sad"]
+    },
+    {
+      "word": "Insignificant",
+      "sentence_en": "The amount of salt in this recipe is insignificant for health concerns.",
+      "sentence_ko": "이 레시피의 소금 양은 건강 걱정 측면에서 대수롭지 않다.",
+      "tags": ["cooking", "health"]
+    },
+    {
+      "word": "Insignificant",
+      "sentence_en": "No human problem is truly insignificant if it causes you pain.",
+      "sentence_ko": "고통을 준다면 어떤 인간의 문제도 진정으로 하찮지 않다.",
+      "tags": ["feeling", "wisdom"]
+    },
+    {
+      "word": "Marginal",
+      "sentence_en": "The improvement in my smartphone's speed was marginal.",
+      "sentence_ko": "내 스마트폰 속도 개선은 미미했다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Marginal",
+      "sentence_en": "There was only a marginal increase in travel costs this year.",
+      "sentence_ko": "올해 여행 비용은 미미하게만 증가했다.",
+      "tags": ["travel", "expense"]
+    },
+    {
+      "word": "Marginal",
+      "sentence_en": "His contribution was marginal compared to the team's effort.",
+      "sentence_ko": "팀의 노력에 비해 그의 기여는 주변부적이었다.",
+      "tags": ["work", "teamwork"]
+    },
+    {
+      "word": "Marginal",
+      "sentence_en": "The health benefits of this diet are marginal at best.",
+      "sentence_ko": "이 다이어트의 건강상 이점은 기껏해야 미미하다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Marginal",
+      "sentence_en": "The difference in cooking time is marginal, about five minutes.",
+      "sentence_ko": "요리 시간 차이는 미미해, 약 5분 정도야.",
+      "tags": ["cooking", "time"]
+    },
+    {
+      "word": "Superficial",
+      "sentence_en": "The wound was superficial and didn't require medical attention.",
+      "sentence_ko": "상처는 표면적이어서 의료 조치가 필요하지 않았다.",
+      "tags": ["medical", "injury"]
+    },
+    {
+      "word": "Superficial",
+      "sentence_en": "Don't make superficial judgments about people based on their home.",
+      "sentence_ko": "사람들의 집을 기준으로 표면적인 판단을 하지 마.",
+      "tags": ["home", "judgment"]
+    },
+    {
+      "word": "Superficial",
+      "sentence_en": "His knowledge of technology is only superficial.",
+      "sentence_ko": "기술에 대한 그의 지식은 표면적일 뿐이야.",
+      "tags": ["technology", "knowledge"]
+    },
+    {
+      "word": "Superficial",
+      "sentence_en": "The conversation was superficial and lacked any real depth.",
+      "sentence_ko": "대화는 표면적이었고 진짜 깊이가 없었다.",
+      "tags": ["conversation", "shallow"]
+    },
+    {
+      "word": "Superficial",
+      "sentence_en": "She's more superficial than I thought, only caring about appearances.",
+      "sentence_ko": "그녀는 내가 생각했던 것보다 더 피상적이고 겉모습만 신경 쓴다.",
+      "tags": ["personality", "criticism"]
+    },
+    {
+      "word": "Frivolous",
+      "sentence_en": "Stop making frivolous purchases on your smartphone.",
+      "sentence_ko": "스마트폰으로 경박한 구매 하는 거 그만해.",
+      "tags": ["smartphone", "shopping"]
+    },
+    {
+      "word": "Frivolous",
+      "sentence_en": "The lawsuit was dismissed as frivolous by the judge.",
+      "sentence_ko": "그 소송은 판사에 의해 하찮은 것으로 기각됐다.",
+      "tags": ["legal", "judgment"]
+    },
+    {
+      "word": "Frivolous",
+      "sentence_en": "Don't waste your schedule on frivolous activities.",
+      "sentence_ko": "경박한 활동으로 스케줄을 낭비하지 마.",
+      "tags": ["schedule", "advice"]
+    },
+    {
+      "word": "Frivolous",
+      "sentence_en": "She has a frivolous attitude toward serious matters at home.",
+      "sentence_ko": "그녀는 집안의 심각한 문제에 대해 경박한 태도를 가지고 있다.",
+      "tags": ["home", "attitude"]
+    },
+    {
+      "word": "Frivolous",
+      "sentence_en": "His frivolous spending on travel left him with no savings.",
+      "sentence_ko": "여행에 대한 그의 경솔한 지출이 그를 저축 없이 남겼다.",
+      "tags": ["travel", "money"]
+    },
+    {
+      "word": "Trifling",
+      "sentence_en": "It's a trifling matter that doesn't deserve your attention.",
+      "sentence_ko": "네 관심을 받을 가치도 없는 하찮은 문제야.",
+      "tags": ["advice", "perspective"]
+    },
+    {
+      "word": "Trifling",
+      "sentence_en": "The cost of fixing the smartphone was trifling.",
+      "sentence_ko": "스마트폰 수리 비용은 하찮았다.",
+      "tags": ["smartphone", "expense"]
+    },
+    {
+      "word": "Trifling",
+      "sentence_en": "Don't let trifling concerns affect your travel plans.",
+      "sentence_ko": "하찮은 걱정이 여행 계획에 영향을 미치게 하지 마.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Trifling",
+      "sentence_en": "The delay in my schedule was trifling, only ten minutes.",
+      "sentence_ko": "내 스케줄 지연은 하찮았어, 고작 10분이었어.",
+      "tags": ["schedule", "time"]
+    },
+    {
+      "word": "Trifling",
+      "sentence_en": "She felt sad over what seemed like a trifling issue.",
+      "sentence_ko": "그녀는 하찮은 문제처럼 보이는 것 때문에 슬펐다.",
+      "tags": ["sad", "feeling"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "The next soccer match is crucial for reaching the finals.",
+      "sentence_ko": "다음 축구 경기는 결승 진출에 결정적이다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Medical attention in the first hour is crucial for survival.",
+      "sentence_ko": "첫 한 시간 내 의료 조치가 생존에 결정적이다.",
+      "tags": ["medical", "urgent"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Backing up your smartphone data is crucial before upgrading.",
+      "sentence_ko": "업그레이드 전에 스마트폰 데이터를 백업하는 게 결정적이다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Time management is crucial when cooking multiple dishes at home.",
+      "sentence_ko": "집에서 여러 요리를 할 때 시간 관리가 결정적이다.",
+      "tags": ["home", "cooking"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "The meeting tomorrow is crucial to our project's success.",
+      "sentence_ko": "내일 회의가 우리 프로젝트 성공에 결정적이야.",
+      "tags": ["work", "schedule"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Your support during that difficult time was crucial to my recovery.",
+      "sentence_ko": "그 힘든 시기에 네 지원이 내 회복에 결정적이었어.",
+      "tags": ["feeling", "gratitude"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Checking vital signs is the first step in medical emergencies.",
+      "sentence_ko": "활력 징후 확인은 응급 상황의 첫 단계다.",
+      "tags": ["medical", "emergency"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Good nutrition is vital for maintaining your health at home.",
+      "sentence_ko": "좋은 영양 섭취는 집에서 건강을 유지하는 데 필수적이다.",
+      "tags": ["home", "health"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Your smartphone contains vital information that should be protected.",
+      "sentence_ko": "네 스마트폰에는 보호해야 할 필수적인 정보가 들어 있어.",
+      "tags": ["smartphone", "security"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Proper scheduling is vital when planning international travel.",
+      "sentence_ko": "국제 여행을 계획할 때 적절한 일정 관리가 필수적이다.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Fresh ingredients are vital for good cooking results.",
+      "sentence_ko": "신선한 재료는 좋은 요리 결과에 필수적이다.",
+      "tags": ["cooking", "quality"]
+    },
+    {
+      "word": "Vital",
+      "sentence_en": "Communication is vital in maintaining healthy relationships.",
+      "sentence_ko": "의사소통은 건강한 관계를 유지하는 데 필수적이다.",
+      "tags": ["relationship", "communication"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The goalkeeper made a pivotal save in the soccer match.",
+      "sentence_ko": "골키퍼가 축구 경기에서 중추적인 선방을 했다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "This year was pivotal in my medical career development.",
+      "sentence_ko": "올해는 내 의료 경력 발전에 중추적이었다.",
+      "tags": ["medical", "career"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The invention of the smartphone was a pivotal moment in technology.",
+      "sentence_ko": "스마트폰의 발명은 기술의 중추적인 순간이었다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "Her decision to leave home was pivotal to her personal growth.",
+      "sentence_ko": "집을 떠나기로 한 그녀의 결정은 개인적 성장에 중추적이었다.",
+      "tags": ["home", "growth"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The meeting played a pivotal role in changing our schedule.",
+      "sentence_ko": "그 회의는 우리 스케줄을 바꾸는 데 중추적인 역할을 했다.",
+      "tags": ["work", "schedule"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "A good knife is essential for efficient cooking at home.",
+      "sentence_ko": "좋은 칼은 집에서 효율적인 요리에 필수적이다.",
+      "tags": ["home", "cooking"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Proper medical care is essential for recovery from illness.",
+      "sentence_ko": "적절한 의료 관리는 질병 회복에 필수적이다.",
+      "tags": ["medical", "health"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "A smartphone has become an essential tool for modern travel.",
+      "sentence_ko": "스마트폰은 현대 여행에 필수적인 도구가 됐다.",
+      "tags": ["smartphone", "travel"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Time management is essential when juggling a busy schedule.",
+      "sentence_ko": "바쁜 스케줄을 저글링할 때 시간 관리는 필수적이다.",
+      "tags": ["schedule", "management"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Understanding the basics is essential before learning advanced technology.",
+      "sentence_ko": "고급 기술을 배우기 전에 기초를 이해하는 게 필수적이다.",
+      "tags": ["technology", "learning"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Sleep is essential for both physical and mental health.",
+      "sentence_ko": "수면은 신체적, 정신적 건강 모두에 필수적이다.",
+      "tags": ["health", "wellness"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "The soccer team suffered a major defeat in yesterday's match.",
+      "sentence_ko": "축구팀은 어제 경기에서 큰 패배를 당했다.",
+      "tags": ["soccer", "sad"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "He underwent major surgery at the medical center.",
+      "sentence_ko": "그는 의료 센터에서 큰 수술을 받았다.",
+      "tags": ["medical", "serious"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "There's been a major update to my smartphone's operating system.",
+      "sentence_ko": "내 스마트폰 운영체제에 주요 업데이트가 있었어.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "We had a major change in our travel schedule due to weather.",
+      "sentence_ko": "날씨 때문에 여행 스케줄에 큰 변경이 있었어.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "Moving to a new home is a major life decision.",
+      "sentence_ko": "새 집으로 이사하는 건 인생의 주요한 결정이야.",
+      "tags": ["home", "decision"]
+    },
+    {
+      "word": "Major",
+      "sentence_en": "This represents a major breakthrough in medical technology.",
+      "sentence_ko": "이것은 의료 기술의 주요한 돌파구를 나타낸다.",
+      "tags": ["medical", "technology"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "The patient's condition is serious and requires immediate attention.",
+      "sentence_ko": "환자의 상태는 심각하고 즉각적인 조치가 필요하다.",
+      "tags": ["medical", "urgent"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "We need to have a serious conversation about your future.",
+      "sentence_ko": "네 미래에 대해 진지한 대화를 나눌 필요가 있어.",
+      "tags": ["conversation", "important"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "The team faced serious challenges after their star soccer player was injured.",
+      "sentence_ko": "팀은 스타 축구 선수가 다친 후 심각한 도전에 직면했다.",
+      "tags": ["soccer", "challenge"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "There's a serious problem with my smartphone that needs fixing.",
+      "sentence_ko": "내 스마트폰에 고쳐야 할 심각한 문제가 있어.",
+      "tags": ["smartphone", "problem"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "She looked serious and sad when discussing her home situation.",
+      "sentence_ko": "그녀는 집 상황을 논의할 때 진지하고 슬퍼 보였다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Serious",
+      "sentence_en": "Cooking safety is a serious matter that shouldn't be taken lightly.",
+      "sentence_ko": "요리 안전은 가볍게 여겨서는 안 될 심각한 문제다.",
+      "tags": ["cooking", "safety"]
+    },
+    {
+      "word": "Grave",
+      "sentence_en": "The doctor delivered the grave news about the medical diagnosis.",
+      "sentence_ko": "의사가 의학적 진단에 대한 중대한 소식을 전했다.",
+      "tags": ["medical", "sad"]
+    },
+    {
+      "word": "Grave",
+      "sentence_en": "We're facing a grave situation that requires immediate action.",
+      "sentence_ko": "즉각적인 조치가 필요한 중대한 상황에 직면해 있어.",
+      "tags": ["urgent", "serious"]
+    },
+    {
+      "word": "Grave",
+      "sentence_en": "His grave expression suggested something terrible had happened at home.",
+      "sentence_ko": "그의 엄숙한 표정은 집에서 끔찍한 일이 일어났음을 암시했다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Grave",
+      "sentence_en": "The team made a grave error in the final minutes of the soccer match.",
+      "sentence_ko": "팀은 축구 경기 마지막 몇 분에 중대한 실수를 했다.",
+      "tags": ["soccer", "mistake"]
+    },
+    {
+      "word": "Grave",
+      "sentence_en": "There are grave concerns about the impact on public health.",
+      "sentence_ko": "공중 보건에 미치는 영향에 대한 중대한 우려가 있다.",
+      "tags": ["medical", "concern"]
+    },
+    {
+      "word": "Acute",
+      "sentence_en": "The patient is experiencing acute pain and needs immediate medical care.",
+      "sentence_ko": "환자는 극심한 통증을 겪고 있어서 즉각적인 의료 처치가 필요하다.",
+      "tags": ["medical", "urgent"]
+    },
+    {
+      "word": "Acute",
+      "sentence_en": "There's an acute shortage of technology components right now.",
+      "sentence_ko": "지금 기술 부품의 극심한 부족이 있다.",
+      "tags": ["technology", "shortage"]
+    },
+    {
+      "word": "Acute",
+      "sentence_en": "Her acute sense of smell helps her excel in cooking.",
+      "sentence_ko": "그녀의 예리한 후각이 그녀가 요리에서 뛰어나도록 돕는다.",
+      "tags": ["cooking", "skill"]
+    },
+    {
+      "word": "Acute",
+      "sentence_en": "The soccer injury turned out to be acute and required surgery.",
+      "sentence_ko": "축구 부상은 급성으로 밝혀져 수술이 필요했다.",
+      "tags": ["soccer", "medical"]
+    },
+    {
+      "word": "Acute",
+      "sentence_en": "I felt acute sadness when I had to leave my home.",
+      "sentence_ko": "집을 떠나야 했을 때 극심한 슬픔을 느꼈다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The storm caused severe damage to homes in the area.",
+      "sentence_ko": "폭풍이 지역의 집들에 심각한 피해를 입혔다.",
+      "tags": ["home", "disaster"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "She suffered severe injuries in the soccer accident.",
+      "sentence_ko": "그녀는 축구 사고로 심한 부상을 입었다.",
+      "tags": ["soccer", "medical"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The medical condition requires severe restrictions on diet and activity.",
+      "sentence_ko": "그 의학적 상태는 식단과 활동에 대한 가혹한 제한을 요구한다.",
+      "tags": ["medical", "health"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "We're experiencing severe delays in our travel schedule.",
+      "sentence_ko": "우리 여행 스케줄에 심각한 지연이 발생하고 있어.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The smartphone sustained severe damage from the fall.",
+      "sentence_ko": "스마트폰이 떨어져서 심각한 손상을 입었다.",
+      "tags": ["smartphone", "damage"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "His severe tone made everyone feel uncomfortable at home.",
+      "sentence_ko": "그의 엄격한 말투가 집에서 모두를 불편하게 만들었다.",
+      "tags": ["home", "feeling"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "The medical discovery had a profound impact on treatment options.",
+      "sentence_ko": "그 의학적 발견은 치료 옵션에 심오한 영향을 미쳤다.",
+      "tags": ["medical", "breakthrough"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "Traveling alone gave me profound insights about myself.",
+      "sentence_ko": "혼자 여행하면서 나 자신에 대한 심오한 통찰을 얻었다.",
+      "tags": ["travel", "growth"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "The loss of his home caused profound sadness and grief.",
+      "sentence_ko": "집을 잃은 것이 깊은 슬픔과 비통함을 야기했다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "Technology has had a profound effect on how we cook today.",
+      "sentence_ko": "기술은 오늘날 우리가 요리하는 방식에 엄청난 영향을 미쳤다.",
+      "tags": ["cooking", "technology"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "His words had a profound influence on my feelings and decisions.",
+      "sentence_ko": "그의 말은 내 감정과 결정에 깊은 영향을 미쳤다.",
+      "tags": ["feeling", "influence"]
+    },
+    {
+      "word": "Profound",
+      "sentence_en": "The smartphone revolution created profound changes in society.",
+      "sentence_ko": "스마트폰 혁명은 사회에 심오한 변화를 만들었다.",
+      "tags": ["smartphone", "society"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "She has a deep understanding of medical procedures.",
+      "sentence_ko": "그녀는 의료 절차에 대한 깊은 이해를 가지고 있다.",
+      "tags": ["medical", "knowledge"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "I felt deep sadness when leaving my childhood home.",
+      "sentence_ko": "어린 시절 집을 떠날 때 깊은 슬픔을 느꼈다.",
+      "tags": ["home", "sad"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "The soccer team has deep talent throughout the roster.",
+      "sentence_ko": "축구팀은 로스터 전체에 걸쳐 깊은 인재풀을 가지고 있다.",
+      "tags": ["soccer", "quality"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "Technology is having a deep impact on cooking methods.",
+      "sentence_ko": "기술이 요리 방법에 깊은 영향을 미치고 있다.",
+      "tags": ["cooking", "technology"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "We need to have a deep conversation about our travel plans.",
+      "sentence_ko": "우리 여행 계획에 대해 깊은 대화를 나눌 필요가 있어.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Deep",
+      "sentence_en": "His deep feelings for his home never faded over time.",
+      "sentence_ko": "집에 대한 그의 깊은 감정은 시간이 지나도 사라지지 않았다.",
+      "tags": ["home", "feeling"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The medical board faces a weighty decision about treatment protocols.",
+      "sentence_ko": "의료 위원회는 치료 프로토콜에 대한 중대한 결정에 직면해 있다.",
+      "tags": ["medical", "decision"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "Buying a home is a weighty financial commitment.",
+      "sentence_ko": "집을 사는 건 중대한 재정적 약속이다.",
+      "tags": ["home", "finance"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The coach presented weighty arguments for changing the soccer strategy.",
+      "sentence_ko": "코치는 축구 전략을 바꾸기 위한 중대한 논거를 제시했다.",
+      "tags": ["soccer", "strategy"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "We need to discuss this weighty matter on our schedule tomorrow.",
+      "sentence_ko": "내일 스케줄에서 이 중대한 문제를 논의해야 해.",
+      "tags": ["schedule", "important"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The book addresses weighty topics about technology and society.",
+      "sentence_ko": "그 책은 기술과 사회에 관한 중대한 주제를 다룬다.",
+      "tags": ["technology", "society"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "The medical breakthrough was a monumental achievement for science.",
+      "sentence_ko": "그 의학적 돌파구는 과학에 기념비적인 성취였다.",
+      "tags": ["medical", "achievement"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "Winning the soccer championship was a monumental moment for the team.",
+      "sentence_ko": "축구 챔피언십 우승은 팀에게 기념비적인 순간이었다.",
+      "tags": ["soccer", "victory"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "The smartphone represents a monumental shift in technology.",
+      "sentence_ko": "스마트폰은 기술의 기념비적인 변화를 나타낸다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "Leaving home for college was a monumental decision in my life.",
+      "sentence_ko": "대학 가려고 집을 떠난 건 내 인생의 기념비적인 결정이었다.",
+      "tags": ["home", "decision"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "The schedule change required monumental effort from everyone.",
+      "sentence_ko": "스케줄 변경은 모두에게 엄청난 노력을 요구했다.",
+      "tags": ["schedule", "effort"]
+    },
+    {
+      "word": "Consequential",
+      "sentence_en": "The medical decision was consequential for the patient's future.",
+      "sentence_ko": "그 의료 결정은 환자의 미래에 중대한 결과를 가져왔다.",
+      "tags": ["medical", "important"]
+    },
+    {
+      "word": "Consequential",
+      "sentence_en": "Every soccer match at this stage is consequential for playoff positioning.",
+      "sentence_ko": "이 단계의 모든 축구 경기는 플레이오프 순위에 중대한 결과를 가져온다.",
+      "tags": ["soccer", "important"]
+    },
+    {
+      "word": "Consequential",
+      "sentence_en": "The technology update had consequential effects on smartphone performance.",
+      "sentence_ko": "기술 업데이트는 스마트폰 성능에 중대한 영향을 미쳤다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Consequential",
+      "sentence_en": "Choosing where to travel can be more consequential than you think.",
+      "sentence_ko": "어디로 여행할지 선택하는 게 생각보다 중대한 결과를 가져올 수 있어.",
+      "tags": ["travel", "decision"]
+    },
+    {
+      "word": "Consequential",
+      "sentence_en": "The schedule adjustment proved consequential for the entire project.",
+      "sentence_ko": "스케줄 조정은 전체 프로젝트에 중대한 결과를 가져온 것으로 입증됐다.",
+      "tags": ["schedule", "impact"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "There was substantial improvement in the patient's medical condition.",
+      "sentence_ko": "환자의 의료 상태에 상당한 개선이 있었다.",
+      "tags": ["medical", "improvement"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "The soccer team made substantial progress this season.",
+      "sentence_ko": "축구팀은 이번 시즌 상당한 진전을 이뤘다.",
+      "tags": ["soccer", "progress"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "Renovating my home required substantial time and money.",
+      "sentence_ko": "집을 리모델링하는 데 상당한 시간과 돈이 필요했다.",
+      "tags": ["home", "expense"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "The new smartphone offers substantial improvements over the old model.",
+      "sentence_ko": "새 스마트폰은 구형 모델보다 상당한 개선을 제공한다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "We need substantial changes to our travel schedule.",
+      "sentence_ko": "우리 여행 스케줄에 상당한 변경이 필요해.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "Cooking skills require substantial practice to develop properly.",
+      "sentence_ko": "요리 기술은 제대로 발전시키려면 상당한 연습이 필요하다.",
+      "tags": ["cooking", "learning"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "The medical situation is pressing and needs immediate attention.",
+      "sentence_ko": "의료 상황이 긴박하고 즉각적인 조치가 필요하다.",
+      "tags": ["medical", "urgent"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "We have pressing matters to discuss about our home finances.",
+      "sentence_ko": "집 재정에 대해 논의해야 할 긴박한 문제들이 있어.",
+      "tags": ["home", "finance"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "There are pressing deadlines on my schedule this week.",
+      "sentence_ko": "이번 주 내 스케줄에 긴박한 마감일들이 있어.",
+      "tags": ["schedule", "urgent"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "The soccer team faces pressing challenges before the championship.",
+      "sentence_ko": "축구팀은 챔피언십 전에 긴박한 도전에 직면해 있다.",
+      "tags": ["soccer", "challenge"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "The technology failure created a pressing need for backup systems.",
+      "sentence_ko": "기술 고장이 백업 시스템에 대한 긴박한 필요를 만들었다.",
+      "tags": ["technology", "problem"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "The patient requires urgent medical care immediately.",
+      "sentence_ko": "환자는 즉시 시급한 의료 조치가 필요하다.",
+      "tags": ["medical", "emergency"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "We received an urgent message about our travel schedule change.",
+      "sentence_ko": "여행 스케줄 변경에 대한 긴급 메시지를 받았어.",
+      "tags": ["travel", "schedule"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "There's an urgent need to fix my smartphone before the trip.",
+      "sentence_ko": "여행 전에 내 스마트폰을 고쳐야 할 시급한 필요가 있어.",
+      "tags": ["smartphone", "travel"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "The soccer coach called an urgent team meeting.",
+      "sentence_ko": "축구 코치가 긴급 팀 회의를 소집했다.",
+      "tags": ["soccer", "meeting"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "I felt an urgent need to return home when I heard the news.",
+      "sentence_ko": "그 소식을 듣고 집으로 돌아가야 한다는 시급한 필요를 느꼈다.",
+      "tags": ["home", "feeling"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "There's an urgent problem with the cooking schedule for tonight.",
+      "sentence_ko": "오늘 밤 요리 스케줄에 시급한 문제가 있어.",
+      "tags": ["cooking", "schedule"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Patient safety is paramount in all medical procedures.",
+      "sentence_ko": "환자 안전은 모든 의료 절차에서 최고로 중요하다.",
+      "tags": ["medical", "safety"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Your health should be paramount when planning your travel schedule.",
+      "sentence_ko": "여행 스케줄을 계획할 때 네 건강이 최우선이어야 해.",
+      "tags": ["travel", "health"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Security is paramount when using your smartphone for banking.",
+      "sentence_ko": "스마트폰으로 뱅킹할 때 보안이 최고로 중요하다.",
+      "tags": ["smartphone", "security"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Winning the soccer match is paramount for reaching the finals.",
+      "sentence_ko": "축구 경기 승리는 결승 진출을 위해 최고로 중요하다.",
+      "tags": ["soccer", "goal"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Family happiness is paramount when making decisions about home.",
+      "sentence_ko": "집에 대한 결정을 내릴 때 가족의 행복이 최우선이다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Paramount",
+      "sentence_en": "Food safety is paramount in all aspects of cooking.",
+      "sentence_ko": "음식 안전은 요리의 모든 측면에서 최고로 중요하다.",
+      "tags": ["cooking", "safety"]
+    }
+  ]
+}

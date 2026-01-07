@@ -1,0 +1,219 @@
+[
+  {
+    "card_id": "486d65ca-383e-4570-8c3f-4bbf715a243a",
+    "word": "Concise",
+    "meaning": "간결한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "9aa0dee5-6fe3-42ee-bdc3-681432bdefba",
+    "word": "Brief",
+    "meaning": "짧은, 잠시의",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "fe75bdfd-fecf-449c-b744-6a1dc81e2270",
+    "word": "Succinct",
+    "meaning": "간단명료한  cinch",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "dbde9c12-db0a-42d4-b303-e164815ef35d",
+    "word": "Laconic",
+    "meaning": "과묵한, 말수가 적은",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "be2177c7-235d-45ba-8cb7-8123d5385653",
+    "word": "Reticent",
+    "meaning": "말을 아끼는 (신중함)",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "7bb839fb-3dbc-423c-82ad-a64c1ee2ba4c",
+    "word": "Taciturn",
+    "meaning": "무뚝뚝한, 말이 없는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "5ac7b802-b763-49b5-9281-a3798af2249f",
+    "word": "tacit [tǽsit]",
+    "meaning": "무언의",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "a3bf5661-bb9a-4906-af8b-aa7073c7a38f",
+    "word": "Pithy",
+    "meaning": "함축적인, 핵심을 찌르는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "71683d26-2fe6-49ee-b4de-e05cfc0b373f",
+    "word": "Wordy",
+    "meaning": "말이 많은, 너저분한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "5d9848da-9863-49ab-80ae-e4dfc81c5a4e",
+    "word": "Terse",
+    "meaning": "(퉁명스럽게) 간결한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "698df5f7-7713-43c1-bbca-54dda9f715da",
+    "word": "Loquacious",
+    "meaning": "수다스러운 (격식)라.Loqui말하다",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "16d8da2f-9a70-46d9-b8c9-1264d8202207",
+    "word": "Verbose",
+    "meaning": "장황한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "6c0228cf-44c5-4d75-89e1-91f85dd8faf5",
+    "word": "Long-winded",
+    "meaning": "길게 늘어놓는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "98e88d13-6e94-4e9b-bab7-bea82e182f05",
+    "word": "Garrulous",
+    "meaning": "주책없이 수다스러운 (갈갈이)",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "f2eb1835-8086-48e8-bbaf-347128eb32e8",
+    "word": "Comprehensive",
+    "meaning": "포괄적인",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "745186b8-070f-45f3-a3ef-f0e45bab2e25",
+    "word": "Chatty",
+    "meaning": "수다 떠는, 잡담하는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "a3661352-521d-444b-ab8c-a79b05948a48",
+    "word": "Talkative",
+    "meaning": "말하기 좋아하는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "676b4789-559f-4810-856c-496c75cff641",
+    "word": "Silent",
+    "meaning": "침묵하는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "f0b56988-d1ef-40e1-9f23-29ed75fe8ad9",
+    "word": "Detailed",
+    "meaning": "상세한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "c029d3e4-a344-4e35-8c9a-fa23c6b14bf1",
+    "word": "Elaborate",
+    "meaning": "상세히 설명하다",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "df30aece-146f-459d-afbf-8eba674589ba",
+    "word": "Exhaustive",
+    "meaning": "철저한, 남김없는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "b5f83605-5849-4119-b304-152b4e03cb56",
+    "word": "Sketchy",
+    "meaning": "대략적인, 불완전한",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "d3e25fe5-bbab-47e2-a83a-6785d387b916",
+    "word": "Summarized",
+    "meaning": "요약된",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "c4b941d0-0605-450b-899f-6503af6bc884",
+    "word": "Abbreviated",
+    "meaning": "축약된",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "8699b088-a527-4d3f-9ab4-bc088d7f07e5",
+    "word": "Redundant",
+    "meaning": "불필요하게 중복되는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "4a80de19-aace-4383-8d60-769586777d08",
+    "word": "Meandering",
+    "meaning": "두서없는, 정처 없는 (터키의 구불강)",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "5cd10bc9-914c-47e0-bda5-f443b01dda5a",
+    "word": "Repetitive",
+    "meaning": "반복적인",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "9238ae66-adb9-4ff3-ad47-b4a3d781c0a1",
+    "word": "Digressive",
+    "meaning": "주제를 벗어나는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "0f3dd96a-716e-420e-8051-1446eea7a165",
+    "word": "To the point",
+    "meaning": "핵심을 찌르는",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "351a11c6-1acc-4802-aa54-de8c92ece3ca",
+    "word": "Curt",
+    "meaning": "퉁명스러운",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  },
+  {
+    "card_id": "617ef1c9-e415-4474-8624-4e795e628f9f",
+    "word": "Economy of words",
+    "meaning": "절제된 언어",
+    "deck_id": "c3412b9e-a009-4a66-aa8e-5a47a15fc60f",
+    "deck_name": "BREVITY_VERBOSITY"
+  }
+]

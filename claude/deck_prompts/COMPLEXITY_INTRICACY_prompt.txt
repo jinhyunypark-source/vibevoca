@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: COMPLEXITY_INTRICACY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Complex - 복잡한 (여러 부분이 섞여 있어 이해가 필요한)
+2. Complicated - 복잡한 (이해하거나 풀기 까다로운)
+3. Intricate - 얽히고설킨, 정교한 (세부 사항이 많고 미세한)
+4. Convoluted - 대단히 난해한, 꼬인 (너무 꼬여서 이해하기 힘든)
+5. Labyrinthine - 미로 같은 (길을 잃을 만큼 복잡한)
+6. Tortuous - 구불구불한, 비틀린 (길이나 논리가 꼬인)
+7. Abstruse - 난해한 (심오해서 이해하기 어려운)
+8. Involved - 복잡한, 뒤얽힌 (많은 요소가 관련되어 까다로운)
+9. Knotty - 매듭이 많은, 얽힌 (풀기 어려운 문제)
+10. Elaborate - 정교한, 공들인 (복잡하게 짜인)
+11. Tangled - 뒤엉킨 (실타래처럼 꼬인)
+12. Messy - 지저분한, 골치 아픈 (상황이 정리되지 않은)
+13. Baffling - 도저히 이해할 수 없는 (완전히 당황하게 하는)
+14. Chaotic - 혼란스러운 (무질서하고 복잡한)
+15. Bewildering - 어리둥절하게 만드는 (너무 복잡해서 당혹스러운)
+16. Puzzling - 이해하기 힘든, 곤혹스러운 (수수께끼 같은)
+17. Mystifying - 신비한, 알 수 없는 (기이해서 복잡한)
+18. Cryptic - 수수께끼 같은, 아리송한 (의미가 숨겨진)
+19. Enigmatic - 불가사의한 (신비롭고 이해하기 어려운)
+20. Obscure - 모호한, 이해하기 힘든 (뜻이 불분명한)
+21. Recondite - 심오한, 난해한 (많이 알려지지 않아 어려운)
+22. Impenetrable - 파악할 수 없는 (뚫고 들어갈 수 없는)
+23. Sophisticated - 정교한, 복잡한 (고도로 발달된)
+24. Multifaceted - 다면적인 (여러 측면이 있는)
+25. Multidimensional - 다차원의 (여러 차원이 얽힌)
+26. Byzantine - 비잔틴 양식의, 복잡한 (권모술수가 횡행하고 구조가 복잡한)
+27. Perplexing - 착잡한, 복잡한 (당혹스러운)
+28. Disorienting - 혼란스러운 (방향을 잃게 만드는)
+29. Dense - 난해한 (내용이 빽빽하고 어려움)
+30. Tricky - 까다로운 (단순해 보이나 복잡한)
+
+## 추천 태그 (상황/맥락)
+medical, schedule, weather, education, warm, fashion, sport, food, dining, travel
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "COMPLEXITY_INTRICACY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "COMPLEXITY_INTRICACY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

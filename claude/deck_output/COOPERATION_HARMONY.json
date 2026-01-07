@@ -1,0 +1,906 @@
+{
+  "deck_title": "COOPERATION_HARMONY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Compatible",
+      "sentence_en": "We are very compatible roommates because we both like quiet evenings.",
+      "sentence_ko": "우리는 둘 다 조용한 저녁을 좋아해서 정말 잘 맞는 룸메이트입니다.",
+      "tags": ["university", "friendship", "school"]
+    },
+    {
+      "word": "Compatible",
+      "sentence_en": "This new software is not compatible with older computer systems.",
+      "sentence_ko": "이 새 소프트웨어는 구형 컴퓨터 시스템과 호환되지 않습니다.",
+      "tags": ["develope", "school", "marketing"]
+    },
+    {
+      "word": "Compatible",
+      "sentence_en": "White wine is generally considered compatible with seafood dishes.",
+      "sentence_ko": "화이트 와인은 일반적으로 해산물 요리와 잘 어울린다고 여겨집니다.",
+      "tags": ["food", "restaurant", "dining"]
+    },
+    {
+      "word": "Compatible",
+      "sentence_en": "It is rare to find a friend who is so compatible with your values.",
+      "sentence_ko": "당신의 가치관과 이렇게 잘 맞는 친구를 찾기는 드문 일입니다.",
+      "tags": ["friendship", "university", "school"]
+    },
+    {
+      "word": "Compatible",
+      "sentence_en": "Our working styles are compatible, making the project run smoothly.",
+      "sentence_ko": "우리의 업무 스타일이 잘 맞아서 프로젝트가 순조롭게 진행됩니다.",
+      "tags": ["marketing", "develope", "friendship"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "We strive to maintain a harmonious atmosphere in the marketing team.",
+      "sentence_ko": "우리는 마케팅 팀 내에서 조화로운 분위기를 유지하려고 노력합니다.",
+      "tags": ["marketing", "friendship", "university"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The movie soundtrack created a harmonious blend of emotions.",
+      "sentence_ko": "그 영화의 사운드트랙은 감정의 조화로운 융합을 만들어냈습니다.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The building design is harmonious with the surrounding nature.",
+      "sentence_ko": "그 건물의 디자인은 주변 자연과 조화롭습니다.",
+      "tags": ["outdoor", "vacation", "develope"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The colors in the restaurant are very harmonious and relaxing.",
+      "sentence_ko": "식당의 색상들이 매우 조화롭고 편안한 느낌을 줍니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "They have a harmonious relationship based on mutual respect.",
+      "sentence_ko": "그들은 상호 존중을 바탕으로 조화로운 관계를 맺고 있습니다.",
+      "tags": ["friendship", "university", "school"]
+    },
+    {
+      "word": "Cooperative",
+      "sentence_en": "The students were cooperative during the group activity in class.",
+      "sentence_ko": "학생들은 수업 중 그룹 활동에서 매우 협조적이었습니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Cooperative",
+      "sentence_en": "We need a cooperative effort to finish this marketing campaign on time.",
+      "sentence_ko": "이 마케팅 캠페인을 제때 끝내려면 협력적인 노력이 필요합니다.",
+      "tags": ["marketing", "develope", "friendship"]
+    },
+    {
+      "word": "Cooperative",
+      "sentence_en": "He was very cooperative when I asked for directions on the street.",
+      "sentence_ko": "거리에서 길을 물었을 때 그는 매우 협조적이었습니다.",
+      "tags": ["outdoor", "vacation", "friendship"]
+    },
+    {
+      "word": "Cooperative",
+      "sentence_en": "Cooperative games are great for building friendship among children.",
+      "sentence_ko": "협동 게임은 아이들 사이의 우정을 쌓는 데 아주 좋습니다.",
+      "tags": ["friendship", "school", "outdoor"]
+    },
+    {
+      "word": "Cooperative",
+      "sentence_en": "The development team was cooperative in fixing the sudden bugs.",
+      "sentence_ko": "개발팀은 갑작스러운 버그를 수정하는 데 협조적이었습니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Reciprocal",
+      "sentence_en": "Friendship should be a reciprocal relationship, not one-sided.",
+      "sentence_ko": "우정은 일방적인 것이 아니라 상호 간의 관계여야 합니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Reciprocal",
+      "sentence_en": "We have a reciprocal agreement to promote each other's products.",
+      "sentence_ko": "우리는 서로의 제품을 홍보해 주기로 상호 협약을 맺었습니다.",
+      "tags": ["marketing", "develope", "business"]
+    },
+    {
+      "word": "Reciprocal",
+      "sentence_en": "Respect is reciprocal; you have to give it to get it.",
+      "sentence_ko": "존중은 상호적인 것입니다. 받으려면 먼저 주어야 합니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Reciprocal",
+      "sentence_en": "They visited us last summer, so this trip is a reciprocal visit.",
+      "sentence_ko": "지난여름에 그들이 방문했으니, 이번 여행은 답방(상호 방문)입니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Reciprocal",
+      "sentence_en": "The feeling of admiration between the two actors was reciprocal.",
+      "sentence_ko": "두 배우 사이의 존경심은 상호 간의 것이었습니다.",
+      "tags": ["movie", "friendship", "university"]
+    },
+    {
+      "word": "Cordial",
+      "sentence_en": "The host gave us a cordial welcome at the restaurant.",
+      "sentence_ko": "주인은 식당에서 우리를 화기애애하게 맞아주었습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Cordial",
+      "sentence_en": "Despite the fierce competition, the two companies remained cordial.",
+      "sentence_ko": "치열한 경쟁에도 불구하고 두 회사는 정중한 관계를 유지했습니다.",
+      "tags": ["marketing", "develope", "university"]
+    },
+    {
+      "word": "Cordial",
+      "sentence_en": "The professors maintain a cordial relationship with the students.",
+      "sentence_ko": "교수님들은 학생들과 정중하고 화기애애한 관계를 유지합니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Cordial",
+      "sentence_en": "We had a cordial discussion about the new development plan.",
+      "sentence_ko": "우리는 새로운 개발 계획에 대해 화기애애한 논의를 했습니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Cordial",
+      "sentence_en": "We are on cordial terms with our neighbors next door.",
+      "sentence_ko": "우리는 옆집 이웃들과 화기애애하게 지내고 있습니다.",
+      "tags": ["friendship", "outdoor", "vacation"]
+    },
+    {
+      "word": "Amicable",
+      "sentence_en": "We reached an amicable solution to the scheduling conflict.",
+      "sentence_ko": "우리는 일정 충돌에 대해 원만한 해결책을 찾았습니다.",
+      "tags": ["school", "university", "marketing"]
+    },
+    {
+      "word": "Amicable",
+      "sentence_en": "The business partnership ended in an amicable way.",
+      "sentence_ko": "그 비즈니스 파트너십은 원만하게 끝났습니다.",
+      "tags": ["marketing", "develope", "university"]
+    },
+    {
+      "word": "Amicable",
+      "sentence_en": "They settled the dispute over the fence in an amicable manner.",
+      "sentence_ko": "그들은 울타리 분쟁을 우호적인 방식으로 해결했습니다.",
+      "tags": ["friendship", "outdoor", "school"]
+    },
+    {
+      "word": "Amicable",
+      "sentence_en": "The opposing teams remained amicable after the soccer match.",
+      "sentence_ko": "상대 팀들은 축구 경기가 끝난 후에도 우호적인 태도를 유지했습니다.",
+      "tags": ["outdoor", "friendship", "school"]
+    },
+    {
+      "word": "Amicable",
+      "sentence_en": "Creating an amicable atmosphere is essential for team creativity.",
+      "sentence_ko": "원만한 분위기를 조성하는 것은 팀의 창의성에 필수적입니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Collaborative",
+      "sentence_en": "This software is a collaborative tool for remote developers.",
+      "sentence_ko": "이 소프트웨어는 원격 개발자들을 위한 협업 도구입니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Collaborative",
+      "sentence_en": "The collaborative project required input from every student.",
+      "sentence_ko": "그 협력 프로젝트는 모든 학생의 참여를 필요로 했습니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Collaborative",
+      "sentence_en": "We are planning a collaborative marketing campaign with a fashion brand.",
+      "sentence_ko": "우리는 패션 브랜드와 협력적인 마케팅 캠페인을 계획하고 있습니다.",
+      "tags": ["marketing", "develope", "school"]
+    },
+    {
+      "word": "Collaborative",
+      "sentence_en": "Filmmaking is a highly collaborative process involving many artists.",
+      "sentence_ko": "영화 제작은 많은 예술가가 참여하는 고도의 협업 과정입니다.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Collaborative",
+      "sentence_en": "Collaborative learning helps students understand diverse perspectives.",
+      "sentence_ko": "협력 학습은 학생들이 다양한 관점을 이해하도록 돕습니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Supportive",
+      "sentence_en": "A supportive friend listens to you when you are sad.",
+      "sentence_ko": "지지가 되는 친구는 당신이 슬플 때 이야기를 들어줍니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Supportive",
+      "sentence_en": "My manager is very supportive of my career development.",
+      "sentence_ko": "제 매니저는 제 경력 개발을 매우 지지해 줍니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Supportive",
+      "sentence_en": "The university provides a supportive environment for international students.",
+      "sentence_ko": "그 대학교는 유학생들에게 힘이 되는 환경을 제공합니다.",
+      "tags": ["university", "school", "vacation"]
+    },
+    {
+      "word": "Supportive",
+      "sentence_en": "Teammates should be supportive of each other during the game.",
+      "sentence_ko": "팀원들은 경기 중에 서로에게 힘이 되어야 합니다.",
+      "tags": ["outdoor", "friendship", "school"]
+    },
+    {
+      "word": "Supportive",
+      "sentence_en": "Thank you for being so supportive during my vacation planning.",
+      "sentence_ko": "휴가 계획을 세우는 동안 많이 도와주셔서 감사합니다.",
+      "tags": ["vacation", "friendship", "travel"]
+    },
+    {
+      "word": "Loyal",
+      "sentence_en": "Loyal customers are the key to a successful restaurant business.",
+      "sentence_ko": "충성도 높은 고객은 성공적인 식당 비즈니스의 열쇠입니다.",
+      "tags": ["restaurant", "food", "marketing"]
+    },
+    {
+      "word": "Loyal",
+      "sentence_en": "He has been a loyal friend since we were in elementary school.",
+      "sentence_ko": "그는 초등학교 때부터 의리 있는 친구였습니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Loyal",
+      "sentence_en": "I am loyal to this electronics brand because their quality is consistent.",
+      "sentence_ko": "품질이 한결같아서 저는 이 전자제품 브랜드에 충성합니다.",
+      "tags": ["marketing", "develope", "friendship"]
+    },
+    {
+      "word": "Loyal",
+      "sentence_en": "Dogs are known for being loyal companions to humans.",
+      "sentence_ko": "개는 인간에게 충성스러운 동반자로 알려져 있습니다.",
+      "tags": ["outdoor", "friendship", "vacation"]
+    },
+    {
+      "word": "Loyal",
+      "sentence_en": "The fans remained loyal despite the team losing the match.",
+      "sentence_ko": "팀이 경기에서 졌음에도 팬들은 의리를 지켰습니다.",
+      "tags": ["university", "outdoor", "friendship"]
+    },
+    {
+      "word": "Trustworthy",
+      "sentence_en": "You need a trustworthy friend to share your deepest secrets with.",
+      "sentence_ko": "가장 깊은 비밀을 나누려면 신뢰할 수 있는 친구가 필요합니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Trustworthy",
+      "sentence_en": "It is hard to find trustworthy reviews for restaurants these days.",
+      "sentence_ko": "요즘은 식당에 대한 신뢰할 수 있는 리뷰를 찾기가 어렵습니다.",
+      "tags": ["restaurant", "food", "marketing"]
+    },
+    {
+      "word": "Trustworthy",
+      "sentence_en": "He is a trustworthy developer who handles sensitive user data.",
+      "sentence_ko": "그는 민감한 사용자 데이터를 다루는 믿음직한 개발자입니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Trustworthy",
+      "sentence_en": "We hired a trustworthy guide for our hiking trip in the mountains.",
+      "sentence_ko": "우리는 산악 하이킹 여행을 위해 믿을 만한 가이드를 고용했습니다.",
+      "tags": ["vacation", "outdoor", "friendship"]
+    },
+    {
+      "word": "Trustworthy",
+      "sentence_en": "In marketing, being trustworthy builds a good reputation with clients.",
+      "sentence_ko": "마케팅에서 신뢰를 주는 것은 고객과의 좋은 평판을 쌓게 합니다.",
+      "tags": ["marketing", "business", "develope"]
+    },
+    {
+      "word": "Reliable",
+      "sentence_en": "We need a reliable car for our road trip vacation.",
+      "sentence_ko": "자동차 여행 휴가를 위해서는 믿을 만한 차가 필요합니다.",
+      "tags": ["vacation", "outdoor", "friendship"]
+    },
+    {
+      "word": "Reliable",
+      "sentence_en": "She is a reliable student who always hands in homework on time.",
+      "sentence_ko": "그녀는 숙제를 항상 제때 제출하는 믿음직한 학생입니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Reliable",
+      "sentence_en": "A reliable internet connection is crucial for software development.",
+      "sentence_ko": "안정적인 인터넷 연결은 소프트웨어 개발에 매우 중요합니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Reliable",
+      "sentence_en": "This website is a reliable source for honest movie reviews.",
+      "sentence_ko": "이 웹사이트는 솔직한 영화 리뷰를 볼 수 있는 믿을 만한 곳입니다.",
+      "tags": ["movie", "marketing", "friendship"]
+    },
+    {
+      "word": "Reliable",
+      "sentence_en": "That restaurant is a reliable place for a good steak dinner.",
+      "sentence_ko": "저 식당은 맛있는 스테이크 저녁을 먹기에 믿을 만한 곳입니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Dependable",
+      "sentence_en": "He is the most dependable person I know; he's always there.",
+      "sentence_ko": "그는 제가 아는 가장 의지할 수 있는 사람입니다. 항상 곁에 있어 줍니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Dependable",
+      "sentence_en": "You need dependable gear for outdoor camping in the winter.",
+      "sentence_ko": "겨울철 야외 캠핑에는 의지할 수 있는 장비가 필요합니다.",
+      "tags": ["outdoor", "vacation", "friendship"]
+    },
+    {
+      "word": "Dependable",
+      "sentence_en": "A dependable employee is valuable to any marketing team.",
+      "sentence_ko": "믿음직한 직원은 어느 마케팅 팀에게나 소중합니다.",
+      "tags": ["marketing", "develope", "school"]
+    },
+    {
+      "word": "Dependable",
+      "sentence_en": "The university offers dependable shuttle services for students.",
+      "sentence_ko": "그 대학교는 학생들을 위해 믿을 만한 셔틀 서비스를 제공합니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Dependable",
+      "sentence_en": "I need a dependable partner for this difficult project.",
+      "sentence_ko": "이 어려운 프로젝트를 위해 의지할 수 있는 파트너가 필요합니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Helpful",
+      "sentence_en": "The hotel staff was very helpful during our vacation.",
+      "sentence_ko": "호텔 직원들은 우리 휴가 기간 동안 매우 도움이 되었습니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Helpful",
+      "sentence_en": "The online reviews were helpful in choosing a good restaurant.",
+      "sentence_ko": "온라인 리뷰는 좋은 식당을 고르는 데 도움이 되었습니다.",
+      "tags": ["restaurant", "food", "marketing"]
+    },
+    {
+      "word": "Helpful",
+      "sentence_en": "It is helpful to have friends who study the same subject.",
+      "sentence_ko": "같은 과목을 공부하는 친구가 있다는 것은 도움이 됩니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Helpful",
+      "sentence_en": "Constructive feedback is helpful for self-development and growth.",
+      "sentence_ko": "건설적인 피드백은 자기 계발과 성장에 도움이 됩니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Helpful",
+      "sentence_en": "This video tutorial was helpful for editing the movie clips.",
+      "sentence_ko": "이 비디오 튜토리얼은 영화 클립을 편집하는 데 유용했습니다.",
+      "tags": ["movie", "develope", "friendship"]
+    },
+    {
+      "word": "Allied",
+      "sentence_en": "The two tech companies are allied to develop better AI.",
+      "sentence_ko": "두 기술 회사는 더 나은 AI를 개발하기 위해 동맹을 맺었습니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Allied",
+      "sentence_en": "Several school clubs are allied to organize the spring festival.",
+      "sentence_ko": "여러 학교 동아리가 봄 축제를 조직하기 위해 연합했습니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Allied",
+      "sentence_en": "Nutrition and exercise are allied in maintaining good health.",
+      "sentence_ko": "영양 섭취와 운동은 건강 유지에 있어 밀접하게 연결되어 있습니다.",
+      "tags": ["outdoor", "food", "school"]
+    },
+    {
+      "word": "Allied",
+      "sentence_en": "We are allied in our mission to clean up the beach.",
+      "sentence_ko": "우리는 해변을 청소하려는 임무에 뜻을 함께하고 있습니다.",
+      "tags": ["outdoor", "vacation", "friendship"]
+    },
+    {
+      "word": "Allied",
+      "sentence_en": "Allied forces worked together to solve the complex problem.",
+      "sentence_ko": "연합군은 복잡한 문제를 해결하기 위해 함께 일했습니다.",
+      "tags": ["university", "school", "marketing"]
+    },
+    {
+      "word": "United",
+      "sentence_en": "The team stood united against the unfair referee decision.",
+      "sentence_ko": "팀은 불공정한 심판 판정에 맞서 하나로 뭉쳤습니다.",
+      "tags": ["school", "outdoor", "friendship"]
+    },
+    {
+      "word": "United",
+      "sentence_en": "We were united in our decision to go to Hawaii for vacation.",
+      "sentence_ko": "우리는 하와이로 휴가를 가자는 결정에 만장일치였습니다.",
+      "tags": ["vacation", "friendship", "family"]
+    },
+    {
+      "word": "United",
+      "sentence_en": "The community was united to support the local restaurant.",
+      "sentence_ko": "지역 사회는 그 지역 식당을 돕기 위해 하나가 되었습니다.",
+      "tags": ["restaurant", "food", "friendship"]
+    },
+    {
+      "word": "United",
+      "sentence_en": "The marketing department is united under a new creative vision.",
+      "sentence_ko": "마케팅 부서는 새로운 창의적 비전 아래 단결되었습니다.",
+      "tags": ["marketing", "develope", "university"]
+    },
+    {
+      "word": "United",
+      "sentence_en": "Good friends stay united through difficult times.",
+      "sentence_ko": "좋은 친구들은 힘든 시기에도 서로 굳게 뭉칩니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Cohesive",
+      "sentence_en": "A cohesive team performs better in software development projects.",
+      "sentence_ko": "단합된 팀은 소프트웨어 개발 프로젝트에서 더 나은 성과를 냅니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Cohesive",
+      "sentence_en": "The marketing campaign has a cohesive visual style across all ads.",
+      "sentence_ko": "그 마케팅 캠페인은 모든 광고에 걸쳐 통일성 있는 시각적 스타일을 갖추고 있습니다.",
+      "tags": ["marketing", "develope", "movie"]
+    },
+    {
+      "word": "Cohesive",
+      "sentence_en": "The movie plot was not very cohesive and felt confusing.",
+      "sentence_ko": "영화 줄거리가 별로 응집력이 없어서 혼란스럽게 느껴졌습니다.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Cohesive",
+      "sentence_en": "The study group became more cohesive over the semester.",
+      "sentence_ko": "스터디 그룹은 학기가 지날수록 더욱 결속력이 강해졌습니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Cohesive",
+      "sentence_en": "The restaurant's decor is very cohesive and stylish.",
+      "sentence_ko": "그 식당의 인테리어는 매우 통일감 있고 세련되었습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Mutual",
+      "sentence_en": "We met through a mutual friend at university.",
+      "sentence_ko": "우리는 대학교 때 공통의 친구를 통해 만났습니다.",
+      "tags": ["university", "friendship", "school"]
+    },
+    {
+      "word": "Mutual",
+      "sentence_en": "Mutual respect is the foundation of our business partnership.",
+      "sentence_ko": "상호 존중은 우리 비즈니스 파트너십의 기초입니다.",
+      "tags": ["marketing", "develope", "university"]
+    },
+    {
+      "word": "Mutual",
+      "sentence_en": "The deal was based on mutual benefit for both companies.",
+      "sentence_ko": "그 거래는 양사 모두의 상호 이익을 바탕으로 했습니다.",
+      "tags": ["develope", "marketing", "business"]
+    },
+    {
+      "word": "Mutual",
+      "sentence_en": "We discovered a mutual interest in classic movies.",
+      "sentence_ko": "우리는 고전 영화에 대한 공통된 관심사를 발견했습니다.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Mutual",
+      "sentence_en": "It was a mutual decision to go to Italy for vacation.",
+      "sentence_ko": "이탈리아로 휴가를 가는 것은 상호 간의 결정이었습니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Understanding",
+      "sentence_en": "The professor was understanding about my late assignment submission.",
+      "sentence_ko": "교수님은 제 과제 제출이 늦은 것에 대해 이해해 주셨습니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Understanding",
+      "sentence_en": "She is a very understanding friend who listens well.",
+      "sentence_ko": "그녀는 이야기를 잘 들어주는 매우 이해심 많은 친구입니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Understanding",
+      "sentence_en": "Traveling helps build an understanding of other cultures.",
+      "sentence_ko": "여행은 다른 문화에 대한 이해를 쌓는 데 도움이 됩니다.",
+      "tags": ["vacation", "outdoor", "friendship"]
+    },
+    {
+      "word": "Understanding",
+      "sentence_en": "The manager was understanding when the server dropped the food.",
+      "sentence_ko": "매니저는 종업원이 음식을 떨어뜨렸을 때 이해해 주었습니다.",
+      "tags": ["restaurant", "food", "marketing"]
+    },
+    {
+      "word": "Understanding",
+      "sentence_en": "We need to reach a common understanding of the project goals.",
+      "sentence_ko": "우리는 프로젝트 목표에 대해 공통된 이해에 도달해야 합니다.",
+      "tags": ["develope", "marketing", "university"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "He was sympathetic to my problems at school.",
+      "sentence_ko": "그는 학교에서의 내 문제들에 대해 공감해 주었습니다.",
+      "tags": ["school", "friendship", "university"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "The main character in the movie was very sympathetic.",
+      "sentence_ko": "영화의 주인공은 매우 공감이 가는 인물이었습니다.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "My boss was sympathetic when I needed time off.",
+      "sentence_ko": "제 상사는 제가 휴가가 필요할 때 이해심을 보였습니다.",
+      "tags": ["marketing", "develope", "friendship"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "People were sympathetic to the restaurant owner's bad luck.",
+      "sentence_ko": "사람들은 식당 주인의 불운에 대해 동정적이었습니다.",
+      "tags": ["restaurant", "food", "friendship"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "Try to be sympathetic when your friend is struggling.",
+      "sentence_ko": "친구가 힘들어할 때 공감해 주려고 노력하세요.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Considerate",
+      "sentence_en": "Please be considerate of your roommates and keep the noise down.",
+      "sentence_ko": "룸메이트를 배려해서 소음을 줄여주세요.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Considerate",
+      "sentence_en": "It is considerate to drive slowly in the rain.",
+      "sentence_ko": "빗길에서 서행하는 것은 사려 깊은 행동입니다.",
+      "tags": ["outdoor", "vacation", "friendship"]
+    },
+    {
+      "word": "Considerate",
+      "sentence_en": "The host was considerate enough to provide vegan food options.",
+      "sentence_ko": "주인은 비건 음식 옵션을 제공할 만큼 사려 깊었습니다.",
+      "tags": ["food", "restaurant", "friendship"]
+    },
+    {
+      "word": "Considerate",
+      "sentence_en": "It was very considerate of you to bring me a gift.",
+      "sentence_ko": "저에게 선물을 가져다주시다니 정말 사려 깊으시네요.",
+      "tags": ["friendship", "school", "vacation"]
+    },
+    {
+      "word": "Considerate",
+      "sentence_en": "Be considerate and turn off your phone during the movie.",
+      "sentence_ko": "영화를 볼 때는 배려심 있게 휴대전화를 꺼주세요.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "I am not very tolerant of extremely spicy food.",
+      "sentence_ko": "저는 아주 매운 음식은 잘 못 먹습니다 (관대하지 않습니다).",
+      "tags": ["food", "restaurant", "vacation"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "Universities should be places that are tolerant of diverse views.",
+      "sentence_ko": "대학교는 다양한 견해에 대해 관대한 곳이어야 합니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "You need to be tolerant when traveling with young children.",
+      "sentence_ko": "어린아이들과 여행할 때는 인내심을 가져야 합니다.",
+      "tags": ["vacation", "friendship", "family"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "A good mentor is tolerant of beginners' mistakes.",
+      "sentence_ko": "좋은 멘토는 초보자의 실수에 관대합니다.",
+      "tags": ["develope", "school", "marketing"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "True friendship is tolerant of each other's flaws.",
+      "sentence_ko": "진정한 우정은 서로의 결점에 대해 관대합니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Accommodating",
+      "sentence_en": "The hotel staff was very accommodating to our special requests.",
+      "sentence_ko": "호텔 직원들은 우리의 특별 요청에 대해 매우 편의를 잘 봐주었습니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Accommodating",
+      "sentence_en": "The chef was accommodating and changed the recipe for me.",
+      "sentence_ko": "요리사는 친절하게도 저를 위해 조리법을 변경해 주었습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Accommodating",
+      "sentence_en": "My professor was accommodating with the exam schedule.",
+      "sentence_ko": "교수님은 시험 일정에 대해 편의를 봐주셨습니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Accommodating",
+      "sentence_en": "The development team was accommodating to the client's changes.",
+      "sentence_ko": "개발팀은 고객의 변경 사항을 잘 맞춰주었습니다.",
+      "tags": ["develope", "marketing", "business"]
+    },
+    {
+      "word": "Accommodating",
+      "sentence_en": "She is an accommodating friend who always adjusts plans.",
+      "sentence_ko": "그녀는 항상 계획을 조율해 주는, 잘 맞춰주는 친구입니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Agreeable",
+      "sentence_en": "The weather was agreeable for our outdoor picnic.",
+      "sentence_ko": "야외 소풍을 가기에 날씨가 쾌적했습니다.",
+      "tags": ["outdoor", "food", "vacation"]
+    },
+    {
+      "word": "Agreeable",
+      "sentence_en": "He is an agreeable person who gets along with everyone.",
+      "sentence_ko": "그는 누구와도 잘 어울리는 상냥한 사람입니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Agreeable",
+      "sentence_en": "We need to find a solution that is agreeable to both sides.",
+      "sentence_ko": "우리는 양측 모두가 동의할 만한 해결책을 찾아야 합니다.",
+      "tags": ["marketing", "develope", "school"]
+    },
+    {
+      "word": "Agreeable",
+      "sentence_en": "The wine has a very agreeable taste.",
+      "sentence_ko": "그 와인은 맛이 아주 좋습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Agreeable",
+      "sentence_en": "Is the vacation itinerary agreeable to you?",
+      "sentence_ko": "휴가 일정이 마음에 드시나요?",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Civil",
+      "sentence_en": "Let's keep this discussion civil and polite.",
+      "sentence_ko": "이번 토론은 예의 바르고 정중하게 유지합시다.",
+      "tags": ["school", "university", "marketing"]
+    },
+    {
+      "word": "Civil",
+      "sentence_en": "Even though they argued, they remained civil to each other.",
+      "sentence_ko": "비록 말다툼은 했지만, 그들은 서로에게 예의를 지켰습니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Civil",
+      "sentence_en": "The waiter was civil, but not very friendly.",
+      "sentence_ko": "웨이터는 예의는 발랐지만, 그리 친절하지는 않았습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Civil",
+      "sentence_en": "It is hard to find civil conversations on the internet sometimes.",
+      "sentence_ko": "가끔 인터넷에서 예의 바른 대화를 찾기가 어렵습니다.",
+      "tags": ["develope", "school", "marketing"]
+    },
+    {
+      "word": "Civil",
+      "sentence_en": "Please be civil to the staff at the cinema.",
+      "sentence_ko": "영화관 직원들에게 예의를 지켜주세요.",
+      "tags": ["movie", "friendship", "school"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "The children were very polite to the elders.",
+      "sentence_ko": "아이들은 어른들에게 매우 공손했습니다.",
+      "tags": ["school", "friendship", "family"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "It is polite to tip the server in this country.",
+      "sentence_ko": "이 나라에서는 종업원에게 팁을 주는 것이 예의입니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "He made a polite request for more information.",
+      "sentence_ko": "그는 더 많은 정보를 정중하게 요청했습니다.",
+      "tags": ["marketing", "develope", "school"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "She gave a polite refusal to the party invitation.",
+      "sentence_ko": "그녀는 파티 초대에 대해 정중하게 거절했습니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "Being polite costs nothing but means everything.",
+      "sentence_ko": "공손한 태도는 돈이 들지 않지만 매우 큰 의미가 있습니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Courteous",
+      "sentence_en": "The flight attendants were courteous throughout the trip.",
+      "sentence_ko": "승무원들은 여행 내내 정중했습니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Courteous",
+      "sentence_en": "Be courteous to other drivers on the road.",
+      "sentence_ko": "도로 위에서 다른 운전자들에게 정중하게 대하세요.",
+      "tags": ["outdoor", "vacation", "friendship"]
+    },
+    {
+      "word": "Courteous",
+      "sentence_en": "He wrote a courteous email to the professor.",
+      "sentence_ko": "그는 교수님께 정중한 이메일을 썼습니다.",
+      "tags": ["university", "school", "marketing"]
+    },
+    {
+      "word": "Courteous",
+      "sentence_en": "The marketing team is always courteous to clients.",
+      "sentence_ko": "마케팅 팀은 항상 고객들에게 정중합니다.",
+      "tags": ["marketing", "develope", "business"]
+    },
+    {
+      "word": "Courteous",
+      "sentence_en": "The doorman was very courteous and opened the door.",
+      "sentence_ko": "도어맨은 매우 정중하게 문을 열어주었습니다.",
+      "tags": ["restaurant", "vacation", "friendship"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "The locals were very friendly during our vacation.",
+      "sentence_ko": "휴가 기간 동안 현지인들은 매우 우호적이었습니다.",
+      "tags": ["vacation", "friendship", "outdoor"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "We need to make the app more user-friendly.",
+      "sentence_ko": "우리는 앱을 더 사용자 친화적으로 만들어야 합니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "We played a friendly game of soccer in the park.",
+      "sentence_ko": "우리는 공원에서 우호적인 축구 경기를 했습니다.",
+      "tags": ["outdoor", "friendship", "school"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "It is a friendly school with a welcoming atmosphere.",
+      "sentence_ko": "그곳은 환영하는 분위기의 친근한 학교입니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "The friendly waiter recommended the special dish.",
+      "sentence_ko": "친절한 웨이터가 특별 메뉴를 추천해 주었습니다.",
+      "tags": ["restaurant", "food", "vacation"]
+    },
+    {
+      "word": "Constructive",
+      "sentence_en": "The teacher gave me constructive feedback on my essay.",
+      "sentence_ko": "선생님은 제 에세이에 대해 건설적인 피드백을 주셨습니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Constructive",
+      "sentence_en": "We had a very constructive marketing meeting today.",
+      "sentence_ko": "우리는 오늘 매우 건설적인 마케팅 회의를 했습니다.",
+      "tags": ["marketing", "develope", "business"]
+    },
+    {
+      "word": "Constructive",
+      "sentence_en": "A real friend offers constructive advice, not just praise.",
+      "sentence_ko": "진정한 친구는 칭찬뿐만 아니라 건설적인 조언도 해줍니다.",
+      "tags": ["friendship", "school", "university"]
+    },
+    {
+      "word": "Constructive",
+      "sentence_en": "Code reviews should be constructive, not critical.",
+      "sentence_ko": "코드 리뷰는 비판적이 아니라 건설적이어야 합니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Constructive",
+      "sentence_en": "Let's try to find a constructive way to solve this.",
+      "sentence_ko": "이 문제를 해결할 건설적인 방법을 찾아봅시다.",
+      "tags": ["outdoor", "friendship", "school"]
+    },
+    {
+      "word": "Synergistic",
+      "sentence_en": "The ingredients created a synergistic flavor explosion.",
+      "sentence_ko": "재료들이 시너지 효과를 내어 맛의 폭발을 일으켰습니다.",
+      "tags": ["food", "restaurant", "vacation"]
+    },
+    {
+      "word": "Synergistic",
+      "sentence_en": "The partnership produced a synergistic effect on sales.",
+      "sentence_ko": "그 파트너십은 매출에 시너지 효과를 냈습니다.",
+      "tags": ["marketing", "develope", "business"]
+    },
+    {
+      "word": "Synergistic",
+      "sentence_en": "Our skills are synergistic, so we work well together.",
+      "sentence_ko": "우리의 기술은 시너지가 있어서 함께 일하기 좋습니다.",
+      "tags": ["develope", "school", "friendship"]
+    },
+    {
+      "word": "Synergistic",
+      "sentence_en": "There is a synergistic relationship between plants and insects.",
+      "sentence_ko": "식물과 곤충 사이에는 시너지 효과가 있는 관계가 있습니다.",
+      "tags": ["outdoor", "school", "university"]
+    },
+    {
+      "word": "Synergistic",
+      "sentence_en": "The music and visuals had a synergistic impact in the movie.",
+      "sentence_ko": "영화에서 음악과 영상은 시너지 효과를 냈습니다.",
+      "tags": ["movie", "school", "friendship"]
+    },
+    {
+      "word": "Integrated",
+      "sentence_en": "The new software is fully integrated with our database.",
+      "sentence_ko": "새 소프트웨어는 우리 데이터베이스와 완전히 통합되었습니다.",
+      "tags": ["develope", "marketing", "school"]
+    },
+    {
+      "word": "Integrated",
+      "sentence_en": "The school has an integrated curriculum for arts and science.",
+      "sentence_ko": "그 학교는 예술과 과학을 위한 통합 교육 과정을 운영합니다.",
+      "tags": ["school", "university", "friendship"]
+    },
+    {
+      "word": "Integrated",
+      "sentence_en": "We launched an integrated marketing campaign across all channels.",
+      "sentence_ko": "우리는 모든 채널에 걸쳐 통합 마케팅 캠페인을 시작했습니다.",
+      "tags": ["marketing", "develope", "business"]
+    },
+    {
+      "word": "Integrated",
+      "sentence_en": "The university community is well integrated socially.",
+      "sentence_ko": "대학 커뮤니티는 사회적으로 잘 통합되어 있습니다.",
+      "tags": ["university", "school", "friendship"]
+    },
+    {
+      "word": "Integrated",
+      "sentence_en": "The resort is beautifully integrated into the natural landscape.",
+      "sentence_ko": "그 리조트는 자연경관에 아름답게 통합되어 있습니다.",
+      "tags": ["vacation", "outdoor", "friendship"]
+    }
+  ]
+}

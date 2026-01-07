@@ -1,0 +1,672 @@
+{
+  "deck_title": "SOUND_AUDITORY",
+  "total_sentences": 126,
+  "sentences": [
+    {
+      "word": "Soothing",
+      "sentence_en": "The soothing sound of rain helped me relax after work.",
+      "sentence_ko": "비의 달래주는 소리가 퇴근 후 긴장을 푸는 데 도움이 됐다.",
+      "tags": ["nature", "relaxation"]
+    },
+    {
+      "word": "Soothing",
+      "sentence_en": "Her soothing voice during the conversation calmed everyone down.",
+      "sentence_ko": "대화 중 그녀의 진정시키는 목소리가 모두를 진정시켰다.",
+      "tags": ["conversation", "communication"]
+    },
+    {
+      "word": "Soothing",
+      "sentence_en": "The doctor's soothing tone helped ease the patient's anxiety.",
+      "sentence_ko": "의사의 달래주는 말투가 환자의 불안을 완화하는 데 도움이 됐다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Soothing",
+      "sentence_en": "I play soothing music at home to help me study better.",
+      "sentence_ko": "더 잘 공부하기 위해 집에서 진정시키는 음악을 틀어.",
+      "tags": ["home", "study"]
+    },
+    {
+      "word": "Soothing",
+      "sentence_en": "The soothing sounds of nature improved my mental health significantly.",
+      "sentence_ko": "자연의 달래주는 소리가 내 정신 건강을 크게 개선시켰다.",
+      "tags": ["nature", "health"]
+    },
+    {
+      "word": "Soothing",
+      "sentence_en": "She has a soothing presence that makes everyone feel comfortable.",
+      "sentence_ko": "그녀는 모두를 편안하게 만드는 진정시키는 존재감이 있다.",
+      "tags": ["personality", "style"]
+    },
+    {
+      "word": "Mellow",
+      "sentence_en": "The guitarist's mellow sound created a relaxing atmosphere at home.",
+      "sentence_ko": "기타리스트의 그윽한 소리가 집에서 편안한 분위기를 만들었다.",
+      "tags": ["home", "music"]
+    },
+    {
+      "word": "Mellow",
+      "sentence_en": "His voice became more mellow as he aged gracefully.",
+      "sentence_ko": "그의 목소리는 우아하게 나이 들면서 더 부드러워졌다.",
+      "tags": ["aging", "style"]
+    },
+    {
+      "word": "Mellow",
+      "sentence_en": "The jazz band played mellow tunes during the business reception.",
+      "sentence_ko": "재즈 밴드는 비즈니스 리셉션 동안 그윽한 선율을 연주했다.",
+      "tags": ["business", "event"]
+    },
+    {
+      "word": "Mellow",
+      "sentence_en": "The sunset created a mellow mood perfect for conversation.",
+      "sentence_ko": "석양이 대화하기 완벽한 부드러운 분위기를 만들었다.",
+      "tags": ["nature", "conversation"]
+    },
+    {
+      "word": "Mellow",
+      "sentence_en": "She prefers mellow acoustic music while studying at the university library.",
+      "sentence_ko": "그녀는 대학 도서관에서 공부할 때 그윽한 어쿠스틱 음악을 선호한다.",
+      "tags": ["university", "study"]
+    },
+    {
+      "word": "Resonant",
+      "sentence_en": "His resonant voice filled the entire conference hall during the business presentation.",
+      "sentence_ko": "비즈니스 프레젠테이션 동안 그의 울림이 있는 목소리가 전체 회의장을 채웠다.",
+      "tags": ["business", "communication"]
+    },
+    {
+      "word": "Resonant",
+      "sentence_en": "The resonant sound of the church bell echoed through the neighborhood.",
+      "sentence_ko": "교회 종의 울림이 있는 소리가 동네에 메아리쳤다.",
+      "tags": ["nature", "community"]
+    },
+    {
+      "word": "Resonant",
+      "sentence_en": "Her resonant words during the conversation touched everyone's heart.",
+      "sentence_ko": "대화 중 그녀의 울림이 있는 말이 모두의 마음을 감동시켰다.",
+      "tags": ["conversation", "emotion"]
+    },
+    {
+      "word": "Resonant",
+      "sentence_en": "The speaker's resonant tone made the university lecture more engaging.",
+      "sentence_ko": "연사의 울림이 있는 톤이 대학 강의를 더 흥미롭게 만들었다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Resonant",
+      "sentence_en": "The actor's resonant voice is perfect for radio and podcast work.",
+      "sentence_ko": "그 배우의 울림이 있는 목소리는 라디오와 팟캐스트 작업에 완벽하다.",
+      "tags": ["media", "style"]
+    },
+    {
+      "word": "Deafening",
+      "sentence_en": "The deafening roar of the crowd filled the soccer stadium.",
+      "sentence_ko": "관중의 귀청이 터질 듯한 함성이 축구 경기장을 채웠다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Deafening",
+      "sentence_en": "The deafening sound from my smartphone alarm woke everyone at home.",
+      "sentence_ko": "내 스마트폰 알람의 귀청이 터질 듯한 소리가 집에 있는 모두를 깨웠다.",
+      "tags": ["smartphone", "home"]
+    },
+    {
+      "word": "Deafening",
+      "sentence_en": "The construction noise outside was deafening during my business call.",
+      "sentence_ko": "비즈니스 통화 중 밖의 공사 소음이 귀청이 터질 듯했다.",
+      "tags": ["business", "distraction"]
+    },
+    {
+      "word": "Deafening",
+      "sentence_en": "The deafening silence after her announcement made everyone uncomfortable.",
+      "sentence_ko": "그녀의 발표 후 귀청이 터질 듯한 침묵이 모두를 불편하게 만들었다.",
+      "tags": ["conversation", "awkward"]
+    },
+    {
+      "word": "Deafening",
+      "sentence_en": "The deafening thunder during the storm scared my pets at home.",
+      "sentence_ko": "폭풍 중 귀청이 터질 듯한 천둥이 집에 있는 반려동물들을 겁먹게 했다.",
+      "tags": ["nature", "home"]
+    },
+    {
+      "word": "Raucous",
+      "sentence_en": "The raucous laughter from the party next door disturbed my studying.",
+      "sentence_ko": "옆집 파티의 시끌벅적한 웃음소리가 내 공부를 방해했다.",
+      "tags": ["home", "distraction"]
+    },
+    {
+      "word": "Raucous",
+      "sentence_en": "The soccer fans made raucous noise throughout the entire match.",
+      "sentence_ko": "축구 팬들은 경기 내내 시끌벅적한 소음을 냈다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Raucous",
+      "sentence_en": "The raucous debate at the university forum lasted for hours.",
+      "sentence_ko": "대학 포럼의 시끌벅적한 논쟁은 몇 시간 동안 계속됐다.",
+      "tags": ["university", "discussion"]
+    },
+    {
+      "word": "Raucous",
+      "sentence_en": "His raucous voice dominated every business meeting.",
+      "sentence_ko": "그의 거친 목소리가 모든 비즈니스 미팅을 지배했다.",
+      "tags": ["business", "personality"]
+    },
+    {
+      "word": "Raucous",
+      "sentence_en": "The raucous birds outside my window wake me up every morning.",
+      "sentence_ko": "창밖의 시끌벅적한 새들이 매일 아침 나를 깨운다.",
+      "tags": ["nature", "home"]
+    },
+    {
+      "word": "Clamorous",
+      "sentence_en": "The clamorous crowd at the soccer game was incredibly energetic.",
+      "sentence_ko": "축구 경기의 떠들썩한 군중은 믿을 수 없을 만큼 활기찼다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Clamorous",
+      "sentence_en": "The students made clamorous demands during the university protest.",
+      "sentence_ko": "학생들은 대학 시위 중에 떠들썩한 요구를 했다.",
+      "tags": ["university", "activism"]
+    },
+    {
+      "word": "Clamorous",
+      "sentence_en": "The clamorous children playing outside made it hard to focus at home.",
+      "sentence_ko": "밖에서 노는 떠들썩한 아이들 때문에 집에서 집중하기 힘들었다.",
+      "tags": ["home", "distraction"]
+    },
+    {
+      "word": "Clamorous",
+      "sentence_en": "The marketplace was clamorous with vendors shouting their prices.",
+      "sentence_ko": "시장은 가격을 외치는 상인들로 떠들썩했다.",
+      "tags": ["business", "commerce"]
+    },
+    {
+      "word": "Clamorous",
+      "sentence_en": "The clamorous conversation at the café disturbed other customers.",
+      "sentence_ko": "카페의 떠들썩한 대화가 다른 손님들을 방해했다.",
+      "tags": ["conversation", "public"]
+    },
+    {
+      "word": "Muffled",
+      "sentence_en": "The muffled sound through the wall made it hard to hear the conversation.",
+      "sentence_ko": "벽을 통한 먹먹한 소리가 대화를 듣기 어렵게 만들었다.",
+      "tags": ["home", "conversation"]
+    },
+    {
+      "word": "Muffled",
+      "sentence_en": "His muffled voice on the smartphone indicated poor signal quality.",
+      "sentence_ko": "스마트폰에서 그의 먹먹한 목소리가 나쁜 신호 품질을 나타냈다.",
+      "tags": ["smartphone", "technology"]
+    },
+    {
+      "word": "Muffled",
+      "sentence_en": "The muffled footsteps upstairs suggested someone was trying to be quiet.",
+      "sentence_ko": "위층의 소리를 죽인 발소리가 누군가 조용히 하려고 한다는 걸 암시했다.",
+      "tags": ["home", "mystery"]
+    },
+    {
+      "word": "Muffled",
+      "sentence_en": "The snow created muffled sounds that made nature eerily quiet.",
+      "sentence_ko": "눈이 자연을 섬뜩하게 조용하게 만드는 먹먹한 소리를 만들었다.",
+      "tags": ["nature", "atmosphere"]
+    },
+    {
+      "word": "Muffled",
+      "sentence_en": "His muffled apology through the door showed his embarrassment.",
+      "sentence_ko": "문을 통한 그의 먹먹한 사과가 당황함을 보여줬다.",
+      "tags": ["conversation", "emotion"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "The faint music playing at home created a peaceful atmosphere.",
+      "sentence_ko": "집에서 나는 희미한 음악이 평화로운 분위기를 만들었다.",
+      "tags": ["home", "ambiance"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "I heard a faint knock on the door during my video call.",
+      "sentence_ko": "화상 통화 중 문 두드리는 희미한 소리가 들렸다.",
+      "tags": ["home", "interruption"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "The faint sound of birds chirping signaled the morning.",
+      "sentence_ko": "새들이 지저귀는 희미한 소리가 아침을 알렸다.",
+      "tags": ["nature", "morning"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "Her voice became faint as she walked away during our conversation.",
+      "sentence_ko": "대화 중 그녀가 멀어지면서 목소리가 희미해졌다.",
+      "tags": ["conversation", "distance"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "The faint buzzing from my smartphone distracted me from studying.",
+      "sentence_ko": "스마트폰에서 나는 희미한 진동이 공부하는 걸 방해했다.",
+      "tags": ["smartphone", "study"]
+    },
+    {
+      "word": "Faint",
+      "sentence_en": "The patient spoke in a faint voice due to health complications.",
+      "sentence_ko": "환자는 건강 합병증 때문에 희미한 목소리로 말했다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Grating",
+      "sentence_en": "His grating voice during the business meeting annoyed everyone.",
+      "sentence_ko": "비즈니스 미팅 중 그의 귀에 거슬리는 목소리가 모두를 짜증나게 했다.",
+      "tags": ["business", "annoying"]
+    },
+    {
+      "word": "Grating",
+      "sentence_en": "The grating sound of nails on a chalkboard makes me uncomfortable.",
+      "sentence_ko": "칠판에 손톱 긁는 귀에 거슬리는 소리가 나를 불편하게 만든다.",
+      "tags": ["education", "unpleasant"]
+    },
+    {
+      "word": "Grating",
+      "sentence_en": "The grating noise from construction work outside disturbed my home office.",
+      "sentence_ko": "밖의 공사로 인한 귀에 거슬리는 소음이 내 홈 오피스를 방해했다.",
+      "tags": ["home", "distraction"]
+    },
+    {
+      "word": "Grating",
+      "sentence_en": "Her grating laughter during the conversation was hard to ignore.",
+      "sentence_ko": "대화 중 그녀의 귀에 거슬리는 웃음소리를 무시하기 힘들었다.",
+      "tags": ["conversation", "annoying"]
+    },
+    {
+      "word": "Grating",
+      "sentence_en": "The grating alarm sound on my smartphone is intentionally unpleasant.",
+      "sentence_ko": "내 스마트폰의 귀에 거슬리는 알람 소리는 의도적으로 불쾌하다.",
+      "tags": ["smartphone", "design"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "The soccer coach's voice became hoarse from yelling all game.",
+      "sentence_ko": "축구 코치의 목소리는 경기 내내 소리 지르느라 쉬었다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "My voice is hoarse today from the cold I caught last week.",
+      "sentence_ko": "지난주에 걸린 감기 때문에 오늘 내 목소리가 쉬었어.",
+      "tags": ["health", "illness"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "The singer's hoarse voice added character to the acoustic performance.",
+      "sentence_ko": "가수의 쉰 목소리가 어쿠스틱 공연에 특색을 더했다.",
+      "tags": ["music", "style"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "His hoarse whisper during the conversation suggested throat problems.",
+      "sentence_ko": "대화 중 그의 쉰 속삭임이 목 문제를 암시했다.",
+      "tags": ["conversation", "health"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "The professor's hoarse voice made the university lecture hard to follow.",
+      "sentence_ko": "교수의 쉰 목소리가 대학 강의를 따라가기 어렵게 만들었다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Hoarse",
+      "sentence_en": "She spoke in a hoarse voice after cheering at the soccer match.",
+      "sentence_ko": "그녀는 축구 경기에서 응원한 후 쉰 목소리로 말했다.",
+      "tags": ["soccer", "aftermath"]
+    },
+    {
+      "word": "Cacophonous",
+      "sentence_en": "The cacophonous noise from the construction site disrupted the business district.",
+      "sentence_ko": "공사장의 불협화음 같은 소음이 비즈니스 지구를 방해했다.",
+      "tags": ["business", "disturbance"]
+    },
+    {
+      "word": "Cacophonous",
+      "sentence_en": "The cacophonous sounds of the city kept me awake at home.",
+      "sentence_ko": "도시의 불협화음 같은 소리가 집에서 나를 깨어 있게 했다.",
+      "tags": ["home", "urban"]
+    },
+    {
+      "word": "Cacophonous",
+      "sentence_en": "The orchestra's cacophonous warm-up contrasted with their beautiful performance.",
+      "sentence_ko": "오케스트라의 불협화음 같은 워밍업은 아름다운 공연과 대조를 이뤘다.",
+      "tags": ["music", "contrast"]
+    },
+    {
+      "word": "Cacophonous",
+      "sentence_en": "The cafeteria became cacophonous during peak hours at the university.",
+      "sentence_ko": "대학 식당은 피크 시간에 불협화음 같이 시끄러워졌다.",
+      "tags": ["university", "crowded"]
+    },
+    {
+      "word": "Cacophonous",
+      "sentence_en": "The cacophonous traffic sounds made the conversation nearly impossible.",
+      "sentence_ko": "불협화음 같은 교통 소음이 대화를 거의 불가능하게 만들었다.",
+      "tags": ["conversation", "urban"]
+    },
+    {
+      "word": "Shrill",
+      "sentence_en": "The shrill alarm on my smartphone woke everyone in the house.",
+      "sentence_ko": "내 스마트폰의 새된 알람이 집 안의 모두를 깨웠다.",
+      "tags": ["smartphone", "home"]
+    },
+    {
+      "word": "Shrill",
+      "sentence_en": "Her shrill voice during the argument was hard to listen to.",
+      "sentence_ko": "말다툼 중 그녀의 새된 목소리는 듣기 힘들었다.",
+      "tags": ["conversation", "conflict"]
+    },
+    {
+      "word": "Shrill",
+      "sentence_en": "The referee's shrill whistle stopped the soccer match immediately.",
+      "sentence_ko": "심판의 꽥 하는 휘슬이 축구 경기를 즉시 멈췄다.",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "word": "Shrill",
+      "sentence_en": "The shrill sound of the smoke alarm indicated a potential health hazard.",
+      "sentence_ko": "화재 경보기의 새된 소리가 잠재적 건강 위험을 나타냈다.",
+      "tags": ["health", "safety"]
+    },
+    {
+      "word": "Shrill",
+      "sentence_en": "The baby's shrill crying filled the entire home for hours.",
+      "sentence_ko": "아기의 꽥 하는 울음소리가 몇 시간 동안 집 전체를 채웠다.",
+      "tags": ["home", "parenting"]
+    },
+    {
+      "word": "Piercing",
+      "sentence_en": "The piercing scream from outside startled everyone at home.",
+      "sentence_ko": "밖에서 나는 귀를 찢는 듯한 비명이 집에 있는 모두를 놀라게 했다.",
+      "tags": ["home", "alarming"]
+    },
+    {
+      "word": "Piercing",
+      "sentence_en": "Her piercing voice cut through all the background noise in the office.",
+      "sentence_ko": "그녀의 귀를 찢는 듯한 목소리가 사무실의 모든 배경 소음을 뚫었다.",
+      "tags": ["business", "distinctive"]
+    },
+    {
+      "word": "Piercing",
+      "sentence_en": "The piercing sound of the alarm disrupted my smartphone conversation.",
+      "sentence_ko": "경보의 귀를 찢는 듯한 소리가 내 스마트폰 대화를 방해했다.",
+      "tags": ["smartphone", "interruption"]
+    },
+    {
+      "word": "Piercing",
+      "sentence_en": "The soccer coach's piercing whistle got everyone's attention instantly.",
+      "sentence_ko": "축구 코치의 귀를 찢는 듯한 휘슬이 즉시 모두의 주목을 받았다.",
+      "tags": ["soccer", "command"]
+    },
+    {
+      "word": "Piercing",
+      "sentence_en": "The piercing cry of the bird echoed through the quiet nature reserve.",
+      "sentence_ko": "새의 귀를 찢는 듯한 울음소리가 조용한 자연 보호 구역에 메아리쳤다.",
+      "tags": ["nature", "wildlife"]
+    },
+    {
+      "word": "Rasping",
+      "sentence_en": "His rasping voice suggested serious health problems with his throat.",
+      "sentence_ko": "그의 거슬리는 목소리가 목에 심각한 건강 문제가 있음을 암시했다.",
+      "tags": ["health", "concern"]
+    },
+    {
+      "word": "Rasping",
+      "sentence_en": "The rasping sound of the door needed immediate attention at home.",
+      "sentence_ko": "문의 쇳소리 같은 소리가 집에서 즉각적인 조치가 필요했다.",
+      "tags": ["home", "maintenance"]
+    },
+    {
+      "word": "Rasping",
+      "sentence_en": "The old machine made rasping noises during the business demonstration.",
+      "sentence_ko": "오래된 기계가 비즈니스 시연 중에 거슬리는 소음을 냈다.",
+      "tags": ["business", "equipment"]
+    },
+    {
+      "word": "Rasping",
+      "sentence_en": "His rasping breath during the conversation worried his friends.",
+      "sentence_ko": "대화 중 그의 거친 숨소리가 친구들을 걱정시켰다.",
+      "tags": ["conversation", "health"]
+    },
+    {
+      "word": "Rasping",
+      "sentence_en": "The rasping sound from my smartphone speaker indicated it needed repair.",
+      "sentence_ko": "내 스마트폰 스피커의 거슬리는 소리가 수리가 필요함을 나타냈다.",
+      "tags": ["smartphone", "problem"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "The melodious sound of birds enhanced the peaceful nature walk.",
+      "sentence_ko": "새들의 선율이 아름다운 소리가 평화로운 자연 산책을 향상시켰다.",
+      "tags": ["nature", "pleasant"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "Her melodious voice made the university choir performance unforgettable.",
+      "sentence_ko": "그녀의 선율이 아름다운 목소리가 대학 합창 공연을 잊을 수 없게 만들었다.",
+      "tags": ["university", "music"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "The melodious ringtone on my smartphone always makes me smile.",
+      "sentence_ko": "내 스마트폰의 선율이 아름다운 벨소리가 항상 미소 짓게 만든다.",
+      "tags": ["smartphone", "pleasant"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "The piano's melodious tones filled our home with warmth.",
+      "sentence_ko": "피아노의 선율이 아름다운 음색이 우리 집을 따뜻함으로 채웠다.",
+      "tags": ["home", "music"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "The AI-generated music was surprisingly melodious and enjoyable.",
+      "sentence_ko": "AI가 생성한 음악은 놀랍게도 선율이 아름답고 즐거웠다.",
+      "tags": ["ai", "technology"]
+    },
+    {
+      "word": "Melodious",
+      "sentence_en": "Her melodious laughter brightened every conversation she had.",
+      "sentence_ko": "그녀의 선율이 아름다운 웃음소리가 그녀가 나눈 모든 대화를 밝게 했다.",
+      "tags": ["conversation", "personality"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The harmonious blend of voices made the choir performance outstanding.",
+      "sentence_ko": "목소리의 조화로운 조합이 합창 공연을 뛰어나게 만들었다.",
+      "tags": ["music", "teamwork"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The business partners maintained a harmonious working relationship.",
+      "sentence_ko": "비즈니스 파트너들은 조화로운 업무 관계를 유지했다.",
+      "tags": ["business", "cooperation"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The family created a harmonious home environment for everyone.",
+      "sentence_ko": "가족은 모두를 위한 조화로운 가정 환경을 만들었다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The university club achieved harmonious collaboration on the project.",
+      "sentence_ko": "대학 동아리는 프로젝트에서 조화로운 협력을 이뤘다.",
+      "tags": ["university", "teamwork"]
+    },
+    {
+      "word": "Harmonious",
+      "sentence_en": "The conversation flowed in a harmonious and natural manner.",
+      "sentence_ko": "대화가 조화롭고 자연스러운 방식으로 흘러갔다.",
+      "tags": ["conversation", "smooth"]
+    },
+    {
+      "word": "Husky",
+      "sentence_en": "Her husky voice gave her a distinctive style in the music industry.",
+      "sentence_ko": "그녀의 허스키한 목소리가 음악 업계에서 독특한 스타일을 줬다.",
+      "tags": ["music", "style"]
+    },
+    {
+      "word": "Husky",
+      "sentence_en": "His husky whisper during the conversation added to the intimacy.",
+      "sentence_ko": "대화 중 그의 허스키한 속삭임이 친밀함을 더했다.",
+      "tags": ["conversation", "intimate"]
+    },
+    {
+      "word": "Husky",
+      "sentence_en": "The singer's husky tone became her signature sound in business.",
+      "sentence_ko": "가수의 허스키한 톤이 비즈니스에서 그녀의 시그니처 사운드가 됐다.",
+      "tags": ["business", "branding"]
+    },
+    {
+      "word": "Husky",
+      "sentence_en": "He developed a husky voice after years of smoking affecting his health.",
+      "sentence_ko": "그는 수년간의 흡연이 건강에 영향을 미친 후 허스키한 목소리가 생겼다.",
+      "tags": ["health", "consequence"]
+    },
+    {
+      "word": "Husky",
+      "sentence_en": "The actor's husky voice made him perfect for noir film roles.",
+      "sentence_ko": "배우의 허스키한 목소리가 그를 느와르 영화 역할에 완벽하게 만들었다.",
+      "tags": ["entertainment", "style"]
+    },
+    {
+      "word": "Monotone",
+      "sentence_en": "The professor's monotone voice made the university lecture incredibly boring.",
+      "sentence_ko": "교수의 단조로운 목소리가 대학 강의를 믿을 수 없이 지루하게 만들었다.",
+      "tags": ["university", "boring"]
+    },
+    {
+      "word": "Monotone",
+      "sentence_en": "His monotone delivery during the business presentation lost everyone's attention.",
+      "sentence_ko": "비즈니스 프레젠테이션 중 그의 단조로운 전달이 모두의 주목을 잃었다.",
+      "tags": ["business", "presentation"]
+    },
+    {
+      "word": "Monotone",
+      "sentence_en": "The AI voice assistant spoke in a monotone that sounded robotic.",
+      "sentence_ko": "AI 음성 어시스턴트는 로봇 같이 들리는 단조로운 소리로 말했다.",
+      "tags": ["ai", "technology"]
+    },
+    {
+      "word": "Monotone",
+      "sentence_en": "Her monotone response during the conversation suggested disinterest.",
+      "sentence_ko": "대화 중 그녀의 단조로운 대답이 무관심을 암시했다.",
+      "tags": ["conversation", "attitude"]
+    },
+    {
+      "word": "Monotone",
+      "sentence_en": "The documentary narrator's monotone style put me to sleep at home.",
+      "sentence_ko": "다큐멘터리 내레이터의 단조로운 스타일이 집에서 나를 재웠다.",
+      "tags": ["home", "entertainment"]
+    },
+    {
+      "word": "Audible",
+      "sentence_en": "Her sigh was barely audible during the tense business meeting.",
+      "sentence_ko": "긴장된 비즈니스 미팅 중 그녀의 한숨은 간신히 들렸다.",
+      "tags": ["business", "subtle"]
+    },
+    {
+      "word": "Audible",
+      "sentence_en": "The instructions were barely audible through my smartphone speaker.",
+      "sentence_ko": "내 스마트폰 스피커를 통한 지시사항은 간신히 들렸다.",
+      "tags": ["smartphone", "problem"]
+    },
+    {
+      "word": "Audible",
+      "sentence_en": "The bird's chirping was audible even from inside our home.",
+      "sentence_ko": "새의 지저귐은 우리 집 안에서도 들렸다.",
+      "tags": ["nature", "home"]
+    },
+    {
+      "word": "Audible",
+      "sentence_en": "Her heartbeat became audible during the health examination.",
+      "sentence_ko": "건강 검진 중 그녀의 심장 박동이 들렸다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Audible",
+      "sentence_en": "The conversation at the next table was clearly audible in the café.",
+      "sentence_ko": "카페에서 옆 테이블의 대화가 분명히 들렸다.",
+      "tags": ["conversation", "public"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "The acoustic guitar performance created an intimate atmosphere at home.",
+      "sentence_ko": "어쿠스틱 기타 연주가 집에서 친밀한 분위기를 만들었다.",
+      "tags": ["home", "music"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "She prefers acoustic music when studying at the university library.",
+      "sentence_ko": "그녀는 대학 도서관에서 공부할 때 어쿠스틱 음악을 선호한다.",
+      "tags": ["university", "study"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "The business conference featured excellent acoustic design throughout.",
+      "sentence_ko": "비즈니스 컨퍼런스는 전반적으로 훌륭한 음향 디자인을 선보였다.",
+      "tags": ["business", "venue"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "The café promotes acoustic performances every Friday night.",
+      "sentence_ko": "카페는 매주 금요일 밤 어쿠스틱 공연을 홍보한다.",
+      "tags": ["entertainment", "venue"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "The acoustic properties of nature helped him relax completely.",
+      "sentence_ko": "자연의 음향적 특성이 그가 완전히 긴장을 푸는 데 도움이 됐다.",
+      "tags": ["nature", "relaxation"]
+    },
+    {
+      "word": "Acoustic",
+      "sentence_en": "The smartphone app can analyze acoustic patterns using AI technology.",
+      "sentence_ko": "스마트폰 앱은 AI 기술을 사용해 음향 패턴을 분석할 수 있다.",
+      "tags": ["smartphone", "ai"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "The thundering applause after the soccer goal was deafening.",
+      "sentence_ko": "축구 골 후 우레 같은 박수가 귀청이 터질 듯했다.",
+      "tags": ["soccer", "celebration"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "The thundering footsteps above my home office disrupted my work.",
+      "sentence_ko": "내 홈 오피스 위의 우레 같은 발소리가 업무를 방해했다.",
+      "tags": ["home", "distraction"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "The storm's thundering sounds kept everyone awake at home last night.",
+      "sentence_ko": "어젯밤 폭풍의 우레 같은 소리가 집에 있는 모두를 깨어 있게 했다.",
+      "tags": ["nature", "home"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "His thundering voice during the business presentation commanded attention.",
+      "sentence_ko": "비즈니스 프레젠테이션 중 그의 우레 같은 목소리가 주목을 받았다.",
+      "tags": ["business", "commanding"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "The thundering waterfalls created an impressive natural symphony.",
+      "sentence_ko": "우레 같은 폭포가 인상적인 자연의 교향곡을 만들었다.",
+      "tags": ["nature", "spectacular"]
+    },
+    {
+      "word": "Thundering",
+      "sentence_en": "The university rally featured thundering chants from passionate students.",
+      "sentence_ko": "대학 집회는 열정적인 학생들의 우레 같은 구호를 선보였다.",
+      "tags": ["university", "activism"]
+    }
+  ]
+}

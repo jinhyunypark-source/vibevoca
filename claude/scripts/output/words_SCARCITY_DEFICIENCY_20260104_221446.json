@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "06c971f2-865b-41f4-85cf-e1b545a31646",
+    "word": "Scarce",
+    "meaning": "희소한, 부족한 (구하기 힘든)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "124147c0-06a9-4c60-8070-04be7822d3cc",
+    "word": "Rare",
+    "meaning": "드문, 희귀한 (자주 일어나지 않는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "897ee704-94ab-46a4-a55d-99563ab5c1c2",
+    "word": "Sparse",
+    "meaning": "드문드문한 (밀도가 낮은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "d6b7f370-7204-4c92-a4d8-69d2cf95008a",
+    "word": "Scant",
+    "meaning": "부족한, 거의 없는 (충분하지 않은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "d3ca1f72-a0e5-47a5-b7a7-fb4a0928ae05",
+    "word": "Meager",
+    "meaning": "빈약한, 불충분한 (양이나 질이 형편없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "4b33773d-044e-4a28-a33f-d506e855ce3c",
+    "word": "Paltry",
+    "meaning": "쥐꼬리만한, 시시한 (너무 적어서 하찮은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "9dbcc597-57d2-42c1-bd92-17f70d567424",
+    "word": "Insufficient",
+    "meaning": "불충분한 (필요량을 채우지 못한)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "9d6966b5-5105-4aaa-88c9-6876b21d2e9d",
+    "word": "Inadequate",
+    "meaning": "부적절한, 불충분한 (요구에 못 미치는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "8fd79c25-d69b-4672-8846-63d59fcc3742",
+    "word": "Lacking",
+    "meaning": "부족한, 결여된 (없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "2ea0dd05-e894-461e-966d-dfe35041db05",
+    "word": "Wanting",
+    "meaning": "모자라는, 부족한 (기대에 못 미치는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "1a965fc9-ff6c-4d73-9baa-81507e385cb3",
+    "word": "Deficient",
+    "meaning": "결핍된 (필수 요소가 빠진)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "a4276337-e5e3-48f9-938c-27fc9b31b1bd",
+    "word": "Short",
+    "meaning": "부족한 (모자라는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "bc6ee05b-b14a-4b92-bdd7-448453559c89",
+    "word": "Tight",
+    "meaning": "빠듯한 (여유가 없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "6f14d043-c3f6-4b3c-a023-713f16b5459a",
+    "word": "Limited",
+    "meaning": "제한된 (많지 않은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "a1d78eea-b287-4d5c-94f5-a6e915313eec",
+    "word": "Empty",
+    "meaning": "빈 (내용물이 없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "364be8d4-d893-419d-81fa-00f95be523bc",
+    "word": "Vacant",
+    "meaning": "비어 있는 (사람이 없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "883d0ba9-15e7-4470-8d0e-f70a623a6bf3",
+    "word": "Void",
+    "meaning": "텅 빈, 무효의 (공허한 공간)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "1b9390ce-1ed8-4a54-940d-b21afa47016a",
+    "word": "Barren",
+    "meaning": "척박한, 불모의 (생산력이 없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "076b9226-81e0-4ae9-b4a3-80eca737d0b2",
+    "word": "Destitute",
+    "meaning": "극빈한 (가진 것이 아무것도 없는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "c5054790-d06a-49fb-bce9-b0486bbfae69",
+    "word": "Impoverished",
+    "meaning": "빈곤한 (가난해진)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "0f964b87-0601-4b23-a8cc-0f9ada9d904c",
+    "word": "Poor",
+    "meaning": "가난한, 형편없는 (질이나 양이 낮은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "30ec2696-1735-41ad-a006-1765810eb530",
+    "word": "Deprived",
+    "meaning": "궁핍한, 불우한 (필수적인 것을 못 누리는)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "b8fe20f8-0ec7-4389-b81c-8176c1b188ae",
+    "word": "Dearth",
+    "meaning": "부족, 결핍 (기근처럼 모자람 - 명사)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "d313040c-6994-4b2f-96c8-50cc219e72fc",
+    "word": "Famine",
+    "meaning": "기근 (식량이 극도로 부족한 상태)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "dddaa544-1cbf-4362-aa78-18ac66ac2c99",
+    "word": "Drought",
+    "meaning": "가뭄 (물 부족)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "649cb872-b16e-40e1-b1dc-57946a7ff391",
+    "word": "Deficit",
+    "meaning": "적자, 부족액 (수입보다 지출이 많은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "a62dec6c-0a5a-44ac-8521-16650fbcfc71",
+    "word": "Shortage",
+    "meaning": "부족 (수요보다 공급이 적음)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "569e91c5-1fce-4556-be81-81ef9d76a13a",
+    "word": "Scarcity",
+    "meaning": "희소성 (드묾)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "b105b9b4-65f9-4376-a0c9-f500232c716a",
+    "word": "Need",
+    "meaning": "필요, 궁핍 (가난)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  },
+  {
+    "card_id": "a12e88f2-4820-4794-8fe3-4fd8e85d3b42",
+    "word": "Minimal",
+    "meaning": "최소한의 (아주 적은)",
+    "deck_id": "c1bb612c-764b-4dc6-862c-e8eb98389b00",
+    "deck_name": "SCARCITY_DEFICIENCY"
+  }
+]

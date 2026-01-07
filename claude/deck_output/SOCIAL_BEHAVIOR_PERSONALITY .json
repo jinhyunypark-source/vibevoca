@@ -1,0 +1,876 @@
+{
+  "deck_title": "SOCIAL_BEHAVIOR_PERSONALITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Sociable",
+      "sentence_en": "She is a very sociable person who enjoys meeting new people at every party.",
+      "sentence_ko": "그녀는 파티 때마다 새로운 사람들을 만나는 것을 즐기는 매우 사교적인 사람입니다.",
+      "tags": ["meeting", "relationship", "activity", "mood"]
+    },
+    {
+      "word": "Sociable",
+      "sentence_en": "Even when he's tired, he tries to stay sociable during business dining events.",
+      "sentence_ko": "그는 피곤할 때조차 비즈니스 식사 자리에서는 사교적인 태도를 유지하려 노력합니다.",
+      "tags": ["dining", "meeting", "time", "relationship"]
+    },
+    {
+      "word": "Sociable",
+      "sentence_en": "Being sociable is a great asset when you are working in a team environment.",
+      "sentence_ko": "팀 환경에서 일할 때 사교적인 성격은 큰 자산이 됩니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Sociable",
+      "sentence_en": "The cat is surprisingly sociable and always greets guests at the door.",
+      "sentence_ko": "그 고양이는 놀랍게도 사교적이어서 항상 현관에서 손님들을 반겨줍니다.",
+      "tags": ["place", "relationship", "mood"]
+    },
+    {
+      "word": "Sociable",
+      "sentence_en": "He became more sociable after joining a local sports club last year.",
+      "sentence_ko": "그는 작년에 지역 스포츠 클럽에 가입한 후 성격이 더 사교적으로 변했습니다.",
+      "tags": ["sport", "activity", "relationship", "time"]
+    },
+    {
+      "word": "Gregarious",
+      "sentence_en": "As a gregarious individual, he feels energized when surrounded by a large crowd.",
+      "sentence_ko": "남과 어울리기 좋아하는 성격이라, 그는 많은 사람들에게 둘러싸여 있을 때 에너지를 얻습니다.",
+      "tags": ["mood", "meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Gregarious",
+      "sentence_en": "Elephants are gregarious animals that live in closely-knit family groups.",
+      "sentence_ko": "코끼리는 긴밀하게 연결된 가족 단위로 생활하는 군집 본능이 강한 동물입니다.",
+      "tags": ["place", "activity", "relationship"]
+    },
+    {
+      "word": "Gregarious",
+      "sentence_en": "Her gregarious nature makes her the perfect host for any social gathering.",
+      "sentence_ko": "그녀의 활달하고 어울리기 좋아하는 성격은 어떤 사교 모임에서도 그녀를 완벽한 호스트로 만듭니다.",
+      "tags": ["meeting", "dining", "relationship", "mood"]
+    },
+    {
+      "word": "Gregarious",
+      "sentence_en": "Research suggests that gregarious people tend to have higher levels of general happiness.",
+      "sentence_ko": "연구에 따르면 남과 잘 어울리는 사람들이 전반적인 행복 수치가 더 높은 경향이 있다고 합니다.",
+      "tags": ["medical", "mood", "relationship"]
+    },
+    {
+      "word": "Gregarious",
+      "sentence_en": "He wasn't always this gregarious; he used to be quite a loner in school.",
+      "sentence_ko": "그가 항상 이렇게 어울리는 걸 좋아했던 건 아닙니다. 학창 시절에는 꽤 외톨이였거든요.",
+      "tags": ["time", "relationship", "mood"]
+    },
+    {
+      "word": "egregious",
+      "sentence_en": "The company faced a massive lawsuit due to an egregious breach of safety regulations.",
+      "sentence_ko": "그 회사는 안전 규정을 터무니없이 위반한 탓에 대규모 소송에 휘말렸습니다.",
+      "tags": ["meeting", "place", "sad"]
+    },
+    {
+      "word": "egregious",
+      "sentence_en": "It was an egregious error that cost the team their victory in the final match.",
+      "sentence_ko": "그것은 결승전에서 팀의 승리를 날려버린 아주 치명적인 실수였습니다.",
+      "tags": ["sport", "sad", "activity", "time"]
+    },
+    {
+      "word": "egregious",
+      "sentence_en": "The politician's egregious behavior was widely criticized by the public and the media.",
+      "sentence_ko": "그 정치인의 악명 높은 행동은 대중과 언론으로부터 널리 비판받았습니다.",
+      "tags": ["meeting", "relationship", "sad"]
+    },
+    {
+      "word": "egregious",
+      "sentence_en": "The report highlighted several egregious examples of animal cruelty in the region.",
+      "sentence_ko": "그 보고서는 해당 지역에서 발생한 동물을 학대한 아주 지독한 사례들을 강조했습니다.",
+      "tags": ["place", "sad", "medical"]
+    },
+    {
+      "word": "egregious",
+      "sentence_en": "Leaving the child alone in the car was an egregious lapse in judgment.",
+      "sentence_ko": "아이를 차 안에 혼자 둔 것은 정말 어처구니없고 심각한 판단 착오였습니다.",
+      "tags": ["sad", "medical", "time"]
+    },
+    {
+      "word": "Outgoing",
+      "sentence_en": "The sales department is looking for an outgoing person who can communicate effectively.",
+      "sentence_ko": "영업부에서는 효과적으로 소통할 수 있는 외향적인 인재를 찾고 있습니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Outgoing",
+      "sentence_en": "My brother is outgoing and loud, while I am quiet and reserved.",
+      "sentence_ko": "제 형은 활달하고 목소리도 크지만, 저는 조용하고 내성적인 편입니다.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Outgoing",
+      "sentence_en": "She became more outgoing after spending a year studying abroad in Australia.",
+      "sentence_ko": "그녀는 호주에서 1년간 유학을 다녀온 후 성격이 더 활발해졌습니다.",
+      "tags": ["time", "activity", "mood", "place"]
+    },
+    {
+      "word": "Outgoing",
+      "sentence_en": "An outgoing personality is often helpful when trying to make friends in a new city.",
+      "sentence_ko": "새로운 도시에서 친구를 사귀려 할 때 외향적인 성격은 종종 도움이 됩니다.",
+      "tags": ["place", "relationship", "activity"]
+    },
+    {
+      "word": "Outgoing",
+      "sentence_en": "He gave an outgoing performance that captivated the entire audience.",
+      "sentence_ko": "그는 모든 관객을 사로잡는 열정적이고 거침없는 공연을 선보였습니다.",
+      "tags": ["activity", "mood", "time"]
+    },
+    {
+      "word": "Extroverted",
+      "sentence_en": "Extroverted people often find it easy to start conversations with complete strangers.",
+      "sentence_ko": "외향적인 사람들은 완전히 모르는 타인과 대화를 시작하는 것을 종종 쉽게 느낍니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Extroverted",
+      "sentence_en": "I used to think I was extroverted, but now I realize I value my alone time.",
+      "sentence_ko": "저는 제가 외향적이라고 생각했었지만, 이제는 혼자만의 시간을 소중히 여긴다는 걸 깨달았습니다.",
+      "tags": ["mood", "time", "relationship"]
+    },
+    {
+      "word": "Extroverted",
+      "sentence_en": "The project requires an extroverted leader who can motivate a large group.",
+      "sentence_ko": "이 프로젝트는 대규모 인원을 동기 부여할 수 있는 외향적인 리더를 필요로 합니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Extroverted",
+      "sentence_en": "Being extroverted doesn't mean you don't get nervous before a big speech.",
+      "sentence_ko": "외향적이라고 해서 큰 강연 앞에 긴장하지 않는다는 뜻은 아닙니다.",
+      "tags": ["mood", "meeting", "medical"]
+    },
+    {
+      "word": "Extroverted",
+      "sentence_en": "Studies show that extroverted students often participate more in classroom discussions.",
+      "sentence_ko": "연구에 따르면 외향적인 학생들은 수업 토론에 더 많이 참여하는 경향이 있습니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Introverted",
+      "sentence_en": "Introverted individuals often prefer small gatherings over loud and crowded parties.",
+      "sentence_ko": "내향적인 사람들은 시끄럽고 붐비는 파티보다 소규모 모임을 선호하는 경우가 많습니다.",
+      "tags": ["meeting", "mood", "place", "relationship"]
+    },
+    {
+      "word": "Introverted",
+      "sentence_en": "He feels exhausted after a long day of meetings because he is quite introverted.",
+      "sentence_ko": "그는 꽤 내향적인 편이라 회의가 많은 날이 지나면 기진맥진함을 느낍니다.",
+      "tags": ["time", "sad", "meeting", "medical"]
+    },
+    {
+      "word": "Introverted",
+      "sentence_en": "Many creative artists are introverted and find inspiration in quiet solitude.",
+      "sentence_ko": "많은 창의적인 예술가들은 내향적이며 조용한 고독 속에서 영감을 얻습니다.",
+      "tags": ["mood", "activity", "place"]
+    },
+    {
+      "word": "Introverted",
+      "sentence_en": "Her introverted nature was mistaken for coldness by some of her coworkers.",
+      "sentence_ko": "그녀의 내향적인 성격은 일부 동료들에게 차가움으로 오해받기도 했습니다.",
+      "tags": ["relationship", "sad", "meeting"]
+    },
+    {
+      "word": "Introverted",
+      "sentence_en": "I love reading books at home; it's the perfect activity for an introverted person.",
+      "sentence_ko": "저는 집에서 책 읽는 걸 좋아해요. 내향적인 사람에게는 완벽한 활동이죠.",
+      "tags": ["place", "activity", "mood"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The charismatic speaker had the audience laughing and cheering within minutes.",
+      "sentence_ko": "카리스마 넘치는 그 강연자는 몇 분 만에 청중을 웃기고 환호하게 만들었습니다.",
+      "tags": ["meeting", "mood", "activity"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "He is a charismatic leader who can inspire his team to achieve the impossible.",
+      "sentence_ko": "그는 팀이 불가능을 달성하도록 영감을 불어넣는 카리스마 있는 리더입니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "Even without saying a word, she has a charismatic presence that fills the room.",
+      "sentence_ko": "말 한마디 하지 않아도, 그녀는 방 안을 가득 채우는 카리스마 있는 존재감을 내뿜습니다.",
+      "tags": ["place", "mood", "relationship"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The actor's charismatic performance made the movie a huge global success.",
+      "sentence_ko": "그 배우의 매력 넘치는 연기가 그 영화를 거대한 세계적 성공으로 이끌었습니다.",
+      "tags": ["activity", "mood", "time"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "Some people are naturally charismatic, while others have to work on their social skills.",
+      "sentence_ko": "어떤 사람들은 타고나길 카리스마가 있지만, 어떤 사람들은 사회적 기술을 갈고닦아야 합니다.",
+      "tags": ["relationship", "meeting", "mood"]
+    },
+    {
+      "word": "Charming",
+      "sentence_en": "The small village we visited last summer was absolutely charming and peaceful.",
+      "sentence_ko": "지난여름 우리가 방문했던 작은 마을은 정말 매력적이고 평화로웠습니다.",
+      "tags": ["place", "time", "mood"]
+    },
+    {
+      "word": "Charming",
+      "sentence_en": "He used his charming smile to win over the difficult clients during the meeting.",
+      "sentence_ko": "그는 회의 중에 까다로운 고객들의 마음을 사기 위해 매력적인 미소를 지었습니다.",
+      "tags": ["meeting", "relationship", "mood"]
+    },
+    {
+      "word": "Charming",
+      "sentence_en": "The waiter was very charming, which made our dining experience even more pleasant.",
+      "sentence_ko": "웨이터가 매우 매력적이었고, 덕분에 우리의 식사 경험이 훨씬 더 즐거웠습니다.",
+      "tags": ["dining", "relationship", "mood"]
+    },
+    {
+      "word": "Charming",
+      "sentence_en": "She has a charming way of telling stories that keeps everyone's attention.",
+      "sentence_ko": "그녀는 모든 사람의 주의를 끄는 매력적인 이야기 전달 방식을 가지고 있습니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Charming",
+      "sentence_en": "The old bookstore has a charming, dusty smell that reminds me of my childhood.",
+      "sentence_ko": "그 낡은 서점에는 어린 시절을 떠올리게 하는 매력적이고 퀴퀴한 냄새가 납니다.",
+      "tags": ["place", "time", "mood"]
+    },
+    {
+      "word": "Likable",
+      "sentence_en": "He is such a likable person that he doesn't have a single enemy in the office.",
+      "sentence_ko": "그는 정말 호감이 가는 사람이라 사무실에 적이 단 한 명도 없습니다.",
+      "tags": ["relationship", "meeting", "mood"]
+    },
+    {
+      "word": "Likable",
+      "sentence_en": "The main character in the novel is flawed but still very likable to readers.",
+      "sentence_ko": "그 소설의 주인공은 결점이 있지만 독자들에게 여전히 매우 호감이 가는 인물입니다.",
+      "tags": ["activity", "relationship", "mood"]
+    },
+    {
+      "word": "Likable",
+      "sentence_en": "Being likable can sometimes be more important than technical skills during a job interview.",
+      "sentence_ko": "취업 면접에서는 때로 기술적인 능력보다 호감을 주는 인상이 더 중요할 수 있습니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Likable",
+      "sentence_en": "Her warm personality and sense of humor make her instantly likable to everyone she meets.",
+      "sentence_ko": "그녀의 따뜻한 성격과 유머 감각은 만나는 모든 사람에게 즉각적으로 호감을 줍니다.",
+      "tags": ["relationship", "meeting", "mood"]
+    },
+    {
+      "word": "Likable",
+      "sentence_en": "Politicians often try hard to appear likable to voters during the election season.",
+      "sentence_ko": "정치인들은 선거철 동안 유권자들에게 호감을 사기 위해 종종 열심히 노력합니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Popular",
+      "sentence_en": "Basketball is one of the most popular sports among teenagers in this country.",
+      "sentence_ko": "농구는 이 나라 십 대들 사이에서 가장 인기 있는 스포츠 중 하나입니다.",
+      "tags": ["sport", "activity", "relationship"]
+    },
+    {
+      "word": "Popular",
+      "sentence_en": "This Italian restaurant is so popular that you have to book a table weeks in advance.",
+      "sentence_ko": "이 이탈리안 레스토랑은 인기가 너무 많아서 몇 주 전에 테이블을 예약해야 합니다.",
+      "tags": ["dining", "place", "time"]
+    },
+    {
+      "word": "Popular",
+      "sentence_en": "She became popular in school after she won the national talent competition.",
+      "sentence_ko": "그녀는 전국 장기 자랑 대회에서 우승한 후 학교에서 유명해졌습니다.",
+      "tags": ["activity", "relationship", "time"]
+    },
+    {
+      "word": "Popular",
+      "sentence_en": "The song is very popular on social media right now, with millions of views.",
+      "sentence_ko": "그 노래는 현재 소셜 미디어에서 수백만 조회수를 기록하며 매우 인기 있습니다.",
+      "tags": ["activity", "time", "relationship"]
+    },
+    {
+      "word": "Popular",
+      "sentence_en": "He wasn't very popular as a child, but he grew up to be a beloved actor.",
+      "sentence_ko": "그는 어렸을 때 별로 인기가 없었지만, 커서 사랑받는 배우가 되었습니다.",
+      "tags": ["time", "relationship", "mood"]
+    },
+    {
+      "word": "Altruistic",
+      "sentence_en": "Volunteering at the hospital was an altruistic act that brought him great personal fulfillment.",
+      "sentence_ko": "병원에서 자원봉사를 하는 것은 그에게 큰 개인적 성취감을 안겨준 이타적인 행동이었습니다.",
+      "tags": ["medical", "activity", "mood", "relationship"]
+    },
+    {
+      "word": "Altruistic",
+      "sentence_en": "She is known for her altruistic nature, always putting the needs of others before her own.",
+      "sentence_ko": "그녀는 항상 자신의 욕구보다 타인의 필요를 먼저 생각하는 이타적인 성품으로 알려져 있습니다.",
+      "tags": ["relationship", "mood", "activity"]
+    },
+    {
+      "word": "Altruistic",
+      "sentence_en": "True altruistic behavior often goes unnoticed because the person doesn't seek recognition.",
+      "sentence_ko": "진정한 이타적 행위는 당사자가 인정을 바라지 않기 때문에 종종 눈에 띄지 않기도 합니다.",
+      "tags": ["mood", "relationship", "activity"]
+    },
+    {
+      "word": "Altruistic",
+      "sentence_en": "Some scientists argue whether completely altruistic motives truly exist in humans.",
+      "sentence_ko": "일부 과학자들은 인간에게 완전히 이타적인 동기가 정말로 존재하는지 논쟁합니다.",
+      "tags": ["medical", "meeting", "mood"]
+    },
+    {
+      "word": "Altruistic",
+      "sentence_en": "He made an altruistic donation to the local library to fund more children's books.",
+      "sentence_ko": "그는 더 많은 어린이 도서를 마련하기 위해 지역 도서관에 이타적인 기부를 했습니다.",
+      "tags": ["activity", "relationship", "place"]
+    },
+    {
+      "word": "Approachable",
+      "sentence_en": "Our new manager is very approachable and always has time to listen to our concerns.",
+      "sentence_ko": "우리의 새 매니저는 매우 다가가기 쉬운 사람이며 항상 우리의 고민을 들어줄 시간이 있습니다.",
+      "tags": ["meeting", "relationship", "time", "mood"]
+    },
+    {
+      "word": "Approachable",
+      "sentence_en": "The professor made herself approachable by holding extra office hours for struggling students.",
+      "sentence_ko": "교수님은 어려움을 겪는 학생들을 위해 추가 상담 시간을 가짐으로써 다가가기 쉬운 모습을 보였습니다.",
+      "tags": ["meeting", "relationship", "time"]
+    },
+    {
+      "word": "Approachable",
+      "sentence_en": "His smile makes him look much more approachable than he actually is.",
+      "sentence_ko": "그의 미소는 그를 실제보다 훨씬 더 다가가기 쉬운 사람처럼 보이게 합니다.",
+      "tags": ["mood", "relationship", "meeting"]
+    },
+    {
+      "word": "Approachable",
+      "sentence_en": "A friendly body language is key to appearing approachable in a networking event.",
+      "sentence_ko": "친근한 보디랭귀지는 네트워킹 행사에서 다가가기 쉬운 인상을 주는 핵심입니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Approachable",
+      "sentence_en": "Even though he is a famous celebrity, he remains surprisingly humble and approachable.",
+      "sentence_ko": "그는 유명한 연예인임에도 불구하고 놀라울 정도로 겸손하고 다가가기 쉬운 태도를 유지합니다.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "The doctor is very accessible and can be reached by phone even during weekends.",
+      "sentence_ko": "그 의사는 연락이 매우 잘 되어서 주말 동안에도 전화로 소통이 가능합니다.",
+      "tags": ["medical", "time", "relationship"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "The information on the website is presented in a clear and accessible format for everyone.",
+      "sentence_ko": "웹사이트의 정보는 모든 사람이 쉽게 접근할 수 있는 명확한 형식으로 제공됩니다.",
+      "tags": ["activity", "meeting", "place"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "The new museum was designed to be fully accessible to people with disabilities.",
+      "sentence_ko": "새 박물관은 장애인들이 완전히 접근할 수 있도록 설계되었습니다.",
+      "tags": ["place", "activity", "medical"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "He is one of the most accessible CEOs I have ever worked for.",
+      "sentence_ko": "그는 제가 함께 일해본 CEO 중 가장 만나기 편하고 소통이 잘 되는 분 중 한 명입니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "Public transportation makes the city center much more accessible for those without cars.",
+      "sentence_ko": "대중교통 덕분에 차가 없는 사람들도 도심에 훨씬 더 쉽게 접근할 수 있습니다.",
+      "tags": ["place", "activity", "time"]
+    },
+    {
+      "word": "Welcoming",
+      "sentence_en": "The staff at the hotel were very welcoming and made us feel right at home.",
+      "sentence_ko": "호텔 직원들이 매우 반갑게 맞아주어 마치 집에 있는 것처럼 편안했습니다.",
+      "tags": ["place", "mood", "relationship"]
+    },
+    {
+      "word": "Welcoming",
+      "sentence_en": "She decorated the guest room to make it more welcoming for her parents' visit.",
+      "sentence_ko": "그녀는 부모님의 방문을 위해 손님방을 더 아늑하고 환영하는 분위기로 꾸몄습니다.",
+      "tags": ["place", "relationship", "activity"]
+    },
+    {
+      "word": "Welcoming",
+      "sentence_en": "The community gave a welcoming applause when the guest speaker walked onto the stage.",
+      "sentence_ko": "초청 강연자가 무대 위로 올라오자 지역 공동체는 환영의 박수를 보냈습니다.",
+      "tags": ["meeting", "activity", "mood"]
+    },
+    {
+      "word": "Welcoming",
+      "sentence_en": "A warm fire in the fireplace provided a welcoming atmosphere on the cold winter night.",
+      "sentence_ko": "벽난로의 따뜻한 불꽃이 추운 겨울밤을 반갑게 맞아주는 듯한 분위기를 자아냈습니다.",
+      "tags": ["place", "time", "mood"]
+    },
+    {
+      "word": "Welcoming",
+      "sentence_en": "I was nervous about my first day, but everyone in the office was so welcoming.",
+      "sentence_ko": "첫 출근이라 긴장했지만, 사무실의 모든 분이 정말 따뜻하게 맞아주셨습니다.",
+      "tags": ["time", "meeting", "mood", "relationship"]
+    },
+    {
+      "word": "Hospitable",
+      "sentence_en": "The locals were incredibly hospitable, often inviting us into their homes for tea.",
+      "sentence_ko": "현지인들은 믿을 수 없을 정도로 친절했고, 종종 우리를 집으로 초대해 차를 대접하곤 했습니다.",
+      "tags": ["dining", "place", "relationship", "mood"]
+    },
+    {
+      "word": "Hospitable",
+      "sentence_en": "A hospitable environment in the workplace can significantly improve employee morale.",
+      "sentence_ko": "직장 내의 따뜻하고 환대하는 환경은 직원 사기를 크게 높일 수 있습니다.",
+      "tags": ["meeting", "mood", "relationship"]
+    },
+    {
+      "word": "Hospitable",
+      "sentence_en": "Southern states are often famous for their warm and hospitable culture.",
+      "sentence_ko": "남부 주들은 따뜻하고 손님을 잘 대접하는 문화로 종종 유명합니다.",
+      "tags": ["place", "relationship", "activity"]
+    },
+    {
+      "word": "Hospitable",
+      "sentence_en": "The weather was not very hospitable for a picnic, so we stayed indoors.",
+      "sentence_ko": "날씨가 소풍하기에 그리 좋지 않아서(반갑지 않아서) 우리는 실내에 머물렀습니다.",
+      "tags": ["mood", "place", "time"]
+    },
+    {
+      "word": "Hospitable",
+      "sentence_en": "He is such a hospitable host; he makes sure everyone's plate is always full.",
+      "sentence_ko": "그는 정말 후한 호스트입니다. 그는 모든 사람의 접시가 항상 가득 차 있도록 신경 씁니다.",
+      "tags": ["dining", "relationship", "mood"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "She was generous enough to share her lunch with a classmate who had forgotten theirs.",
+      "sentence_ko": "그녀는 점심을 잊어버린 반 친구와 자신의 점심을 기꺼이 나누어 줄 만큼 관대했습니다.",
+      "tags": ["dining", "relationship", "mood", "activity"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "The company offered a generous bonus to all employees after a successful year.",
+      "sentence_ko": "회사는 성공적인 한 해를 보낸 후 모든 직원에게 후한 보너스를 제공했습니다.",
+      "tags": ["meeting", "time", "activity"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "He is a generous man who donates a large portion of his income to charity.",
+      "sentence_ko": "그는 수입의 큰 부분을 자선 단체에 기부하는 마음이 넓은 사람입니다.",
+      "tags": ["activity", "relationship", "mood"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "The restaurant is known for serving generous portions of pasta at a low price.",
+      "sentence_ko": "그 레스토랑은 저렴한 가격에 파스타를 푸짐하게 주는 것으로 유명합니다.",
+      "tags": ["dining", "place", "activity"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "Thank you for your generous praise; it means a lot to me.",
+      "sentence_ko": "아낌없는 칭찬 감사드립니다. 저에게 큰 의미가 있어요.",
+      "tags": ["mood", "relationship", "meeting"]
+    },
+    {
+      "word": "Selfish",
+      "sentence_en": "It was selfish of him to take all the credit for the team's hard work.",
+      "sentence_ko": "팀의 노력을 혼자 다 독차지하려 하다니 그는 참 이기적이었습니다.",
+      "tags": ["meeting", "sad", "relationship"]
+    },
+    {
+      "word": "Selfish",
+      "sentence_en": "Sometimes you need to be a little selfish and prioritize your own mental health.",
+      "sentence_ko": "때로는 조금 이기적일 필요도 있습니다. 자신의 정신 건강을 우선시하세요.",
+      "tags": ["medical", "mood", "activity"]
+    },
+    {
+      "word": "Selfish",
+      "sentence_en": "The child acted selfishly and refused to share any of his toys with his sister.",
+      "sentence_ko": "그 아이는 이기적으로 행동하며 여동생에게 장난감을 하나도 빌려주지 않았습니다.",
+      "tags": ["relationship", "sad", "mood"]
+    },
+    {
+      "word": "Selfish",
+      "sentence_en": "Her selfish behavior eventually caused many of her friends to distance themselves.",
+      "sentence_ko": "그녀의 이기적인 행동은 결국 많은 친구가 그녀를 멀리하게 만들었습니다.",
+      "tags": ["relationship", "sad", "time"]
+    },
+    {
+      "word": "Selfish",
+      "sentence_en": "I don't want to sound selfish, but I really need a break right now.",
+      "sentence_ko": "이기적으로 들리고 싶진 않지만, 지금 정말 휴식이 필요해요.",
+      "tags": ["mood", "time", "medical"]
+    },
+    {
+      "word": "Egocentric",
+      "sentence_en": "His egocentric worldview makes it difficult for him to understand other people's perspectives.",
+      "sentence_ko": "그의 자기중심적인 세계관은 그가 다른 사람들의 관점을 이해하는 것을 어렵게 만듭니다.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Egocentric",
+      "sentence_en": "Young children are often naturally egocentric and believe everyone sees the world as they do.",
+      "sentence_ko": "어린아이들은 종종 태생적으로 자기중심적이며 모든 사람이 자신처럼 세상을 본다고 믿습니다.",
+      "tags": ["medical", "relationship", "mood"]
+    },
+    {
+      "word": "Egocentric",
+      "sentence_en": "The actor was criticized for his egocentric demands on the movie set.",
+      "sentence_ko": "그 배우는 영화 촬영장에서의 자기중심적인 요구로 비판을 받았습니다.",
+      "tags": ["activity", "sad", "meeting"]
+    },
+    {
+      "word": "Egocentric",
+      "sentence_en": "It’s hard to have a balanced conversation with someone who is so egocentric.",
+      "sentence_ko": "그렇게 자기중심적인 사람과 균형 잡힌 대화를 나누기는 어렵습니다.",
+      "tags": ["meeting", "relationship", "sad"]
+    },
+    {
+      "word": "Egocentric",
+      "sentence_en": "Her egocentric attitude prevented her from seeing how much she was hurting her family.",
+      "sentence_ko": "그녀의 자기중심적인 태도는 그녀가 가족들에게 얼마나 상처를 주고 있는지 보지 못하게 했습니다.",
+      "tags": ["relationship", "sad", "family"]
+    },
+    {
+      "word": "Narcissistic",
+      "sentence_en": "He spends hours in front of the mirror, which many people find narcissistic.",
+      "sentence_ko": "그는 거울 앞에서 몇 시간을 보내는데, 많은 이들이 이를 자아도취적이라고 생각합니다.",
+      "tags": ["mood", "activity", "sad"]
+    },
+    {
+      "word": "Narcissistic",
+      "sentence_en": "Social media is often blamed for encouraging narcissistic tendencies in young people.",
+      "sentence_ko": "소셜 미디어는 종종 젊은이들의 자아도취적 성향을 부추긴다는 비난을 받습니다.",
+      "tags": ["activity", "relationship", "sad"]
+    },
+    {
+      "word": "Narcissistic",
+      "sentence_en": "Being in a relationship with a narcissistic person can be emotionally draining.",
+      "sentence_ko": "자아도취적인 사람과 관계를 맺는 것은 감정적으로 매우 소모적일 수 있습니다.",
+      "tags": ["relationship", "sad", "medical"]
+    },
+    {
+      "word": "Narcissistic",
+      "sentence_en": "The boss's narcissistic personality made him ignore any advice from his subordinates.",
+      "sentence_ko": "그 상사의 자아도취적인 성격은 그가 부하 직원들의 그 어떤 조언도 무시하게 만들었습니다.",
+      "tags": ["meeting", "relationship", "sad"]
+    },
+    {
+      "word": "Narcissistic",
+      "sentence_en": "In Greek mythology, Narcissus died because of his own narcissistic obsession with his reflection.",
+      "sentence_ko": "그리스 신화에서 나르키소스는 자신의 비친 모습에 대한 자아도취적 집착 때문에 죽었습니다.",
+      "tags": ["activity", "sad", "place"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "He was so arrogant that he refused to admit he had made a mistake.",
+      "sentence_ko": "그는 너무 오만해서 자신이 실수했다는 사실을 인정하려 하지 않았습니다.",
+      "tags": ["mood", "sad", "meeting"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "The arrogant athlete claimed he was the greatest of all time before the match even started.",
+      "sentence_ko": "그 오만한 선수는 경기가 시작되기도 전에 자신이 역대 최고라고 주장했습니다.",
+      "tags": ["sport", "activity", "sad"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "She found his arrogant tone of voice extremely irritating during the discussion.",
+      "sentence_ko": "그녀는 토론 중 그의 오만한 목소리 톤이 매우 짜증스럽다고 느꼈습니다.",
+      "tags": ["meeting", "relationship", "sad"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "Success can sometimes lead people to become arrogant and lose touch with reality.",
+      "sentence_ko": "성공은 때로 사람들을 오만하게 만들고 현실 감각을 잃게 할 수 있습니다.",
+      "tags": ["mood", "activity", "sad"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "Don't be so arrogant; remember that there is always someone better than you.",
+      "sentence_ko": "그렇게 오만하게 굴지 마세요. 당신보다 뛰어난 사람은 항상 있다는 걸 기억하세요.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "Despite his fame, he remains humble and always takes time to talk to his fans.",
+      "sentence_ko": "명성에도 불구하고 그는 겸손함을 유지하며 항상 팬들과 대화할 시간을 가집니다.",
+      "tags": ["relationship", "mood", "time", "meeting"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "In my humble opinion, we should try a different approach to this problem.",
+      "sentence_ko": "제 비천한(겸손한) 의견으로는, 이 문제에 대해 다른 접근 방식을 시도해봐야 할 것 같습니다.",
+      "tags": ["meeting", "relationship", "mood"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "He comes from a humble background but worked his way up to become a CEO.",
+      "sentence_ko": "그는 보잘것없는(겸손한) 배경 출신이지만 CEO가 되기 위해 자수성가했습니다.",
+      "tags": ["relationship", "activity", "time"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "The experience was a humble reminder of how much I still have to learn.",
+      "sentence_ko": "그 경험은 내가 여전히 배울 것이 얼마나 많은지 겸허하게 일깨워주었습니다.",
+      "tags": ["mood", "activity", "meeting"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "She accepted the award with a humble speech, thanking everyone who supported her.",
+      "sentence_ko": "그녀는 자신을 지지해준 모든 이에게 감사하며 겸손한 연설로 상을 수락했습니다.",
+      "tags": ["meeting", "mood", "activity"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "She lives in a modest house, even though she is quite wealthy.",
+      "sentence_ko": "그녀는 꽤 부유함에도 불구하고 수수한 집에서 살고 있습니다.",
+      "tags": ["place", "mood", "activity"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "He is very modest about his achievements and never brags about his success.",
+      "sentence_ko": "그는 자신의 업적에 대해 매우 겸손하며 자신의 성공을 절대 자랑하지 않습니다.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "The company reported a modest increase in profits for the first quarter.",
+      "sentence_ko": "그 회사는 1분기에 약간의(수수한) 이익 증가를 보고했습니다.",
+      "tags": ["activity", "time", "meeting"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "She wore a modest dress that was appropriate for the formal event.",
+      "sentence_ko": "그녀는 공식적인 행사에 적합한 단정한(수수한) 드레스를 입었습니다.",
+      "tags": ["activity", "place", "meeting"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "You are too modest; your contribution to this project was vital.",
+      "sentence_ko": "당신은 너무 겸손해요. 이 프로젝트에 대한 당신의 기여는 필수적이었습니다.",
+      "tags": ["meeting", "relationship", "mood"]
+    },
+    {
+      "word": "Shy",
+      "sentence_en": "As a child, I was very shy and would hide behind my mother whenever we met strangers.",
+      "sentence_ko": "어렸을 때 저는 매우 수줍음을 많이 타서 낯선 사람을 만날 때마다 어머니 뒤에 숨곤 했습니다.",
+      "tags": ["time", "relationship", "sad", "mood"]
+    },
+    {
+      "word": "Shy",
+      "sentence_en": "He is shy around girls, so he often finds it hard to go on dates.",
+      "sentence_ko": "그는 여자애들 앞에서는 수줍음을 타서 데이트하는 걸 종종 힘들어합니다.",
+      "tags": ["relationship", "mood", "time"]
+    },
+    {
+      "word": "Shy",
+      "sentence_en": "She gave a shy smile when the teacher praised her work in front of the class.",
+      "sentence_ko": "선생님이 반 아이들 앞에서 그녀의 과제를 칭찬하자 그녀는 수줍은 미소를 지었습니다.",
+      "tags": ["meeting", "mood", "relationship"]
+    },
+    {
+      "word": "Shy",
+      "sentence_en": "Don't be shy; feel free to ask any questions you might have.",
+      "sentence_ko": "쑥스러워하지 마세요. 궁금한 점이 있으면 무엇이든 편하게 물어보세요.",
+      "tags": ["meeting", "relationship", "mood"]
+    },
+    {
+      "word": "Shy",
+      "sentence_en": "The shy deer quickly ran back into the forest when it heard a noise.",
+      "sentence_ko": "겁 많은 사슴은 소리를 듣자마자 재빨리 숲속으로 달아났습니다.",
+      "tags": ["nature", "mood", "place"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "The timid kitten was afraid to come out from under the sofa for hours.",
+      "sentence_ko": "겁 많은 아기 고양이는 몇 시간 동안 소파 밑에서 나오기를 두려워했습니다.",
+      "tags": ["place", "mood", "time"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "His timid approach to the negotiation resulted in a poor deal for the company.",
+      "sentence_ko": "협상에 대한 그의 소심한 접근 방식은 회사에 좋지 않은 거래 결과를 가져왔습니다.",
+      "tags": ["meeting", "sad", "activity"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "She spoke in a timid voice, barely audible to the people in the back row.",
+      "sentence_ko": "그녀는 소심한 목소리로 말해서 뒷줄 사람들에게는 거의 들리지 않았습니다.",
+      "tags": ["meeting", "sad", "relationship"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "We need someone bold for this job, not someone timid who is afraid of risks.",
+      "sentence_ko": "이 일에는 용기 있는 사람이 필요합니다. 위험을 두려워하는 소심한 사람 말고 말이죠.",
+      "tags": ["meeting", "activity", "mood"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "He took a timid step onto the ice, checking if it was strong enough to hold him.",
+      "sentence_ko": "그는 얼음이 자신을 지탱할 만큼 튼튼한지 확인하며 조심스럽게(소심하게) 발을 내디뎠습니다.",
+      "tags": ["activity", "place", "mood"]
+    },
+    {
+      "word": "Bashful",
+      "sentence_en": "He became bashful and turned red when his coworkers started singing 'Happy Birthday'.",
+      "sentence_ko": "직장 동료들이 '생일 축하해' 노래를 부르기 시작하자 그는 수줍어서 얼굴이 빨개졌습니다.",
+      "tags": ["meeting", "mood", "time", "relationship"]
+    },
+    {
+      "word": "Bashful",
+      "sentence_en": "The bashful child hid his face behind a book when the guest spoke to him.",
+      "sentence_ko": "부끄러움 타는 아이는 손님이 말을 걸자 책 뒤로 얼굴을 숨겼습니다.",
+      "tags": ["relationship", "mood", "meeting"]
+    },
+    {
+      "word": "Bashful",
+      "sentence_en": "She gave a bashful glance toward him and then quickly looked away.",
+      "sentence_ko": "그녀는 그를 향해 수줍은 눈길을 한 번 보낸 뒤 얼른 고개를 돌렸습니다.",
+      "tags": ["relationship", "mood", "time"]
+    },
+    {
+      "word": "Bashful",
+      "sentence_en": "Even though he is a tough athlete, he can be quite bashful around new people.",
+      "sentence_ko": "그는 강인한 운동선수임에도 불구하고 처음 본 사람들 앞에서는 꽤 수줍음을 탈 수 있습니다.",
+      "tags": ["sport", "relationship", "mood"]
+    },
+    {
+      "word": "Bashful",
+      "sentence_en": "The bashful young man finally gathered the courage to ask her for a dance.",
+      "sentence_ko": "부끄러움 많던 청년은 마침내 용기를 내어 그녀에게 춤을 청했습니다.",
+      "tags": ["activity", "mood", "relationship"]
+    },
+    {
+      "word": "Awkward",
+      "sentence_en": "There was an awkward silence in the elevator as neither of them knew what to say.",
+      "sentence_ko": "둘 다 무슨 말을 해야 할지 몰라 엘리베이터 안에는 어색한 침묵이 흘렀습니다.",
+      "tags": ["place", "sad", "meeting", "relationship"]
+    },
+    {
+      "word": "Awkward",
+      "sentence_en": "I felt awkward wearing a suit when everyone else was dressed casually at the party.",
+      "sentence_ko": "파티에서 다른 사람들은 모두 캐주얼하게 입었는데 나만 정장을 입고 있어서 어색했습니다.",
+      "tags": ["place", "sad", "mood"]
+    },
+    {
+      "word": "Awkward",
+      "sentence_en": "She is in an awkward position where she has to choose between two close friends.",
+      "sentence_ko": "그녀는 두 명의 친한 친구 중 한 명을 선택해야 하는 난처한(어색한) 상황에 부닥쳐 있습니다.",
+      "tags": ["relationship", "sad", "mood"]
+    },
+    {
+      "word": "Awkward",
+      "sentence_en": "He is quite awkward at sports and often trips over his own feet.",
+      "sentence_ko": "그는 운동에 꽤 서툴러서(어색해서) 종종 자기 발에 걸려 넘어지곤 합니다.",
+      "tags": ["sport", "activity", "sad"]
+    },
+    {
+      "word": "Awkward",
+      "sentence_en": "Asking for money is always an awkward conversation to have with family members.",
+      "sentence_ko": "돈 이야기를 꺼내는 것은 가족 구성원들과 나누기에 항상 어색한 대화입니다.",
+      "tags": ["relationship", "sad", "dining"]
+    },
+    {
+      "word": "Socially awkward",
+      "sentence_en": "He feels socially awkward and often worries about saying the wrong thing in public.",
+      "sentence_ko": "그는 사회성이 부족하다고 느끼며 대중 앞에서 실수할까 봐 자주 걱정합니다.",
+      "tags": ["meeting", "sad", "mood", "medical"]
+    },
+    {
+      "word": "Socially awkward",
+      "sentence_en": "Being socially awkward can make it difficult to network and find new career opportunities.",
+      "sentence_ko": "사회성이 서툰 것은 인맥을 쌓고 새로운 경력 기회를 찾는 것을 어렵게 만들 수 있습니다.",
+      "tags": ["meeting", "activity", "sad"]
+    },
+    {
+      "word": "Socially awkward",
+      "sentence_en": "She was socially awkward in high school but became very confident in university.",
+      "sentence_ko": "그녀는 고등학교 때 사회성이 서툴렀지만 대학교에서는 매우 자신감이 넘치게 되었습니다.",
+      "tags": ["time", "mood", "relationship"]
+    },
+    {
+      "word": "Socially awkward",
+      "sentence_en": "People often mistake his being socially awkward for him being rude or unfriendly.",
+      "sentence_ko": "사람들은 종종 그의 사회적 서투름을 무례하거나 불친절한 것으로 오해하곤 합니다.",
+      "tags": ["relationship", "sad", "meeting"]
+    },
+    {
+      "word": "Socially awkward",
+      "sentence_en": "I had a socially awkward moment today when I waved at someone who wasn't looking at me.",
+      "sentence_ko": "오늘 저를 보고 있지 않은 사람에게 손을 흔들었다가 사회적으로 아주 머쓱한(서툰) 순간을 겪었습니다.",
+      "tags": ["activity", "sad", "mood"]
+    },
+    {
+      "word": "Confident",
+      "sentence_en": "She walked into the meeting room looking confident and ready to present her ideas.",
+      "sentence_ko": "그녀는 자신감 넘치는 모습으로 회의실에 들어와 자신의 아이디어를 발표할 준비를 마쳤습니다.",
+      "tags": ["meeting", "mood", "activity"]
+    },
+    {
+      "word": "Confident",
+      "sentence_en": "I am confident that our team will win the championship this year.",
+      "sentence_ko": "저는 우리 팀이 올해 챔피언십에서 우승할 것이라고 확신합니다(자신합니다).",
+      "tags": ["sport", "mood", "activity"]
+    },
+    {
+      "word": "Confident",
+      "sentence_en": "Practicing your speech in front of a mirror can help you feel more confident.",
+      "sentence_ko": "거울 앞에서 연설 연습을 하는 것은 더 자신감을 느끼는 데 도움이 될 수 있습니다.",
+      "tags": ["activity", "mood", "meeting"]
+    },
+    {
+      "word": "Confident",
+      "sentence_en": "A confident smile can make a great first impression during a first date.",
+      "sentence_ko": "자신감 있는 미소는 첫 데이트에서 아주 좋은 첫인상을 줄 수 있습니다.",
+      "tags": ["relationship", "mood", "dining"]
+    },
+    {
+      "word": "Confident",
+      "sentence_en": "He is so confident in his abilities that he rarely asks for help from others.",
+      "sentence_ko": "그는 자신의 능력에 너무나 자신이 있어서 타인에게 도움을 요청하는 일이 드뭅니다.",
+      "tags": ["mood", "relationship", "activity"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "You need to be more assertive if you want to get a promotion in this company.",
+      "sentence_ko": "이 회사에서 승진하고 싶다면 자기주장을 더 뚜렷하게 할 필요가 있습니다.",
+      "tags": ["meeting", "activity", "relationship"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "She gave an assertive response when her ideas were unfairly criticized by the manager.",
+      "sentence_ko": "그녀의 아이디어가 매니저로부터 불공평하게 비판받았을 때, 그녀는 단호한 반응을 보였습니다.",
+      "tags": ["meeting", "sad", "mood"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "Assertive communication involves expressing your needs clearly while respecting others.",
+      "sentence_ko": "자기주장이 뚜렷한 소통이란 타인을 존중하면서 자신의 필요를 명확히 표현하는 것을 포함합니다.",
+      "tags": ["meeting", "relationship", "activity"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "He took an assertive stance on the new environmental policy during the debate.",
+      "sentence_ko": "그는 토론 중 새로운 환경 정책에 대해 단호한 태도를 취했습니다.",
+      "tags": ["meeting", "activity", "mood"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "Teaching children to be assertive can help them protect themselves from bullies.",
+      "sentence_ko": "아이들에게 자기주장을 분명히 하도록 가르치는 것은 괴롭히는 아이들로부터 스스로를 보호하는 데 도움이 될 수 있습니다.",
+      "tags": ["relationship", "sad", "medical"]
+    }
+  ]
+}

@@ -1,0 +1,1086 @@
+{
+  "deck_title": "FRUGALITY_STINGINESS",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Frugal",
+      "sentence_en": "My grandmother lived a frugal life, but she was always generous with her grandchildren.",
+      "sentence_ko": "할머니는 검소하게 사셨지만 손주들에게는 항상 아낌없이 베푸셨습니다.",
+      "tags": ["lifestyle"]
+    },
+    {
+      "word": "Frugal",
+      "sentence_en": "Being frugal doesn't mean being cheap; it means spending wisely on what matters.",
+      "sentence_ko": "검소하다는 것은 인색하다는 게 아니라 중요한 것에 현명하게 돈을 쓴다는 뜻입니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Frugal",
+      "sentence_en": "She adopted a frugal approach to fashion, buying quality pieces that last for years.",
+      "sentence_ko": "그녀는 수년간 입을 수 있는 좋은 옷을 사는 검소한 패션 철학을 갖게 되었습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Frugal",
+      "sentence_en": "The startup's frugal culture helped them survive the first difficult years.",
+      "sentence_ko": "스타트업의 검소한 문화가 어려운 초기 몇 년을 버티는 데 도움이 되었습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Frugal",
+      "sentence_en": "His frugal habits allowed him to retire early and pursue his hobbies.",
+      "sentence_ko": "그의 검소한 습관 덕분에 일찍 은퇴하고 취미 생활을 할 수 있었습니다.",
+      "tags": ["hobby", "career"]
+    },
+    {
+      "word": "Frugal",
+      "sentence_en": "Living in a frugal manner helped her save enough for a down payment on a house.",
+      "sentence_ko": "검소하게 생활한 덕분에 집 계약금을 마련할 수 있었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "Thrifty shoppers know the best times to find sales at their favorite stores.",
+      "sentence_ko": "절약을 잘하는 쇼핑객들은 좋아하는 가게의 세일 시기를 잘 알고 있습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "She became more thrifty after losing her job and needing to stretch her savings.",
+      "sentence_ko": "실직 후 저축을 아껴 써야 해서 더 절약하게 되었습니다.",
+      "tags": ["job", "sad"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "The thrifty entrepreneur built his business with minimal initial investment.",
+      "sentence_ko": "절약 정신이 투철한 사업가는 최소한의 초기 투자로 사업을 키웠습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "Being thrifty with digital subscriptions can save hundreds of dollars annually.",
+      "sentence_ko": "디지털 구독 서비스를 절약하면 연간 수백 달러를 아낄 수 있습니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "My thrifty colleague always brings lunch from home instead of ordering delivery.",
+      "sentence_ko": "절약하는 동료는 배달 대신 항상 집에서 도시락을 싸 옵니다.",
+      "tags": ["office", "job"]
+    },
+    {
+      "word": "Thrifty",
+      "sentence_en": "Thrifty travelers can explore the world without breaking the bank.",
+      "sentence_ko": "절약하는 여행자들은 큰돈 들이지 않고도 세계를 여행할 수 있습니다.",
+      "tags": ["hobby", "place"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "An economical car may cost less upfront and save money on fuel.",
+      "sentence_ko": "경제적인 차는 구매 비용도 적고 연료비도 절약할 수 있습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "The company chose an economical office space to reduce overhead costs.",
+      "sentence_ko": "회사는 운영비를 줄이기 위해 경제적인 사무실 공간을 선택했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "Cooking at home is more economical than eating out every day.",
+      "sentence_ko": "매일 외식하는 것보다 집에서 요리하는 게 더 경제적입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "She found an economical way to pursue her hobby without overspending.",
+      "sentence_ko": "그녀는 과소비 없이 취미를 즐길 수 있는 경제적인 방법을 찾았습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "The economical use of resources is essential for sustainable business practices.",
+      "sentence_ko": "자원의 경제적 사용은 지속 가능한 사업 관행에 필수적입니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Economical",
+      "sentence_en": "Digital marketing can be more economical than traditional advertising methods.",
+      "sentence_ko": "디지털 마케팅이 전통적인 광고 방식보다 더 경제적일 수 있습니다.",
+      "tags": ["digital", "business"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "A prudent investor always keeps an emergency fund before taking risks.",
+      "sentence_ko": "신중한 투자자는 위험을 감수하기 전에 항상 비상금을 마련해 둡니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "It would be prudent to save at least three months of expenses.",
+      "sentence_ko": "최소 3개월치 생활비를 저축해 두는 것이 현명합니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "The prudent decision to cut unnecessary expenses saved the company from bankruptcy.",
+      "sentence_ko": "불필요한 지출을 줄이는 신중한 결정이 회사를 파산에서 구했습니다.",
+      "tags": ["business", "office"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "She made a prudent choice to invest in her health rather than luxury items.",
+      "sentence_ko": "그녀는 사치품 대신 건강에 투자하는 현명한 선택을 했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "Being prudent with your career moves can lead to long-term success.",
+      "sentence_ko": "경력 관리에 신중하면 장기적인 성공으로 이어질 수 있습니다.",
+      "tags": ["career", "job"]
+    },
+    {
+      "word": "Prudent",
+      "sentence_en": "A prudent approach to digital spending includes reviewing all subscriptions regularly.",
+      "sentence_ko": "디지털 지출에 신중하려면 모든 구독 서비스를 정기적으로 검토해야 합니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "Budget airlines have made international travel accessible to more people.",
+      "sentence_ko": "저가 항공사 덕분에 더 많은 사람들이 해외여행을 할 수 있게 되었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "The budget hotel was clean and comfortable despite its low price.",
+      "sentence_ko": "그 저렴한 호텔은 가격 대비 깨끗하고 편안했습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "She started her business with a budget setup using free digital tools.",
+      "sentence_ko": "그녀는 무료 디지털 도구를 활용한 저렴한 방식으로 사업을 시작했습니다.",
+      "tags": ["business", "digital"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "Budget fashion doesn't have to look cheap if you choose wisely.",
+      "sentence_ko": "저렴한 패션도 잘 고르면 싸 보이지 않습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "Finding budget-friendly hobbies can help you enjoy life without financial stress.",
+      "sentence_ko": "저렴한 취미를 찾으면 재정적 부담 없이 삶을 즐길 수 있습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Budget",
+      "sentence_en": "The office manager found a budget solution for upgrading the computers.",
+      "sentence_ko": "사무실 관리자가 컴퓨터 업그레이드를 위한 저렴한 방안을 찾았습니다.",
+      "tags": ["office", "digital"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "The product was cheap but broke after just a few uses.",
+      "sentence_ko": "그 제품은 싸긴 했지만 몇 번 쓰고 바로 망가졌습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "Don't be cheap when it comes to investing in your health.",
+      "sentence_ko": "건강에 투자할 때는 인색하게 굴지 마세요.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "Buying cheap office furniture turned out to be a false economy.",
+      "sentence_ko": "싸구려 사무용 가구를 사는 건 결국 헛된 절약이었습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "He felt cheap for not tipping the server at the restaurant.",
+      "sentence_ko": "식당에서 팁을 주지 않아서 자신이 쩨쩨해 보였습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "The company's cheap approach to employee benefits led to high turnover.",
+      "sentence_ko": "회사의 직원 복지에 대한 인색한 태도가 높은 이직률로 이어졌습니다.",
+      "tags": ["job", "business"]
+    },
+    {
+      "word": "Cheap",
+      "sentence_en": "Fast fashion offers cheap clothes, but they rarely last long.",
+      "sentence_ko": "패스트패션은 싼 옷을 제공하지만 오래가는 경우가 드뭅니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "His stingy boss refused to approve even necessary business expenses.",
+      "sentence_ko": "그의 인색한 상사는 필수적인 업무 비용 승인도 거부했습니다.",
+      "tags": ["office", "job", "sad"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "Being stingy with praise can demotivate your team members.",
+      "sentence_ko": "칭찬에 인색하면 팀원들의 동기가 떨어질 수 있습니다.",
+      "tags": ["office", "career"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "She was considered stingy because she never contributed to office parties.",
+      "sentence_ko": "사무실 파티에 한 번도 기부하지 않아서 인색하다는 평을 들었습니다.",
+      "tags": ["office", "sad"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "The stingy landlord refused to fix the broken heating system.",
+      "sentence_ko": "인색한 집주인은 고장 난 난방 시스템을 고쳐 주지 않았습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "Don't be stingy when investing in quality tools for your hobby.",
+      "sentence_ko": "취미에 쓰는 좋은 도구에는 인색하게 굴지 마세요.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Stingy",
+      "sentence_en": "The company was criticized for being stingy with employee benefits.",
+      "sentence_ko": "그 회사는 직원 복지에 인색하다는 비판을 받았습니다.",
+      "tags": ["business", "job"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "The miserly old man died alone, surrounded by his untouched fortune.",
+      "sentence_ko": "구두쇠 노인은 손대지 않은 재산에 둘러싸여 외롭게 죽었습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "His miserly attitude towards spending made him unpopular among friends.",
+      "sentence_ko": "돈 쓰는 것에 대한 구두쇠 같은 태도 때문에 친구들에게 인기가 없었습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "The miserly CEO cut the office coffee budget to save a few dollars.",
+      "sentence_ko": "구두쇠 CEO는 몇 달러 아끼려고 사무실 커피 예산을 삭감했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "Despite his wealth, his miserly habits prevented him from enjoying life.",
+      "sentence_ko": "부자였지만 구두쇠 같은 습관 때문에 인생을 즐기지 못했습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "The miserly approach to the project budget resulted in poor quality work.",
+      "sentence_ko": "프로젝트 예산에 대한 구두쇠 같은 접근이 저질 작업물을 낳았습니다.",
+      "tags": ["business", "job"]
+    },
+    {
+      "word": "Miserly",
+      "sentence_en": "Her miserly father wouldn't even buy her proper school supplies.",
+      "sentence_ko": "구두쇠인 아버지는 제대로 된 학용품도 사주지 않았습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "The parsimonious company policy forbade any unnecessary travel expenses.",
+      "sentence_ko": "지나치게 인색한 회사 정책은 불필요한 출장 비용을 일절 금지했습니다.",
+      "tags": ["business", "office"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "His parsimonious nature made him count every single penny he spent.",
+      "sentence_ko": "그의 극도로 인색한 성격 때문에 쓰는 돈을 한 푼 한 푼 세었습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "The parsimonious investor refused to pay for professional financial advice.",
+      "sentence_ko": "지나치게 인색한 투자자는 전문 재정 자문 비용 지불을 거부했습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "Despite earning millions, the parsimonious executive drove an old car.",
+      "sentence_ko": "수백만 달러를 버는데도 극도로 인색한 임원은 낡은 차를 몰았습니다.",
+      "tags": ["career", "business"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "The museum's parsimonious budget left many exhibits poorly maintained.",
+      "sentence_ko": "박물관의 지나치게 빠듯한 예산 때문에 많은 전시물 관리가 부실했습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Parsimonious",
+      "sentence_en": "Her parsimonious spending on healthcare led to worse health outcomes.",
+      "sentence_ko": "건강관리에 지나치게 인색하게 써서 건강 상태가 악화되었습니다.",
+      "tags": ["health", "sad"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "The tight-fisted manager never approved overtime pay for employees.",
+      "sentence_ko": "주먹이 꽉 쥔 듯 인색한 관리자는 직원들 야근 수당을 절대 승인하지 않았습니다.",
+      "tags": ["office", "job", "sad"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "Being tight-fisted with your team's resources can hurt productivity.",
+      "sentence_ko": "팀 자원에 인색하게 굴면 생산성이 떨어질 수 있습니다.",
+      "tags": ["business", "office"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "His tight-fisted attitude made it difficult to plan any fun activities.",
+      "sentence_ko": "그의 인색한 태도 때문에 재미있는 활동을 계획하기 어려웠습니다.",
+      "tags": ["hobby", "sad"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "The tight-fisted landlord charged extra for every minor repair.",
+      "sentence_ko": "인색한 집주인은 사소한 수리에도 추가 비용을 청구했습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "Even wealthy people can be surprisingly tight-fisted with their money.",
+      "sentence_ko": "부자들도 놀라울 정도로 돈에 인색할 수 있습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Tight-fisted",
+      "sentence_en": "The company's tight-fisted approach to digital tools slowed down progress.",
+      "sentence_ko": "디지털 도구에 대한 회사의 인색한 접근 방식이 업무 진행을 늦췄습니다.",
+      "tags": ["digital", "office"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "His penny-pinching habits drove his family crazy during vacations.",
+      "sentence_ko": "그의 쥐꼬리만큼도 아끼는 습관이 휴가 때 가족을 미치게 했습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "The penny-pinching company cut costs on safety equipment.",
+      "sentence_ko": "푼돈까지 아끼는 회사가 안전 장비 비용을 삭감했습니다.",
+      "tags": ["business", "sad"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "Penny-pinching on quality ingredients will ruin the final product.",
+      "sentence_ko": "좋은 재료에 돈을 너무 아끼면 최종 제품이 망가집니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "Her penny-pinching extended to turning off all lights to save electricity.",
+      "sentence_ko": "그녀의 절약 습관은 전기를 아끼려고 모든 조명을 끄는 데까지 이르렀습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "The penny-pinching boss refused to update the office computers.",
+      "sentence_ko": "돈 한 푼까지 아끼는 상사가 사무실 컴퓨터 업그레이드를 거부했습니다.",
+      "tags": ["office", "digital"]
+    },
+    {
+      "word": "Penny-pinching",
+      "sentence_en": "Penny-pinching on healthcare is a false economy in the long run.",
+      "sentence_ko": "건강관리에 돈을 너무 아끼는 것은 장기적으로 손해입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "He was so mean with money that he wouldn't buy birthday gifts for family.",
+      "sentence_ko": "그는 돈에 너무 쩨쩨해서 가족 생일 선물도 사지 않았습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "The mean landlord charged tenants for using the shared laundry room.",
+      "sentence_ko": "쩨쩨한 집주인은 공용 세탁실 사용료까지 세입자에게 청구했습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "Don't be mean; split the dinner bill fairly with your colleagues.",
+      "sentence_ko": "너무 쩨쩨하게 굴지 말고 동료들과 저녁 식사비를 공정하게 나눠 내세요.",
+      "tags": ["office", "job"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "The mean investor refused to fund any employee development programs.",
+      "sentence_ko": "인색한 투자자는 직원 역량 개발 프로그램에 투자하기를 거부했습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "It seemed mean not to contribute to the charity fundraiser at work.",
+      "sentence_ko": "직장 자선 모금에 기부하지 않는 건 너무 쩨쩨해 보였습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Mean",
+      "sentence_en": "His mean spending habits made social gatherings uncomfortable for everyone.",
+      "sentence_ko": "그의 쩨쩨한 소비 습관이 모임 분위기를 불편하게 만들었습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "He's quite close with his money, rarely spending on anything unnecessary.",
+      "sentence_ko": "그는 돈을 잘 안 써서 불필요한 것에는 거의 지출하지 않습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "My close uncle surprised everyone by donating his entire fortune to charity.",
+      "sentence_ko": "평소 돈을 안 쓰던 삼촌이 전 재산을 자선단체에 기부해서 모두를 놀라게 했습니다.",
+      "tags": ["sad"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "Being close with money helped him save for a down payment on a house.",
+      "sentence_ko": "돈을 잘 안 쓰는 덕분에 집 계약금을 모을 수 있었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "The close company owner invested minimally in office improvements.",
+      "sentence_ko": "돈을 잘 안 쓰는 회사 사장은 사무실 개선에 최소한만 투자했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "She's close about spending on fashion but generous with gifts for others.",
+      "sentence_ko": "그녀는 옷에는 돈을 잘 안 쓰지만 다른 사람 선물에는 아끼지 않습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "His close habits meant he rarely tried new hobbies that cost money.",
+      "sentence_ko": "돈을 잘 안 쓰는 습관 때문에 돈이 드는 새 취미는 거의 시도하지 않았습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "Be sparing with expensive ingredients to keep costs down.",
+      "sentence_ko": "비용을 낮추려면 비싼 재료는 아껴서 쓰세요.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "She was sparing with praise, making her compliments more meaningful.",
+      "sentence_ko": "그녀는 칭찬을 아껴서 해서 칭찬이 더 의미 있었습니다.",
+      "tags": ["office", "career"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "The doctor recommended being sparing with sugar for better health.",
+      "sentence_ko": "의사는 건강을 위해 설탕을 적게 먹으라고 권했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "A sparing use of digital resources can reduce the company's carbon footprint.",
+      "sentence_ko": "디지털 자원을 아껴 쓰면 회사의 탄소 발자국을 줄일 수 있습니다.",
+      "tags": ["digital", "business"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "He was sparing with details about his personal life at the office.",
+      "sentence_ko": "그는 사무실에서 개인 생활에 대해 말을 아꼈습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Sparing",
+      "sentence_en": "Being sparing with your hobby supplies makes them last longer.",
+      "sentence_ko": "취미 용품을 아껴 쓰면 더 오래 씁니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "The programmer lived an ascetic lifestyle, owning only essential items.",
+      "sentence_ko": "그 프로그래머는 필수품만 소유하는 금욕적인 생활을 했습니다.",
+      "tags": ["digital", "career"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "His ascetic approach to possessions meant his apartment was minimalist.",
+      "sentence_ko": "물건에 대한 금욕적인 접근 덕분에 그의 아파트는 미니멀리스트 스타일이었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "The ascetic lifestyle helped her focus on her career without distractions.",
+      "sentence_ko": "금욕적인 생활 방식이 산만해지지 않고 경력에 집중하는 데 도움이 되었습니다.",
+      "tags": ["career"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "Some athletes adopt ascetic habits to achieve peak physical performance.",
+      "sentence_ko": "일부 운동선수들은 최고의 신체 컨디션을 위해 금욕적인 습관을 들입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "The ascetic founder refused luxury office furnishings for the startup.",
+      "sentence_ko": "금욕적인 창업자는 스타트업에 고급 사무용 가구를 들이기를 거부했습니다.",
+      "tags": ["business", "office"]
+    },
+    {
+      "word": "Ascetic",
+      "sentence_en": "Her ascetic fashion choices consisted of simple, functional clothing.",
+      "sentence_ko": "그녀의 금욕적인 패션 선택은 단순하고 기능적인 옷으로 이루어져 있었습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "The company implemented austere measures during the economic downturn.",
+      "sentence_ko": "회사는 경기 침체기에 긴축 조치를 시행했습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "The austere office design reflected the company's no-frills philosophy.",
+      "sentence_ko": "검소한 사무실 디자인은 회사의 군더더기 없는 철학을 반영했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "Her austere bedroom contained only a bed, desk, and lamp.",
+      "sentence_ko": "그녀의 검소한 침실에는 침대, 책상, 램프만 있었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "The austere budget forced the team to find creative solutions.",
+      "sentence_ko": "빠듯한 예산 때문에 팀은 창의적인 해결책을 찾아야 했습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "His austere lifestyle was a deliberate choice for better mental health.",
+      "sentence_ko": "그의 검소한 생활 방식은 정신 건강을 위한 의도적인 선택이었습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Austere",
+      "sentence_en": "The austere fashion of the era featured minimal decoration and simple lines.",
+      "sentence_ko": "그 시대의 검소한 패션은 최소한의 장식과 단순한 라인이 특징이었습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "A conservative investment strategy protects your savings from market volatility.",
+      "sentence_ko": "보수적인 투자 전략은 시장 변동성으로부터 저축을 보호합니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "The company took a conservative approach to expanding into new markets.",
+      "sentence_ko": "회사는 새로운 시장으로의 확장에 보수적인 접근 방식을 취했습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "Her conservative fashion sense consisted of classic, timeless pieces.",
+      "sentence_ko": "그녀의 보수적인 패션 감각은 클래식하고 유행을 타지 않는 옷들로 이루어져 있었습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "The doctor recommended a conservative treatment plan before considering surgery.",
+      "sentence_ko": "의사는 수술을 고려하기 전에 보수적인 치료 계획을 권했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "His conservative budgeting helped him weather unexpected job loss.",
+      "sentence_ko": "그의 보수적인 예산 관리가 예상치 못한 실직을 이겨내는 데 도움이 되었습니다.",
+      "tags": ["job", "career"]
+    },
+    {
+      "word": "Conservative",
+      "sentence_en": "The office maintained a conservative spending policy for digital subscriptions.",
+      "sentence_ko": "사무실은 디지털 구독 서비스에 대해 보수적인 지출 정책을 유지했습니다.",
+      "tags": ["office", "digital"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "Remote work has proven to be cost-effective for many businesses.",
+      "sentence_ko": "재택근무는 많은 기업에 비용 효율적인 것으로 입증되었습니다.",
+      "tags": ["business", "office"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "Digital marketing is often more cost-effective than traditional advertising.",
+      "sentence_ko": "디지털 마케팅은 전통적인 광고보다 비용 효율적인 경우가 많습니다.",
+      "tags": ["digital", "business"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "Finding a cost-effective hobby helped him relax without spending much.",
+      "sentence_ko": "비용 효율적인 취미를 찾아서 큰 돈 들이지 않고 쉴 수 있었습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "The cost-effective solution saved the company thousands of dollars.",
+      "sentence_ko": "비용 효율적인 해결책이 회사에 수천 달러를 절약해 주었습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "Preventive healthcare is more cost-effective than treating diseases later.",
+      "sentence_ko": "예방 의료는 나중에 질병을 치료하는 것보다 비용 효율적입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Cost-effective",
+      "sentence_en": "The startup found a cost-effective office space in a shared workspace.",
+      "sentence_ko": "스타트업은 공유 오피스에서 비용 효율적인 사무실 공간을 찾았습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "She always waits for a discount before buying designer fashion items.",
+      "sentence_ko": "그녀는 디자이너 브랜드 옷을 살 때 항상 할인을 기다립니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "Many digital services offer student discounts for university students.",
+      "sentence_ko": "많은 디지털 서비스가 대학생에게 학생 할인을 제공합니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "The company negotiated a bulk discount for office supplies.",
+      "sentence_ko": "회사는 사무용품에 대해 대량 할인을 협상했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "Early booking discounts make vacation travel much more affordable.",
+      "sentence_ko": "조기 예약 할인으로 휴가 여행이 훨씬 저렴해집니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "Health insurance companies sometimes offer discounts for gym memberships.",
+      "sentence_ko": "건강보험 회사들은 때때로 헬스장 회원권에 할인을 제공합니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Discount",
+      "sentence_en": "Never discount the value of networking for your career growth.",
+      "sentence_ko": "경력 성장을 위한 네트워킹의 가치를 과소평가하지 마세요.",
+      "tags": ["career", "job"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "She found a real bargain at the vintage clothing store.",
+      "sentence_ko": "그녀는 빈티지 옷 가게에서 정말 싸게 잘 샀습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "The laptop was a bargain considering its specifications and features.",
+      "sentence_ko": "그 노트북은 사양과 기능을 고려하면 정말 득템이었습니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "Finding a bargain apartment in the city center is almost impossible.",
+      "sentence_ko": "도심에서 가성비 좋은 아파트를 찾는 건 거의 불가능합니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "Employees bargained for better benefits with the company management.",
+      "sentence_ko": "직원들은 회사 경영진과 더 나은 복지를 위해 협상했습니다.",
+      "tags": ["job", "career"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "The hobby equipment was a bargain at the secondhand market.",
+      "sentence_ko": "취미 장비를 중고 시장에서 싸게 득템했습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Bargain",
+      "sentence_en": "The business traveler found a bargain flight for the last-minute trip.",
+      "sentence_ko": "출장자가 급한 여행을 위해 저렴한 항공편을 찾았습니다.",
+      "tags": ["business", "place"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "This smartphone offers great value for money with its features.",
+      "sentence_ko": "이 스마트폰은 기능에 비해 가성비가 정말 좋습니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "She values experiences over material possessions when spending money.",
+      "sentence_ko": "그녀는 돈을 쓸 때 물질적 소유보다 경험을 더 중요시합니다.",
+      "tags": ["hobby", "place"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "The office furniture was good value considering its durability.",
+      "sentence_ko": "사무용 가구는 내구성을 고려하면 가성비가 좋았습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "Health should be valued above financial success in life.",
+      "sentence_ko": "건강은 인생에서 재정적 성공보다 더 중요시되어야 합니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "The company provides excellent value to customers through quality service.",
+      "sentence_ko": "회사는 양질의 서비스로 고객에게 훌륭한 가치를 제공합니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Value",
+      "sentence_en": "Classic fashion pieces offer better value than trendy fast fashion.",
+      "sentence_ko": "클래식한 옷은 유행하는 패스트패션보다 가성비가 좋습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "Low-cost carriers have revolutionized the travel industry.",
+      "sentence_ko": "저가 항공사가 여행 산업을 혁신했습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "The startup succeeded with a low-cost digital marketing strategy.",
+      "sentence_ko": "스타트업은 저비용 디지털 마케팅 전략으로 성공했습니다.",
+      "tags": ["business", "digital"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "Low-cost hobbies like hiking can improve both fitness and mood.",
+      "sentence_ko": "하이킹 같은 저비용 취미는 체력과 기분 모두 향상시킬 수 있습니다.",
+      "tags": ["hobby", "health"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "The company moved to a low-cost office to reduce monthly expenses.",
+      "sentence_ko": "회사는 월 비용을 줄이기 위해 저렴한 사무실로 이전했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "Low-cost fashion alternatives can still look stylish and professional.",
+      "sentence_ko": "저렴한 패션 대안도 여전히 세련되고 프로페셔널해 보일 수 있습니다.",
+      "tags": ["fashion", "career"]
+    },
+    {
+      "word": "Low-cost",
+      "sentence_en": "Finding low-cost healthcare options is essential for many families.",
+      "sentence_ko": "저렴한 의료 옵션을 찾는 것은 많은 가정에 필수입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "The restaurant charges reasonable prices for high-quality meals.",
+      "sentence_ko": "그 식당은 고급 음식에 합리적인 가격을 책정합니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "She found a reasonable gym membership that fit her budget.",
+      "sentence_ko": "그녀는 예산에 맞는 합리적인 헬스장 회원권을 찾았습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "The office rent was reasonable considering the central location.",
+      "sentence_ko": "사무실 임대료는 중심가 위치를 고려하면 합리적이었습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "It's reasonable to expect a salary increase after years of dedication.",
+      "sentence_ko": "수년간의 헌신 후에 급여 인상을 기대하는 것은 합리적입니다.",
+      "tags": ["career", "job"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "The digital subscription price is reasonable for the value provided.",
+      "sentence_ko": "디지털 구독 가격은 제공되는 가치에 비해 합리적입니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Reasonable",
+      "sentence_en": "Finding a reasonable hobby doesn't mean compromising on enjoyment.",
+      "sentence_ko": "합리적인 취미를 찾는다고 해서 즐거움을 포기하는 것은 아닙니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "Affordable healthcare should be accessible to everyone.",
+      "sentence_ko": "감당할 수 있는 의료 서비스는 모든 사람이 이용할 수 있어야 합니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "The city has few affordable housing options for young professionals.",
+      "sentence_ko": "그 도시에는 젊은 직장인을 위한 저렴한 주거 선택지가 적습니다.",
+      "tags": ["place", "career"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "She found an affordable fashion boutique that fit her style.",
+      "sentence_ko": "그녀는 자기 스타일에 맞는 저렴한 패션 부티크를 찾았습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "The company offers affordable digital solutions for small businesses.",
+      "sentence_ko": "그 회사는 소규모 사업체를 위한 저렴한 디지털 솔루션을 제공합니다.",
+      "tags": ["digital", "business"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "Finding affordable hobbies is important for work-life balance.",
+      "sentence_ko": "감당할 수 있는 취미를 찾는 것은 일과 삶의 균형에 중요합니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Affordable",
+      "sentence_en": "The office needed affordable furniture after the budget cuts.",
+      "sentence_ko": "예산 삭감 후 사무실에 저렴한 가구가 필요했습니다.",
+      "tags": ["office", "business"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "They lived in a modest apartment despite their substantial income.",
+      "sentence_ko": "상당한 수입에도 불구하고 그들은 수수한 아파트에서 살았습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "Her modest fashion choices reflected her practical personality.",
+      "sentence_ko": "그녀의 수수한 패션 선택은 그녀의 실용적인 성격을 반영했습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "The startup began with modest investment and grew organically.",
+      "sentence_ko": "스타트업은 적당한 투자로 시작해서 자연스럽게 성장했습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "His modest office setup included only the essential equipment.",
+      "sentence_ko": "그의 수수한 사무실 환경에는 필수 장비만 있었습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "A modest hobby budget can still provide great enjoyment.",
+      "sentence_ko": "적당한 취미 예산으로도 충분히 즐거움을 얻을 수 있습니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Modest",
+      "sentence_en": "The doctor recommended modest exercise to improve overall health.",
+      "sentence_ko": "의사는 전반적인 건강 개선을 위해 적당한 운동을 권했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "He preferred a simple lifestyle, free from material excess.",
+      "sentence_ko": "그는 물질적 과잉 없이 소박한 생활 방식을 선호했습니다.",
+      "tags": ["lifestyle"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "Her simple fashion sense always looked elegant and timeless.",
+      "sentence_ko": "그녀의 소박한 패션 감각은 항상 우아하고 유행을 타지 않았습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "The business started with a simple idea and minimal investment.",
+      "sentence_ko": "사업은 단순한 아이디어와 최소한의 투자로 시작되었습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "A simple office layout can improve productivity and focus.",
+      "sentence_ko": "단순한 사무실 배치가 생산성과 집중력을 향상시킬 수 있습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "Simple hobbies like reading cost almost nothing but enrich life.",
+      "sentence_ko": "독서 같은 소박한 취미는 거의 비용이 들지 않지만 삶을 풍요롭게 합니다.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "The doctor's advice was simple: eat well, sleep more, and exercise.",
+      "sentence_ko": "의사의 조언은 간단했습니다: 잘 먹고, 더 자고, 운동하세요.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "The athlete lived a Spartan life, focusing only on training.",
+      "sentence_ko": "그 운동선수는 훈련에만 집중하며 극도로 검소한 생활을 했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "The Spartan office had no decorations, just desks and computers.",
+      "sentence_ko": "검소한 사무실에는 장식 없이 책상과 컴퓨터만 있었습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "His Spartan apartment contained only a bed and a small desk.",
+      "sentence_ko": "그의 검소한 아파트에는 침대와 작은 책상만 있었습니다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "The startup's Spartan budget forced creative problem-solving.",
+      "sentence_ko": "스타트업의 빠듯한 예산이 창의적인 문제 해결을 요구했습니다.",
+      "tags": ["business", "career"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "Her Spartan fashion consisted of black, white, and gray basics.",
+      "sentence_ko": "그녀의 절제된 패션은 검정, 흰색, 회색 기본 아이템으로 구성되었습니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Spartan",
+      "sentence_en": "The Spartan digital setup included only essential software tools.",
+      "sentence_ko": "군더더기 없는 디지털 환경에는 필수 소프트웨어 도구만 포함되었습니다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "Skimping on quality materials always backfires in the long run.",
+      "sentence_ko": "질 좋은 재료에 돈을 너무 아끼면 결국 역효과가 납니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "The company was skimping on employee benefits to cut costs.",
+      "sentence_ko": "회사가 비용 절감을 위해 직원 복지를 너무 줄이고 있었습니다.",
+      "tags": ["job", "sad"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "Skimping on healthcare can lead to expensive problems later.",
+      "sentence_ko": "건강관리에 돈을 너무 아끼면 나중에 비싼 대가를 치를 수 있습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "The restaurant was accused of skimping on portions to save money.",
+      "sentence_ko": "식당이 돈을 아끼려고 양을 줄인다는 비난을 받았습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "Skimping on office equipment can hurt employee productivity.",
+      "sentence_ko": "사무용품에 돈을 너무 아끼면 직원 생산성이 떨어질 수 있습니다.",
+      "tags": ["office", "digital"]
+    },
+    {
+      "word": "Skimping",
+      "sentence_en": "Don't skimp on hobby supplies if you want quality results.",
+      "sentence_ko": "좋은 결과를 원한다면 취미 용품에 돈을 너무 아끼지 마세요.",
+      "tags": ["hobby"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Money has been tight since he lost his job last month.",
+      "sentence_ko": "지난달 실직한 이후로 돈이 빠듯했습니다.",
+      "tags": ["job", "sad"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "The company operated on a tight budget during the recession.",
+      "sentence_ko": "회사는 불황 기간 동안 빠듯한 예산으로 운영했습니다.",
+      "tags": ["business"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "He was tight with money but generous with his time.",
+      "sentence_ko": "그는 돈에는 인색했지만 시간은 아끼지 않았습니다.",
+      "tags": ["career"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "The tight office space forced employees to share desks.",
+      "sentence_ko": "빠듯한 사무실 공간 때문에 직원들이 책상을 공유해야 했습니다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "With a tight budget, finding affordable fashion becomes a skill.",
+      "sentence_ko": "빠듯한 예산으로 저렴한 패션을 찾는 것은 일종의 기술이 됩니다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Healthcare costs make budgets tight for many families.",
+      "sentence_ko": "의료비 때문에 많은 가정의 예산이 빠듯합니다.",
+      "tags": ["health", "sad"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "Don't be a Scrooge; contribute something to the office party.",
+      "sentence_ko": "구두쇠처럼 굴지 말고 사무실 파티에 뭐라도 내세요.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "His boss was such a Scrooge that raises were never given.",
+      "sentence_ko": "그의 상사는 너무 구두쇠라서 급여 인상이 절대 없었습니다.",
+      "tags": ["job", "sad", "career"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "The Scrooge-like landlord refused to make any property improvements.",
+      "sentence_ko": "스크루지 같은 집주인은 어떤 시설 개선도 거부했습니다.",
+      "tags": ["place", "sad"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "Nobody wants to be known as the office Scrooge.",
+      "sentence_ko": "아무도 사무실 구두쇠로 알려지고 싶어 하지 않습니다.",
+      "tags": ["office", "career"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "The company's Scrooge mentality drove away talented employees.",
+      "sentence_ko": "회사의 구두쇠 마인드가 재능 있는 직원들을 떠나게 했습니다.",
+      "tags": ["business", "sad"]
+    },
+    {
+      "word": "Scrooge",
+      "sentence_en": "He transformed from a Scrooge to a generous donor after his health scare.",
+      "sentence_ko": "건강에 문제가 생긴 후 그는 구두쇠에서 관대한 기부자로 변했습니다.",
+      "tags": ["health"]
+    }
+  ]
+}

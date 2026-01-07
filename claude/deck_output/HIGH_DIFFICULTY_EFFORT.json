@@ -1,0 +1,876 @@
+{
+  "deck_title": "HIGH_DIFFICULTY_EFFORT",
+  "total_sentences": 145,
+  "sentences": [
+    {
+      "word": "Arduous",
+      "sentence_en": "Building a successful startup is an arduous journey that requires constant dedication.",
+      "sentence_ko": "성공적인 스타트업을 만드는 것은 끊임없는 헌신이 필요한 고된 여정입니다.",
+      "tags": ["startup", "entrepreneur", "develope", "study", "internet"]
+    },
+    {
+      "word": "Arduous",
+      "sentence_en": "The medical students prepared for the arduous exams for months.",
+      "sentence_ko": "의대생들은 몇 달 동안 그 힘든 시험을 준비했습니다.",
+      "tags": ["medical", "education", "study", "university", "interview"]
+    },
+    {
+      "word": "Arduous",
+      "sentence_en": "Repairing the broken friendship was an arduous process for both of them.",
+      "sentence_ko": "깨진 우정을 회복하는 것은 두 사람 모두에게 힘겨운 과정이었습니다.",
+      "tags": ["friendship", "conversation", "relationship", "difficult", "style"]
+    },
+    {
+      "word": "Arduous",
+      "sentence_en": "Developing a new internet protocol is an arduous task for engineers.",
+      "sentence_ko": "새로운 인터넷 프로토콜을 개발하는 것은 엔지니어들에게 고된 작업입니다.",
+      "tags": ["develope", "internet", "technology", "startup", "study"]
+    },
+    {
+      "word": "Arduous",
+      "sentence_en": "He undertook the arduous climb to the top of the mountain alone.",
+      "sentence_ko": "그는 산 정상까지 오르는 고된 등반을 홀로 감행했습니다.",
+      "tags": ["outdoor", "effort", "challenge", "style", "education"]
+    },
+    {
+      "word": "Laborious",
+      "sentence_en": "Writing the code for this application was a slow and laborious process.",
+      "sentence_ko": "이 애플리케이션의 코드를 작성하는 것은 느리고 공이 많이 드는 과정이었습니다.",
+      "tags": ["develope", "code", "internet", "startup", "education"]
+    },
+    {
+      "word": "Laborious",
+      "sentence_en": "Medical research is often laborious and takes years to show results.",
+      "sentence_ko": "의학 연구는 종종 힘든 작업이며 결과가 나오기까지 수년이 걸립니다.",
+      "tags": ["medical", "education", "study", "science", "develope"]
+    },
+    {
+      "word": "Laborious",
+      "sentence_en": "Checking every detail in the contract was a laborious task.",
+      "sentence_ko": "계약서의 모든 세부 사항을 확인하는 것은 공이 많이 드는 일이었습니다.",
+      "tags": ["entrepreneur", "startup", "business", "study", "interview"]
+    },
+    {
+      "word": "Laborious",
+      "sentence_en": "Maintaining a long-distance friendship can sometimes feel laborious.",
+      "sentence_ko": "장거리 우정을 유지하는 것은 때때로 힘들게 느껴질 수 있습니다.",
+      "tags": ["friendship", "conversation", "relationship", "internet", "style"]
+    },
+    {
+      "word": "Laborious",
+      "sentence_en": "Translating the ancient text was a laborious effort for the scholars.",
+      "sentence_ko": "고대 문헌을 번역하는 것은 학자들에게 힘든 노력이었습니다.",
+      "tags": ["study", "education", "history", "learning", "culture"]
+    },
+    {
+      "word": "Strenuous",
+      "sentence_en": "Doctors advise avoiding strenuous exercise right after a surgery.",
+      "sentence_ko": "의사들은 수술 직후에는 격렬한 운동을 피하라고 조언합니다.",
+      "tags": ["medical", "health", "care", "education", "conversation"]
+    },
+    {
+      "word": "Strenuous",
+      "sentence_en": "The startup team made a strenuous effort to meet the launch deadline.",
+      "sentence_ko": "스타트업 팀은 출시 마감일을 맞추기 위해 맹렬한 노력을 기울였습니다.",
+      "tags": ["startup", "entrepreneur", "develope", "internet", "work"]
+    },
+    {
+      "word": "Strenuous",
+      "sentence_en": "She had a strenuous day preparing for the upcoming job interview.",
+      "sentence_ko": "그녀는 다가오는 취업 면접을 준비하느라 힘든 하루를 보냈습니다.",
+      "tags": ["interview", "style", "education", "study", "career"]
+    },
+    {
+      "word": "Strenuous",
+      "sentence_en": "The hike was too strenuous for beginners without proper gear.",
+      "sentence_ko": "그 하이킹은 적절한 장비가 없는 초보자에게는 너무 힘들었습니다.",
+      "tags": ["outdoor", "health", "hobby", "style", "friendship"]
+    },
+    {
+      "word": "Strenuous",
+      "sentence_en": "Developing AI models requires strenuous mental activity.",
+      "sentence_ko": "AI 모델을 개발하는 것은 격렬한 정신 활동을 요구합니다.",
+      "tags": ["develope", "internet", "technology", "study", "education"]
+    },
+    {
+      "word": "Grueling",
+      "sentence_en": "The rigorous interview process at the tech giant was grueling.",
+      "sentence_ko": "그 거대 기술 기업의 철저한 면접 과정은 사람을 녹초로 만들었습니다.",
+      "tags": ["interview", "technology", "internet", "startup", "career"]
+    },
+    {
+      "word": "Grueling",
+      "sentence_en": "They survived a grueling schedule to finish the medical project.",
+      "sentence_ko": "그들은 의료 프로젝트를 끝내기 위해 살인적인 일정을 견뎌냈습니다.",
+      "tags": ["medical", "develope", "study", "education", "work"]
+    },
+    {
+      "word": "Grueling",
+      "sentence_en": "Running a marathon is a grueling test of physical endurance.",
+      "sentence_ko": "마라톤을 뛰는 것은 신체적 지구력을 시험하는 고된 일입니다.",
+      "tags": ["health", "sport", "style", "challenge", "effort"]
+    },
+    {
+      "word": "Grueling",
+      "sentence_en": "The startup founders faced a grueling first year of business.",
+      "sentence_ko": "스타트업 창업자들은 사업 첫해에 혹독한 시기를 겪었습니다.",
+      "tags": ["startup", "entrepreneur", "business", "internet", "develope"]
+    },
+    {
+      "word": "Grueling",
+      "sentence_en": "Studying for the bar exam is a grueling experience for students.",
+      "sentence_ko": "변호사 시험을 위해 공부하는 것은 학생들에게 고된 경험입니다.",
+      "tags": ["study", "education", "law", "university", "career"]
+    },
+    {
+      "word": "Demanding",
+      "sentence_en": "Being an entrepreneur is a demanding role that requires versatility.",
+      "sentence_ko": "기업가가 되는 것은 다재다능함을 요하는 벅찬 역할입니다.",
+      "tags": ["entrepreneur", "startup", "business", "style", "internet"]
+    },
+    {
+      "word": "Demanding",
+      "sentence_en": "The medical profession is demanding but highly rewarding.",
+      "sentence_ko": "의료 전문직은 요구되는 것이 많지만 매우 보람 있는 일입니다.",
+      "tags": ["medical", "job", "career", "education", "study"]
+    },
+    {
+      "word": "Demanding",
+      "sentence_en": "My new coding instructor is very demanding about clean syntax.",
+      "sentence_ko": "제 새로운 코딩 강사님은 깔끔한 구문에 대해 매우 까다롭습니다.",
+      "tags": ["develope", "education", "study", "code", "internet"]
+    },
+    {
+      "word": "Demanding",
+      "sentence_en": "Maintaining a friendship can be demanding if communication is poor.",
+      "sentence_ko": "소통이 부족하면 우정을 유지하는 것이 버거울 수 있습니다.",
+      "tags": ["friendship", "conversation", "relationship", "social", "life"]
+    },
+    {
+      "word": "Demanding",
+      "sentence_en": "The interview questions were demanding and tested my critical thinking.",
+      "sentence_ko": "면접 질문들은 까다로웠고 저의 비판적 사고를 시험했습니다.",
+      "tags": ["interview", "career", "study", "education", "thinking"]
+    },
+    {
+      "word": "Formidable",
+      "sentence_en": "They faced a formidable competitor in the internet market.",
+      "sentence_ko": "그들은 인터넷 시장에서 어마어마한 경쟁자를 마주했습니다.",
+      "tags": ["internet", "startup", "business", "entrepreneur", "develope"]
+    },
+    {
+      "word": "Formidable",
+      "sentence_en": "The sheer amount of study material looked formidable.",
+      "sentence_ko": "공부할 자료의 절대적인 양이 어마어마해 보였습니다.",
+      "tags": ["study", "education", "school", "book", "reading"]
+    },
+    {
+      "word": "Formidable",
+      "sentence_en": "Overcoming the technical debt was a formidable challenge.",
+      "sentence_ko": "기술적 부채를 극복하는 것은 만만치 않은 도전이었습니다.",
+      "tags": ["develope", "tech", "startup", "internet", "work"]
+    },
+    {
+      "word": "Formidable",
+      "sentence_en": "He has a formidable reputation in the medical community.",
+      "sentence_ko": "그는 의료계에서 엄청난 명성을 가지고 있습니다.",
+      "tags": ["medical", "doctor", "career", "social", "style"]
+    },
+    {
+      "word": "Formidable",
+      "sentence_en": "She displayed formidable skills during the coding interview.",
+      "sentence_ko": "그녀는 코딩 면접 중에 엄청난 실력을 보여주었습니다.",
+      "tags": ["interview", "develope", "code", "career", "tech"]
+    },
+    {
+      "word": "Onerous",
+      "sentence_en": "The new regulations placed onerous duties on small startups.",
+      "sentence_ko": "새로운 규제들은 작은 스타트업들에게 아주 힘든 의무를 지웠습니다.",
+      "tags": ["startup", "entrepreneur", "business", "law", "internet"]
+    },
+    {
+      "word": "Onerous",
+      "sentence_en": "Paying back the student loan became an onerous burden.",
+      "sentence_ko": "학자금 대출을 갚는 것은 부담스러운 짐이 되었습니다.",
+      "tags": ["education", "money", "study", "finance", "life"]
+    },
+    {
+      "word": "Onerous",
+      "sentence_en": "Reviewing all the medical records was an onerous task.",
+      "sentence_ko": "모든 의료 기록을 검토하는 것은 아주 힘든 일이었습니다.",
+      "tags": ["medical", "work", "hospital", "study", "care"]
+    },
+    {
+      "word": "Onerous",
+      "sentence_en": "He found the responsibilities of leadership too onerous.",
+      "sentence_ko": "그는 리더십의 책임이 너무 부담스럽다고 느꼈습니다.",
+      "tags": ["entrepreneur", "leadership", "business", "style", "social"]
+    },
+    {
+      "word": "Onerous",
+      "sentence_en": "The contract contained several onerous clauses for the developer.",
+      "sentence_ko": "그 계약서에는 개발자에게 불리한 부담스러운 조항이 몇 개 있었습니다.",
+      "tags": ["develope", "business", "contract", "internet", "work"]
+    },
+    {
+      "word": "Taxing",
+      "sentence_en": "Developing complex software can be mentally taxing.",
+      "sentence_ko": "복잡한 소프트웨어를 개발하는 것은 정신적으로 힘든 일일 수 있습니다.",
+      "tags": ["develope", "software", "internet", "startup", "mental"]
+    },
+    {
+      "word": "Taxing",
+      "sentence_en": "The long conversation about their friendship was emotionally taxing.",
+      "sentence_ko": "그들의 우정에 대한 긴 대화는 감정적으로 소모적이었습니다.",
+      "tags": ["friendship", "conversation", "emotion", "social", "life"]
+    },
+    {
+      "word": "Taxing",
+      "sentence_en": "Medical internships are physically and mentally taxing.",
+      "sentence_ko": "의료 인턴 과정은 육체적으로나 정신적으로 아주 힘듭니다.",
+      "tags": ["medical", "education", "study", "hospital", "work"]
+    },
+    {
+      "word": "Taxing",
+      "sentence_en": "Running a startup is taxing on your personal time.",
+      "sentence_ko": "스타트업을 운영하는 것은 개인 시간을 많이 뺏는 힘든 일입니다.",
+      "tags": ["startup", "entrepreneur", "lifestyle", "business", "time"]
+    },
+    {
+      "word": "Taxing",
+      "sentence_en": "The rigorous study schedule proved to be very taxing.",
+      "sentence_ko": "철저한 공부 일정은 매우 힘든 것으로 판명되었습니다.",
+      "tags": ["study", "education", "schedule", "student", "goal"]
+    },
+    {
+      "word": "Backbreaking",
+      "sentence_en": "Moving the heavy servers was backbreaking work for the IT team.",
+      "sentence_ko": "무거운 서버를 옮기는 것은 IT 팀에게 등골이 휘는 고된 작업이었습니다.",
+      "tags": ["internet", "technology", "work", "develope", "effort"]
+    },
+    {
+      "word": "Backbreaking",
+      "sentence_en": "Farmers do backbreaking labor to provide food for us.",
+      "sentence_ko": "농부들은 우리에게 식량을 제공하기 위해 뼈빠지는 노동을 합니다.",
+      "tags": ["food", "work", "life", "social", "nature"]
+    },
+    {
+      "word": "Backbreaking",
+      "sentence_en": "Renovating the old office was a backbreaking project.",
+      "sentence_ko": "오래된 사무실을 개조하는 것은 등골이 휘는 프로젝트였습니다.",
+      "tags": ["startup", "office", "design", "style", "work"]
+    },
+    {
+      "word": "Backbreaking",
+      "sentence_en": "She spent hours doing backbreaking gardening in the yard.",
+      "sentence_ko": "그녀는 마당에서 몇 시간 동안 힘든 정원 일을 했습니다.",
+      "tags": ["hobby", "home", "lifestyle", "nature", "effort"]
+    },
+    {
+      "word": "Backbreaking",
+      "sentence_en": "Clearing the snow from the driveway was backbreaking work.",
+      "sentence_ko": "진입로의 눈을 치우는 것은 매우 고된 일이었습니다.",
+      "tags": ["home", "winter", "weather", "effort", "work"]
+    },
+    {
+      "word": "Challenging",
+      "sentence_en": "Learning a new language is challenging but worth the effort.",
+      "sentence_ko": "새로운 언어를 배우는 것은 도전적이지만 노력할 가치가 있습니다.",
+      "tags": ["education", "study", "language", "culture", "self_improvement"]
+    },
+    {
+      "word": "Challenging",
+      "sentence_en": "The startup environment is challenging and constantly changing.",
+      "sentence_ko": "스타트업 환경은 도전적이며 끊임없이 변화합니다.",
+      "tags": ["startup", "entrepreneur", "business", "internet", "develope"]
+    },
+    {
+      "word": "Challenging",
+      "sentence_en": "We had a challenging conversation about our future plans.",
+      "sentence_ko": "우리는 미래 계획에 대해 꽤 힘든 대화를 나눴습니다.",
+      "tags": ["conversation", "friendship", "planning", "future", "life"]
+    },
+    {
+      "word": "Challenging",
+      "sentence_en": "The medical case was challenging even for experienced doctors.",
+      "sentence_ko": "그 의료 케이스는 경험 많은 의사들에게도 만만치 않았습니다.",
+      "tags": ["medical", "doctor", "health", "science", "work"]
+    },
+    {
+      "word": "Challenging",
+      "sentence_en": "Finding a unique style in fashion can be challenging.",
+      "sentence_ko": "패션에서 독특한 스타일을 찾는 것은 어려울 수 있습니다.",
+      "tags": ["style", "fashion", "art", "creative", "design"]
+    },
+    {
+      "word": "Burdensome",
+      "sentence_en": "High interest rates make the loan payments burdensome.",
+      "sentence_ko": "높은 이자율 때문에 대출 상환이 부담스럽습니다.",
+      "tags": ["finance", "money", "business", "entrepreneur", "life"]
+    },
+    {
+      "word": "Burdensome",
+      "sentence_en": "Keeping secrets from a friend can become burdensome.",
+      "sentence_ko": "친구에게 비밀을 지키는 것은 부담스러운 일이 될 수 있습니다.",
+      "tags": ["friendship", "relationship", "social", "secret", "emotion"]
+    },
+    {
+      "word": "Burdensome",
+      "sentence_en": "The administrative tasks were too burdensome for the small team.",
+      "sentence_ko": "행정 업무는 그 작은 팀에게 너무 부담스러웠습니다.",
+      "tags": ["startup", "work", "office", "business", "management"]
+    },
+    {
+      "word": "Burdensome",
+      "sentence_en": "Excessive regulations can be burdensome for internet companies.",
+      "sentence_ko": "과도한 규제는 인터넷 기업들에게 짐이 될 수 있습니다.",
+      "tags": ["internet", "business", "law", "technology", "develope"]
+    },
+    {
+      "word": "Burdensome",
+      "sentence_en": "A heavy backpack is burdensome on a long hike.",
+      "sentence_ko": "무거운 배낭은 긴 하이킹에서 짐이 됩니다.",
+      "tags": ["outdoor", "hobby", "travel", "health", "effort"]
+    },
+    {
+      "word": "Punishing",
+      "sentence_en": "The athletes endured a punishing training schedule.",
+      "sentence_ko": "선수들은 살인적인 훈련 일정을 견뎌냈습니다.",
+      "tags": ["sport", "health", "exercise", "effort", "style"]
+    },
+    {
+      "word": "Punishing",
+      "sentence_en": "Startups often have punishing deadlines to beat competitors.",
+      "sentence_ko": "스타트업은 경쟁자를 이기기 위해 종종 살인적인 마감 시한을 가집니다.",
+      "tags": ["startup", "business", "competition", "internet", "develope"]
+    },
+    {
+      "word": "Punishing",
+      "sentence_en": "The punishing heat made it hard to concentrate on studying.",
+      "sentence_ko": "살인적인 더위 때문에 공부에 집중하기가 힘들었습니다.",
+      "tags": ["study", "education", "weather", "environment", "health"]
+    },
+    {
+      "word": "Punishing",
+      "sentence_en": "He maintained a punishing pace throughout the marathon.",
+      "sentence_ko": "그는 마라톤 내내 혹독한 페이스를 유지했습니다.",
+      "tags": ["sport", "run", "challenge", "endurance", "effort"]
+    },
+    {
+      "word": "Punishing",
+      "sentence_en": "The medical residency program is known for being punishing.",
+      "sentence_ko": "의료 레지던트 프로그램은 혹독하기로 유명합니다.",
+      "tags": ["medical", "education", "career", "hospital", "work"]
+    },
+    {
+      "word": "Rigorous",
+      "sentence_en": "The software underwent rigorous testing before launch.",
+      "sentence_ko": "그 소프트웨어는 출시 전에 엄격한 테스트를 거쳤습니다.",
+      "tags": ["develope", "tech", "internet", "product", "quality"]
+    },
+    {
+      "word": "Rigorous",
+      "sentence_en": "Medical schools have rigorous admission standards.",
+      "sentence_ko": "의과 대학은 입학 기준이 엄격합니다.",
+      "tags": ["medical", "education", "university", "study", "career"]
+    },
+    {
+      "word": "Rigorous",
+      "sentence_en": "Entrepreneurs must perform rigorous market analysis.",
+      "sentence_ko": "기업가들은 철저한 시장 분석을 수행해야 합니다.",
+      "tags": ["entrepreneur", "business", "market", "startup", "study"]
+    },
+    {
+      "word": "Rigorous",
+      "sentence_en": "The interview process was rigorous and filtered out many candidates.",
+      "sentence_ko": "면접 과정은 엄격해서 많은 지원자를 걸러냈습니다.",
+      "tags": ["interview", "career", "hiring", "work", "business"]
+    },
+    {
+      "word": "Rigorous",
+      "sentence_en": "He follows a rigorous exercise routine every morning.",
+      "sentence_ko": "그는 매일 아침 철저한 운동 루틴을 따릅니다.",
+      "tags": ["health", "lifestyle", "routine", "exercise", "style"]
+    },
+    {
+      "word": "Exacting",
+      "sentence_en": "Coding is an exacting skill that requires attention to detail.",
+      "sentence_ko": "코딩은 세부 사항에 대한 주의를 요하는 까다로운 기술입니다.",
+      "tags": ["develope", "code", "tech", "internet", "study"]
+    },
+    {
+      "word": "Exacting",
+      "sentence_en": "The boss was an exacting leader who demanded perfection.",
+      "sentence_ko": "그 상사는 완벽을 요구하는 엄격한 리더였습니다.",
+      "tags": ["business", "leadership", "work", "office", "style"]
+    },
+    {
+      "word": "Exacting",
+      "sentence_en": "Medical surgery is an exacting profession with no room for error.",
+      "sentence_ko": "외과 수술은 실수할 여지가 없는 정밀한 직업입니다.",
+      "tags": ["medical", "health", "career", "work", "skill"]
+    },
+    {
+      "word": "Exacting",
+      "sentence_en": "She has exacting standards when it comes to her fashion style.",
+      "sentence_ko": "그녀는 자신의 패션 스타일에 관해서는 기준이 까다롭습니다.",
+      "tags": ["style", "fashion", "design", "art", "creative"]
+    },
+    {
+      "word": "Exacting",
+      "sentence_en": "Preparing for the interview required exacting preparation.",
+      "sentence_ko": "면접을 준비하는 데는 꼼꼼한 준비가 필요했습니다.",
+      "tags": ["interview", "career", "preparation", "study", "work"]
+    },
+    {
+      "word": "Tough",
+      "sentence_en": "It was tough to say goodbye to my childhood friends.",
+      "sentence_ko": "어린 시절 친구들과 작별하는 것은 힘든 일이었습니다.",
+      "tags": ["friendship", "emotion", "relationship", "life", "memory"]
+    },
+    {
+      "word": "Tough",
+      "sentence_en": "The startup market is tough for new businesses.",
+      "sentence_ko": "스타트업 시장은 신규 사업체들에게 힘든 곳입니다.",
+      "tags": ["startup", "business", "market", "economy", "challenge"]
+    },
+    {
+      "word": "Tough",
+      "sentence_en": "He asked some tough questions during the interview.",
+      "sentence_ko": "그는 면접 중에 몇 가지 곤란한 질문을 했습니다.",
+      "tags": ["interview", "career", "conversation", "challenge", "communication"]
+    },
+    {
+      "word": "Tough",
+      "sentence_en": "Medical school is tough, but the result is rewarding.",
+      "sentence_ko": "의대는 힘들지만, 그 결과는 보람 있습니다.",
+      "tags": ["medical", "education", "university", "study", "career"]
+    },
+    {
+      "word": "Tough",
+      "sentence_en": "Developing a secure website is a tough job.",
+      "sentence_ko": "보안이 철저한 웹사이트를 개발하는 것은 힘든 작업입니다.",
+      "tags": ["develope", "internet", "security", "tech", "work"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Fixing this bug in the code is a tricky problem.",
+      "sentence_ko": "코드에서 이 버그를 수정하는 것은 까다로운 문제입니다.",
+      "tags": ["develope", "code", "tech", "internet", "problem"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Navigating office politics can be tricky for new employees.",
+      "sentence_ko": "사내 정치를 헤쳐나가는 것은 신입 사원들에게 까다로울 수 있습니다.",
+      "tags": ["work", "business", "social", "office", "career"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "The interview included a tricky question about ethics.",
+      "sentence_ko": "면접에는 윤리에 관한 까다로운 질문이 포함되어 있었습니다.",
+      "tags": ["interview", "ethics", "question", "career", "thought"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Balancing study and friendship is sometimes tricky.",
+      "sentence_ko": "공부와 우정의 균형을 맞추는 것은 때로 까다롭습니다.",
+      "tags": ["study", "friendship", "life", "balance", "education"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "The medical diagnosis was tricky due to unusual symptoms.",
+      "sentence_ko": "특이한 증상 때문에 의학적 진단이 까다로웠습니다.",
+      "tags": ["medical", "health", "doctor", "science", "care"]
+    },
+    {
+      "word": "Thorny",
+      "sentence_en": "Copyright on the internet is a thorny issue.",
+      "sentence_ko": "인터넷 저작권은 골치 아픈 문제입니다.",
+      "tags": ["internet", "law", "business", "content", "society"]
+    },
+    {
+      "word": "Thorny",
+      "sentence_en": "They had a conversation about the thorny subject of money.",
+      "sentence_ko": "그들은 돈이라는 곤란한 주제에 대해 대화를 나눴습니다.",
+      "tags": ["conversation", "money", "relationship", "friendship", "life"]
+    },
+    {
+      "word": "Thorny",
+      "sentence_en": "The startup faced a thorny legal dispute.",
+      "sentence_ko": "그 스타트업은 골치 아픈 법적 분쟁에 직면했습니다.",
+      "tags": ["startup", "business", "law", "entrepreneur", "problem"]
+    },
+    {
+      "word": "Thorny",
+      "sentence_en": "Medical ethics presents many thorny dilemmas.",
+      "sentence_ko": "의료 윤리는 많은 골치 아픈 딜레마를 제시합니다.",
+      "tags": ["medical", "ethics", "philosophy", "education", "science"]
+    },
+    {
+      "word": "Thorny",
+      "sentence_en": "Finding a solution to this thorny problem requires creativity.",
+      "sentence_ko": "이 난해한 문제의 해결책을 찾는 데는 창의성이 필요합니다.",
+      "tags": ["solution", "problem", "creativity", "develope", "study"]
+    },
+    {
+      "word": "Problematic",
+      "sentence_en": "The new software update proved to be problematic for users.",
+      "sentence_ko": "새로운 소프트웨어 업데이트는 사용자들에게 문제가 있는 것으로 드러났습니다.",
+      "tags": ["software", "develope", "internet", "tech", "user"]
+    },
+    {
+      "word": "Problematic",
+      "sentence_en": "His problematic behavior affected the whole team.",
+      "sentence_ko": "그의 문제가 되는 행동은 팀 전체에 영향을 미쳤습니다.",
+      "tags": ["work", "business", "social", "relationship", "team"]
+    },
+    {
+      "word": "Problematic",
+      "sentence_en": "Funding is often problematic for early-stage startups.",
+      "sentence_ko": "초기 단계 스타트업에게 자금 조달은 종종 문제가 됩니다.",
+      "tags": ["startup", "entrepreneur", "finance", "business", "money"]
+    },
+    {
+      "word": "Problematic",
+      "sentence_en": "The lack of medical supplies is highly problematic.",
+      "sentence_ko": "의료 용품의 부족은 매우 심각한 문제입니다.",
+      "tags": ["medical", "health", "hospital", "crisis", "care"]
+    },
+    {
+      "word": "Problematic",
+      "sentence_en": "Interpreting the data was problematic due to errors.",
+      "sentence_ko": "오류들 때문에 데이터를 해석하는 것이 불확실했습니다.",
+      "tags": ["data", "study", "analysis", "science", "education"]
+    },
+    {
+      "word": "Uphill",
+      "sentence_en": "It was an uphill battle to get the startup funded.",
+      "sentence_ko": "스타트업 자금을 지원받는 것은 힘겨운 싸움이었습니다.",
+      "tags": ["startup", "funding", "business", "entrepreneur", "challenge"]
+    },
+    {
+      "word": "Uphill",
+      "sentence_en": "Learning to code from scratch can feel like an uphill struggle.",
+      "sentence_ko": "맨바닥에서 코딩을 배우는 것은 힘겨운 투쟁처럼 느껴질 수 있습니다.",
+      "tags": ["code", "develope", "learning", "study", "education"]
+    },
+    {
+      "word": "Uphill",
+      "sentence_en": "Repairing their friendship was an uphill task after the fight.",
+      "sentence_ko": "싸움 이후 그들의 우정을 회복하는 것은 힘겨운 과제였습니다.",
+      "tags": ["friendship", "relationship", "emotion", "conversation", "life"]
+    },
+    {
+      "word": "Uphill",
+      "sentence_en": "The patient faces a long, uphill road to recovery.",
+      "sentence_ko": "그 환자는 회복을 향한 길고 힘겨운 길에 직면해 있습니다.",
+      "tags": ["medical", "health", "recovery", "care", "life"]
+    },
+    {
+      "word": "Uphill",
+      "sentence_en": "Convincing the investors was an uphill climb.",
+      "sentence_ko": "투자자들을 설득하는 것은 힘겨운 등반과 같았습니다.",
+      "tags": ["interview", "business", "presentation", "communication", "finance"]
+    },
+    {
+      "word": "Insuperable",
+      "sentence_en": "The technical difficulties seemed insuperable at first.",
+      "sentence_ko": "기술적인 어려움들은 처음에는 극복할 수 없어 보였습니다.",
+      "tags": ["tech", "develope", "internet", "problem", "challenge"]
+    },
+    {
+      "word": "Insuperable",
+      "sentence_en": "There were insuperable barriers to entering the market.",
+      "sentence_ko": "시장에 진입하는 데에는 넘을 수 없는 장벽들이 있었습니다.",
+      "tags": ["business", "market", "entrepreneur", "startup", "economy"]
+    },
+    {
+      "word": "Insuperable",
+      "sentence_en": "With teamwork, no obstacle is truly insuperable.",
+      "sentence_ko": "팀워크가 있다면, 진정으로 극복할 수 없는 장애물은 없습니다.",
+      "tags": ["teamwork", "friendship", "motivation", "success", "life"]
+    },
+    {
+      "word": "Insuperable",
+      "sentence_en": "The medical condition was deemed insuperable by specialists.",
+      "sentence_ko": "그 의학적 상태는 전문의들에게 치료 불가능한 것으로 간주되었습니다.",
+      "tags": ["medical", "health", "disease", "science", "doctor"]
+    },
+    {
+      "word": "Insuperable",
+      "sentence_en": "He faced insuperable odds but never gave up studying.",
+      "sentence_ko": "그는 극복하기 힘든 역경에 직면했지만 공부를 포기하지 않았습니다.",
+      "tags": ["study", "education", "effort", "persistence", "life"]
+    },
+    {
+      "word": "Impossible",
+      "sentence_en": "It seemed impossible to finish the project on time.",
+      "sentence_ko": "프로젝트를 제시간에 끝내는 것은 불가능해 보였습니다.",
+      "tags": ["work", "project", "deadline", "business", "stress"]
+    },
+    {
+      "word": "Impossible",
+      "sentence_en": "Solving this math problem is impossible for me.",
+      "sentence_ko": "이 수학 문제를 푸는 것은 저에게 불가능합니다.",
+      "tags": ["study", "education", "math", "school", "problem"]
+    },
+    {
+      "word": "Impossible",
+      "sentence_en": "Nothing is impossible for a determined entrepreneur.",
+      "sentence_ko": "결단력 있는 기업가에게 불가능이란 없습니다.",
+      "tags": ["entrepreneur", "startup", "motivation", "mindset", "success"]
+    },
+    {
+      "word": "Impossible",
+      "sentence_en": "It is impossible to please everyone with your style.",
+      "sentence_ko": "당신의 스타일로 모든 사람을 만족시키는 것은 불가능합니다.",
+      "tags": ["style", "fashion", "social", "life", "opinion"]
+    },
+    {
+      "word": "Impossible",
+      "sentence_en": "The doctor achieved an impossible medical cure.",
+      "sentence_ko": "그 의사는 불가능한 의학적 치료를 해냈습니다.",
+      "tags": ["medical", "miracle", "health", "science", "care"]
+    },
+    {
+      "word": "Herculean",
+      "sentence_en": "Cleaning up the internet database was a Herculean task.",
+      "sentence_ko": "인터넷 데이터베이스를 정리하는 것은 초인적인 힘이 필요한 작업이었습니다.",
+      "tags": ["internet", "data", "develope", "tech", "work"]
+    },
+    {
+      "word": "Herculean",
+      "sentence_en": "It took a Herculean effort to launch the startup.",
+      "sentence_ko": "스타트업을 론칭하는 데는 엄청난 노력이 들었습니다.",
+      "tags": ["startup", "entrepreneur", "effort", "business", "launch"]
+    },
+    {
+      "word": "Herculean",
+      "sentence_en": "The nurses performed Herculean work during the crisis.",
+      "sentence_ko": "간호사들은 위기 상황 동안 초인적인 업무를 수행했습니다.",
+      "tags": ["medical", "health", "care", "work", "hospital"]
+    },
+    {
+      "word": "Herculean",
+      "sentence_en": "Finishing the thesis required Herculean dedication to study.",
+      "sentence_ko": "논문을 완성하는 데는 학업에 대한 엄청난 헌신이 필요했습니다.",
+      "tags": ["study", "education", "university", "writing", "research"]
+    },
+    {
+      "word": "Herculean",
+      "sentence_en": "Rebuilding trust in a friendship can be a Herculean job.",
+      "sentence_ko": "우정에서 신뢰를 다시 쌓는 것은 매우 힘든 일일 수 있습니다.",
+      "tags": ["friendship", "relationship", "trust", "life", "social"]
+    },
+    {
+      "word": "Painstaking",
+      "sentence_en": "The artist created the design with painstaking detail.",
+      "sentence_ko": "그 예술가는 공을 들인 세밀함으로 디자인을 만들었습니다.",
+      "tags": ["style", "art", "design", "creative", "work"]
+    },
+    {
+      "word": "Painstaking",
+      "sentence_en": "Debugging code requires painstaking attention.",
+      "sentence_ko": "코드를 디버깅하는 것은 세심한 주의를 필요로 합니다.",
+      "tags": ["code", "develope", "tech", "internet", "focus"]
+    },
+    {
+      "word": "Painstaking",
+      "sentence_en": "She conducted painstaking research for her medical paper.",
+      "sentence_ko": "그녀는 의학 논문을 위해 공들여 연구를 진행했습니다.",
+      "tags": ["medical", "study", "research", "education", "science"]
+    },
+    {
+      "word": "Painstaking",
+      "sentence_en": "The startup's growth was the result of painstaking planning.",
+      "sentence_ko": "그 스타트업의 성장은 공들인 계획의 결과였습니다.",
+      "tags": ["startup", "planning", "business", "success", "strategy"]
+    },
+    {
+      "word": "Painstaking",
+      "sentence_en": "Preparing for the interview involved painstaking practice.",
+      "sentence_ko": "면접 준비에는 힘든 연습이 포함되었습니다.",
+      "tags": ["interview", "practice", "career", "effort", "job"]
+    },
+    {
+      "word": "Exhausting",
+      "sentence_en": "The long journey across the country was exhausting.",
+      "sentence_ko": "나라를 가로지르는 긴 여행은 진이 빠지는 일이었습니다.",
+      "tags": ["travel", "life", "tired", "outdoor", "journey"]
+    },
+    {
+      "word": "Exhausting",
+      "sentence_en": "Constant social interactions can be exhausting for introverts.",
+      "sentence_ko": "끊임없는 사회적 교류는 내향적인 사람들에게 피곤한 일일 수 있습니다.",
+      "tags": ["social", "friendship", "personality", "life", "stress"]
+    },
+    {
+      "word": "Exhausting",
+      "sentence_en": "Developing the app alone was an exhausting experience.",
+      "sentence_ko": "혼자 앱을 개발하는 것은 기진맥진하게 하는 경험이었습니다.",
+      "tags": ["develope", "app", "internet", "work", "effort"]
+    },
+    {
+      "word": "Exhausting",
+      "sentence_en": "Study sessions that last all night are exhausting.",
+      "sentence_ko": "밤새 이어지는 공부 시간은 사람을 지치게 합니다.",
+      "tags": ["study", "education", "student", "night", "tired"]
+    },
+    {
+      "word": "Exhausting",
+      "sentence_en": "The medical staff faced an exhausting shift at the hospital.",
+      "sentence_ko": "의료진은 병원에서 지치게 만드는 교대 근무를 했습니다.",
+      "tags": ["medical", "hospital", "work", "care", "health"]
+    },
+    {
+      "word": "Trying",
+      "sentence_en": "These are trying times for the global economy.",
+      "sentence_ko": "지금은 세계 경제에 있어 시련의 시기입니다.",
+      "tags": ["economy", "business", "news", "world", "life"]
+    },
+    {
+      "word": "Trying",
+      "sentence_en": "Dealing with a difficult client can be very trying.",
+      "sentence_ko": "까다로운 고객을 상대하는 것은 매우 괴로운 일일 수 있습니다.",
+      "tags": ["business", "work", "service", "communication", "patience"]
+    },
+    {
+      "word": "Trying",
+      "sentence_en": "She had a trying day at the startup office.",
+      "sentence_ko": "그녀는 스타트업 사무실에서 힘든 하루를 보냈습니다.",
+      "tags": ["startup", "office", "work", "stress", "day"]
+    },
+    {
+      "word": "Trying",
+      "sentence_en": "It was a trying experience for their friendship.",
+      "sentence_ko": "그것은 그들의 우정에 있어 시련을 주는 경험이었습니다.",
+      "tags": ["friendship", "relationship", "conflict", "test", "life"]
+    },
+    {
+      "word": "Trying",
+      "sentence_en": "Waiting for the interview results is trying on my nerves.",
+      "sentence_ko": "면접 결과를 기다리는 것은 내 신경을 건드리는 힘든 일입니다.",
+      "tags": ["interview", "stress", "waiting", "career", "feeling"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The internet outage caused severe problems for the business.",
+      "sentence_ko": "인터넷 중단은 사업에 심각한 문제를 일으켰습니다.",
+      "tags": ["internet", "business", "problem", "tech", "failure"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "He suffered severe injuries and needed medical attention.",
+      "sentence_ko": "그는 심각한 부상을 입어 치료가 필요했습니다.",
+      "tags": ["medical", "health", "injury", "care", "hospital"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The teacher was severe with students who didn't study.",
+      "sentence_ko": "선생님은 공부하지 않는 학생들에게 가혹했습니다.",
+      "tags": ["education", "teacher", "study", "school", "discipline"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "Startups face severe competition in the tech market.",
+      "sentence_ko": "스타트업들은 기술 시장에서 가혹한 경쟁에 직면합니다.",
+      "tags": ["startup", "competition", "tech", "market", "business"]
+    },
+    {
+      "word": "Severe",
+      "sentence_en": "The winter weather was severe this year.",
+      "sentence_ko": "올해 겨울 날씨는 혹독했습니다.",
+      "tags": ["weather", "winter", "environment", "nature", "cold"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The learning curve for this software is steep.",
+      "sentence_ko": "이 소프트웨어의 학습 곡선은 가파릅니다(배우기 어렵습니다).",
+      "tags": ["develope", "learning", "study", "software", "challenge"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "They faced a steep challenge in raising funds.",
+      "sentence_ko": "그들은 자금을 모으는 데 있어 터무니없이 어려운 도전에 직면했습니다.",
+      "tags": ["startup", "funding", "business", "money", "finance"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The price of the new medical device is quite steep.",
+      "sentence_ko": "새 의료 기기의 가격은 꽤 비쌉니다.",
+      "tags": ["medical", "price", "money", "tech", "health"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "We climbed a steep hill during our morning walk.",
+      "sentence_ko": "우리는 아침 산책 중에 가파른 언덕을 올랐습니다.",
+      "tags": ["outdoor", "exercise", "health", "nature", "walk"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The requirements for the job interview were steep.",
+      "sentence_ko": "그 취업 면접의 요구 조건들은 너무 높았습니다.",
+      "tags": ["interview", "career", "job", "standard", "work"]
+    },
+    {
+      "word": "Rough",
+      "sentence_en": "The startup had a rough start but eventually succeeded.",
+      "sentence_ko": "그 스타트업은 거친 출발을 보였지만 결국 성공했습니다.",
+      "tags": ["startup", "business", "success", "history", "story"]
+    },
+    {
+      "word": "Rough",
+      "sentence_en": "I had a rough day at school with many exams.",
+      "sentence_ko": "많은 시험 때문에 학교에서 힘든 하루를 보냈습니다.",
+      "tags": ["education", "school", "study", "exam", "tired"]
+    },
+    {
+      "word": "Rough",
+      "sentence_en": "His coding style is a bit rough but functional.",
+      "sentence_ko": "그의 코딩 스타일은 좀 거칠지만 기능은 합니다.",
+      "tags": ["develope", "code", "style", "tech", "work"]
+    },
+    {
+      "word": "Rough",
+      "sentence_en": "The sea was rough, making the boat trip difficult.",
+      "sentence_ko": "바다가 거칠어서 배 여행이 힘들었습니다.",
+      "tags": ["travel", "nature", "weather", "ocean", "outdoor"]
+    },
+    {
+      "word": "Rough",
+      "sentence_en": "We went through a rough patch in our friendship.",
+      "sentence_ko": "우리는 우정에 있어 힘든 시기를 겪었습니다.",
+      "tags": ["friendship", "relationship", "conflict", "life", "time"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "It is crucial to have a good business plan as an entrepreneur.",
+      "sentence_ko": "기업가로서 좋은 사업 계획을 갖는 것은 결정적으로 중요합니다.",
+      "tags": ["entrepreneur", "business", "planning", "strategy", "success"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Good communication is crucial in any friendship.",
+      "sentence_ko": "어떤 우정에서든 좋은 의사소통은 필수적입니다.",
+      "tags": ["friendship", "communication", "social", "relationship", "life"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "This medical research is crucial for curing the disease.",
+      "sentence_ko": "이 의학 연구는 질병 치료에 있어 중대합니다.",
+      "tags": ["medical", "research", "science", "health", "cure"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "Choosing the right framework is crucial in web development.",
+      "sentence_ko": "웹 개발에서 올바른 프레임워크를 선택하는 것은 매우 중요합니다.",
+      "tags": ["develope", "internet", "tech", "web", "coding"]
+    },
+    {
+      "word": "Crucial",
+      "sentence_en": "The interview was a crucial moment in her career.",
+      "sentence_ko": "그 면접은 그녀의 경력에 있어 결정적인 순간이었습니다.",
+      "tags": ["interview", "career", "job", "life", "opportunity"]
+    }
+  ]
+}

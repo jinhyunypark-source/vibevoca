@@ -1,0 +1,906 @@
+{
+  "deck_title": "TRANSFORMATION",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Evolve",
+      "sentence_en": "Modern soccer tactics continue to evolve as coaches find new ways to exploit defensive weaknesses.",
+      "sentence_ko": "감독들이 수비의 약점을 공략하는 새로운 방법을 찾아내면서 현대 축구 전술은 계속해서 진화하고 있습니다.",
+      "tags": ["sport", "activity", "career"]
+    },
+    {
+      "word": "Evolve",
+      "sentence_en": "Her personal fashion style has evolved from simple casual wear to sophisticated high-fashion over the years.",
+      "sentence_ko": "그녀의 개인적인 패션 스타일은 수년에 걸쳐 단순한 캐주얼 웨어에서 세련된 하이 패션으로 진화했습니다.",
+      "tags": ["fashion", "style", "career"]
+    },
+    {
+      "word": "Evolve",
+      "sentence_en": "Technology must evolve constantly to meet the growing demands of modern internet users.",
+      "sentence_ko": "기술은 현대 인터넷 사용자들의 늘어나는 요구를 충족시키기 위해 끊임없이 진화해야 합니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Evolve",
+      "sentence_en": "Our understanding of healthy eating habits has evolved significantly with new scientific research.",
+      "sentence_ko": "건강한 식습관에 대한 우리의 이해는 새로운 과학적 연구와 함께 크게 진화해 왔습니다.",
+      "tags": ["health", "food", "learning"]
+    },
+    {
+      "word": "Evolve",
+      "sentence_en": "Starting as a small food stall, the business evolved into a world-famous restaurant chain.",
+      "sentence_ko": "작은 포장마차로 시작한 그 사업은 서서히 세계적으로 유명한 레스토랑 체인으로 진화했습니다.",
+      "tags": ["food", "place", "career"]
+    },
+    {
+      "word": "Transform",
+      "sentence_en": "A simple haircut and a new suit can completely transform a person's overall appearance.",
+      "sentence_ko": "간단한 이발과 새 정장은 한 사람의 전체적인 외모를 완전히 탈바꿈시킬 수 있습니다.",
+      "tags": ["fashion", "style", "career"]
+    },
+    {
+      "word": "Transform",
+      "sentence_en": "The chef used exotic spices to transform the plain chicken into a gourmet masterpiece.",
+      "sentence_ko": "셰프는 이국적인 향료를 사용하여 평범한 닭고기를 미식 예술 작품으로 변형시켰습니다.",
+      "tags": ["cooking", "food", "activity"]
+    },
+    {
+      "word": "Transform",
+      "sentence_en": "New technology has the power to transform how we communicate with each other globally.",
+      "sentence_ko": "새로운 기술은 우리가 전 세계적으로 서로 소통하는 방식을 완전히 바꿀 수 있는 힘이 있습니다.",
+      "tags": ["technology", "communication", "develope"]
+    },
+    {
+      "word": "Transform",
+      "sentence_en": "They decided to transform the old, abandoned warehouse into a vibrant community art space.",
+      "sentence_ko": "그들은 낡고 버려진 창고를 활기찬 커뮤니티 예술 공간으로 탈바꿈시키기로 결정했습니다.",
+      "tags": ["place", "activity", "develope"]
+    },
+    {
+      "word": "Transform",
+      "sentence_en": "The experience of traveling alone for a year transformed his perspective on life entirely.",
+      "sentence_ko": "1년 동안 혼자 여행한 경험은 삶에 대한 그의 관점을 완전히 바꿔놓았습니다.",
+      "tags": ["outdoor", "journey", "career"]
+    },
+    {
+      "word": "Metamorphose",
+      "sentence_en": "It was amazing to watch the caterpillar metamorphose into a beautiful butterfly in the garden.",
+      "sentence_ko": "정원에서 애벌레가 아름다운 나비로 탈바꿈하는 과정을 지켜보는 것은 놀라운 일이었습니다.",
+      "tags": ["nature", "outdoor", "learning"]
+    },
+    {
+      "word": "Metamorphose",
+      "sentence_en": "During the festival, the quiet town metamorphoses into a crowded and noisy celebration hub.",
+      "sentence_ko": "축제 기간 동안 조용한 마을은 붐비고 시끌벅적한 축제의 중심지로 변신합니다.",
+      "tags": ["place", "activity", "social"]
+    },
+    {
+      "word": "Metamorphose",
+      "sentence_en": "The actor had to metamorphose his body through intense training for the superhero movie role.",
+      "sentence_ko": "그 배우는 슈퍼히어로 영화 배역을 위해 혹독한 훈련을 통해 몸을 완전히 개조해야 했습니다.",
+      "tags": ["health", "sport", "career"]
+    },
+    {
+      "word": "Metamorphose",
+      "sentence_en": "Her grief began to metamorphose into a strong desire to help others in similar situations.",
+      "sentence_ko": "그녀의 슬픔은 비슷한 상황에 처한 다른 이들을 돕고 싶다는 강한 열망으로 탈바꿈하기 시작했습니다.",
+      "tags": ["sad", "feeling", "social"]
+    },
+    {
+      "word": "Metamorphose",
+      "sentence_en": "Digital technology has caused traditional bookstores to metamorphose into modern cultural complexes.",
+      "sentence_ko": "디지털 기술은 전통적인 서점들이 현대적인 문화 복합 공간으로 탈바꿈하게 만들었습니다.",
+      "tags": ["technology", "place", "develope"]
+    },
+    {
+      "word": "Convert",
+      "sentence_en": "They decided to convert the guest room into a home office to improve productivity.",
+      "sentence_ko": "그들은 생산성을 높이기 위해 손님용 방을 홈 오피스로 전환하기로 했습니다.",
+      "tags": ["place", "career", "technology"]
+    },
+    {
+      "word": "Convert",
+      "sentence_en": "You can easily convert these digital files into a format that is compatible with your smartphone.",
+      "sentence_ko": "이 디지털 파일들을 스마트폰과 호환되는 형식으로 쉽게 변환할 수 있습니다.",
+      "tags": ["technology", "activity", "communication"]
+    },
+    {
+      "word": "Convert",
+      "sentence_en": "The coach tried to convert the fast runner into a skilled wide receiver for the team.",
+      "sentence_ko": "감독은 그 빠른 주자를 팀의 숙련된 와이드 리시버로 전향시키려 노력했습니다.",
+      "tags": ["sport", "career", "activity"]
+    },
+    {
+      "word": "Convert",
+      "sentence_en": "We can convert the leftover vegetables into a delicious and healthy soup for dinner.",
+      "sentence_ko": "우리는 남은 채소들을 저녁 식사를 위한 맛있고 건강한 수프로 변환할 수 있습니다.",
+      "tags": ["cooking", "food", "health"]
+    },
+    {
+      "word": "Convert",
+      "sentence_en": "The solar panels convert sunlight into clean energy to power the entire building.",
+      "sentence_ko": "태양광 패널은 햇빛을 깨끗한 에너지로 전환하여 건물 전체에 전력을 공급합니다.",
+      "tags": ["technology", "outdoor", "develope"]
+    },
+    {
+      "word": "Alter",
+      "sentence_en": "The tailor had to alter the dress several times to make it fit her perfectly.",
+      "sentence_ko": "재단사는 드레스가 그녀에게 완벽하게 맞도록 여러 번 고쳐야 했습니다.",
+      "tags": ["fashion", "style", "activity"]
+    },
+    {
+      "word": "Alter",
+      "sentence_en": "The heavy rain forced us to alter our outdoor hiking plans for the weekend.",
+      "sentence_ko": "폭우 때문에 주말 야외 하이킹 계획을 변경해야만 했습니다.",
+      "tags": ["outdoor", "weather", "journey"]
+    },
+    {
+      "word": "Alter",
+      "sentence_en": "Adding too much salt can significantly alter the intended flavor of the dish.",
+      "sentence_ko": "소금을 너무 많이 넣으면 요리의 본래 의도했던 맛을 크게 바꿀 수 있습니다.",
+      "tags": ["cooking", "food", "health"]
+    },
+    {
+      "word": "Alter",
+      "sentence_en": "The loss of his job altered his lifestyle and made him much more cautious with money.",
+      "sentence_ko": "실직은 그의 라이프스타일을 바꾸어 놓았고 그를 돈 문제에 훨씬 더 신중하게 만들었습니다.",
+      "tags": ["career", "sad", "feeling"]
+    },
+    {
+      "word": "Alter",
+      "sentence_en": "The new manager decided not to alter the existing team structure during the first month.",
+      "sentence_ko": "새 매니저는 첫 달 동안 기존의 팀 구조를 변경하지 않기로 결정했습니다.",
+      "tags": ["career", "social", "meeting"]
+    },
+    {
+      "word": "Modify",
+      "sentence_en": "The engineers had to modify the engine design to improve fuel efficiency and performance.",
+      "sentence_ko": "엔지니어들은 연료 효율과 성능을 개선하기 위해 엔진 설계를 수정해야 했습니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Modify",
+      "sentence_en": "We can modify the original recipe to include more healthy ingredients like kale and spinach.",
+      "sentence_ko": "우리는 케일과 시금치 같은 더 건강한 재료를 넣도록 원래 레시피를 수정할 수 있습니다.",
+      "tags": ["cooking", "food", "health"]
+    },
+    {
+      "word": "Modify",
+      "sentence_en": "The teacher asked the student to modify the essay to make the main argument clearer.",
+      "sentence_ko": "선생님은 학생에게 주요 주장이 더 명확해지도록 에세이를 수정하라고 요청했습니다.",
+      "tags": ["learning", "career", "communication"]
+    },
+    {
+      "word": "Modify",
+      "sentence_en": "The court decided to modify the terms of the agreement after a long discussion.",
+      "sentence_ko": "법원은 긴 논의 끝에 합의안의 조건을 수정하기로 결정했습니다.",
+      "tags": ["social", "career", "meeting"]
+    },
+    {
+      "word": "Modify",
+      "sentence_en": "She had to modify her training routine because of a persistent knee injury.",
+      "sentence_ko": "그녀는 지속적인 무릎 부상 때문에 훈련 루틴을 수정해야 했습니다.",
+      "tags": ["sport", "health", "activity"]
+    },
+    {
+      "word": "Adjust",
+      "sentence_en": "You need to adjust your camera settings to get the best photo in low light.",
+      "sentence_ko": "저조도에서 최고의 사진을 얻으려면 카메라 설정을 조절해야 합니다.",
+      "tags": ["technology", "activity", "hobby"]
+    },
+    {
+      "word": "Adjust",
+      "sentence_en": "It took some time for the team to adjust to the new manager's leadership style.",
+      "sentence_ko": "팀원들이 새 매니저의 리더십 스타일에 적응하는 데 시간이 좀 걸렸습니다.",
+      "tags": ["career", "social", "meeting"]
+    },
+    {
+      "word": "Adjust",
+      "sentence_en": "The athlete had to adjust his breathing technique to maintain stamina during the long race.",
+      "sentence_ko": "그 선수는 긴 경주 동안 체력을 유지하기 위해 호흡법을 조절해야 했습니다.",
+      "tags": ["sport", "health", "activity"]
+    },
+    {
+      "word": "Adjust",
+      "sentence_en": "We should adjust the temperature in the room to make our guests feel more comfortable.",
+      "sentence_ko": "손님들이 더 편안하게 느낄 수 있도록 방 안의 온도를 조절해야 합니다.",
+      "tags": ["place", "social", "home"]
+    },
+    {
+      "word": "Adjust",
+      "sentence_en": "Investors must adjust their portfolios when the market conditions become highly unpredictable.",
+      "sentence_ko": "시장 상황이 매우 예측 불가능해지면 투자자들은 포트폴리오를 조정해야 합니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Adapt",
+      "sentence_en": "Successful companies are those that can adapt quickly to changes in technology and consumer behavior.",
+      "sentence_ko": "성공하는 기업은 기술과 소비자 행동의 변화에 빠르게 적응할 수 있는 기업들입니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Adapt",
+      "sentence_en": "Many animals have to adapt their hunting habits to survive in the changing outdoor environment.",
+      "sentence_ko": "많은 동물들이 변화하는 야외 환경에서 살아남기 위해 사냥 습관을 적응시켜야 합니다.",
+      "tags": ["nature", "outdoor", "learning"]
+    },
+    {
+      "word": "Adapt",
+      "sentence_en": "It was difficult for her to adapt to the cold weather after moving from a tropical country.",
+      "sentence_ko": "열대 국가에서 이주한 후 그녀가 추운 날씨에 적응하는 것은 어려웠습니다.",
+      "tags": ["outdoor", "weather", "place"]
+    },
+    {
+      "word": "Adapt",
+      "sentence_en": "The screenplay was adapted from a famous novel, making it a highly anticipated movie.",
+      "sentence_ko": "그 시나리오는 유명 소설을 각색한 것이어서 매우 기대되는 영화가 되었습니다.",
+      "tags": ["activity", "art", "develope"]
+    },
+    {
+      "word": "Adapt",
+      "sentence_en": "The soccer player had to adapt to a new position on the field due to injuries.",
+      "sentence_ko": "그 축구 선수는 부상 때문에 경기장 내 새로운 포지션에 적응해야 했습니다.",
+      "tags": ["sport", "career", "activity"]
+    },
+    {
+      "word": "Acclimate",
+      "sentence_en": "Hikers usually spend a few days at the base camp to acclimate to the high altitude.",
+      "sentence_ko": "등산객들은 대개 고산 지대에 적응하기 위해 베이스캠프에서 며칠을 보냅니다.",
+      "tags": ["outdoor", "health", "journey"]
+    },
+    {
+      "word": "Acclimate",
+      "sentence_en": "It takes a while for new employees to acclimate to the fast-paced culture of a startup.",
+      "sentence_ko": "신입 사원들이 스타트업의 빠른 문화에 익숙해지는 데는 시간이 좀 걸립니다.",
+      "tags": ["career", "social", "meeting"]
+    },
+    {
+      "word": "Acclimate",
+      "sentence_en": "The athletes traveled a week early to acclimate to the humid weather conditions before the game.",
+      "sentence_ko": "선수들은 경기 전 습한 기후 조건에 적응하기 위해 일주일 일찍 여행을 떠났습니다.",
+      "tags": ["sport", "weather", "activity"]
+    },
+    {
+      "word": "Acclimate",
+      "sentence_en": "The plants need some time to acclimate to the indoor environment before they can grow properly.",
+      "sentence_ko": "식물들이 제대로 자라기 위해서는 실내 환경에 적응할 시간이 어느 정도 필요합니다.",
+      "tags": ["nature", "place", "home"]
+    },
+    {
+      "word": "Acclimate",
+      "sentence_en": "Living abroad for a few months helped him acclimate to the local customs and language.",
+      "sentence_ko": "몇 달간 해외에서 생활한 것은 그가 현지 관습과 언어에 익숙해지는 데 도움이 되었습니다.",
+      "tags": ["journey", "social", "learning"]
+    },
+    {
+      "word": "Revise",
+      "sentence_en": "The editor asked the author to revise the final chapter to improve the story's ending.",
+      "sentence_ko": "편집자는 작가에게 이야기의 결말을 개선하기 위해 마지막 장을 수정해 달라고 요청했습니다.",
+      "tags": ["learning", "career", "art"]
+    },
+    {
+      "word": "Revise",
+      "sentence_en": "We need to revise our marketing strategy because the initial results were not very promising.",
+      "sentence_ko": "초기 결과가 그리 유망하지 않았기 때문에 마케팅 전략을 개정해야 합니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Revise",
+      "sentence_en": "The government is planning to revise the current tax laws to help small business owners.",
+      "sentence_ko": "정부는 소상공인들을 돕기 위해 현재의 세법을 개정할 계획입니다.",
+      "tags": ["social", "career", "develope"]
+    },
+    {
+      "word": "Revise",
+      "sentence_en": "The professor advised the students to revise their study plans before the final exams start.",
+      "sentence_ko": "교수님은 학생들에게 기말고사가 시작되기 전에 학습 계획을 다시 검토하고 수정하라고 조언했습니다.",
+      "tags": ["learning", "career", "meeting"]
+    },
+    {
+      "word": "Revise",
+      "sentence_en": "He had to revise his estimate for the home renovation after seeing the material prices.",
+      "sentence_ko": "그는 자재 가격을 확인한 후 집 수리 견적을 수정해야 했습니다.",
+      "tags": ["place", "career", "home"]
+    },
+    {
+      "word": "Reform",
+      "sentence_en": "There is a strong public demand to reform the current healthcare system for better access.",
+      "sentence_ko": "더 나은 접근성을 위해 현재의 의료 시스템을 개혁해야 한다는 강한 대중적 요구가 있습니다.",
+      "tags": ["health", "social", "develope"]
+    },
+    {
+      "word": "Reform",
+      "sentence_en": "The new leader promised to reform the corruption within the political party during his speech.",
+      "sentence_ko": "새 리더는 연설에서 정당 내 부패를 개혁하겠다고 약속했습니다.",
+      "tags": ["social", "career", "meeting"]
+    },
+    {
+      "word": "Reform",
+      "sentence_en": "Education reform is necessary to prepare young students for the challenges of the future.",
+      "sentence_ko": "미래의 도전에 젊은 학생들을 대비시키기 위해서는 교육 개혁이 필요합니다.",
+      "tags": ["learning", "social", "develope"]
+    },
+    {
+      "word": "Reform",
+      "sentence_en": "The prisoner showed a sincere desire to reform and start a new life after release.",
+      "sentence_ko": "그 죄수는 석방 후 새 삶을 시작하고 갱생하려는 진심 어린 욕구를 보여주었습니다.",
+      "tags": ["sad", "feeling", "social"]
+    },
+    {
+      "word": "Reform",
+      "sentence_en": "Small changes in policy can lead to major social reform over a long period of time.",
+      "sentence_ko": "정책의 작은 변화가 오랜 시간에 걸쳐 중대한 사회적 개혁으로 이어질 수 있습니다.",
+      "tags": ["social", "career", "develope"]
+    },
+    {
+      "word": "Remodel",
+      "sentence_en": "They decided to remodel their old kitchen with modern appliances and a new island counter.",
+      "sentence_ko": "그들은 현대적인 가전제품과 새로운 아일랜드 식탁으로 낡은 주방을 리모델링하기로 했습니다.",
+      "tags": ["place", "home", "cooking"]
+    },
+    {
+      "word": "Remodel",
+      "sentence_en": "The company spent a lot of money to remodel the office to encourage open communication.",
+      "sentence_ko": "회사는 개방적인 소통을 장려하기 위해 사무실을 리모델링하는 데 많은 돈을 썼습니다.",
+      "tags": ["place", "career", "social"]
+    },
+    {
+      "word": "Remodel",
+      "sentence_en": "She plans to remodel her business model to focus more on sustainable fashion and ethical sourcing.",
+      "sentence_ko": "그녀는 지속 가능한 패션과 윤리적 소싱에 더 집중하도록 비즈니스 모델을 재구성할 계획입니다.",
+      "tags": ["fashion", "career", "develope"]
+    },
+    {
+      "word": "Remodel",
+      "sentence_en": "The architect suggested to remodel the living room to let in more natural sunlight.",
+      "sentence_ko": "건축가는 자연 채광이 더 많이 들어오도록 거실 구조를 바꾸라고 제안했습니다.",
+      "tags": ["place", "home", "outdoor"]
+    },
+    {
+      "word": "Remodel",
+      "sentence_en": "The hotel is closed for two months as they remodel the lobby and the entrance area.",
+      "sentence_ko": "그 호텔은 로비와 입구 구역을 리모델링하는 동안 두 달간 문을 닫습니다.",
+      "tags": ["place", "activity", "journey"]
+    },
+    {
+      "word": "Renovate",
+      "sentence_en": "The local community worked together to renovate the historic park and its ancient fountain.",
+      "sentence_ko": "지역 사회는 역사적인 공원과 그곳의 고대 분수를 보수하기 위해 협력했습니다.",
+      "tags": ["place", "outdoor", "social"]
+    },
+    {
+      "word": "Renovate",
+      "sentence_en": "It is often cheaper to renovate an old house than to build a completely new one.",
+      "sentence_ko": "완전히 새로 짓는 것보다 낡은 집을 수리해서 쓰는 것이 대개 비용이 덜 듭니다.",
+      "tags": ["place", "home", "career"]
+    },
+    {
+      "word": "Renovate",
+      "sentence_en": "The school decided to renovate the gymnasium to provide better facilities for the soccer team.",
+      "sentence_ko": "학교는 축구팀에게 더 나은 시설을 제공하기 위해 체육관을 보수하기로 결정했습니다.",
+      "tags": ["sport", "place", "learning"]
+    },
+    {
+      "word": "Renovate",
+      "sentence_en": "We are looking for a reliable contractor to renovate our bathroom before the summer holidays.",
+      "sentence_ko": "우리는 여름 휴가 전에 욕실을 새단장해 줄 믿을 만한 업체를 찾고 있습니다.",
+      "tags": ["place", "home", "activity"]
+    },
+    {
+      "word": "Renovate",
+      "sentence_en": "The museum was closed during the project to renovate the main exhibition hall and galleries.",
+      "sentence_ko": "주요 전시실과 갤러리 보수 프로젝트 기간 동안 박물관은 폐쇄되었습니다.",
+      "tags": ["place", "activity", "art"]
+    },
+    {
+      "word": "Revolutionize",
+      "sentence_en": "Artificial intelligence is expected to revolutionize the healthcare industry in the coming years.",
+      "sentence_ko": "인공지능은 향후 몇 년 안에 의료 산업에 혁신을 일으킬 것으로 기대됩니다.",
+      "tags": ["technology", "health", "develope"]
+    },
+    {
+      "word": "Revolutionize",
+      "sentence_en": "The invention of the smartphone revolutionized the way we access information and communicate.",
+      "sentence_ko": "스마트폰의 발명은 우리가 정보에 접근하고 소통하는 방식을 근본적으로 바꿨습니다.",
+      "tags": ["technology", "communication", "activity"]
+    },
+    {
+      "word": "Revolutionize",
+      "sentence_en": "This new cooking technique could revolutionize how professional chefs prepare large-scale banquets.",
+      "sentence_ko": "이 새로운 요리 기법은 전문 셰프들이 대규모 연회를 준비하는 방식을 혁신할 수 있습니다.",
+      "tags": ["cooking", "food", "career"]
+    },
+    {
+      "word": "Revolutionize",
+      "sentence_en": "High-speed rail has revolutionized travel between major cities across the country.",
+      "sentence_ko": "고속 철도는 전국의 주요 도시 간 여행 방식을 혁신적으로 변화시켰습니다.",
+      "tags": ["technology", "place", "journey"]
+    },
+    {
+      "word": "Revolutionize",
+      "sentence_en": "Online learning platforms have revolutionized education by making it accessible to everyone.",
+      "sentence_ko": "온라인 학습 플랫폼은 모든 사람이 교육에 접근할 수 있게 함으로써 교육의 혁신을 가져왔습니다.",
+      "tags": ["learning", "technology", "develope"]
+    },
+    {
+      "word": "Shift",
+      "sentence_en": "There has been a significant shift in consumer preference toward organic and healthy food.",
+      "sentence_ko": "유기농 및 건강 식품에 대한 소비자 선호도가 크게 변화(이동)했습니다.",
+      "tags": ["health", "food", "social"]
+    },
+    {
+      "word": "Shift",
+      "sentence_en": "The company decided to shift its focus from traditional marketing to social media advertising.",
+      "sentence_ko": "회사는 초점을 전통적인 마케팅에서 소셜 미디어 광고로 전환하기로 결정했습니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Shift",
+      "sentence_en": "He felt a sudden shift in the atmosphere during the meeting after the bad news was shared.",
+      "sentence_ko": "나쁜 소식이 공유된 후 회의 분위기가 갑자기 바뀌는 것을 그는 느꼈습니다.",
+      "tags": ["meeting", "sad", "feeling"]
+    },
+    {
+      "word": "Shift",
+      "sentence_en": "We need to shift our outdoor activity to the afternoon because of the morning fog.",
+      "sentence_ko": "아침 안개 때문에 야외 활동을 오후로 옮겨야 합니다.",
+      "tags": ["outdoor", "weather", "activity"]
+    },
+    {
+      "word": "Shift",
+      "sentence_en": "A dramatic shift in public opinion led to the eventual change in the government's policy.",
+      "sentence_ko": "여론의 극적인 변화가 결국 정부 정책의 변화로 이어졌습니다.",
+      "tags": ["social", "career", "develope"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "The cooking time can vary depending on the size and freshness of the ingredients.",
+      "sentence_ko": "조리 시간은 재료의 크기와 신선도에 따라 달라질 수 있습니다.",
+      "tags": ["cooking", "food", "activity"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "Ticket prices for the soccer match vary according to the seating area and the game's importance.",
+      "sentence_ko": "축구 경기 티켓 가격은 좌석 구역과 경기의 중요도에 따라 다양합니다.",
+      "tags": ["sport", "activity", "social"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "It is important to vary your training routine to prevent boredom and improve overall fitness.",
+      "sentence_ko": "지루함을 방지하고 전반적인 체력을 향상시키기 위해 훈련 루틴에 변화를 주는 것이 중요합니다.",
+      "tags": ["health", "sport", "activity"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "Opinions on the new fashion collection vary widely among critics and customers.",
+      "sentence_ko": "새로운 패션 컬렉션에 대한 의견은 비평가와 고객들 사이에서 크게 엇갈립니다.",
+      "tags": ["fashion", "social", "communication"]
+    },
+    {
+      "word": "Vary",
+      "sentence_en": "The landscape during our journey varied from rocky mountains to beautiful green valleys.",
+      "sentence_ko": "우리 여행 중의 풍경은 바위산에서 아름다운 초록색 계곡까지 다채로웠습니다.",
+      "tags": ["outdoor", "nature", "journey"]
+    },
+    {
+      "word": "Diversify",
+      "sentence_en": "The restaurant decided to diversify its menu by adding vegan and gluten-free options.",
+      "sentence_ko": "그 레스토랑은 비건 및 글루텐 프리 옵션을 추가하여 메뉴를 다각화하기로 했습니다.",
+      "tags": ["food", "health", "career"]
+    },
+    {
+      "word": "Diversify",
+      "sentence_en": "It is wise to diversify your investments to minimize risks in an unstable market.",
+      "sentence_ko": "불안정한 시장에서 위험을 최소화하려면 투자를 다각화하는 것이 현명합니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Diversify",
+      "sentence_en": "Many farmers are trying to diversify their crops to adapt to the changing climate.",
+      "sentence_ko": "많은 농부들이 변화하는 기후에 적응하기 위해 작물을 다각화하려고 노력하고 있습니다.",
+      "tags": ["nature", "outdoor", "develope"]
+    },
+    {
+      "word": "Diversify",
+      "sentence_en": "The tech company is planning to diversify into the home appliance market next year.",
+      "sentence_ko": "그 기술 기업은 내년에 가전 시장으로 사업을 다각화할 계획입니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Diversify",
+      "sentence_en": "Universities encourage students to diversify their skills by taking classes from different departments.",
+      "sentence_ko": "대학들은 학생들이 서로 다른 학과의 수업을 들음으로써 능력을 다각화하도록 권장합니다.",
+      "tags": ["learning", "career", "social"]
+    },
+    {
+      "word": "Mutate",
+      "sentence_en": "Scientists are concerned that the virus might mutate into a more dangerous form soon.",
+      "sentence_ko": "과학자들은 바이러스가 곧 더 위험한 형태로 돌연변이할 수 있다고 우려하고 있습니다.",
+      "tags": ["health", "technology", "learning"]
+    },
+    {
+      "word": "Mutate",
+      "sentence_en": "Some genes can mutate due to environmental factors like exposure to harmful radiation.",
+      "sentence_ko": "일부 유전자는 해로운 방사선 노출과 같은 환경적 요인으로 인해 변이될 수 있습니다.",
+      "tags": ["health", "nature", "learning"]
+    },
+    {
+      "word": "Mutate",
+      "sentence_en": "In the science fiction movie, a chemical leak caused the local fish to mutate rapidly.",
+      "sentence_ko": "그 공상 과학 영화에서 화학 물질 누출로 인해 지역 물고기들이 빠르게 돌연변이되었습니다.",
+      "tags": ["nature", "outdoor", "activity"]
+    },
+    {
+      "word": "Mutate",
+      "sentence_en": "The project's goals began to mutate as too many stakeholders gave conflicting input.",
+      "sentence_ko": "너무 많은 이해관계자들이 상충하는 의견을 제시하면서 프로젝트의 목표가 변질되기 시작했습니다.",
+      "tags": ["career", "meeting", "sad"]
+    },
+    {
+      "word": "Mutate",
+      "sentence_en": "Technological advancements mutate social interactions, often making them more digital and remote.",
+      "sentence_ko": "기술적 진보는 사회적 상호작용을 변화시켜 종종 더 디지털화되고 원격화되게 만듭니다.",
+      "tags": ["technology", "social", "communication"]
+    },
+    {
+      "word": "Transmute",
+      "sentence_en": "The alchemists of the past believed they could transmute base metals into pure gold.",
+      "sentence_ko": "과거의 연금술사들은 비금속을 순금으로 변환할(성질을 바꿀) 수 있다고 믿었습니다.",
+      "tags": ["history", "learning", "art"]
+    },
+    {
+      "word": "Transmute",
+      "sentence_en": "She managed to transmute her deep sadness into a beautiful collection of poetry.",
+      "sentence_ko": "그녀는 자신의 깊은 슬픔을 아름다운 시집으로 승화(변환)시키는 데 성공했습니다.",
+      "tags": ["sad", "feeling", "art"]
+    },
+    {
+      "word": "Transmute",
+      "sentence_en": "The warm sunlight transmuted the cold, morning mist into a beautiful golden haze.",
+      "sentence_ko": "따뜻한 햇살이 차가운 아침 안개를 아름다운 금빛 아지랑이로 바꾸어 놓았습니다.",
+      "tags": ["nature", "outdoor", "weather"]
+    },
+    {
+      "word": "Transmute",
+      "sentence_en": "A great chef can transmute simple ingredients into an extraordinary dining experience.",
+      "sentence_ko": "훌륭한 요리사는 단순한 재료를 특별한 식사 경험으로 변화시킬 수 있습니다.",
+      "tags": ["cooking", "food", "art"]
+    },
+    {
+      "word": "Transmute",
+      "sentence_en": "New software can transmute complex data into easy-to-understand visual charts and graphs.",
+      "sentence_ko": "새로운 소프트웨어는 복잡한 데이터를 이해하기 쉬운 시각적 도표와 그래프로 변환할 수 있습니다.",
+      "tags": ["technology", "career", "learning"]
+    },
+    {
+      "word": "Reshape",
+      "sentence_en": "The new government policy aims to reshape the national economy for the digital age.",
+      "sentence_ko": "새 정부 정책은 디지털 시대를 위해 국가 경제를 재편하는 것을 목표로 합니다.",
+      "tags": ["social", "career", "develope"]
+    },
+    {
+      "word": "Reshape",
+      "sentence_en": "Traveling to different cultures for a year completely reshaped his worldview and values.",
+      "sentence_ko": "1년 동안 다른 문화를 여행한 것은 그의 세계관과 가치관을 완전히 재형성했습니다.",
+      "tags": ["journey", "social", "feeling"]
+    },
+    {
+      "word": "Reshape",
+      "sentence_en": "Technological innovation continues to reshape the landscape of the global fashion industry.",
+      "sentence_ko": "기술 혁신은 글로벌 패션 산업의 지형을 계속해서 재편하고 있습니다.",
+      "tags": ["fashion", "technology", "develope"]
+    },
+    {
+      "word": "Reshape",
+      "sentence_en": "You can use this special clay to reshape the model until you are satisfied.",
+      "sentence_ko": "만족할 때까지 이 특수 점토를 사용하여 모델의 모양을 다시 만들 수 있습니다.",
+      "tags": ["art", "activity", "hobby"]
+    },
+    {
+      "word": "Reshape",
+      "sentence_en": "The soccer team needed to reshape its defense after losing several key players to injury.",
+      "sentence_ko": "그 축구팀은 부상으로 여러 핵심 선수들을 잃은 후 수비진을 재정비해야 했습니다.",
+      "tags": ["sport", "career", "activity"]
+    },
+    {
+      "word": "Reconfigure",
+      "sentence_en": "I need to reconfigure my smartphone settings to improve the battery life during travel.",
+      "sentence_ko": "여행 중 배터리 수명을 늘리기 위해 스마트폰 설정을 재구성해야 합니다.",
+      "tags": ["technology", "activity", "journey"]
+    },
+    {
+      "word": "Reconfigure",
+      "sentence_en": "The network engineers worked through the night to reconfigure the server after the crash.",
+      "sentence_ko": "네트워크 엔지니어들은 서버 다운 후 서버를 재설정하기 위해 밤새 일했습니다.",
+      "tags": ["technology", "career", "activity"]
+    },
+    {
+      "word": "Reconfigure",
+      "sentence_en": "They had to reconfigure the office layout to accommodate the growing number of employees.",
+      "sentence_ko": "그들은 늘어나는 직원 수를 수용하기 위해 사무실 배치를 다시 설정해야 했습니다.",
+      "tags": ["place", "career", "social"]
+    },
+    {
+      "word": "Reconfigure",
+      "sentence_en": "The coach decided to reconfigure the team's starting lineup for the final match.",
+      "sentence_ko": "감독은 결승전을 위해 팀의 선발 라인업을 재구성하기로 결정했습니다.",
+      "tags": ["sport", "career", "meeting"]
+    },
+    {
+      "word": "Reconfigure",
+      "sentence_en": "Scientists are trying to reconfigure the genetic code to create disease-resistant crops.",
+      "sentence_ko": "과학자들은 질병에 강한 작물을 만들기 위해 유전자 코드를 재구성하려 노력하고 있습니다.",
+      "tags": ["health", "nature", "learning"]
+    },
+    {
+      "word": "Overhaul",
+      "sentence_en": "The old factory building needs a complete overhaul to meet modern safety standards.",
+      "sentence_ko": "그 오래된 공장 건물은 현대적인 안전 기준을 충족하기 위해 대대적인 보수가 필요합니다.",
+      "tags": ["place", "career", "develope"]
+    },
+    {
+      "word": "Overhaul",
+      "sentence_en": "The company decided to overhaul its outdated customer service system to improve satisfaction.",
+      "sentence_ko": "회사는 만족도를 높이기 위해 구식 고객 서비스 시스템을 완전히 뜯어고치기로 했습니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Overhaul",
+      "sentence_en": "You should overhaul your diet if you want to see real results in your health.",
+      "sentence_ko": "건강에 실질적인 결과를 얻고 싶다면 식단을 대대적으로 점검하고 바꿔야 합니다.",
+      "tags": ["health", "food", "activity"]
+    },
+    {
+      "word": "Overhaul",
+      "sentence_en": "The curriculum underwent a major overhaul to include more practical skills for students.",
+      "sentence_ko": "커리큘럼은 학생들을 위한 더 실용적인 기술들을 포함하기 위해 대대적인 개편을 거쳤습니다.",
+      "tags": ["learning", "social", "develope"]
+    },
+    {
+      "word": "Overhaul",
+      "sentence_en": "Engineers are planning an overhaul of the city's aging public transportation network.",
+      "sentence_ko": "엔지니어들은 도시의 노후화된 대중교통망을 대대적으로 개편할 계획을 세우고 있습니다.",
+      "tags": ["technology", "place", "develope"]
+    },
+    {
+      "word": "Refine",
+      "sentence_en": "The artist spent years trying to refine his painting technique to achieve perfection.",
+      "sentence_ko": "그 예술가는 완벽함을 달성하기 위해 자신의 회화 기법을 다듬는 데 수년을 보냈습니다.",
+      "tags": ["art", "career", "learning"]
+    },
+    {
+      "word": "Refine",
+      "sentence_en": "We need to refine our search criteria to find the most relevant information online.",
+      "sentence_ko": "온라인에서 가장 관련성 높은 정보를 찾기 위해 검색 기준을 정교화해야 합니다.",
+      "tags": ["technology", "learning", "activity"]
+    },
+    {
+      "word": "Refine",
+      "sentence_en": "The chef continued to refine the sauce until it had the perfect balance of flavors.",
+      "sentence_ko": "셰프는 맛의 완벽한 균형이 잡힐 때까지 소스를 계속해서 다듬었습니다.",
+      "tags": ["cooking", "food", "activity"]
+    },
+    {
+      "word": "Refine",
+      "sentence_en": "The company is working to refine its manufacturing process to reduce waste and costs.",
+      "sentence_ko": "회사는 낭비와 비용을 줄이기 위해 제조 공정을 개선(정제)하는 노력을 기울이고 있습니다.",
+      "tags": ["career", "technology", "develope"]
+    },
+    {
+      "word": "Refine",
+      "sentence_en": "She took a speech class to refine her public speaking skills for future presentations.",
+      "sentence_ko": "그녀는 미래의 발표를 위해 대중 연설 기술을 다듬으려고 스피치 수업을 들었습니다.",
+      "tags": ["learning", "career", "communication"]
+    },
+    {
+      "word": "Polish",
+      "sentence_en": "You should polish your resume before applying for a new job in the tech industry.",
+      "sentence_ko": "기술 업계의 새 직장에 지원하기 전에 이력서를 깔끔하게 다듬어야 합니다.",
+      "tags": ["career", "learning", "communication"]
+    },
+    {
+      "word": "Polish",
+      "sentence_en": "He used a soft cloth to polish his shoes until they shined brightly.",
+      "sentence_ko": "그는 구두가 반짝거릴 때까지 부드러운 천으로 닦았습니다.",
+      "tags": ["fashion", "activity", "daily_life"]
+    },
+    {
+      "word": "Polish",
+      "sentence_en": "The writer needs one more week to polish the manuscript before submitting it to the publisher.",
+      "sentence_ko": "작가는 출판사에 제출하기 전 원고를 다듬기 위해 일주일이 더 필요합니다.",
+      "tags": ["art", "career", "communication"]
+    },
+    {
+      "word": "Polish",
+      "sentence_en": "The soccer player practiced daily to polish his shooting accuracy before the big match.",
+      "sentence_ko": "그 축구 선수는 큰 경기를 앞두고 슈팅 정확도를 높이기 위해 매일 연습했습니다.",
+      "tags": ["sport", "activity", "career"]
+    },
+    {
+      "word": "Polish",
+      "sentence_en": "A bit of polish on your presentation slides can make a huge difference in attracting investors.",
+      "sentence_ko": "발표 슬라이드를 조금만 더 세련되게 다듬으면 투자자를 유치하는 데 큰 차이를 만들 수 있습니다.",
+      "tags": ["career", "technology", "meeting"]
+    },
+    {
+      "word": "Tweak",
+      "sentence_en": "I just need to tweak the design a little bit to make it look more modern.",
+      "sentence_ko": "더 현대적으로 보이도록 디자인을 아주 조금만 수정하면 됩니다.",
+      "tags": ["fashion", "style", "activity"]
+    },
+    {
+      "word": "Tweak",
+      "sentence_en": "The chef decided to tweak the recipe by adding a pinch of cinnamon for extra warmth.",
+      "sentence_ko": "셰프는 풍미를 더하기 위해 계피 가루 한 꼬집을 넣어 레시피를 약간 조정하기로 했습니다.",
+      "tags": ["cooking", "food", "activity"]
+    },
+    {
+      "word": "Tweak",
+      "sentence_en": "After the user testing, the developers tweaked the app's interface to be more intuitive.",
+      "sentence_ko": "사용자 테스트 후 개발자들은 앱의 인터페이스가 더 직관적이 되도록 미세하게 조정했습니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Tweak",
+      "sentence_en": "You might need to tweak your training routine if you are not seeing any progress.",
+      "sentence_ko": "발전이 보이지 않는다면 훈련 루틴을 약간 조정할 필요가 있을지도 모릅니다.",
+      "tags": ["sport", "health", "activity"]
+    },
+    {
+      "word": "Tweak",
+      "sentence_en": "The sound engineer had to tweak the volume levels throughout the live music performance.",
+      "sentence_ko": "사운드 엔지니어는 라이브 음악 공연 내내 볼륨 레벨을 미세하게 조정해야 했습니다.",
+      "tags": ["technology", "activity", "art"]
+    },
+    {
+      "word": "Customize",
+      "sentence_en": "Many websites allow you to customize your profile page with unique colors and fonts.",
+      "sentence_ko": "많은 웹사이트들이 독특한 색상과 폰트로 프로필 페이지를 개인 설정할 수 있게 해줍니다.",
+      "tags": ["technology", "activity", "style"]
+    },
+    {
+      "word": "Customize",
+      "sentence_en": "She decided to customize her sneakers with colorful paint to match her unique style.",
+      "sentence_ko": "그녀는 자신의 독특한 스타일에 맞춰 운동화를 다채로운 색으로 커스터마이징하기로 했습니다.",
+      "tags": ["fashion", "style", "hobby"]
+    },
+    {
+      "word": "Customize",
+      "sentence_en": "We can customize the travel itinerary to include the specific places you want to visit.",
+      "sentence_ko": "당신이 방문하고 싶은 특정 장소들을 포함하도록 여행 일정을 맞춤 제작할 수 있습니다.",
+      "tags": ["journey", "activity", "social"]
+    },
+    {
+      "word": "Customize",
+      "sentence_en": "The software is designed to be highly flexible so that companies can customize it to their needs.",
+      "sentence_ko": "그 소프트웨어는 기업들이 각자의 필요에 맞게 설정할 수 있도록 매우 유연하게 설계되었습니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Customize",
+      "sentence_en": "You can customize the meal plan based on your dietary restrictions and health goals.",
+      "sentence_ko": "당신의 식단 제한과 건강 목표에 따라 식단 계획을 맞춤 설정할 수 있습니다.",
+      "tags": ["health", "food", "cooking"]
+    },
+    {
+      "word": "Tailor",
+      "sentence_en": "We need to tailor our marketing message to appeal to a younger, tech-savvy audience.",
+      "sentence_ko": "우리는 기술에 능숙한 젊은 층에 어필할 수 있도록 마케팅 메시지를 그에 맞춰 조정해야 합니다.",
+      "tags": ["career", "technology", "social"]
+    },
+    {
+      "word": "Tailor",
+      "sentence_en": "The teacher tried to tailor the lesson plan to meet the diverse learning needs of her students.",
+      "sentence_ko": "선생님은 학생들의 다양한 학습 요구를 충족시키기 위해 수업 계획을 맞춤형으로 짜려 노력했습니다.",
+      "tags": ["learning", "social", "meeting"]
+    },
+    {
+      "word": "Tailor",
+      "sentence_en": "Successful candidates usually tailor their cover letters for each specific job application.",
+      "sentence_ko": "성공적인 지원자들은 보통 각각의 특정 입사 지원서에 맞춰 자기소개서를 작성합니다.",
+      "tags": ["career", "learning", "communication"]
+    },
+    {
+      "word": "Tailor",
+      "sentence_en": "The medicine should be tailored to the individual patient's symptoms and health history.",
+      "sentence_ko": "약물은 개별 환자의 증상과 건강 이력에 맞춰 처방되어야 합니다.",
+      "tags": ["health", "social", "develope"]
+    },
+    {
+      "word": "Tailor",
+      "sentence_en": "The travel agency specializes in tailoring luxury vacations for clients with very high standards.",
+      "sentence_ko": "그 여행사는 수준 높은 고객들을 위해 럭셔리 휴가를 맞춤 기획하는 것을 전문으로 합니다.",
+      "tags": ["journey", "career", "social"]
+    },
+    {
+      "word": "Transition",
+      "sentence_en": "The company is currently in a state of transition after the sudden change in leadership.",
+      "sentence_ko": "갑작스러운 리더십 교체 이후 회사는 현재 과도기(이행 상태)에 있습니다.",
+      "tags": ["career", "social", "meeting"]
+    },
+    {
+      "word": "Transition",
+      "sentence_en": "Starting university is a major life transition that can be both exciting and stressful.",
+      "sentence_ko": "대학교에 입학하는 것은 신나면서도 스트레스가 될 수 있는 인생의 중대한 전환입니다.",
+      "tags": ["learning", "social", "feeling"]
+    },
+    {
+      "word": "Transition",
+      "sentence_en": "We need to plan a smooth transition from the old software to the new digital platform.",
+      "sentence_ko": "낡은 소프트웨어에서 새로운 디지털 플랫폼으로 원활하게 넘어갈 수 있는 계획을 세워야 합니다.",
+      "tags": ["technology", "career", "develope"]
+    },
+    {
+      "word": "Transition",
+      "sentence_en": "The song had a beautiful transition from a slow acoustic intro to a loud rock chorus.",
+      "sentence_ko": "그 노래는 느린 어쿠스틱 도입부에서 시끄러운 록 후렴구로 넘어가는 아름다운 전환을 보여주었습니다.",
+      "tags": ["art", "activity", "hobby"]
+    },
+    {
+      "word": "Transition",
+      "sentence_en": "The government is encouraging industries to transition to renewable energy to fight climate change.",
+      "sentence_ko": "정부는 기후 변화에 대응하기 위해 산업계가 재생 에너지로 전환하도록 권장하고 있습니다.",
+      "tags": ["outdoor", "technology", "develope"]
+    },
+    {
+      "word": "Switch",
+      "sentence_en": "Many people are deciding to switch to electric cars to reduce their carbon footprint.",
+      "sentence_ko": "많은 사람들이 탄소 발자국을 줄이기 위해 전기차로 바꾸기로 결정하고 있습니다.",
+      "tags": ["technology", "outdoor", "develope"]
+    },
+    {
+      "word": "Switch",
+      "sentence_en": "I'm thinking about making a career switch from accounting to graphic design.",
+      "sentence_ko": "회계직에서 그래픽 디자인으로 직종을 바꾸는 것을 생각 중입니다.",
+      "tags": ["career", "learning", "social"]
+    },
+    {
+      "word": "Switch",
+      "sentence_en": "You can easily switch between different languages in the app's settings menu.",
+      "sentence_ko": "앱의 설정 메뉴에서 서로 다른 언어 간에 쉽게 전환할 수 있습니다.",
+      "tags": ["technology", "activity", "learning"]
+    },
+    {
+      "word": "Switch",
+      "sentence_en": "The team decided to switch tactics in the second half of the soccer match.",
+      "sentence_ko": "팀은 축구 경기 후반전에 전술을 바꾸기로 결정했습니다.",
+      "tags": ["sport", "career", "activity"]
+    },
+    {
+      "word": "Switch",
+      "sentence_en": "Could you please switch off the lights before you leave the house?",
+      "sentence_ko": "집을 나서기 전에 불 좀 꺼주시겠어요?",
+      "tags": ["home", "activity", "daily_life"]
+    },
+    {
+      "word": "Substitute",
+      "sentence_en": "You can substitute honey for sugar if you want a more natural sweetener in your cooking.",
+      "sentence_ko": "요리에 더 천연 감미료를 쓰고 싶다면 설탕 대신 꿀을 사용할(대체할) 수 있습니다.",
+      "tags": ["cooking", "food", "health"]
+    },
+    {
+      "word": "Substitute",
+      "sentence_en": "The coach had to bring in a substitute player after the starter suffered a leg injury.",
+      "sentence_ko": "주전 선수가 다리 부상을 당하자 감독은 교체 선수를 투입해야 했습니다.",
+      "tags": ["sport", "career", "sad"]
+    },
+    {
+      "word": "Substitute",
+      "sentence_en": "There is no substitute for hard work when you are trying to achieve your career goals.",
+      "sentence_ko": "당신의 직업적 목표를 달성하려 할 때 노력만큼은 그 무엇으로도 대체할 수 없습니다.",
+      "tags": ["career", "learning", "social"]
+    },
+    {
+      "word": "Substitute",
+      "sentence_en": "We had a substitute teacher today because our regular professor was attending a conference.",
+      "sentence_ko": "정규 교수님이 컨퍼런스에 참석하셔서 오늘은 대체 선생님(기간제 교사)이 오셨습니다.",
+      "tags": ["learning", "social", "career"]
+    },
+    {
+      "word": "Substitute",
+      "sentence_en": "Plastic is often used as a substitute for more expensive materials in manufacturing.",
+      "sentence_ko": "제조업에서 플라스틱은 더 비싼 재료들을 대체하기 위해 종종 사용됩니다.",
+      "tags": ["technology", "career", "develope"]
+    }
+  ]
+}

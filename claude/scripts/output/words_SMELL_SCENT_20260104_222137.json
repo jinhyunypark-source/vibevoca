@@ -1,0 +1,149 @@
+[
+  {
+    "card_id": "0e101dc2-2bfc-4623-af6d-6de9d737ff7f",
+    "word": "Fragrant",
+    "meaning": "향기로운 >  fragile(깨지기쉬운, 향기가 사라지기쉬운)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "5c86045c-2bf0-40b3-ba76-7320092475a4",
+    "word": "Redolent",
+    "meaning": "~향이 감도는/생각나게 하는   odor (냄새) (라)olere향기나다",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "b1fccf05-ac96-4d13-a001-cf85e95a9aa6",
+    "word": "Aromatic",
+    "meaning": "향이 좋은 (음식/허브)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "ee9fd469-575c-4d9f-bccb-87d7fb9fb6cf",
+    "word": "Scented",
+    "meaning": "향이 나는 (인공/자연)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "f4ea32d9-cb10-4de4-ad8e-c6b05e1424fe",
+    "word": "Perfumed",
+    "meaning": "향수를 뿌린",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "4913bbca-43d6-4c57-a64e-afb094d2ce4f",
+    "word": "Floral",
+    "meaning": "꽃향기의",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "d385ef0a-3439-42be-bc3c-b16bd0d43ba3",
+    "word": "Fresh",
+    "meaning": "신선한, 상쾌한",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "8aa469f9-692c-4f5a-81ca-0b4ad6863c38",
+    "word": "Earthy",
+    "meaning": "흙냄새 나는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "c131c89e-877c-4d86-b097-a19405c28615",
+    "word": "Musky",
+    "meaning": "사향 냄새가 나는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "98899bfa-9fbb-4e71-a988-d959966c600c",
+    "word": "Smoky",
+    "meaning": "연기 냄새가 나는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "9281d4ee-ea3e-424f-97e9-c6311c90b394",
+    "word": "Stinking",
+    "meaning": "악취가 진동하는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "048fda6f-8c4e-4a11-b663-34b4e5b1a483",
+    "word": "Foul",
+    "meaning": "더러운, 고약한",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "9fbf32a6-954a-44fa-9894-947c25165cbc",
+    "word": "Fetid",
+    "meaning": "극도로 악취가 나는 (부패)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "4f68fdf8-11b7-45d5-9240-489f394acf0c",
+    "word": "Musty",
+    "meaning": "곰팡내 나는, 퀴퀴한",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "311cb003-fb7c-4905-ad8e-b348168044f7",
+    "word": "Rancid",
+    "meaning": "쩐내가 나는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "84d65dcc-6eac-47a5-b5d9-af7cdb521b15",
+    "word": "Pungent",
+    "meaning": "코를 찌르는",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "5c5c0f2d-ccdb-4664-9c13-768f29da3f01",
+    "word": "Acrid",
+    "meaning": "매캐한",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "bf5a10d7-7455-4143-bf9d-a114674ab733",
+    "word": "Malodorous",
+    "meaning": "악취가 나는 (격식)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "5524545d-584d-4776-8914-986676f3d42e",
+    "word": "Noxious",
+    "meaning": "유독한, 유해한",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "d724cb1d-ab15-449c-84c0-ff5345e7c14e",
+    "word": "Overpowering",
+    "meaning": "압도적인 (너무 강한)",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  },
+  {
+    "card_id": "03aafbaf-7a4d-418a-a290-c38e8bb8b693",
+    "word": "Stale",
+    "meaning": "케케묵은, 신선하지 않은",
+    "deck_id": "97336a6a-a995-40c3-8fbb-03c3ab1c2318",
+    "deck_name": "SMELL_SCENT"
+  }
+]

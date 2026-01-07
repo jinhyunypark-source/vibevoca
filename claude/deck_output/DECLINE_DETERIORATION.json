@@ -1,0 +1,1086 @@
+{
+  "deck_title": "DECLINE_DETERIORATION",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Deteriorate",
+      "sentence_en": "The office equipment started to deteriorate after years of heavy use.",
+      "sentence_ko": "사무 기기가 수년간의 과다 사용 후 악화되기 시작했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Deteriorate",
+      "sentence_en": "Our communication began to deteriorate when the team went fully remote.",
+      "sentence_ko": "팀이 완전히 원격 근무로 전환되면서 우리의 소통이 나빠지기 시작했다.",
+      "tags": ["communication", "work", "digital"]
+    },
+    {
+      "word": "Deteriorate",
+      "sentence_en": "The startup's financial situation continued to deteriorate each quarter.",
+      "sentence_ko": "스타트업의 재정 상황이 분기마다 계속 악화되었다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Deteriorate",
+      "sentence_en": "Their friendship began to deteriorate after the misunderstanding at work.",
+      "sentence_ko": "직장에서의 오해 이후 그들의 우정이 악화되기 시작했다.",
+      "tags": ["friendship", "work"]
+    },
+    {
+      "word": "Deteriorate",
+      "sentence_en": "My smartphone's battery health has deteriorated significantly over time.",
+      "sentence_ko": "내 스마트폰 배터리 상태가 시간이 지나면서 크게 악화되었다.",
+      "tags": ["smartphone", "digital", "time"]
+    },
+    {
+      "word": "Deteriorate",
+      "sentence_en": "The vacation rental's condition had deteriorated since our last visit.",
+      "sentence_ko": "우리가 마지막으로 방문한 이후로 휴가 숙소의 상태가 나빠져 있었다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "The long project depleted our marketing budget faster than expected.",
+      "sentence_ko": "긴 프로젝트가 예상보다 빠르게 마케팅 예산을 고갈시켰다.",
+      "tags": ["marketing", "work"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "Working overtime for months depleted his energy and enthusiasm.",
+      "sentence_ko": "몇 달간의 야근이 그의 에너지와 열정을 고갈시켰다.",
+      "tags": ["work", "office"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "Streaming videos all day depleted my smartphone's battery completely.",
+      "sentence_ko": "하루 종일 동영상을 스트리밍해서 스마트폰 배터리가 완전히 바닥났다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "The startup depleted its funding before launching the product.",
+      "sentence_ko": "스타트업이 제품 출시 전에 자금을 다 써버렸다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "Long vacation trips can deplete your savings if you're not careful.",
+      "sentence_ko": "긴 휴가 여행은 조심하지 않으면 저축을 고갈시킬 수 있다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Deplete",
+      "sentence_en": "Poor communication can deplete team morale over time.",
+      "sentence_ko": "소통 부족은 시간이 지나면서 팀 사기를 떨어뜨릴 수 있다.",
+      "tags": ["communication", "work", "time"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "The productive meeting degenerated into an argument about unrelated topics.",
+      "sentence_ko": "생산적인 회의가 관련 없는 주제에 대한 논쟁으로 변질되었다.",
+      "tags": ["office", "work", "communication"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "Their professional relationship degenerated into a bitter rivalry.",
+      "sentence_ko": "그들의 직업적 관계가 씁쓸한 경쟁 관계로 변질되었다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "The online discussion degenerated into personal attacks quickly.",
+      "sentence_ko": "온라인 토론이 빠르게 인신공격으로 변질되었다.",
+      "tags": ["digital", "communication"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "Without proper management, the startup's culture degenerated rapidly.",
+      "sentence_ko": "적절한 관리 없이 스타트업의 문화가 빠르게 퇴보했다.",
+      "tags": ["startup", "work"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "Our friendship degenerated after we stopped making time for each other.",
+      "sentence_ko": "서로를 위한 시간을 내지 않으면서 우리 우정이 퇴보했다.",
+      "tags": ["friendship", "time"]
+    },
+    {
+      "word": "Degenerate",
+      "sentence_en": "The marketing campaign degenerated into spam that annoyed customers.",
+      "sentence_ko": "마케팅 캠페인이 고객들을 짜증나게 하는 스팸으로 전락했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "The traffic tends to worsen during rush hour near the office district.",
+      "sentence_ko": "교통 체증은 사무실 밀집 지역 근처에서 출퇴근 시간에 더 나빠지는 경향이 있다.",
+      "tags": ["office", "time"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "Ignoring customer complaints will only worsen your company's reputation.",
+      "sentence_ko": "고객 불만을 무시하면 회사 평판만 나빠질 뿐이다.",
+      "tags": ["marketing", "communication"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "The situation at the startup continued to worsen despite our efforts.",
+      "sentence_ko": "우리의 노력에도 불구하고 스타트업의 상황은 계속 악화되었다.",
+      "tags": ["startup", "work"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "His eye strain worsened after staring at the smartphone all day.",
+      "sentence_ko": "하루 종일 스마트폰을 쳐다본 후 그의 눈 피로가 심해졌다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "Poor time management will worsen your stress levels at work.",
+      "sentence_ko": "시간 관리를 못하면 직장에서의 스트레스 수준이 악화될 것이다.",
+      "tags": ["time", "work"]
+    },
+    {
+      "word": "Worsen",
+      "sentence_en": "The weather worsened just as we arrived at our vacation destination.",
+      "sentence_ko": "휴가 목적지에 도착하자마자 날씨가 나빠졌다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "The company's market share continued to decline year after year.",
+      "sentence_ko": "회사의 시장 점유율이 해마다 계속 감소했다.",
+      "tags": ["work", "marketing"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "Smartphone sales have started to decline as the market becomes saturated.",
+      "sentence_ko": "시장이 포화 상태가 되면서 스마트폰 판매가 감소하기 시작했다.",
+      "tags": ["smartphone", "digital", "marketing"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "She had to decline the vacation invitation due to work commitments.",
+      "sentence_ko": "그녀는 업무 때문에 휴가 초대를 거절해야 했다.",
+      "tags": ["vacation", "work"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "The startup experienced a steady decline in user engagement.",
+      "sentence_ko": "스타트업은 사용자 참여의 꾸준한 감소를 경험했다.",
+      "tags": ["startup", "digital"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "Communication quality tends to decline when teams are overworked.",
+      "sentence_ko": "팀이 과로할 때 소통의 질이 떨어지는 경향이 있다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Decline",
+      "sentence_en": "Our friendship went into decline after he moved to another city.",
+      "sentence_ko": "그가 다른 도시로 이사한 후 우리 우정이 쇠퇴하기 시작했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "Over time, the initial excitement about the new office began to diminish.",
+      "sentence_ko": "시간이 지나면서 새 사무실에 대한 초기의 흥분이 줄어들기 시작했다.",
+      "tags": ["office", "time", "work"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "Nothing could diminish her enthusiasm for the startup's mission.",
+      "sentence_ko": "그 무엇도 스타트업의 사명에 대한 그녀의 열정을 꺾을 수 없었다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "The marketing impact diminished as competitors copied our strategy.",
+      "sentence_ko": "경쟁사들이 우리 전략을 따라 하면서 마케팅 효과가 줄어들었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "Distance doesn't have to diminish the strength of a good friendship.",
+      "sentence_ko": "거리가 좋은 우정의 힘을 약화시킬 필요는 없다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "My smartphone's storage space has diminished to almost nothing.",
+      "sentence_ko": "내 스마트폰의 저장 공간이 거의 없을 정도로 줄어들었다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Diminish",
+      "sentence_en": "Poor communication can diminish trust between team members.",
+      "sentence_ko": "소통 부족은 팀원 간의 신뢰를 약화시킬 수 있다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "The startup's cash reserves dwindled to almost nothing.",
+      "sentence_ko": "스타트업의 현금 보유고가 거의 바닥날 정도로 줄어들었다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "My vacation days have dwindled down to just two remaining.",
+      "sentence_ko": "내 휴가 일수가 단 이틀만 남을 정도로 줄어들었다.",
+      "tags": ["vacation", "work"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "Office attendance continued to dwindle as remote work became popular.",
+      "sentence_ko": "원격 근무가 인기를 얻으면서 사무실 출근율이 계속 줄어들었다.",
+      "tags": ["office", "work", "digital"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "Our marketing budget dwindled after the unexpected expenses.",
+      "sentence_ko": "예상치 못한 지출 후 마케팅 예산이 점점 줄어들었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "Time for hobbies dwindles when work takes over your life.",
+      "sentence_ko": "일이 삶을 지배하면 취미를 위한 시간이 점점 줄어든다.",
+      "tags": ["time", "work"]
+    },
+    {
+      "word": "Dwindle",
+      "sentence_en": "Their regular communication dwindled to occasional text messages.",
+      "sentence_ko": "그들의 정기적인 소통이 가끔 하는 문자 메시지로 줄어들었다.",
+      "tags": ["communication", "friendship"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "The company had to shrink its workforce due to economic pressures.",
+      "sentence_ko": "회사는 경제적 압박으로 인해 인력을 줄여야 했다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "The marketing team had to shrink its campaign scope due to budget cuts.",
+      "sentence_ko": "마케팅 팀은 예산 삭감으로 캠페인 범위를 축소해야 했다.",
+      "tags": ["marketing", "work"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "The startup's team had to shrink from fifty to just ten employees.",
+      "sentence_ko": "스타트업의 팀이 50명에서 단 10명으로 줄어야 했다.",
+      "tags": ["startup", "work"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "My free time continues to shrink with each new responsibility.",
+      "sentence_ko": "새로운 책임이 생길 때마다 내 자유 시간이 계속 줄어든다.",
+      "tags": ["time"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "The digital storage on my smartphone seems to shrink every month.",
+      "sentence_ko": "스마트폰의 디지털 저장 공간이 매달 줄어드는 것 같다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Shrink",
+      "sentence_en": "Don't let fear cause your social circle to shrink over time.",
+      "sentence_ko": "두려움 때문에 시간이 지나면서 인맥이 줄어들게 하지 마라.",
+      "tags": ["friendship", "time"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "The economy began to contract, affecting startups the most.",
+      "sentence_ko": "경제가 수축하기 시작하면서 스타트업에 가장 큰 영향을 미쳤다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "The job market tends to contract during economic downturns.",
+      "sentence_ko": "취업 시장은 경기 침체기에 위축되는 경향이 있다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "Marketing budgets often contract when companies face financial challenges.",
+      "sentence_ko": "회사가 재정적 어려움에 직면하면 마케팅 예산이 종종 줄어든다.",
+      "tags": ["marketing", "work"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "The smartphone market began to contract as innovation slowed.",
+      "sentence_ko": "혁신이 둔화되면서 스마트폰 시장이 위축되기 시작했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "Office space needs contracted as more employees worked from home.",
+      "sentence_ko": "더 많은 직원이 재택근무를 하면서 사무실 공간 수요가 줄었다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Contract",
+      "sentence_en": "His social life contracted significantly after changing jobs.",
+      "sentence_ko": "이직 후 그의 사회생활이 크게 줄어들었다.",
+      "tags": ["work", "friendship"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "The hope for a vacation bonus began to recede as profits dropped.",
+      "sentence_ko": "수익이 감소하면서 휴가 보너스에 대한 희망이 줄어들기 시작했다.",
+      "tags": ["vacation", "work"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "The memory of that stressful project slowly began to recede.",
+      "sentence_ko": "그 스트레스 받았던 프로젝트의 기억이 서서히 희미해지기 시작했다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "His influence at the office started to recede after the reorganization.",
+      "sentence_ko": "조직 개편 후 그의 사무실에서의 영향력이 줄어들기 시작했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "The initial excitement about the startup began to recede over time.",
+      "sentence_ko": "스타트업에 대한 초기의 흥분이 시간이 지나면서 점점 사라졌다.",
+      "tags": ["startup", "time"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "Concerns about digital privacy have not receded despite new regulations.",
+      "sentence_ko": "새로운 규정에도 불구하고 디지털 프라이버시에 대한 우려는 줄어들지 않았다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Recede",
+      "sentence_en": "As time passes, even the strongest work frustrations tend to recede.",
+      "sentence_ko": "시간이 지나면 가장 강한 업무 관련 불만도 사라지는 경향이 있다.",
+      "tags": ["time", "work"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Without proper attention, workplace relationships can wither quickly.",
+      "sentence_ko": "적절한 관심 없이는 직장 내 관계가 빠르게 시들 수 있다.",
+      "tags": ["work", "friendship"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Her enthusiasm for the startup began to wither after repeated setbacks.",
+      "sentence_ko": "반복된 좌절 후 스타트업에 대한 그녀의 열정이 시들기 시작했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Marketing campaigns wither when they lack consistent follow-up.",
+      "sentence_ko": "일관된 후속 조치가 없으면 마케팅 캠페인이 시들해진다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Long-distance friendships can wither if you don't make time to connect.",
+      "sentence_ko": "연락할 시간을 내지 않으면 장거리 우정이 시들 수 있다.",
+      "tags": ["friendship", "time", "communication"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Office morale began to wither under the new strict management.",
+      "sentence_ko": "새로운 엄격한 경영 아래에서 사무실 사기가 시들기 시작했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Wither",
+      "sentence_en": "Creative ideas can wither if not given proper time to develop.",
+      "sentence_ko": "창의적인 아이디어는 개발할 적절한 시간이 주어지지 않으면 시들 수 있다.",
+      "tags": ["time", "work"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "Without maintenance, the old office building began to decay rapidly.",
+      "sentence_ko": "유지 보수 없이 오래된 사무실 건물이 빠르게 낡아가기 시작했다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "The startup's culture began to decay after the founders left.",
+      "sentence_ko": "창업자들이 떠난 후 스타트업의 문화가 부패하기 시작했다.",
+      "tags": ["startup", "work"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "Company values can decay if not reinforced through consistent communication.",
+      "sentence_ko": "일관된 소통으로 강화하지 않으면 회사의 가치가 퇴색될 수 있다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "The marketing strategy began to decay as market trends shifted.",
+      "sentence_ko": "시장 트렌드가 바뀌면서 마케팅 전략이 효력을 잃기 시작했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "Professional skills can decay without continuous learning over time.",
+      "sentence_ko": "시간이 지나면서 지속적인 학습 없이는 전문 기술이 퇴화할 수 있다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Decay",
+      "sentence_en": "The vacation home started to decay after years of neglect.",
+      "sentence_ko": "휴가용 주택이 수년간의 방치 후 쇠락하기 시작했다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "Unaddressed workplace issues will eventually rot team dynamics.",
+      "sentence_ko": "해결되지 않은 직장 문제들은 결국 팀 역학을 부패시킬 것이다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "The food we brought for the office party started to rot in the heat.",
+      "sentence_ko": "사무실 파티에 가져온 음식이 더위에 상하기 시작했다.",
+      "tags": ["office"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "Toxic company culture can rot employee morale from the inside out.",
+      "sentence_ko": "유해한 회사 문화는 내부에서부터 직원 사기를 썩게 할 수 있다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "Unused vacation days don't rot, but your need for rest does build up.",
+      "sentence_ko": "사용하지 않은 휴가 일수는 썩지 않지만, 휴식의 필요성은 쌓인다.",
+      "tags": ["vacation", "time"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "A startup's vision can rot if leadership loses sight of its mission.",
+      "sentence_ko": "리더십이 사명을 잊으면 스타트업의 비전이 부패할 수 있다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Rot",
+      "sentence_en": "Misinformation can rot the effectiveness of digital marketing efforts.",
+      "sentence_ko": "잘못된 정보는 디지털 마케팅 노력의 효과를 썩게 할 수 있다.",
+      "tags": ["digital", "marketing"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "Large projects decompose into smaller, manageable tasks over time.",
+      "sentence_ko": "대규모 프로젝트는 시간이 지나면서 작고 관리 가능한 작업으로 분해된다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "The old data in the digital archive began to decompose and corrupt.",
+      "sentence_ko": "디지털 아카이브의 오래된 데이터가 분해되고 손상되기 시작했다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "Complex marketing strategies decompose when teams lack coordination.",
+      "sentence_ko": "팀 간 조율이 부족하면 복잡한 마케팅 전략이 무너진다.",
+      "tags": ["marketing", "communication"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "Startup plans can decompose quickly if market conditions change.",
+      "sentence_ko": "시장 상황이 바뀌면 스타트업 계획이 빠르게 무너질 수 있다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "Work-life balance begins to decompose when office hours extend indefinitely.",
+      "sentence_ko": "사무실 근무 시간이 무한정 늘어나면 일과 삶의 균형이 무너지기 시작한다.",
+      "tags": ["office", "work", "time"]
+    },
+    {
+      "word": "Decompose",
+      "sentence_en": "Team unity can decompose without regular communication and trust.",
+      "sentence_ko": "정기적인 소통과 신뢰 없이는 팀의 단합이 무너질 수 있다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Constant negativity can corrode workplace relationships over time.",
+      "sentence_ko": "지속적인 부정성은 시간이 지나면서 직장 내 관계를 부식시킬 수 있다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Mistrust can corrode even the strongest professional partnerships.",
+      "sentence_ko": "불신은 가장 강한 전문적 파트너십도 부식시킬 수 있다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Poor communication can corrode the foundation of any friendship.",
+      "sentence_ko": "소통 부족은 어떤 우정의 기반도 부식시킬 수 있다.",
+      "tags": ["communication", "friendship"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Internal politics can corrode a startup's collaborative culture.",
+      "sentence_ko": "내부 정치가 스타트업의 협력 문화를 부식시킬 수 있다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Jealousy can corrode office relationships and create toxic environments.",
+      "sentence_ko": "질투는 사무실 관계를 부식시키고 유해한 환경을 만들 수 있다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Corrode",
+      "sentence_en": "Unrealistic marketing promises corrode customer trust over time.",
+      "sentence_ko": "비현실적인 마케팅 약속은 시간이 지나면서 고객 신뢰를 부식시킨다.",
+      "tags": ["marketing", "time"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "Continuous overtime can erode employee satisfaction and loyalty.",
+      "sentence_ko": "지속적인 야근은 직원 만족도와 충성심을 침식할 수 있다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "Lack of updates can erode customer confidence in a digital product.",
+      "sentence_ko": "업데이트 부족은 디지털 제품에 대한 고객 신뢰를 침식할 수 있다.",
+      "tags": ["digital", "marketing"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "Distance and time can slowly erode even the closest friendships.",
+      "sentence_ko": "거리와 시간은 가장 가까운 우정도 서서히 침식할 수 있다.",
+      "tags": ["friendship", "time"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "High turnover rates erode institutional knowledge at startups.",
+      "sentence_ko": "높은 이직률이 스타트업의 조직 지식을 침식한다.",
+      "tags": ["startup", "work"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "Poor management decisions erode team morale in any office.",
+      "sentence_ko": "잘못된 관리 결정은 어느 사무실에서든 팀 사기를 침식한다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Erode",
+      "sentence_en": "Inconsistent communication can erode the effectiveness of marketing campaigns.",
+      "sentence_ko": "일관성 없는 소통은 마케팅 캠페인의 효과를 침식할 수 있다.",
+      "tags": ["communication", "marketing"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "The startup's ambitious plans began to crumble under financial pressure.",
+      "sentence_ko": "스타트업의 야심 찬 계획이 재정적 압박 아래 무너지기 시작했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "Team unity can crumble when communication breaks down completely.",
+      "sentence_ko": "소통이 완전히 끊기면 팀의 단합이 무너질 수 있다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "Marketing strategies crumble when they don't adapt to changing trends.",
+      "sentence_ko": "변화하는 트렌드에 적응하지 못하면 마케팅 전략이 무너진다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "Work-life balance can crumble during intense project deadlines.",
+      "sentence_ko": "강도 높은 프로젝트 마감 중에 일과 삶의 균형이 무너질 수 있다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "Long-term friendships can crumble due to neglect and poor communication.",
+      "sentence_ko": "방치와 소통 부족으로 오랜 우정이 무너질 수 있다.",
+      "tags": ["friendship", "communication"]
+    },
+    {
+      "word": "Crumble",
+      "sentence_en": "The office's new policy caused morale to crumble among employees.",
+      "sentence_ko": "사무실의 새 정책으로 직원들의 사기가 무너졌다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "The startup collapsed after failing to secure additional funding.",
+      "sentence_ko": "스타트업은 추가 자금 확보에 실패한 후 붕괴했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "He collapsed from exhaustion after working nonstop for three days.",
+      "sentence_ko": "그는 3일간 쉬지 않고 일한 후 탈진으로 쓰러졌다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "The marketing campaign collapsed due to budget cuts mid-project.",
+      "sentence_ko": "마케팅 캠페인이 프로젝트 중반에 예산 삭감으로 붕괴되었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "Digital systems can collapse under the weight of too much traffic.",
+      "sentence_ko": "디지털 시스템은 너무 많은 트래픽의 부담으로 붕괴될 수 있다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "The office network collapsed during the critical presentation.",
+      "sentence_ko": "중요한 프레젠테이션 중에 사무실 네트워크가 다운되었다.",
+      "tags": ["office", "digital"]
+    },
+    {
+      "word": "Collapse",
+      "sentence_en": "Their friendship collapsed after the betrayal at work.",
+      "sentence_ko": "직장에서의 배신 후 그들의 우정은 무너졌다.",
+      "tags": ["friendship", "work"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "The startup's stock value plummeted after the negative press coverage.",
+      "sentence_ko": "부정적인 언론 보도 후 스타트업의 주가가 곤두박질쳤다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "Office morale plummeted when layoffs were announced unexpectedly.",
+      "sentence_ko": "예상치 못한 정리해고 발표에 사무실 사기가 급락했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "Smartphone sales plummeted during the economic recession.",
+      "sentence_ko": "경기 침체기에 스마트폰 판매량이 급락했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "Marketing engagement can plummet if content becomes irrelevant.",
+      "sentence_ko": "콘텐츠가 관련성을 잃으면 마케팅 참여도가 급락할 수 있다.",
+      "tags": ["marketing", "digital"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "Productivity tends to plummet without proper vacation time.",
+      "sentence_ko": "적절한 휴가 시간 없이는 생산성이 급락하는 경향이 있다.",
+      "tags": ["vacation", "work"]
+    },
+    {
+      "word": "Plummet",
+      "sentence_en": "Communication quality plummets when teams are overworked and stressed.",
+      "sentence_ko": "팀이 과로하고 스트레스를 받으면 소통의 질이 급락한다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "The company's reputation plunged after the data breach scandal.",
+      "sentence_ko": "데이터 유출 스캔들 후 회사의 평판이 급락했다.",
+      "tags": ["digital", "work"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "The startup decided to plunge into the competitive market despite risks.",
+      "sentence_ko": "스타트업은 위험에도 불구하고 경쟁이 치열한 시장에 뛰어들기로 했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "Marketing effectiveness can plunge when targeting the wrong audience.",
+      "sentence_ko": "잘못된 타겟 고객을 대상으로 하면 마케팅 효과가 급락할 수 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "Employee satisfaction plunged after the new office policies were implemented.",
+      "sentence_ko": "새 사무실 정책이 시행된 후 직원 만족도가 급락했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "Smartphone app downloads plunged after receiving negative reviews.",
+      "sentence_ko": "부정적인 리뷰를 받은 후 스마트폰 앱 다운로드가 급락했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Plunge",
+      "sentence_en": "The friendship plunged into crisis after the misunderstanding.",
+      "sentence_ko": "오해 후 우정이 위기에 빠졌다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "Sales began to slump during the off-season for the startup.",
+      "sentence_ko": "비수기에 스타트업의 매출이 부진해지기 시작했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "He would slump in his chair after long hours at the office.",
+      "sentence_ko": "그는 사무실에서 오랜 시간 근무한 후 의자에 축 늘어지곤 했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "The marketing department saw engagement slump during the holiday period.",
+      "sentence_ko": "마케팅 부서는 휴가 기간 동안 참여도가 떨어지는 것을 보았다.",
+      "tags": ["marketing", "vacation"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "Smartphone innovation seemed to slump for several consecutive years.",
+      "sentence_ko": "스마트폰 혁신이 몇 년 연속으로 침체된 것 같았다.",
+      "tags": ["smartphone", "digital", "time"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "Productivity tends to slump right before vacation time begins.",
+      "sentence_ko": "휴가가 시작되기 직전에 생산성이 떨어지는 경향이 있다.",
+      "tags": ["vacation", "work"]
+    },
+    {
+      "word": "Slump",
+      "sentence_en": "Communication frequency slumped after the team dispersed for remote work.",
+      "sentence_ko": "팀이 원격 근무로 흩어진 후 소통 빈도가 감소했다.",
+      "tags": ["communication", "work", "digital"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "The company's servers crashed during the peak of the marketing campaign.",
+      "sentence_ko": "마케팅 캠페인이 절정일 때 회사 서버가 다운되었다.",
+      "tags": ["marketing", "digital"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "The startup's valuation crashed after investors lost confidence.",
+      "sentence_ko": "투자자들이 신뢰를 잃으면서 스타트업의 기업가치가 폭락했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "My smartphone app crashes whenever I try to open multiple tabs.",
+      "sentence_ko": "여러 탭을 열려고 할 때마다 내 스마트폰 앱이 충돌한다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "The office computer system crashed, losing hours of unsaved work.",
+      "sentence_ko": "사무실 컴퓨터 시스템이 다운되어 저장하지 않은 몇 시간의 작업이 날아갔다.",
+      "tags": ["office", "work", "digital"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "He wanted to crash at home after the exhausting work trip.",
+      "sentence_ko": "지친 출장 후 그는 집에서 푹 쉬고 싶었다.",
+      "tags": ["work", "vacation"]
+    },
+    {
+      "word": "Crash",
+      "sentence_en": "The cryptocurrency market crashed, affecting many startup investments.",
+      "sentence_ko": "암호화폐 시장이 폭락하여 많은 스타트업 투자에 영향을 미쳤다.",
+      "tags": ["startup", "digital"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "The startup's user engagement took a nosedive after the redesign.",
+      "sentence_ko": "리디자인 후 스타트업의 사용자 참여가 급강하했다.",
+      "tags": ["startup", "digital"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "Marketing ROI took a nosedive when the strategy failed.",
+      "sentence_ko": "전략이 실패하면서 마케팅 투자수익률이 급락했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "Office productivity took a nosedive during the heatwave.",
+      "sentence_ko": "폭염 동안 사무실 생산성이 급강하했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "Smartphone battery life took a nosedive after the software update.",
+      "sentence_ko": "소프트웨어 업데이트 후 스마트폰 배터리 수명이 급락했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "Their friendship took a nosedive after the argument over money.",
+      "sentence_ko": "돈 문제로 다툰 후 그들의 우정이 급락했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Nosedive",
+      "sentence_en": "Work-life balance took a nosedive when the deadline approached.",
+      "sentence_ko": "마감이 다가오면서 일과 삶의 균형이 급락했다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "Stock prices tumbled after the CEO's controversial statement.",
+      "sentence_ko": "CEO의 논란이 된 발언 후 주가가 떨어졌다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "The startup's growth rate tumbled due to increased competition.",
+      "sentence_ko": "경쟁 심화로 스타트업의 성장률이 떨어졌다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "Digital advertising effectiveness tumbled as users adopted ad blockers.",
+      "sentence_ko": "사용자들이 광고 차단기를 사용하면서 디지털 광고 효과가 급락했다.",
+      "tags": ["digital", "marketing"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "Office attendance tumbled when the remote work policy was announced.",
+      "sentence_ko": "원격 근무 정책이 발표되자 사무실 출근율이 급락했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "Communication quality tumbled as the team became overworked.",
+      "sentence_ko": "팀이 과로하면서 소통의 질이 떨어졌다.",
+      "tags": ["communication", "work"]
+    },
+    {
+      "word": "Tumble",
+      "sentence_en": "Smartphone shipments tumbled during the global supply chain crisis.",
+      "sentence_ko": "글로벌 공급망 위기 동안 스마트폰 출하량이 급락했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "The office tension began to subside after the team meeting.",
+      "sentence_ko": "팀 회의 후 사무실의 긴장감이 가라앉기 시작했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "Startup funding frenzy has started to subside in recent months.",
+      "sentence_ko": "최근 몇 달간 스타트업 투자 열풍이 가라앉기 시작했다.",
+      "tags": ["startup", "time"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "The marketing buzz eventually subsided after the product launch.",
+      "sentence_ko": "제품 출시 후 마케팅 열기가 결국 가라앉았다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "His anger began to subside after taking a short vacation.",
+      "sentence_ko": "짧은 휴가를 다녀온 후 그의 분노가 가라앉기 시작했다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "The urgency of the project subsided once the deadline was extended.",
+      "sentence_ko": "마감이 연장되자 프로젝트의 긴급함이 줄어들었다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Subside",
+      "sentence_en": "Initial smartphone hype tends to subside within a few weeks of launch.",
+      "sentence_ko": "초기 스마트폰 열풍은 출시 몇 주 내에 가라앉는 경향이 있다.",
+      "tags": ["smartphone", "digital", "time"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "Interest in the new office policy began to wane after a month.",
+      "sentence_ko": "한 달 후 새 사무실 정책에 대한 관심이 줄어들기 시작했다.",
+      "tags": ["office", "work", "time"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "The startup's popularity began to wane as newer competitors emerged.",
+      "sentence_ko": "새로운 경쟁자들이 등장하면서 스타트업의 인기가 줄어들기 시작했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "Marketing effectiveness tends to wane without fresh creative content.",
+      "sentence_ko": "새로운 창의적인 콘텐츠 없이는 마케팅 효과가 줄어드는 경향이 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "Enthusiasm for the project waned as time passed without progress.",
+      "sentence_ko": "진전 없이 시간이 지나면서 프로젝트에 대한 열정이 식었다.",
+      "tags": ["work", "time"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "Long-distance friendships can wane without regular communication.",
+      "sentence_ko": "정기적인 소통 없이 장거리 우정이 약해질 수 있다.",
+      "tags": ["friendship", "communication"]
+    },
+    {
+      "word": "Wane",
+      "sentence_en": "Smartphone innovation hype tends to wane between major releases.",
+      "sentence_ko": "주요 출시 사이에 스마트폰 혁신에 대한 열기가 줄어드는 경향이 있다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "The excitement about the new office location began to fade quickly.",
+      "sentence_ko": "새 사무실 위치에 대한 흥분이 빠르게 사라지기 시작했다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "Vacation memories tend to fade faster than we'd like.",
+      "sentence_ko": "휴가의 추억은 우리가 원하는 것보다 빨리 희미해지는 경향이 있다.",
+      "tags": ["vacation", "time"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "The startup's brand recognition began to fade without marketing efforts.",
+      "sentence_ko": "마케팅 노력 없이 스타트업의 브랜드 인지도가 희미해지기 시작했다.",
+      "tags": ["startup", "marketing"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "Digital trends fade quickly in today's fast-paced technology world.",
+      "sentence_ko": "오늘날 빠르게 변화하는 기술 세계에서 디지털 트렌드는 빨리 사라진다.",
+      "tags": ["digital", "time"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "Good friendships should not fade due to lack of time.",
+      "sentence_ko": "좋은 우정이 시간 부족 때문에 희미해져서는 안 된다.",
+      "tags": ["friendship", "time"]
+    },
+    {
+      "word": "Fade",
+      "sentence_en": "Smartphone screen colors can fade over years of heavy usage.",
+      "sentence_ko": "스마트폰 화면 색상은 수년간의 과다 사용으로 바랠 수 있다.",
+      "tags": ["smartphone", "digital", "time"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "The startup exhausted its initial funding within the first year.",
+      "sentence_ko": "스타트업이 첫해에 초기 자금을 다 써버렸다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "Long hours at the office exhaust even the most dedicated employees.",
+      "sentence_ko": "사무실에서의 긴 근무 시간은 가장 헌신적인 직원들도 지치게 한다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "We exhausted every marketing channel trying to reach new customers.",
+      "sentence_ko": "신규 고객에게 도달하기 위해 모든 마케팅 채널을 다 사용했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "Constant smartphone use can exhaust your eyes and mental energy.",
+      "sentence_ko": "지속적인 스마트폰 사용은 눈과 정신적 에너지를 소진시킬 수 있다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "The long vacation planning process exhausted everyone involved.",
+      "sentence_ko": "긴 휴가 계획 과정이 관련된 모든 사람을 지치게 했다.",
+      "tags": ["vacation"]
+    },
+    {
+      "word": "Exhaust",
+      "sentence_en": "Trying to fix the friendship exhausted both of them emotionally.",
+      "sentence_ko": "우정을 회복하려는 노력이 둘 다 감정적으로 지치게 했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "Poor communication can weaken team bonds over time.",
+      "sentence_ko": "소통 부족은 시간이 지나면서 팀의 유대를 약화시킬 수 있다.",
+      "tags": ["communication", "work", "time"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "The startup's position in the market began to weaken considerably.",
+      "sentence_ko": "시장에서 스타트업의 입지가 상당히 약화되기 시작했다.",
+      "tags": ["startup"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "Inconsistent marketing messages can weaken brand identity.",
+      "sentence_ko": "일관성 없는 마케팅 메시지는 브랜드 정체성을 약화시킬 수 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "Overwork can weaken your immune system and overall health.",
+      "sentence_ko": "과로는 면역 체계와 전반적인 건강을 약화시킬 수 있다.",
+      "tags": ["work"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "Distance can weaken friendships if not managed properly.",
+      "sentence_ko": "제대로 관리하지 않으면 거리가 우정을 약화시킬 수 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Weaken",
+      "sentence_en": "Digital distractions can weaken focus during important office meetings.",
+      "sentence_ko": "디지털 방해 요소가 중요한 사무실 회의 중 집중력을 약화시킬 수 있다.",
+      "tags": ["digital", "office"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "Most startups fail within their first three years of operation.",
+      "sentence_ko": "대부분의 스타트업은 운영 첫 3년 안에 실패한다.",
+      "tags": ["startup", "time"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "The office printer seemed to fail at the worst possible moments.",
+      "sentence_ko": "사무실 프린터는 가장 안 좋은 순간에 고장 나는 것 같았다.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "Marketing campaigns can fail if they don't understand their audience.",
+      "sentence_ko": "마케팅 캠페인은 타겟 고객을 이해하지 못하면 실패할 수 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "My smartphone battery tends to fail during important calls.",
+      "sentence_ko": "내 스마트폰 배터리는 중요한 통화 중에 나가는 경향이 있다.",
+      "tags": ["smartphone", "communication"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "Communication can fail when teams rely too heavily on digital tools.",
+      "sentence_ko": "팀이 디지털 도구에 너무 의존하면 소통이 실패할 수 있다.",
+      "tags": ["communication", "digital"]
+    },
+    {
+      "word": "Fail",
+      "sentence_en": "Even strong friendships can fail without effort and time investment.",
+      "sentence_ko": "강한 우정도 노력과 시간 투자 없이는 실패할 수 있다.",
+      "tags": ["friendship", "time"]
+    }
+  ]
+}

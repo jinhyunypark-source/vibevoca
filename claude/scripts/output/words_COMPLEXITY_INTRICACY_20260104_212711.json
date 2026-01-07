@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "65d97fc6-1897-4dd6-ae8a-f3fb24a1e159",
+    "word": "Complex",
+    "meaning": "복잡한 (여러 부분이 섞여 있어 이해가 필요한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "d34da5bc-52ff-4e98-a51f-9f1ea87cace5",
+    "word": "Complicated",
+    "meaning": "복잡한 (이해하거나 풀기 까다로운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "b8c369a0-30f6-4fc8-8aef-83530d43ffb6",
+    "word": "Intricate",
+    "meaning": "얽히고설킨, 정교한 (세부 사항이 많고 미세한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2637a38b-66a3-42eb-9926-e009a77302b1",
+    "word": "Convoluted",
+    "meaning": "대단히 난해한, 꼬인 (너무 꼬여서 이해하기 힘든)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "a7eb4c72-eac7-4794-bf39-96a5e56b1082",
+    "word": "Labyrinthine",
+    "meaning": "미로 같은 (길을 잃을 만큼 복잡한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "b5c5d959-809d-48e8-9bac-cb92a18931b7",
+    "word": "Tortuous",
+    "meaning": "구불구불한, 비틀린 (길이나 논리가 꼬인)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "7651a87d-902a-4ce9-b9a0-818310d5d7a7",
+    "word": "Abstruse",
+    "meaning": "난해한 (심오해서 이해하기 어려운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2321be35-bedd-4442-a82e-eef535942062",
+    "word": "Involved",
+    "meaning": "복잡한, 뒤얽힌 (많은 요소가 관련되어 까다로운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2ddb434b-8e18-49aa-9465-04eff5c0f25a",
+    "word": "Knotty",
+    "meaning": "매듭이 많은, 얽힌 (풀기 어려운 문제)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "32c14984-feaf-4cdf-8fc8-71b220a1e24f",
+    "word": "Elaborate",
+    "meaning": "정교한, 공들인 (복잡하게 짜인)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "4d552773-0fc9-4fd1-a196-b39f5f283b3a",
+    "word": "Tangled",
+    "meaning": "뒤엉킨 (실타래처럼 꼬인)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "a8294456-7166-4636-8525-0688e24360f5",
+    "word": "Messy",
+    "meaning": "지저분한, 골치 아픈 (상황이 정리되지 않은)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2c25c202-033b-4ea6-a340-1f6bed4f3c4b",
+    "word": "Baffling",
+    "meaning": "도저히 이해할 수 없는 (완전히 당황하게 하는)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "187f4a8d-0535-462a-866b-27786ce4c35b",
+    "word": "Chaotic",
+    "meaning": "혼란스러운 (무질서하고 복잡한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "1e6a2342-ee73-4ba3-a649-758d741ff8cd",
+    "word": "Bewildering",
+    "meaning": "어리둥절하게 만드는 (너무 복잡해서 당혹스러운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "513b7ec3-651e-4d95-8eec-68ca594a56f5",
+    "word": "Puzzling",
+    "meaning": "이해하기 힘든, 곤혹스러운 (수수께끼 같은)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "e2d61222-53cf-4471-b295-b1cdc4448e5d",
+    "word": "Mystifying",
+    "meaning": "신비한, 알 수 없는 (기이해서 복잡한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "adaf7fa0-695f-480a-b994-d75116db0122",
+    "word": "Cryptic",
+    "meaning": "수수께끼 같은, 아리송한 (의미가 숨겨진)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "988b3826-85a2-422b-b839-239956eee80a",
+    "word": "Enigmatic",
+    "meaning": "불가사의한 (신비롭고 이해하기 어려운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "d473628b-66d8-4be3-b8c3-0887c446c0d0",
+    "word": "Obscure",
+    "meaning": "모호한, 이해하기 힘든 (뜻이 불분명한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "5a4c592b-c1f5-4e86-99d5-b221d740e844",
+    "word": "Recondite",
+    "meaning": "심오한, 난해한 (많이 알려지지 않아 어려운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2d822e32-6c67-42f4-983f-839d5c9be717",
+    "word": "Impenetrable",
+    "meaning": "파악할 수 없는 (뚫고 들어갈 수 없는)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "06b19e35-d12d-4227-8918-b094841b6440",
+    "word": "Sophisticated",
+    "meaning": "정교한, 복잡한 (고도로 발달된)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "65bbd8bb-dadf-43e2-a0ea-8b2e347fb215",
+    "word": "Multifaceted",
+    "meaning": "다면적인 (여러 측면이 있는)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "98be6365-466a-45fe-867f-1efe3d4e425a",
+    "word": "Multidimensional",
+    "meaning": "다차원의 (여러 차원이 얽힌)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "b06e5ea6-12a5-4f2a-9276-ce7db3881577",
+    "word": "Byzantine",
+    "meaning": "비잔틴 양식의, 복잡한 (권모술수가 횡행하고 구조가 복잡한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "906f3852-70f8-4b90-91b6-a26f6bdeefa0",
+    "word": "Perplexing",
+    "meaning": "착잡한, 복잡한 (당혹스러운)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "2f432d55-9133-416c-b3c8-c71103154dd6",
+    "word": "Disorienting",
+    "meaning": "혼란스러운 (방향을 잃게 만드는)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "480418b0-b0ef-45d4-88e2-24ef7fda5c2d",
+    "word": "Dense",
+    "meaning": "난해한 (내용이 빽빽하고 어려움)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  },
+  {
+    "card_id": "e18a2a37-b037-4d9b-93d1-3a7398778a2d",
+    "word": "Tricky",
+    "meaning": "까다로운 (단순해 보이나 복잡한)",
+    "deck_id": "46ea95c1-c706-478f-bc40-2839c8c98840",
+    "deck_name": "COMPLEXITY_INTRICACY"
+  }
+]

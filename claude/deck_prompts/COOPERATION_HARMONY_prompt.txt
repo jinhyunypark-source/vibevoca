@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: COOPERATION_HARMONY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Compatible - 잘 맞는, 호환되는 (성격이나 의견이 잘 통하는)
+2. Harmonious - 조화로운 (다툼 없이 평화로운)
+3. Cooperative - 협조적인 (기꺼이 돕는)
+4. Reciprocal - 상호 간의 (주고받는)
+5. Cordial - 화기애애한, 정중한 (따뜻하지만 격식 있는)
+6. Amicable - 원만한 (우호적인 방식으로 해결하는)
+7. Collaborative - 협력적인 (함께 일해서 만드는)
+8. Supportive - 지지하는, 힘이 되는 (도와주고 응원하는)
+9. Loyal - 충성스러운, 의리 있는 (배신하지 않는)
+10. Trustworthy - 신뢰할 수 있는 (믿음직한)
+11. Reliable - 믿을 만한 (일을 맡길 수 있는/일관된)
+12. Dependable - 의지할 수 있는 (필요할 때 곁에 있는)
+13. Helpful - 도움이 되는 (유용한)
+14. Allied - 동맹을 맺은 (같은 편인)
+15. United - 단결된 (하나로 뭉친)
+16. Cohesive - 화합하는, 결속력 있는 (단단히 뭉친)
+17. Mutual - 상호 간의, 공통의 (서로 똑같이 느끼는)
+18. Understanding - 이해심 있는 (남의 사정을 봐주는)
+19. Sympathetic - 공감하는, 동정적인 (마음을 알아주는)
+20. Considerate - 사려 깊은 (남을 배려하는)
+21. Tolerant - 관대한 (다른 점을 용인하는)
+22. Accommodating - 편의를 봐주는, 잘 맞춰주는
+23. Agreeable - 동조하는, 쾌활한 (잘 따르는/기분 좋은)
+24. Civil - 예의 바른 (친하진 않아도 예의는 지키는)
+25. Polite - 공손한 (예절을 지키는)
+26. Courteous - 정중한 (매우 예의 바르고 배려심 있는)
+27. Friendly - 우호적인 (친근한)
+28. Constructive - 건설적인 (도움이 되는 방향의)
+29. Synergistic - 시너지 효과가 있는 (함께해서 더 큰 효과를 내는)
+30. Integrated - 통합된 (서로 잘 섞이는)
+
+## 추천 태그 (상황/맥락)
+school, food, friendship, movie, develope, marketing, outdoor, restaurant, university, vacation
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "COOPERATION_HARMONY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "COOPERATION_HARMONY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

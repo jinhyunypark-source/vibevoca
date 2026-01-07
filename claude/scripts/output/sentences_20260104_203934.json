@@ -1,0 +1,3073 @@
+[
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The developer gave an articulate presentation about the new AI system.",
+    "sentence_ko": "개발자는 새로운 AI 시스템에 대해 조리 있게 발표했다.",
+    "tags": [
+      "developer",
+      "technology",
+      "ai"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "Her articulate explanation helped the business team understand the technical concept.",
+    "sentence_ko": "그녀의 분명한 설명이 비즈니스 팀이 기술 개념을 이해하는 데 도움이 됐다.",
+    "tags": [
+      "business",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The entrepreneur was articulate when pitching to investors.",
+    "sentence_ko": "그 기업가는 투자자들에게 피칭할 때 조리 있게 말했다.",
+    "tags": [
+      "business",
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The professor's articulate lectures made complex topics easy to understand.",
+    "sentence_ko": "교수의 분명한 강의가 복잡한 주제를 이해하기 쉽게 만들었다.",
+    "tags": [],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "She was articulate in expressing her happy feelings about the project success.",
+    "sentence_ko": "그녀는 프로젝트 성공에 대한 행복한 감정을 조리 있게 표현했다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The startup's CEO is articulate when discussing marketing strategies.",
+    "sentence_ko": "그 스타트업의 CEO는 마케팅 전략을 논의할 때 조리가 있다.",
+    "tags": [
+      "startup",
+      "marketing",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The coder wrote articulate comments that made the code easy to follow.",
+    "sentence_ko": "그 코더는 코드를 따라가기 쉽게 만드는 분명한 주석을 작성했다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "During travel, being articulate helps when asking for directions.",
+    "sentence_ko": "여행 중에는 길을 물을 때 조리 있게 말하는 것이 도움이 된다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The soccer coach was articulate when explaining the new strategy.",
+    "sentence_ko": "그 축구 코치는 새로운 전략을 설명할 때 분명했다.",
+    "tags": [
+      "soccer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "2caa0b2a-dad1-4cc7-ad56-02982280cd86",
+    "word": "Articulate",
+    "sentence_en": "The restaurant owner gave an articulate response to customer complaints.",
+    "sentence_ko": "레스토랑 주인은 고객 불만에 대해 조리 있는 답변을 했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The developer's code structure was coherent and well-organized.",
+    "sentence_ko": "개발자의 코드 구조는 일관성 있고 잘 정리되어 있었다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The startup's business plan was coherent and convincing.",
+    "sentence_ko": "그 스타트업의 사업 계획은 일관성 있고 설득력이 있었다.",
+    "tags": [
+      "startup",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "Her coherent argument won the debate about AI ethics.",
+    "sentence_ko": "그녀의 앞뒤가 맞는 주장이 AI 윤리에 대한 토론에서 이겼다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The marketing strategy needs to be coherent across all platforms.",
+    "sentence_ko": "마케팅 전략은 모든 플랫폼에서 일관성이 있어야 한다.",
+    "tags": [
+      "marketing",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The travel guide provided coherent directions to the destination.",
+    "sentence_ko": "여행 가이드는 목적지까지 앞뒤가 맞는 안내를 제공했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "Despite feeling sad, she gave a coherent explanation of what happened.",
+    "sentence_ko": "슬픔에도 불구하고 그녀는 무슨 일이 있었는지 일관성 있게 설명했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The entrepreneur's vision was coherent and inspiring.",
+    "sentence_ko": "그 기업가의 비전은 일관성 있고 영감을 주었다.",
+    "tags": [
+      "entrepreneur",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The restaurant's menu was coherent with its Italian theme.",
+    "sentence_ko": "레스토랑의 메뉴는 이탈리안 테마와 일관성이 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The technology company needs a coherent strategy for growth.",
+    "sentence_ko": "그 기술 회사는 성장을 위한 일관성 있는 전략이 필요하다.",
+    "tags": [
+      "technology",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+    "word": "Coherent",
+    "sentence_en": "The warm atmosphere made everyone's thoughts more coherent.",
+    "sentence_ko": "따뜻한 분위기가 모두의 생각을 더 일관성 있게 만들었다.",
+    "tags": [
+      "warm"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The entrepreneur gave a candid interview about startup failures.",
+    "sentence_ko": "그 기업가는 스타트업 실패에 대해 솔직한 인터뷰를 했다.",
+    "tags": [
+      "entrepreneur",
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "She was candid about her sad feelings after the project ended.",
+    "sentence_ko": "그녀는 프로젝트가 끝난 후 슬픈 감정에 대해 솔직했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The developer's candid feedback helped improve the code quality.",
+    "sentence_ko": "개발자의 솔직한 피드백이 코드 품질을 개선하는 데 도움이 됐다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The CEO was candid about the business challenges ahead.",
+    "sentence_ko": "CEO는 앞으로의 비즈니스 과제에 대해 솔직했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "I appreciate your candid opinion about the marketing campaign.",
+    "sentence_ko": "마케팅 캠페인에 대한 당신의 솔직한 의견에 감사합니다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The restaurant owner was candid about the food quality issues.",
+    "sentence_ko": "레스토랑 주인은 음식 품질 문제에 대해 솔직했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "Being candid with your team builds trust in technology projects.",
+    "sentence_ko": "팀에게 솔직한 것은 기술 프로젝트에서 신뢰를 구축한다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The travel blogger shared candid stories about her adventures.",
+    "sentence_ko": "여행 블로거는 자신의 모험에 대한 솔직한 이야기를 공유했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "His candid response made everyone feel happy and relieved.",
+    "sentence_ko": "그의 솔직한 답변이 모두를 행복하고 안도하게 만들었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88862819-3d7e-4c7b-ae7e-ba92a2a53a20",
+    "word": "Candid",
+    "sentence_en": "The AI researcher was candid about the technology's limitations.",
+    "sentence_ko": "AI 연구원은 기술의 한계에 대해 솔직했다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "The developer gave frank feedback about the code's performance issues.",
+    "sentence_ko": "개발자는 코드 성능 문제에 대해 노골적인 피드백을 주었다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "To be frank, the startup's business model needs improvement.",
+    "sentence_ko": "솔직히 말해서, 그 스타트업의 비즈니스 모델은 개선이 필요하다.",
+    "tags": [
+      "startup",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "She was frank about her disappointment with the project results.",
+    "sentence_ko": "그녀는 프로젝트 결과에 대한 실망을 솔직하게 말했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "The entrepreneur's frank discussion about failures was enlightening.",
+    "sentence_ko": "그 기업가의 실패에 대한 노골적인 토론은 깨달음을 주었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "The marketing team appreciated his frank assessment of the campaign.",
+    "sentence_ko": "마케팅 팀은 그의 캠페인에 대한 솔직한 평가를 높이 샀다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "Let me be frank: the technology isn't ready for production yet.",
+    "sentence_ko": "솔직히 말하자면: 그 기술은 아직 프로덕션 준비가 안 됐다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "The restaurant chef was frank about the dish's shortcomings.",
+    "sentence_ko": "레스토랑 셰프는 요리의 부족한 점에 대해 솔직했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "Her frank opinion about the AI system sparked a heated debate.",
+    "sentence_ko": "AI 시스템에 대한 그녀의 노골적인 의견이 열띤 토론을 촉발했다.",
+    "tags": [
+      "ai"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "The travel guide was frank about the challenges of the journey.",
+    "sentence_ko": "여행 가이드는 여정의 어려움에 대해 솔직했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6677655b-26cb-4be8-bc85-9347496b811a",
+    "word": "Frank",
+    "sentence_en": "Despite the hot weather, he gave frank feedback on the project.",
+    "sentence_ko": "더운 날씨에도 불구하고 그는 프로젝트에 대해 솔직한 피드백을 주었다.",
+    "tags": [
+      "hot"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The developer used a logical approach to debug the code.",
+    "sentence_ko": "개발자는 코드를 디버그하기 위해 논리적인 접근법을 사용했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The startup's expansion plan follows a logical sequence of steps.",
+    "sentence_ko": "그 스타트업의 확장 계획은 논리적인 단계 순서를 따른다.",
+    "tags": [
+      "startup",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "Her logical argument convinced the business team to proceed.",
+    "sentence_ko": "그녀의 논리적인 주장이 비즈니스 팀을 진행하도록 설득했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The AI system uses logical reasoning to solve complex problems.",
+    "sentence_ko": "AI 시스템은 복잡한 문제를 해결하기 위해 논리적 추론을 사용한다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "It's logical to test the technology before launching it.",
+    "sentence_ko": "기술을 출시하기 전에 테스트하는 것이 논리적이다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The marketing strategy follows a logical progression from awareness to conversion.",
+    "sentence_ko": "마케팅 전략은 인지에서 전환까지 논리적인 진행을 따른다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The entrepreneur made logical decisions based on data analysis.",
+    "sentence_ko": "그 기업가는 데이터 분석을 바탕으로 논리적인 결정을 내렸다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "Taking the direct route is the logical choice for travel.",
+    "sentence_ko": "직행 경로를 택하는 것이 여행에 논리적인 선택이다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "The restaurant's menu organization is logical and easy to navigate.",
+    "sentence_ko": "레스토랑의 메뉴 구성은 논리적이고 탐색하기 쉽다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+    "word": "Logical",
+    "sentence_en": "Despite feeling sad, she made logical choices about her career.",
+    "sentence_ko": "슬픔에도 불구하고 그녀는 경력에 대해 논리적인 선택을 했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "The developer made rational decisions when choosing technologies.",
+    "sentence_ko": "개발자는 기술을 선택할 때 합리적인 결정을 내렸다.",
+    "tags": [
+      "developer",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "A rational business approach focuses on data rather than emotions.",
+    "sentence_ko": "합리적인 비즈니스 접근법은 감정보다는 데이터에 집중한다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "The startup's rational pricing strategy attracted many customers.",
+    "sentence_ko": "그 스타트업의 합리적인 가격 전략이 많은 고객을 끌어들였다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "It's rational to invest in AI technology for long-term growth.",
+    "sentence_ko": "장기 성장을 위해 AI 기술에 투자하는 것이 합리적이다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "The entrepreneur's rational thinking helped navigate the crisis.",
+    "sentence_ko": "그 기업가의 이성적인 사고가 위기를 헤쳐나가는 데 도움이 됐다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "A rational marketing budget allocates resources efficiently.",
+    "sentence_ko": "합리적인 마케팅 예산은 자원을 효율적으로 배분한다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "Even when happy, she maintained a rational perspective on business.",
+    "sentence_ko": "행복할 때도 그녀는 비즈니스에 대해 합리적인 관점을 유지했다.",
+    "tags": [
+      "happy",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "The travel itinerary was planned in a rational manner.",
+    "sentence_ko": "여행 일정은 합리적인 방식으로 계획되었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "Making rational code architecture decisions saves time later.",
+    "sentence_ko": "합리적인 코드 아키텍처 결정을 내리면 나중에 시간을 절약할 수 있다.",
+    "tags": [
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+    "word": "Rational",
+    "sentence_en": "The restaurant owner made rational decisions about menu pricing.",
+    "sentence_ko": "레스토랑 주인은 메뉴 가격에 대해 합리적인 결정을 내렸다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The developer wrote lucid documentation for the codebase.",
+    "sentence_ko": "개발자는 코드베이스에 대해 명쾌한 문서를 작성했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "Her lucid explanation of the business model impressed investors.",
+    "sentence_ko": "비즈니스 모델에 대한 그녀의 명쾌한 설명이 투자자들을 감동시켰다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The entrepreneur gave a lucid presentation about the startup's vision.",
+    "sentence_ko": "그 기업가는 스타트업의 비전에 대해 명쾌한 발표를 했다.",
+    "tags": [
+      "entrepreneur",
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The AI researcher provided lucid insights into machine learning.",
+    "sentence_ko": "AI 연구원은 머신러닝에 대한 명쾌한 통찰을 제공했다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The professor's lucid teaching style makes complex topics easy.",
+    "sentence_ko": "교수의 명쾌한 강의 스타일이 복잡한 주제를 쉽게 만든다.",
+    "tags": [],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The marketing brief was lucid and well-structured.",
+    "sentence_ko": "마케팅 브리프는 명쾌하고 잘 구조화되어 있었다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "Even in a warm climate, his thinking remained lucid and focused.",
+    "sentence_ko": "따뜻한 기후에서도 그의 사고는 명쾌하고 집중되어 있었다.",
+    "tags": [
+      "warm"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The travel guide wrote lucid instructions for navigating the city.",
+    "sentence_ko": "여행 가이드는 도시를 탐색하기 위한 명쾌한 지침을 작성했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "The technology whitepaper was lucid despite the complex subject.",
+    "sentence_ko": "기술 백서는 복잡한 주제에도 불구하고 명쾌했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+    "word": "Lucid",
+    "sentence_en": "She maintained lucid communication even when feeling sad.",
+    "sentence_ko": "그녀는 슬플 때도 명쾌한 의사소통을 유지했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Code quality can be subjective depending on the developer's experience.",
+    "sentence_ko": "코드 품질은 개발자의 경험에 따라 주관적일 수 있다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Business success is often measured by subjective criteria.",
+    "sentence_ko": "비즈니스 성공은 종종 주관적인 기준으로 측정된다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "The restaurant review was highly subjective and personal.",
+    "sentence_ko": "레스토랑 리뷰는 매우 주관적이고 개인적이었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Feelings of happiness are entirely subjective experiences.",
+    "sentence_ko": "행복의 감정은 전적으로 주관적인 경험이다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "The entrepreneur's vision was subjective but compelling.",
+    "sentence_ko": "그 기업가의 비전은 주관적이었지만 설득력이 있었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Marketing effectiveness can be both subjective and objective.",
+    "sentence_ko": "마케팅 효과는 주관적이면서도 객관적일 수 있다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Travel experiences are inherently subjective and vary by person.",
+    "sentence_ko": "여행 경험은 본질적으로 주관적이며 사람마다 다르다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "AI evaluation requires both subjective and objective metrics.",
+    "sentence_ko": "AI 평가에는 주관적 및 객관적 지표가 모두 필요하다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "The soccer team's performance assessment was somewhat subjective.",
+    "sentence_ko": "축구 팀의 성과 평가는 다소 주관적이었다.",
+    "tags": [
+      "soccer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "0a8d967e-fe1d-41aa-9f6f-4f4aeb4f65db",
+    "word": "Subjective",
+    "sentence_en": "Sadness perception is a subjective emotional response.",
+    "sentence_ko": "슬픔 인식은 주관적인 감정적 반응이다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "The developer used objective metrics to measure code performance.",
+    "sentence_ko": "개발자는 코드 성능을 측정하기 위해 객관적인 지표를 사용했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "Business decisions should be based on objective data analysis.",
+    "sentence_ko": "비즈니스 결정은 객관적인 데이터 분석을 기반으로 해야 한다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "The startup needed objective evaluation of its market potential.",
+    "sentence_ko": "그 스타트업은 시장 잠재력에 대한 객관적인 평가가 필요했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "AI systems strive for objective decision-making without bias.",
+    "sentence_ko": "AI 시스템은 편견 없는 객관적인 의사결정을 추구한다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "The entrepreneur sought objective feedback from mentors.",
+    "sentence_ko": "그 기업가는 멘토들로부터 객관적인 피드백을 구했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "Marketing ROI requires objective measurement and tracking.",
+    "sentence_ko": "마케팅 ROI는 객관적인 측정과 추적이 필요하다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "Travel reviews should include objective information about locations.",
+    "sentence_ko": "여행 리뷰는 장소에 대한 객관적인 정보를 포함해야 한다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "The technology assessment used objective benchmarks.",
+    "sentence_ko": "기술 평가는 객관적인 벤치마크를 사용했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "The restaurant ratings combined objective and subjective criteria.",
+    "sentence_ko": "레스토랑 평점은 객관적 및 주관적 기준을 결합했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c2b3efa1-c722-47a1-a80b-d6988b71e403",
+    "word": "Objective",
+    "sentence_en": "Even when happy, she maintained an objective perspective.",
+    "sentence_ko": "행복할 때도 그녀는 객관적인 관점을 유지했다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The code comments were ambiguous and confusing to developers.",
+    "sentence_ko": "코드 주석은 모호하고 개발자들에게 혼란스러웠다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The business contract had ambiguous terms that needed clarification.",
+    "sentence_ko": "비즈니스 계약서에는 명확히 해야 할 모호한 조항이 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The startup's mission statement was too ambiguous for investors.",
+    "sentence_ko": "그 스타트업의 미션 선언문은 투자자들에게 너무 모호했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "AI responses can sometimes be ambiguous and require interpretation.",
+    "sentence_ko": "AI 응답은 때때로 모호하여 해석이 필요할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The entrepreneur's answer was ambiguous and left people confused.",
+    "sentence_ko": "그 기업가의 답변은 모호하여 사람들을 혼란스럽게 만들었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The marketing message was ambiguous and failed to resonate.",
+    "sentence_ko": "마케팅 메시지는 모호하여 공감을 얻지 못했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The travel directions were ambiguous and led us astray.",
+    "sentence_ko": "여행 안내가 모호해서 우리를 잘못된 길로 인도했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The restaurant's menu had ambiguous descriptions of dishes.",
+    "sentence_ko": "레스토랑의 메뉴에는 요리에 대한 모호한 설명이 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "The technology specification was ambiguous and open to interpretation.",
+    "sentence_ko": "기술 사양은 모호하고 해석의 여지가 있었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "d3ecd33d-390c-4d74-adf5-ea78d2fa593d",
+    "word": "Ambiguous",
+    "sentence_en": "Her sad expression was ambiguous and hard to read.",
+    "sentence_ko": "그녀의 슬픈 표정은 모호하고 읽기 어려웠다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The developer's assumption about code performance was fallacious.",
+    "sentence_ko": "코드 성능에 대한 개발자의 가정은 오류가 있었다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The business strategy was based on fallacious market assumptions.",
+    "sentence_ko": "비즈니스 전략은 틀린 시장 가정을 기반으로 했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The startup's growth projections proved to be fallacious.",
+    "sentence_ko": "그 스타트업의 성장 예측은 오류가 있는 것으로 판명되었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The argument about AI superiority was logically fallacious.",
+    "sentence_ko": "AI 우월성에 대한 주장은 논리적으로 오류가 있었다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The entrepreneur's reasoning was fallacious and unconvincing.",
+    "sentence_ko": "그 기업가의 추론은 오류가 있고 설득력이 없었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The marketing claim was fallacious and misleading to customers.",
+    "sentence_ko": "마케팅 주장은 틀렸고 고객들에게 오해를 불러일으켰다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The technology comparison was based on fallacious data.",
+    "sentence_ko": "기술 비교는 오류가 있는 데이터를 기반으로 했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The travel advice turned out to be fallacious and unhelpful.",
+    "sentence_ko": "여행 조언은 틀린 것으로 판명되어 도움이 되지 않았다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "The restaurant review contained fallacious information about the menu.",
+    "sentence_ko": "레스토랑 리뷰에는 메뉴에 대한 오류가 있는 정보가 포함되어 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "4c3bda1e-a0ea-4b86-abb4-1e2d67db9380",
+    "word": "Fallacious",
+    "sentence_en": "His sad conclusion about the project was entirely fallacious.",
+    "sentence_ko": "프로젝트에 대한 그의 슬픈 결론은 완전히 틀렸다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The code requirements were too vague for developers to implement.",
+    "sentence_ko": "코드 요구사항이 너무 애매해서 개발자들이 구현할 수 없었다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The business proposal was vague and lacked specific details.",
+    "sentence_ko": "비즈니스 제안서는 애매하고 구체적인 세부사항이 부족했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The startup's timeline was vague and concerning to investors.",
+    "sentence_ko": "그 스타트업의 일정은 애매하고 투자자들에게 우려스러웠다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The AI's response was vague and didn't address the question.",
+    "sentence_ko": "AI의 응답은 애매하고 질문을 다루지 않았다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The entrepreneur's answer was intentionally vague to avoid commitment.",
+    "sentence_ko": "그 기업가의 답변은 약속을 피하기 위해 의도적으로 애매했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The marketing campaign's objectives were too vague to measure.",
+    "sentence_ko": "마케팅 캠페인의 목표는 너무 애매해서 측정할 수 없었다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The travel itinerary was vague about departure times.",
+    "sentence_ko": "여행 일정은 출발 시간에 대해 애매했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The restaurant's reservation policy was vague and confusing.",
+    "sentence_ko": "레스토랑의 예약 정책은 애매하고 혼란스러웠다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "The technology documentation was vague on implementation details.",
+    "sentence_ko": "기술 문서는 구현 세부사항에 대해 애매했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "1381858e-ef01-4860-9d52-e3f64b1b774a",
+    "word": "Vague",
+    "sentence_en": "Her vague expression made it hard to tell if she was sad.",
+    "sentence_ko": "그녀의 애매한 표정은 슬픈지 알기 어렵게 만들었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The developer's code logic was incoherent and hard to follow.",
+    "sentence_ko": "개발자의 코드 로직은 앞뒤가 안 맞고 따라가기 어려웠다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The business plan was incoherent and lacked clear direction.",
+    "sentence_ko": "비즈니스 계획은 앞뒤가 안 맞고 명확한 방향이 부족했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The startup's pitch was incoherent and confused the investors.",
+    "sentence_ko": "그 스타트업의 피칭은 횡설수설하여 투자자들을 혼란스럽게 했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The AI's output became incoherent with corrupted training data.",
+    "sentence_ko": "AI의 출력은 손상된 학습 데이터로 인해 앞뒤가 안 맞게 되었다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The entrepreneur's explanation was incoherent under pressure.",
+    "sentence_ko": "압박 속에서 그 기업가의 설명은 횡설수설했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The marketing message was incoherent across different platforms.",
+    "sentence_ko": "마케팅 메시지는 여러 플랫폼에서 앞뒤가 안 맞았다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The travel guide's directions were incoherent and misleading.",
+    "sentence_ko": "여행 가이드의 안내는 앞뒤가 안 맞고 오해를 불러일으켰다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The restaurant's menu theme was incoherent and confusing.",
+    "sentence_ko": "레스토랑의 메뉴 테마는 앞뒤가 안 맞고 혼란스러웠다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "The technology roadmap was incoherent with the company vision.",
+    "sentence_ko": "기술 로드맵은 회사 비전과 앞뒤가 안 맞았다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6a00292e-7355-427c-9a5b-89c8840e4618",
+    "word": "Incoherent",
+    "sentence_en": "When sad, his thoughts became incoherent and scattered.",
+    "sentence_ko": "슬플 때 그의 생각은 앞뒤가 안 맞고 산만해졌다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The developer made irrational code optimization decisions.",
+    "sentence_ko": "개발자는 비이성적인 코드 최적화 결정을 내렸다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The business decision was irrational and based on emotion.",
+    "sentence_ko": "비즈니스 결정은 비이성적이고 감정에 기반했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The startup's pricing strategy seemed irrational to analysts.",
+    "sentence_ko": "그 스타트업의 가격 전략은 분석가들에게 비이성적으로 보였다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "Irrational fear about AI prevents many from adopting technology.",
+    "sentence_ko": "AI에 대한 비이성적인 두려움이 많은 사람들의 기술 채택을 막는다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The entrepreneur's irrational exuberance led to poor investments.",
+    "sentence_ko": "그 기업가의 비이성적인 흥분이 나쁜 투자로 이어졌다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The marketing budget allocation appeared irrational and wasteful.",
+    "sentence_ko": "마케팅 예산 배분은 비이성적이고 낭비적으로 보였다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "Irrational fears about travel prevented her from exploring.",
+    "sentence_ko": "여행에 대한 비이성적인 두려움이 그녀의 탐험을 막았다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "The restaurant's menu pricing seemed irrational to customers.",
+    "sentence_ko": "레스토랑의 메뉴 가격은 고객들에게 비이성적으로 보였다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "In hot weather, people sometimes make irrational decisions.",
+    "sentence_ko": "더운 날씨에는 사람들이 때때로 비이성적인 결정을 내린다.",
+    "tags": [
+      "hot"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+    "word": "Irrational",
+    "sentence_en": "Sadness can lead to irrational thoughts and behaviors.",
+    "sentence_ko": "슬픔은 비이성적인 생각과 행동으로 이어질 수 있다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The developer's code passed all valid test cases successfully.",
+    "sentence_ko": "개발자의 코드는 모든 유효한 테스트 케이스를 성공적으로 통과했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The business contract remains valid for another two years.",
+    "sentence_ko": "비즈니스 계약서는 앞으로 2년 더 유효하다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The startup presented valid reasons for needing more funding.",
+    "sentence_ko": "그 스타트업은 더 많은 자금이 필요한 타당한 이유를 제시했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The AI research relied on valid scientific methodology.",
+    "sentence_ko": "AI 연구는 유효한 과학적 방법론에 의존했다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The entrepreneur's concerns about the market were valid.",
+    "sentence_ko": "시장에 대한 그 기업가의 우려는 타당했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The marketing campaign used valid consumer insights.",
+    "sentence_ko": "마케팅 캠페인은 유효한 소비자 통찰을 사용했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "Make sure your travel visa is valid before departing.",
+    "sentence_ko": "출발하기 전에 여행 비자가 유효한지 확인하세요.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The restaurant's health certificate is valid until next month.",
+    "sentence_ko": "레스토랑의 위생 증명서는 다음 달까지 유효하다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "The technology patent remains valid in all jurisdictions.",
+    "sentence_ko": "기술 특허는 모든 관할권에서 유효하다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3be5c7a3-7f9b-46a0-a882-26f1ce6e59f5",
+    "word": "Valid",
+    "sentence_en": "She made valid points despite feeling sad about the outcome.",
+    "sentence_ko": "그녀는 결과에 대해 슬픔에도 불구하고 타당한 지적을 했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The developer followed sound coding principles and best practices.",
+    "sentence_ko": "개발자는 건전한 코딩 원칙과 모범 사례를 따랐다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The business strategy was sound and well-researched.",
+    "sentence_ko": "비즈니스 전략은 건전하고 잘 조사되었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The startup's financial planning was sound and realistic.",
+    "sentence_ko": "그 스타트업의 재무 계획은 믿을 만하고 현실적이었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The AI system was built on sound mathematical foundations.",
+    "sentence_ko": "AI 시스템은 건전한 수학적 기초 위에 구축되었다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The entrepreneur made sound investment decisions.",
+    "sentence_ko": "그 기업가는 믿을 만한 투자 결정을 내렸다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The marketing approach was based on sound consumer research.",
+    "sentence_ko": "마케팅 접근법은 건전한 소비자 조사를 기반으로 했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The travel plan was sound with backup options included.",
+    "sentence_ko": "여행 계획은 백업 옵션이 포함되어 믿을 만했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The restaurant's business model is financially sound.",
+    "sentence_ko": "레스토랑의 비즈니스 모델은 재정적으로 건전하다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "The technology infrastructure was built on sound architecture.",
+    "sentence_ko": "기술 인프라는 건전한 아키텍처 위에 구축되었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+    "word": "Sound",
+    "sentence_en": "Even when happy, she maintained sound judgment in business.",
+    "sentence_ko": "행복할 때도 그녀는 비즈니스에서 믿을 만한 판단력을 유지했다.",
+    "tags": [
+      "happy",
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The developer wrote explicit instructions in the code comments.",
+    "sentence_ko": "개발자는 코드 주석에 명시적인 지침을 작성했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The business contract included explicit terms and conditions.",
+    "sentence_ko": "비즈니스 계약서에는 명시적인 조건들이 포함되어 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The startup's explicit goals helped align the team.",
+    "sentence_ko": "그 스타트업의 명시적인 목표가 팀을 정렬하는 데 도움이 됐다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The AI system requires explicit user consent for data usage.",
+    "sentence_ko": "AI 시스템은 데이터 사용에 대한 명시적인 사용자 동의가 필요하다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The entrepreneur gave explicit instructions to the team.",
+    "sentence_ko": "그 기업가는 팀에게 명시적인 지시를 했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The marketing message was explicit about product benefits.",
+    "sentence_ko": "마케팅 메시지는 제품 이점에 대해 명시적이었다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The travel guide provided explicit directions to attractions.",
+    "sentence_ko": "여행 가이드는 명소까지 명시적인 안내를 제공했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The restaurant menu was explicit about allergen information.",
+    "sentence_ko": "레스토랑 메뉴는 알레르기 정보에 대해 명시적이었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "The technology documentation needs more explicit examples.",
+    "sentence_ko": "기술 문서는 더 명시적인 예제가 필요하다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+    "word": "Explicit",
+    "sentence_en": "She was explicit about her expectations despite being sad.",
+    "sentence_ko": "그녀는 슬픔에도 불구하고 기대에 대해 명시적이었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The code had implicit dependencies that caused bugs.",
+    "sentence_ko": "코드에는 버그를 일으키는 암시적인 종속성이 있었다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "There was an implicit understanding in the business deal.",
+    "sentence_ko": "비즈니스 거래에는 암시적인 이해가 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The startup culture had implicit rules everyone followed.",
+    "sentence_ko": "스타트업 문화에는 모두가 따르는 암시적인 규칙이 있었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "AI systems can pick up implicit biases from training data.",
+    "sentence_ko": "AI 시스템은 학습 데이터에서 암시적인 편향을 습득할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The entrepreneur's implicit message was clear to investors.",
+    "sentence_ko": "투자자들에게 그 기업가의 암시적인 메시지는 명확했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The marketing campaign relied on implicit emotional appeals.",
+    "sentence_ko": "마케팅 캠페인은 암시적인 감정적 호소에 의존했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "There was implicit trust among the travel group members.",
+    "sentence_ko": "여행 그룹 구성원들 사이에는 암시적인 신뢰가 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The restaurant had an implicit dress code for dinner.",
+    "sentence_ko": "레스토랑에는 저녁 식사를 위한 암시적인 복장 규정이 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "The technology agreement had implicit obligations.",
+    "sentence_ko": "기술 계약에는 암시적인 의무가 있었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7c47d358-4e11-4ca5-bc4d-a94bfbbe2427",
+    "word": "Implicit",
+    "sentence_en": "Her happy demeanor carried an implicit invitation to join.",
+    "sentence_ko": "그녀의 행복한 태도는 함께하라는 암시적인 초대를 담고 있었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The developer made subtle improvements to code performance.",
+    "sentence_ko": "개발자는 코드 성능에 미묘한 개선을 했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The business strategy involved subtle market positioning.",
+    "sentence_ko": "비즈니스 전략은 미묘한 시장 포지셔닝을 포함했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The startup's branding used subtle design elements.",
+    "sentence_ko": "그 스타트업의 브랜딩은 미묘한 디자인 요소를 사용했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "AI can detect subtle patterns in large datasets.",
+    "sentence_ko": "AI는 대규모 데이터셋에서 미묘한 패턴을 감지할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The entrepreneur's subtle influence shaped company culture.",
+    "sentence_ko": "그 기업가의 미묘한 영향력이 회사 문화를 형성했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The marketing campaign used subtle psychological triggers.",
+    "sentence_ko": "마케팅 캠페인은 미묘한 심리적 트리거를 사용했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The travel guide pointed out subtle cultural differences.",
+    "sentence_ko": "여행 가이드는 미묘한 문화적 차이를 지적했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The restaurant's décor featured subtle color combinations.",
+    "sentence_ko": "레스토랑의 장식은 미묘한 색상 조합을 특징으로 했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "The technology upgrade brought subtle but important changes.",
+    "sentence_ko": "기술 업그레이드는 미묘하지만 중요한 변화를 가져왔다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "54ee95b1-0324-4690-b107-4965cecffb3c",
+    "word": "Subtle",
+    "sentence_en": "She noticed subtle signs of sadness in his expression.",
+    "sentence_ko": "그녀는 그의 표정에서 슬픔의 미묘한 징후를 알아챘다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The developer's approach to debugging was nuanced and effective.",
+    "sentence_ko": "개발자의 디버깅 접근법은 뉘앙스가 있고 효과적이었다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The business analysis provided a nuanced view of the market.",
+    "sentence_ko": "비즈니스 분석은 시장에 대한 뉘앙스 있는 관점을 제공했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The startup's positioning required nuanced messaging.",
+    "sentence_ko": "그 스타트업의 포지셔닝은 뉘앙스 있는 메시징이 필요했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "AI ethics requires nuanced understanding of complex issues.",
+    "sentence_ko": "AI 윤리는 복잡한 문제에 대한 뉘앙스 있는 이해가 필요하다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The entrepreneur gave a nuanced response to criticism.",
+    "sentence_ko": "그 기업가는 비판에 대해 뉘앙스 있는 답변을 했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The marketing strategy took a nuanced approach to demographics.",
+    "sentence_ko": "마케팅 전략은 인구 통계에 대해 뉘앙스 있는 접근을 취했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The travel blogger's writing showed nuanced cultural awareness.",
+    "sentence_ko": "여행 블로거의 글은 뉘앙스 있는 문화적 인식을 보여주었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The restaurant's menu offered nuanced flavor profiles.",
+    "sentence_ko": "레스토랑의 메뉴는 뉘앙스 있는 맛 프로필을 제공했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "The technology review provided nuanced performance analysis.",
+    "sentence_ko": "기술 리뷰는 뉘앙스 있는 성능 분석을 제공했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "6c6f65b3-ee6e-45b7-a248-1cf92c7b46b1",
+    "word": "Nuanced",
+    "sentence_en": "Her happy expression had nuanced undertones of relief.",
+    "sentence_ko": "그녀의 행복한 표정에는 안도의 뉘앙스 있는 기저음이 있었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The developer added relevant comments to complex code sections.",
+    "sentence_ko": "개발자는 복잡한 코드 섹션에 관련 있는 주석을 추가했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The business data was highly relevant to our decision.",
+    "sentence_ko": "비즈니스 데이터는 우리의 결정에 매우 관련이 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The startup focused on solving relevant customer problems.",
+    "sentence_ko": "그 스타트업은 관련 있는 고객 문제 해결에 집중했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "AI training requires relevant and diverse datasets.",
+    "sentence_ko": "AI 학습에는 관련 있고 다양한 데이터셋이 필요하다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The entrepreneur shared relevant industry experience.",
+    "sentence_ko": "그 기업가는 관련 있는 업계 경험을 공유했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The marketing message was relevant to target audience needs.",
+    "sentence_ko": "마케팅 메시지는 목표 청중의 요구와 관련이 있었다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The travel information was relevant for our destination.",
+    "sentence_ko": "여행 정보는 우리 목적지와 관련이 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The restaurant suggested relevant wine pairings.",
+    "sentence_ko": "레스토랑은 관련 있는 와인 페어링을 제안했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "The technology blog posts were relevant to developers.",
+    "sentence_ko": "기술 블로그 게시물은 개발자들과 관련이 있었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c677161d-cb1a-45b1-ada8-9f7ddbf518d2",
+    "word": "Relevant",
+    "sentence_en": "Her question was relevant despite the sad circumstances.",
+    "sentence_ko": "그녀의 질문은 슬픈 상황에도 불구하고 적절했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The developer removed irrelevant code from the repository.",
+    "sentence_ko": "개발자는 저장소에서 무관한 코드를 제거했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The business metrics were irrelevant to our goals.",
+    "sentence_ko": "비즈니스 지표는 우리 목표와 무관했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The startup avoided irrelevant feature requests.",
+    "sentence_ko": "그 스타트업은 무관한 기능 요청을 피했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "AI should filter out irrelevant data during processing.",
+    "sentence_ko": "AI는 처리 중 무관한 데이터를 필터링해야 한다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The entrepreneur dismissed irrelevant investor concerns.",
+    "sentence_ko": "그 기업가는 무관한 투자자 우려를 일축했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The marketing team cut irrelevant content from campaigns.",
+    "sentence_ko": "마케팅 팀은 캠페인에서 무관한 콘텐츠를 삭제했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The travel guide skipped irrelevant tourist traps.",
+    "sentence_ko": "여행 가이드는 무관한 관광 함정을 건너뛰었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The restaurant removed irrelevant items from the menu.",
+    "sentence_ko": "레스토랑은 메뉴에서 무관한 항목을 제거했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "The technology discussion avoided irrelevant tangents.",
+    "sentence_ko": "기술 토론은 무관한 탈선을 피했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "7ef99542-04ec-4647-857f-7f6897014d89",
+    "word": "Irrelevant",
+    "sentence_en": "His comment was irrelevant and made everyone sad.",
+    "sentence_ko": "그의 코멘트는 엉뚱하고 모두를 슬프게 만들었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The developer wrote precise code with exact calculations.",
+    "sentence_ko": "개발자는 정확한 계산으로 정밀한 코드를 작성했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The business forecast required precise financial modeling.",
+    "sentence_ko": "비즈니스 예측에는 정밀한 재무 모델링이 필요했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The startup needed precise metrics to track growth.",
+    "sentence_ko": "그 스타트업은 성장을 추적하기 위해 정밀한 지표가 필요했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "AI systems can make precise predictions with enough data.",
+    "sentence_ko": "AI 시스템은 충분한 데이터로 정밀한 예측을 할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The entrepreneur gave precise instructions to the team.",
+    "sentence_ko": "그 기업가는 팀에게 정밀한 지시를 했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The marketing campaign targeted precise customer segments.",
+    "sentence_ko": "마케팅 캠페인은 정밀한 고객 세그먼트를 목표로 했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The travel itinerary included precise departure times.",
+    "sentence_ko": "여행 일정에는 정밀한 출발 시간이 포함되어 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The restaurant chef used precise measurements in recipes.",
+    "sentence_ko": "레스토랑 셰프는 레시피에 정밀한 측정을 사용했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "The technology specification required precise documentation.",
+    "sentence_ko": "기술 사양에는 정밀한 문서화가 필요했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "807740b8-9754-4717-b6b8-6ed901720d8d",
+    "word": "Precise",
+    "sentence_en": "She was precise in describing her sad feelings.",
+    "sentence_ko": "그녀는 슬픈 감정을 설명하는 데 정밀했다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The developer's bug report was accurate and detailed.",
+    "sentence_ko": "개발자의 버그 리포트는 정확하고 상세했다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The business projection turned out to be accurate.",
+    "sentence_ko": "비즈니스 예측은 정확한 것으로 판명되었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The startup provided accurate financial statements.",
+    "sentence_ko": "그 스타트업은 정확한 재무제표를 제공했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "AI accuracy improves with better training data.",
+    "sentence_ko": "AI 정확도는 더 나은 학습 데이터로 향상된다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The entrepreneur's market analysis was surprisingly accurate.",
+    "sentence_ko": "그 기업가의 시장 분석은 놀랍도록 정확했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The marketing data must be accurate for good decisions.",
+    "sentence_ko": "마케팅 데이터는 좋은 결정을 위해 정확해야 한다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The travel guide gave accurate information about prices.",
+    "sentence_ko": "여행 가이드는 가격에 대한 정확한 정보를 제공했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The restaurant bill was accurate down to the cent.",
+    "sentence_ko": "레스토랑 청구서는 센트 단위까지 정확했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "The technology benchmark provided accurate performance data.",
+    "sentence_ko": "기술 벤치마크는 정확한 성능 데이터를 제공했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "3a7ec700-e283-4667-9da7-711665eaa3ec",
+    "word": "Accurate",
+    "sentence_en": "Her accurate assessment of the situation made others happy.",
+    "sentence_ko": "상황에 대한 그녀의 정확한 평가가 다른 사람들을 행복하게 만들었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The code comment was misleading and confused developers.",
+    "sentence_ko": "코드 주석은 오해의 소지가 있어 개발자들을 혼란스럽게 했다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The business presentation contained misleading statistics.",
+    "sentence_ko": "비즈니스 프레젠테이션에는 오해의 소지가 있는 통계가 포함되어 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The startup's growth chart was misleading to investors.",
+    "sentence_ko": "그 스타트업의 성장 차트는 투자자들에게 오해를 불러일으켰다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "Misleading AI predictions can have serious consequences.",
+    "sentence_ko": "오해를 불러일으키는 AI 예측은 심각한 결과를 초래할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The entrepreneur's claims were misleading and inaccurate.",
+    "sentence_ko": "그 기업가의 주장은 오해의 소지가 있고 부정확했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The marketing ad was misleading about product features.",
+    "sentence_ko": "마케팅 광고는 제품 기능에 대해 오해를 불러일으켰다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The travel website had misleading hotel photos.",
+    "sentence_ko": "여행 웹사이트에는 오해를 불러일으키는 호텔 사진이 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The restaurant menu had misleading portion size descriptions.",
+    "sentence_ko": "레스토랑 메뉴에는 오해를 불러일으키는 분량 설명이 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "The technology review was misleading about performance.",
+    "sentence_ko": "기술 리뷰는 성능에 대해 오해를 불러일으켰다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "b23693d5-e849-4d47-b276-48d42815860a",
+    "word": "Misleading",
+    "sentence_en": "His misleading statement made everyone sad and angry.",
+    "sentence_ko": "그의 오해를 불러일으키는 진술이 모두를 슬프고 화나게 만들었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The deceptive code pattern hid critical bugs.",
+    "sentence_ko": "기만적인 코드 패턴이 중요한 버그를 숨겼다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The business deal had deceptive terms buried in fine print.",
+    "sentence_ko": "비즈니스 거래에는 작은 글씨에 숨겨진 기만적인 조항이 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The startup's valuation claims were deceptive.",
+    "sentence_ko": "그 스타트업의 가치평가 주장은 기만적이었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "Deceptive AI systems can spread misinformation.",
+    "sentence_ko": "기만적인 AI 시스템은 잘못된 정보를 퍼뜨릴 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The entrepreneur's pitch was deceptive about market size.",
+    "sentence_ko": "그 기업가의 피칭은 시장 규모에 대해 기만적이었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The deceptive marketing tactics violated consumer trust.",
+    "sentence_ko": "기만적인 마케팅 전술은 소비자 신뢰를 위반했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The travel package had deceptive pricing structures.",
+    "sentence_ko": "여행 패키지에는 기만적인 가격 구조가 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The restaurant's deceptive menu pricing upset customers.",
+    "sentence_ko": "레스토랑의 기만적인 메뉴 가격이 고객들을 화나게 했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "The technology claims were deceptive and exaggerated.",
+    "sentence_ko": "기술 주장은 기만적이고 과장되었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e0b38585-3890-41ad-9954-280344b8538c",
+    "word": "Deceptive",
+    "sentence_en": "His deceptive behavior made everyone sad and disappointed.",
+    "sentence_ko": "그의 기만적인 행동이 모두를 슬프고 실망하게 만들었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The developer gave direct feedback on code quality.",
+    "sentence_ko": "개발자는 코드 품질에 대해 직접적인 피드백을 주었다.",
+    "tags": [
+      "developer",
+      "code"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The business approach was direct and straightforward.",
+    "sentence_ko": "비즈니스 접근법은 직접적이고 솔직했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The startup's communication style was refreshingly direct.",
+    "sentence_ko": "그 스타트업의 커뮤니케이션 스타일은 신선하게 직접적이었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "AI systems should give direct answers when possible.",
+    "sentence_ko": "AI 시스템은 가능할 때 직접적인 답변을 제공해야 한다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The entrepreneur was direct about the company's challenges.",
+    "sentence_ko": "그 기업가는 회사의 과제에 대해 직접적이었다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The marketing message used direct language to persuade.",
+    "sentence_ko": "마케팅 메시지는 설득하기 위해 직접적인 언어를 사용했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "We took the direct route to save travel time.",
+    "sentence_ko": "우리는 여행 시간을 절약하기 위해 직행 경로를 택했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The restaurant server was direct about menu recommendations.",
+    "sentence_ko": "레스토랑 서버는 메뉴 추천에 대해 직접적이었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "The technology manual provided direct implementation steps.",
+    "sentence_ko": "기술 매뉴얼은 직접적인 구현 단계를 제공했다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+    "word": "Direct",
+    "sentence_en": "She was direct about expressing her happy feelings.",
+    "sentence_ko": "그녀는 행복한 감정을 표현하는 데 직접적이었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The code dependency was indirect and hard to trace.",
+    "sentence_ko": "코드 종속성은 간접적이고 추적하기 어려웠다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The business communication was indirect and diplomatic.",
+    "sentence_ko": "비즈니스 커뮤니케이션은 간접적이고 외교적이었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The startup used indirect marketing through influencers.",
+    "sentence_ko": "그 스타트업은 인플루언서를 통한 간접 마케팅을 사용했다.",
+    "tags": [
+      "startup",
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "AI can learn from indirect signals in data.",
+    "sentence_ko": "AI는 데이터의 간접적인 신호에서 학습할 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The entrepreneur's indirect approach built relationships.",
+    "sentence_ko": "그 기업가의 간접적인 접근법이 관계를 구축했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The marketing campaign used indirect emotional appeals.",
+    "sentence_ko": "마케팅 캠페인은 간접적인 감정적 호소를 사용했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "We took an indirect route to see more sights while traveling.",
+    "sentence_ko": "우리는 여행 중 더 많은 명소를 보기 위해 우회 경로를 택했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The restaurant chef used indirect heat for slow cooking.",
+    "sentence_ko": "레스토랑 셰프는 천천히 요리하기 위해 간접 열을 사용했다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "The technology transfer happened through indirect channels.",
+    "sentence_ko": "기술 이전은 간접적인 경로를 통해 이루어졌다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "a0c8fa31-7f3f-4369-b1ab-531ae32188d1",
+    "word": "Indirect",
+    "sentence_en": "Her indirect way of expressing sadness was hard to notice.",
+    "sentence_ko": "슬픔을 표현하는 그녀의 간접적인 방식은 알아차리기 어려웠다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The code used obscure syntax that confused developers.",
+    "sentence_ko": "코드는 개발자들을 혼란스럽게 하는 모호한 구문을 사용했다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The business contract had obscure legal clauses.",
+    "sentence_ko": "비즈니스 계약서에는 이해하기 힘든 법적 조항이 있었다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The startup's mission was obscure and unclear.",
+    "sentence_ko": "그 스타트업의 미션은 모호하고 불명확했다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "AI behavior can become obscure with complex models.",
+    "sentence_ko": "AI 행동은 복잡한 모델로 인해 이해하기 힘들어질 수 있다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The entrepreneur's reasoning was obscure to investors.",
+    "sentence_ko": "그 기업가의 추론은 투자자들에게 모호했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The marketing message was too obscure for customers.",
+    "sentence_ko": "마케팅 메시지는 고객들에게 너무 모호했다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "We found an obscure travel destination off the beaten path.",
+    "sentence_ko": "우리는 사람들이 잘 가지 않는 모호한 여행지를 발견했다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The restaurant menu featured obscure regional dishes.",
+    "sentence_ko": "레스토랑 메뉴에는 모호한 지역 요리가 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The technology documentation was obscure and poorly written.",
+    "sentence_ko": "기술 문서는 모호하고 잘못 작성되었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+    "word": "Obscure",
+    "sentence_en": "The obscure situation made everyone feel sad and confused.",
+    "sentence_ko": "모호한 상황이 모두를 슬프고 혼란스럽게 만들었다.",
+    "tags": [
+      "sad"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The code review showed clear-cut performance issues.",
+    "sentence_ko": "코드 리뷰는 명백한 성능 문제를 보여주었다.",
+    "tags": [
+      "code",
+      "developer"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The business decision was clear-cut based on the data.",
+    "sentence_ko": "비즈니스 결정은 데이터를 기반으로 명백했다.",
+    "tags": [
+      "business"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The startup had clear-cut goals for the quarter.",
+    "sentence_ko": "그 스타트업은 분기별로 명백한 목표가 있었다.",
+    "tags": [
+      "startup"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The AI system provided clear-cut recommendations.",
+    "sentence_ko": "AI 시스템은 명백한 추천을 제공했다.",
+    "tags": [
+      "ai",
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The entrepreneur gave clear-cut direction to the team.",
+    "sentence_ko": "그 기업가는 팀에게 명백한 방향을 제시했다.",
+    "tags": [
+      "entrepreneur"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The marketing strategy had clear-cut objectives.",
+    "sentence_ko": "마케팅 전략에는 명백한 목표가 있었다.",
+    "tags": [
+      "marketing"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The travel policy had clear-cut rules for expenses.",
+    "sentence_ko": "여행 정책에는 경비에 대한 명백한 규칙이 있었다.",
+    "tags": [
+      "travel"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The restaurant had clear-cut opening hours posted.",
+    "sentence_ko": "레스토랑에는 명백한 영업 시간이 게시되어 있었다.",
+    "tags": [
+      "restaurant"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The technology upgrade had clear-cut benefits.",
+    "sentence_ko": "기술 업그레이드에는 명백한 이점이 있었다.",
+    "tags": [
+      "technology"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  },
+  {
+    "card_id": "c7a7dad8-8c9a-446b-a670-cad6ddf34c12",
+    "word": "Clear-cut",
+    "sentence_en": "The clear-cut outcome made everyone happy and satisfied.",
+    "sentence_ko": "명백한 결과가 모두를 행복하고 만족스럽게 만들었다.",
+    "tags": [
+      "happy"
+    ],
+    "deck_name": "LOGIC_CLARITY"
+  }
+]

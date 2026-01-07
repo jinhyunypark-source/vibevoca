@@ -1,0 +1,906 @@
+{
+  "deck_title": "SCARCITY_DEFICIENCY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Scarce",
+      "sentence_en": "Fresh water became scarce in the remote village after the long summer heatwave.",
+      "sentence_ko": "긴 여름 폭염이 지나간 후 그 외딴 마을에는 깨끗한 물이 귀해졌습니다.",
+      "tags": ["weather", "outdoor", "journey"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Good opportunities for career advancement are often scarce in a saturated job market.",
+      "sentence_ko": "포화된 취업 시장에서는 경력을 쌓을 좋은 기회를 찾기가 쉽지 않습니다.",
+      "tags": ["career", "business", "study"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "During the festival, hotel rooms were so scarce that people had to stay far away.",
+      "sentence_ko": "축제 기간 동안 호텔 방이 너무 부족해서 사람들은 아주 멀리서 숙박해야 했습니다.",
+      "tags": ["journey", "outdoor", "conversation"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Skilled labor is becoming increasingly scarce in the rapidly evolving tech industry.",
+      "sentence_ko": "빠르게 변화하는 기술 산업에서 숙련된 노동력은 갈수록 구하기 힘들어지고 있습니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Scarce",
+      "sentence_en": "Time for personal hobbies is scarce when you are balancing work and family life.",
+      "sentence_ko": "일과 가정 생활을 병행하다 보면 개인적인 취미를 즐길 시간은 내기 어렵습니다.",
+      "tags": ["daily_life", "family", "career"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "It is quite rare to see a total solar eclipse in this part of the world.",
+      "sentence_ko": "이 지역에서 개기 일식을 보는 것은 매우 드문 일입니다.",
+      "tags": ["weather", "outdoor", "journey"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "The collector was lucky to find such a rare vintage watch at the flea market.",
+      "sentence_ko": "수집가는 벼룩시장에서 그런 희귀한 빈티지 시계를 찾은 것이 정말 행운이었습니다.",
+      "tags": ["daily_life", "happy", "outdoor"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "Having a quiet moment to myself is a rare treat in my busy daily schedule.",
+      "sentence_ko": "바쁜 일상 속에서 나만의 조용한 시간을 갖는 것은 흔치 않은 즐거움입니다.",
+      "tags": ["daily_life", "happy", "conversation"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "The doctor explained that my condition is a rare side effect of the new medication.",
+      "sentence_ko": "의사는 제 증상이 새로운 약물의 희귀한 부작용이라고 설명했습니다.",
+      "tags": ["daily_life", "conversation", "study"]
+    },
+    {
+      "word": "Rare",
+      "sentence_en": "Finding someone with the same niche interests as me was a rare and happy discovery.",
+      "sentence_ko": "나와 같은 특이한 취미를 가진 사람을 만난 것은 드물고도 행복한 발견이었습니다.",
+      "tags": ["conversation", "happy", "daily_life"]
+    },
+    {
+      "word": "Sparse",
+      "sentence_en": "The vegetation in the desert is sparse due to the extreme lack of rainfall.",
+      "sentence_ko": "강수량이 극도로 부족하기 때문에 사막의 초목은 듬성듬성 나 있습니다.",
+      "tags": ["weather", "outdoor", "journey"]
+    },
+    {
+      "word": "Sparse",
+      "sentence_en": "Attendance at the early morning seminar was sparse despite the free coffee provided.",
+      "sentence_ko": "무료 커피 제공에도 불구하고 이른 아침 세미나의 참석 인원은 저조했습니다.",
+      "tags": ["study", "business", "career"]
+    },
+    {
+      "word": "Sparse",
+      "sentence_en": "Information about the historical site's origin remains sparse even after years of research.",
+      "sentence_ko": "수년간의 연구 후에도 그 역사적 유적지의 기원에 대한 정보는 여전히 부족합니다.",
+      "tags": ["study", "journey", "outdoor"]
+    },
+    {
+      "word": "Sparse",
+      "sentence_en": "The minimalist living room had sparse furniture, making the space look much larger.",
+      "sentence_ko": "미니멀리스트 거실에는 가구가 거의 없어 공간이 훨씬 넓어 보였습니다.",
+      "tags": ["daily_life", "family", "happy"]
+    },
+    {
+      "word": "Sparse",
+      "sentence_en": "The crowd at the stadium was sparse because of the heavy rain and wind.",
+      "sentence_ko": "폭우와 바람 때문에 경기장의 관중은 드문드문했습니다.",
+      "tags": ["weather", "outdoor", "conversation"]
+    },
+    {
+      "word": "Scant",
+      "sentence_en": "The researchers paid scant attention to the minor details during the first trial.",
+      "sentence_ko": "연구원들은 첫 번째 시험 동안 사소한 세부 사항에는 거의 관심을 기울이지 않았습니다.",
+      "tags": ["study", "business", "career"]
+    },
+    {
+      "word": "Scant",
+      "sentence_en": "There is scant evidence to support the theory that the city was once underwater.",
+      "sentence_ko": "그 도시가 한때 물속에 있었다는 이론을 뒷받침할 증거는 거의 없습니다.",
+      "tags": ["study", "outdoor", "conversation"]
+    },
+    {
+      "word": "Scant",
+      "sentence_en": "We had to complete the huge project with scant resources and a tight deadline.",
+      "sentence_ko": "우리는 부족한 자원과 촉박한 마감 기한 속에서 거대한 프로젝트를 완료해야 했습니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Scant",
+      "sentence_en": "He showed scant regard for his own safety when he jumped into the river.",
+      "sentence_ko": "그는 강으로 뛰어들 때 자신의 안전에 대해서는 거의 신경 쓰지 않았습니다.",
+      "tags": ["outdoor", "journey", "conversation"]
+    },
+    {
+      "word": "Scant",
+      "sentence_en": "The meal provided scant nutrition for the hikers who had been walking all day.",
+      "sentence_ko": "그 식사는 온종일 걸은 하이커들에게 충분한 영양을 제공하지 못했습니다.",
+      "tags": ["outdoor", "journey", "daily_life"]
+    },
+    {
+      "word": "Meager",
+      "sentence_en": "The startup survived on a meager budget during its first year of operation.",
+      "sentence_ko": "그 스타트업은 운영 첫해 동안 아주 빈약한 예산으로 버텼습니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Meager",
+      "sentence_en": "She was disappointed by the meager portion of pasta served at the expensive restaurant.",
+      "sentence_ko": "그녀는 비싼 식당에서 제공된 파스타의 양이 너무 적어서 실망했습니다.",
+      "tags": ["daily_life", "conversation", "journey"]
+    },
+    {
+      "word": "Meager",
+      "sentence_en": "After hours of fishing, we only caught a meager amount of small fish.",
+      "sentence_ko": "몇 시간 동안 낚시를 했지만, 우리는 고작 몇 마리의 작은 물고기만 잡았습니다.",
+      "tags": ["outdoor", "happy", "journey"]
+    },
+    {
+      "word": "Meager",
+      "sentence_en": "The witness could only provide a meager description of the suspect to the police.",
+      "sentence_ko": "목격자는 경찰에게 용의자에 대한 아주 빈약한 설명만 제공할 수 있었습니다.",
+      "tags": ["daily_life", "conversation", "study"]
+    },
+    {
+      "word": "Meager",
+      "sentence_en": "Despite his meager salary, he managed to save enough money for a world trip.",
+      "sentence_ko": "적은 월급에도 불구하고, 그는 세계 여행을 위한 충분한 돈을 모으는 데 성공했습니다.",
+      "tags": ["career", "journey", "happy"]
+    },
+    {
+      "word": "Paltry",
+      "sentence_en": "The company offered a paltry sum as compensation for the long delay.",
+      "sentence_ko": "회사는 긴 지연에 대한 보상으로 쥐꼬리만한 금액을 제안했습니다.",
+      "tags": ["business", "daily_life", "conversation"]
+    },
+    {
+      "word": "Paltry",
+      "sentence_en": "Winning a paltry few dollars on the lottery didn't change his financial situation.",
+      "sentence_ko": "복권으로 몇 달러 안 되는 돈을 딴 것은 그의 재정 상황을 바꾸지 못했습니다.",
+      "tags": ["daily_life", "happy", "conversation"]
+    },
+    {
+      "word": "Paltry",
+      "sentence_en": "The donation was so paltry that it barely covered the cost of the event stamps.",
+      "sentence_ko": "기부금이 너무 쥐꼬리만 해서 행사 우표 비용도 간신히 충당할 정도였습니다.",
+      "tags": ["daily_life", "business", "conversation"]
+    },
+    {
+      "word": "Paltry",
+      "sentence_en": "She dismissed his excuses as paltry attempts to avoid taking responsibility.",
+      "sentence_ko": "그녀는 책임을 피하려는 그의 변명을 하찮은 시도라며 일축했습니다.",
+      "tags": ["conversation", "career", "daily_life"]
+    },
+    {
+      "word": "Paltry",
+      "sentence_en": "The difference in price was paltry, so I decided to buy the higher quality one.",
+      "sentence_ko": "가격 차이가 워낙 미미해서 더 좋은 품질의 제품을 사기로 했습니다.",
+      "tags": ["daily_life", "business", "happy"]
+    },
+    {
+      "word": "Insufficient",
+      "sentence_en": "The lights were insufficient for reading, so I had to turn on a lamp.",
+      "sentence_ko": "조명이 독서하기에 불충분해서 램프를 켜야 했습니다.",
+      "tags": ["daily_life", "study", "family"]
+    },
+    {
+      "word": "Insufficient",
+      "sentence_en": "The bank rejected his loan application because his annual income was insufficient.",
+      "sentence_ko": "은행은 그의 연간 소득이 불충분하다는 이유로 대출 신청을 거절했습니다.",
+      "tags": ["business", "career", "daily_life"]
+    },
+    {
+      "word": "Insufficient",
+      "sentence_en": "There was insufficient evidence to prove the suspect's guilt in the court.",
+      "sentence_ko": "법정에서 피고인의 유죄를 입증하기 위한 증거가 충분하지 않았습니다.",
+      "tags": ["study", "conversation", "business"]
+    },
+    {
+      "word": "Insufficient",
+      "sentence_en": "Providing insufficient feedback to employees can lead to a lack of motivation.",
+      "sentence_ko": "직원들에게 불충분한 피드백을 제공하는 것은 동기 부여 저하로 이어질 수 있습니다.",
+      "tags": ["career", "business", "conversation"]
+    },
+    {
+      "word": "Insufficient",
+      "sentence_en": "The airplane had to land early due to an insufficient fuel supply.",
+      "sentence_ko": "그 비행기는 연료 공급 부족으로 인해 조기 착륙해야 했습니다.",
+      "tags": ["journey", "outdoor", "business"]
+    },
+    {
+      "word": "Inadequate",
+      "sentence_en": "The old bridge was deemed inadequate for the heavy traffic of the modern city.",
+      "sentence_ko": "그 낡은 다리는 현대 도시의 과중한 교통량을 감당하기에 부적절하다고 판단되었습니다.",
+      "tags": ["business", "outdoor", "daily_life"]
+    },
+    {
+      "word": "Inadequate",
+      "sentence_en": "He felt inadequate in his new role as a manager because he lacked experience.",
+      "sentence_ko": "그는 경험 부족으로 인해 관리자라는 새로운 역할이 자신에게 버겁다고 느꼈습니다.",
+      "tags": ["career", "business", "study"]
+    },
+    {
+      "word": "Inadequate",
+      "sentence_en": "The security measures at the airport were criticized for being inadequate.",
+      "sentence_ko": "공항의 보안 조치가 미흡하다는 비판을 받았습니다.",
+      "tags": ["journey", "business", "conversation"]
+    },
+    {
+      "word": "Inadequate",
+      "sentence_en": "Spending only ten minutes on your homework is inadequate for a deep understanding.",
+      "sentence_ko": "숙제에 겨우 10분을 쓰는 것은 깊은 이해를 돕기에 부족합니다.",
+      "tags": ["study", "daily_life", "career"]
+    },
+    {
+      "word": "Inadequate",
+      "sentence_en": "The heating system was inadequate to keep the house warm during the blizzard.",
+      "sentence_ko": "난방 시스템이 눈보라 속에서 집을 따뜻하게 유지하기에는 역부족이었습니다.",
+      "tags": ["weather", "family", "daily_life"]
+    },
+    {
+      "word": "Lacking",
+      "sentence_en": "The movie was visually stunning but unfortunately lacking in a coherent plot.",
+      "sentence_ko": "그 영화는 영상미는 뛰어났지만 아쉽게도 일관성 있는 줄거리가 부족했습니다.",
+      "tags": ["daily_life", "happy", "conversation"]
+    },
+    {
+      "word": "Lacking",
+      "sentence_en": "His explanation was lacking some crucial details about the accident.",
+      "sentence_ko": "그의 설명에는 사고에 관한 몇 가지 중요한 세부 사항이 빠져 있었습니다.",
+      "tags": ["conversation", "daily_life", "business"]
+    },
+    {
+      "word": "Lacking",
+      "sentence_en": "Many students are lacking the basic skills needed for advanced mathematics.",
+      "sentence_ko": "많은 학생이 심화 수학에 필요한 기초 능력이 부족한 상태입니다.",
+      "tags": ["study", "career", "conversation"]
+    },
+    {
+      "word": "Lacking",
+      "sentence_en": "The garden is beautiful, but it is lacking a bit of shade for the summer.",
+      "sentence_ko": "정원은 아름답지만, 여름을 위한 그늘이 조금 부족합니다.",
+      "tags": ["outdoor", "family", "weather"]
+    },
+    {
+      "word": "Lacking",
+      "sentence_en": "I felt that the team was lacking the spirit needed to win the final game.",
+      "sentence_ko": "나는 우리 팀이 결승전에서 이기기 위해 필요한 투지가 부족하다고 느꼈습니다.",
+      "tags": ["happy", "career", "outdoor"]
+    },
+    {
+      "word": "Wanting",
+      "sentence_en": "The quality of the service at the hotel was found wanting by many guests.",
+      "sentence_ko": "많은 투숙객이 그 호텔의 서비스 품질이 기대에 못 미친다고 생각했습니다.",
+      "tags": ["journey", "business", "conversation"]
+    },
+    {
+      "word": "Wanting",
+      "sentence_en": "If your preparation is wanting, you will likely struggle during the examination.",
+      "sentence_ko": "준비가 부족하면 시험 기간 동안 고전할 가능성이 큽니다.",
+      "tags": ["study", "career", "daily_life"]
+    },
+    {
+      "word": "Wanting",
+      "sentence_en": "The latest model of the smartphone was wanting in terms of battery life.",
+      "sentence_ko": "최신 스마트폰 모델은 배터리 수명 면에서 아쉬움이 남았습니다.",
+      "tags": ["daily_life", "conversation", "business"]
+    },
+    {
+      "word": "Wanting",
+      "sentence_en": "His performance was not bad, but it was still wanting compared to his rival.",
+      "sentence_ko": "그의 성과가 나쁘지는 않았지만, 경쟁자에 비하면 여전히 부족했습니다.",
+      "tags": ["career", "study", "conversation"]
+    },
+    {
+      "word": "Wanting",
+      "sentence_en": "The investigation was wanting in thoroughness, leading to many unanswered questions.",
+      "sentence_ko": "조사가 철저하지 못해 풀리지 않는 많은 의문점을 남겼습니다.",
+      "tags": ["business", "study", "conversation"]
+    },
+    {
+      "word": "Deficient",
+      "sentence_en": "The blood test showed that he was deficient in several essential vitamins.",
+      "sentence_ko": "혈액 검사 결과 그는 몇 가지 필수 비타민이 결핍된 것으로 나타났습니다.",
+      "tags": ["daily_life", "family", "conversation"]
+    },
+    {
+      "word": "Deficient",
+      "sentence_en": "The construction was found to be deficient in safety standards after the inspection.",
+      "sentence_ko": "점검 후 그 건축물은 안전 기준이 미달인 것으로 밝혀졌습니다.",
+      "tags": ["business", "outdoor", "career"]
+    },
+    {
+      "word": "Deficient",
+      "sentence_en": "A diet deficient in fiber can lead to various digestive health problems.",
+      "sentence_ko": "섬유질이 부족한 식단은 다양한 소화기 건강 문제를 일으킬 수 있습니다.",
+      "tags": ["daily_life", "family", "study"]
+    },
+    {
+      "word": "Deficient",
+      "sentence_en": "Her understanding of the complex software was still deficient despite the training.",
+      "sentence_ko": "교육을 받았음에도 불구하고 그녀의 복잡한 소프트웨어에 대한 이해는 여전히 부족했습니다.",
+      "tags": ["career", "study", "business"]
+    },
+    {
+      "word": "Deficient",
+      "sentence_en": "The school was criticized for being deficient in modern educational equipment.",
+      "sentence_ko": "그 학교는 현대적인 교육 장비가 부족하다는 비판을 받았습니다.",
+      "tags": ["study", "business", "daily_life"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "I am a little short on cash today, so can you lend me some for lunch?",
+      "sentence_ko": "오늘 현금이 좀 모자라는데, 점심값 좀 빌려줄 수 있니?",
+      "tags": ["daily_life", "conversation", "happy"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "We are currently short of staff, so please expect some delays in service.",
+      "sentence_ko": "현재 인력이 부족하여 서비스가 다소 지연될 수 있으니 양해 바랍니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "The athlete fell short of the world record by only a few centimeters.",
+      "sentence_ko": "그 선수는 불과 몇 센티미터 차이로 세계 기록에 미치지 못했습니다.",
+      "tags": ["outdoor", "happy", "career"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "I had to stop at the gas station because the car was running short on fuel.",
+      "sentence_ko": "차에 연료가 떨어져 가서 주유소에 들러야 했습니다.",
+      "tags": ["journey", "daily_life", "outdoor"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "My memory is a bit short lately, so I started writing everything down.",
+      "sentence_ko": "요즘 기억력이 좀 안 좋아져서 모든 걸 적기 시작했습니다.",
+      "tags": ["daily_life", "study", "conversation"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "We are on a tight schedule today, so we need to start the meeting on time.",
+      "sentence_ko": "오늘 일정이 빡빡하니 회의를 정시에 시작해야 합니다.",
+      "tags": ["business", "career", "daily_life"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Living on a tight budget taught me how to save money on groceries.",
+      "sentence_ko": "빠듯한 예산으로 생활하면서 식비를 아끼는 법을 배웠습니다.",
+      "tags": ["daily_life", "family", "study"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Security was tight at the concert to ensure the safety of all performers.",
+      "sentence_ko": "모든 출연진의 안전을 위해 콘서트장의 보안이 삼엄했습니다.",
+      "tags": ["happy", "outdoor", "business"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "I managed to finish the report, but the deadline was extremely tight.",
+      "sentence_ko": "보고서를 간신히 끝냈지만, 마감 기한이 정말 촉박했습니다.",
+      "tags": ["career", "business", "study"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "The space in the small airplane cabin was very tight and uncomfortable.",
+      "sentence_ko": "작은 비행기 객실 공간이 너무 좁고 불편했습니다.",
+      "tags": ["journey", "daily_life", "conversation"]
+    },
+    {
+      "word": "Limited",
+      "sentence_en": "This special offer is available for a limited time only, so act fast.",
+      "sentence_ko": "이 특별 혜택은 한정된 기간 동안만 제공되니 서두르세요.",
+      "tags": ["business", "daily_life", "happy"]
+    },
+    {
+      "word": "Limited",
+      "sentence_en": "My knowledge of classical music is quite limited, but I enjoy listening to it.",
+      "sentence_ko": "고전 음악에 대한 지식은 제한적이지만, 듣는 것은 즐깁니다.",
+      "tags": ["daily_life", "happy", "conversation"]
+    },
+    {
+      "word": "Limited",
+      "sentence_en": "The hotel has limited parking spaces, so guests are encouraged to use public transport.",
+      "sentence_ko": "호텔 주차 공간이 협소하므로 대중교통 이용을 권장합니다.",
+      "tags": ["journey", "business", "outdoor"]
+    },
+    {
+      "word": "Limited",
+      "sentence_en": "Success in this career is often limited by a lack of networking opportunities.",
+      "sentence_ko": "이 직종에서의 성공은 종종 인맥 형성 기회의 부족으로 제한되기도 합니다.",
+      "tags": ["career", "business", "study"]
+    },
+    {
+      "word": "Limited",
+      "sentence_en": "The doctor told me to stick to a limited diet for the next two weeks.",
+      "sentence_ko": "의사는 앞으로 2주 동안 제한된 식단을 유지하라고 말했습니다.",
+      "tags": ["daily_life", "family", "conversation"]
+    },
+    {
+      "word": "Empty",
+      "sentence_en": "The streets were completely empty late at night during the cold winter.",
+      "sentence_ko": "추운 겨울 늦은 밤, 거리는 완전히 비어 있었습니다.",
+      "tags": ["weather", "outdoor", "journey"]
+    },
+    {
+      "word": "Empty",
+      "sentence_en": "I felt an empty stomach after hiking for four hours without any snacks.",
+      "sentence_ko": "간식 없이 4시간 동안 하이킹을 했더니 배가 텅 빈 느낌이었습니다.",
+      "tags": ["outdoor", "journey", "daily_life"]
+    },
+    {
+      "word": "Empty",
+      "sentence_en": "The old house has been empty for years, and now it looks quite spooky.",
+      "sentence_ko": "그 낡은 집은 수년째 비어 있어서 이제는 꽤 으스스해 보입니다.",
+      "tags": ["outdoor", "daily_life", "journey"]
+    },
+    {
+      "word": "Empty",
+      "sentence_en": "He made many empty promises, but he never actually did anything to help.",
+      "sentence_ko": "그는 빈말만 늘어놓았을 뿐, 실제로 도와주기 위해 아무것도 하지 않았습니다.",
+      "tags": ["conversation", "career", "business"]
+    },
+    {
+      "word": "Empty",
+      "sentence_en": "Please put the empty bottles in the recycling bin near the kitchen entrance.",
+      "sentence_ko": "빈 병은 주방 입구 근처에 있는 재활용 함에 넣어 주세요.",
+      "tags": ["daily_life", "family", "outdoor"]
+    },
+    {
+      "word": "Vacant",
+      "sentence_en": "The position of sales manager has been vacant since Mr. Kim retired last month.",
+      "sentence_ko": "지난달 김 부장님이 퇴직하신 이후 영업 매니저 자리가 비어 있습니다.",
+      "tags": ["career", "business", "conversation"]
+    },
+    {
+      "word": "Vacant",
+      "sentence_en": "We spent hours looking for a vacant parking spot in the crowded downtown.",
+      "sentence_ko": "우리는 붐비는 시내에서 빈 주차 공간을 찾느라 몇 시간을 보냈습니다.",
+      "tags": ["journey", "daily_life", "outdoor"]
+    },
+    {
+      "word": "Vacant",
+      "sentence_en": "He stared at me with a vacant expression, as if he didn't hear a word.",
+      "sentence_ko": "그는 내 말을 한마디도 못 들은 것처럼 멍한 표정으로 나를 쳐다보았습니다.",
+      "tags": ["conversation", "daily_life", "study"]
+    },
+    {
+      "word": "Vacant",
+      "sentence_en": "There are several vacant apartments in this building if you are looking to move.",
+      "sentence_ko": "이사를 생각 중이시라면 이 건물에 비어 있는 아파트가 몇 채 있습니다.",
+      "tags": ["daily_life", "business", "family"]
+    },
+    {
+      "word": "Vacant",
+      "sentence_en": "The lot next to our house is vacant, so the kids often play soccer there.",
+      "sentence_ko": "우리 집 옆 부지가 비어 있어서 아이들이 거기서 자주 축구를 합니다.",
+      "tags": ["family", "outdoor", "happy"]
+    },
+    {
+      "word": "Void",
+      "sentence_en": "The contract was declared null and void because it was signed under pressure.",
+      "sentence_ko": "강압적으로 서명되었기 때문에 그 계약은 무효로 선언되었습니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Void",
+      "sentence_en": "After her best friend moved away, she felt a painful void in her life.",
+      "sentence_ko": "절친한 친구가 떠난 후, 그녀는 삶에서 고통스러운 공허함을 느꼈습니다.",
+      "tags": ["family", "conversation", "happy"]
+    },
+    {
+      "word": "Void",
+      "sentence_en": "The astronauts looked out into the vast, dark void of outer space.",
+      "sentence_ko": "우주비행사들은 광활하고 어두운 우주의 공간을 내다보았습니다.",
+      "tags": ["outdoor", "journey", "study"]
+    },
+    {
+      "word": "Void",
+      "sentence_en": "The judge ruled that the previous agreement was void and of no effect.",
+      "sentence_ko": "판사는 이전 합의가 무효이며 아무런 효력이 없다고 판결했습니다.",
+      "tags": ["business", "study", "conversation"]
+    },
+    {
+      "word": "Void",
+      "sentence_en": "The box was void of any contents, which was a huge disappointment to me.",
+      "sentence_ko": "상자 안이 텅 비어 있어서 저에게는 큰 실망이었습니다.",
+      "tags": ["daily_life", "conversation", "journey"]
+    },
+    {
+      "word": "Barren",
+      "sentence_en": "The landscape was barren and rocky, with no signs of life for miles.",
+      "sentence_ko": "풍경은 황량하고 바위투성이였으며, 수 마일 동안 생명의 흔적이라곤 없었습니다.",
+      "tags": ["outdoor", "journey", "weather"]
+    },
+    {
+      "word": "Barren",
+      "sentence_en": "After the long drought, the once fertile fields became barren and dry.",
+      "sentence_ko": "긴 가뭄 끝에 한때 비옥했던 들판은 황폐하고 메마르게 변했습니다.",
+      "tags": ["weather", "outdoor", "daily_life"]
+    },
+    {
+      "word": "Barren",
+      "sentence_en": "The meeting was long but barren of any useful ideas or practical solutions.",
+      "sentence_ko": "회의는 길었지만 유용한 아이디어나 실질적인 해결책은 전혀 없었습니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Barren",
+      "sentence_en": "He lived a barren life focused only on work, with no hobbies or friends.",
+      "sentence_ko": "그는 취미나 친구도 없이 오직 일에만 집중하는 삭막한 삶을 살았습니다.",
+      "tags": ["career", "daily_life", "conversation"]
+    },
+    {
+      "word": "Barren",
+      "sentence_en": "The explorer struggled to find water in the barren arctic wilderness.",
+      "sentence_ko": "탐험가는 황량한 북극의 황무지에서 물을 찾기 위해 고군분투했습니다.",
+      "tags": ["journey", "outdoor", "weather"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The charity provides food and shelter for the destitute people in the city.",
+      "sentence_ko": "그 자선 단체는 도시의 극빈층에게 음식과 숙소를 제공합니다.",
+      "tags": ["daily_life", "family", "business"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The flood left thousands of families destitute and without a place to live.",
+      "sentence_ko": "홍수로 인해 수천 가구가 전재산을 잃고 살 곳도 없는 처지가 되었습니다.",
+      "tags": ["weather", "family", "outdoor"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "He died destitute, despite having earned a fortune during his younger years.",
+      "sentence_ko": "그는 젊은 시절 큰 돈을 벌었음에도 불구하고 빈털터리로 생을 마감했습니다.",
+      "tags": ["career", "family", "daily_life"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The war-torn region is destitute of basic medical supplies and clean water.",
+      "sentence_ko": "전쟁으로 폐허가 된 그 지역은 기초 의약품과 깨끗한 물이 전혀 없는 상태입니다.",
+      "tags": ["outdoor", "journey", "business"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "Growing up destitute taught her the value of hard work and perseverance.",
+      "sentence_ko": "극심한 가난 속에서 자라면서 그녀는 노력과 인내의 가치를 배웠습니다.",
+      "tags": ["family", "study", "career"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "The government launched a new program to help impoverished rural communities.",
+      "sentence_ko": "정부는 빈곤한 농촌 지역사회를 돕기 위한 새로운 프로그램을 시작했습니다.",
+      "tags": ["business", "outdoor", "daily_life"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "Over-farming has lead to impoverished soil that can no longer support crops.",
+      "sentence_ko": "과도한 경작으로 토양이 척박해져서 더 이상 작물을 재배할 수 없게 되었습니다.",
+      "tags": ["outdoor", "weather", "study"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "The artist lived an impoverished life in a small attic while creating masterpieces.",
+      "sentence_ko": "그 화가는 걸작을 그리는 동안 작은 다락방에서 가난한 생활을 했습니다.",
+      "tags": ["happy", "career", "daily_life"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "The city’s cultural life has become impoverished due to the lack of funding.",
+      "sentence_ko": "자금 부족으로 인해 도시의 문화 생활이 빈약해졌습니다.",
+      "tags": ["business", "happy", "conversation"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "They grew up in an impoverished neighborhood but managed to attend top universities.",
+      "sentence_ko": "그들은 가난한 동네에서 자랐지만 일류 대학에 진학하는 데 성공했습니다.",
+      "tags": ["family", "study", "career"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "The poor visibility during the snowstorm made it very dangerous to drive.",
+      "sentence_ko": "눈보라 속에서 시야가 확보되지 않아 운전하기 매우 위험했습니다.",
+      "tags": ["weather", "journey", "outdoor"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "I had a poor night's sleep because of the loud noise from the street.",
+      "sentence_ko": "거리의 시끄러운 소음 때문에 밤에 잠을 설쳤습니다.",
+      "tags": ["daily_life", "family", "conversation"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "The team lost the game because of their poor communication on the field.",
+      "sentence_ko": "그 팀은 경기장에서의 의사소통 미흡으로 인해 경기에서 졌습니다.",
+      "tags": ["outdoor", "career", "conversation"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "The soil quality in this garden is too poor for growing delicate flowers.",
+      "sentence_ko": "이 정원의 토질은 섬세한 꽃을 기르기에는 너무 좋지 않습니다.",
+      "tags": ["outdoor", "daily_life", "family"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "He gave a poor excuse for being late to the important business meeting.",
+      "sentence_ko": "그는 중요한 비즈니스 미팅에 늦은 것에 대해 형편없는 변명을 늘어놓았습니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "Many children in war zones are deprived of a proper education and safety.",
+      "sentence_ko": "교전 지역의 많은 아이들이 적절한 교육과 안전을 누리지 못하고 있습니다.",
+      "tags": ["family", "study", "business"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "I feel sleep-deprived after staying up all night to finish my final project.",
+      "sentence_ko": "기말 프로젝트를 끝내느라 밤을 샜더니 잠이 너무 부족한 느낌이에요.",
+      "tags": ["study", "career", "daily_life"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "The plants were deprived of sunlight for several days, causing them to wilt.",
+      "sentence_ko": "식물들이 며칠 동안 햇빛을 받지 못해 시들기 시작했습니다.",
+      "tags": ["outdoor", "weather", "daily_life"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "Working long hours deprived him of the chance to spend time with his kids.",
+      "sentence_ko": "장시간 노동은 그에게서 아이들과 시간을 보낼 기회를 빼앗아 갔습니다.",
+      "tags": ["career", "family", "daily_life"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "The new law was criticized for leaving the most vulnerable people deprived of help.",
+      "sentence_ko": "그 새로운 법은 가장 취약한 사람들을 도움의 손길로부터 소외시킨다는 비판을 받았습니다.",
+      "tags": ["business", "conversation", "study"]
+    },
+    {
+      "word": "Dearth",
+      "sentence_en": "There is a dearth of reliable information about the company's new policy.",
+      "sentence_ko": "회사의 새로운 정책에 대한 신뢰할 만한 정보가 턱없이 부족합니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Dearth",
+      "sentence_en": "The local museum suffers from a dearth of funding for its new exhibitions.",
+      "sentence_ko": "그 지역 박물관은 새로운 전시회를 위한 자금 부족으로 어려움을 겪고 있습니다.",
+      "tags": ["business", "happy", "journey"]
+    },
+    {
+      "word": "Dearth",
+      "sentence_en": "Despite the high demand, there is a dearth of affordable housing in the city.",
+      "sentence_ko": "높은 수요에도 불구하고, 도시에는 저렴한 주택이 매우 부족한 상태입니다.",
+      "tags": ["business", "daily_life", "family"]
+    },
+    {
+      "word": "Dearth",
+      "sentence_en": "The coach complained about the dearth of talented young players in the league.",
+      "sentence_ko": "감독은 리그 내에 재능 있는 어린 선수들이 부족한 점을 토로했습니다.",
+      "tags": ["outdoor", "career", "conversation"]
+    },
+    {
+      "word": "Dearth",
+      "sentence_en": "The conversation was awkward because of the dearth of common interests between us.",
+      "sentence_ko": "우리 사이에 공통된 관심사가 부족해서 대화가 어색했습니다.",
+      "tags": ["conversation", "daily_life", "happy"]
+    },
+    {
+      "word": "Famine",
+      "sentence_en": "The severe drought led to a widespread famine across the entire region.",
+      "sentence_ko": "심각한 가뭄으로 인해 지역 전체에 광범위한 기근이 발생했습니다.",
+      "tags": ["weather", "outdoor", "business"]
+    },
+    {
+      "word": "Famine",
+      "sentence_en": "International aid was sent to the country to help the victims of the famine.",
+      "sentence_ko": "기근 피해자들을 돕기 위해 그 나라로 국제 구호 물자가 보내졌습니다.",
+      "tags": ["business", "journey", "conversation"]
+    },
+    {
+      "word": "Famine",
+      "sentence_en": "History books tell of the great potato famine that caused many people to migrate.",
+      "sentence_ko": "역사책은 많은 사람의 이주를 불러온 거대한 감자 기근에 대해 이야기합니다.",
+      "tags": ["study", "journey", "family"]
+    },
+    {
+      "word": "Famine",
+      "sentence_en": "Farmers are worried that the pest infestation might cause a local food famine.",
+      "sentence_ko": "농부들은 해충 피해가 지역적인 식량 기근을 일으킬까 봐 걱정하고 있습니다.",
+      "tags": ["outdoor", "weather", "business"]
+    },
+    {
+      "word": "Famine",
+      "sentence_en": "The movie realistically depicted the struggles of a family during a time of famine.",
+      "sentence_ko": "그 영화는 기근의 시기에 한 가족이 겪는 고난을 사실적으로 묘사했습니다.",
+      "tags": ["family", "study", "conversation"]
+    },
+    {
+      "word": "Drought",
+      "sentence_en": "The city had to implement water restrictions because of the prolonged drought.",
+      "sentence_ko": "지속되는 가뭄 때문에 시는 물 사용 제한 조치를 시행해야 했습니다.",
+      "tags": ["weather", "outdoor", "daily_life"]
+    },
+    {
+      "word": "Drought",
+      "sentence_en": "Last year's drought caused a significant decrease in the harvest of corn and wheat.",
+      "sentence_ko": "지난해의 가뭄으로 인해 옥수수와 밀의 수확량이 크게 감소했습니다.",
+      "tags": ["weather", "outdoor", "business"]
+    },
+    {
+      "word": "Drought",
+      "sentence_en": "Hikers were warned about the risk of forest fires during the severe drought.",
+      "sentence_ko": "하이커들은 심각한 가뭄 기간 동안 산불 위험에 대해 주의를 받았습니다.",
+      "tags": ["outdoor", "journey", "weather"]
+    },
+    {
+      "word": "Drought",
+      "sentence_en": "The team finally ended their scoring drought by winning the game 3-0.",
+      "sentence_ko": "그 팀은 경기에서 3대 0으로 이기며 마침내 득점 가뭄을 끝냈습니다.",
+      "tags": ["happy", "outdoor", "conversation"]
+    },
+    {
+      "word": "Drought",
+      "sentence_en": "Environmentalists are studying how to protect wildlife during periods of extreme drought.",
+      "sentence_ko": "환경운동가들은 극심한 가뭄 기간 동안 야생동물을 보호하는 방법을 연구하고 있습니다.",
+      "tags": ["study", "outdoor", "weather"]
+    },
+    {
+      "word": "Deficit",
+      "sentence_en": "The company needs to increase its sales to reduce the growing budget deficit.",
+      "sentence_ko": "그 회사는 늘어나는 예산 적자를 줄이기 위해 매출을 올려야 합니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Deficit",
+      "sentence_en": "Many children with attention deficit disorder find it hard to focus in a noisy room.",
+      "sentence_ko": "주의력 결핍 장애가 있는 많은 아이들은 시끄러운 방에서 집중하는 것을 힘들어합니다.",
+      "tags": ["study", "family", "daily_life"]
+    },
+    {
+      "word": "Deficit",
+      "sentence_en": "The national trade deficit has widened due to the increase in imported luxury goods.",
+      "sentence_ko": "수입 명품의 증가로 인해 국가 무역 적자가 확대되었습니다.",
+      "tags": ["business", "study", "conversation"]
+    },
+    {
+      "word": "Deficit",
+      "sentence_en": "The team managed to win the match despite a two-goal deficit in the first half.",
+      "sentence_ko": "그 팀은 전반전의 두 골 차 열세에도 불구하고 경기에서 승리했습니다.",
+      "tags": ["happy", "outdoor", "career"]
+    },
+    {
+      "word": "Deficit",
+      "sentence_en": "A deficit of trust between the two partners eventually led to the end of their business.",
+      "sentence_ko": "두 파트너 사이의 신뢰 부족이 결국 사업 종료로 이어졌습니다.",
+      "tags": ["business", "career", "conversation"]
+    },
+    {
+      "word": "Shortage",
+      "sentence_en": "The sudden increase in demand caused a temporary shortage of masks at the pharmacy.",
+      "sentence_ko": "수요의 갑작스러운 증가로 약국에 마스크가 일시적으로 품절되었습니다.",
+      "tags": ["daily_life", "business", "conversation"]
+    },
+    {
+      "word": "Shortage",
+      "sentence_en": "The country is facing a severe shortage of skilled nurses and healthcare workers.",
+      "sentence_ko": "그 나라는 숙련된 간호사와 보건 인력의 심각한 부족 사태에 직면해 있습니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Shortage",
+      "sentence_en": "There was a shortage of seats on the train, so I had to stand for two hours.",
+      "sentence_ko": "기차에 좌석이 모자라서 두 시간 동안 서서 가야 했습니다.",
+      "tags": ["journey", "daily_life", "conversation"]
+    },
+    {
+      "word": "Shortage",
+      "sentence_en": "The company is trying to solve the housing shortage by building new apartments nearby.",
+      "sentence_ko": "회사는 인근에 새 아파트를 지어 주택 부족 문제를 해결하려 노력하고 있습니다.",
+      "tags": ["business", "family", "daily_life"]
+    },
+    {
+      "word": "Shortage",
+      "sentence_en": "A shortage of rainfall during the spring affected the growth of the young crops.",
+      "sentence_ko": "봄철 강수량 부족이 어린 작물의 성장에 영향을 미쳤습니다.",
+      "tags": ["weather", "outdoor", "business"]
+    },
+    {
+      "word": "Scarcity",
+      "sentence_en": "The scarcity of diamonds is what makes them so valuable and expensive.",
+      "sentence_ko": "다이아몬드의 희소성이 그것들을 가치 있고 비싸게 만드는 요인입니다.",
+      "tags": ["business", "daily_life", "study"]
+    },
+    {
+      "word": "Scarcity",
+      "sentence_en": "We must find a solution to the scarcity of clean water in developing nations.",
+      "sentence_ko": "우리는 개발도상국의 깨끗한 물 부족 문제에 대한 해결책을 찾아야 합니다.",
+      "tags": ["business", "journey", "study"]
+    },
+    {
+      "word": "Scarcity",
+      "sentence_en": "The scarcity of job opportunities in small towns often forces young people to move to cities.",
+      "sentence_ko": "작은 마을의 취업 기회 부족은 종종 젊은이들이 도시로 이주하게 만듭니다.",
+      "tags": ["career", "family", "business"]
+    },
+    {
+      "word": "Scarcity",
+      "sentence_en": "Due to the scarcity of time, we could only visit one museum during our trip.",
+      "sentence_ko": "시간이 촉박해서 여행 동안 박물관 한 곳만 방문할 수 있었습니다.",
+      "tags": ["journey", "happy", "daily_life"]
+    },
+    {
+      "word": "Scarcity",
+      "sentence_en": "There is a scarcity of evidence to support his claims about the new project.",
+      "sentence_ko": "새 프로젝트에 대한 그의 주장을 뒷받침할 증거가 부족합니다.",
+      "tags": ["business", "career", "study"]
+    },
+    {
+      "word": "Need",
+      "sentence_en": "The family was in great need of help after losing their home in the fire.",
+      "sentence_ko": "화재로 집을 잃은 후 그 가족은 도움의 손길이 절실히 필요했습니다.",
+      "tags": ["family", "daily_life", "conversation"]
+    },
+    {
+      "word": "Need",
+      "sentence_en": "There is no need to worry about the exam if you have studied hard.",
+      "sentence_ko": "열심히 공부했다면 시험에 대해 걱정할 필요가 없습니다.",
+      "tags": ["study", "happy", "conversation"]
+    },
+    {
+      "word": "Need",
+      "sentence_en": "The charity's mission is to provide support for people living in extreme need.",
+      "sentence_ko": "그 자선 단체의 임무는 극심한 빈곤 속에 사는 사람들을 지원하는 것입니다.",
+      "tags": ["business", "daily_life", "outdoor"]
+    },
+    {
+      "word": "Need",
+      "sentence_en": "I am in need of a new laptop for my university assignments this semester.",
+      "sentence_ko": "이번 학기 대학 과제를 위해 새 노트북이 필요합니다.",
+      "tags": ["study", "career", "daily_life"]
+    },
+    {
+      "word": "Need",
+      "sentence_en": "He felt a sudden need to go outside and get some fresh air after the meeting.",
+      "sentence_ko": "회의가 끝난 후 그는 갑자기 밖에 나가서 신선한 공기를 마시고 싶다는 생각이 들었습니다.",
+      "tags": ["outdoor", "daily_life", "career"]
+    },
+    {
+      "word": "Minimal",
+      "sentence_en": "The damage to the car was minimal, so it was quickly and easily repaired.",
+      "sentence_ko": "차량 손상이 경미해서 빠르고 쉽게 수리되었습니다.",
+      "tags": ["daily_life", "journey", "business"]
+    },
+    {
+      "word": "Minimal",
+      "sentence_en": "She prefers a minimal makeup look for her daily office routine.",
+      "sentence_ko": "그녀는 평소 출근할 때 연한 화장을 선호합니다.",
+      "tags": ["daily_life", "career", "happy"]
+    },
+    {
+      "word": "Minimal",
+      "sentence_en": "The hotel room was decorated in a minimal style with very few colors.",
+      "sentence_ko": "그 호텔 방은 색상을 거의 사용하지 않은 미니멀한 스타일로 꾸며져 있었습니다.",
+      "tags": ["journey", "happy", "daily_life"]
+    },
+    {
+      "word": "Minimal",
+      "sentence_en": "We tried to keep the noise to a minimal level so as not to wake the baby.",
+      "sentence_ko": "우리는 아기를 깨우지 않기 위해 소음을 최소한으로 유지하려 노력했습니다.",
+      "tags": ["family", "daily_life", "happy"]
+    },
+    {
+      "word": "Minimal",
+      "sentence_en": "The new law will have a minimal impact on the average person's daily life.",
+      "sentence_ko": "새로운 법이 일반인의 일상생활에 미치는 영향은 아주 적을 것입니다.",
+      "tags": ["business", "study", "conversation"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# AI 단어 컨텐츠 관리 시스템 의존성
+supabase>=2.0.0
+python-dotenv>=1.0.0
+anthropic>=0.40.0
+
+# 테스트 의존성
+pytest>=8.0.0

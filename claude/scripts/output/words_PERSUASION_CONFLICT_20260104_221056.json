@@ -1,0 +1,254 @@
+[
+  {
+    "card_id": "880ac916-2094-4c6e-994a-deb47b100d2e",
+    "word": "Persuasive",
+    "meaning": "설득력 있는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "f5c0b316-c04e-4001-a3da-a137e3d2a73e",
+    "word": "Convincing",
+    "meaning": "납득이 가는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "2ad51eda-ffc3-411c-ad5f-5d815eb89d75",
+    "word": "Compelling",
+    "meaning": "강력한, 마음을 끄는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "1c5374e9-7c36-4423-a3a1-28319069f58e",
+    "word": "Coercive",
+    "meaning": "강압적인 (라)arcere가두다",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "814bf26d-b43c-4e3c-b9a1-e73d6de44b47",
+    "word": "coercion",
+    "meaning": "상자,숨기다",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "56345925-576c-4e92-b9b7-ed9cb6a3177e",
+    "word": "arcane",
+    "meaning": "비밀의, 신비 (esoteric)",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "f2a6a14a-316c-4d44-9498-3844823a604b",
+    "word": "Accusatory",
+    "meaning": "비난하는 듯한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "5d66e1e0-2c8d-480e-8de1-2b8603fca888",
+    "word": "Flattering",
+    "meaning": "아첨하는, 비위를 맞추는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "bfebe675-7c1e-49ad-a747-c95cc3f30b65",
+    "word": "Defiant",
+    "meaning": "반항적인, 도전적인",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "1c5cd5db-f90a-4db5-91a3-b277126060bd",
+    "word": "Contentious",
+    "meaning": "논쟁을 불러일으키는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "2f82a348-ac03-44d5-a95b-d54170e207e3",
+    "word": "contend",
+    "meaning": "경멸하다",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "36869451-54e6-4e4c-93dc-100c9c504559",
+    "word": "Blunt",
+    "meaning": "직설적인",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "9a182e69-5d36-4ebe-b10b-167c6507d684",
+    "word": "Conciliatory",
+    "meaning": "달래는, 회유하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "533f89a5-2d1a-4a19-ae16-3c3deef4f727",
+    "word": "concil",
+    "meaning": "모임",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "94c78ea2-48dc-4fc9-b725-03b6f4a0e1f1",
+    "word": "council",
+    "meaning": "지방 의회",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "d47fe7c6-1fd3-4930-9834-59e4fe2f6840",
+    "word": "Sycophantic",
+    "meaning": "아부하는 (비굴함) 그_밀고자",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "ff2471c8-ffa3-4c42-b55e-806f3cb2b3b9",
+    "word": "Complimentary",
+    "meaning": "칭찬하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "60c5b308-c0ca-4ba8-93f5-fb20f6628883",
+    "word": "complement",
+    "meaning": "보충하다. 보충물",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "1d774029-cff9-4f8a-a265-b8fd93dd4d7b",
+    "word": "Manipulative",
+    "meaning": "조종하는, 교활한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "43f1aaf2-34ca-432d-babe-4a926cc74828",
+    "word": "Influential",
+    "meaning": "영향력 있는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "eaec7c4b-9eaa-45a1-8928-45f5068080b7",
+    "word": "Critical",
+    "meaning": "비판적인",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "11f16482-b634-46c5-adce-bb61e723a508",
+    "word": "Judgmental",
+    "meaning": "남을 섣불리 판단하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "2336f1e0-4c4f-499c-a1c6-171d5bc348e6",
+    "word": "Apologetic",
+    "meaning": "사과하는, 미안해하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "a51a91ed-34d8-4f34-a7e3-9cc37e68c2c1",
+    "word": "Agreeable",
+    "meaning": "동의하는, 쾌활한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "3f3a59d6-badb-48c7-bec8-613e903f1152",
+    "word": "Disagreeable",
+    "meaning": "까칠한, 불쾌한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "ae95b49f-bcac-4a29-bc96-ea2d1f5b904a",
+    "word": "Argumentative",
+    "meaning": "논쟁을 좋아하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "495cc63e-a78b-4135-b6d3-8f3e99837ab6",
+    "word": "Diplomatic",
+    "meaning": "외교적인, 요령 있는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "320dcfae-92fc-4719-9bf7-59bf6fd1a7c2",
+    "word": "Tactful",
+    "meaning": "재치 있는, 눈치 빠른",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "357eb383-7a5f-42c1-9203-1a79bddfc1a0",
+    "word": "Harsh",
+    "meaning": "가혹한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "f05d288b-943e-4c95-b18f-e299fa3a7c9c",
+    "word": "Gentle",
+    "meaning": "온화한",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "184578d1-9649-4ba0-8919-13e98788fdca",
+    "word": "Encouraging",
+    "meaning": "격려하는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "5c37c273-cfd4-4a7f-8ed6-d5f274deafa0",
+    "word": "Discouraging",
+    "meaning": "낙담시키는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "92fc8836-4069-4b10-ad4c-78e3989effd7",
+    "word": "Inspiring",
+    "meaning": "고무적인, 영감을 주는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "b2723429-725b-4627-addc-d2768447722a",
+    "word": "Demotivating",
+    "meaning": "의욕을 떨어뜨리는",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "955d8501-cf32-45d6-9cec-de3573ed383a",
+    "word": "Constructive",
+    "meaning": "건설적인",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  },
+  {
+    "card_id": "7239ee1d-edd8-42d4-9ac2-bbf8bff08e43",
+    "word": "Destructive",
+    "meaning": "파괴적인",
+    "deck_id": "60b25d05-c509-4ca0-a116-c91772c3fb4d",
+    "deck_name": "PERSUASION_CONFLICT"
+  }
+]

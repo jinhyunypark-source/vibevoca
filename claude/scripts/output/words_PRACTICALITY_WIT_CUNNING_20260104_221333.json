@@ -1,0 +1,226 @@
+[
+  {
+    "card_id": "ad447435-a133-43bc-8d8e-8d078d84d3b5",
+    "word": "Shrewd",
+    "meaning": "상황 판단이 빠른, 예리한 (비즈니스적 감각이 좋은)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "dac4c663-d8d9-4022-b2c1-ef37c22f8700",
+    "word": "Astute",
+    "meaning": "약삭빠른, 빈틈없는 (핵심을 찌르는 판단력)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "ef859532-0ecf-42a0-8099-44cc9622fb6a",
+    "word": "Canny",
+    "meaning": "영리한, 신중한 (특히 돈/정치 문제에서)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "11247e7a-1f5a-42a2-98cf-a1a9ac1b6f14",
+    "word": "Savvy",
+    "meaning": "요령 있는, 정통한 (실전 지식이 있는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "c4313180-43aa-48df-997b-0f4958fed11e",
+    "word": "Droll",
+    "meaning": "익살스러운 (기묘하게 웃긴)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "5292124f-4875-4d6d-904c-76fc0fe54e46",
+    "word": "Devious",
+    "meaning": "기만적인, 정도를 벗어난 (정직하지 못한 방법으로) de(벗어나) via(방향,길)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "d33ab3da-88ca-4498-a5ee-60606e75500c",
+    "word": "Scheming",
+    "meaning": "책략을 꾸미는 (음흉한)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "b1654355-43a2-4f3e-8c82-49a21f248512",
+    "word": "Sly",
+    "meaning": "교활한, 은밀한 (남을 속이는 데 능한)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "8494fc7b-2fd2-4bc2-92cd-eb0918077725",
+    "word": "Street-smart",
+    "meaning": "세상 물정에 밝은 (학교 공부보다 실전 경험)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "f06c9212-eeaf-4840-a0aa-d713f70b81e2",
+    "word": "Sharp",
+    "meaning": "빠릿빠릿한 (눈치가 빠르고 셈이 빠른)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "e270280e-d2b4-409e-9b0a-aae32ab23958",
+    "word": "Keen",
+    "meaning": "예리한, 날카로운 (감각이 살아있는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "fd8c657a-9f82-4f30-91d3-e5c9af050e07",
+    "word": "Witty",
+    "meaning": "재치 있는 (말을 재미있고 지능적으로 하는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "f56e3506-5b05-493f-a1a4-e55cb4e550bd",
+    "word": "Humorous",
+    "meaning": "유머러스한 (재미있는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "a38a6cb7-d1b5-4dbb-8ad7-3d8bb06a5aef",
+    "word": "Cunning",
+    "meaning": "간교한, 교묘한 (목적 달성을 위해 머리를 쓰는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "61d7d33c-d0e2-42a3-849a-42e0590bfc71",
+    "word": "Crafty",
+    "meaning": "술수가 뛰어난 (손재주나 속임수에 능한)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "e9a6ac0f-f2b7-4aec-aff4-776f186fa1b1",
+    "word": "Wily",
+    "meaning": "약삭빠른 (계략을 잘 꾸미는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "2b4bdd65-621a-449f-8ebb-053dcc37fb49",
+    "word": "Artful",
+    "meaning": "기교 부리는, 교묘한 (솜씨 좋게 속이는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "b5d779c5-6dc1-4a27-b5cd-e0bcebd7c342",
+    "word": "Manipulative",
+    "meaning": "조종하는 (사람을 교묘하게 다루는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "3b1ace0d-4818-400b-b0b5-a8a181c2d2b7",
+    "word": "Vigilant",
+    "meaning": "방심하지 않는, 라vigilis (깨어있는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "3f2eb4be-ca08-417b-9b8c-8b63fe301620",
+    "word": "vigil",
+    "meaning": "날밤새다",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "0de39588-ccad-4075-9745-7ae5ce86c7c5",
+    "word": "surveil",
+    "meaning": "감시하다",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "cb46298d-7652-4fff-a258-fda05b3ab05c",
+    "word": "Pragmatic",
+    "meaning": "실리적인  (그)pragma행해진일",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "c0942bfb-dcc4-4fc2-a2a4-d3d112eda725",
+    "word": "Machiavellian",
+    "meaning": "권모술수의 (목적을 위해 수단을 가리지 않는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "db13dd50-7ce1-4fa8-b3af-4c5c4913b925",
+    "word": "Practical",
+    "meaning": "실용적인, 현실적인 (이론보다 실제)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "3c7361a0-8b7e-4b64-8fc4-11478197a59f",
+    "word": "Realistic",
+    "meaning": "현실적인 (꿈꾸지 않고 사실을 보는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "aeed643b-8b83-418c-a81f-2714cb0af624",
+    "word": "Down-to-earth",
+    "meaning": "현실적인, 소탈한 (허황되지 않은)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "2ad7fe37-cd4b-44c5-be58-87fbb07fe37a",
+    "word": "Efficient",
+    "meaning": "효율적인 (낭비 없이 일 처리하는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "7570db34-a4f2-404d-92a5-02465b43502d",
+    "word": "Quick",
+    "meaning": "빠른 (이해나 동작이 빠른)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "4412e778-bf6a-4188-a7a8-194769cc2bab",
+    "word": "Alert",
+    "meaning": "기민한, 경계하는 (정신이 바짝 든)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "99a25871-65c5-4805-b10f-713374f6b122",
+    "word": "Calculated",
+    "meaning": "계산적인 (치밀하게 계획된)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "53bf3e38-19a5-40c0-945c-80eda44c4e6e",
+    "word": "Opportunistic",
+    "meaning": "기회주의적인 (기회를 틈타 이득을 보는)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  },
+  {
+    "card_id": "06d71b40-947a-483d-bc9d-4971d6567a7e",
+    "word": "Fox-like (Foxy)",
+    "meaning": "여우 같은 (교활하고 매력적인)",
+    "deck_id": "4e296a17-9519-4e69-af33-a7eb9e503985",
+    "deck_name": "PRACTICALITY_WIT_CUNNING"
+  }
+]

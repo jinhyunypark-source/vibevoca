@@ -1,0 +1,906 @@
+{
+  "deck_title": "SIGHT",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Ornate",
+      "sentence_en": "The restaurant was decorated with ornate gold mirrors and crystal chandeliers.",
+      "sentence_ko": "그 레스토랑은 화려한 금색 거울과 크리스털 샹들리에로 장식되어 있었습니다.",
+      "tags": ["restaurant", "place", "shopping"]
+    },
+    {
+      "word": "Ornate",
+      "sentence_en": "I found an ornate jewelry box while shopping at the local antique market.",
+      "sentence_ko": "동네 골동품 시장에서 쇼핑하다가 장식이 화려한 보석함을 발견했어요.",
+      "tags": ["shopping", "place", "activity"]
+    },
+    {
+      "word": "Ornate",
+      "sentence_en": "The old cathedral is famous for its ornate carvings and stained glass windows.",
+      "sentence_ko": "그 오래된 성당은 화려한 조각과 스테인드글라스 창문으로 유명합니다.",
+      "tags": ["place", "nature", "study"]
+    },
+    {
+      "word": "Ornate",
+      "sentence_en": "The wedding invitation came in an ornate envelope with a wax seal.",
+      "sentence_ko": "결혼 초대장이 밀봉 왁스가 찍힌 화려한 봉투에 담겨 왔습니다.",
+      "tags": ["planning", "time", "shopping"]
+    },
+    {
+      "word": "Ornate",
+      "sentence_en": "The frame of the painting was too ornate for such a simple modern house.",
+      "sentence_ko": "그림 액자가 너무 화려해서 심플하고 현대적인 집에는 잘 어울리지 않았습니다.",
+      "tags": ["place", "shopping", "planning"]
+    },
+    {
+      "word": "Dapper",
+      "sentence_en": "He looked very dapper in his new navy blue suit at the graduation ceremony.",
+      "sentence_ko": "그는 졸업식에서 새로 맞춘 네이비 수트를 입고 아주 말쑥해 보였습니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Dapper",
+      "sentence_en": "The groom and his best man both looked dapper in their tailored tuxedos.",
+      "sentence_ko": "신랑과 들러리 모두 맞춤 턱시도를 입고 아주 깔끔하고 신사다워 보였습니다.",
+      "tags": ["planning", "activity", "shopping"]
+    },
+    {
+      "word": "Dapper",
+      "sentence_en": "My grandfather always stays dapper, even when he is just going out for a walk.",
+      "sentence_ko": "우리 할아버지는 그냥 산책을 나가실 때조차 항상 말쑥한 차림을 유지하십니다.",
+      "tags": ["nature", "activity", "time"]
+    },
+    {
+      "word": "Dapper",
+      "sentence_en": "The waiter at the high-end restaurant was dapper and extremely professional.",
+      "sentence_ko": "그 고급 레스토랑의 웨이터는 옷차림이 깔끔하고 아주 프로페셔널했습니다.",
+      "tags": ["restaurant", "place", "activity"]
+    },
+    {
+      "word": "Dapper",
+      "sentence_en": "You look quite dapper today with that silk tie and polished shoes.",
+      "sentence_ko": "실크 넥타이에 광이 나는 구두까지 신으니 오늘 정말 멋진데요.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Eclectic",
+      "sentence_en": "The cafe has an eclectic mix of furniture gathered from various flea markets.",
+      "sentence_ko": "그 카페는 여러 벼룩시장에서 모은 가구들이 아주 다양하고 절충적으로 섞여 있습니다.",
+      "tags": ["restaurant", "place", "shopping"]
+    },
+    {
+      "word": "Eclectic",
+      "sentence_en": "Her music taste is quite eclectic, ranging from classical opera to heavy metal.",
+      "sentence_ko": "그녀의 음악 취향은 클래식 오페라부터 헤비메탈까지 아주 폭이 넓고 다양합니다.",
+      "tags": ["internet", "study", "activity"]
+    },
+    {
+      "word": "Eclectic",
+      "sentence_en": "The interior design of the hotel is eclectic, blending modern and traditional styles.",
+      "sentence_ko": "그 호텔의 인테리어는 현대식과 전통 방식이 섞인 절충적인 스타일입니다.",
+      "tags": ["place", "planning", "shopping"]
+    },
+    {
+      "word": "Eclectic",
+      "sentence_en": "Our professor has an eclectic library with books on almost every subject imaginable.",
+      "sentence_ko": "우리 교수님은 상상할 수 있는 거의 모든 분야의 책이 있는 아주 방대한 서재를 갖고 계십니다.",
+      "tags": ["study", "place", "learning"]
+    },
+    {
+      "word": "Eclectic",
+      "sentence_en": "The restaurant's eclectic menu offers dishes from five different continents.",
+      "sentence_ko": "그 레스토랑의 절충적인 메뉴는 5개 대륙의 다양한 요리를 선보입니다.",
+      "tags": ["restaurant", "food", "shopping"]
+    },
+    {
+      "word": "Vibrant",
+      "sentence_en": "The vibrant colors of the autumn leaves attracted many tourists to the park.",
+      "sentence_ko": "단풍의 선명하고 강렬한 색감 덕분에 많은 관광객이 공원으로 몰려들었습니다.",
+      "tags": ["nature", "activity", "place"]
+    },
+    {
+      "word": "Vibrant",
+      "sentence_en": "The new smartphone display features vibrant colors and incredibly high contrast.",
+      "sentence_ko": "새로 나온 스마트폰 디스플레이는 색감이 아주 선명하고 명암비가 놀라울 정도로 높습니다.",
+      "tags": ["smartphone", "internet", "shopping"]
+    },
+    {
+      "word": "Vibrant",
+      "sentence_en": "Hong Kong is a vibrant city that never seems to sleep at night.",
+      "sentence_ko": "홍콩은 밤에도 결코 잠들지 않는 활기 넘치고 역동적인 도시입니다.",
+      "tags": ["place", "activity", "time"]
+    },
+    {
+      "word": "Vibrant",
+      "sentence_en": "She painted her living room walls in a vibrant shade of yellow.",
+      "sentence_ko": "그녀는 거실 벽을 아주 선명한 노란색으로 칠했습니다.",
+      "tags": ["planning", "place", "activity"]
+    },
+    {
+      "word": "Vibrant",
+      "sentence_en": "The local market was vibrant with the sounds and smells of fresh street food.",
+      "sentence_ko": "재래시장은 길거리 음식의 냄새와 소리로 아주 활기가 넘쳤습니다.",
+      "tags": ["restaurant", "place", "activity"]
+    },
+    {
+      "word": "Opaque",
+      "sentence_en": "The bathroom window is made of opaque glass for maximum privacy.",
+      "sentence_ko": "사생활 보호를 위해 욕실 창문은 불투명한 유리로 만들어졌습니다.",
+      "tags": ["place", "planning", "nature"]
+    },
+    {
+      "word": "Opaque",
+      "sentence_en": "The instructions were so opaque that no one in the class understood them.",
+      "sentence_ko": "설명이 너무 불투명하고 모호해서 반 학생 중 누구도 이해하지 못했습니다.",
+      "tags": ["study", "internet", "planning"]
+    },
+    {
+      "word": "Opaque",
+      "sentence_en": "She wore opaque black tights to stay warm during the cold winter morning.",
+      "sentence_ko": "그녀는 추운 겨울 아침에 따뜻하게 지내려고 불투명한 검은색 타이즈를 신었습니다.",
+      "tags": ["shopping", "nature", "time"]
+    },
+    {
+      "word": "Opaque",
+      "sentence_en": "The liquid in the beaker turned opaque after we added the chemical powder.",
+      "sentence_ko": "화학 가루를 넣자 비커 안의 액체가 불투명하게 변했습니다.",
+      "tags": ["study", "nature", "activity"]
+    },
+    {
+      "word": "Opaque",
+      "sentence_en": "Corporate decision-making processes can often be quite opaque to the public.",
+      "sentence_ko": "기업의 의사 결정 과정은 종종 대중이 알기 어렵고 불투명할 때가 있습니다.",
+      "tags": ["internet", "planning", "study"]
+    },
+    {
+      "word": "Translucent",
+      "sentence_en": "The jellyfish looked beautiful as its translucent body drifted through the water.",
+      "sentence_ko": "반투명한 몸으로 물속을 떠다니는 해파리의 모습은 정말 아름다웠습니다.",
+      "tags": ["nature", "place", "activity"]
+    },
+    {
+      "word": "Translucent",
+      "sentence_en": "The chef sliced the radish until it was thin and almost translucent.",
+      "sentence_ko": "요리사는 무가 거의 반투명해질 정도로 얇게 썰었습니다.",
+      "tags": ["restaurant", "activity", "study"]
+    },
+    {
+      "word": "Translucent",
+      "sentence_en": "We used translucent paper to trace the complex map for our geography project.",
+      "sentence_ko": "지리 프로젝트를 위해 반투명한 종이를 사용해 복잡한 지도를 베껴 그렸습니다.",
+      "tags": ["study", "planning", "activity"]
+    },
+    {
+      "word": "Translucent",
+      "sentence_en": "The curtains are translucent, letting in soft sunlight while blocking the view.",
+      "sentence_ko": "커튼이 반투명해서 시야는 차단하면서도 부드러운 햇살은 통과시켜 줍니다.",
+      "tags": ["place", "nature", "planning"]
+    },
+    {
+      "word": "Translucent",
+      "sentence_en": "High-quality porcelain is often translucent when held up to a strong light.",
+      "sentence_ko": "고급 자기는 강한 빛에 비추어 보았을 때 반투명하게 비치는 경우가 많습니다.",
+      "tags": ["shopping", "place", "study"]
+    },
+    {
+      "word": "Streamlined",
+      "sentence_en": "The new sports car features a streamlined design to reduce air resistance.",
+      "sentence_ko": "그 새로운 스포츠카는 공기 저항을 줄이기 위해 유선형 디자인을 채택했습니다.",
+      "tags": ["shopping", "activity", "planning"]
+    },
+    {
+      "word": "Streamlined",
+      "sentence_en": "We need to adopt a more streamlined process to finish the project on time.",
+      "sentence_ko": "프로젝트를 제시간에 끝내려면 더 능률적인 프로세스를 도입해야 합니다.",
+      "tags": ["planning", "study", "time"]
+    },
+    {
+      "word": "Streamlined",
+      "sentence_en": "The latest software update offers a streamlined user interface for easier navigation.",
+      "sentence_ko": "최신 소프트웨어 업데이트는 더 쉬운 사용을 위해 군더더기 없는 사용자 인터페이스를 제공합니다.",
+      "tags": ["internet", "smartphone", "planning"]
+    },
+    {
+      "word": "Streamlined",
+      "sentence_en": "The swimmer wore a specialized suit for a more streamlined shape in the water.",
+      "sentence_ko": "수영 선수는 물속에서 더 날렵한 유선형 몸동작을 위해 특수 수트를 입었습니다.",
+      "tags": ["activity", "nature", "shopping"]
+    },
+    {
+      "word": "Streamlined",
+      "sentence_en": "Modern high-speed trains have a streamlined nose to travel faster and quieter.",
+      "sentence_ko": "현대식 고속열차는 더 빠르고 조용하게 달리기 위해 앞부분이 유선형으로 되어 있습니다.",
+      "tags": ["place", "activity", "planning"]
+    },
+    {
+      "word": "Bohemian (Boho)",
+      "sentence_en": "She decorated her apartment in a bohemian style with colorful rugs and plants.",
+      "sentence_ko": "그녀는 화려한 카펫과 식물들로 자신의 아파트를 보헤미안 스타일로 꾸몄습니다.",
+      "tags": ["place", "planning", "shopping"]
+    },
+    {
+      "word": "Bohemian (Boho)",
+      "sentence_en": "The festival goers were wearing boho-chic outfits with plenty of fringe and lace.",
+      "sentence_ko": "축제 참가자들은 술 장식과 레이스가 가득한 보헤미안 시크 스타일의 옷을 입고 있었습니다.",
+      "tags": ["activity", "shopping", "time"]
+    },
+    {
+      "word": "Bohemian (Boho)",
+      "sentence_en": "The district is known for its bohemian atmosphere, filled with artists and musicians.",
+      "sentence_ko": "그 구역은 예술가와 음악가들이 가득한 자유분방한 분위기로 유명합니다.",
+      "tags": ["place", "activity", "study"]
+    },
+    {
+      "word": "Bohemian (Boho)",
+      "sentence_en": "He leads a bohemian lifestyle, traveling the world with just a backpack.",
+      "sentence_ko": "그는 배낭 하나만 메고 세계를 여행하며 자유분방한 삶을 살고 있습니다.",
+      "tags": ["nature", "activity", "time"]
+    },
+    {
+      "word": "Bohemian (Boho)",
+      "sentence_en": "I love the boho vibes of this little seaside cafe and its handmade pottery.",
+      "sentence_ko": "이 작은 해변 카페의 보헤미안 감성과 수제 도자기들이 정말 마음에 들어요.",
+      "tags": ["restaurant", "place", "nature"]
+    },
+    {
+      "word": "Sleek",
+      "sentence_en": "The new smartphone has a sleek, metallic finish that feels great in the hand.",
+      "sentence_ko": "새 스마트폰은 매끄러운 금속 마감 처리가 되어 있어 손에 닿는 느낌이 아주 좋습니다.",
+      "tags": ["smartphone", "shopping", "internet"]
+    },
+    {
+      "word": "Sleek",
+      "sentence_en": "She tied her hair back in a sleek ponytail for the corporate meeting.",
+      "sentence_ko": "그녀는 기업 회의를 위해 머리를 매끄럽게 뒤로 넘겨 포니테일로 묶었습니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Sleek",
+      "sentence_en": "The company's new office building features a sleek glass and steel exterior.",
+      "sentence_ko": "회사의 새 사옥은 매끄러운 유리와 강철로 된 외관이 돋보입니다.",
+      "tags": ["place", "planning", "activity"]
+    },
+    {
+      "word": "Sleek",
+      "sentence_en": "The cat had a sleek, shiny coat after being groomed for the show.",
+      "sentence_ko": "그 고양이는 쇼를 위해 털을 다듬고 나니 윤기가 흐르고 매끄러워 보였습니다.",
+      "tags": ["nature", "activity", "time"]
+    },
+    {
+      "word": "Sleek",
+      "sentence_en": "The laptop has a sleek design, making it very easy to carry in a backpack.",
+      "sentence_ko": "이 노트북은 디자인이 맵시 있게 잘 빠져서 배낭에 넣고 다니기 아주 편합니다.",
+      "tags": ["shopping", "study", "internet"]
+    },
+    {
+      "word": "Chic",
+      "sentence_en": "She always looks chic, even when she's just wearing a plain white T-shirt.",
+      "sentence_ko": "그녀는 평범한 흰 티셔츠만 입었을 때조차 항상 세련돼 보입니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Chic",
+      "sentence_en": "We had dinner at a chic rooftop restaurant overlooking the entire city.",
+      "sentence_ko": "우리는 도시 전체가 내려다보이는 세련된 루프탑 레스토랑에서 저녁을 먹었습니다.",
+      "tags": ["restaurant", "place", "time"]
+    },
+    {
+      "word": "Chic",
+      "sentence_en": "The hotel lobby was decorated in a chic, minimalist style with neutral tones.",
+      "sentence_ko": "호텔 로비는 무채색 톤의 시크하고 미니멀한 스타일로 꾸며져 있었습니다.",
+      "tags": ["place", "planning", "shopping"]
+    },
+    {
+      "word": "Chic",
+      "sentence_en": "Black is always a chic choice for a formal evening event or party.",
+      "sentence_ko": "검은색은 공식적인 저녁 행사나 파티를 위한 언제나 세련된 선택입니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Chic",
+      "sentence_en": "This boutique hotel offers a chic alternative to the large international chains.",
+      "sentence_ko": "이 부티크 호텔은 대형 국제 체인 호텔들에 비해 시크하고 멋진 대안을 제공합니다.",
+      "tags": ["place", "shopping", "activity"]
+    },
+    {
+      "word": "Vintage",
+      "sentence_en": "I bought a vintage leather jacket that was made in the 1970s.",
+      "sentence_ko": "1970년대에 만들어진 진짜 빈티지 가죽 자켓을 샀어요.",
+      "tags": ["shopping", "time", "activity"]
+    },
+    {
+      "word": "Vintage",
+      "sentence_en": "The wine cellar contains several bottles of vintage champagne from exceptional years.",
+      "sentence_ko": "그 와인 저장고에는 작황이 훌륭했던 해에 생산된 빈티지 샴페인 몇 병이 있습니다.",
+      "tags": ["restaurant", "shopping", "time"]
+    },
+    {
+      "word": "Vintage",
+      "sentence_en": "He loves collecting vintage cameras and developing the film himself at home.",
+      "sentence_ko": "그는 빈티지 카메라를 수집하고 집에서 직접 필름을 인화하는 것을 좋아합니다.",
+      "tags": ["activity", "time", "study"]
+    },
+    {
+      "word": "Vintage",
+      "sentence_en": "The couple drove away from the wedding in a beautiful vintage Rolls-Royce.",
+      "sentence_ko": "그 부부는 아름다운 빈티지 롤스로이스를 타고 결혼식장에서 떠났습니다.",
+      "tags": ["activity", "time", "place"]
+    },
+    {
+      "word": "Vintage",
+      "sentence_en": "Vintage furniture can add a lot of character and history to a modern home.",
+      "sentence_ko": "빈티지 가구는 현대적인 집에도 개성과 역사를 불어넣어 줄 수 있습니다.",
+      "tags": ["place", "shopping", "planning"]
+    },
+    {
+      "word": "Retro",
+      "sentence_en": "The diner has a retro 1950s theme with neon signs and jukeboxes.",
+      "sentence_ko": "그 식당은 네온사인과 주크박스가 있는 1950년대 복고풍 테마로 꾸며져 있습니다.",
+      "tags": ["restaurant", "place", "time"]
+    },
+    {
+      "word": "Retro",
+      "sentence_en": "Many teenagers today are interested in retro fashion like baggy jeans and platform shoes.",
+      "sentence_ko": "요즘 많은 십 대들이 배기진이나 플랫폼 슈즈 같은 복고풍 패션에 관심이 많습니다.",
+      "tags": ["shopping", "activity", "internet"]
+    },
+    {
+      "word": "Retro",
+      "sentence_en": "The new video game has a retro 8-bit style that reminds me of my childhood.",
+      "sentence_ko": "새로 나온 비디오 게임은 어린 시절을 떠올리게 하는 8비트 복고풍 스타일입니다.",
+      "tags": ["internet", "smartphone", "time"]
+    },
+    {
+      "word": "Retro",
+      "sentence_en": "She wore a retro polka-dot dress to the themed party last Saturday night.",
+      "sentence_ko": "그녀는 지난 토요일 밤 테마 파티에 복고풍의 땡땡이 무늬 드레스를 입고 갔습니다.",
+      "tags": ["activity", "shopping", "time"]
+    },
+    {
+      "word": "Retro",
+      "sentence_en": "The brand released a retro collection inspired by their original designs from the 80s.",
+      "sentence_ko": "그 브랜드는 80년대 오리지널 디자인에서 영감을 받은 레트로 컬렉션을 출시했습니다.",
+      "tags": ["shopping", "planning", "time"]
+    },
+    {
+      "word": "Curvaceous",
+      "sentence_en": "The high-end sports car has a curvaceous body that looks stunning on the road.",
+      "sentence_ko": "그 고급 스포츠카는 도로 위에서 눈길을 사로잡는 곡선미 넘치는 차체를 자랑합니다.",
+      "tags": ["activity", "place", "shopping"]
+    },
+    {
+      "word": "Curvaceous",
+      "sentence_en": "The artist is famous for creating curvaceous sculptures made of polished bronze.",
+      "sentence_ko": "그 예술가는 광을 낸 청동으로 만든 곡선미 있는 조각상들로 유명합니다.",
+      "tags": ["place", "study", "activity"]
+    },
+    {
+      "word": "Curvaceous",
+      "sentence_en": "We drove along the curvaceous mountain roads to reach the hidden waterfall.",
+      "sentence_ko": "우리는 숨겨진 폭포에 가기 위해 굽이치는 산길을 따라 운전했습니다.",
+      "tags": ["nature", "activity", "place"]
+    },
+    {
+      "word": "Curvaceous",
+      "sentence_en": "The architect designed a curvaceous building that mimics the natural flow of the river.",
+      "sentence_ko": "건축가는 강의 자연스러운 흐름을 모방한 곡선형 건물을 설계했습니다.",
+      "tags": ["place", "planning", "nature"]
+    },
+    {
+      "word": "Curvaceous",
+      "sentence_en": "The new vase has a curvaceous shape that perfectly holds a large bouquet of flowers.",
+      "sentence_ko": "그 새 꽃병은 곡선미가 있어 커다란 꽃다발을 꽂기에 아주 완벽합니다.",
+      "tags": ["shopping", "place", "nature"]
+    },
+    {
+      "word": "Angular",
+      "sentence_en": "The modern art gallery had an angular exterior that stood out from the older buildings.",
+      "sentence_ko": "현대 미술관은 오래된 건물들 사이에서 눈에 띄는 각진 외관을 가지고 있었습니다.",
+      "tags": ["place", "planning", "study"]
+    },
+    {
+      "word": "Angular",
+      "sentence_en": "His angular face and high cheekbones made him perfect for fashion modeling.",
+      "sentence_ko": "그는 각진 얼굴과 높은 광대뼈 덕분에 패션 모델로 완벽했습니다.",
+      "tags": ["activity", "shopping", "time"]
+    },
+    {
+      "word": "Angular",
+      "sentence_en": "The futuristic furniture features sharp, angular lines and metallic surfaces.",
+      "sentence_ko": "미래 지향적인 가구들은 날카롭고 각진 선과 금속 표면이 특징입니다.",
+      "tags": ["planning", "shopping", "place"]
+    },
+    {
+      "word": "Angular",
+      "sentence_en": "The font used in the logo is very angular and looks quite aggressive.",
+      "sentence_ko": "로고에 사용된 폰트가 매우 각져 있어서 꽤 공격적인 느낌을 줍니다.",
+      "tags": ["planning", "internet", "study"]
+    },
+    {
+      "word": "Angular",
+      "sentence_en": "The mountain range had many angular peaks that were covered in deep snow.",
+      "sentence_ko": "그 산맥에는 깊은 눈으로 덮인 각진 봉우리들이 많았습니다.",
+      "tags": ["nature", "activity", "place"]
+    },
+    {
+      "word": "Avant-garde",
+      "sentence_en": "The avant-garde fashion show featured models wearing clothes made of recycled plastic.",
+      "sentence_ko": "그 아방가르드 패션쇼에서는 재활용 플라스틱으로 만든 옷을 입은 모델들이 등장했습니다.",
+      "tags": ["activity", "shopping", "planning"]
+    },
+    {
+      "word": "Avant-garde",
+      "sentence_en": "Her paintings are very avant-garde and often provoke strong reactions from viewers.",
+      "sentence_ko": "그녀의 그림들은 매우 전위적이어서 관객들로부터 종종 강렬한 반응을 이끌어냅니다.",
+      "tags": ["study", "place", "internet"]
+    },
+    {
+      "word": "Avant-garde",
+      "sentence_en": "The restaurant is known for its avant-garde cuisine that combines unusual flavors.",
+      "sentence_ko": "그 레스토랑은 특이한 맛들을 결합한 아방가르드한 요리로 유명합니다.",
+      "tags": ["restaurant", "activity", "planning"]
+    },
+    {
+      "word": "Avant-garde",
+      "sentence_en": "The film used avant-garde techniques like non-linear storytelling and abstract visuals.",
+      "sentence_ko": "그 영화는 비선형적 스토리텔링과 추상적 비주얼 같은 전위적인 기법을 사용했습니다.",
+      "tags": ["activity", "study", "internet"]
+    },
+    {
+      "word": "Avant-garde",
+      "sentence_en": "He is an avant-garde composer who likes to experiment with silence and noise.",
+      "sentence_ko": "그는 침묵과 소음을 가지고 실험하는 것을 즐기는 아방가르드 작곡가입니다.",
+      "tags": ["study", "activity", "time"]
+    },
+    {
+      "word": "Preppy",
+      "sentence_en": "He wore a preppy outfit consisting of a polo shirt, khakis, and boat shoes.",
+      "sentence_ko": "그는 폴로 셔츠, 카키색 바지, 보트 슈즈로 구성된 단정한 프레피 룩을 입었습니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Preppy",
+      "sentence_en": "The brand is famous for its preppy style, which is inspired by American ivy league schools.",
+      "sentence_ko": "그 브랜드는 미국 아이비리그 학교에서 영감을 받은 단정한 프레피 스타일로 유명합니다.",
+      "tags": ["shopping", "study", "planning"]
+    },
+    {
+      "word": "Preppy",
+      "sentence_en": "She looked quite preppy with her hair tied in a ribbon and a pleated skirt.",
+      "sentence_ko": "그녀는 리본으로 묶은 머리와 주름치마 덕분에 아주 단정한 프레피 느낌이 났습니다.",
+      "tags": ["activity", "shopping", "time"]
+    },
+    {
+      "word": "Preppy",
+      "sentence_en": "The country club has a preppy dress code that all members must follow.",
+      "sentence_ko": "그 컨트리 클럽에는 모든 회원이 따라야 하는 단정한 프레피 드레스 코드가 있습니다.",
+      "tags": ["activity", "place", "planning"]
+    },
+    {
+      "word": "Preppy",
+      "sentence_en": "I chose a preppy look for my first day at the new office to make a good impression.",
+      "sentence_ko": "좋은 인상을 주기 위해 새 사무실 출근 첫날 복장으로 깔끔한 프레피 룩을 선택했습니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The minimalist interior design of the apartment makes the small space feel much larger.",
+      "sentence_ko": "아파트의 미니멀한 인테리어 덕분에 작은 공간이 훨씬 넓어 보입니다.",
+      "tags": ["place", "planning", "shopping"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "She leads a minimalist lifestyle, only keeping things that are truly necessary.",
+      "sentence_ko": "그녀는 정말 필요한 것들만 남겨두는 미니멀리스트 라이프스타일을 살고 있습니다.",
+      "tags": ["activity", "time", "nature"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The new logo is minimalist, featuring just a single circle and the company name.",
+      "sentence_ko": "새 로고는 원 하나와 회사 이름만 들어간 아주 미니멀한 스타일입니다.",
+      "tags": ["planning", "internet", "study"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "I love the minimalist aesthetic of this white and wooden coffee shop.",
+      "sentence_ko": "이 화이트와 우드톤 카페의 미니멀한 감성이 정말 좋아요.",
+      "tags": ["restaurant", "place", "shopping"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The artist's minimalist sculptures are made of simple concrete blocks.",
+      "sentence_ko": "그 예술가의 미니멀한 조각품들은 단순한 콘크리트 블록으로 만들어졌습니다.",
+      "tags": ["place", "study", "activity"]
+    },
+    {
+      "word": "Rustic",
+      "sentence_en": "We stayed at a rustic cabin in the woods that didn't have any electricity.",
+      "sentence_ko": "우리는 전기가 들어오지 않는 숲속의 투박한 오두막에서 머물렀습니다.",
+      "tags": ["nature", "place", "activity"]
+    },
+    {
+      "word": "Rustic",
+      "sentence_en": "The restaurant serves delicious, rustic Italian food in a cozy atmosphere.",
+      "sentence_ko": "그 레스토랑은 아늑한 분위기에서 투박하면서도 맛있는 이탈리아 음식을 제공합니다.",
+      "tags": ["restaurant", "place", "activity"]
+    },
+    {
+      "word": "Rustic",
+      "sentence_en": "They had a rustic wedding in an old barn decorated with wildflowers and hay.",
+      "sentence_ko": "그들은 들꽃과 건초로 장식된 오래된 창고에서 소박하고 투박한 결혼식을 올렸습니다.",
+      "tags": ["activity", "place", "nature"]
+    },
+    {
+      "word": "Rustic",
+      "sentence_en": "The garden has a rustic feel with its wooden fences and gravel paths.",
+      "sentence_ko": "나무 울타리와 자갈길 덕분에 그 정원은 소박한 시골풍의 느낌이 납니다.",
+      "tags": ["nature", "place", "planning"]
+    },
+    {
+      "word": "Rustic",
+      "sentence_en": "The furniture was made from rustic, reclaimed wood with a natural finish.",
+      "sentence_ko": "그 가구는 자연스러운 마감 처리가 된 투박한 재생 목재로 만들어졌습니다.",
+      "tags": ["shopping", "place", "nature"]
+    },
+    {
+      "word": "Futuristic",
+      "sentence_en": "The city's new airport has a futuristic design that looks like a spaceship.",
+      "sentence_ko": "도시의 새 공항은 마치 우주선처럼 보이는 미래지향적인 디자인을 가지고 있습니다.",
+      "tags": ["place", "planning", "activity"]
+    },
+    {
+      "word": "Futuristic",
+      "sentence_en": "This new concept car features futuristic technology like self-driving and holographic displays.",
+      "sentence_ko": "이 새로운 컨셉카는 자율주행과 홀로그램 디스플레이 같은 미래 기술을 탑재하고 있습니다.",
+      "tags": ["smartphone", "internet", "planning"]
+    },
+    {
+      "word": "Futuristic",
+      "sentence_en": "The movie is set in a futuristic version of Tokyo in the year 2099.",
+      "sentence_ko": "그 영화는 2099년의 미래 지향적인 도쿄를 배경으로 합니다.",
+      "tags": ["internet", "activity", "time"]
+    },
+    {
+      "word": "Futuristic",
+      "sentence_en": "The glow-in-the-dark sneakers have a very futuristic and cool look.",
+      "sentence_ko": "야광 운동화는 아주 미래지향적이고 멋진 느낌을 줍니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Futuristic",
+      "sentence_en": "The lab is equipped with futuristic robots that can perform delicate surgeries.",
+      "sentence_ko": "그 실험실에는 섬세한 수술을 수행할 수 있는 미래형 로봇들이 갖춰져 있습니다.",
+      "tags": ["study", "internet", "planning"]
+    },
+    {
+      "word": "Geometric",
+      "sentence_en": "The floor of the museum was covered in a complex geometric pattern of black and white tiles.",
+      "sentence_ko": "박물관 바닥은 흑백 타일의 복잡한 기하학적 패턴으로 덮여 있었습니다.",
+      "tags": ["place", "study", "planning"]
+    },
+    {
+      "word": "Geometric",
+      "sentence_en": "She wore a pair of geometric earrings that were shaped like triangles and circles.",
+      "sentence_ko": "그녀는 삼각형과 원 모양으로 된 기하학적인 귀걸이를 하고 있었습니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Geometric",
+      "sentence_en": "The modernist building is famous for its bold geometric shapes and glass walls.",
+      "sentence_ko": "그 모더니즘 건물은 대담한 기하학적 형태와 유리 벽으로 유명합니다.",
+      "tags": ["place", "planning", "study"]
+    },
+    {
+      "word": "Geometric",
+      "sentence_en": "I chose a geometric wallpaper for the accent wall in my bedroom.",
+      "sentence_ko": "침실 한쪽 벽에 포인트를 주기 위해 기하학적 무늬의 벽지를 골랐습니다.",
+      "tags": ["planning", "place", "shopping"]
+    },
+    {
+      "word": "Geometric",
+      "sentence_en": "The garden was designed with geometric precision, with perfectly square flower beds.",
+      "sentence_ko": "그 정원은 완벽한 정사각형 화단이 있는 기하학적 정밀함으로 설계되었습니다.",
+      "tags": ["nature", "place", "planning"]
+    },
+    {
+      "word": "Delicate",
+      "sentence_en": "Be careful when handling that vase; it is made of very delicate porcelain.",
+      "sentence_ko": "그 꽃병을 다룰 때 조심하세요. 아주 섬세하고 깨지기 쉬운 자기로 만들어졌거든요.",
+      "tags": ["shopping", "place", "activity"]
+    },
+    {
+      "word": "Delicate",
+      "sentence_en": "The spider spun a delicate web between the two branches of the rose bush.",
+      "sentence_ko": "거미가 장미 덤불의 두 가지 사이에 섬세한 거미줄을 쳤습니다.",
+      "tags": ["nature", "study", "activity"]
+    },
+    {
+      "word": "Delicate",
+      "sentence_en": "The doctor performed a delicate operation to save the patient's eyesight.",
+      "sentence_ko": "의사는 환자의 시력을 구하기 위해 아주 섬세하고 정교한 수술을 집도했습니다.",
+      "tags": ["study", "time", "planning"]
+    },
+    {
+      "word": "Delicate",
+      "sentence_en": "The lace on her wedding dress was incredibly delicate and handmade.",
+      "sentence_ko": "그녀의 웨딩드레스에 달린 레이스는 정말 섬세했고 수작업으로 만들어졌습니다.",
+      "tags": ["shopping", "activity", "planning"]
+    },
+    {
+      "word": "Delicate",
+      "sentence_en": "The perfume has a delicate scent of jasmine and vanilla that isn't too strong.",
+      "sentence_ko": "그 향수는 너무 강하지 않은 재스민과 바닐라의 은은하고 섬세한 향이 납니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Monochrome",
+      "sentence_en": "The photographer prefers taking monochrome photos to focus on light and shadows.",
+      "sentence_ko": "그 사진작가는 빛과 그림자에 집중하기 위해 흑백 사진 찍는 것을 선호합니다.",
+      "tags": ["activity", "study", "time"]
+    },
+    {
+      "word": "Monochrome",
+      "sentence_en": "She wore a monochrome outfit in different shades of grey for the interview.",
+      "sentence_ko": "그녀는 면접을 위해 여러 채도의 회색이 섞인 단색조 의상을 입었습니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Monochrome",
+      "sentence_en": "The modern office has a monochrome color scheme of black, white, and silver.",
+      "sentence_ko": "그 현대적인 사무실은 블랙, 화이트, 실버의 단색조 배색으로 되어 있습니다.",
+      "tags": ["place", "planning", "activity"]
+    },
+    {
+      "word": "Monochrome",
+      "sentence_en": "The new smartphone app features a monochrome user interface that looks very clean.",
+      "sentence_ko": "그 새로운 스마트폰 앱은 아주 깔끔해 보이는 흑백의 사용자 인터페이스를 제공합니다.",
+      "tags": ["smartphone", "internet", "planning"]
+    },
+    {
+      "word": "Monochrome",
+      "sentence_en": "The artist created a monochrome painting using only various tones of blue.",
+      "sentence_ko": "그 예술가는 오직 파란색의 다양한 톤만을 사용해 단색화 작품을 만들었습니다.",
+      "tags": ["study", "place", "activity"]
+    },
+    {
+      "word": "Muted",
+      "sentence_en": "The walls were painted in muted tones like beige and soft grey to create a calm atmosphere.",
+      "sentence_ko": "차분한 분위기를 내기 위해 벽을 베이지나 연한 회색 같은 톤 다운된 색으로 칠했습니다.",
+      "tags": ["place", "planning", "nature"]
+    },
+    {
+      "word": "Muted",
+      "sentence_en": "She prefers wearing muted colors rather than bright, flashy ones.",
+      "sentence_ko": "그녀는 밝고 화려한 색보다는 차분한 색을 입는 것을 선호합니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Muted",
+      "sentence_en": "The lighting in the restaurant was muted, making it perfect for a romantic date.",
+      "sentence_ko": "레스토랑 조명이 은은해서 낭만적인 데이트를 하기에 완벽했습니다.",
+      "tags": ["restaurant", "place", "time"]
+    },
+    {
+      "word": "Muted",
+      "sentence_en": "The response to the new movie was somewhat muted compared to the first one.",
+      "sentence_ko": "첫 번째 편에 비하면 이번 신작 영화에 대한 반응은 다소 차분하고 미지근했습니다.",
+      "tags": ["internet", "activity", "study"]
+    },
+    {
+      "word": "Muted",
+      "sentence_en": "The early morning sun cast a muted light over the foggy landscape.",
+      "sentence_ko": "이른 아침의 햇살이 안개 낀 풍경 위로 은은한 빛을 비추었습니다.",
+      "tags": ["nature", "time", "place"]
+    },
+    {
+      "word": "Glossy",
+      "sentence_en": "The new car had a glossy red finish that sparkled in the sunlight.",
+      "sentence_ko": "그 새 차는 햇빛 아래서 반짝이는 광택 나는 붉은색 마감이 돋보였습니다.",
+      "tags": ["shopping", "activity", "nature"]
+    },
+    {
+      "word": "Glossy",
+      "sentence_en": "I prefer printing my vacation photos on glossy paper rather than matte.",
+      "sentence_ko": "저는 휴가 사진을 무광보다는 유광 인화지에 인쇄하는 것을 더 좋아합니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Glossy",
+      "sentence_en": "She used a glossy lip tint to give her lips a shiny and healthy look.",
+      "sentence_ko": "그녀는 입술이 윤기 나고 건강해 보이도록 광택이 나는 립 틴트를 발랐습니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Glossy",
+      "sentence_en": "The magazine has high-quality, glossy pages filled with beautiful fashion photos.",
+      "sentence_ko": "그 잡지는 아름다운 패션 사진들로 가득한 고품질의 번들거리는 유광 페이지들로 되어 있습니다.",
+      "tags": ["shopping", "study", "internet"]
+    },
+    {
+      "word": "Glossy",
+      "sentence_en": "The wooden table was polished until it had a glossy, reflective surface.",
+      "sentence_ko": "나무 탁자는 거울처럼 반사될 정도로 광이 나게 닦여 있었습니다.",
+      "tags": ["place", "activity", "planning"]
+    },
+    {
+      "word": "Matte",
+      "sentence_en": "The new smartphone is available in a matte black finish that doesn't show fingerprints.",
+      "sentence_ko": "그 새 스마트폰은 지문이 묻어나지 않는 무광 블랙 마감으로 출시되었습니다.",
+      "tags": ["smartphone", "shopping", "internet"]
+    },
+    {
+      "word": "Matte",
+      "sentence_en": "She prefers a matte foundation for her makeup because she has oily skin.",
+      "sentence_ko": "그녀는 지성 피부라서 화장할 때 매트한 파운데이션을 선호합니다.",
+      "tags": ["shopping", "activity", "time"]
+    },
+    {
+      "word": "Matte",
+      "sentence_en": "We painted the living room walls with a matte finish to reduce glare from the windows.",
+      "sentence_ko": "창문의 빛 반사를 줄이기 위해 거실 벽을 무광으로 칠했습니다.",
+      "tags": ["place", "planning", "nature"]
+    },
+    {
+      "word": "Matte",
+      "sentence_en": "The luxury sports car has a unique matte grey paint that looks very modern.",
+      "sentence_ko": "그 고급 스포츠카는 아주 현대적으로 보이는 독특한 무광 회색 도색이 되어 있습니다.",
+      "tags": ["shopping", "activity", "planning"]
+    },
+    {
+      "word": "Matte",
+      "sentence_en": "I chose a matte screen protector for my tablet to make it easier to read in the sun.",
+      "sentence_ko": "햇빛 아래서 더 편하게 보려고 태블릿용으로 무광 액정 보호 필름을 골랐습니다.",
+      "tags": ["smartphone", "internet", "study"]
+    },
+    {
+      "word": "Textured",
+      "sentence_en": "The wall was covered in textured wallpaper that felt like rough stone.",
+      "sentence_ko": "벽은 거친 돌 같은 느낌이 나는 질감 있는 벽지로 덮여 있었습니다.",
+      "tags": ["place", "planning", "shopping"]
+    },
+    {
+      "word": "Textured",
+      "sentence_en": "She wore a textured wool sweater that was very warm and cozy during the winter.",
+      "sentence_ko": "그녀는 겨울 동안 아주 따뜻하고 포근한, 짜임새(질감)가 살아있는 울 스웨터를 입었습니다.",
+      "tags": ["shopping", "activity", "nature"]
+    },
+    {
+      "word": "Textured",
+      "sentence_en": "The artist uses textured paint to add depth and dimension to his abstract works.",
+      "sentence_ko": "그 예술가는 추상화 작품에 깊이와 입체감을 더하기 위해 질감이 느껴지는 물감을 사용합니다.",
+      "tags": ["study", "place", "activity"]
+    },
+    {
+      "word": "Textured",
+      "sentence_en": "The bread had a wonderful textured crust that was crunchy on the outside and soft inside.",
+      "sentence_ko": "그 빵은 겉은 바삭하고 속은 부드러운, 질감이 살아있는 훌륭한 껍질을 가지고 있었습니다.",
+      "tags": ["restaurant", "activity", "shopping"]
+    },
+    {
+      "word": "Textured",
+      "sentence_en": "We chose a textured fabric for the sofa to make it more resistant to wear and tear.",
+      "sentence_ko": "내구성을 높이기 위해 소파용으로 질감이 있는 원단을 골랐습니다.",
+      "tags": ["shopping", "place", "planning"]
+    },
+    {
+      "word": "Asymmetrical",
+      "sentence_en": "She wore an asymmetrical dress that was longer on one side than the other.",
+      "sentence_ko": "그녀는 한쪽이 다른 쪽보다 더 긴 비대칭 드레스를 입었습니다.",
+      "tags": ["shopping", "activity", "planning"]
+    },
+    {
+      "word": "Asymmetrical",
+      "sentence_en": "The new museum building has a bold asymmetrical design that is very eye-catching.",
+      "sentence_ko": "그 새 박물관 건물은 눈길을 사로잡는 대담한 비대칭 디자인을 가지고 있습니다.",
+      "tags": ["place", "planning", "study"]
+    },
+    {
+      "word": "Asymmetrical",
+      "sentence_en": "His haircut was asymmetrical, with one side shaved and the other left long.",
+      "sentence_ko": "그의 머리 모양은 한쪽은 밀고 다른 쪽은 길게 남겨둔 비대칭 스타일이었습니다.",
+      "tags": ["activity", "shopping", "time"]
+    },
+    {
+      "word": "Asymmetrical",
+      "sentence_en": "The balance of the painting is asymmetrical, with most of the action on the left side.",
+      "sentence_ko": "그 그림의 균형은 비대칭적이어서, 대부분의 묘사가 왼쪽에 쏠려 있습니다.",
+      "tags": ["study", "place", "activity"]
+    },
+    {
+      "word": "Asymmetrical",
+      "sentence_en": "Natural faces are often slightly asymmetrical, which makes them look more unique.",
+      "sentence_ko": "사람의 얼굴은 자연스럽게 약간 비대칭인 경우가 많으며, 이는 더 독특해 보이게 합니다.",
+      "tags": ["nature", "study", "activity"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "The old television was so bulky that it took two people to carry it.",
+      "sentence_ko": "그 오래된 텔레비전은 부피가 너무 커서 옮기는 데 두 사람이 필요했습니다.",
+      "tags": ["activity", "place", "time"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "I had to take off my bulky winter coat before sitting down in the small cafe.",
+      "sentence_ko": "작은 카페에 앉기 전에 부피가 큰 겨울 코트를 벗어야 했습니다.",
+      "tags": ["restaurant", "place", "nature"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "The package was quite bulky, making it expensive to ship across the country.",
+      "sentence_ko": "짐의 부피가 꽤 커서 전국으로 배송하는 데 비용이 많이 들었습니다.",
+      "tags": ["shopping", "activity", "planning"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "The hiker struggled with his bulky backpack on the steep mountain trail.",
+      "sentence_ko": "하이커는 가파른 산길에서 부피가 큰 배낭 때문에 애를 먹었습니다.",
+      "tags": ["nature", "activity", "place"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "He did a lot of weightlifting, which gave him a bulky and muscular physique.",
+      "sentence_ko": "그는 웨이트 트레이닝을 많이 해서 몸집이 크고 근육질인 체격을 갖게 되었습니다.",
+      "tags": ["activity", "study", "time"]
+    },
+    {
+      "word": "Compact",
+      "sentence_en": "The new laptop is powerful yet compact, making it perfect for students.",
+      "sentence_ko": "그 새 노트북은 강력하면서도 소형이라 학생들에게 완벽합니다.",
+      "tags": ["study", "smartphone", "shopping"]
+    },
+    {
+      "word": "Compact",
+      "sentence_en": "She drives a compact car that is very easy to park in the busy city center.",
+      "sentence_ko": "그녀는 복잡한 도심에서 주차하기 아주 편한 소형차를 웁니다.",
+      "tags": ["activity", "place", "shopping"]
+    },
+    {
+      "word": "Compact",
+      "sentence_en": "The apartment is small but has a very compact and efficient layout.",
+      "sentence_ko": "아파트는 작지만 아주 콤팩트하고 효율적인 구조를 가지고 있습니다.",
+      "tags": ["place", "planning", "activity"]
+    },
+    {
+      "word": "Compact",
+      "sentence_en": "I always carry a compact umbrella in my bag just in case it rains.",
+      "sentence_ko": "비가 올 때를 대비해 가방에 항상 소형 우산을 넣고 다닙니다.",
+      "tags": ["nature", "activity", "time"]
+    },
+    {
+      "word": "Compact",
+      "sentence_en": "The kitchen scale is very compact, so it doesn't take up much space on the counter.",
+      "sentence_ko": "주방 저울이 아주 아담해서 조리대 공간을 많이 차지하지 않습니다.",
+      "tags": ["restaurant", "shopping", "planning"]
+    },
+    {
+      "word": "Bold",
+      "sentence_en": "She made a bold choice by wearing a bright red dress to the formal gala.",
+      "sentence_ko": "그녀는 공식 행사에서 밝은 빨간색 드레스를 입는 대담한 선택을 했습니다.",
+      "tags": ["activity", "planning", "time"]
+    },
+    {
+      "word": "Bold",
+      "sentence_en": "The new company logo features bold black letters on a bright yellow background.",
+      "sentence_ko": "회사의 새 로고는 밝은 노란색 배경 위에 굵고 뚜렷한 검은색 글자가 특징입니다.",
+      "tags": ["planning", "internet", "study"]
+    },
+    {
+      "word": "Bold",
+      "sentence_en": "The restaurant is known for its bold flavors and spicy fusion dishes.",
+      "sentence_ko": "그 레스토랑은 대담하고 강렬한 맛과 매콤한 퓨전 요리로 유명합니다.",
+      "tags": ["restaurant", "activity", "shopping"]
+    },
+    {
+      "word": "Bold",
+      "sentence_en": "I decided to paint one wall in a bold shade of blue to make the room more interesting.",
+      "sentence_ko": "방을 더 흥미롭게 만들기 위해 한쪽 벽을 대담하고 선명한 파란색으로 칠하기로 했습니다.",
+      "tags": ["place", "planning", "activity"]
+    },
+    {
+      "word": "Bold",
+      "sentence_en": "The designer used bold geometric patterns in the new winter collection.",
+      "sentence_ko": "그 디자이너는 이번 겨울 컬렉션에서 대담한 기하학적 패턴을 사용했습니다.",
+      "tags": ["shopping", "planning", "time"]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "card_id": "29b7aa26-8c8d-4986-90a3-1e952cb8ace8",
+    "word": "Soothing",
+    "meaning": "달래주는, 진정시키는",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "1f1483ec-9bcb-4bc2-a610-14d2cca67d85",
+    "word": "Mellow",
+    "meaning": "그윽한, 부드러운",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "acb34d17-bf6a-4b54-9bd3-aff07b085800",
+    "word": "Resonant",
+    "meaning": "울림이 있는",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "21c01dad-1d40-4403-97f8-222f4a880d08",
+    "word": "Deafening",
+    "meaning": "귀청이 터질 듯한",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "b0f061bc-4f1a-4ee1-854e-6699abac047d",
+    "word": "Raucous",
+    "meaning": "시끌벅적한, 거친 (라)raucus시끄러운",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "1697e969-120e-47f8-aab8-e298546d2769",
+    "word": "Clamorous",
+    "meaning": "떠들썩한  > claim",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "ba2ed596-4169-47c7-aff2-a6399d922b32",
+    "word": "Muffled",
+    "meaning": "소리를 죽인, 먹먹한",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "061ef4df-9d8b-40e5-8029-a9bb70db833d",
+    "word": "Faint",
+    "meaning": "희미한",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "66cc9f42-8330-4112-bb22-d7974a0f3874",
+    "word": "Grating",
+    "meaning": "귀에 거슬리는  격자>창살> 귀에거슬리는",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "f30bbeb9-7fca-44cb-8c72-7334525e0027",
+    "word": "Hoarse",
+    "meaning": "(목이) 쉰",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "632f878e-3c4b-44d3-b352-780a99a61a4d",
+    "word": "Cacophonous",
+    "meaning": "불협화음의  (그)cakos 나쁘다. + phone",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "c7d3398e-c4ed-4bf7-b2b8-bd1f99aa0a58",
+    "word": "Shrill",
+    "meaning": "새된, 꽥 하는",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "41beeb2a-3087-4461-be49-aa46ebb00fb8",
+    "word": "Piercing",
+    "meaning": "귀를 찢는 듯한",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "2df896f0-01cc-4e02-afe0-6a4f623ea308",
+    "word": "Rasping",
+    "meaning": "거슬리는, 쇳소리의",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "4db535e0-4495-4204-8068-df94f3a161d9",
+    "word": "Melodious",
+    "meaning": "선율이 아름다운",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "d8664a32-ea6d-49fe-87e7-2ead9baef8a4",
+    "word": "Harmonious",
+    "meaning": "조화로운",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "6f42b7b0-b8d8-4f81-840f-f5703e4f3f9b",
+    "word": "Husky",
+    "meaning": "허스키한",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "b4e67c19-625c-4cc1-bce6-17baca465f2f",
+    "word": "Monotone",
+    "meaning": "단조로운",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "ab975b6f-64ab-4556-8b23-9da2b7910c1e",
+    "word": "Audible",
+    "meaning": "들리는",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "7b619102-7a58-4c44-9c90-de68561e845e",
+    "word": "Acoustic",
+    "meaning": "음향의, 전자 장치를 안 쓴",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  },
+  {
+    "card_id": "1e242ca9-5ed3-402f-b0ed-3656298689fc",
+    "word": "Thundering",
+    "meaning": "우레 같은",
+    "deck_id": "8001a732-513f-4649-82bb-303533ac9ef0",
+    "deck_name": "SOUND_AUDITORY"
+  }
+]

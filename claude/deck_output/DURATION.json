@@ -1,0 +1,1086 @@
+{
+  "deck_title": "DURATION",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Chronological",
+      "sentence_en": "The museum displays artifacts in chronological order from ancient times to the present day.",
+      "sentence_ko": "박물관은 고대부터 현재까지 유물을 연대순으로 전시하고 있습니다.",
+      "tags": ["travel", "journey", "planning"]
+    },
+    {
+      "word": "Chronological",
+      "sentence_en": "Please list your work experience in chronological order on your resume.",
+      "sentence_ko": "이력서에 경력 사항을 시간 순서대로 작성해 주세요.",
+      "tags": ["planning", "develope"]
+    },
+    {
+      "word": "Chronological",
+      "sentence_en": "The documentary presents the team's journey to the championship in chronological sequence.",
+      "sentence_ko": "다큐멘터리는 팀의 우승까지의 여정을 시간 순서대로 보여줍니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Chronological",
+      "sentence_en": "My professor asked us to analyze the events in chronological order.",
+      "sentence_ko": "교수님이 사건들을 연대순으로 분석하라고 하셨습니다.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Chronological",
+      "sentence_en": "The travel blog narrates our vacation adventures in chronological fashion.",
+      "sentence_ko": "여행 블로그는 우리의 휴가 모험을 시간 순서대로 기록하고 있습니다.",
+      "tags": ["travel", "vacation", "journey"]
+    },
+    {
+      "word": "Chronological",
+      "sentence_en": "Understanding the chronological development of the disease helps doctors plan treatment.",
+      "sentence_ko": "질병의 시간적 진행 과정을 이해하면 의사들이 치료 계획을 세우는 데 도움이 됩니다.",
+      "tags": ["health", "planning"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "The cooking class follows a sequential approach, teaching basic techniques before advanced ones.",
+      "sentence_ko": "요리 수업은 기초 기술을 먼저 가르치고 고급 기술로 넘어가는 순차적 방식을 따릅니다.",
+      "tags": ["restaurant", "develope"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "Software development requires sequential testing to ensure each feature works properly.",
+      "sentence_ko": "소프트웨어 개발은 각 기능이 제대로 작동하는지 확인하기 위해 순차적 테스트가 필요합니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "The university curriculum is designed in a sequential manner for gradual learning.",
+      "sentence_ko": "대학 커리큘럼은 점진적 학습을 위해 순차적으로 설계되어 있습니다.",
+      "tags": ["university", "develope"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "Our travel itinerary was planned in sequential steps to maximize sightseeing time.",
+      "sentence_ko": "여행 일정은 관광 시간을 최대화하기 위해 단계별로 계획되었습니다.",
+      "tags": ["travel", "planning", "vacation"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "The team practiced sequential passing drills to improve their coordination on the field.",
+      "sentence_ko": "팀은 경기장에서의 호흡을 맞추기 위해 순차적 패스 훈련을 연습했습니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Sequential",
+      "sentence_en": "Recovery from surgery involves sequential phases of rest, therapy, and gradual activity.",
+      "sentence_ko": "수술 후 회복은 휴식, 치료, 점진적 활동의 단계를 순차적으로 거칩니다.",
+      "tags": ["health", "journey"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "The initial injury and subsequent complications kept the player off the field for months.",
+      "sentence_ko": "처음 부상과 그에 따른 합병증으로 선수는 몇 달간 경기에 나서지 못했습니다.",
+      "tags": ["soccer", "health"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "Our subsequent visits to the restaurant confirmed it was our new favorite spot.",
+      "sentence_ko": "그 후 몇 번 더 그 식당을 방문하면서 우리가 가장 좋아하는 곳이 되었습니다.",
+      "tags": ["restaurant", "vacation"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "The university revised its policies subsequent to student feedback.",
+      "sentence_ko": "대학은 학생들의 피드백을 받은 후 정책을 수정했습니다.",
+      "tags": ["university", "develope"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "My travel plans changed subsequent to the airline's schedule announcement.",
+      "sentence_ko": "항공사의 일정 발표 이후 여행 계획이 바뀌었습니다.",
+      "tags": ["travel", "planning"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "The team's subsequent victories proved that their new strategy was working.",
+      "sentence_ko": "이후의 연이은 승리는 새로운 전략이 효과가 있음을 증명했습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Subsequent",
+      "sentence_en": "Subsequent health checkups showed significant improvement in her condition.",
+      "sentence_ko": "이후 건강 검진에서 그녀의 상태가 크게 호전된 것으로 나타났습니다.",
+      "tags": ["health", "journey"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "The events preceding the championship game created enormous excitement among fans.",
+      "sentence_ko": "결승전 이전의 경기들이 팬들 사이에서 엄청난 흥분을 불러일으켰습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "Please review the preceding chapter before attending tomorrow's lecture.",
+      "sentence_ko": "내일 강의 전에 이전 장을 복습해 주세요.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "The restaurant's success was built on the chef's preceding experience in Paris.",
+      "sentence_ko": "그 식당의 성공은 셰프가 파리에서 쌓은 이전 경험 덕분이었습니다.",
+      "tags": ["restaurant", "develope"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "Symptoms preceding a migraine often include sensitivity to light.",
+      "sentence_ko": "편두통 전조 증상으로 빛에 대한 민감함이 나타나는 경우가 많습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "The travel experiences preceding this trip taught me to pack lighter.",
+      "sentence_ko": "이번 여행 전의 경험들이 짐을 가볍게 싸는 법을 가르쳐 주었습니다.",
+      "tags": ["travel", "vacation", "journey"]
+    },
+    {
+      "word": "Preceding",
+      "sentence_en": "In the weeks preceding the vacation, we finalized all our accommodation bookings.",
+      "sentence_ko": "휴가 직전 몇 주 동안 모든 숙소 예약을 마무리했습니다.",
+      "tags": ["vacation", "planning"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "Prior experience in web development is required for this position.",
+      "sentence_ko": "이 직책에는 웹 개발 관련 사전 경험이 필요합니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "The coach reviewed the team's prior matches to identify areas for improvement.",
+      "sentence_ko": "감독은 개선점을 찾기 위해 팀의 이전 경기들을 분석했습니다.",
+      "tags": ["soccer", "planning"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "Prior to starting your exercise routine, consult with your doctor.",
+      "sentence_ko": "운동을 시작하기 전에 의사와 상담하세요.",
+      "tags": ["health", "planning"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "Reservations must be made prior to your visit to the popular restaurant.",
+      "sentence_ko": "인기 있는 식당은 방문 전에 미리 예약해야 합니다.",
+      "tags": ["restaurant", "planning"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "She had no prior knowledge of Italian before her semester abroad.",
+      "sentence_ko": "그녀는 해외 학기를 떠나기 전까지 이탈리아어를 전혀 몰랐습니다.",
+      "tags": ["university", "travel", "journey"]
+    },
+    {
+      "word": "Prior",
+      "sentence_en": "Prior planning made our vacation stress-free and enjoyable.",
+      "sentence_ko": "사전 계획 덕분에 휴가가 스트레스 없이 즐거웠습니다.",
+      "tags": ["vacation", "planning"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "The anterior cruciate ligament injury sidelined the player for the entire season.",
+      "sentence_ko": "전방십자인대 부상으로 선수는 시즌 내내 뛰지 못했습니다.",
+      "tags": ["soccer", "health"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "Physical therapy focused on strengthening the anterior muscles of the leg.",
+      "sentence_ko": "물리치료는 다리 앞쪽 근육을 강화하는 데 집중했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "The doctor examined the anterior portion of the patient's neck carefully.",
+      "sentence_ko": "의사가 환자의 목 앞부분을 세심하게 검사했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "Historical records from the anterior period provide context for current research.",
+      "sentence_ko": "이전 시대의 역사 기록이 현재 연구에 맥락을 제공합니다.",
+      "tags": ["university", "develope"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "The anterior chapters of the textbook cover foundational concepts.",
+      "sentence_ko": "교과서 앞부분의 장들은 기초 개념을 다루고 있습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Anterior",
+      "sentence_en": "Strengthening exercises for the anterior shoulder muscles help prevent injuries.",
+      "sentence_ko": "어깨 앞쪽 근육 강화 운동은 부상 예방에 도움이 됩니다.",
+      "tags": ["health", "soccer"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "The posterior muscle group is often neglected during workouts.",
+      "sentence_ko": "뒤쪽 근육군은 운동할 때 자주 소홀히 하게 됩니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "Stretching the posterior chain helps prevent lower back pain.",
+      "sentence_ko": "후면 사슬 스트레칭은 허리 통증 예방에 도움이 됩니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "The posterior sections of the book contain advanced topics.",
+      "sentence_ko": "책의 뒷부분에는 심화 주제들이 담겨 있습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "The athlete strained his posterior thigh muscles during the match.",
+      "sentence_ko": "선수가 경기 중 허벅지 뒤쪽 근육에 무리가 갔습니다.",
+      "tags": ["soccer", "health"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "Medical analysis of the posterior region revealed no abnormalities.",
+      "sentence_ko": "후면 부위 의료 검사 결과 이상 소견이 없었습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Posterior",
+      "sentence_en": "The posterior events of his career were less documented.",
+      "sentence_ko": "그의 경력 후반부는 기록이 덜 남아 있습니다.",
+      "tags": ["journey", "develope"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The restaurant offers simultaneous dining and live jazz performances.",
+      "sentence_ko": "그 식당에서는 식사와 라이브 재즈 공연을 동시에 즐길 수 있습니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "Simultaneous translation allowed international students to follow the lecture.",
+      "sentence_ko": "동시 통역 덕분에 외국인 학생들도 강의를 따라갈 수 있었습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The app provides simultaneous updates on multiple soccer matches.",
+      "sentence_ko": "그 앱은 여러 축구 경기의 실시간 업데이트를 동시에 제공합니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "Managing simultaneous projects requires excellent organizational skills.",
+      "sentence_ko": "여러 프로젝트를 동시에 관리하려면 뛰어난 조직력이 필요합니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The simultaneous arrival of two tour buses overwhelmed the small restaurant.",
+      "sentence_ko": "두 대의 관광버스가 동시에 도착하면서 작은 식당이 북새통이 됐습니다.",
+      "tags": ["travel", "restaurant"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "Simultaneous symptoms in different body parts may indicate a systemic issue.",
+      "sentence_ko": "여러 신체 부위에서 동시에 증상이 나타나면 전신 문제일 수 있습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "She balanced concurrent responsibilities as a student and part-time worker.",
+      "sentence_ko": "그녀는 학생과 아르바이트생이라는 두 가지 역할을 동시에 병행했습니다.",
+      "tags": ["university", "develope"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "The soccer league runs concurrent with the basketball season.",
+      "sentence_ko": "축구 리그는 농구 시즌과 동시에 진행됩니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "Concurrent health treatments require careful monitoring by specialists.",
+      "sentence_ko": "여러 치료를 동시에 받을 때는 전문가의 세심한 관찰이 필요합니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "The hotel offers concurrent booking discounts for flights and accommodations.",
+      "sentence_ko": "호텔에서 항공편과 숙소를 동시에 예약하면 할인을 제공합니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "Developers faced challenges running concurrent software updates.",
+      "sentence_ko": "개발자들은 소프트웨어 업데이트를 동시에 실행하면서 어려움을 겪었습니다.",
+      "tags": ["develope"]
+    },
+    {
+      "word": "Concurrent",
+      "sentence_en": "The restaurant's concurrent events made reservations nearly impossible.",
+      "sentence_ko": "식당에서 여러 행사가 동시에 열리면서 예약이 거의 불가능했습니다.",
+      "tags": ["restaurant", "planning"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "The digital era has transformed how we plan and book our vacations.",
+      "sentence_ko": "디지털 시대가 휴가 계획과 예약 방식을 완전히 바꿔 놓았습니다.",
+      "tags": ["vacation", "travel", "develope"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "Many consider Messi's time at Barcelona as a golden era for the club.",
+      "sentence_ko": "많은 이들이 메시의 바르셀로나 시절을 클럽의 황금기로 여깁니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "The Victorian era greatly influenced modern restaurant dining etiquette.",
+      "sentence_ko": "빅토리아 시대가 현대 식당 예절에 큰 영향을 미쳤습니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "We are entering a new era of personalized medicine and treatment.",
+      "sentence_ko": "우리는 맞춤형 의료와 치료의 새로운 시대에 접어들고 있습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "Her university years marked the beginning of a new era in her life.",
+      "sentence_ko": "대학 시절은 그녀 인생의 새로운 시대의 시작이었습니다.",
+      "tags": ["university", "journey"]
+    },
+    {
+      "word": "Era",
+      "sentence_en": "Travel during the steam train era was an adventure in itself.",
+      "sentence_ko": "증기기관차 시대의 여행은 그 자체로 모험이었습니다.",
+      "tags": ["travel", "journey"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "The invention of the internet marked a new epoch in human communication.",
+      "sentence_ko": "인터넷의 발명은 인류 소통의 새로운 전환점이 되었습니다.",
+      "tags": ["develope", "journey"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "Winning the World Cup was an epoch-making moment for the national team.",
+      "sentence_ko": "월드컵 우승은 국가대표팀에게 역사적인 순간이었습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "The discovery of antibiotics ushered in a new epoch in medical history.",
+      "sentence_ko": "항생제의 발견은 의학사에서 새로운 시대를 열었습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "Each epoch of Earth's history left unique geological evidence.",
+      "sentence_ko": "지구 역사의 각 시대는 독특한 지질학적 증거를 남겼습니다.",
+      "tags": ["university", "travel"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "The smartphone epoch has changed how we experience travel.",
+      "sentence_ko": "스마트폰 시대가 우리의 여행 경험을 바꿔 놓았습니다.",
+      "tags": ["travel", "develope"]
+    },
+    {
+      "word": "Epoch",
+      "sentence_en": "Historians describe that period as an epoch of unprecedented cultural exchange.",
+      "sentence_ko": "역사학자들은 그 시기를 전례 없는 문화 교류의 시대라고 설명합니다.",
+      "tags": ["university", "journey"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "It felt like eons had passed while waiting for our delayed flight.",
+      "sentence_ko": "연착된 비행기를 기다리는 동안 까마득한 시간이 지난 것 같았습니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "The geological museum displays fossils from eons ago.",
+      "sentence_ko": "지질 박물관에는 수억 년 전의 화석이 전시되어 있습니다.",
+      "tags": ["travel", "university"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "The team's losing streak felt like it lasted eons to frustrated fans.",
+      "sentence_ko": "팀의 연패는 답답한 팬들에게 영겁처럼 길게 느껴졌습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "Some restaurants have menus that haven't changed in what seems like eons.",
+      "sentence_ko": "어떤 식당들은 아주 오랫동안 메뉴가 바뀌지 않은 것 같습니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "Medical knowledge has evolved dramatically over geological eons.",
+      "sentence_ko": "의학 지식은 지질학적 시간대에 걸쳐 극적으로 발전해 왔습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Eon",
+      "sentence_en": "Recovery from burnout seemed to take eons before she felt normal again.",
+      "sentence_ko": "번아웃에서 회복하는 데 정상으로 돌아오기까지 까마득히 긴 시간이 걸렸습니다.",
+      "tags": ["health", "journey"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "At the turn of the millennium, people celebrated with grand fireworks worldwide.",
+      "sentence_ko": "밀레니엄이 바뀔 때 전 세계에서 성대한 불꽃놀이로 축하했습니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "Soccer has evolved tremendously over the past millennium.",
+      "sentence_ko": "축구는 지난 천 년 동안 엄청나게 발전해 왔습니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "The university library contains manuscripts dating back over a millennium.",
+      "sentence_ko": "대학 도서관에는 천 년이 넘은 필사본이 소장되어 있습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "Traditional cooking methods have been passed down for a millennium.",
+      "sentence_ko": "전통 조리법은 천 년 동안 전해져 내려왔습니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "Medical practices have changed drastically over the last millennium.",
+      "sentence_ko": "의료 관행은 지난 천 년간 크게 변화했습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Millennium",
+      "sentence_en": "The new millennium brought unprecedented technological advances to travel.",
+      "sentence_ko": "새 천년은 여행 분야에 전례 없는 기술 발전을 가져왔습니다.",
+      "tags": ["travel", "develope"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "This restaurant has been serving customers for over a century.",
+      "sentence_ko": "이 식당은 100년 넘게 손님들을 맞이해 왔습니다.",
+      "tags": ["restaurant", "journey"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "The century-old university building still holds classes today.",
+      "sentence_ko": "100년 된 대학 건물에서 오늘날에도 여전히 수업이 진행됩니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "Soccer became a global phenomenon over the course of a century.",
+      "sentence_ko": "축구는 한 세기에 걸쳐 전 세계적인 현상이 되었습니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "Life expectancy has doubled in the last century due to medical advances.",
+      "sentence_ko": "의학의 발전으로 지난 100년간 기대 수명이 두 배로 늘었습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "Travel options have expanded dramatically over the past century.",
+      "sentence_ko": "지난 세기 동안 여행 선택지가 크게 넓어졌습니다.",
+      "tags": ["travel", "journey"]
+    },
+    {
+      "word": "Century",
+      "sentence_en": "Fashion styles have cycled through countless trends over the century.",
+      "sentence_ko": "패션 스타일은 한 세기 동안 수많은 트렌드를 거쳐 왔습니다.",
+      "tags": ["style", "journey"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "The team has dominated the league for the past decade.",
+      "sentence_ko": "그 팀은 지난 10년간 리그를 지배해 왔습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "Over the decade, the restaurant evolved from casual to fine dining.",
+      "sentence_ko": "10년 동안 그 식당은 캐주얼에서 파인다이닝으로 발전했습니다.",
+      "tags": ["restaurant", "develope", "style"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "She spent a decade developing her expertise in software engineering.",
+      "sentence_ko": "그녀는 10년 동안 소프트웨어 공학 전문성을 쌓았습니다.",
+      "tags": ["develope", "journey"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "Health awareness has increased significantly over the past decade.",
+      "sentence_ko": "건강에 대한 인식이 지난 10년간 크게 높아졌습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "The decade since graduation has brought many adventures and travels.",
+      "sentence_ko": "졸업 후 10년 동안 많은 모험과 여행을 했습니다.",
+      "tags": ["university", "travel", "journey"]
+    },
+    {
+      "word": "Decade",
+      "sentence_en": "Travel costs have fluctuated considerably over the last decade.",
+      "sentence_ko": "여행 비용은 지난 10년간 상당히 변동이 있었습니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "This family recipe has been passed down through four generations.",
+      "sentence_ko": "이 가족 레시피는 4대에 걸쳐 전해져 내려왔습니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "The younger generation prefers booking travel through mobile apps.",
+      "sentence_ko": "젊은 세대는 모바일 앱으로 여행을 예약하는 것을 선호합니다.",
+      "tags": ["travel", "vacation", "develope"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "Each generation of soccer players brings new skills and tactics.",
+      "sentence_ko": "매 세대의 축구 선수들이 새로운 기술과 전술을 가져옵니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "This generation of university students faces unique challenges.",
+      "sentence_ko": "이 세대의 대학생들은 특유의 도전에 직면해 있습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "Health priorities differ significantly between generations.",
+      "sentence_ko": "건강에 대한 우선순위는 세대 간에 크게 다릅니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Generation",
+      "sentence_en": "Fashion trends often skip a generation before coming back in style.",
+      "sentence_ko": "패션 트렌드는 한 세대를 건너뛰고 다시 유행하는 경우가 많습니다.",
+      "tags": ["style", "journey"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "The team established a dynasty by winning five consecutive championships.",
+      "sentence_ko": "그 팀은 5회 연속 우승하며 명문 팀으로 자리 잡았습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "The restaurant is run by a dynasty of talented chefs.",
+      "sentence_ko": "그 식당은 대대로 이어져 온 재능 있는 셰프 가문이 운영합니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "We visited ancient palaces from the Ming dynasty during our trip to China.",
+      "sentence_ko": "중국 여행 중 명나라 시대의 고대 궁궐을 방문했습니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "The family has built a business dynasty spanning three generations.",
+      "sentence_ko": "그 가족은 3대에 걸친 사업 왕조를 구축했습니다.",
+      "tags": ["develope", "journey"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "Medical knowledge during the Han dynasty was surprisingly advanced.",
+      "sentence_ko": "한나라 시대의 의학 지식은 놀라울 정도로 발전해 있었습니다.",
+      "tags": ["health", "university"]
+    },
+    {
+      "word": "Dynasty",
+      "sentence_en": "The art style of the Tang dynasty continues to influence modern design.",
+      "sentence_ko": "당나라의 예술 양식은 오늘날의 디자인에도 계속 영향을 미치고 있습니다.",
+      "tags": ["style", "university"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "The recovery period after surgery typically lasts about six weeks.",
+      "sentence_ko": "수술 후 회복 기간은 보통 약 6주 정도입니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "During the exam period, the university library extends its hours.",
+      "sentence_ko": "시험 기간에는 대학 도서관이 운영 시간을 연장합니다.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "The off-peak travel period offers lower prices for vacations.",
+      "sentence_ko": "비수기 여행 시즌에는 휴가 비용이 더 저렴합니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "The transfer period allows soccer teams to sign new players.",
+      "sentence_ko": "이적 시장 기간에는 축구팀들이 새 선수를 영입할 수 있습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "During the lunch period, the restaurant is always crowded.",
+      "sentence_ko": "점심시간에는 식당이 항상 붐빕니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Period",
+      "sentence_en": "That period of my life taught me valuable lessons about perseverance.",
+      "sentence_ko": "그 시기는 나에게 인내에 대한 소중한 교훈을 가르쳐 주었습니다.",
+      "tags": ["journey", "develope"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The rehabilitation phase requires patience and consistent effort.",
+      "sentence_ko": "재활 단계에는 인내심과 꾸준한 노력이 필요합니다.",
+      "tags": ["health", "soccer"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The project is currently in its development phase.",
+      "sentence_ko": "프로젝트는 현재 개발 단계에 있습니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The planning phase of our vacation took several weeks.",
+      "sentence_ko": "휴가 계획 단계에 몇 주가 걸렸습니다.",
+      "tags": ["vacation", "planning"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "Every student goes through a challenging phase during university.",
+      "sentence_ko": "모든 학생이 대학 시절 힘든 시기를 겪게 됩니다.",
+      "tags": ["university", "journey"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The group phase of the tournament determines which teams advance.",
+      "sentence_ko": "토너먼트의 조별 예선 단계에서 어떤 팀이 올라갈지 결정됩니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The restaurant is going through a rebranding phase to attract younger customers.",
+      "sentence_ko": "식당은 젊은 고객을 끌어들이기 위해 리브랜딩 단계를 거치고 있습니다.",
+      "tags": ["restaurant", "style", "develope"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "At this stage of recovery, light exercise is encouraged.",
+      "sentence_ko": "이 회복 단계에서는 가벼운 운동이 권장됩니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "We are at the early stage of planning our summer vacation.",
+      "sentence_ko": "우리는 여름 휴가 계획의 초기 단계에 있습니다.",
+      "tags": ["vacation", "planning"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "The knockout stage of the World Cup begins next week.",
+      "sentence_ko": "월드컵 토너먼트 단계가 다음 주에 시작됩니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "My career is at a stage where I need to make important decisions.",
+      "sentence_ko": "내 커리어가 중요한 결정을 내려야 하는 단계에 와 있습니다.",
+      "tags": ["develope", "journey"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "At this stage of the semester, students begin preparing for finals.",
+      "sentence_ko": "학기의 이 시점에서 학생들은 기말고사 준비를 시작합니다.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Stage",
+      "sentence_en": "The restaurant is setting the stage for its grand reopening.",
+      "sentence_ko": "식당이 그랜드 재오픈을 위한 준비를 하고 있습니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The interim coach led the team until a permanent one was hired.",
+      "sentence_ko": "임시 감독이 정식 감독이 선임될 때까지 팀을 이끌었습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "In the interim period between jobs, she traveled extensively.",
+      "sentence_ko": "직장 사이의 공백 기간에 그녀는 여행을 많이 다녔습니다.",
+      "tags": ["travel", "journey", "vacation"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The interim solution will work until we develop a better system.",
+      "sentence_ko": "더 나은 시스템을 개발할 때까지 임시 방안으로 해결할 수 있습니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "An interim health report was provided before the final diagnosis.",
+      "sentence_ko": "최종 진단 전에 중간 건강 보고서가 제공되었습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The university appointed an interim dean while searching for a replacement.",
+      "sentence_ko": "대학은 후임자를 찾는 동안 임시 학장을 임명했습니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The restaurant offered an interim menu during the kitchen renovation.",
+      "sentence_ko": "식당은 주방 리모델링 기간 동안 임시 메뉴를 제공했습니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "There is a fifteen-minute interval between the first and second halves.",
+      "sentence_ko": "전반전과 후반전 사이에 15분의 휴식 시간이 있습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "The doctor recommended eating at regular intervals for better digestion.",
+      "sentence_ko": "의사가 소화를 위해 규칙적인 간격으로 식사하라고 권했습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "During the interval between flights, we explored the airport shops.",
+      "sentence_ko": "비행기 환승 대기 시간에 공항 상점들을 둘러봤습니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "Short rest intervals between workouts improve overall performance.",
+      "sentence_ko": "운동 사이의 짧은 휴식 시간이 전체적인 성과를 향상시킵니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "The courses are offered at six-month intervals throughout the year.",
+      "sentence_ko": "강좌는 일 년 내내 6개월 간격으로 제공됩니다.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Interval",
+      "sentence_en": "The restaurant serves coffee at intervals throughout the long dinner service.",
+      "sentence_ko": "식당에서는 긴 저녁 식사 중간중간에 커피를 제공합니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "The gap between semesters allowed her to pursue an internship abroad.",
+      "sentence_ko": "학기 사이의 공백 기간에 해외 인턴십을 할 수 있었습니다.",
+      "tags": ["university", "travel", "develope"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "There was a significant gap between his injuries and full recovery.",
+      "sentence_ko": "부상과 완전한 회복 사이에 상당한 기간이 있었습니다.",
+      "tags": ["health", "soccer"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "Taking a gap year before university is becoming increasingly common.",
+      "sentence_ko": "대학 전에 갭이어를 갖는 것이 점점 보편화되고 있습니다.",
+      "tags": ["university", "travel", "journey"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "The skill gap between amateur and professional players is enormous.",
+      "sentence_ko": "아마추어와 프로 선수 사이의 실력 차이는 엄청납니다.",
+      "tags": ["soccer", "develope"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "We need to bridge the gap in our travel itinerary.",
+      "sentence_ko": "여행 일정의 빈 시간을 채워야 합니다.",
+      "tags": ["travel", "planning", "vacation"]
+    },
+    {
+      "word": "Gap",
+      "sentence_en": "The generation gap affects dining preferences at family restaurants.",
+      "sentence_ko": "세대 차이가 가족 식당에서의 음식 취향에 영향을 미칩니다.",
+      "tags": ["restaurant", "style"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "The band went on a two-year hiatus before releasing their new album.",
+      "sentence_ko": "밴드는 새 앨범을 내기 전 2년간 활동을 중단했습니다.",
+      "tags": ["journey"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "After the injury, the player took a hiatus from professional soccer.",
+      "sentence_ko": "부상 후 선수는 프로 축구를 잠시 쉬었습니다.",
+      "tags": ["soccer", "health"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "She took a hiatus from her studies to focus on her health.",
+      "sentence_ko": "그녀는 건강에 집중하기 위해 학업을 잠시 중단했습니다.",
+      "tags": ["university", "health"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "The restaurant is on hiatus while undergoing major renovations.",
+      "sentence_ko": "식당은 대대적인 리모델링을 위해 잠시 영업을 중단했습니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "During his career hiatus, he traveled around Southeast Asia.",
+      "sentence_ko": "경력 공백기 동안 그는 동남아시아를 여행했습니다.",
+      "tags": ["travel", "vacation", "journey"]
+    },
+    {
+      "word": "Hiatus",
+      "sentence_en": "The development team took a brief hiatus to reassess the project goals.",
+      "sentence_ko": "개발팀은 프로젝트 목표를 재점검하기 위해 잠시 쉬었습니다.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "During the lull in activity, she caught up on reading and rest.",
+      "sentence_ko": "활동이 뜸한 시기에 밀린 독서와 휴식을 취했습니다.",
+      "tags": ["health", "journey"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "The mid-afternoon lull at the restaurant is perfect for a quiet meal.",
+      "sentence_ko": "오후 중반 한가한 시간대는 조용한 식사에 딱 좋습니다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "There was a brief lull in the game before the dramatic final minutes.",
+      "sentence_ko": "극적인 막판 전에 잠시 경기가 소강상태였습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "The lull between tourist seasons makes travel more affordable.",
+      "sentence_ko": "관광 시즌 사이의 한가한 시기에는 여행 비용이 더 저렴합니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "Use the lull in your schedule to catch up on professional development.",
+      "sentence_ko": "일정이 한가할 때 자기 계발을 하세요.",
+      "tags": ["develope", "planning"]
+    },
+    {
+      "word": "Lull",
+      "sentence_en": "The lull before exam period is the calm before the storm.",
+      "sentence_ko": "시험 기간 전의 소강상태는 폭풍 전의 고요함입니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "The vacation provided a much-needed respite from work stress.",
+      "sentence_ko": "휴가가 업무 스트레스에서 꼭 필요한 휴식이 되어 주었습니다.",
+      "tags": ["vacation", "health"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "Halftime offers players a brief respite to recover their energy.",
+      "sentence_ko": "하프타임은 선수들에게 체력을 회복할 짧은 휴식 시간을 제공합니다.",
+      "tags": ["soccer", "health"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "The weekend getaway was a respite from the demands of daily life.",
+      "sentence_ko": "주말 여행은 일상의 압박에서 벗어나는 휴식이었습니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "The medication provided temporary respite from chronic pain.",
+      "sentence_ko": "그 약은 만성 통증을 일시적으로 완화해 주었습니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "Spring break offers students a respite from academic pressures.",
+      "sentence_ko": "봄방학은 학생들에게 학업 스트레스에서 벗어날 휴식을 제공합니다.",
+      "tags": ["university", "vacation"]
+    },
+    {
+      "word": "Respite",
+      "sentence_en": "The quiet cafe offered respite from the busy city streets.",
+      "sentence_ko": "조용한 카페가 분주한 도시 거리에서 벗어난 휴식처가 되었습니다.",
+      "tags": ["restaurant", "travel"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "During her tenure as captain, the team won three championships.",
+      "sentence_ko": "주장 재임 기간 동안 팀은 3번의 우승을 거뒀습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "The professor earned tenure after years of dedicated research.",
+      "sentence_ko": "교수는 수년간의 헌신적인 연구 끝에 종신 재직권을 얻었습니다.",
+      "tags": ["university", "develope"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "His tenure at the restaurant lasted over fifteen years.",
+      "sentence_ko": "그 식당에서의 재직 기간은 15년이 넘었습니다.",
+      "tags": ["restaurant", "journey"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "The coach's tenure was marked by both successes and controversies.",
+      "sentence_ko": "그 감독의 재임 기간은 성공과 논란으로 점철되었습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "During her tenure as health minister, major reforms were implemented.",
+      "sentence_ko": "보건부 장관 재임 기간 동안 주요 개혁이 시행되었습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Tenure",
+      "sentence_en": "The developer's tenure at the company produced innovative products.",
+      "sentence_ko": "그 개발자의 회사 재직 기간 동안 혁신적인 제품들이 나왔습니다.",
+      "tags": ["develope", "journey"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "The fall term at university begins in early September.",
+      "sentence_ko": "대학 가을 학기는 9월 초에 시작됩니다.",
+      "tags": ["university", "planning"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "The contract specifies a three-year term for the player.",
+      "sentence_ko": "계약서에 선수의 계약 기간이 3년으로 명시되어 있습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "The restaurant lease has a five-year term with renewal options.",
+      "sentence_ko": "식당 임대 계약은 갱신 옵션이 있는 5년 기간입니다.",
+      "tags": ["restaurant", "planning"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "Long-term health benefits come from consistent exercise habits.",
+      "sentence_ko": "장기적인 건강 효과는 꾸준한 운동 습관에서 나옵니다.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "Our travel insurance covers the entire term of our vacation.",
+      "sentence_ko": "여행자 보험이 휴가 전체 기간을 보장합니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Term",
+      "sentence_en": "The internship term is typically three to six months.",
+      "sentence_ko": "인턴십 기간은 보통 3개월에서 6개월입니다.",
+      "tags": ["develope", "university"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "The duration of the flight from Seoul to Paris is about twelve hours.",
+      "sentence_ko": "서울에서 파리까지 비행 시간은 약 12시간입니다.",
+      "tags": ["travel", "vacation"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "The duration of the match was extended due to injury time.",
+      "sentence_ko": "부상 시간으로 인해 경기 시간이 연장되었습니다.",
+      "tags": ["soccer"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "For the duration of your treatment, avoid strenuous physical activity.",
+      "sentence_ko": "치료 기간 동안에는 격렬한 신체 활동을 피하세요.",
+      "tags": ["health"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "The duration of the university program is four years.",
+      "sentence_ko": "대학 프로그램의 기간은 4년입니다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "The warranty covers repairs for the duration of two years.",
+      "sentence_ko": "보증은 2년간 수리를 보장합니다.",
+      "tags": ["planning"]
+    },
+    {
+      "word": "Duration",
+      "sentence_en": "The restaurant offers special menus for the duration of the festival.",
+      "sentence_ko": "식당에서 축제 기간 동안 특별 메뉴를 제공합니다.",
+      "tags": ["restaurant", "vacation"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "The bridge has a span of over two kilometers across the river.",
+      "sentence_ko": "그 다리는 강을 가로지르는 2킬로미터가 넘는 길이를 자랑합니다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "His professional soccer career spanned nearly two decades.",
+      "sentence_ko": "그의 프로 축구 선수 생활은 거의 20년에 걸쳤습니다.",
+      "tags": ["soccer", "journey"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "The human attention span has decreased in the digital age.",
+      "sentence_ko": "디지털 시대에 인간의 집중력 지속 시간이 짧아졌습니다.",
+      "tags": ["health", "develope"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "Our vacation will span three countries over two weeks.",
+      "sentence_ko": "우리 휴가는 2주에 걸쳐 세 나라를 돌아볼 예정입니다.",
+      "tags": ["travel", "vacation", "planning"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "The university's history spans more than three hundred years.",
+      "sentence_ko": "그 대학의 역사는 300년이 넘습니다.",
+      "tags": ["university", "journey"]
+    },
+    {
+      "word": "Span",
+      "sentence_en": "The chef's career span included work in restaurants across five continents.",
+      "sentence_ko": "그 셰프의 경력은 5개 대륙의 식당에서의 근무를 포함합니다.",
+      "tags": ["restaurant", "journey", "travel"]
+    }
+  ]
+}

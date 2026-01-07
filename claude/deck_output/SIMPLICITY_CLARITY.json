@@ -1,0 +1,906 @@
+{
+  "deck_title": "SIMPLICITY_CLARITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Simple",
+      "sentence_en": "A simple apology to your family can often heal old emotional wounds.",
+      "sentence_ko": "가족에게 건네는 진심 어린 사과 한마디가 때로는 오래된 감정의 골을 메워줍니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "The startup focused on a simple design to make the app more user-friendly.",
+      "sentence_ko": "그 스타트업은 앱을 더 사용하기 쉽게 만들기 위해 단순한 디자인에 집중했습니다.",
+      "tags": ["startup", "style", "career"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "Sometimes the most simple meals at a local restaurant are the most satisfying.",
+      "sentence_ko": "때로는 동네 식당에서 먹는 가장 소박한 식사가 가장 만족스러울 때가 있습니다.",
+      "tags": ["restaurant", "social", "nature"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "He explained the complex scientific theory in simple terms that even kids could understand.",
+      "sentence_ko": "그는 복잡한 과학 이론을 아이들도 이해할 수 있을 만큼 쉬운 용어로 설명했습니다.",
+      "tags": ["school", "social", "career"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "Living a simple life close to nature helped her recover from chronic stress.",
+      "sentence_ko": "자연과 가까운 단순한 삶을 사는 것이 그녀의 만성 스트레스 회복에 도움이 되었습니다.",
+      "tags": ["nature", "feeling", "style"]
+    },
+    {
+      "word": "Clear",
+      "sentence_en": "The manager gave clear instructions to ensure the project stayed on schedule.",
+      "sentence_ko": "매니저는 프로젝트가 일정대로 진행되도록 명확한 지시를 내렸습니다.",
+      "tags": ["career", "startup", "school"]
+    },
+    {
+      "word": "Clear",
+      "sentence_en": "It was clear from her sad expression that she had received some bad news.",
+      "sentence_ko": "그녀의 슬픈 표정을 보니 나쁜 소식을 들었다는 것이 분명해 보였습니다.",
+      "tags": ["feeling", "sad", "social"]
+    },
+    {
+      "word": "Clear",
+      "sentence_en": "The mountain air was so clear that we could see for miles in every direction.",
+      "sentence_ko": "산 공기가 너무 맑아서 사방 수 마일 밖까지 훤히 보였습니다.",
+      "tags": ["nature", "feeling", "style"]
+    },
+    {
+      "word": "Clear",
+      "sentence_en": "A clear vision is essential for any startup founder looking to attract investors.",
+      "sentence_ko": "투자자를 유치하려는 스타트업 창업자에게는 명확한 비전이 필수적입니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Clear",
+      "sentence_en": "The teacher used a clear diagram to show how the water cycle works.",
+      "sentence_ko": "선생님은 물의 순환 과정을 보여주기 위해 명확한 도표를 사용했습니다.",
+      "tags": ["school", "nature", "career"]
+    },
+    {
+      "word": "Plain",
+      "sentence_en": "He prefers wearing plain t-shirts rather than clothes with big, flashy logos.",
+      "sentence_ko": "그는 크고 화려한 로고가 있는 옷보다 아무 무늬 없는 평범한 티셔츠를 즐겨 입습니다.",
+      "tags": ["style", "feeling", "social"]
+    },
+    {
+      "word": "Plain",
+      "sentence_en": "To be plain with you, I don't think this business model is sustainable.",
+      "sentence_ko": "솔직히 말씀드리면, 저는 이 비즈니스 모델이 지속 가능하다고 생각하지 않습니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Plain",
+      "sentence_en": "The interior of the restaurant was plain but very clean and welcoming.",
+      "sentence_ko": "식당 내부는 수수했지만 매우 깨끗하고 아늑한 분위기였습니다.",
+      "tags": ["restaurant", "style", "social"]
+    },
+    {
+      "word": "Plain",
+      "sentence_en": "The truth of the situation was plain for everyone to see after the report.",
+      "sentence_ko": "보고서가 발표된 후 상황의 진실은 누가 봐도 명백해졌습니다.",
+      "tags": ["social", "career", "school"]
+    },
+    {
+      "word": "Plain",
+      "sentence_en": "She wrote her essay in plain English to make it accessible to a wider audience.",
+      "sentence_ko": "그녀는 더 많은 사람이 읽을 수 있도록 평이한 영어로 에세이를 썼습니다.",
+      "tags": ["school", "career", "social"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "The assembly process for the new desk was surprisingly straightforward and quick.",
+      "sentence_ko": "새 책상을 조립하는 과정이 생각보다 아주 간단하고 빨랐습니다.",
+      "tags": ["style", "social", "school"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "I appreciate your straightforward answer regarding the budget for our startup.",
+      "sentence_ko": "우리 스타트업 예산에 대해 빙 돌리지 않고 솔직하게 답변해 주셔서 감사합니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "Her straightforward approach to conflict helped resolve the family dispute quickly.",
+      "sentence_ko": "갈등에 대한 그녀의 정공법적인 접근 방식 덕분에 가족 간의 분쟁이 빨리 해결되었습니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "The exam questions were straightforward, with no hidden tricks or difficulties.",
+      "sentence_ko": "시험 문제는 함정이나 꼬아낸 것 없이 아주 명쾌하고 정직하게 출제되었습니다.",
+      "tags": ["school", "career", "feeling"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "Booking a table at this restaurant is a very straightforward online process.",
+      "sentence_ko": "이 식당의 예약 과정은 온라인으로 아주 간편하게 되어 있습니다.",
+      "tags": ["restaurant", "social", "startup"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "Please give me a direct answer so we can move forward with the project.",
+      "sentence_ko": "프로젝트를 진행할 수 있도록 우회하지 말고 직접적인 답변을 주세요.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "The sunlight had a direct impact on the plants growing by the window.",
+      "sentence_ko": "직사광선이 창가에서 자라는 식물들에 직접적인 영향을 주었습니다.",
+      "tags": ["nature", "style", "school"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "There is a direct bus from the school to the city's main library.",
+      "sentence_ko": "학교에서 시립 중앙 도서관까지 한 번에 가는 직행 버스가 있습니다.",
+      "tags": ["school", "social", "career"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "She prefers direct communication to avoid any potential misunderstandings with friends.",
+      "sentence_ko": "그녀는 친구들과의 오해를 피하기 위해 직접 대화하는 방식을 선호합니다.",
+      "tags": ["social", "feeling", "family"]
+    },
+    {
+      "word": "Direct",
+      "sentence_en": "The CEO held a direct meeting with all employees to discuss the company's future.",
+      "sentence_ko": "CEO는 회사의 미래를 논의하기 위해 모든 직원과 직접 대화하는 자리를 가졌습니다.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "After the long flight, he struggled to give a coherent explanation of the event.",
+      "sentence_ko": "장거리 비행 직후라 그는 사건에 대해 앞뒤가 맞는 설명을 하는 데 애를 먹었습니다.",
+      "tags": ["feeling", "social", "career"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "The startup's pitch was coherent and logical, impressing the panel of judges.",
+      "sentence_ko": "그 스타트업의 발표는 일관성 있고 논리적이어서 심사위원들에게 깊은 인상을 남겼습니다.",
+      "tags": ["startup", "career", "school"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "A coherent strategy is necessary for the long-term success of the business.",
+      "sentence_ko": "사업의 장기적인 성공을 위해서는 일관성 있는 전략이 반드시 필요합니다.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "The movie plot was not very coherent, making it difficult for the audience to follow.",
+      "sentence_ko": "영화 줄거리가 별로 일관성이 없어서 관객들이 따라가기 힘들었습니다.",
+      "tags": ["social", "feeling", "sad"]
+    },
+    {
+      "word": "Coherent",
+      "sentence_en": "He made a coherent argument for why we should protect natural habitats.",
+      "tags": ["nature", "school", "social"],
+      "sentence_ko": "그는 왜 우리가 자연 서식지를 보호해야 하는지에 대해 조리 있게 주장했습니다."
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "Despite his age, the grandfather remained lucid and could recall old memories vividly.",
+      "sentence_ko": "연세에도 불구하고 할아버지는 정신이 아주 맑으셨고 옛 기억들을 생생하게 떠올리셨습니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "The professor's lucid explanation turned a difficult topic into an easy lesson.",
+      "sentence_ko": "교수님의 명쾌한 설명 덕분에 어려운 주제가 쉬운 수업으로 바뀌었습니다.",
+      "tags": ["school", "career", "feeling"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "I had a lucid dream where I was flying high above the mountains.",
+      "sentence_ko": "나는 산 위를 높이 날아다니는 아주 선명한 자각몽을 꾸었습니다.",
+      "tags": ["feeling", "nature", "style"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "Write a lucid summary of the meeting for those who couldn't attend today.",
+      "sentence_ko": "오늘 참석하지 못한 분들을 위해 회의 내용을 명쾌하게 요약해서 작성해 주세요.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Lucid",
+      "sentence_en": "His writing style is lucid and elegant, making his books a joy to read.",
+      "sentence_ko": "그의 글솜씨는 명료하고 우아해서 책을 읽는 즐거움을 줍니다.",
+      "tags": ["style", "school", "feeling"]
+    },
+    {
+      "word": "Distinct",
+      "sentence_en": "There is a distinct smell of fresh coffee coming from the restaurant nearby.",
+      "sentence_ko": "근처 식당에서 갓 내린 커피의 뚜렷한 향기가 풍겨옵니다.",
+      "tags": ["restaurant", "nature", "social"]
+    },
+    {
+      "word": "Distinct",
+      "sentence_en": "The two startups have distinct goals, even though they are in the same industry.",
+      "sentence_ko": "그 두 스타트업은 같은 업계에 있음에도 불구하고 목표가 확연히 다릅니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Distinct",
+      "sentence_en": "The red flowers stood out as a distinct contrast against the green grass.",
+      "sentence_ko": "빨간 꽃들이 초록색 잔디와 뚜렷한 대조를 이루며 눈에 띄었습니다.",
+      "tags": ["nature", "style", "feeling"]
+    },
+    {
+      "word": "Distinct",
+      "sentence_en": "She heard a distinct sound of footsteps approaching the door in the quiet house.",
+      "sentence_ko": "조용한 집 안에서 그녀는 문으로 다가오는 뚜렷한 발자국 소리를 들었습니다.",
+      "tags": ["feeling", "family", "sad"]
+    },
+    {
+      "word": "Distinct",
+      "sentence_en": "Each member of our family has a distinct personality and set of interests.",
+      "sentence_ko": "우리 가족 구성원들은 저마다 뚜렷한 개성과 관심사를 가지고 있습니다.",
+      "tags": ["family", "social", "feeling"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "The teacher gave explicit warnings about the consequences of cheating on the exam.",
+      "sentence_ko": "선생님은 시험 부정행위의 결과에 대해 명시적으로 경고했습니다.",
+      "tags": ["school", "social", "career"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "The contract includes explicit details about the salary and working hours.",
+      "sentence_ko": "계약서에는 급여와 근무 시간에 대한 상세한 내용이 명시되어 있습니다.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "I need explicit permission from my parents to go on the school field trip.",
+      "sentence_ko": "학교 현장 체험 학습을 가려면 부모님의 명확한 허락이 필요합니다.",
+      "tags": ["family", "school", "social"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "The director provided explicit instructions on how the scene should be filmed.",
+      "sentence_ko": "감독은 그 장면이 어떻게 촬영되어야 하는지 명확하게 지시했습니다.",
+      "tags": ["career", "style", "social"]
+    },
+    {
+      "word": "Explicit",
+      "sentence_en": "She was explicit about her feelings, leaving no room for doubt or confusion.",
+      "sentence_ko": "그녀는 자신의 감정을 숨김없이 드러냈고, 의심이나 혼란의 여지를 남기지 않았습니다.",
+      "tags": ["feeling", "social", "sad"]
+    },
+    {
+      "word": "Obvious",
+      "sentence_en": "It was obvious that he was nervous during his first interview at the startup.",
+      "sentence_ko": "스타트업에서의 첫 면접 동안 그가 긴장했다는 것은 누가 봐도 뻔했습니다.",
+      "tags": ["startup", "feeling", "career"]
+    },
+    {
+      "word": "Obvious",
+      "sentence_en": "The solution to the math problem seemed obvious once it was explained.",
+      "sentence_ko": "설명을 듣고 나니 수학 문제의 답이 너무나 분명해 보였습니다.",
+      "tags": ["school", "career", "feeling"]
+    },
+    {
+      "word": "Obvious",
+      "sentence_en": "There is an obvious need for more green spaces in our crowded city.",
+      "sentence_ko": "붐비는 우리 도시에는 녹지 공간이 더 필요하다는 것이 자명합니다.",
+      "tags": ["nature", "social", "career"]
+    },
+    {
+      "word": "Obvious",
+      "sentence_en": "It's obvious that she loves her children by the way she speaks about them.",
+      "sentence_ko": "그녀가 아이들에 대해 말하는 방식만 봐도 아이들을 사랑한다는 게 눈에 보입니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Obvious",
+      "sentence_en": "The reason for the restaurant's failure was obvious: the food was simply terrible.",
+      "sentence_ko": "그 식당이 망한 이유는 뻔했습니다. 음식이 정말 형편없었거든요.",
+      "tags": ["restaurant", "sad", "social"]
+    },
+    {
+      "word": "Evident",
+      "sentence_en": "Her talent for music was evident even when she was a very small child.",
+      "sentence_ko": "그녀의 음악적 재능은 아주 어린 아이였을 때부터 이미 확실히 드러났습니다.",
+      "tags": ["school", "family", "feeling"]
+    },
+    {
+      "word": "Evident",
+      "sentence_en": "It is evident from the recent data that our startup is growing faster than expected.",
+      "sentence_ko": "최근 데이터를 보면 우리 스타트업이 예상보다 빠르게 성장하고 있음이 분명합니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Evident",
+      "sentence_en": "The frustration was evident in his voice as he explained the technical glitch.",
+      "sentence_ko": "기술적 결함을 설명하는 그의 목소리에는 답답함이 고스란히 묻어났습니다.",
+      "tags": ["feeling", "career", "social"]
+    },
+    {
+      "word": "Evident",
+      "sentence_en": "The damage to the building was evident immediately after the heavy storm.",
+      "sentence_ko": "심한 폭풍이 지나간 직후 건물의 피해가 명백하게 드러났습니다.",
+      "tags": ["nature", "sad", "social"]
+    },
+    {
+      "word": "Evident",
+      "sentence_en": "There is evident pride in the chef's face when he presents his signature dish.",
+      "sentence_ko": "대표 요리를 내놓는 셰프의 얼굴에는 숨길 수 없는 자부심이 보입니다.",
+      "tags": ["restaurant", "career", "feeling"]
+    },
+    {
+      "word": "Apparent",
+      "sentence_en": "The difference between the two products became apparent after a week of use.",
+      "sentence_ko": "일주일간 사용해 보니 두 제품의 차이가 분명하게 드러났습니다.",
+      "tags": ["startup", "career", "style"]
+    },
+    {
+      "word": "Apparent",
+      "sentence_en": "For no apparent reason, the computer suddenly shut down in the middle of work.",
+      "sentence_ko": "별다른 이유도 없이 작업 중에 컴퓨터가 갑자기 꺼져 버렸습니다.",
+      "tags": ["career", "sad", "feeling"]
+    },
+    {
+      "word": "Apparent",
+      "sentence_en": "His apparent lack of interest in the project worried the rest of the team.",
+      "sentence_ko": "겉으로 보이는 그의 프로젝트에 대한 무관심이 나머지 팀원들을 걱정하게 했습니다.",
+      "tags": ["career", "social", "feeling"]
+    },
+    {
+      "word": "Apparent",
+      "sentence_en": "The apparent size of the moon changes depending on its position in the sky.",
+      "sentence_ko": "달의 겉보기 크기는 하늘에서의 위치에 따라 달라집니다.",
+      "tags": ["nature", "school", "style"]
+    },
+    {
+      "word": "Apparent",
+      "sentence_en": "It was apparent to everyone at the restaurant that the couple was having an argument.",
+      "sentence_ko": "식당에 있던 모든 사람에게 그 커플이 말다툼하고 있다는 것이 빤히 보였습니다.",
+      "tags": ["restaurant", "social", "sad"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "He only has a rudimentary knowledge of French, so he uses a translation app.",
+      "sentence_ko": "그는 프랑스어 지식이 아주 기초적인 수준이라 번역 앱을 사용합니다.",
+      "tags": ["school", "social", "career"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "The first version of the startup's product was quite rudimentary but it worked.",
+      "sentence_ko": "스타트업의 첫 제품 버전은 아주 초기 단계였지만 작동은 했습니다.",
+      "tags": ["startup", "career", "style"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "In the remote village, medical facilities are still very rudimentary.",
+      "sentence_ko": "그 외딴 마을의 의료 시설은 여전히 매우 낙후된 기초적인 수준입니다.",
+      "tags": ["social", "nature", "sad"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "The students learned rudimentary survival skills during their camping trip in the forest.",
+      "sentence_ko": "학생들은 숲속 캠핑 여행 중에 기본적인 생존 기술을 배웠습니다.",
+      "tags": ["school", "nature", "social"]
+    },
+    {
+      "word": "Rudimentary",
+      "sentence_en": "Even a rudimentary understanding of math is necessary for basic financial planning.",
+      "sentence_ko": "기본적인 재무 계획을 세우는 데에도 최소한의 수학 지식은 필요합니다.",
+      "tags": ["career", "school", "social"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "The teacher explained the elementary principles of physics using simple toys.",
+      "sentence_ko": "선생님은 간단한 장난감을 이용해 물리학의 기초 원리를 설명했습니다.",
+      "tags": ["school", "feeling", "career"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Making a mistake on such an elementary task was quite embarrassing for the intern.",
+      "sentence_ko": "그렇게 기본적인 업무에서 실수를 한 것이 인턴에게는 꽤 창피한 일이었습니다.",
+      "tags": ["career", "feeling", "social"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Learning to cook elementary dishes can save you a lot of money on eating out.",
+      "sentence_ko": "초보적인 요리법만 익혀도 외식비를 많이 아낄 수 있습니다.",
+      "tags": ["restaurant", "style", "social"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Elementary school is where most children form their first long-lasting friendships.",
+      "sentence_ko": "초등학교는 대부분의 아이가 처음으로 오래 지속되는 우정을 쌓는 곳입니다.",
+      "tags": ["school", "family", "social"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "It's elementary, my dear friend; the answer was right in front of us all along.",
+      "sentence_ko": "이건 아주 기초적인 거야, 친구. 답은 처음부터 우리 바로 앞에 있었어.",
+      "tags": ["social", "feeling", "school"]
+    },
+    {
+      "word": "Manifest",
+      "sentence_en": "The symptoms of the flu usually manifest as fever and body aches.",
+      "sentence_ko": "독감 증상은 보통 열과 근육통으로 나타납니다.",
+      "tags": ["feeling", "sad", "nature"]
+    },
+    {
+      "word": "Manifest",
+      "sentence_en": "Her love for the outdoors is manifest in the beautiful photos she takes.",
+      "sentence_ko": "야외 활동에 대한 그녀의 애정은 그녀가 찍은 아름다운 사진 속에 고스란히 드러납니다.",
+      "tags": ["nature", "style", "feeling"]
+    },
+    {
+      "word": "Manifest",
+      "sentence_en": "The stress of starting a new business can manifest in physical exhaustion.",
+      "sentence_ko": "새로운 사업을 시작할 때의 스트레스는 육체적인 피로로 나타날 수 있습니다.",
+      "tags": ["startup", "career", "feeling"]
+    },
+    {
+      "word": "Manifest",
+      "sentence_en": "The injustice in the system was manifest to anyone who bothered to look closely.",
+      "sentence_ko": "조금만 주의 깊게 살펴보면 시스템 내의 불공정함은 명백하게 보였습니다.",
+      "tags": ["social", "sad", "career"]
+    },
+    {
+      "word": "Manifest",
+      "sentence_en": "They believe that positive thinking can manifest success in your professional life.",
+      "sentence_ko": "그들은 긍정적인 사고가 직장 생활의 성공을 끌어낼 수 있다고 믿습니다.",
+      "tags": ["career", "feeling", "social"]
+    },
+    {
+      "word": "Transparent",
+      "sentence_en": "The startup promised to be completely transparent with their investors about spending.",
+      "sentence_ko": "그 스타트업은 투자자들에게 지출 내역을 완전히 투명하게 공개하겠다고 약속했습니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Transparent",
+      "sentence_en": "The water in the tropical lagoon was so transparent that we could see the fish.",
+      "sentence_ko": "열대 석호의 물이 너무 투명해서 물고기들이 훤히 보였습니다.",
+      "tags": ["nature", "style", "feeling"]
+    },
+    {
+      "word": "Transparent",
+      "sentence_en": "His lie was so transparent that no one in the family believed his excuse.",
+      "sentence_ko": "그의 거짓말은 너무 뻔히 들여다보여서 가족 중 아무도 그의 변명을 믿지 않았습니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Transparent",
+      "sentence_en": "A transparent government is essential for a healthy and functioning democracy.",
+      "sentence_ko": "건강하게 작동하는 민주주의를 위해서는 투명한 정부가 필수적입니다.",
+      "tags": ["social", "career", "school"]
+    },
+    {
+      "word": "Transparent",
+      "sentence_en": "The material used for the new phone case is high-quality transparent plastic.",
+      "sentence_ko": "새 핸드폰 케이스에 사용된 소재는 고급 투명 플라스틱입니다.",
+      "tags": ["style", "startup", "career"]
+    },
+    {
+      "word": "Self-explanatory",
+      "sentence_en": "The icons on the new smartphone interface are mostly self-explanatory.",
+      "sentence_ko": "새 스마트폰 인터페이스의 아이콘들은 대부분 따로 설명이 필요 없을 정도로 직관적입니다.",
+      "tags": ["startup", "style", "career"]
+    },
+    {
+      "word": "Self-explanatory",
+      "sentence_en": "The rules of the game are self-explanatory once you start playing.",
+      "sentence_ko": "게임 규칙은 일단 시작해보면 저절로 알게 될 만큼 단순합니다.",
+      "tags": ["social", "school", "feeling"]
+    },
+    {
+      "word": "Self-explanatory",
+      "sentence_en": "His angry reaction to the news was self-explanatory given the circumstances.",
+      "sentence_ko": "상황을 고려할 때, 그 소식에 대한 그의 분노 섞인 반응은 굳이 설명할 필요도 없었습니다.",
+      "tags": ["feeling", "sad", "social"]
+    },
+    {
+      "word": "Self-explanatory",
+      "sentence_en": "The warning label on the chemical bottle is self-explanatory: Do not drink.",
+      "sentence_ko": "화학 약품 병의 경고 문구는 보면 바로 알 수 있습니다. '마시지 마시오.'",
+      "tags": ["school", "social", "nature"]
+    },
+    {
+      "word": "Self-explanatory",
+      "sentence_en": "I think the data in the graph is self-explanatory and doesn't need much comment.",
+      "sentence_ko": "그래프의 데이터가 워낙 명확해서 별다른 부연 설명이 필요 없을 것 같습니다.",
+      "tags": ["career", "school", "startup"]
+    },
+    {
+      "word": "Unambiguous",
+      "sentence_en": "The laboratory results provided an unambiguous answer to the research question.",
+      "sentence_ko": "실험 결과는 연구 질문에 대해 모호하지 않고 명확한 해답을 주었습니다.",
+      "tags": ["school", "career", "nature"]
+    },
+    {
+      "word": "Unambiguous",
+      "sentence_en": "The company policy regarding remote work needs to be unambiguous to avoid confusion.",
+      "sentence_ko": "혼란을 피하기 위해 원격 근무에 관한 회사 정책은 명확하고 일관되어야 합니다.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Unambiguous",
+      "sentence_en": "She gave an unambiguous 'no' when asked if she would return to her old job.",
+      "sentence_ko": "예전 직장으로 돌아가겠느냐는 질문에 그녀는 단호하고 명확하게 '아니오'라고 답했습니다.",
+      "tags": ["career", "feeling", "social"]
+    },
+    {
+      "word": "Unambiguous",
+      "sentence_en": "The judge's ruling was unambiguous, leaving no room for further legal appeals.",
+      "sentence_ko": "판사의 판결은 매우 명확해서 더 이상의 법적 항소 여지를 남기지 않았습니다.",
+      "tags": ["social", "career", "sad"]
+    },
+    {
+      "word": "Unambiguous",
+      "sentence_en": "In a crisis, clear and unambiguous communication from leaders is vital.",
+      "sentence_ko": "위기 상황에서는 리더들의 명확하고 오해 없는 소통이 매우 중요합니다.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Unmistakable",
+      "sentence_en": "The unmistakable smell of baking bread filled the air near the restaurant.",
+      "sentence_ko": "식당 근처에 갓 구운 빵의 틀림없는 향기가 가득 퍼졌습니다.",
+      "tags": ["restaurant", "nature", "feeling"]
+    },
+    {
+      "word": "Unmistakable",
+      "sentence_en": "There was an unmistakable look of disappointment on her face after the meeting.",
+      "sentence_ko": "회의가 끝난 후 그녀의 얼굴에는 실망한 기색이 역력했습니다.",
+      "tags": ["feeling", "sad", "career"]
+    },
+    {
+      "word": "Unmistakable",
+      "sentence_en": "His deep, gravelly voice is unmistakable; you can recognize it anywhere.",
+      "sentence_ko": "그의 낮고 깔깔한 목소리는 아주 독특해서 어디서든 금방 알아챌 수 있습니다.",
+      "tags": ["social", "family", "feeling"]
+    },
+    {
+      "word": "Unmistakable",
+      "sentence_en": "The bright yellow house is unmistakable among all the grey buildings on the street.",
+      "sentence_ko": "거리의 칙칙한 건물들 사이에서 그 밝은 노란색 집은 한눈에 들어옵니다.",
+      "tags": ["style", "nature", "social"]
+    },
+    {
+      "word": "Unmistakable",
+      "sentence_en": "The footprints in the mud were unmistakable signs that a bear had passed by.",
+      "sentence_ko": "진흙 위의 발자국은 곰이 지나갔다는 틀림없는 흔적이었습니다.",
+      "tags": ["nature", "school", "feeling"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "Basic communication skills are essential for success in any career path.",
+      "sentence_ko": "기본적인 의사소통 능력은 어떤 직종에서든 성공하기 위해 필수적입니다.",
+      "tags": ["career", "social", "school"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "We need to cover the basic requirements before we discuss more complex features.",
+      "sentence_ko": "더 복잡한 기능을 논의하기 전에 기본적인 요구 사항부터 검토해야 합니다.",
+      "tags": ["startup", "career", "school"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "Living in a foreign country taught me the basic value of family and home.",
+      "sentence_ko": "외국 생활을 하면서 가족과 집이라는 가장 기본적인 가치를 깨달았습니다.",
+      "tags": ["family", "feeling", "social"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "The restaurant offers a basic menu of classic dishes that everyone loves.",
+      "sentence_ko": "그 식당은 누구나 좋아하는 고전적인 요리들로 구성된 기본 메뉴를 제공합니다.",
+      "tags": ["restaurant", "social", "style"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "Understanding basic math is necessary for managing your monthly household budget.",
+      "sentence_ko": "한 달 가계부를 관리하려면 기초적인 수학 이해가 필요합니다.",
+      "tags": ["family", "school", "social"]
+    },
+    {
+      "word": "Fundamental",
+      "sentence_en": "A fundamental change in our approach is needed to save the failing startup.",
+      "sentence_ko": "위기에 처한 스타트업을 구하려면 우리의 접근 방식에 근본적인 변화가 필요합니다.",
+      "tags": ["startup", "career", "sad"]
+    },
+    {
+      "word": "Fundamental",
+      "sentence_en": "Freedom of speech is a fundamental right in many modern democratic societies.",
+      "sentence_ko": "표현의 자유는 많은 현대 민주주의 사회에서 가장 근본적인 권리입니다.",
+      "tags": ["social", "school", "career"]
+    },
+    {
+      "word": "Fundamental",
+      "sentence_en": "The fundamental goal of education is to teach children how to think critically.",
+      "sentence_ko": "교육의 근본적인 목표는 아이들에게 비판적으로 생각하는 법을 가르치는 것입니다.",
+      "tags": ["school", "social", "feeling"]
+    },
+    {
+      "word": "Fundamental",
+      "sentence_en": "There is a fundamental difference in how we view the importance of nature.",
+      "sentence_ko": "자연의 중요성을 바라보는 우리의 시각에는 근본적인 차이가 있습니다.",
+      "tags": ["nature", "social", "feeling"]
+    },
+    {
+      "word": "Fundamental",
+      "sentence_en": "Respect is a fundamental part of maintaining a healthy relationship with family.",
+      "sentence_ko": "존중은 가족과 건강한 관계를 유지하는 데 있어 가장 핵심적인 요소입니다.",
+      "tags": ["family", "social", "feeling"]
+    },
+    {
+      "word": "Pure",
+      "sentence_en": "The joy on the child's face was pure and untouched by any worries.",
+      "sentence_ko": "아이의 얼굴에 핀 기쁨은 아무런 걱정 없이 맑고 순수했습니다.",
+      "tags": ["feeling", "family", "nature"]
+    },
+    {
+      "word": "Pure",
+      "sentence_en": "The ring was made of pure gold, making it very valuable and expensive.",
+      "sentence_ko": "그 반지는 다른 금속이 섞이지 않은 순금으로 만들어져 가치가 매우 높고 비쌌습니다.",
+      "tags": ["style", "social", "feeling"]
+    },
+    {
+      "word": "Pure",
+      "sentence_en": "It was pure luck that we managed to find a table at the popular restaurant.",
+      "sentence_ko": "그 인기 있는 식당에서 자리를 잡은 건 정말 순전히 운이 좋았던 덕분입니다.",
+      "tags": ["restaurant", "social", "feeling"]
+    },
+    {
+      "word": "Pure",
+      "sentence_en": "The mountain stream provided pure, cold water that was safe to drink.",
+      "sentence_ko": "산속 개울에서 흘러나오는 맑고 차가운 물은 식수로 마셔도 안전했습니다.",
+      "tags": ["nature", "feeling", "style"]
+    },
+    {
+      "word": "Pure",
+      "sentence_en": "Her decision was based on pure logic, without letting emotions cloud her judgment.",
+      "sentence_ko": "그녀의 결정은 감정에 휘둘리지 않고 순전한 논리에 근거한 것이었습니다.",
+      "tags": ["career", "feeling", "social"]
+    },
+    {
+      "word": "Stark",
+      "sentence_en": "The white modern house was a stark contrast to the old, colorful buildings nearby.",
+      "sentence_ko": "하얀색의 현대적인 집은 근처의 알록달록한 낡은 건물들과 극명한 대조를 이루었습니다.",
+      "tags": ["style", "nature", "social"]
+    },
+    {
+      "word": "Stark",
+      "sentence_en": "He faced the stark reality that his startup might not survive the year.",
+      "sentence_ko": "그는 자신의 스타트업이 올해를 넘기지 못할 수도 있다는 냉혹한 현실에 직면했습니다.",
+      "tags": ["startup", "sad", "career"]
+    },
+    {
+      "word": "Stark",
+      "sentence_en": "The landscape looked stark and desolate after the long, dry winter.",
+      "sentence_ko": "길고 메마른 겨울이 지난 후의 풍경은 삭막하고 황량해 보였습니다.",
+      "tags": ["nature", "sad", "feeling"]
+    },
+    {
+      "word": "Stark",
+      "sentence_en": "The report gave a stark warning about the future of the global environment.",
+      "sentence_ko": "그 보고서는 지구 환경의 미래에 대해 적나라하고 강력한 경고를 보냈습니다.",
+      "tags": ["nature", "social", "school"]
+    },
+    {
+      "word": "Stark",
+      "sentence_en": "She sat in the stark, white hospital room, waiting for the test results.",
+      "sentence_ko": "그녀는 검사 결과를 기다리며 꾸밈없고 썰렁한 하얀 병원실에 앉아 있었습니다.",
+      "tags": ["sad", "feeling", "social"]
+    },
+    {
+      "word": "Unadorned",
+      "sentence_en": "The walls of the startup's office were unadorned, reflecting their focus on efficiency.",
+      "sentence_ko": "그 스타트업 사무실의 벽은 아무런 장식 없이 깔끔했는데, 이는 효율성을 중시하는 그들의 성향을 보여주었습니다.",
+      "tags": ["startup", "style", "career"]
+    },
+    {
+      "word": "Unadorned",
+      "sentence_en": "She prefers an unadorned style of writing that gets straight to the point.",
+      "sentence_ko": "그녀는 요점으로 바로 들어가는 꾸밈없는 문체를 선호합니다.",
+      "tags": ["school", "style", "career"]
+    },
+    {
+      "word": "Unadorned",
+      "sentence_en": "The truth, unadorned by lies or excuses, is what we need to hear right now.",
+      "sentence_ko": "거짓이나 변명으로 꾸미지 않은 있는 그대로의 진실이 지금 우리에게 필요합니다.",
+      "tags": ["social", "feeling", "career"]
+    },
+    {
+      "word": "Unadorned",
+      "sentence_en": "The restaurant's unadorned interior made the high-quality food stand out even more.",
+      "sentence_ko": "그 식당의 소박한 인테리어 덕분에 고품질의 음식이 훨씬 더 돋보였습니다.",
+      "tags": ["restaurant", "style", "social"]
+    },
+    {
+      "word": "Unadorned",
+      "sentence_en": "He lived in an unadorned room with only a bed, a desk, and a few books.",
+      "sentence_ko": "그는 침대와 책상, 책 몇 권만 있는 장식 없는 방에서 지냈습니다.",
+      "tags": ["style", "feeling", "nature"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The minimalist design of the new smartphone attracted many younger customers.",
+      "sentence_ko": "새 스마트폰의 미니멀한 디자인은 많은 젊은 고객을 사로잡았습니다.",
+      "tags": ["style", "startup", "career"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "Living a minimalist lifestyle helped him focus on what truly matters in life.",
+      "sentence_ko": "미니멀리스트적인 삶을 사는 것은 그가 인생에서 정말 중요한 것에 집중하도록 도와주었습니다.",
+      "tags": ["style", "feeling", "social"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The startup office followed a minimalist aesthetic with lots of open space.",
+      "sentence_ko": "그 스타트업 사무실은 넓은 개방 공간을 갖춘 미니멀한 미학을 따랐습니다.",
+      "tags": ["startup", "style", "career"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "The restaurant served high-end cuisine in a minimalist, modern setting.",
+      "sentence_ko": "그 식당은 미니멀하고 현대적인 환경에서 고급 요리를 선보였습니다.",
+      "tags": ["restaurant", "style", "social"]
+    },
+    {
+      "word": "Minimalist",
+      "sentence_en": "She chose a minimalist wedding dress that was elegant in its simplicity.",
+      "sentence_ko": "그녀는 단순함 속에 우아함이 깃든 미니멀한 웨딩드레스를 선택했습니다.",
+      "tags": ["style", "social", "feeling"]
+    },
+    {
+      "word": "Bare",
+      "sentence_en": "After moving out, the apartment looked sad and bare without any furniture.",
+      "sentence_ko": "이사를 나간 후, 가구가 하나도 없는 아파트는 썰렁하고 텅 비어 보였습니다.",
+      "tags": ["sad", "feeling", "style"]
+    },
+    {
+      "word": "Bare",
+      "sentence_en": "The trees were bare after the leaves fell during the cold autumn nights.",
+      "sentence_ko": "추운 가을 밤새 잎들이 다 떨어지고 나자 나무들은 앙상한 가지만 남았습니다.",
+      "tags": ["nature", "sad", "style"]
+    },
+    {
+      "word": "Bare",
+      "sentence_en": "He only had the bare essentials in his backpack for the weekend hiking trip.",
+      "sentence_ko": "그는 주말 하이킹 여행을 위해 배낭에 최소한의 필수품만 챙겼습니다.",
+      "tags": ["nature", "style", "social"]
+    },
+    {
+      "word": "Bare",
+      "sentence_en": "The startup launched with a bare-bones version of the app to test the market.",
+      "sentence_ko": "그 스타트업은 시장 반응을 살피기 위해 앱의 가장 핵심적인 기능만 담은 버전으로 시작했습니다.",
+      "tags": ["startup", "career", "style"]
+    },
+    {
+      "word": "Bare",
+      "sentence_en": "The truth was laid bare during the investigation, revealing years of corruption.",
+      "sentence_ko": "조사 과정에서 진실이 적나라하게 드러났고, 수년간의 비리가 밝혀졌습니다.",
+      "tags": ["social", "sad", "career"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Water and sunlight are essential for the healthy growth of all plants.",
+      "sentence_ko": "물과 햇빛은 모든 식물이 건강하게 자라는 데 필수적입니다.",
+      "tags": ["nature", "school", "feeling"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "A good night's sleep is essential for maintaining high productivity at work.",
+      "sentence_ko": "업무 생산성을 높게 유지하려면 밤에 푹 자는 것이 필수입니다.",
+      "tags": ["career", "feeling", "social"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "It is essential to have a clear financial plan before starting your own startup.",
+      "sentence_ko": "개인 스타트업을 시작하기 전에는 명확한 재무 계획을 세우는 것이 필수적입니다.",
+      "tags": ["startup", "career", "school"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "The book captures the essential spirit of small-town life in the countryside.",
+      "sentence_ko": "그 책은 시골 마을 삶의 본질적인 정서를 잘 담아내고 있습니다.",
+      "tags": ["style", "nature", "social"]
+    },
+    {
+      "word": "Essential",
+      "sentence_en": "Patience is an essential quality when you are raising young children.",
+      "sentence_ko": "어린아이들을 키울 때 인내심은 꼭 필요한 자질입니다.",
+      "tags": ["family", "social", "feeling"]
+    },
+    {
+      "word": "Core",
+      "sentence_en": "The core problem of the startup was a lack of clear communication between founders.",
+      "sentence_ko": "그 스타트업의 핵심 문제는 창업자들 간의 명확한 소통 부족이었습니다.",
+      "tags": ["startup", "career", "sad"]
+    },
+    {
+      "word": "Core",
+      "sentence_en": "Hard work and honesty are the core values of our family's business.",
+      "sentence_ko": "성실과 정직은 우리 가업의 가장 중심이 되는 가치입니다.",
+      "tags": ["family", "career", "social"]
+    },
+    {
+      "word": "Core",
+      "sentence_en": "The core of the earth is made of extremely hot liquid iron and nickel.",
+      "sentence_ko": "지구의 중심부는 극도로 뜨거운 액체 상태의 철과 니켈로 이루어져 있습니다.",
+      "tags": ["nature", "school", "style"]
+    },
+    {
+      "word": "Core",
+      "sentence_en": "I missed the core message of the lecture because I was feeling so tired.",
+      "sentence_ko": "너무 피곤해서 강의의 핵심 메시지를 놓쳐버렸습니다.",
+      "tags": ["school", "career", "sad"]
+    },
+    {
+      "word": "Core",
+      "sentence_en": "The core group of supporters gathered outside the office to show their loyalty.",
+      "sentence_ko": "핵심 지지자 그룹이 충성심을 보여주기 위해 사무실 밖에 모였습니다.",
+      "tags": ["social", "career", "startup"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "His report was concise and efficient, covering all the necessary points in two pages.",
+      "sentence_ko": "그의 보고서는 아주 간결하고 효율적이어서, 필요한 모든 내용을 두 페이지 안에 담았습니다.",
+      "tags": ["career", "startup", "school"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "Please provide a concise summary of the news for our busy startup team.",
+      "sentence_ko": "바쁜 우리 스타트업 팀원들을 위해 뉴스 내용을 짧고 명확하게 요약해 주세요.",
+      "tags": ["startup", "career", "social"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "The instructions for the game were concise and very easy to follow.",
+      "sentence_ko": "게임 설명서가 간결하게 작성되어 있어 따라 하기가 매우 쉬웠습니다.",
+      "tags": ["social", "school", "feeling"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "Her concise writing style makes her blog posts quick and enjoyable to read.",
+      "sentence_ko": "그녀의 간결한 문체 덕분에 블로그 글들을 빠르고 즐겁게 읽을 수 있습니다.",
+      "tags": ["style", "social", "career"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "The professor asked us to keep our answers concise during the classroom discussion.",
+      "sentence_ko": "교수님은 강의실 토론 동안 답변을 짧고 명료하게 해달라고 요청하셨습니다.",
+      "tags": ["school", "social", "career"]
+    },
+    {
+      "word": "Crisp",
+      "sentence_en": "The morning air was crisp and fresh as we walked through the autumn forest.",
+      "sentence_ko": "가을 숲을 걷는 동안 아침 공기는 아주 상쾌하고 맑았습니다.",
+      "tags": ["nature", "feeling", "style"]
+    },
+    {
+      "word": "Crisp",
+      "sentence_en": "His shirt was ironed so perfectly that it looked crisp and professional.",
+      "sentence_ko": "그의 셔츠는 아주 완벽하게 다려져서 깔끔하고 단정해 보였습니다.",
+      "tags": ["style", "career", "social"]
+    },
+    {
+      "word": "Crisp",
+      "sentence_en": "The restaurant is famous for its crisp and delicious fried chicken.",
+      "sentence_ko": "그 식당은 바삭하고 맛있는 프라이드치킨으로 유명합니다.",
+      "tags": ["restaurant", "social", "feeling"]
+    },
+    {
+      "word": "Crisp",
+      "sentence_en": "The speaker's delivery was crisp and clear, making her speech very persuasive.",
+      "sentence_ko": "발표자의 전달력이 명쾌하고 깔끔해서 그녀의 연설은 매우 설득력이 있었습니다.",
+      "tags": ["career", "startup", "social"]
+    },
+    {
+      "word": "Crisp",
+      "sentence_en": "The startup's new branding uses crisp lines and modern fonts.",
+      "sentence_ko": "그 스타트업의 새로운 브랜딩은 깔끔한 선과 현대적인 폰트를 사용합니다.",
+      "tags": ["startup", "style", "career"]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SIGNIFICANCE_DEPTH
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Incidental - 부수적인 (중요한 것에 딸려오는)
+2. Critical - 대단히 중요한, 위태로운 (생사가 걸린)
+3. Trivial - 사소한, 하찮은 (신경 쓸 필요 없는)
+4. Minor - 작은, 별로 중요치 않은 (심각하지 않은)
+5. Petty - 안 중요한, 옹졸한 (작고 시시한)
+6. Slight - 약간의 (정도가 미미한)
+7. Negligible - 무시해도 될 정도의 (양이 아주 적은)
+8. Insignificant - 대수롭지 않은 (의미가 없는)
+9. Marginal - 미미한, 주변부의 (중요하지 않은)
+10. Superficial - 표면적인 (깊이가 없는)
+11. Frivolous - 경박한, 하찮은 (진지하지 않은)
+12. Trifling - 하찮은 (가치가 거의 없는)
+13. Crucial - 결정적인 (성패를 좌우하는)
+14. Vital - 필수적인, 생명의 (없으면 안 되는)
+15. Pivotal - 중추적인 (회전축처럼 방향을 바꾸는)
+16. Essential - 본질적인, 필수적인 (가장 기본이 되는)
+17. Major - 주요한, 큰 (규모나 중요도가 큰)
+18. Serious - 심각한, 진지한 (가볍지 않은)
+19. Grave - 중대한, 엄숙한 (매우 심각하고 무거운)
+20. Acute - 극심한, 급성의 (문제의 정도가 날카롭고 심한)
+21. Severe - 가혹한, 심한 (엄격하고 고통스러운)
+22. Profound - 심오한, 엄청난 (깊이가 있고 영향이 큰)
+23. Deep - 깊은 (표면적이지 않은)
+24. Weighty - 중대한, 무거운 (영향력이 큰)
+25. Monumental - 기념비적인, 엄청난 (역사에 남을 만큼 큰)
+26. Consequential - 중대한 결과가 따르는 (중요한)
+27. Substantial - 상당한, 실질적인 (양이나 중요성이 꽤 되는)
+28. Pressing - 긴박한 (당장 처리해야 하는)
+29. Urgent - 시급한 (지체할 수 없는)
+30. Paramount - 최고로 중요한 (다른 무엇보다 우선하는)
+
+## 추천 태그 (상황/맥락)
+home, soccer, sad, schedule, feeling, travel, medical, smartphone, technology, cooking
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SIGNIFICANCE_DEPTH",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SIGNIFICANCE_DEPTH",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

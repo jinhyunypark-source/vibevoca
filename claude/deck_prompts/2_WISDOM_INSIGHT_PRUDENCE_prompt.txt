@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: 2_WISDOM_INSIGHT_PRUDENCE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Deep - 깊은, 난해한 (생각이 깊은)
+2. Sage - 현명한, 성인 같은 (매우 깊은 지혜)
+3. Sagacious - 총명한, 현명한 (예리한 판단력, 격식) > sage 현자
+4. Prudent - 신중한 (미래를 대비하고 조심하는)
+5. Discriminating - 안목 있는  and 차별하는.  crit(분리,나누다)
+6. criticize - 비평하다
+7. Discerning - 식견이 있는 (좋은 것을 알아보는)
+8. Judicious - 판단력 있는 (신중하고 적절한)
+9. Contemplative - 사색/관조 하는  con(함께+template(신당)
+10. Pensive - 수심에 잠긴 (약간 슬프게 깊은 생각)  (라)pendere 매달리다
+11. pendium - 시계추
+12. Intuitive - 직관적인 (설명보다 감각으로 아는)
+13. Sensible - 분별 있는 (상식에 맞고 실용적인)
+14. Reasonable - 합리적인 (이치에 맞고 과하지 않은)
+15. Rational - 이성적인 (감정에 휘둘리지 않는)
+16. Logical - 논리적인 (인과 관계가 맞는)
+17. Sound - 건전한, 타당한 (판단력이 흠잡을 데 없는)
+18. Insightful - 통찰력 있는 (본질을 꿰뚫어 보는)
+19. Perceptive - 지각력이 예민한 (남이 못 보는 것을 알아채는)
+20. Prescient - 예지력 있는 (일어날 일을 미리 아는)
+21. Observant - 관찰력 있는 (주의 깊게 보고 놓치지 않는)
+22. Profound - 심오한 (깊이가 있는)
+23. Philosophical - 철학적인 (인생의 이치를 생각하는)
+24. Enlightened - 계몽된, 깨우친 (편견 없고 지혜로운)
+25. Visionary - 선견지명 있는 (미래를 내다보는)
+26. Far-sighted - 미래를 내다보는 (장기적인 안목)
+27. Thoughtful - 사려 깊은 (신중하게 생각하는)
+28. Reflective - 성찰하는 (자신을 되돌아보는)
+29. Meditative - 명상적인 (깊은 생각에 잠긴)
+30. Introspective - 내성적인, 자기를 관찰하는 (내면을 들여다보는)
+
+## 추천 태그 (상황/맥락)
+conversation, code, work, startup, school, schedule, mood, home, soccer, job
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "2_WISDOM_INSIGHT_PRUDENCE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "2_WISDOM_INSIGHT_PRUDENCE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

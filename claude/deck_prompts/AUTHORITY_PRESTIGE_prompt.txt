@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: AUTHORITY_PRESTIGE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Influential - 영향력 있는 (타인의 생각/행동을 바꾸는 힘)
+2. Authoritative - 권위 있는, 믿을 만한 (전문적이고 신뢰가 가는)
+3. Respected - 존경받는 (사람들이 우러러보는)
+4. Prestigious - 명망 있는 (지위가 높고 유명한)
+5. Esteemed - 존중받는 (격식 있게 높이 평가되는)
+6. Renowned - 저명한 (능력으로 널리 알려진)
+7. Prominent - 저명한, 두드러진 (중요하고 눈에 띄는)
+8. Legitimate - 정당한, 합법적인 (법이나 규칙에 맞는)
+9. Prevalent - 널리 퍼진 (일반적인 영향력)
+10. Distinguished - 기품 있는, 뛰어난 (성공적이고 위엄 있는)
+11. Eminent - 저명한, 탁월한 (분야에서 독보적인)
+12. Persuasive - 설득력 있는 (말로 사람을 움직이는)
+13. Charismatic - 카리스마 있는 (사람을 끌어당기는 매력)
+14. Inspiring - 영감을 주는 (고무적인)
+15. Convincing - 납득이 가는 (믿게 만드는)
+16. Impactful - 영향력이 강한 (강한 충격을 주는)
+17. Significant - 중요한, 의미 있는 (무시할 수 없는)
+18. Pivotal - 중추적인 (방향을 결정짓는 핵심적인)
+19. Weighty - 중대한, 무게감 있는 (영향력이 큰)
+20. Credible - 신뢰할 수 있는 (믿음이 가는)
+21. Official - 공식적인 (공인을 받은)
+22. Authorized - 권한을 부여받은 (허가된)
+23. Licensed - 면허가 있는 (자격증을 가진)
+24. Empowered - 권한을 가진 (힘을 부여받은)
+25. Recognized - 인정받는 (공인된)
+26. Leading - 선도하는 (가장 앞선)
+27. Viral - 입소문이 난 (빠르게 퍼지는 영향력)
+28. Magnetic - 자석 같은 (사람을 끌어당기는)
+29. Compelling - 강력한, 설득력 있는 (거부할 수 없는)
+30. Effectual - 효과적인, 효력이 있는 (실질적 힘을 발휘하는)
+
+## 추천 태그 (상황/맥락)
+environment, feeling, interview, digital, movie, smartphone, place, art, dining, learning
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "AUTHORITY_PRESTIGE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "AUTHORITY_PRESTIGE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

@@ -1,0 +1,942 @@
+{
+  "deck_title": "SUBMISSION_COMPLIANCE",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Subservient",
+      "sentence_en": "The intern's subservient behavior at the office made everyone uncomfortable.",
+      "sentence_ko": "사무실에서 인턴의 굴종하는 행동이 모두를 불편하게 만들었다.",
+      "tags": ["office", "workplace"]
+    },
+    {
+      "word": "Subservient",
+      "sentence_en": "She refuses to be subservient to anyone in her marketing career.",
+      "sentence_ko": "그녀는 마케팅 경력에서 누구에게도 비굴하게 굴기를 거부한다.",
+      "tags": ["marketing", "job"]
+    },
+    {
+      "word": "Subservient",
+      "sentence_en": "The movie portrayed a subservient character who eventually found courage.",
+      "sentence_ko": "영화는 결국 용기를 찾은 굴종하는 캐릭터를 그렸다.",
+      "tags": ["movie", "character"]
+    },
+    {
+      "word": "Subservient",
+      "sentence_en": "His subservient attitude prevented him from advancing in his job.",
+      "sentence_ko": "그의 비굴한 태도가 그가 직업에서 승진하는 걸 막았다.",
+      "tags": ["job", "career"]
+    },
+    {
+      "word": "Subservient",
+      "sentence_en": "The restaurant staff seemed overly subservient and desperate for tips.",
+      "sentence_ko": "레스토랑 직원들이 지나치게 굴종하고 팁에 절박해 보였다.",
+      "tags": ["restaurant", "service"]
+    },
+    {
+      "word": "Subservient",
+      "sentence_en": "University students shouldn't be subservient to outdated academic traditions.",
+      "sentence_ko": "대학생들은 시대에 뒤떨어진 학문적 전통에 비굴할 필요가 없다.",
+      "tags": ["university", "independence"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "The submissive employee never questioned any decisions at the office.",
+      "sentence_ko": "순종적인 직원은 사무실에서 어떤 결정도 절대 의문을 제기하지 않았다.",
+      "tags": ["office", "behavior"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "She learned to be assertive rather than submissive in her job.",
+      "sentence_ko": "그녀는 직업에서 순종적이기보다 단호하게 되는 법을 배웠다.",
+      "tags": ["job", "growth"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "The movie criticized cultures that demand submissive behavior from women.",
+      "sentence_ko": "영화는 여성에게 순종적인 행동을 요구하는 문화를 비판했다.",
+      "tags": ["movie", "social"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "His submissive nature made him vulnerable to manipulation at work.",
+      "sentence_ko": "그의 순종적인 성격이 그를 직장에서 조종에 취약하게 만들었다.",
+      "tags": ["office", "vulnerability"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "The art piece challenged traditional submissive roles in society.",
+      "sentence_ko": "그 예술 작품은 사회의 전통적인 순종적 역할에 도전했다.",
+      "tags": ["art", "social"]
+    },
+    {
+      "word": "Submissive",
+      "sentence_en": "University education should encourage critical thinking, not submissive acceptance.",
+      "sentence_ko": "대학 교육은 순종적 수용이 아니라 비판적 사고를 장려해야 한다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "The obedient intern followed every instruction at the office precisely.",
+      "sentence_ko": "말 잘 듣는 인턴은 사무실에서 모든 지시를 정확히 따랐다.",
+      "tags": ["office", "intern"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "She's obedient to company policies but questions unreasonable demands.",
+      "sentence_ko": "그녀는 회사 정책에 말 잘 듣지만 불합리한 요구는 의문을 제기한다.",
+      "tags": ["job", "balance"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "The movie showed how obedient citizens can enable authoritarian regimes.",
+      "sentence_ko": "영화는 말 잘 듣는 시민들이 어떻게 권위주의 체제를 가능하게 하는지 보여줬다.",
+      "tags": ["movie", "political"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "Being obedient doesn't mean abandoning your own judgment at work.",
+      "sentence_ko": "말 잘 듣는다고 해서 직장에서 자신의 판단을 포기하는 건 아니야.",
+      "tags": ["office", "wisdom"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "The restaurant manager valued obedient staff who followed health codes.",
+      "sentence_ko": "레스토랑 매니저는 보건 규정을 따르는 말 잘 듣는 직원을 소중히 여겼다.",
+      "tags": ["restaurant", "compliance"]
+    },
+    {
+      "word": "Obedient",
+      "sentence_en": "University students should be thoughtful, not blindly obedient to authority.",
+      "sentence_ko": "대학생들은 권위에 맹목적으로 복종하지 말고 사려 깊어야 한다.",
+      "tags": ["university", "critical"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "The compliant employee always met office regulations without complaint.",
+      "sentence_ko": "준수하는 직원은 항상 불평 없이 사무실 규정을 지켰다.",
+      "tags": ["office", "rules"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "Our restaurant is fully compliant with all health and safety standards.",
+      "sentence_ko": "우리 레스토랑은 모든 보건 및 안전 기준을 완전히 준수한다.",
+      "tags": ["restaurant", "regulation"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "The marketing campaign was compliant with advertising regulations.",
+      "sentence_ko": "마케팅 캠페인은 광고 규정을 준수했다.",
+      "tags": ["marketing", "legal"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "She's compliant with company policies but advocates for necessary changes.",
+      "sentence_ko": "그녀는 회사 정책을 준수하지만 필요한 변화를 옹호한다.",
+      "tags": ["job", "proactive"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "The code must be compliant with environmental protection standards.",
+      "sentence_ko": "코드는 환경 보호 기준을 준수해야 한다.",
+      "tags": ["code", "environment"]
+    },
+    {
+      "word": "Compliant",
+      "sentence_en": "University research must be compliant with ethical guidelines and protocols.",
+      "sentence_ko": "대학 연구는 윤리 지침과 프로토콜을 준수해야 한다.",
+      "tags": ["university", "ethics"]
+    },
+    {
+      "word": "Docile",
+      "sentence_en": "The new intern was docile and easy to train at the office.",
+      "sentence_ko": "새 인턴은 유순해서 사무실에서 훈련시키기 쉬웠다.",
+      "tags": ["office", "training"]
+    },
+    {
+      "word": "Docile",
+      "sentence_en": "She appeared docile but had strong opinions about her job.",
+      "sentence_ko": "그녀는 유순해 보였지만 자신의 직업에 대해 강한 의견이 있었다.",
+      "tags": ["job", "appearance"]
+    },
+    {
+      "word": "Docile",
+      "sentence_en": "The movie portrayed how docile populations can be manipulated.",
+      "sentence_ko": "영화는 다루기 쉬운 인구가 어떻게 조종될 수 있는지 그렸다.",
+      "tags": ["movie", "social"]
+    },
+    {
+      "word": "Docile",
+      "sentence_en": "The restaurant preferred docile staff who wouldn't challenge management.",
+      "sentence_ko": "레스토랑은 경영진에 도전하지 않을 유순한 직원을 선호했다.",
+      "tags": ["restaurant", "management"]
+    },
+    {
+      "word": "Docile",
+      "sentence_en": "University shouldn't produce docile graduates but critical thinkers.",
+      "sentence_ko": "대학은 유순한 졸업생이 아니라 비판적 사고자를 배출해야 한다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Acquiescent",
+      "sentence_en": "His acquiescent attitude at the office prevented him from speaking up.",
+      "sentence_ko": "사무실에서 그의 묵인하는 태도가 그가 목소리를 내는 걸 막았다.",
+      "tags": ["office", "silence"]
+    },
+    {
+      "word": "Acquiescent",
+      "sentence_en": "She was acquiescent to the job requirements despite personal reservations.",
+      "sentence_ko": "그녀는 개인적 의구심에도 불구하고 직업 요구사항에 마지못해 따랐다.",
+      "tags": ["job", "compromise"]
+    },
+    {
+      "word": "Acquiescent",
+      "sentence_en": "The movie criticized acquiescent citizens who ignored social injustice.",
+      "sentence_ko": "영화는 사회 불의를 묵인하는 시민들을 비판했다.",
+      "tags": ["movie", "critique"]
+    },
+    {
+      "word": "Acquiescent",
+      "sentence_en": "The staff remained acquiescent to the restaurant's unfair policies.",
+      "sentence_ko": "직원들은 레스토랑의 불공정한 정책에 묵인했다.",
+      "tags": ["restaurant", "unfair"]
+    },
+    {
+      "word": "Acquiescent",
+      "sentence_en": "University students shouldn't be acquiescent to inadequate teaching methods.",
+      "sentence_ko": "대학생들은 부적절한 교육 방법에 묵인해서는 안 된다.",
+      "tags": ["university", "advocacy"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "His passive approach to office problems frustrated his colleagues.",
+      "sentence_ko": "사무실 문제에 대한 그의 수동적인 접근법이 동료들을 좌절시켰다.",
+      "tags": ["office", "frustration"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "She replaced her passive job attitude with proactive engagement.",
+      "sentence_ko": "그녀는 수동적인 직업 태도를 적극적인 참여로 바꿨다.",
+      "tags": ["job", "improvement"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "The movie explored how passive acceptance enables oppression.",
+      "sentence_ko": "영화는 수동적 수용이 어떻게 억압을 가능하게 하는지 탐구했다.",
+      "tags": ["movie", "theme"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "The marketing team's passive response lost them valuable time.",
+      "sentence_ko": "마케팅 팀의 수동적 대응이 그들에게 귀중한 시간을 잃게 했다.",
+      "tags": ["marketing", "time"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "Passive code doesn't actively manage environmental resource allocation.",
+      "sentence_ko": "수동적 코드는 환경 자원 할당을 능동적으로 관리하지 않는다.",
+      "tags": ["code", "environment"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "University learning should be active, not passive absorption of information.",
+      "sentence_ko": "대학 학습은 수동적 정보 흡수가 아니라 능동적이어야 한다.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Meek",
+      "sentence_en": "The meek assistant rarely spoke up during office meetings.",
+      "sentence_ko": "온순한 조수는 사무실 회의 중에 거의 목소리를 내지 않았다.",
+      "tags": ["office", "quiet"]
+    },
+    {
+      "word": "Meek",
+      "sentence_en": "Her meek demeanor at work hid her brilliant analytical skills.",
+      "sentence_ko": "직장에서 그녀의 온순한 태도가 뛰어난 분석 능력을 숨겼다.",
+      "tags": ["job", "hidden"]
+    },
+    {
+      "word": "Meek",
+      "sentence_en": "The movie showed how meek characters can find unexpected strength.",
+      "sentence_ko": "영화는 기가 죽은 캐릭터들이 어떻게 예상치 못한 힘을 찾는지 보여줬다.",
+      "tags": ["movie", "transformation"]
+    },
+    {
+      "word": "Meek",
+      "sentence_en": "The restaurant owner exploited meek workers who feared losing their jobs.",
+      "sentence_ko": "레스토랑 주인은 일자리를 잃을까 두려워하는 온순한 노동자들을 착취했다.",
+      "tags": ["restaurant", "exploitation"]
+    },
+    {
+      "word": "Meek",
+      "sentence_en": "University shouldn't make students meek but confident in their abilities.",
+      "sentence_ko": "대학은 학생들을 기가 죽게 만들지 말고 능력에 자신감 있게 해야 한다.",
+      "tags": ["university", "confidence"]
+    },
+    {
+      "word": "Yielding",
+      "sentence_en": "His yielding nature at the office made him easy to work with.",
+      "sentence_ko": "사무실에서 그의 양보하는 성격이 그를 함께 일하기 쉽게 만들었다.",
+      "tags": ["office", "cooperation"]
+    },
+    {
+      "word": "Yielding",
+      "sentence_en": "She's yielding on minor points but firm on important job principles.",
+      "sentence_ko": "그녀는 사소한 점에서는 양보하지만 중요한 직업 원칙에서는 확고하다.",
+      "tags": ["job", "balance"]
+    },
+    {
+      "word": "Yielding",
+      "sentence_en": "The movie portrayed a yielding character who learned to stand firm.",
+      "sentence_ko": "영화는 확고히 서는 법을 배운 양보하는 캐릭터를 그렸다.",
+      "tags": ["movie", "growth"]
+    },
+    {
+      "word": "Yielding",
+      "sentence_en": "The marketing strategy was yielding to customer feedback and adapting.",
+      "sentence_ko": "마케팅 전략은 고객 피드백에 유연하게 적응하고 있었다.",
+      "tags": ["marketing", "adaptive"]
+    },
+    {
+      "word": "Yielding",
+      "sentence_en": "The restaurant manager's yielding approach improved staff morale over time.",
+      "sentence_ko": "레스토랑 매니저의 유연한 접근법이 시간이 지나면서 직원 사기를 향상시켰다.",
+      "tags": ["restaurant", "management"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "He seemed resigned to the unfair treatment at his office job.",
+      "sentence_ko": "그는 사무실 직장에서 불공정한 대우에 체념한 것 같았다.",
+      "tags": ["office", "acceptance"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "She was resigned to the job's limitations but kept searching for better.",
+      "sentence_ko": "그녀는 직업의 한계에 체념했지만 더 나은 걸 계속 찾았다.",
+      "tags": ["job", "searching"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "The movie character was resigned to his fate until a turning point.",
+      "sentence_ko": "영화 캐릭터는 전환점까지 운명에 체념해 있었다.",
+      "tags": ["movie", "fate"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "The restaurant staff seemed resigned to poor working conditions.",
+      "sentence_ko": "레스토랑 직원들은 열악한 근무 환경에 체념한 것 같았다.",
+      "tags": ["restaurant", "conditions"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "University students shouldn't be resigned to mediocre education standards.",
+      "sentence_ko": "대학생들은 평범한 교육 수준에 체념해서는 안 된다.",
+      "tags": ["university", "standards"]
+    },
+    {
+      "word": "Resigned",
+      "sentence_en": "The artist was resigned to obscurity until a breakthrough moment came.",
+      "sentence_ko": "예술가는 돌파구의 순간이 올 때까지 무명에 체념해 있었다.",
+      "tags": ["art", "career"]
+    },
+    {
+      "word": "Deferential",
+      "sentence_en": "The intern's deferential attitude toward seniors was professional and respectful.",
+      "sentence_ko": "선배들에 대한 인턴의 경의를 표하는 태도는 전문적이고 존중스러웠다.",
+      "tags": ["office", "respect"]
+    },
+    {
+      "word": "Deferential",
+      "sentence_en": "She maintained a deferential tone at work without being submissive.",
+      "sentence_ko": "그녀는 순종적이지 않으면서도 직장에서 경의를 표하는 어조를 유지했다.",
+      "tags": ["job", "balance"]
+    },
+    {
+      "word": "Deferential",
+      "sentence_en": "The movie explored the difference between deferential respect and servility.",
+      "sentence_ko": "영화는 경의를 표하는 존중과 비굴함의 차이를 탐구했다.",
+      "tags": ["movie", "nuance"]
+    },
+    {
+      "word": "Deferential",
+      "sentence_en": "The restaurant staff showed deferential service without losing dignity.",
+      "sentence_ko": "레스토랑 직원들은 품위를 잃지 않으면서 경의를 표하는 서비스를 보여줬다.",
+      "tags": ["restaurant", "service"]
+    },
+    {
+      "word": "Deferential",
+      "sentence_en": "University culture encourages deferential debate, not blind agreement.",
+      "sentence_ko": "대학 문화는 맹목적 동의가 아니라 경의를 표하는 토론을 장려한다.",
+      "tags": ["university", "debate"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "She felt inferior at the office until she proved her capabilities.",
+      "sentence_ko": "그녀는 자신의 능력을 증명할 때까지 사무실에서 열등하다고 느꼈다.",
+      "tags": ["office", "confidence"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "The job made him feel inferior despite his excellent qualifications.",
+      "sentence_ko": "직업이 그의 훌륭한 자격에도 불구하고 그를 열등하게 느끼게 만들었다.",
+      "tags": ["job", "emotion"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "The movie challenged the concept of inferior social classes.",
+      "sentence_ko": "영화는 하등 사회 계급의 개념에 도전했다.",
+      "tags": ["movie", "social"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "The marketing team's work was unfairly deemed inferior by management.",
+      "sentence_ko": "마케팅 팀의 작업이 경영진에 의해 불공정하게 열등하다고 여겨졌다.",
+      "tags": ["marketing", "unfair"]
+    },
+    {
+      "word": "Inferior",
+      "sentence_en": "No university student should be made to feel inferior for asking questions.",
+      "sentence_ko": "어떤 대학생도 질문한다고 해서 열등하게 느끼도록 만들어져서는 안 된다.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Subordinate",
+      "sentence_en": "The subordinate staff members followed the office manager's instructions carefully.",
+      "sentence_ko": "종속된 직원들은 사무실 매니저의 지시를 주의 깊게 따랐다.",
+      "tags": ["office", "hierarchy"]
+    },
+    {
+      "word": "Subordinate",
+      "sentence_en": "She treats subordinate employees with respect and fairness at work.",
+      "sentence_ko": "그녀는 직장에서 부하 직원들을 존중과 공정함으로 대한다.",
+      "tags": ["job", "management"]
+    },
+    {
+      "word": "Subordinate",
+      "sentence_en": "The movie explored power dynamics between superiors and subordinates.",
+      "sentence_ko": "영화는 상사와 부하 사이의 권력 역학을 탐구했다.",
+      "tags": ["movie", "power"]
+    },
+    {
+      "word": "Subordinate",
+      "sentence_en": "The restaurant had clear roles for managers and subordinate staff.",
+      "sentence_ko": "레스토랑은 매니저와 부하 직원을 위한 명확한 역할이 있었다.",
+      "tags": ["restaurant", "structure"]
+    },
+    {
+      "word": "Subordinate",
+      "sentence_en": "University research should subordinate personal bias to scientific truth.",
+      "sentence_ko": "대학 연구는 개인적 편견을 과학적 진실에 종속시켜야 한다.",
+      "tags": ["university", "science"]
+    },
+    {
+      "word": "Dependent",
+      "sentence_en": "He became too dependent on his manager's approval at the office.",
+      "sentence_ko": "그는 사무실에서 매니저의 승인에 너무 의존적이 됐다.",
+      "tags": ["office", "approval"]
+    },
+    {
+      "word": "Dependent",
+      "sentence_en": "The job made her financially dependent but she saved for independence.",
+      "sentence_ko": "직업이 그녀를 재정적으로 의존적이게 만들었지만 독립을 위해 저축했다.",
+      "tags": ["job", "finance"]
+    },
+    {
+      "word": "Dependent",
+      "sentence_en": "The movie showed how economic dependence can trap people in bad situations.",
+      "sentence_ko": "영화는 경제적 의존이 어떻게 사람들을 나쁜 상황에 가둘 수 있는지 보여줬다.",
+      "tags": ["movie", "economic"]
+    },
+    {
+      "word": "Dependent",
+      "sentence_en": "The restaurant's success is dependent on consistent quality and service.",
+      "sentence_ko": "레스토랑의 성공은 일관된 품질과 서비스에 의존적이다.",
+      "tags": ["restaurant", "success"]
+    },
+    {
+      "word": "Dependent",
+      "sentence_en": "University students should become independent thinkers, not dependent learners.",
+      "sentence_ko": "대학생들은 의존적인 학습자가 아니라 독립적인 사고자가 되어야 한다.",
+      "tags": ["university", "independence"]
+    },
+    {
+      "word": "Servile",
+      "sentence_en": "His servile behavior at the office embarrassed his colleagues.",
+      "sentence_ko": "사무실에서 그의 굽실거리는 행동이 동료들을 창피하게 만들었다.",
+      "tags": ["office", "embarrassing"]
+    },
+    {
+      "word": "Servile",
+      "sentence_en": "She refused to adopt a servile attitude despite job pressure.",
+      "sentence_ko": "그녀는 직업 압박에도 불구하고 노예 근성의 태도를 취하기를 거부했다.",
+      "tags": ["job", "dignity"]
+    },
+    {
+      "word": "Servile",
+      "sentence_en": "The movie criticized servile obedience to corrupt authority figures.",
+      "sentence_ko": "영화는 부패한 권위자에 대한 굽실거리는 복종을 비판했다.",
+      "tags": ["movie", "critique"]
+    },
+    {
+      "word": "Servile",
+      "sentence_en": "The restaurant manager discouraged servile behavior from staff members.",
+      "sentence_ko": "레스토랑 매니저는 직원들의 굽실거리는 행동을 억제했다.",
+      "tags": ["restaurant", "management"]
+    },
+    {
+      "word": "Servile",
+      "sentence_en": "University education should eliminate servile attitudes toward knowledge.",
+      "sentence_ko": "대학 교육은 지식에 대한 노예 근성의 태도를 제거해야 한다.",
+      "tags": ["university", "attitude"]
+    },
+    {
+      "word": "Slavish",
+      "sentence_en": "The office had a slavish devotion to outdated procedures.",
+      "sentence_ko": "사무실은 시대에 뒤떨어진 절차에 대한 노예적 헌신이 있었다.",
+      "tags": ["office", "outdated"]
+    },
+    {
+      "word": "Slavish",
+      "sentence_en": "She avoided slavish imitation and developed her own job approach.",
+      "sentence_ko": "그녀는 노예적 모방을 피하고 자신만의 직업 접근법을 개발했다.",
+      "tags": ["job", "originality"]
+    },
+    {
+      "word": "Slavish",
+      "sentence_en": "The movie portrayed slavish adherence to tradition as destructive.",
+      "sentence_ko": "영화는 전통에 대한 맹종을 파괴적이라고 그렸다.",
+      "tags": ["movie", "tradition"]
+    },
+    {
+      "word": "Slavish",
+      "sentence_en": "The marketing campaign avoided slavish copying of competitor strategies.",
+      "sentence_ko": "마케팅 캠페인은 경쟁사 전략의 노예적 모방을 피했다.",
+      "tags": ["marketing", "originality"]
+    },
+    {
+      "word": "Slavish",
+      "sentence_en": "University research requires creativity, not slavish replication of past work.",
+      "sentence_ko": "대학 연구는 과거 작업의 노예적 복제가 아니라 창의성을 요구한다.",
+      "tags": ["university", "creativity"]
+    },
+    {
+      "word": "Tame",
+      "sentence_en": "The once bold office culture had become disappointingly tame over time.",
+      "sentence_ko": "한때 대담했던 사무실 문화가 시간이 지나면서 실망스럽게 길들여졌다.",
+      "tags": ["office", "culture"]
+    },
+    {
+      "word": "Tame",
+      "sentence_en": "She refused to let the job make her tame and kept her creative edge.",
+      "sentence_ko": "그녀는 직업이 그녀를 길들이도록 두기를 거부하고 창의적 우위를 유지했다.",
+      "tags": ["job", "creativity"]
+    },
+    {
+      "word": "Tame",
+      "sentence_en": "The movie's ending was surprisingly tame compared to its bold beginning.",
+      "sentence_ko": "영화 결말은 대담한 시작에 비해 놀랍게도 순했다.",
+      "tags": ["movie", "disappointment"]
+    },
+    {
+      "word": "Tame",
+      "sentence_en": "The marketing approach seemed too tame for such a competitive market.",
+      "sentence_ko": "그렇게 경쟁적인 시장에 마케팅 접근법이 너무 순해 보였다.",
+      "tags": ["marketing", "aggressive"]
+    },
+    {
+      "word": "Tame",
+      "sentence_en": "The art exhibition was criticized for being too tame and conventional.",
+      "sentence_ko": "예술 전시회는 너무 순하고 전통적이라고 비판받았다.",
+      "tags": ["art", "criticism"]
+    },
+    {
+      "word": "Controlled",
+      "sentence_en": "The office environment felt overly controlled and stifling to creativity.",
+      "sentence_ko": "사무실 환경이 지나치게 통제되고 창의성을 억누르는 것 같았다.",
+      "tags": ["office", "environment"]
+    },
+    {
+      "word": "Controlled",
+      "sentence_en": "She maintained a controlled demeanor at work despite inner frustrations.",
+      "sentence_ko": "그녀는 내적 좌절에도 불구하고 직장에서 억제된 태도를 유지했다.",
+      "tags": ["job", "composure"]
+    },
+    {
+      "word": "Controlled",
+      "sentence_en": "The movie depicted a dystopian society with completely controlled citizens.",
+      "sentence_ko": "영화는 완전히 통제된 시민들이 있는 디스토피아 사회를 그렸다.",
+      "tags": ["movie", "dystopia"]
+    },
+    {
+      "word": "Controlled",
+      "sentence_en": "The restaurant maintained tightly controlled quality standards across all locations.",
+      "sentence_ko": "레스토랑은 모든 지점에 걸쳐 엄격하게 통제된 품질 기준을 유지했다.",
+      "tags": ["restaurant", "quality"]
+    },
+    {
+      "word": "Controlled",
+      "sentence_en": "University experiments require controlled conditions for accurate results.",
+      "sentence_ko": "대학 실험은 정확한 결과를 위해 통제된 조건이 필요하다.",
+      "tags": ["university", "science"]
+    },
+    {
+      "word": "Obeisant",
+      "sentence_en": "The intern's obeisant manner impressed senior staff at the office.",
+      "sentence_ko": "인턴의 정중하게 복종하는 태도가 사무실 선임 직원들에게 인상을 줬다.",
+      "tags": ["office", "impression"]
+    },
+    {
+      "word": "Obeisant",
+      "sentence_en": "She balanced obeisant professionalism with independent thinking at work.",
+      "sentence_ko": "그녀는 직장에서 정중하게 복종하는 전문성과 독립적 사고의 균형을 맞췄다.",
+      "tags": ["job", "balance"]
+    },
+    {
+      "word": "Obeisant",
+      "sentence_en": "The movie explored when obeisant respect becomes problematic submission.",
+      "sentence_ko": "영화는 정중하게 복종하는 존중이 언제 문제적 순종이 되는지 탐구했다.",
+      "tags": ["movie", "analysis"]
+    },
+    {
+      "word": "Obeisant",
+      "sentence_en": "The restaurant staff showed obeisant service to distinguished guests.",
+      "sentence_ko": "레스토랑 직원들은 귀빈들에게 정중하게 복종하는 서비스를 보여줬다.",
+      "tags": ["restaurant", "service"]
+    },
+    {
+      "word": "Obeisant",
+      "sentence_en": "University traditions include obeisant respect for academic achievements.",
+      "sentence_ko": "대학 전통은 학문적 성취에 대한 정중하게 복종하는 존중을 포함한다.",
+      "tags": ["university", "tradition"]
+    },
+    {
+      "word": "Powerless",
+      "sentence_en": "The junior staff felt powerless to change unfair office policies.",
+      "sentence_ko": "주니어 직원들은 불공정한 사무실 정책을 바꿀 무력함을 느꼈다.",
+      "tags": ["office", "unfair"]
+    },
+    {
+      "word": "Powerless",
+      "sentence_en": "She felt powerless in her job until she found her voice.",
+      "sentence_ko": "그녀는 자신의 목소리를 찾을 때까지 직업에서 무력하다고 느꼈다.",
+      "tags": ["job", "empowerment"]
+    },
+    {
+      "word": "Powerless",
+      "sentence_en": "The movie showed how ordinary people aren't truly powerless against injustice.",
+      "sentence_ko": "영화는 평범한 사람들이 불의에 맞서 진정으로 무력하지 않음을 보여줬다.",
+      "tags": ["movie", "empowerment"]
+    },
+    {
+      "word": "Powerless",
+      "sentence_en": "The restaurant workers felt powerless against exploitative management practices.",
+      "sentence_ko": "레스토랑 노동자들은 착취적인 경영 관행에 맞서 무력하다고 느꼈다.",
+      "tags": ["restaurant", "exploitation"]
+    },
+    {
+      "word": "Powerless",
+      "sentence_en": "University students are not powerless to advocate for educational improvements.",
+      "sentence_ko": "대학생들은 교육 개선을 옹호하는 데 무력하지 않다.",
+      "tags": ["university", "advocacy"]
+    },
+    {
+      "word": "Weak",
+      "sentence_en": "The office culture made assertive people feel weak and insecure.",
+      "sentence_ko": "사무실 문화가 단호한 사람들을 약하고 불안하게 느끼게 만들었다.",
+      "tags": ["office", "culture"]
+    },
+    {
+      "word": "Weak",
+      "sentence_en": "She appeared weak but possessed incredible resilience in her job.",
+      "sentence_ko": "그녀는 약해 보였지만 직업에서 놀라운 회복력을 지녔다.",
+      "tags": ["job", "strength"]
+    },
+    {
+      "word": "Weak",
+      "sentence_en": "The movie challenged the stereotype that kindness equals weakness.",
+      "sentence_ko": "영화는 친절함이 약함과 같다는 고정관념에 도전했다.",
+      "tags": ["movie", "stereotype"]
+    },
+    {
+      "word": "Weak",
+      "sentence_en": "The marketing campaign's weak messaging failed to resonate with audiences.",
+      "sentence_ko": "마케팅 캠페인의 약한 메시지는 청중들에게 공감을 얻지 못했다.",
+      "tags": ["marketing", "ineffective"]
+    },
+    {
+      "word": "Weak",
+      "sentence_en": "University support systems help students during weak moments of doubt.",
+      "sentence_ko": "대학 지원 시스템은 학생들이 약한 의심의 순간에 도움을 준다.",
+      "tags": ["university", "support"]
+    },
+    {
+      "word": "Vulnerable",
+      "sentence_en": "New employees are vulnerable to exploitation at unfair offices.",
+      "sentence_ko": "신입사원들은 불공정한 사무실에서 착취에 취약하다.",
+      "tags": ["office", "protection"]
+    },
+    {
+      "word": "Vulnerable",
+      "sentence_en": "She felt vulnerable in her job but built confidence over time.",
+      "sentence_ko": "그녀는 직업에서 취약하다고 느꼈지만 시간이 지나면서 자신감을 쌓았다.",
+      "tags": ["job", "growth"]
+    },
+    {
+      "word": "Vulnerable",
+      "sentence_en": "The movie portrayed vulnerable characters finding strength through solidarity.",
+      "sentence_ko": "영화는 연대를 통해 힘을 찾는 취약한 캐릭터들을 그렸다.",
+      "tags": ["movie", "solidarity"]
+    },
+    {
+      "word": "Vulnerable",
+      "sentence_en": "The restaurant industry leaves workers vulnerable to economic downturns.",
+      "sentence_ko": "레스토랑 산업은 노동자들을 경기 침체에 취약하게 만든다.",
+      "tags": ["restaurant", "economic"]
+    },
+    {
+      "word": "Vulnerable",
+      "sentence_en": "University provides safe spaces for students during vulnerable periods.",
+      "sentence_ko": "대학은 취약한 시기에 학생들을 위한 안전한 공간을 제공한다.",
+      "tags": ["university", "safety"]
+    },
+    {
+      "word": "Defenseless",
+      "sentence_en": "The intern felt defenseless against unfair criticism at the office.",
+      "sentence_ko": "인턴은 사무실에서 불공정한 비판에 맞서 무방비하다고 느꼈다.",
+      "tags": ["office", "unfair"]
+    },
+    {
+      "word": "Defenseless",
+      "sentence_en": "Workers aren't defenseless when they organize and support each other.",
+      "sentence_ko": "노동자들은 조직하고 서로 지원할 때 무방비가 아니다.",
+      "tags": ["job", "solidarity"]
+    },
+    {
+      "word": "Defenseless",
+      "sentence_en": "The movie showed defenseless communities finding ways to protect themselves.",
+      "sentence_ko": "영화는 무방비 공동체가 자신을 보호할 방법을 찾는 모습을 보여줬다.",
+      "tags": ["movie", "empowerment"]
+    },
+    {
+      "word": "Defenseless",
+      "sentence_en": "The restaurant staff seemed defenseless against management's unreasonable demands.",
+      "sentence_ko": "레스토랑 직원들은 경영진의 불합리한 요구에 맞서 무방비로 보였다.",
+      "tags": ["restaurant", "demands"]
+    },
+    {
+      "word": "Defenseless",
+      "sentence_en": "University policies should protect defenseless students from harassment.",
+      "sentence_ko": "대학 정책은 무방비한 학생들을 괴롭힘으로부터 보호해야 한다.",
+      "tags": ["university", "protection"]
+    },
+    {
+      "word": "Subject",
+      "sentence_en": "All employees are subject to the same office regulations regardless of position.",
+      "sentence_ko": "모든 직원은 직위와 관계없이 동일한 사무실 규정의 지배를 받는다.",
+      "tags": ["office", "equality"]
+    },
+    {
+      "word": "Subject",
+      "sentence_en": "She refused to be subject to unfair treatment at her job.",
+      "sentence_ko": "그녀는 직장에서 불공정한 대우의 지배를 받기를 거부했다.",
+      "tags": ["job", "fairness"]
+    },
+    {
+      "word": "Subject",
+      "sentence_en": "The movie explored what it means to be subject to oppressive systems.",
+      "sentence_ko": "영화는 억압적 시스템의 지배를 받는다는 게 무엇을 의미하는지 탐구했다.",
+      "tags": ["movie", "theme"]
+    },
+    {
+      "word": "Subject",
+      "sentence_en": "Restaurant health standards mean all establishments are subject to inspections.",
+      "sentence_ko": "레스토랑 보건 기준은 모든 시설이 검사의 지배를 받는다는 걸 의미한다.",
+      "tags": ["restaurant", "regulation"]
+    },
+    {
+      "word": "Subject",
+      "sentence_en": "University research is subject to ethical review before proceeding.",
+      "sentence_ko": "대학 연구는 진행 전에 윤리 검토의 지배를 받는다.",
+      "tags": ["university", "ethics"]
+    },
+    {
+      "word": "Underling",
+      "sentence_en": "The manager treated underlings with respect rather than condescension at the office.",
+      "sentence_ko": "매니저는 사무실에서 아랫사람들을 경멸이 아니라 존중으로 대했다.",
+      "tags": ["office", "respect"]
+    },
+    {
+      "word": "Underling",
+      "sentence_en": "She refused to be treated as a mere underling in her job.",
+      "sentence_ko": "그녀는 직업에서 단순한 졸개로 취급받기를 거부했다.",
+      "tags": ["job", "dignity"]
+    },
+    {
+      "word": "Underling",
+      "sentence_en": "The movie criticized toxic workplace cultures that abuse underlings.",
+      "sentence_ko": "영화는 아랫사람들을 학대하는 유독한 직장 문화를 비판했다.",
+      "tags": ["movie", "workplace"]
+    },
+    {
+      "word": "Underling",
+      "sentence_en": "The restaurant owner valued input from underlings, not just managers.",
+      "sentence_ko": "레스토랑 주인은 매니저뿐만 아니라 아랫사람들의 의견도 소중히 여겼다.",
+      "tags": ["restaurant", "inclusive"]
+    },
+    {
+      "word": "Underling",
+      "sentence_en": "University hierarchies shouldn't treat students as mere underlings.",
+      "sentence_ko": "대학 위계는 학생들을 단순한 아랫사람으로 취급해서는 안 된다.",
+      "tags": ["university", "equality"]
+    },
+    {
+      "word": "Follower",
+      "sentence_en": "She transformed from follower to leader during her time at the office.",
+      "sentence_ko": "그녀는 사무실에서 보낸 시간 동안 추종자에서 리더로 변모했다.",
+      "tags": ["office", "growth"]
+    },
+    {
+      "word": "Follower",
+      "sentence_en": "Every leader was once a follower learning the job fundamentals.",
+      "sentence_ko": "모든 리더는 한때 직업 기초를 배우는 팔로워였다.",
+      "tags": ["job", "development"]
+    },
+    {
+      "word": "Follower",
+      "sentence_en": "The movie explored the psychology of followers in authoritarian movements.",
+      "sentence_ko": "영화는 권위주의 운동에서 추종자들의 심리를 탐구했다.",
+      "tags": ["movie", "psychology"]
+    },
+    {
+      "word": "Follower",
+      "sentence_en": "The marketing campaign aimed to convert followers into brand advocates.",
+      "sentence_ko": "마케팅 캠페인은 팔로워를 브랜드 옹호자로 전환하는 것을 목표로 했다.",
+      "tags": ["marketing", "strategy"]
+    },
+    {
+      "word": "Follower",
+      "sentence_en": "University encourages students to be critical thinkers, not blind followers.",
+      "sentence_ko": "대학은 학생들이 맹목적 추종자가 아니라 비판적 사고자가 되도록 장려한다.",
+      "tags": ["university", "thinking"]
+    },
+    {
+      "word": "Pliant",
+      "sentence_en": "The new employee's pliant nature made training easy at the office.",
+      "sentence_ko": "신입사원의 유순한 성격이 사무실에서 교육을 쉽게 만들었다.",
+      "tags": ["office", "training"]
+    },
+    {
+      "word": "Pliant",
+      "sentence_en": "She remained pliant on minor issues but firm on core job principles.",
+      "sentence_ko": "그녀는 사소한 문제에서는 유순했지만 핵심 직업 원칙에서는 확고했다.",
+      "tags": ["job", "principles"]
+    },
+    {
+      "word": "Pliant",
+      "sentence_en": "The movie showed how pliant minds can be manipulated by propaganda.",
+      "sentence_ko": "영화는 유순한 마음이 어떻게 선전에 조종될 수 있는지 보여줬다.",
+      "tags": ["movie", "manipulation"]
+    },
+    {
+      "word": "Pliant",
+      "sentence_en": "The marketing strategy was pliant enough to adapt to market changes.",
+      "sentence_ko": "마케팅 전략은 시장 변화에 적응할 만큼 잘 휘었다.",
+      "tags": ["marketing", "adaptive"]
+    },
+    {
+      "word": "Pliant",
+      "sentence_en": "University encourages pliant thinking that adapts without losing core values.",
+      "sentence_ko": "대학은 핵심 가치를 잃지 않으면서 적응하는 유순한 사고를 장려한다.",
+      "tags": ["university", "values"]
+    },
+    {
+      "word": "Malleable",
+      "sentence_en": "Young employees are often malleable and receptive to office training.",
+      "sentence_ko": "젊은 직원들은 종종 영향받기 쉽고 사무실 교육을 잘 받아들인다.",
+      "tags": ["office", "training"]
+    },
+    {
+      "word": "Malleable",
+      "sentence_en": "Her opinions remained malleable as she gained more job experience.",
+      "sentence_ko": "그녀의 의견은 직업 경험을 더 쌓으면서 영향받기 쉬웠다.",
+      "tags": ["job", "learning"]
+    },
+    {
+      "word": "Malleable",
+      "sentence_en": "The movie explored how malleable public opinion can be manipulated.",
+      "sentence_ko": "영화는 영향받기 쉬운 여론이 어떻게 조종될 수 있는지 탐구했다.",
+      "tags": ["movie", "society"]
+    },
+    {
+      "word": "Malleable",
+      "sentence_en": "The restaurant concept was malleable and adapted to customer feedback.",
+      "sentence_ko": "레스토랑 컨셉트는 가소성이 있어서 고객 피드백에 적응했다.",
+      "tags": ["restaurant", "adaptive"]
+    },
+    {
+      "word": "Malleable",
+      "sentence_en": "University students have malleable minds perfect for learning new ideas.",
+      "sentence_ko": "대학생들은 새로운 아이디어를 배우기에 완벽한 가소성 있는 마음을 가졌다.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "The timid intern gradually gained confidence at the office over time.",
+      "sentence_ko": "소심한 인턴은 시간이 지나면서 사무실에서 점차 자신감을 얻었다.",
+      "tags": ["office", "growth"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "She overcame her timid nature and excelled in her demanding job.",
+      "sentence_ko": "그녀는 소심한 성격을 극복하고 힘든 직업에서 뛰어났다.",
+      "tags": ["job", "success"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "The movie showed timid characters finding courage in crisis moments.",
+      "sentence_ko": "영화는 소심한 캐릭터들이 위기의 순간에 용기를 찾는 모습을 보여줬다.",
+      "tags": ["movie", "courage"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "The marketing approach seemed too timid for such a bold brand.",
+      "sentence_ko": "그렇게 대담한 브랜드에 마케팅 접근법이 너무 소심해 보였다.",
+      "tags": ["marketing", "brand"]
+    },
+    {
+      "word": "Timid",
+      "sentence_en": "University should help timid students develop confidence and voice.",
+      "sentence_ko": "대학은 소심한 학생들이 자신감과 목소리를 개발하도록 도와야 한다.",
+      "tags": ["university", "development"]
+    },
+    {
+      "word": "Ungovernable",
+      "sentence_en": "The creative team became ungovernable when micromanaged at the office.",
+      "sentence_ko": "창의적 팀은 사무실에서 세세하게 관리당할 때 통제 불능이 됐다.",
+      "tags": ["office", "management"]
+    },
+    {
+      "word": "Ungovernable",
+      "sentence_en": "Her ungovernable spirit made her perfect for the entrepreneurial job.",
+      "sentence_ko": "그녀의 통제 불능 정신이 그녀를 기업가적 직업에 완벽하게 만들었다.",
+      "tags": ["job", "entrepreneurial"]
+    },
+    {
+      "word": "Ungovernable",
+      "sentence_en": "The movie celebrated ungovernable spirits who challenged corrupt systems.",
+      "sentence_ko": "영화는 부패한 시스템에 도전한 통제 불능 정신들을 찬양했다.",
+      "tags": ["movie", "rebellion"]
+    },
+    {
+      "word": "Ungovernable",
+      "sentence_en": "The restaurant's ungovernable chef created innovative dishes fearlessly.",
+      "sentence_ko": "레스토랑의 통제 불능 셰프가 두려움 없이 혁신적인 요리를 만들었다.",
+      "tags": ["restaurant", "innovation"]
+    },
+    {
+      "word": "Ungovernable",
+      "sentence_en": "University students should maintain ungovernable curiosity about learning.",
+      "sentence_ko": "대학생들은 학습에 대한 통제 불능 호기심을 유지해야 한다.",
+      "tags": ["university", "curiosity"]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "deck_title": "COMPLEXITY_INTRICACY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Complex",
+      "sentence_en": "The human brain is a complex organ that controls every function of the body.",
+      "sentence_ko": "인간의 뇌는 신체의 모든 기능을 통제하는 복잡한 기관입니다.",
+      "tags": ["medical", "education", "science"]
+    },
+    {
+      "word": "Complex",
+      "sentence_en": "Scheduling classes for thousands of students is a complex task.",
+      "sentence_ko": "수천 명의 학생을 위한 수업 일정을 짜는 것은 복잡한 작업입니다.",
+      "tags": ["education", "schedule", "school"]
+    },
+    {
+      "word": "Complex",
+      "sentence_en": "The weather patterns this year are too complex to predict accurately.",
+      "sentence_ko": "올해 날씨 패턴은 너무 복잡해서 정확히 예측하기 어렵습니다.",
+      "tags": ["weather", "travel", "environment"]
+    },
+    {
+      "word": "Complex",
+      "sentence_en": "This wine has a complex flavor profile with hints of berries and oak.",
+      "sentence_ko": "이 와인은 베리와 오크 향이 어우러진 복합적인 풍미를 가지고 있습니다.",
+      "tags": ["dining", "food", "warm"]
+    },
+    {
+      "word": "Complex",
+      "sentence_en": "The soccer team used a complex strategy to break through the defense.",
+      "sentence_ko": "그 축구 팀은 수비를 뚫기 위해 복잡한 전술을 사용했습니다.",
+      "tags": ["sport", "education", "strategy"]
+    },
+    {
+      "word": "Complicated",
+      "sentence_en": "The instructions for assembling this furniture are terribly complicated.",
+      "sentence_ko": "이 가구를 조립하는 설명서는 끔찍할 정도로 복잡합니다.",
+      "tags": ["education", "home", "schedule"]
+    },
+    {
+      "word": "Complicated",
+      "sentence_en": "Relationships can get complicated when money is involved.",
+      "sentence_ko": "돈이 개입되면 인간관계가 복잡해질 수 있습니다.",
+      "tags": ["dining", "life", "warm"]
+    },
+    {
+      "word": "Complicated",
+      "sentence_en": "Her medical history is complicated, so we need more tests.",
+      "sentence_ko": "그녀의 병력이 복잡해서 검사가 더 필요합니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Complicated",
+      "sentence_en": "Applying for a travel visa can be a complicated process.",
+      "sentence_ko": "여행 비자를 신청하는 것은 까다로운 과정이 될 수 있습니다.",
+      "tags": ["travel", "schedule", "education"]
+    },
+    {
+      "word": "Complicated",
+      "sentence_en": "The rules of this board game seem complicated at first glance.",
+      "sentence_ko": "이 보드게임의 규칙은 언뜻 보기에 복잡해 보입니다.",
+      "tags": ["sport", "education", "play"]
+    },
+    {
+      "word": "Intricate",
+      "sentence_en": "The wedding dress featured intricate lace designs tailored by hand.",
+      "sentence_ko": "그 웨딩드레스는 손으로 직접 만든 정교한 레이스 디자인이 특징이었습니다.",
+      "tags": ["fashion", "wedding", "warm"]
+    },
+    {
+      "word": "Intricate",
+      "sentence_en": "The watch mechanism is an intricate assembly of tiny gears.",
+      "sentence_ko": "시계 장치는 아주 작은 기어들이 정교하게 조립된 것입니다.",
+      "tags": ["fashion", "education", "technology"]
+    },
+    {
+      "word": "Intricate",
+      "sentence_en": "The plot of the novel was intricate, weaving together multiple timelines.",
+      "sentence_ko": "그 소설의 줄거리는 여러 시간대가 얽혀 있어 매우 정교했습니다.",
+      "tags": ["education", "travel", "book"]
+    },
+    {
+      "word": "Intricate",
+      "sentence_en": "Surgeons performed an intricate operation to repair the nerves.",
+      "sentence_ko": "외과 의사들은 신경을 복구하기 위해 정교한 수술을 집도했습니다.",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Intricate",
+      "sentence_en": "The chef prepared an intricate dessert with spun sugar.",
+      "sentence_ko": "셰프는 설탕 공예로 장식한 정교한 디저트를 준비했습니다.",
+      "tags": ["food", "dining", "warm"]
+    },
+    {
+      "word": "Convoluted",
+      "sentence_en": "His explanation for being late was so convoluted that nobody believed him.",
+      "sentence_ko": "지각한 이유에 대한 그의 설명이 너무 장황하고 꼬여 있어서 아무도 믿지 않았습니다.",
+      "tags": ["schedule", "education", "work"]
+    },
+    {
+      "word": "Convoluted",
+      "sentence_en": "The legal contract is written in convoluted language.",
+      "sentence_ko": "그 법적 계약서는 대단히 난해한 언어로 작성되어 있습니다.",
+      "tags": ["education", "business", "schedule"]
+    },
+    {
+      "word": "Convoluted",
+      "sentence_en": "We got lost because the directions were convoluted.",
+      "sentence_ko": "길 안내가 너무 꼬여 있어서 우리는 길을 잃었습니다.",
+      "tags": ["travel", "schedule", "driving"]
+    },
+    {
+      "word": "Convoluted",
+      "sentence_en": "The digestive system is a convoluted tube inside the body.",
+      "sentence_ko": "소화 기관은 우리 몸 안에서 구불구불하게 꼬인 관입니다.",
+      "tags": ["medical", "education", "science"]
+    },
+    {
+      "word": "Convoluted",
+      "sentence_en": "The movie's plot was too convoluted to follow comfortably.",
+      "sentence_ko": "그 영화의 줄거리는 너무 난해해서 편하게 따라갈 수가 없었습니다.",
+      "tags": ["education", "warm", "movie"]
+    },
+    {
+      "word": "Labyrinthine",
+      "sentence_en": "We got lost in the labyrinthine streets of the old city.",
+      "sentence_ko": "우리는 구시가지의 미로 같은 거리에서 길을 잃었습니다.",
+      "tags": ["travel", "weather", "city"]
+    },
+    {
+      "word": "Labyrinthine",
+      "sentence_en": "The hospital corridors are labyrinthine, making it hard to find the ward.",
+      "sentence_ko": "병원 복도가 미로 같아서 병동을 찾기가 어렵습니다.",
+      "tags": ["medical", "schedule", "building"]
+    },
+    {
+      "word": "Labyrinthine",
+      "sentence_en": "Applying for a grant involves a labyrinthine bureaucratic process.",
+      "sentence_ko": "보조금을 신청하려면 미로처럼 복잡한 관료적 절차를 거쳐야 합니다.",
+      "tags": ["education", "schedule", "business"]
+    },
+    {
+      "word": "Labyrinthine",
+      "sentence_en": "The massive library has labyrinthine rows of bookshelves.",
+      "sentence_ko": "그 거대한 도서관에는 책장들이 미로처럼 늘어서 있습니다.",
+      "tags": ["education", "warm", "book"]
+    },
+    {
+      "word": "Labyrinthine",
+      "sentence_en": "The cave system is labyrinthine and dangerous for beginners.",
+      "sentence_ko": "그 동굴 시스템은 미로처럼 복잡해서 초보자에게 위험합니다.",
+      "tags": ["sport", "travel", "nature"]
+    },
+    {
+      "word": "Tortuous",
+      "sentence_en": "The bus drove slowly along the tortuous mountain road.",
+      "sentence_ko": "버스는 구불구불한 산길을 따라 천천히 달렸습니다.",
+      "tags": ["travel", "weather", "transport"]
+    },
+    {
+      "word": "Tortuous",
+      "sentence_en": "Negotiations have been tortuous and slow-moving.",
+      "sentence_ko": "협상은 비틀리고 느리게 진행되어 왔습니다.",
+      "tags": ["schedule", "business", "education"]
+    },
+    {
+      "word": "Tortuous",
+      "sentence_en": "The river follows a tortuous path to the sea.",
+      "sentence_ko": "그 강은 바다로 향해 구불구불한 경로를 따라 흐릅니다.",
+      "tags": ["travel", "weather", "nature"]
+    },
+    {
+      "word": "Tortuous",
+      "sentence_en": "His logic was tortuous, making it hard to agree with him.",
+      "sentence_ko": "그의 논리는 너무 꼬여 있어서 동의하기 어려웠습니다.",
+      "tags": ["education", "schedule", "conversation"]
+    },
+    {
+      "word": "Tortuous",
+      "sentence_en": "The patient had a tortuous recovery process after the accident.",
+      "sentence_ko": "그 환자는 사고 후 힘겹고 우여곡절이 많은 회복 과정을 겪었습니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Abstruse",
+      "sentence_en": "The professor's lecture on quantum physics was abstruse.",
+      "sentence_ko": "양자 물리학에 대한 교수님의 강의는 난해했습니다.",
+      "tags": ["education", "science", "school"]
+    },
+    {
+      "word": "Abstruse",
+      "sentence_en": "Medical journals often use abstruse terminology.",
+      "sentence_ko": "의학 저널은 종종 난해한 전문 용어를 사용합니다.",
+      "tags": ["medical", "education", "reading"]
+    },
+    {
+      "word": "Abstruse",
+      "sentence_en": "I found the philosophy book too abstruse to finish.",
+      "sentence_ko": "저는 그 철학 책이 너무 심오하고 어려워서 끝까지 읽지 못했습니다.",
+      "tags": ["education", "warm", "book"]
+    },
+    {
+      "word": "Abstruse",
+      "sentence_en": "The rules of cricket can seem abstruse to outsiders.",
+      "sentence_ko": "크리켓 규칙은 외부 사람들에게 난해하게 보일 수 있습니다.",
+      "tags": ["sport", "travel", "rules"]
+    },
+    {
+      "word": "Abstruse",
+      "sentence_en": "He enjoys reading abstruse poetry in his free time.",
+      "sentence_ko": "그는 여가 시간에 난해한 시를 읽는 것을 즐깁니다.",
+      "tags": ["education", "warm", "hobby"]
+    },
+    {
+      "word": "Involved",
+      "sentence_en": "The recipe is quite involved, requiring many steps and ingredients.",
+      "sentence_ko": "이 요리법은 꽤 복잡해서 많은 단계와 재료가 필요합니다.",
+      "tags": ["food", "dining", "warm"]
+    },
+    {
+      "word": "Involved",
+      "sentence_en": "Planning a wedding is an involved process with many details.",
+      "sentence_ko": "결혼식 준비는 세부 사항이 많아 복잡한 과정입니다.",
+      "tags": ["schedule", "fashion", "event"]
+    },
+    {
+      "word": "Involved",
+      "sentence_en": "The medical treatment is involved and will take several months.",
+      "sentence_ko": "그 의학적 치료는 복잡해서 몇 달이 걸릴 것입니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Involved",
+      "sentence_en": "The story became more involved as new characters appeared.",
+      "sentence_ko": "새로운 등장인물이 나타나면서 이야기가 더 복잡해졌습니다.",
+      "tags": ["education", "warm", "movie"]
+    },
+    {
+      "word": "Involved",
+      "sentence_en": "Getting a visa was more involved than I expected.",
+      "sentence_ko": "비자를 받는 일은 제가 예상했던 것보다 더 까다로웠습니다.",
+      "tags": ["travel", "schedule", "bureaucracy"]
+    },
+    {
+      "word": "Knotty",
+      "sentence_en": "We need to solve this knotty problem regarding the budget.",
+      "sentence_ko": "우리는 예산에 관한 이 골치 아픈 문제를 해결해야 합니다.",
+      "tags": ["schedule", "business", "education"]
+    },
+    {
+      "word": "Knotty",
+      "sentence_en": "The legal team is working on a knotty issue.",
+      "sentence_ko": "법무팀은 얽히고설킨 문제를 다루고 있습니다.",
+      "tags": ["education", "business", "work"]
+    },
+    {
+      "word": "Knotty",
+      "sentence_en": "She combed through her knotty hair after the windy walk.",
+      "sentence_ko": "그녀는 바람 부는 산책 후 엉킨 머리를 빗었습니다.",
+      "tags": ["fashion", "weather", "beauty"]
+    },
+    {
+      "word": "Knotty",
+      "sentence_en": "Ethical dilemmas are often knotty and hard to resolve.",
+      "sentence_ko": "윤리적 딜레마는 종종 복잡하게 얽혀 있어 해결하기 어렵습니다.",
+      "tags": ["medical", "education", "philosophy"]
+    },
+    {
+      "word": "Knotty",
+      "sentence_en": "The carpenter smoothed out the knotty piece of wood.",
+      "sentence_ko": "목수는 옹이가 많은 나무 조각을 매끄럽게 다듬었습니다.",
+      "tags": ["warm", "food", "craft"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "She prepared an elaborate dinner for her guests.",
+      "sentence_ko": "그녀는 손님들을 위해 공들인 저녁 식사를 준비했습니다.",
+      "tags": ["food", "dining", "warm"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "The elaborate costume took months to sew.",
+      "sentence_ko": "그 정교한 의상은 바느질하는 데 몇 달이 걸렸습니다.",
+      "tags": ["fashion", "schedule", "art"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "He made up an elaborate excuse for missing the meeting.",
+      "sentence_ko": "그는 회의에 빠진 것에 대해 정교한 변명을 지어냈습니다.",
+      "tags": ["schedule", "education", "business"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "The hotel lobby has elaborate decorations on the ceiling.",
+      "sentence_ko": "호텔 로비 천장에는 정교한 장식이 되어 있습니다.",
+      "tags": ["travel", "fashion", "design"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "Can you elaborate on your medical symptoms?",
+      "sentence_ko": "증상에 대해 좀 더 자세히 말씀해 주시겠습니까?",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Tangled",
+      "sentence_en": "My headphones always get tangled in my pocket.",
+      "sentence_ko": "제 헤드폰은 주머니 속에서 항상 엉킵니다.",
+      "tags": ["travel", "fashion", "daily"]
+    },
+    {
+      "word": "Tangled",
+      "sentence_en": "The traffic was tangled up due to the bad weather.",
+      "sentence_ko": "악천후 때문에 교통이 뒤엉켰습니다.",
+      "tags": ["weather", "travel", "schedule"]
+    },
+    {
+      "word": "Tangled",
+      "sentence_en": "She tried to brush out her tangled hair.",
+      "sentence_ko": "그녀는 엉킨 머리를 빗어 내리려고 했습니다.",
+      "tags": ["fashion", "warm", "beauty"]
+    },
+    {
+      "word": "Tangled",
+      "sentence_en": "The investigation revealed a tangled web of lies.",
+      "sentence_ko": "조사 결과 뒤엉킨 거짓말의 실체가 드러났습니다.",
+      "tags": ["education", "schedule", "law"]
+    },
+    {
+      "word": "Tangled",
+      "sentence_en": "The fisherman fixed his tangled net on the dock.",
+      "sentence_ko": "어부는 부두에서 엉킨 그물을 손질했습니다.",
+      "tags": ["food", "travel", "sport"]
+    },
+    {
+      "word": "Messy",
+      "sentence_en": "Eating spaghetti can be messy if you're not careful.",
+      "sentence_ko": "조심하지 않으면 스파게티를 먹을 때 지저분해질 수 있습니다.",
+      "tags": ["food", "dining", "warm"]
+    },
+    {
+      "word": "Messy",
+      "sentence_en": "The divorce process was emotional and messy.",
+      "sentence_ko": "이혼 과정은 감정적이고 골치 아팠습니다.",
+      "tags": ["schedule", "education", "life"]
+    },
+    {
+      "word": "Messy",
+      "sentence_en": "My schedule is messy this week, so I can't meet.",
+      "sentence_ko": "이번 주는 일정이 엉망이라 만날 수 없습니다.",
+      "tags": ["schedule", "business", "education"]
+    },
+    {
+      "word": "Messy",
+      "sentence_en": "The surgery was messy, but the patient survived.",
+      "sentence_ko": "수술은 까다로웠지만, 환자는 생존했습니다.",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Messy",
+      "sentence_en": "The muddy field made for a messy soccer game.",
+      "sentence_ko": "진흙탕 경기장 때문에 축구 경기가 엉망진창이 되었습니다.",
+      "tags": ["sport", "weather", "outdoor"]
+    },
+    {
+      "word": "Baffling",
+      "sentence_en": "The sudden change in weather was baffling to the forecasters.",
+      "sentence_ko": "갑작스러운 날씨 변화는 예보관들을 당황하게 했습니다.",
+      "tags": ["weather", "education", "science"]
+    },
+    {
+      "word": "Baffling",
+      "sentence_en": "Doctors found his symptoms baffling and couldn't diagnose him.",
+      "sentence_ko": "의사들은 그의 증상을 도저히 이해할 수 없어 진단을 내리지 못했습니다.",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Baffling",
+      "sentence_en": "The disappearance of the ship remains a baffling mystery.",
+      "sentence_ko": "그 배의 실종은 여전히 풀리지 않는 미스터리입니다.",
+      "tags": ["travel", "education", "history"]
+    },
+    {
+      "word": "Baffling",
+      "sentence_en": "It is baffling why he would quit such a good job.",
+      "sentence_ko": "그가 왜 그렇게 좋은 직장을 그만두려는지 도무지 이해할 수 없습니다.",
+      "tags": ["schedule", "business", "career"]
+    },
+    {
+      "word": "Baffling",
+      "sentence_en": "The baffling puzzle took hours to solve.",
+      "sentence_ko": "그 난해한 퍼즐을 푸는 데 몇 시간이 걸렸습니다.",
+      "tags": ["education", "warm", "game"]
+    },
+    {
+      "word": "Chaotic",
+      "sentence_en": "The airport was chaotic after the storm cancelled flights.",
+      "sentence_ko": "폭풍으로 항공편이 취소된 후 공항은 혼란스러웠습니다.",
+      "tags": ["travel", "weather", "schedule"]
+    },
+    {
+      "word": "Chaotic",
+      "sentence_en": "The emergency room is often chaotic on weekends.",
+      "sentence_ko": "응급실은 주말에 종종 혼잡하고 정신이 없습니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Chaotic",
+      "sentence_en": "His desk is chaotic, covered in papers and coffee cups.",
+      "sentence_ko": "그의 책상은 서류와 커피잔으로 뒤덮여 난장판입니다.",
+      "tags": ["education", "work", "schedule"]
+    },
+    {
+      "word": "Chaotic",
+      "sentence_en": "The start of the marathon was a bit chaotic.",
+      "sentence_ko": "마라톤의 시작은 다소 무질서했습니다.",
+      "tags": ["sport", "schedule", "outdoor"]
+    },
+    {
+      "word": "Chaotic",
+      "sentence_en": "Fashion week backstage is always chaotic.",
+      "sentence_ko": "패션 위크의 무대 뒤는 항상 정신없이 바쁩니다.",
+      "tags": ["fashion", "schedule", "event"]
+    },
+    {
+      "word": "Bewildering",
+      "sentence_en": "The menu offered a bewildering array of exotic dishes.",
+      "sentence_ko": "그 메뉴판에는 어리둥절할 정도로 다양한 이국적인 요리들이 있었습니다.",
+      "tags": ["food", "dining", "travel"]
+    },
+    {
+      "word": "Bewildering",
+      "sentence_en": "Navigating the Tokyo subway system can be bewildering for tourists.",
+      "sentence_ko": "도쿄 지하철 노선을 찾는 것은 관광객들에게 혼란스러울 수 있습니다.",
+      "tags": ["travel", "schedule", "transport"]
+    },
+    {
+      "word": "Bewildering",
+      "sentence_en": "The rapid changes in technology are bewildering to many seniors.",
+      "sentence_ko": "급격한 기술 변화는 많은 노인들에게 당혹스럽습니다.",
+      "tags": ["education", "technology", "life"]
+    },
+    {
+      "word": "Bewildering",
+      "sentence_en": "She gave me a bewildering look when I spoke in French.",
+      "sentence_ko": "내가 프랑스어로 말하자 그녀는 어리둥절한 표정을 지었습니다.",
+      "tags": ["education", "travel", "language"]
+    },
+    {
+      "word": "Bewildering",
+      "sentence_en": "The medical terminology was bewildering to the patient.",
+      "sentence_ko": "의학 전문 용어는 환자에게 너무 어려워서 당혹스러웠습니다.",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Puzzling",
+      "sentence_en": "It is puzzling why the car engine stops only when it rains.",
+      "sentence_ko": "비가 올 때만 자동차 시동이 꺼지는 것은 참 이해하기 힘든 일입니다.",
+      "tags": ["weather", "travel", "schedule"]
+    },
+    {
+      "word": "Puzzling",
+      "sentence_en": "The doctor found a puzzling rash on the patient's arm.",
+      "sentence_ko": "의사는 환자의 팔에서 원인을 알 수 없는 발진을 발견했습니다.",
+      "tags": ["medical", "health", "science"]
+    },
+    {
+      "word": "Puzzling",
+      "sentence_en": "She left a puzzling message on my voicemail.",
+      "sentence_ko": "그녀는 내 음성 사서함에 알쏭달쏭한 메시지를 남겼습니다.",
+      "tags": ["schedule", "education", "communication"]
+    },
+    {
+      "word": "Puzzling",
+      "sentence_en": "The team's poor performance is puzzling given their talent.",
+      "sentence_ko": "그들의 재능을 고려할 때 팀의 저조한 성적은 의아합니다.",
+      "tags": ["sport", "education", "schedule"]
+    },
+    {
+      "word": "Puzzling",
+      "sentence_en": "Fashion trends can sometimes be puzzling to the older generation.",
+      "sentence_ko": "패션 트렌드는 때때로 기성세대에게 이해하기 힘들 수 있습니다.",
+      "tags": ["fashion", "education", "culture"]
+    },
+    {
+      "word": "Mystifying",
+      "sentence_en": "The magician performed a mystifying card trick.",
+      "sentence_ko": "마술사는 신비한 카드 마술을 선보였습니다.",
+      "tags": ["warm", "education", "play"]
+    },
+    {
+      "word": "Mystifying",
+      "sentence_en": "The cause of the illness is still mystifying scientists.",
+      "sentence_ko": "그 질병의 원인은 여전히 과학자들에게 미스터리입니다.",
+      "tags": ["medical", "education", "science"]
+    },
+    {
+      "word": "Mystifying",
+      "sentence_en": "The ancient ruins have a mystifying aura.",
+      "sentence_ko": "그 고대 유적은 신비로운 기운을 풍깁니다.",
+      "tags": ["travel", "education", "history"]
+    },
+    {
+      "word": "Mystifying",
+      "sentence_en": "Her decision to move abroad was mystifying to her friends.",
+      "sentence_ko": "해외로 이주하겠다는 그녀의 결정은 친구들에게 알 수 없는 일이었습니다.",
+      "tags": ["travel", "schedule", "life"]
+    },
+    {
+      "word": "Mystifying",
+      "sentence_en": "The lights in the sky were mystifying.",
+      "sentence_ko": "하늘에 있는 불빛들은 기이했습니다.",
+      "tags": ["weather", "warm", "nature"]
+    },
+    {
+      "word": "Cryptic",
+      "sentence_en": "He received a cryptic text message from an unknown number.",
+      "sentence_ko": "그는 알 수 없는 번호로부터 수수께끼 같은 문자 메시지를 받았습니다.",
+      "tags": ["schedule", "education", "mystery"]
+    },
+    {
+      "word": "Cryptic",
+      "sentence_en": "The doctor wrote a cryptic note on the prescription.",
+      "sentence_ko": "의사는 처방전에 알아보기 힘든 메모를 남겼습니다.",
+      "tags": ["medical", "health", "writing"]
+    },
+    {
+      "word": "Cryptic",
+      "sentence_en": "She gave a cryptic answer about her future plans.",
+      "sentence_ko": "그녀는 장래 계획에 대해 아리송한 답변을 했습니다.",
+      "tags": ["education", "schedule", "career"]
+    },
+    {
+      "word": "Cryptic",
+      "sentence_en": "The ancient crossword puzzle had cryptic clues.",
+      "sentence_ko": "그 고대 십자말풀이에는 수수께끼 같은 단서들이 있었습니다.",
+      "tags": ["education", "warm", "game"]
+    },
+    {
+      "word": "Cryptic",
+      "sentence_en": "The fashion designer posted a cryptic photo of the new collection.",
+      "sentence_ko": "패션 디자이너는 새 컬렉션에 대한 의미심장한 사진을 올렸습니다.",
+      "tags": ["fashion", "schedule", "art"]
+    },
+    {
+      "word": "Enigmatic",
+      "sentence_en": "The Mona Lisa is famous for her enigmatic smile.",
+      "sentence_ko": "모나리자는 그녀의 신비로운 미소로 유명합니다.",
+      "tags": ["education", "warm", "art"]
+    },
+    {
+      "word": "Enigmatic",
+      "sentence_en": "He is an enigmatic player who rarely speaks to the press.",
+      "sentence_ko": "그는 언론에 거의 말을 하지 않는 베일에 싸인 선수입니다.",
+      "tags": ["sport", "schedule", "media"]
+    },
+    {
+      "word": "Enigmatic",
+      "sentence_en": "The enigmatic stranger sat alone at the dining table.",
+      "sentence_ko": "그 정체불명의 낯선 사람은 식탁에 혼자 앉아 있었습니다.",
+      "tags": ["dining", "food", "travel"]
+    },
+    {
+      "word": "Enigmatic",
+      "sentence_en": "The symptoms of this enigmatic disease come and go.",
+      "sentence_ko": "이 불가사의한 질병의 증상은 나타났다 사라지곤 합니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Enigmatic",
+      "sentence_en": "The ending of the movie was enigmatic and open to interpretation.",
+      "sentence_ko": "그 영화의 결말은 묘하고 해석의 여지가 있었습니다.",
+      "tags": ["education", "warm", "movie"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "The restaurant is located in an obscure alleyway.",
+      "sentence_ko": "그 식당은 눈에 잘 띄지 않는 골목길에 위치해 있습니다.",
+      "tags": ["dining", "food", "travel"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "He quoted an obscure poet from the 18th century.",
+      "sentence_ko": "그는 18세기의 무명 시인을 인용했습니다.",
+      "tags": ["education", "warm", "literature"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "The medical condition is caused by an obscure genetic defect.",
+      "sentence_ko": "그 질환은 잘 알려지지 않은 유전적 결함으로 인해 발생합니다.",
+      "tags": ["medical", "education", "science"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "Fog tended to obscure the view of the mountain.",
+      "sentence_ko": "안개가 산의 경치를 가리는 경향이 있었습니다.",
+      "tags": ["weather", "travel", "nature"]
+    },
+    {
+      "word": "Obscure",
+      "sentence_en": "The legal details were obscure to the average person.",
+      "sentence_ko": "법적인 세부 사항은 일반인에게는 이해하기 어려웠습니다.",
+      "tags": ["education", "schedule", "law"]
+    },
+    {
+      "word": "Recondite",
+      "sentence_en": "The professor enjoys discussing recondite philosophical theories.",
+      "sentence_ko": "그 교수는 심오하고 난해한 철학 이론을 토론하는 것을 즐깁니다.",
+      "tags": ["education", "schedule", "school"]
+    },
+    {
+      "word": "Recondite",
+      "sentence_en": "This library contains books on recondite subjects.",
+      "sentence_ko": "이 도서관에는 잘 알려지지 않은 전문적인 주제의 책들이 있습니다.",
+      "tags": ["education", "warm", "book"]
+    },
+    {
+      "word": "Recondite",
+      "sentence_en": "The origin of the ritual is recondite and lost to history.",
+      "sentence_ko": "그 의식의 기원은 심오하여 역사 속으로 사라졌습니다.",
+      "tags": ["travel", "education", "history"]
+    },
+    {
+      "word": "Recondite",
+      "sentence_en": "He specializes in recondite areas of tax law.",
+      "sentence_ko": "그는 세법의 난해한 분야를 전문으로 합니다.",
+      "tags": ["education", "business", "work"]
+    },
+    {
+      "word": "Recondite",
+      "sentence_en": "The chemical process is recondite to non-scientists.",
+      "sentence_ko": "그 화학 공정은 비과학자들에게는 난해합니다.",
+      "tags": ["medical", "education", "science"]
+    },
+    {
+      "word": "Impenetrable",
+      "sentence_en": "The jargon in this medical report is impenetrable.",
+      "sentence_ko": "이 의료 보고서의 전문 용어는 도저히 이해할 수 없습니다.",
+      "tags": ["medical", "education", "reading"]
+    },
+    {
+      "word": "Impenetrable",
+      "sentence_en": "The forest was dense and impenetrable without a guide.",
+      "sentence_ko": "그 숲은 울창해서 가이드 없이는 뚫고 들어갈 수 없었습니다.",
+      "tags": ["travel", "weather", "nature"]
+    },
+    {
+      "word": "Impenetrable",
+      "sentence_en": "She wore an impenetrable expression during the negotiation.",
+      "sentence_ko": "그녀는 협상 중에 속을 알 수 없는 표정을 지었습니다.",
+      "tags": ["schedule", "business", "education"]
+    },
+    {
+      "word": "Impenetrable",
+      "sentence_en": "The castle walls were built to be impenetrable.",
+      "sentence_ko": "그 성벽은 뚫을 수 없도록 지어졌습니다.",
+      "tags": ["travel", "education", "history"]
+    },
+    {
+      "word": "Impenetrable",
+      "sentence_en": "The dense fog made the darkness impenetrable.",
+      "sentence_ko": "짙은 안개 때문에 어둠을 뚫어볼 수 없었습니다.",
+      "tags": ["weather", "travel", "driving"]
+    },
+    {
+      "word": "Sophisticated",
+      "sentence_en": "The hospital uses sophisticated equipment for heart surgery.",
+      "sentence_ko": "그 병원은 심장 수술을 위해 정교한 장비를 사용합니다.",
+      "tags": ["medical", "education", "technology"]
+    },
+    {
+      "word": "Sophisticated",
+      "sentence_en": "She has a sophisticated taste in fashion.",
+      "sentence_ko": "그녀는 패션에 대해 세련된 취향을 가지고 있습니다.",
+      "tags": ["fashion", "warm", "style"]
+    },
+    {
+      "word": "Sophisticated",
+      "sentence_en": "Dining at that restaurant requires a sophisticated palate.",
+      "sentence_ko": "저 식당에서 식사하려면 세련된 미각이 필요합니다.",
+      "tags": ["dining", "food", "culture"]
+    },
+    {
+      "word": "Sophisticated",
+      "sentence_en": "Modern cars have sophisticated safety systems.",
+      "sentence_ko": "현대 자동차들은 정교한 안전 시스템을 갖추고 있습니다.",
+      "tags": ["travel", "education", "transport"]
+    },
+    {
+      "word": "Sophisticated",
+      "sentence_en": "The software uses sophisticated algorithms to predict weather.",
+      "sentence_ko": "그 소프트웨어는 날씨를 예측하기 위해 정교한 알고리즘을 사용합니다.",
+      "tags": ["weather", "education", "science"]
+    },
+    {
+      "word": "Multifaceted",
+      "sentence_en": "The problem of climate change is multifaceted.",
+      "sentence_ko": "기후 변화 문제는 다면적입니다.",
+      "tags": ["weather", "education", "environment"]
+    },
+    {
+      "word": "Multifaceted",
+      "sentence_en": "She is a multifaceted athlete who excels in running and swimming.",
+      "sentence_ko": "그녀는 달리기와 수영에 뛰어난 다재다능한 선수입니다.",
+      "tags": ["sport", "education", "health"]
+    },
+    {
+      "word": "Multifaceted",
+      "sentence_en": "Treatment for this disease must be multifaceted.",
+      "sentence_ko": "이 질병에 대한 치료는 다각적이어야 합니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Multifaceted",
+      "sentence_en": "The diamond was multifaceted and sparkled in the light.",
+      "sentence_ko": "그 다이아몬드는 다면체로 깎여 빛을 받아 반짝였습니다.",
+      "tags": ["fashion", "warm", "luxury"]
+    },
+    {
+      "word": "Multifaceted",
+      "sentence_en": "Planning a city is a multifaceted task involving many experts.",
+      "sentence_ko": "도시 계획은 많은 전문가가 참여하는 복합적인 과제입니다.",
+      "tags": ["schedule", "education", "work"]
+    },
+    {
+      "word": "Multidimensional",
+      "sentence_en": "Health is a multidimensional concept involving mind and body.",
+      "sentence_ko": "건강은 몸과 마음을 포함하는 다차원적인 개념입니다.",
+      "tags": ["medical", "education", "health"]
+    },
+    {
+      "word": "Multidimensional",
+      "sentence_en": "The video game offers a rich, multidimensional world.",
+      "sentence_ko": "그 비디오 게임은 풍부하고 입체적인 세계를 제공합니다.",
+      "tags": ["education", "warm", "play"]
+    },
+    {
+      "word": "Multidimensional",
+      "sentence_en": "We need a multidimensional strategy to win the championship.",
+      "sentence_ko": "우승하려면 다차원적인 전략이 필요합니다.",
+      "tags": ["sport", "schedule", "strategy"]
+    },
+    {
+      "word": "Multidimensional",
+      "sentence_en": "The flavors in this curry are multidimensional.",
+      "sentence_ko": "이 카레의 맛은 입체적이고 풍부합니다.",
+      "tags": ["food", "dining", "warm"]
+    },
+    {
+      "word": "Multidimensional",
+      "sentence_en": "Poverty is a multidimensional issue, not just about money.",
+      "sentence_ko": "빈곤은 단순히 돈 문제가 아니라 다차원적인 문제입니다.",
+      "tags": ["education", "schedule", "society"]
+    },
+    {
+      "word": "Byzantine",
+      "sentence_en": "The company has a Byzantine structure of management.",
+      "sentence_ko": "그 회사는 복잡하고 권위적인 경영 구조를 가지고 있습니다.",
+      "tags": ["business", "schedule", "work"]
+    },
+    {
+      "word": "Byzantine",
+      "sentence_en": "The tax laws in this country are Byzantine.",
+      "sentence_ko": "이 나라의 세법은 비잔틴 양식처럼 복잡합니다.",
+      "tags": ["education", "schedule", "finance"]
+    },
+    {
+      "word": "Byzantine",
+      "sentence_en": "Navigating the Byzantine medical insurance system is frustrating.",
+      "sentence_ko": "복잡한 의료 보험 시스템을 이용하는 것은 좌절감을 줍니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Byzantine",
+      "sentence_en": "The plot involved Byzantine political intrigues.",
+      "sentence_ko": "그 줄거리에는 복잡한 정치적 음모가 포함되어 있었습니다.",
+      "tags": ["education", "warm", "history"]
+    },
+    {
+      "word": "Byzantine",
+      "sentence_en": "Rules for the sport became Byzantine over the years.",
+      "sentence_ko": "그 스포츠의 규칙은 수년에 걸쳐 지나치게 복잡해졌습니다.",
+      "tags": ["sport", "education", "rules"]
+    },
+    {
+      "word": "Perplexing",
+      "sentence_en": "The perplexing math problem stumped the students.",
+      "sentence_ko": "그 복잡한 수학 문제는 학생들을 난처하게 만들었습니다.",
+      "tags": ["education", "schedule", "school"]
+    },
+    {
+      "word": "Perplexing",
+      "sentence_en": "It is perplexing that the pain only occurs at night.",
+      "sentence_ko": "통증이 밤에만 나타나는 것은 참 이해하기 어렵습니다.",
+      "tags": ["medical", "schedule", "health"]
+    },
+    {
+      "word": "Perplexing",
+      "sentence_en": "The weather today is perplexing; it's raining while sunny.",
+      "sentence_ko": "오늘 날씨는 참 묘합니다. 해가 떴는데 비가 오네요.",
+      "tags": ["weather", "travel", "nature"]
+    },
+    {
+      "word": "Perplexing",
+      "sentence_en": "His sudden anger was perplexing to his friends.",
+      "sentence_ko": "그의 갑작스러운 분노는 친구들을 당황하게 했습니다.",
+      "tags": ["dining", "warm", "emotion"]
+    },
+    {
+      "word": "Perplexing",
+      "sentence_en": "Choosing a travel destination can be perplexing with so many options.",
+      "sentence_ko": "옵션이 너무 많아서 여행지를 고르는 것은 골치 아플 수 있습니다.",
+      "tags": ["travel", "schedule", "leisure"]
+    },
+    {
+      "word": "Disorienting",
+      "sentence_en": "Waking up in a new hotel room can be disorienting.",
+      "sentence_ko": "새로운 호텔 방에서 잠을 깨는 것은 혼란스러울 수 있습니다.",
+      "tags": ["travel", "schedule", "sleep"]
+    },
+    {
+      "word": "Disorienting",
+      "sentence_en": "The fever was high and disorienting.",
+      "sentence_ko": "열이 높아서 정신이 혼미했습니다.",
+      "tags": ["medical", "health", "sick"]
+    },
+    {
+      "word": "Disorienting",
+      "sentence_en": "The flashing lights at the fashion show were disorienting.",
+      "sentence_ko": "패션쇼의 번쩍이는 조명은 어지러웠습니다.",
+      "tags": ["fashion", "event", "warm"]
+    },
+    {
+      "word": "Disorienting",
+      "sentence_en": "Driving in heavy fog is disorienting.",
+      "sentence_ko": "짙은 안개 속에서 운전하는 것은 방향 감각을 잃게 합니다.",
+      "tags": ["weather", "travel", "driving"]
+    },
+    {
+      "word": "Disorienting",
+      "sentence_en": "The complex layout of the mall was disorienting.",
+      "sentence_ko": "쇼핑몰의 복잡한 구조는 방향을 잃게 만들었습니다.",
+      "tags": ["dining", "shopping", "building"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The medical textbook is dense with information.",
+      "sentence_ko": "그 의학 교과서는 정보로 빽빽합니다.",
+      "tags": ["medical", "education", "book"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "We drove through dense fog on the highway.",
+      "sentence_ko": "우리는 고속도로에서 짙은 안개를 뚫고 운전했습니다.",
+      "tags": ["weather", "travel", "driving"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The cake was too dense and heavy.",
+      "sentence_ko": "그 케이크는 너무 밀도가 높고 묵직했습니다.",
+      "tags": ["food", "dining", "cooking"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The contract is full of dense legal language.",
+      "sentence_ko": "그 계약서는 난해한 법률 용어로 가득합니다.",
+      "tags": ["education", "business", "law"]
+    },
+    {
+      "word": "Dense",
+      "sentence_en": "The population is dense in the city center.",
+      "sentence_ko": "도심은 인구 밀도가 높습니다.",
+      "tags": ["travel", "schedule", "city"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "The last question on the exam was very tricky.",
+      "sentence_ko": "시험의 마지막 문제는 매우 까다로웠습니다.",
+      "tags": ["education", "schedule", "school"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Diagnosing rare diseases can be tricky.",
+      "sentence_ko": "희귀병을 진단하는 것은 까다로울 수 있습니다.",
+      "tags": ["medical", "health", "science"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "The roads are tricky to drive on when it snows.",
+      "sentence_ko": "눈이 오면 도로는 운전하기 까다롭습니다.",
+      "tags": ["weather", "travel", "driving"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Cooking a soufflé is tricky because it collapses easily.",
+      "sentence_ko": "수플레는 쉽게 무너져서 요리하기 까다롭습니다.",
+      "tags": ["food", "dining", "cooking"]
+    },
+    {
+      "word": "Tricky",
+      "sentence_en": "Scheduling a meeting with everyone is tricky.",
+      "sentence_ko": "모두와 회의 일정을 잡는 것은 까다롭습니다.",
+      "tags": ["schedule", "business", "work"]
+    }
+  ]
+}

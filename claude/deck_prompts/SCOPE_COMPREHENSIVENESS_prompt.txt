@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SCOPE_COMPREHENSIVENESS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Scope - 범위, 여지 (다루는 영역)
+2. Range - 범위, 다양성 (A에서 B까지의 폭)
+3. Extent - 정도, 규모 (미치는 크기)
+4. Degree - 정도, 도 (수준이나 단계)
+5. Scale - 규모, 등급 (비율이나 크기)
+6. Magnitude - 규모, 진도 (거대함이나 중요도)
+7. Dimension - 차원, 관점 (크기나 치수)
+8. Area - 면적, 지역, 분야
+9. Realm - 영역, 왕국 (활동이나 관심의 범위)
+10. Domain - 영역, 소유지 (지배하거나 관리하는 범위)
+11. Sphere - 구, 영역 (영향력이 미치는 범위)
+12. Horizon - 지평선, 시야 (인식이나 지식의 범위)
+13. Coverage - 보도, 적용 범위 (포함하는 정도)
+14. Comprehensive - 포괄적인, 종합적인 (모든 것을 다루는)
+15. Inclusive - 포괄적인 (빠짐없이 포함하는)
+16. Universal - 보편적인, 전 세계적인 (모두에게 해당하는)
+17. Global - 지구의, 전반적인 (전체에 걸친)
+18. Total - 총, 전체의 (합계의)
+19. Whole - 전체의 (빠진 것 없는)
+20. Entire - 내내, 전체의 (처음부터 끝까지)
+21. Complete - 완전한 (부족함 없는)
+22. Partial - 부분적인 (전체가 아닌)
+23. Segment - 조각, 부분 (나뉘어진 한 부분)
+24. Fraction - 일부, 파편 (아주 작은 부분)
+25. Portion - 몫, 인분 (할당된 부분)
+26. Span - 기간, 폭 (걸쳐 있는 범위)
+27. Stretch - 구간, 뻗음 (펼쳐진 범위)
+28. Reach - 범위, 거리 (손이 닿는 곳)
+29. Breadth - 폭, 넓이 (지식 등의 넓이)
+30. Spectrum - 스펙트럼, 범위 (양극단 사이의 분포)
+
+## 추천 태그 (상황/맥락)
+nature, work, learning, internet, food, medical, activity, develope, social, warm
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SCOPE_COMPREHENSIVENESS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SCOPE_COMPREHENSIVENESS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

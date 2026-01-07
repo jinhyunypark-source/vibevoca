@@ -1,0 +1,798 @@
+{
+  "deck_title": "TASTE",
+  "total_sentences": 132,
+  "sentences": [
+    {
+      "word": "Delicious",
+      "sentence_en": "We found a hidden restaurant that serves delicious local pasta during our journey through Italy.",
+      "sentence_ko": "이탈리아를 여행하던 중 정말 맛있는 현지 파스타를 파는 숨겨진 맛집을 발견했어요.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Delicious",
+      "sentence_en": "The marketing team shared some delicious snacks while discussing the new campaign ideas.",
+      "sentence_ko": "마케팅팀은 새로운 캠페인 아이디어를 논의하면서 맛있는 간식을 나눠 먹었습니다.",
+      "tags": ["marketing", "communication", "activity"]
+    },
+    {
+      "word": "Delicious",
+      "sentence_en": "I watched a movie last night where the main character cooks delicious meals for his family.",
+      "sentence_ko": "어제 주인공이 가족을 위해 맛있는 요리를 해주는 영화를 봤어요.",
+      "tags": ["movie", "entertainment", "time"]
+    },
+    {
+      "word": "Delicious",
+      "sentence_en": "You can find many delicious recipes on the internet if you want to try cooking at home.",
+      "sentence_ko": "집에서 요리를 해보고 싶다면 인터넷에서 맛있는 레시피를 많이 찾을 수 있습니다.",
+      "tags": ["internet", "health", "activity"]
+    },
+    {
+      "word": "Delicious",
+      "sentence_en": "The smell of delicious coffee filled the office, making the morning communication much more pleasant.",
+      "sentence_ko": "맛있는 커피 향이 사무실에 가득 퍼져서 아침 대화가 훨씬 더 즐거워졌습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Delicious",
+      "sentence_en": "Healthy food can be delicious if you use the right fresh ingredients and spices.",
+      "sentence_ko": "신선한 재료와 향신료만 잘 사용한다면 건강식도 충분히 맛있을 수 있습니다.",
+      "tags": ["health", "marketing", "activity"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "The chef prepared a savory stew that was perfect for the cold weather during our journey.",
+      "sentence_ko": "셰프는 우리 여행 중 추운 날씨에 딱 어울리는 감칠맛 나는 스튜를 준비해 주었습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "I prefer savory snacks like crackers over sweet ones when I am working on my code.",
+      "sentence_ko": "저는 코딩 작업을 할 때 단것보다 크래커처럼 짭짤한 간식을 더 선호합니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "The marketing campaign for the new savory sauce reached millions of viewers on the internet.",
+      "sentence_ko": "새로운 감칠맛 소스에 대한 마케팅 캠페인이 인터넷을 통해 수백만 시청자에게 전달되었습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "This healthy salad has a savory dressing made with soy sauce and sesame oil.",
+      "sentence_ko": "이 건강한 샐러드에는 간장과 참기름으로 만든 짭짤하고 감칠맛 나는 드레싱이 들어있습니다.",
+      "tags": ["health", "activity", "marketing"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "In the movie, they had a large banquet filled with savory dishes from all over the world.",
+      "sentence_ko": "영화에서 그들은 전 세계의 감칠맛 나는 요리들로 가득 찬 성대한 연회를 열었습니다.",
+      "tags": ["movie", "entertainment", "journey"]
+    },
+    {
+      "word": "Savory",
+      "sentence_en": "Good communication during a meal can make even the most simple savory dish taste better.",
+      "sentence_ko": "식사 중의 즐거운 대화는 아주 간단한 짭짤한 요리조리조차 더 맛있게 느껴지게 합니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "The roast chicken was succulent and tender, just like the ones we saw in the cooking movie.",
+      "sentence_ko": "로스트 치킨은 요리 영화에서 본 것처럼 육즙이 많고 부드러웠습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "During our journey in the tropical island, we enjoyed many succulent fruits every morning.",
+      "sentence_ko": "열대 섬을 여행하는 동안 매일 아침 즙이 많은 과일을 듬뿍 즐겼습니다.",
+      "tags": ["journey", "health", "activity"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "The restaurant's marketing focuses on their succulent steaks to attract meat lovers on the internet.",
+      "sentence_ko": "그 레스토랑의 마케팅은 인터넷의 고기 애호가들을 끌어들이기 위해 육즙 가득한 스테이크에 집중합니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "It is hard to keep the meat succulent if you overcook it while following the online code.",
+      "sentence_ko": "온라인 레시피를 따르더라도 고기를 너무 오래 익히면 육즙을 유지하기 어렵습니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "A succulent peach is a great healthy snack to have during a busy work afternoon.",
+      "sentence_ko": "즙이 많은 복숭아는 바쁜 오후 근무 시간에 먹기 좋은 건강한 간식입니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Succulent",
+      "sentence_en": "The food photography on the internet made the berries look incredibly succulent and fresh.",
+      "sentence_ko": "인터넷에 올라온 음식 사진 속 베리들은 믿을 수 없을 정도로 싱싱하고 즙이 많아 보였습니다.",
+      "tags": ["internet", "marketing", "entertainment"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "This zesty lemon tart is the perfect light dessert after a long journey.",
+      "sentence_ko": "이 상큼한 레몬 타르트는 긴 여행 후에 먹기 딱 좋은 가벼운 디저트입니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "The marketing team used zesty colors in the ad to match the product's refreshing taste.",
+      "sentence_ko": "마케팅팀은 제품의 상큼한 맛에 맞춰 광고에 톡 쏘는 느낌의 밝은 색상들을 사용했습니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "Adding a bit of lime gives the healthy water a zesty kick that I love.",
+      "sentence_ko": "라임을 조금 넣으면 제가 좋아하는 상큼하고 톡 쏘는 맛이 건강한 물에 더해집니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "The movie featured a zesty soundtrack that made all the scenes feel more energetic.",
+      "sentence_ko": "그 영화는 모든 장면을 더 활기차게 만들어주는 톡 쏘는 매력의 사운드트랙을 선보였습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "Communication in the office became more zesty and lively after the successful product launch.",
+      "sentence_ko": "성공적인 제품 출시 이후 사무실의 소통이 훨씬 더 활기차고 생생해졌습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Zesty",
+      "sentence_en": "I found a code on the internet for a discount on their new zesty orange juice.",
+      "sentence_ko": "인터넷에서 그들의 새로운 상큼한 오렌지 주스 할인 코드를 찾았습니다.",
+      "tags": ["internet", "code", "marketing"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "The tangy flavor of the yogurt is very refreshing and great for your digestive health.",
+      "sentence_ko": "요거트의 새콤한 맛은 아주 상쾌하며 소화 건강에도 좋습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "We enjoyed a tangy barbecue sauce at the small roadside diner during our journey.",
+      "sentence_ko": "여행 중 들른 작은 길가 식당에서 톡 쏘는 새콤한 바비큐 소스를 맛있게 먹었습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "The marketing agency suggested using tangy and bold imagery to promote the new sour candy.",
+      "sentence_ko": "마케팅 대행사는 새로운 신맛 사탕을 홍보하기 위해 톡 쏘고 대담한 이미지를 사용할 것을 제안했습니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "I love how tangy apples are in the autumn; they are perfect for a healthy snack.",
+      "sentence_ko": "가을 사과의 새콤한 맛이 정말 좋아요. 건강한 간식으로 완벽하죠.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "There was a funny scene in the movie where the character reacts to a tangy lemon.",
+      "sentence_ko": "영화에서 등장인물이 새콤한 레몬을 먹고 반응하는 재미있는 장면이 있었습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Tangy",
+      "sentence_en": "You can use this secret code on the internet to buy their tangy vinegar dressing.",
+      "sentence_ko": "인터넷에서 이 비밀 코드를 사용하면 그들의 새콤한 식초 드레싱을 살 수 있습니다.",
+      "tags": ["internet", "code", "marketing"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "My grandmother made a scrumptious chocolate cake for my birthday, and everyone loved it.",
+      "sentence_ko": "할머니가 제 생일에 정말 맛있는 초콜릿 케이크를 만들어 주셨는데 모두가 좋아했어요.",
+      "tags": ["activity", "time", "entertainment"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "The internet reviews said the food at this hotel was scrumptious, and they were right.",
+      "sentence_ko": "인터넷 후기에서 이 호텔 음식이 정말 맛있다고 했는데, 정말 그랬어요.",
+      "tags": ["internet", "journey", "communication"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "We had a scrumptious dinner at a high-end restaurant to celebrate the successful code release.",
+      "sentence_ko": "성공적인 코드 출시를 축하하기 위해 고급 레스토랑에서 정말 맛있는 저녁 식사를 했습니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "Marketing luxury food items requires showing how scrumptious and exclusive they are.",
+      "sentence_ko": "고급 식품을 마케팅하려면 그것이 얼마나 정말 맛있고 독점적인지를 보여주어야 합니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "The main couple in the romantic movie shared a scrumptious meal by the Eiffel Tower.",
+      "sentence_ko": "로맨틱 영화의 주인공 커플이 에펠탑 옆에서 정말 맛있는 식사를 함께했습니다.",
+      "tags": ["movie", "entertainment", "journey"]
+    },
+    {
+      "word": "Scrumptious",
+      "sentence_en": "Even healthy food can look scrumptious if the food styling and communication are done correctly.",
+      "sentence_ko": "푸드 스타일링과 홍보가 제대로 된다면 건강식도 정말 맛있어 보일 수 있습니다.",
+      "tags": ["health", "marketing", "communication"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "The dessert menu featured many delectable treats that were almost too beautiful to eat.",
+      "sentence_ko": "디저트 메뉴에는 먹기에 너무 아까울 정도로 예쁘고 맛있는 간식들이 가득했습니다.",
+      "tags": ["activity", "entertainment", "time"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "Our journey through France was filled with delectable wines and artisanal cheeses.",
+      "sentence_ko": "프랑스 여행은 입안이 즐거운 와인과 수제 치즈로 가득했습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "The marketing video on the internet showcased the delectable texture of the new chocolate.",
+      "sentence_ko": "인터넷 마케팅 영상은 새로운 초콜릿의 입안에서 녹는 맛있는 질감을 잘 보여주었습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "Watching the chef prepare delectable dishes in the movie made me feel very hungry.",
+      "sentence_ko": "영화에서 셰프가 맛있는 요리를 준비하는 모습을 보니 배가 너무 고파졌습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "Healthy eating doesn't have to be boring; there are many delectable recipes available online.",
+      "sentence_ko": "건강식이 지루할 필요는 없습니다. 온라인에는 입안이 즐거운 레시피가 많이 있으니까요.",
+      "tags": ["health", "internet", "activity"]
+    },
+    {
+      "word": "Delectable",
+      "sentence_en": "The communication between the two critics focused on the delectable balance of flavors in the soup.",
+      "sentence_ko": "두 비평가의 대화는 수프의 입안이 즐거운 맛의 균형에 초점을 맞췄습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "The medicine was made more palatable by adding a pleasant cherry flavor for kids.",
+      "sentence_ko": "아이들을 위해 기분 좋은 체리 향을 더해 약을 먹기 더 좋게 만들었습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "The new policy was designed to be more palatable to the employees after long communication.",
+      "sentence_ko": "새로운 정책은 오랜 소통 끝에 직원들이 더 받아들이기 쉬운(입에 맞는) 방향으로 설계되었습니다.",
+      "tags": ["communication", "marketing", "time"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "The food on the plane was barely palatable, but it was better than nothing during our journey.",
+      "sentence_ko": "기내식은 겨우 먹을 만한 정도였지만, 여행 중에 굶는 것보다는 나았습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "We need to make the data more palatable for the internet audience by using simple charts.",
+      "sentence_ko": "단순한 차트를 사용하여 인터넷 관객들이 데이터를 더 이해하기 쉽게(입에 맞게) 만들어야 합니다.",
+      "tags": ["internet", "marketing", "communication"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "If the code is clean and well-documented, it is much more palatable for other developers.",
+      "sentence_ko": "코드가 깨끗하고 문서화가 잘 되어 있으면 다른 개발자들이 보기에 훨씬 수월(입에 맞음)합니다.",
+      "tags": ["code", "communication", "time"]
+    },
+    {
+      "word": "Palatable",
+      "sentence_en": "In the movie, the hero had to eat some strange things to survive, which weren't palatable.",
+      "sentence_ko": "영화에서 주인공은 살아남기 위해 먹기 힘든 이상한 것들을 먹어야만 했습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "The colorful display of fresh vegetables made the salad look very appetizing.",
+      "sentence_ko": "신선한 채소들의 화려한 배치는 샐러드를 매우 구미가 당기게 보이게 했습니다.",
+      "tags": ["health", "activity", "marketing"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "Marketing food products on the internet requires high-quality images that look appetizing.",
+      "sentence_ko": "인터넷에서 식품을 마케팅하려면 구미를 당기게 하는 고화질 이미지가 필수적입니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "The smell coming from the kitchen during our journey was not very appetizing at first.",
+      "sentence_ko": "여행 중 식당 주방에서 나는 냄새가 처음에는 별로 구미를 당기지 않았습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "In the movie, the magical feast appeared out of nowhere, looking incredibly appetizing.",
+      "sentence_ko": "영화에서 마법 같은 연회가 갑자기 나타났는데, 정말 군침 돌게 맛있어 보였습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "It is difficult to make healthy porridge look appetizing, but adding berries helps.",
+      "sentence_ko": "건강한 죽을 먹음직스럽게 보이게 하기는 어렵지만, 베리를 추가하면 도움이 됩니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Appetizing",
+      "sentence_en": "The communication of the waiter made the special dish sound much more appetizing than the menu.",
+      "sentence_ko": "웨이터의 설명 덕분에 추천 요리가 메뉴판보다 훨씬 더 구미가 당기게 들렸습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "The restaurant offered an exquisite tasting menu that combined traditional and modern flavors.",
+      "sentence_ko": "그 레스토랑은 전통과 현대의 맛을 결합한 정교하고 훌륭한 테이스팅 메뉴를 선보였습니다.",
+      "tags": ["activity", "entertainment", "time"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "We enjoyed an exquisite sunset dinner during the final night of our journey.",
+      "sentence_ko": "여행의 마지막 밤에 아주 훌륭하고 정교한 노을 저녁 식사를 즐겼습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "The marketing for the luxury watch emphasizes the exquisite craftsmanship and detail.",
+      "sentence_ko": "고급 시계 마케팅은 정교한 장인 정신과 세부 묘사를 강조합니다.",
+      "tags": ["marketing", "communication", "time"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "The movie's cinematography was exquisite, making every shot look like a painting.",
+      "sentence_ko": "그 영화의 영상미는 매우 정교하고 훌륭해서 모든 장면이 그림 같았습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "You can find exquisite handmade goods on the internet if you know where to look.",
+      "sentence_ko": "어디를 봐야 할지 안다면 인터넷에서 정교한 수공예품들을 찾을 수 있습니다.",
+      "tags": ["internet", "activity", "marketing"]
+    },
+    {
+      "word": "Exquisite",
+      "sentence_en": "The code for the new graphics engine is exquisite, showing great attention to detail.",
+      "sentence_ko": "새로운 그래픽 엔진의 코드는 매우 정교하며 세부 사항에 대한 엄청난 주의를 보여줍니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "I found the food at the hospital to be quite bland, as it had no salt.",
+      "sentence_ko": "병원 음식은 소금이 전혀 들어가지 않아서 꽤 싱겁고 밋밋했습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "The marketing campaign was too bland and failed to capture anyone's attention on the internet.",
+      "sentence_ko": "마케팅 캠페인이 너무 밋밋해서 인터넷에서 누구의 주의도 끌지 못했습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "If the story in the movie is too bland, even great special effects won't save it.",
+      "sentence_ko": "영화의 스토리가 너무 밋밋하면 훌륭한 특수 효과도 소용이 없습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "Our journey felt a bit bland until we decided to explore the local mountain trails.",
+      "sentence_ko": "현지 산길을 탐험하기로 결정하기 전까지 우리 여행은 약간 밋밋하게 느껴졌습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "To make this bland healthy soup better, you can add some fresh herbs and spices.",
+      "sentence_ko": "이 싱거운 건강 수프를 더 맛있게 만들려면 신선한 허브와 향신료를 넣으면 됩니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Bland",
+      "sentence_en": "The communication from the manager was bland and didn't provide any exciting news for the team.",
+      "sentence_ko": "매니저의 전달 사항은 밋밋했고 팀원들에게 어떤 흥미로운 소식도 주지 못했습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "I forgot to close the bread bag, so the slices became stale by the next morning.",
+      "sentence_ko": "빵 봉지를 닫는 걸 깜빡해서 다음 날 아침에 빵이 눅눅하고 딱딱해졌어요.",
+      "tags": ["activity", "time", "health"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The marketing ideas felt stale, so we had to brainstorm fresh concepts for the internet audience.",
+      "sentence_ko": "마케팅 아이디어가 진부(눅눅)하게 느껴져서 인터넷 관객을 위한 신선한 컨셉을 구상해야 했습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "We were stuck with stale sandwiches during the long train journey through the countryside.",
+      "sentence_ko": "시골을 가로지르는 긴 기차 여행 동안 우리는 눅눅하고 맛없는 샌드위치로 버텨야 했습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The movie was criticized for having a stale plot that we have seen many times before.",
+      "sentence_ko": "그 영화는 이미 여러 번 본 적 있는 진부한(상한) 줄거리로 비판을 받았습니다.",
+      "tags": ["movie", "entertainment", "time"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "Clear communication can prevent ideas from becoming stale within a creative team.",
+      "sentence_ko": "명확한 소통은 창의적인 팀 안에서 아이디어가 진부해지는 것을 방지할 수 있습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "If you don't update your code regularly, it can become stale and hard to maintain.",
+      "sentence_ko": "코드를 정기적으로 업데이트하지 않으면 오래되고(상하고) 유지 보수하기 어려워질 수 있습니다.",
+      "tags": ["code", "internet", "time"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The butter had gone rancid because it was left out in the heat for too long.",
+      "sentence_ko": "버터가 너무 오래 열기에 방치되어 산패해 버렸습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "There was a rancid smell coming from the old kitchen during our journey in the desert.",
+      "sentence_ko": "사막 여행 중 오래된 주방에서 매캐하고 산패한 냄새가 났습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The communication between the two companies became rancid after the failed business deal.",
+      "sentence_ko": "비즈니스 거래가 실패한 후 두 회사 사이의 관계(대화)가 산패한 것처럼 악화되었습니다.",
+      "tags": ["communication", "marketing", "time"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "Using rancid oil is very bad for your health and can ruin the taste of any meal.",
+      "sentence_ko": "산패한 기름을 사용하는 것은 건강에 매우 좋지 않으며 어떤 요리의 맛도 망칠 수 있습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "In the horror movie, the characters found some rancid food in the abandoned basement.",
+      "sentence_ko": "공포 영화에서 등장인물들은 버려진 지하실에서 산패한 음식들을 발견했습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The internet comments about the spoiled product were quite rancid and full of anger.",
+      "sentence_ko": "상한 제품에 대한 인터넷 댓글들은 꽤 험악하고(산패한 듯) 분노로 가득 찼습니다.",
+      "tags": ["internet", "communication", "marketing"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "The two politicians spoke with great rancor during the televised debate.",
+      "sentence_ko": "두 정치인은 TV 토론 중에 깊은 원한과 증오를 담아 말했습니다.",
+      "tags": ["communication", "entertainment", "time"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "The movie explores the long-standing rancor between two families in a small town.",
+      "sentence_ko": "그 영화는 작은 마을의 두 가문 사이에 오래된 원한을 다룹니다.",
+      "tags": ["movie", "entertainment", "time"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "After years of rancor, the former partners finally reached a peaceful agreement through internet mediation.",
+      "sentence_ko": "수년간의 증오 끝에, 예전 파트너들은 마침내 인터넷 중재를 통해 평화적인 합의에 도달했습니다.",
+      "tags": ["internet", "communication", "time"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "The marketing team worked to address the customer's rancor after the product recall.",
+      "sentence_ko": "마케팅팀은 제품 회수 이후 고객의 깊은 원망(증오)을 해결하기 위해 노력했습니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "There was no rancor in his voice when he left the company to start a new journey.",
+      "sentence_ko": "그가 새로운 여정을 시작하기 위해 회사를 떠날 때 그의 목소리에는 어떤 원망도 없었습니다.",
+      "tags": ["journey", "communication", "time"]
+    },
+    {
+      "word": "rancor",
+      "sentence_en": "The long legal battle was filled with rancor and cost both sides a lot of money.",
+      "sentence_ko": "긴 법적 싸움은 증오로 가득 찼으며 양측 모두에게 많은 돈을 쓰게 했습니다.",
+      "tags": ["communication", "time", "marketing"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "The talk show was insipid and failed to provide any interesting communication for the viewers.",
+      "sentence_ko": "그 토크쇼는 재미없고(맛없고) 시청자들에게 어떤 흥미로운 대화도 제공하지 못했습니다.",
+      "tags": ["communication", "entertainment", "time"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "I found the healthy soup to be quite insipid until I added some sea salt.",
+      "sentence_ko": "바다 소금을 좀 넣기 전까지 그 건강 수프는 꽤 맛없고 밋밋했습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "The marketing message was insipid and didn't motivate anyone to visit the internet store.",
+      "sentence_ko": "마케팅 메시지가 김빠지고 매력이 없어서 아무도 인터넷 상점을 방문하게 하지 못했습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "Our journey was a bit insipid at first because we stayed in a very boring area.",
+      "sentence_ko": "아주 지루한 지역에 머물러서 우리 여행은 처음에 좀 김빠지고 재미가 없었습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "The movie was criticized for its insipid characters and predictable ending.",
+      "sentence_ko": "그 영화는 매력 없는(맛없는) 캐릭터들과 뻔한 결말로 비판을 받았습니다.",
+      "tags": ["movie", "entertainment", "time"]
+    },
+    {
+      "word": "Insipid",
+      "sentence_en": "If the code documentation is insipid, new developers will have a hard time understanding it.",
+      "sentence_ko": "코드 문서가 너무 부실하고 김빠진(맛없는) 내용이면 새 개발자들이 이해하기 힘들 것입니다.",
+      "tags": ["code", "communication", "time"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The pungent smell of garlic filled the small kitchen as we prepared the healthy meal.",
+      "sentence_ko": "건강식을 준비하는 동안 마늘의 톡 쏘는 자극적인 냄새가 작은 주방을 가득 채웠습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The marketing team decided to use pungent and sharp satire in the internet ad.",
+      "sentence_ko": "마케팅팀은 인터넷 광고에 톡 쏘는 듯한 날카로운 풍자를 사용하기로 했습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "We encountered many pungent spices while exploring the local markets during our journey.",
+      "sentence_ko": "여행 중 현지 시장을 탐험하면서 톡 쏘는 자극적인 향신료들을 많이 접했습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "There was a pungent odor in the movie theater that made it hard to concentrate.",
+      "sentence_ko": "영화관에 자극적인 냄새가 나서 집중하기가 힘들었습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The critic's pungent comments on the internet caused a lot of discussion about the product.",
+      "sentence_ko": "인터넷에 올라온 비평가의 톡 쏘는(날카로운) 논평은 제품에 대한 많은 논란을 일으켰습니다.",
+      "tags": ["internet", "communication", "marketing"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The communication from the leader was pungent and direct, leaving no room for misunderstanding.",
+      "sentence_ko": "리더의 전달 사항은 톡 쏘듯 날카롭고 직접적이어서 오해의 여지를 남기지 않았습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The acrid smoke from the nearby factory was bad for our respiratory health.",
+      "sentence_ko": "근처 공장에서 나오는 매캐한 연기는 호흡기 건강에 좋지 않았습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "There was an acrid smell of burnt rubber after the car chase scene in the movie.",
+      "sentence_ko": "영화 속 자동차 추격 장면 이후에 타이어 타는 매캐한 냄새가 났습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The communication between the two politicians turned acrid and bitter during the final minutes.",
+      "sentence_ko": "마지막 몇 분 동안 두 정치인 사이의 대화는 매캐하고(날카롭고) 비통하게 변했습니다.",
+      "tags": ["communication", "marketing", "time"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "We had to cover our noses because of the acrid smell of the chemicals during our journey.",
+      "sentence_ko": "여행 중 화학 물질의 매캐한 냄새 때문에 코를 가려야만 했습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The internet reviews of the failed project were acrid and full of disappointment.",
+      "sentence_ko": "실패한 프로젝트에 대한 인터넷 후기들은 매캐할(독할) 정도로 실망감으로 가득 찼습니다.",
+      "tags": ["internet", "communication", "marketing"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "If you burn the garlic while following the code, it will have an acrid and bitter taste.",
+      "sentence_ko": "레시피를 따르다가 마늘을 태우면 매캐하고 쓴 맛이 나게 됩니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "Dark chocolate can be a healthy snack, even though it has a bitter taste.",
+      "sentence_ko": "다크 초콜릿은 비록 쓴 맛이 나지만 건강한 간식이 될 수 있습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The marketing team faced a bitter disappointment after the internet campaign failed.",
+      "sentence_ko": "인터넷 캠페인이 실패한 후 마케팅팀은 쓰라린(쓴) 실망감을 맛보았습니다.",
+      "tags": ["marketing", "internet", "communication"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "There was a bitter rivalry between the two main characters in the action movie.",
+      "sentence_ko": "그 액션 영화의 두 주인공 사이에는 지독한(쓴) 라이벌 의식이 있었습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The cold wind during our journey through the mountains was bitter and hard to endure.",
+      "sentence_ko": "산길 여행 중 불어온 찬 바람은 살을 에는 듯(써서) 견디기 힘들었습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "Communication between the former friends became bitter after the serious argument.",
+      "sentence_ko": "심각한 말다툼 이후 예전 친구들 사이의 대화는 비통하게(쓰게) 변했습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The code was filled with errors, which was a bitter pill for the developer to swallow.",
+      "sentence_ko": "코드에 오류가 가득했고, 이는 개발자가 받아들이기에 쓰라린(쓴) 결과였습니다.",
+      "tags": ["code", "activity", "time"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "Too much greasy food is not good for your heart and overall health.",
+      "sentence_ko": "너무 기름진 음식은 심장과 전반적인 건강에 좋지 않습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "We had some greasy but delicious fried chicken at a local stall during our journey.",
+      "sentence_ko": "여행 중 현지 노점에서 기름지지만 맛있는 프라이드치킨을 먹었습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "The marketing for the fast-food chain showed a close-up of a greasy, juicy burger.",
+      "sentence_ko": "패스트푸드 체인 마케팅은 기름지고 육즙이 흐르는 버거의 근접 촬영 샷을 보여주었습니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "In the movie, the villain had greasy hair and a very untrustworthy appearance.",
+      "sentence_ko": "영화에서 악당은 기름기 낀 머리에 아주 신뢰할 수 없는 외모를 가지고 있었습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "I need to clean my smartphone screen because it became greasy after I ate lunch.",
+      "sentence_ko": "점심을 먹고 나서 기름기가 묻어 스마트폰 화면을 닦아야겠어요.",
+      "tags": ["smartphone", "activity", "time"]
+    },
+    {
+      "word": "Greasy",
+      "sentence_en": "The communication from the salesman felt a bit greasy and insincere to me.",
+      "sentence_ko": "판매원의 대화 방식이 나에게는 약간 기름지고(느끼하고) 진실하지 않게 느껴졌습니다.",
+      "tags": ["communication", "marketing", "time"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "The chocolate dessert was very rich, so I could only eat a small portion.",
+      "sentence_ko": "초콜릿 디저트가 맛이 아주 진해서 조금밖에 먹을 수 없었습니다.",
+      "tags": ["activity", "health", "time"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "Our journey was filled with a rich history and many cultural experiences.",
+      "sentence_ko": "우리 여행은 풍부한 역사와 많은 문화적 경험으로 가득 찼습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "The internet is a rich source of information for anyone looking to learn new skills.",
+      "sentence_ko": "인터넷은 새로운 기술을 배우고자 하는 누구에게나 풍부한 정보의 원천입니다.",
+      "tags": ["internet", "marketing", "communication"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "The movie featured a rich and detailed world that felt very realistic to the audience.",
+      "sentence_ko": "그 영화는 관객들에게 매우 사실적으로 느껴지는 풍부하고 세밀한 세계관을 선보였습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "Clear communication can lead to a rich and satisfying professional relationship.",
+      "sentence_ko": "명확한 소통은 풍부하고 만족스러운 전문적인 관계로 이어질 수 있습니다.",
+      "tags": ["communication", "activity", "time"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "Using a rich library of pre-written code can save developers a lot of time.",
+      "sentence_ko": "미리 작성된 코드의 풍부한 라이브러리를 사용하면 개발자들은 많은 시간을 아낄 수 있습니다.",
+      "tags": ["code", "internet", "time"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "The fried fish was perfectly crispy on the outside and soft on the inside.",
+      "sentence_ko": "생선 튀김은 겉은 완벽하게 바삭하고 속은 부드러웠습니다.",
+      "tags": ["activity", "health", "time"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "During our journey, we tried some crispy local snacks that were very unique.",
+      "sentence_ko": "여행 중에 우리는 매우 독특하고 바삭한 현지 간식들을 먹어보았습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "The marketing for the new cereal focused on its crispy texture that stays in milk.",
+      "sentence_ko": "새로운 시리얼 마케팅은 우유 안에서도 유지되는 바삭한 질감에 집중했습니다.",
+      "tags": ["marketing", "communication", "internet"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "In the movie, there was a satisfying sound effect when the character ate a crispy apple.",
+      "sentence_ko": "영화에서 등장인물이 바삭한 사과를 먹을 때 기분 좋은 효과음이 났습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "I love crispy healthy snacks like baked kale chips instead of potato chips.",
+      "sentence_ko": "저는 감자칩 대신 구운 케일 칩처럼 바삭하고 건강한 간식을 좋아합니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Crispy",
+      "sentence_en": "The communication in the new smartphone ad was crispy and clear, hitting all the key points.",
+      "sentence_ko": "새 스마트폰 광고의 전달 방식은 바삭하듯(깔끔하고) 명확하여 모든 핵심 포인트를 짚었습니다.",
+      "tags": ["communication", "marketing", "smartphone"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "The fresh bread was wonderfully chewy and went well with the warm soup.",
+      "sentence_ko": "갓 구운 빵은 기분 좋게 쫄깃했고 따뜻한 수프와 잘 어울렸습니다.",
+      "tags": ["activity", "health", "time"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "We bought some chewy caramel candies at the airport before starting our journey.",
+      "sentence_ko": "여행을 시작하기 전 공항에서 쫄깃한 캐러멜 사탕을 좀 샀습니다.",
+      "tags": ["journey", "activity", "time"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "The marketing team discussed how to promote the new chewy vitamins for kids.",
+      "sentence_ko": "마케팅팀은 아이들을 위한 새로운 쫄깃한(젤리형) 비타민을 어떻게 홍보할지 논의했습니다.",
+      "tags": ["marketing", "health", "communication"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "In the movie, the monster had a thick, chewy skin that weapons couldn't penetrate.",
+      "sentence_ko": "영화에서 괴물은 무기가 뚫을 수 없는 두껍고 질긴 피부를 가지고 있었습니다.",
+      "tags": ["movie", "entertainment", "activity"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "If you overcook the healthy brown rice, it can become too chewy and hard to eat.",
+      "sentence_ko": "건강에 좋은 현미를 너무 오래 익히면 너무 질겨져서(쫄깃해서) 먹기 힘들 수 있습니다.",
+      "tags": ["health", "activity", "time"]
+    },
+    {
+      "word": "Chewy",
+      "sentence_en": "The communication between the two parties was chewy and difficult, with no easy progress.",
+      "sentence_ko": "양측 사이의 대화는 질기고(답답하고) 어려웠으며 쉽게 진전되지 않았습니다.",
+      "tags": ["communication", "activity", "time"]
+    }
+  ]
+}

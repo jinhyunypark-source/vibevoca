@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SOCIAL_STATUS_CONNECTION
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Acquaintance - 지인 (알긴 하지만 친하지는 않은)   (라)ad+ cognoscere(알다)
+2. Kin - 친족 (혈연관계)
+3. Colleague - 동료 (전문직/직장에서 함께 일하는)
+4. Co-worker - 직장 동료 (같은 직장에서 일하는 사람)
+5. Predecessor - 전임자 (앞서 그 자리에 있던 사람)
+6. Peer - 또래, 동등한 사람 (나이/지위가 같은)
+7. Associate - 동료, 제휴한 사람 (사업상 연결된)
+8. Superior - 상급자 (지위가 높은 사람)
+9. Subordinate - 부하 직원, 하급자 (지위가 낮은 사람)
+10. Mentor - 멘토, 스승 (조언과 지도를 주는 사람)
+11. Mentee - 멘티 (지도를 받는 사람)
+12. Client - 의뢰인, 고객 (전문 서비스를 받는 사람)
+13. Customer - 고객, 손님 (물건을 사는 사람)
+14. Stranger - 낯선 사람 (전혀 모르는 사람)
+15. Outsider - 외부인 (그룹에 속하지 않은)
+16. Insider - 내부자 (그룹 내 정보를 아는)
+17. Network - 인맥, 네트워크 (연결된 사람들의 망)
+18. Connection - 연줄, 관계 (아는 사이/연결 고리)
+19. Contact - 연락책, 지인 (연락 가능한 사람)
+20. Relation - 친척 (가족 관계에 있는 사람)
+21. Neighbor - 이웃 (근처에 사는 사람)
+22. Roommate - 룸메이트 (방을 같이 쓰는 사람)
+23. Classmate - 동급생 (같은 반 친구)
+24. Alumni - 동창생 (같은 학교 졸업생)
+25. Fellow - 동료, 회원 (같은 처지나 학회의)
+26. Counterpart - 상대방, 대응 관계에 있는 사람
+27. Rival - 라이벌, 경쟁자 (경쟁하는 관계)
+28. Competitor - 경쟁자 (시합이나 시장에서의 경쟁)
+29. Equal - 동등한 사람 (지위나 능력이 같은)
+30. Public - 대중 (일반 사람들)
+
+## 추천 태그 (상황/맥락)
+home, music, dining, career, feeling, journey, family, friendship, mood, job
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SOCIAL_STATUS_CONNECTION",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SOCIAL_STATUS_CONNECTION",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

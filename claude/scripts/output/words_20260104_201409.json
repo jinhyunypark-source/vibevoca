@@ -1,0 +1,156 @@
+[
+  {
+    "card_id": "4ca2d456-dcce-43ba-97d4-82eb7abfae2a",
+    "word": "Delicious",
+    "meaning": "맛있는",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "82ecadac-32b0-41de-8a3b-4813d6ca441c",
+    "word": "Savory",
+    "meaning": "감칠맛 나는, 짭짤한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f7164646-65aa-47d1-9357-8d1c34aa78d9",
+    "word": "Succulent",
+    "meaning": "즙이 많은",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "c1f279d5-7dc7-4cd1-bd8e-e774fb92406a",
+    "word": "Zesty",
+    "meaning": "상큼한, 톡 쏘는",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "bb5f34d5-3451-4a62-ae9a-f9944dfc091d",
+    "word": "Tangy",
+    "meaning": "새콤한, 톡 쏘는",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e061ea45-e93d-4b77-ba94-d5384486dff8",
+    "word": "Scrumptious",
+    "meaning": "정말 맛있는 (구어체)",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "45794628-11ee-4b1f-b398-87f14996b177",
+    "word": "Delectable",
+    "meaning": "입안이 즐거운, 맛있는 (라) laetus 즐거운",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "610d9fff-3dc8-4cf9-a225-e1e22b2c4067",
+    "word": "Palatable",
+    "meaning": "입에 맞는, 먹을 만한(라) 'palatum'(입천장)",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "49a4f011-3f03-42db-8fbf-8c509de355a8",
+    "word": "Appetizing",
+    "meaning": "구미를 당기는",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "e757f6bc-6e4b-48e4-b893-62025242e5eb",
+    "word": "Exquisite",
+    "meaning": "정교한 맛의",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "1d77e2cf-986f-4e57-86f5-3440af27a83c",
+    "word": "Bland",
+    "meaning": "싱거운, 밋밋한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+    "word": "Stale",
+    "meaning": "상한, 눅눅해진",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+    "word": "Rancid",
+    "meaning": "산패한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "9b4cd713-6809-4452-bfc2-fc699fbe14bf",
+    "word": "rancor",
+    "meaning": "깊은원한 증오",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "b6ad3f6c-3011-4fda-91ff-b2865df66b97",
+    "word": "Insipid",
+    "meaning": "맛없는, 김빠진 in+sapere",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+    "word": "Pungent",
+    "meaning": "톡 쏘는, 자극적인  (라)pungere 찌르다 . ex puncture (구멍내다)",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+    "word": "Acrid",
+    "meaning": "매캐한, 쓴",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+    "word": "Bitter",
+    "meaning": "쓴",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "97808f29-8f3f-4333-8b4e-d9f1f5a14af6",
+    "word": "Greasy",
+    "meaning": "기름진, 느끼한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+    "word": "Rich",
+    "meaning": "진한, 풍부한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "f9805998-2a3a-426b-9528-b55dc3079b09",
+    "word": "Crispy",
+    "meaning": "바삭바삭한",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  },
+  {
+    "card_id": "74bb12bd-5f98-426f-a7da-400247bbeee6",
+    "word": "Chewy",
+    "meaning": "쫄깃한, 질긴",
+    "deck_id": "19887ed8-9106-47d7-8d89-c1724642844e",
+    "deck_name": "TASTE"
+  }
+]

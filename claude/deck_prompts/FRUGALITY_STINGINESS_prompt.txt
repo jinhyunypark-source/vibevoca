@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: FRUGALITY_STINGINESS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Frugal - 검소한 (필요한 것만 사며 아끼는 - 긍정적)
+2. Thrifty - 절약하는 (돈 관리를 잘하는 - 긍정적)
+3. Economical - 경제적인 (낭비가 없고 효율적인)
+4. Prudent - 신중한 (미래를 위해 돈을 아끼는)
+5. Budget - 저렴한, 예산의 (가격이 싼)
+6. Cheap - 싼, 인색한 (값이 싸거나 돈 쓰기 싫어하는)
+7. Stingy - 인색한 (돈 쓰는 것을 싫어하는 - 부정적)
+8. Miserly - 구두쇠 같은 (돈을 모으기만 하고 안 쓰는)
+9. Parsimonious - 지나치게 인색한 (돈을 극도로 아끼는 - 격식)
+10. Tight-fisted - 주먹을 꽉 쥔 (인색한) (돈을 안 놓으려는)
+11. Penny-pinching - 구두쇠 짓을 하는 (동전 한 닢도 아끼는)
+12. Mean - 인색한 (영국식: 돈에 대해 쩨쩨한)
+13. Close - 돈을 잘 안 쓰는 (지갑을 닫은)
+14. Sparing - 아껴 쓰는, 조금만 쓰는 (절약하는)
+15. Ascetic - 금욕적인 (물질적 쾌락을 거부하는)
+16. Austere - 검소한, 긴축의 (사치 없이 엄격한)
+17. Conservative - 보수적인 (재정적으로 모험하지 않는)
+18. Cost-effective - 비용 효율적인 (가격 대비 성능이 좋은)
+19. Discount - 할인 (깎아주는 것)
+20. Bargain - 특가품, 흥정 (싸게 잘 산 물건)
+21. Value - 가성비 좋은, 가치 (가격 대비 가치가 있는)
+22. Low-cost - 저비용의 (값이 싼)
+23. Reasonable - 합리적인 (가격이 적당한)
+24. Affordable - 감당할 수 있는 (비싸지 않은)
+25. Modest - 수수한, 적당한 (비싸지 않은)
+26. Simple - 소박한 (화려하지 않은)
+27. Spartan - 검소하고 엄격한 (편의시설이 없는)
+28. Skimping - 지나치게 아끼는 (재료 등을 덜 쓰는)
+29. Tight - 인색한, 꽉 조인 (돈을 안 푸는)
+30. Scrooge - 스크루지, 구두쇠 (인색한 사람의 대명사)
+
+## 추천 태그 (상황/맥락)
+fashion, place, job, hobby, sad, career, health, office, business, digital
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "FRUGALITY_STINGINESS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "FRUGALITY_STINGINESS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

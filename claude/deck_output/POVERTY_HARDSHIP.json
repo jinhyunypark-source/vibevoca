@@ -1,0 +1,936 @@
+{
+  "deck_title": "POVERTY_HARDSHIP",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Poor",
+      "sentence_en": "Growing up poor taught me to appreciate every small thing I have.",
+      "sentence_ko": "가난하게 자라면서 내가 가진 모든 작은 것을 감사하게 여기는 법을 배웠다.",
+      "tags": ["daily_life", "emotion"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "Many poor families struggle to afford basic healthcare.",
+      "sentence_ko": "많은 가난한 가정들이 기본적인 의료 서비스를 받기 힘들어한다.",
+      "tags": ["health", "daily_life"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "She came from a poor background but became a successful entrepreneur.",
+      "sentence_ko": "그녀는 가난한 배경에서 왔지만 성공한 기업가가 됐다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "The scholarship helps poor students attend university.",
+      "sentence_ko": "그 장학금은 가난한 학생들이 대학에 다닐 수 있도록 돕는다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "I'm too poor to afford a vacation this year.",
+      "sentence_ko": "나는 너무 가난해서 올해 휴가를 갈 여유가 없어.",
+      "tags": ["vacation", "daily_life"]
+    },
+    {
+      "word": "Poor",
+      "sentence_en": "Being poor doesn't mean you can't be happy.",
+      "sentence_ko": "가난하다고 해서 행복할 수 없는 건 아니야.",
+      "tags": ["emotion", "philosophy"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The earthquake left thousands of families completely destitute.",
+      "sentence_ko": "지진으로 수천 가구가 완전히 극빈 상태가 됐다.",
+      "tags": ["disaster", "emotion"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "She became destitute after losing everything in the fire.",
+      "sentence_ko": "그녀는 화재로 모든 것을 잃은 후 극빈자가 됐다.",
+      "tags": ["tragedy", "emotion"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The charity provides food and shelter for destitute individuals.",
+      "sentence_ko": "그 자선단체는 극빈자들에게 음식과 거처를 제공한다.",
+      "tags": ["social", "help"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "Without government aid, many elderly people would be destitute.",
+      "sentence_ko": "정부 지원 없이는 많은 노인들이 극빈 상태가 될 거야.",
+      "tags": ["social", "health"]
+    },
+    {
+      "word": "Destitute",
+      "sentence_en": "The war left entire villages destitute and abandoned.",
+      "sentence_ko": "전쟁은 마을 전체를 극빈 상태로 버려두고 갔다.",
+      "tags": ["tragedy", "history"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "The once-thriving town became impoverished after the factory closed.",
+      "sentence_ko": "한때 번영했던 마을이 공장이 문을 닫은 후 빈곤해졌다.",
+      "tags": ["economy", "career"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "She volunteers at impoverished communities every weekend.",
+      "sentence_ko": "그녀는 매주 주말마다 빈곤 지역에서 봉사활동을 한다.",
+      "tags": ["social", "volunteer"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "The pandemic impoverished millions of small business owners.",
+      "sentence_ko": "팬데믹은 수백만 명의 소상공인들을 빈곤하게 만들었다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "Many students from impoverished backgrounds can't afford textbooks.",
+      "sentence_ko": "빈곤한 배경을 가진 많은 학생들이 교과서를 살 여유가 없다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Impoverished",
+      "sentence_en": "His gambling addiction impoverished his entire family.",
+      "sentence_ko": "그의 도박 중독이 가족 전체를 빈곤하게 만들었다.",
+      "tags": ["family", "tragedy"]
+    },
+    {
+      "word": "Indigent",
+      "sentence_en": "The hospital provides free care for indigent patients.",
+      "sentence_ko": "병원은 곤궁한 환자들에게 무료 진료를 제공한다.",
+      "tags": ["health", "social"]
+    },
+    {
+      "word": "Indigent",
+      "sentence_en": "Legal aid services help indigent defendants in court.",
+      "sentence_ko": "법률 구조 서비스는 곤궁한 피고인들을 법정에서 돕는다.",
+      "tags": ["legal", "help"]
+    },
+    {
+      "word": "Indigent",
+      "sentence_en": "The program assists indigent families with housing costs.",
+      "sentence_ko": "그 프로그램은 곤궁한 가정들의 주거비를 지원한다.",
+      "tags": ["social", "housing"]
+    },
+    {
+      "word": "Indigent",
+      "sentence_en": "Many indigent seniors struggle to afford prescription medications.",
+      "sentence_ko": "많은 곤궁한 노인들이 처방약을 구입하는 데 어려움을 겪는다.",
+      "tags": ["health", "elderly"]
+    },
+    {
+      "word": "Indigent",
+      "sentence_en": "The shelter serves meals to indigent individuals daily.",
+      "sentence_ko": "그 쉼터는 매일 곤궁한 사람들에게 식사를 제공한다.",
+      "tags": ["social", "daily_life"]
+    },
+    {
+      "word": "Needy",
+      "sentence_en": "The organization distributes food to needy families during holidays.",
+      "sentence_ko": "그 단체는 명절 동안 어려운 가정에 음식을 배포한다.",
+      "tags": ["social", "charity"]
+    },
+    {
+      "word": "Needy",
+      "sentence_en": "She donates her old clothes to help needy children.",
+      "sentence_ko": "그녀는 어려운 아이들을 돕기 위해 헌 옷을 기부한다.",
+      "tags": ["charity", "social"]
+    },
+    {
+      "word": "Needy",
+      "sentence_en": "The scholarship program targets needy students with high potential.",
+      "sentence_ko": "그 장학금 프로그램은 잠재력이 높은 어려운 학생들을 대상으로 한다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Needy",
+      "sentence_en": "Many needy families can't afford proper winter clothing.",
+      "sentence_ko": "많은 궁핍한 가정들이 제대로 된 겨울옷을 살 여유가 없다.",
+      "tags": ["daily_life", "weather"]
+    },
+    {
+      "word": "Needy",
+      "sentence_en": "The community center offers free tutoring for needy students.",
+      "sentence_ko": "지역 센터는 어려운 학생들에게 무료 과외를 제공한다.",
+      "tags": ["education", "social"]
+    },
+    {
+      "word": "Penniless",
+      "sentence_en": "He arrived in the city penniless but full of dreams.",
+      "sentence_ko": "그는 무일푼으로 도시에 도착했지만 꿈으로 가득했다.",
+      "tags": ["career", "emotion"]
+    },
+    {
+      "word": "Penniless",
+      "sentence_en": "She left her abusive husband penniless with two children.",
+      "sentence_ko": "그녀는 학대하는 남편을 떠나 두 아이와 함께 무일푼이 됐다.",
+      "tags": ["family", "emotion"]
+    },
+    {
+      "word": "Penniless",
+      "sentence_en": "The failed startup left him penniless and in debt.",
+      "sentence_ko": "실패한 스타트업 때문에 그는 무일푼에 빚까지 지게 됐다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Penniless",
+      "sentence_en": "I was penniless for months after graduating university.",
+      "sentence_ko": "대학 졸업 후 몇 달 동안 무일푼이었어.",
+      "tags": ["university", "career"]
+    },
+    {
+      "word": "Penniless",
+      "sentence_en": "The artist died penniless despite creating masterpieces.",
+      "sentence_ko": "그 예술가는 걸작을 만들었음에도 무일푼으로 죽었다.",
+      "tags": ["art", "tragedy"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "I'm totally broke until payday next week.",
+      "sentence_ko": "다음 주 월급날까지 완전 빈털터리야.",
+      "tags": ["daily_life", "conversation"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "We're too broke to go on vacation this summer.",
+      "sentence_ko": "우리는 너무 빈털터리라서 이번 여름 휴가를 못 가.",
+      "tags": ["vacation", "daily_life"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "After buying textbooks, I'm completely broke.",
+      "sentence_ko": "교과서 사고 나니까 완전 빈털터리가 됐어.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "Sorry, I can't lend you money - I'm broke myself.",
+      "sentence_ko": "미안, 돈 못 빌려줘. 나도 빈털터리야.",
+      "tags": ["conversation", "daily_life"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "He went broke trying to keep his business afloat.",
+      "sentence_ko": "그는 사업을 유지하려다가 빈털터리가 됐다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Broke",
+      "sentence_en": "Being broke in college taught me to budget wisely.",
+      "sentence_ko": "대학 때 빈털터리였던 게 현명하게 예산 짜는 법을 가르쳐줬어.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "Children from deprived neighborhoods often lack educational resources.",
+      "sentence_ko": "불우한 동네 출신 아이들은 종종 교육 자원이 부족하다.",
+      "tags": ["education", "social"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "She grew up in a deprived area with limited opportunities.",
+      "sentence_ko": "그녀는 기회가 제한된 궁핍한 지역에서 자랐다.",
+      "tags": ["daily_life", "background"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "The program helps deprived students access university education.",
+      "sentence_ko": "그 프로그램은 불우한 학생들이 대학 교육을 받을 수 있도록 돕는다.",
+      "tags": ["university", "social"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "Many deprived families can't afford healthcare insurance.",
+      "sentence_ko": "많은 궁핍한 가정들이 건강보험을 감당할 수 없다.",
+      "tags": ["health", "social"]
+    },
+    {
+      "word": "Deprived",
+      "sentence_en": "The documentary showed life in deprived communities.",
+      "sentence_ko": "그 다큐멘터리는 궁핍한 지역사회의 삶을 보여줬다.",
+      "tags": ["media", "social"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "The company went bankrupt after years of poor management.",
+      "sentence_ko": "회사는 수년간의 부실 경영 끝에 파산했다.",
+      "tags": ["career", "entrepreneur"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "Medical bills left them bankrupt and homeless.",
+      "sentence_ko": "의료비 때문에 그들은 파산하고 집도 잃었다.",
+      "tags": ["health", "tragedy"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "He declared himself bankrupt to escape overwhelming debt.",
+      "sentence_ko": "그는 감당할 수 없는 빚에서 벗어나려고 파산 신청을 했다.",
+      "tags": ["legal", "finance"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "The pandemic made many small businesses go bankrupt.",
+      "sentence_ko": "팬데믹 때문에 많은 소상공인들이 파산했다.",
+      "tags": ["entrepreneur", "tragedy"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "Filing for bankruptcy was the hardest decision I ever made.",
+      "sentence_ko": "파산 신청은 내가 내린 가장 힘든 결정이었어.",
+      "tags": ["emotion", "career"]
+    },
+    {
+      "word": "Bankrupt",
+      "sentence_en": "His bankrupt company left hundreds of employees jobless.",
+      "sentence_ko": "그의 파산한 회사는 수백 명의 직원을 실직자로 만들었다.",
+      "tags": ["career", "tragedy"]
+    },
+    {
+      "word": "Insolvent",
+      "sentence_en": "The business became insolvent and had to close down.",
+      "sentence_ko": "사업체가 지불 불능 상태가 되어 문을 닫아야 했다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Insolvent",
+      "sentence_en": "Many students graduate insolvent with massive loan debt.",
+      "sentence_ko": "많은 학생들이 엄청난 대출 빚을 지고 지불 불능 상태로 졸업한다.",
+      "tags": ["university", "finance"]
+    },
+    {
+      "word": "Insolvent",
+      "sentence_en": "The bank declared the company technically insolvent.",
+      "sentence_ko": "은행은 그 회사가 기술적으로 지불 불능이라고 선언했다.",
+      "tags": ["finance", "legal"]
+    },
+    {
+      "word": "Insolvent",
+      "sentence_en": "Without new funding, the startup will become insolvent.",
+      "sentence_ko": "새로운 투자 없이는 그 스타트업이 지불 불능이 될 거야.",
+      "tags": ["entrepreneur", "finance"]
+    },
+    {
+      "word": "Insolvent",
+      "sentence_en": "The insolvent estate couldn't pay creditors what they were owed.",
+      "sentence_ko": "지불 불능 재산은 채권자들에게 빚진 금액을 갚을 수 없었다.",
+      "tags": ["legal", "finance"]
+    },
+    {
+      "word": "Bust",
+      "sentence_en": "My startup went bust after six months of struggling.",
+      "sentence_ko": "내 스타트업은 6개월간 고전하다가 망했어.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Bust",
+      "sentence_en": "The restaurant went bust during the economic downturn.",
+      "sentence_ko": "그 레스토랑은 경기 침체 동안 망했다.",
+      "tags": ["career", "economy"]
+    },
+    {
+      "word": "Bust",
+      "sentence_en": "If this deal falls through, we're going bust.",
+      "sentence_ko": "이 거래가 무산되면 우리는 망하는 거야.",
+      "tags": ["entrepreneur", "stress"]
+    },
+    {
+      "word": "Bust",
+      "sentence_en": "Three of my friends' businesses went bust last year.",
+      "sentence_ko": "작년에 내 친구들의 사업 세 개가 망했어.",
+      "tags": ["career", "conversation"]
+    },
+    {
+      "word": "Bust",
+      "sentence_en": "The company went bust leaving workers unpaid for months.",
+      "sentence_ko": "회사가 망해서 직원들은 몇 달째 월급을 못 받았다.",
+      "tags": ["career", "tragedy"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "I'm heavily in debt from student loans.",
+      "sentence_ko": "학자금 대출 때문에 빚이 엄청 많아.",
+      "tags": ["university", "finance"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "She's been in debt since her medical emergency last year.",
+      "sentence_ko": "그녀는 작년 응급 상황 이후로 계속 빚을 지고 있어.",
+      "tags": ["health", "finance"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "Many entrepreneurs are deeply in debt when starting out.",
+      "sentence_ko": "많은 기업가들이 시작할 때 엄청난 빚을 진다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "Living beyond your means will leave you in debt.",
+      "sentence_ko": "분수에 넘치게 살면 빚을 지게 될 거야.",
+      "tags": ["daily_life", "advice"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "I'll be in debt for years because of this mortgage.",
+      "sentence_ko": "이 주택담보대출 때문에 몇 년간 빚을 질 거야.",
+      "tags": ["housing", "finance"]
+    },
+    {
+      "word": "In debt",
+      "sentence_en": "Credit cards got me into debt that I'm still paying off.",
+      "sentence_ko": "신용카드 때문에 빚을 지게 됐고 아직도 갚고 있어.",
+      "tags": ["finance", "daily_life"]
+    },
+    {
+      "word": "Hard up",
+      "sentence_en": "I'm really hard up this month, can we reschedule dinner?",
+      "sentence_ko": "이번 달 돈이 정말 궁해서, 저녁 약속 미룰 수 있을까?",
+      "tags": ["conversation", "daily_life"]
+    },
+    {
+      "word": "Hard up",
+      "sentence_en": "Times are hard up for freelancers during the slow season.",
+      "sentence_ko": "비수기에는 프리랜서들이 돈에 쪼들린다.",
+      "tags": ["career", "economy"]
+    },
+    {
+      "word": "Hard up",
+      "sentence_en": "We were pretty hard up when I was growing up.",
+      "sentence_ko": "내가 자랄 때 우리는 꽤 돈이 궁했어.",
+      "tags": ["daily_life", "memory"]
+    },
+    {
+      "word": "Hard up",
+      "sentence_en": "If you're hard up for cash, I can lend you some.",
+      "sentence_ko": "돈에 쪼들리면 내가 좀 빌려줄게.",
+      "tags": ["conversation", "help"]
+    },
+    {
+      "word": "Hard up",
+      "sentence_en": "Being hard up taught me the value of money.",
+      "sentence_ko": "돈에 쪼들렸던 게 돈의 가치를 가르쳐줬어.",
+      "tags": ["emotion", "learning"]
+    },
+    {
+      "word": "Strapped",
+      "sentence_en": "I'm strapped for cash until my next paycheck arrives.",
+      "sentence_ko": "다음 월급 들어올 때까지 현금이 없어.",
+      "tags": ["daily_life", "conversation"]
+    },
+    {
+      "word": "Strapped",
+      "sentence_en": "Most university students are constantly strapped for money.",
+      "sentence_ko": "대부분의 대학생들은 항상 돈이 궁하다.",
+      "tags": ["university", "daily_life"]
+    },
+    {
+      "word": "Strapped",
+      "sentence_en": "The startup is strapped for funding to expand operations.",
+      "sentence_ko": "그 스타트업은 사업 확장을 위한 자금이 부족하다.",
+      "tags": ["entrepreneur", "finance"]
+    },
+    {
+      "word": "Strapped",
+      "sentence_en": "Sorry, I'm too strapped to go out this weekend.",
+      "sentence_ko": "미안, 이번 주말 나가기엔 돈이 너무 없어.",
+      "tags": ["conversation", "daily_life"]
+    },
+    {
+      "word": "Strapped",
+      "sentence_en": "The hospital is strapped for resources and staff.",
+      "sentence_ko": "병원은 자원과 직원이 부족하다.",
+      "tags": ["health", "career"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "I'm a bit short this month, can you cover lunch?",
+      "sentence_ko": "이번 달 돈이 좀 모자라서, 점심값 낼 수 있어?",
+      "tags": ["conversation", "daily_life"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "We're running short on funds for the project.",
+      "sentence_ko": "프로젝트 자금이 부족해지고 있어.",
+      "tags": ["career", "entrepreneur"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "I'm twenty dollars short for the concert ticket.",
+      "sentence_ko": "콘서트 티켓 사기에 20달러가 모자라.",
+      "tags": ["entertainment", "daily_life"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "The company fell short of meeting payroll this month.",
+      "sentence_ko": "회사가 이번 달 급여를 지급하기에 자금이 모자랐다.",
+      "tags": ["career", "finance"]
+    },
+    {
+      "word": "Short",
+      "sentence_en": "If you're short, I can spot you the difference.",
+      "sentence_ko": "돈이 모자라면 내가 차액을 메워줄게.",
+      "tags": ["conversation", "help"]
+    },
+    {
+      "word": "Pinched",
+      "sentence_en": "We're feeling financially pinched with rising inflation.",
+      "sentence_ko": "인플레이션 때문에 경제적으로 쪼들리고 있어.",
+      "tags": ["economy", "daily_life"]
+    },
+    {
+      "word": "Pinched",
+      "sentence_en": "Many families are pinched by increasing rent costs.",
+      "sentence_ko": "많은 가정들이 증가하는 집세 때문에 쪼들리고 있다.",
+      "tags": ["housing", "daily_life"]
+    },
+    {
+      "word": "Pinched",
+      "sentence_en": "The middle class feels increasingly pinched economically.",
+      "sentence_ko": "중산층이 경제적으로 점점 더 압박받고 있다고 느낀다.",
+      "tags": ["economy", "social"]
+    },
+    {
+      "word": "Pinched",
+      "sentence_en": "I'm feeling pinched after paying tuition fees.",
+      "sentence_ko": "등록금 내고 나니 쪼들리네.",
+      "tags": ["university", "finance"]
+    },
+    {
+      "word": "Pinched",
+      "sentence_en": "Gas prices have us all feeling pinched this year.",
+      "sentence_ko": "올해 기름값 때문에 우리 모두 쪼들리고 있어.",
+      "tags": ["daily_life", "economy"]
+    },
+    {
+      "word": "Squalid",
+      "sentence_en": "They lived in squalid conditions with no running water.",
+      "sentence_ko": "그들은 수도도 없는 불결한 환경에서 살았다.",
+      "tags": ["daily_life", "tragedy"]
+    },
+    {
+      "word": "Squalid",
+      "sentence_en": "The documentary exposed squalid housing in the city slums.",
+      "sentence_ko": "그 다큐멘터리는 도시 빈민가의 불결한 주거 환경을 폭로했다.",
+      "tags": ["social", "housing"]
+    },
+    {
+      "word": "Squalid",
+      "sentence_en": "Poverty forced them to live in squalid apartments.",
+      "sentence_ko": "가난 때문에 그들은 지저분한 아파트에서 살 수밖에 없었다.",
+      "tags": ["daily_life", "housing"]
+    },
+    {
+      "word": "Squalid",
+      "sentence_en": "The refugee camp was overcrowded and squalid.",
+      "sentence_ko": "난민 캠프는 과밀하고 불결했다.",
+      "tags": ["tragedy", "social"]
+    },
+    {
+      "word": "Squalid",
+      "sentence_en": "Children shouldn't have to grow up in such squalid environments.",
+      "sentence_ko": "아이들이 그런 불결한 환경에서 자라면 안 돼.",
+      "tags": ["social", "emotion"]
+    },
+    {
+      "word": "Underprivileged",
+      "sentence_en": "The program provides free meals to underprivileged children.",
+      "sentence_ko": "그 프로그램은 혜택 받지 못한 아이들에게 무료 식사를 제공한다.",
+      "tags": ["social", "education"]
+    },
+    {
+      "word": "Underprivileged",
+      "sentence_en": "She volunteers teaching underprivileged students on weekends.",
+      "sentence_ko": "그녀는 주말에 불우한 학생들을 가르치는 봉사를 한다.",
+      "tags": ["education", "volunteer"]
+    },
+    {
+      "word": "Underprivileged",
+      "sentence_en": "Many underprivileged youth lack access to quality education.",
+      "sentence_ko": "많은 혜택 받지 못한 청소년들이 양질의 교육을 받을 수 없다.",
+      "tags": ["education", "social"]
+    },
+    {
+      "word": "Underprivileged",
+      "sentence_en": "The scholarship targets underprivileged but talented students.",
+      "sentence_ko": "그 장학금은 불우하지만 재능 있는 학생들을 대상으로 한다.",
+      "tags": ["university", "education"]
+    },
+    {
+      "word": "Underprivileged",
+      "sentence_en": "Coming from an underprivileged background made me more resilient.",
+      "sentence_ko": "혜택 받지 못한 배경 출신이라 나를 더 회복력 있게 만들었어.",
+      "tags": ["emotion", "learning"]
+    },
+    {
+      "word": "Low-income",
+      "sentence_en": "Low-income families qualify for housing assistance programs.",
+      "sentence_ko": "저소득 가정은 주거 지원 프로그램을 받을 자격이 있다.",
+      "tags": ["housing", "social"]
+    },
+    {
+      "word": "Low-income",
+      "sentence_en": "Healthcare costs burden low-income workers the most.",
+      "sentence_ko": "의료비는 저소득 근로자들에게 가장 큰 부담이다.",
+      "tags": ["health", "career"]
+    },
+    {
+      "word": "Low-income",
+      "sentence_en": "Many low-income students work full-time while attending university.",
+      "sentence_ko": "많은 저소득 학생들이 대학에 다니면서 풀타임으로 일한다.",
+      "tags": ["university", "career"]
+    },
+    {
+      "word": "Low-income",
+      "sentence_en": "The clinic serves primarily low-income communities.",
+      "sentence_ko": "그 클리닉은 주로 저소득 지역사회를 돌본다.",
+      "tags": ["health", "social"]
+    },
+    {
+      "word": "Low-income",
+      "sentence_en": "Low-income neighborhoods often lack basic infrastructure.",
+      "sentence_ko": "저소득 동네는 종종 기본 인프라가 부족하다.",
+      "tags": ["social", "housing"]
+    },
+    {
+      "word": "Subsistence",
+      "sentence_en": "They live on subsistence wages that barely cover rent.",
+      "sentence_ko": "그들은 겨우 집세만 내는 최저 생계 임금으로 산다.",
+      "tags": ["career", "daily_life"]
+    },
+    {
+      "word": "Subsistence",
+      "sentence_en": "Subsistence farming is their only means of survival.",
+      "sentence_ko": "자급 농업이 그들의 유일한 생존 수단이다.",
+      "tags": ["agriculture", "daily_life"]
+    },
+    {
+      "word": "Subsistence",
+      "sentence_en": "Many workers struggle on subsistence-level incomes.",
+      "sentence_ko": "많은 근로자들이 최저 생계 수준의 수입으로 고생한다.",
+      "tags": ["career", "economy"]
+    },
+    {
+      "word": "Subsistence",
+      "sentence_en": "The family lives at subsistence level with no savings.",
+      "sentence_ko": "그 가족은 저축 없이 최저 생계 수준으로 산다.",
+      "tags": ["daily_life", "finance"]
+    },
+    {
+      "word": "Subsistence",
+      "sentence_en": "Subsistence living leaves no room for emergencies.",
+      "sentence_ko": "최저 생계로 살면 비상 상황을 대비할 여유가 없다.",
+      "tags": ["daily_life", "stress"]
+    },
+    {
+      "word": "Hand-to-mouth",
+      "sentence_en": "We lived hand-to-mouth for years after I lost my job.",
+      "sentence_ko": "내가 직장을 잃은 후 몇 년간 하루 벌어 하루 먹고 살았어.",
+      "tags": ["career", "daily_life"]
+    },
+    {
+      "word": "Hand-to-mouth",
+      "sentence_en": "Many freelancers live hand-to-mouth without steady income.",
+      "sentence_ko": "많은 프리랜서들이 안정적인 수입 없이 하루 벌어 하루 먹고 산다.",
+      "tags": ["career", "entrepreneur"]
+    },
+    {
+      "word": "Hand-to-mouth",
+      "sentence_en": "Hand-to-mouth existence makes planning for the future impossible.",
+      "sentence_ko": "하루 벌어 하루 먹고 사는 삶은 미래 계획을 불가능하게 만든다.",
+      "tags": ["daily_life", "emotion"]
+    },
+    {
+      "word": "Hand-to-mouth",
+      "sentence_en": "The gig economy forces many into hand-to-mouth living.",
+      "sentence_ko": "긱 이코노미는 많은 사람들을 하루 벌어 하루 먹는 삶으로 내몬다.",
+      "tags": ["career", "economy"]
+    },
+    {
+      "word": "Hand-to-mouth",
+      "sentence_en": "Breaking the hand-to-mouth cycle requires stable employment.",
+      "sentence_ko": "하루 벌어 하루 먹는 악순환을 끊으려면 안정적인 고용이 필요하다.",
+      "tags": ["career", "advice"]
+    },
+    {
+      "word": "Penury",
+      "sentence_en": "The writer lived in penury before his book became successful.",
+      "sentence_ko": "그 작가는 책이 성공하기 전까지 극빈 상태로 살았다.",
+      "tags": ["career", "art"]
+    },
+    {
+      "word": "Penury",
+      "sentence_en": "Years of penury taught her to value every penny.",
+      "sentence_ko": "수년간의 극빈이 그녀에게 한 푼의 가치를 가르쳐줬다.",
+      "tags": ["emotion", "learning"]
+    },
+    {
+      "word": "Penury",
+      "sentence_en": "He escaped penury through education and hard work.",
+      "sentence_ko": "그는 교육과 열심히 일해서 극빈에서 벗어났다.",
+      "tags": ["education", "career"]
+    },
+    {
+      "word": "Penury",
+      "sentence_en": "The family fell into penury after medical expenses.",
+      "sentence_ko": "그 가족은 의료비 때문에 극빈 상태로 떨어졌다.",
+      "tags": ["health", "tragedy"]
+    },
+    {
+      "word": "Penury",
+      "sentence_en": "Many artists struggle with penury throughout their careers.",
+      "sentence_ko": "많은 예술가들이 경력 내내 극빈과 싸운다.",
+      "tags": ["art", "career"]
+    },
+    {
+      "word": "Pauper",
+      "sentence_en": "He went from millionaire to pauper in just two years.",
+      "sentence_ko": "그는 단 2년 만에 백만장자에서 빈민이 됐다.",
+      "tags": ["tragedy", "finance"]
+    },
+    {
+      "word": "Pauper",
+      "sentence_en": "The charity provides coffins for paupers who die alone.",
+      "sentence_ko": "그 자선단체는 홀로 죽은 빈민들에게 관을 제공한다.",
+      "tags": ["social", "tragedy"]
+    },
+    {
+      "word": "Pauper",
+      "sentence_en": "She died a pauper despite once owning several businesses.",
+      "sentence_ko": "그녀는 여러 사업을 운영했었는데도 빈민으로 죽었다.",
+      "tags": ["tragedy", "entrepreneur"]
+    },
+    {
+      "word": "Pauper",
+      "sentence_en": "The novel tells the story of a prince and a pauper.",
+      "sentence_ko": "그 소설은 왕자와 빈민의 이야기를 다룬다.",
+      "tags": ["story", "literature"]
+    },
+    {
+      "word": "Pauper",
+      "sentence_en": "Bad investments turned him into a pauper overnight.",
+      "sentence_ko": "나쁜 투자가 그를 하룻밤 사이에 빈민으로 만들었다.",
+      "tags": ["finance", "tragedy"]
+    },
+    {
+      "word": "Beggar",
+      "sentence_en": "I saw a beggar sleeping on the street last night.",
+      "sentence_ko": "어젯밤 길에서 자고 있는 거지를 봤어.",
+      "tags": ["daily_life", "social"]
+    },
+    {
+      "word": "Beggar",
+      "sentence_en": "The city has banned beggars from the tourist areas.",
+      "sentence_ko": "시는 관광 지역에서 거지들을 금지했다.",
+      "tags": ["social", "tourism"]
+    },
+    {
+      "word": "Beggar",
+      "sentence_en": "He went from successful businessman to beggar within months.",
+      "sentence_ko": "그는 몇 달 만에 성공한 사업가에서 거지가 됐다.",
+      "tags": ["tragedy", "entrepreneur"]
+    },
+    {
+      "word": "Beggar",
+      "sentence_en": "Many beggars are actually part of organized crime rings.",
+      "sentence_ko": "많은 거지들이 실제로는 조직 범죄단의 일부다.",
+      "tags": ["social", "crime"]
+    },
+    {
+      "word": "Beggar",
+      "sentence_en": "She volunteers at a shelter that helps beggars find jobs.",
+      "sentence_ko": "그녀는 거지들이 일자리를 찾도록 돕는 쉼터에서 봉사한다.",
+      "tags": ["social", "volunteer"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "Financial hardship forced her to drop out of university.",
+      "sentence_ko": "경제적 어려움 때문에 그녀는 대학을 중퇴할 수밖에 없었다.",
+      "tags": ["university", "tragedy"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "The pandemic caused economic hardship for millions of families.",
+      "sentence_ko": "팬데믹은 수백만 가구에 경제적 고난을 안겼다.",
+      "tags": ["economy", "tragedy"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "Growing up in hardship made me appreciate what I have now.",
+      "sentence_ko": "곤란 속에서 자란 게 지금 내가 가진 걸 감사하게 만들었어.",
+      "tags": ["emotion", "learning"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "Medical hardship is a leading cause of bankruptcy.",
+      "sentence_ko": "의료비 곤란은 파산의 주요 원인이다.",
+      "tags": ["health", "finance"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "The entrepreneur overcame many hardships before succeeding.",
+      "sentence_ko": "그 기업가는 성공하기 전에 많은 어려움을 극복했다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Hardship",
+      "sentence_en": "She applied for a hardship loan to avoid eviction.",
+      "sentence_ko": "그녀는 퇴거를 피하기 위해 긴급 대출을 신청했다.",
+      "tags": ["housing", "finance"]
+    },
+    {
+      "word": "Adversity",
+      "sentence_en": "She built her company despite facing constant adversity.",
+      "sentence_ko": "그녀는 끊임없는 역경에도 불구하고 회사를 세웠다.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Adversity",
+      "sentence_en": "Financial adversity tested our relationship but made it stronger.",
+      "sentence_ko": "경제적 역경이 우리 관계를 시험했지만 더 강하게 만들었어.",
+      "tags": ["emotion", "relationship"]
+    },
+    {
+      "word": "Adversity",
+      "sentence_en": "True character is revealed in times of adversity.",
+      "sentence_ko": "진정한 성품은 역경의 시기에 드러난다.",
+      "tags": ["philosophy", "emotion"]
+    },
+    {
+      "word": "Adversity",
+      "sentence_en": "The team overcame adversity to win the championship.",
+      "sentence_ko": "팀은 역경을 극복하고 챔피언십에서 우승했다.",
+      "tags": ["sport", "success"]
+    },
+    {
+      "word": "Adversity",
+      "sentence_en": "University taught me how to handle adversity gracefully.",
+      "sentence_ko": "대학은 역경을 우아하게 다루는 법을 가르쳐줬다.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Default",
+      "sentence_en": "Missing three payments will result in loan default.",
+      "sentence_ko": "세 번 연체하면 대출 채무 불이행이 된다.",
+      "tags": ["finance", "legal"]
+    },
+    {
+      "word": "Default",
+      "sentence_en": "The company is on the verge of defaulting on its debt.",
+      "sentence_ko": "회사가 채무 불이행 직전이다.",
+      "tags": ["entrepreneur", "finance"]
+    },
+    {
+      "word": "Default",
+      "sentence_en": "Student loan default can ruin your credit score for years.",
+      "sentence_ko": "학자금 대출 불이행은 수년간 신용 점수를 망칠 수 있다.",
+      "tags": ["university", "finance"]
+    },
+    {
+      "word": "Default",
+      "sentence_en": "He defaulted on his mortgage and lost the house.",
+      "sentence_ko": "그는 주택담보대출을 못 갚아서 집을 잃었다.",
+      "tags": ["housing", "tragedy"]
+    },
+    {
+      "word": "Default",
+      "sentence_en": "Defaulting on payments will trigger legal action.",
+      "sentence_ko": "대금 불이행은 법적 조치를 촉발할 거야.",
+      "tags": ["legal", "finance"]
+    },
+    {
+      "word": "Ruined",
+      "sentence_en": "Bad investments financially ruined my uncle's family.",
+      "sentence_ko": "나쁜 투자가 삼촌네 가족을 재정적으로 망쳤어.",
+      "tags": ["family", "tragedy"]
+    },
+    {
+      "word": "Ruined",
+      "sentence_en": "The lawsuit ruined him and he lost everything.",
+      "sentence_ko": "그 소송이 그를 망쳤고 모든 걸 잃었다.",
+      "tags": ["legal", "tragedy"]
+    },
+    {
+      "word": "Ruined",
+      "sentence_en": "His gambling addiction ruined him financially and emotionally.",
+      "sentence_ko": "그의 도박 중독이 그를 재정적으로나 정서적으로 망쳤다.",
+      "tags": ["emotion", "tragedy"]
+    },
+    {
+      "word": "Ruined",
+      "sentence_en": "The pandemic ruined thousands of small business owners.",
+      "sentence_ko": "팬데믹이 수천 명의 소상공인들을 망쳤다.",
+      "tags": ["entrepreneur", "tragedy"]
+    },
+    {
+      "word": "Ruined",
+      "sentence_en": "One bad decision can leave you financially ruined.",
+      "sentence_ko": "하나의 나쁜 결정이 재정적으로 망하게 만들 수 있어.",
+      "tags": ["advice", "finance"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Money's pretty tight this month, so let's stay in.",
+      "sentence_ko": "이번 달 돈이 꽤 빠듯해서 집에 있자.",
+      "tags": ["daily_life", "conversation"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "The budget is tight but we'll make it work somehow.",
+      "sentence_ko": "예산이 빠듯하지만 어떻게든 해낼 거야.",
+      "tags": ["career", "entrepreneur"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Things have been financially tight since I started my business.",
+      "sentence_ko": "사업을 시작한 이후로 재정적으로 빠듯했어.",
+      "tags": ["entrepreneur", "career"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "Times are tight for most families right now.",
+      "sentence_ko": "지금은 대부분의 가정이 빠듯하게 살고 있어.",
+      "tags": ["economy", "daily_life"]
+    },
+    {
+      "word": "Tight",
+      "sentence_en": "We're on a tight budget for the vacation this year.",
+      "sentence_ko": "올해 휴가는 빠듯한 예산으로 가야 해.",
+      "tags": ["vacation", "planning"]
+    },
+    {
+      "word": "Skint",
+      "sentence_en": "I'm absolutely skint until Friday, can't go out tonight.",
+      "sentence_ko": "금요일까지 완전 빈털터리야, 오늘 밤 못 나가.",
+      "tags": ["conversation", "daily_life"]
+    },
+    {
+      "word": "Skint",
+      "sentence_en": "We were totally skint after traveling around Europe.",
+      "sentence_ko": "유럽 여행하고 나니 완전 빈털터리가 됐어.",
+      "tags": ["vacation", "travel"]
+    },
+    {
+      "word": "Skint",
+      "sentence_en": "Being skint in university taught me how to budget.",
+      "sentence_ko": "대학 때 빈털터리였던 게 예산 짜는 법을 가르쳐줬어.",
+      "tags": ["university", "learning"]
+    },
+    {
+      "word": "Skint",
+      "sentence_en": "Sorry mate, I'm completely skint this week.",
+      "sentence_ko": "미안 친구, 이번 주는 완전 빈털터리야.",
+      "tags": ["conversation", "friendship"]
+    },
+    {
+      "word": "Skint",
+      "sentence_en": "Most students are permanently skint during term time.",
+      "sentence_ko": "대부분의 학생들은 학기 중에 항상 빈털터리다.",
+      "tags": ["university", "daily_life"]
+    }
+  ]
+}

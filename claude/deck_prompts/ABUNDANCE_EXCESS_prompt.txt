@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: ABUNDANCE_EXCESS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Abundant - 풍부한 (부족함 없이 많은)
+2. Plentiful - 많은, 풍족한 (충분하고 남는)
+3. Ample - 충분한 (필요한 만큼 넉넉한)
+4. Bountiful - 풍성한 (자연이 주는 혜택이 많은)
+5. Copious - 방대한, 엄청난 (양이 아주 많은)
+6. Profuse - 많은, 아낌없는 (쏟아져 나오는)
+7. Numerous - 수많은 (개수가 많은)
+8. Countless - 셀 수 없는 (너무 많아서 셀 수 없는)
+9. Innumerable - 무수한 (셀 수 없이 많은 - 격식)
+10. Myriad - 무수함 (다양하고 엄청나게 많은)
+11. Multitude - 다수 (아주 많은 수/군중)
+12. Legion - 아주 많은 (군대처럼 많은)
+13. Teeming - 바글거리는 (생물로 가득 찬)
+14. Overflowing - 넘쳐흐르는 (용량을 초과한)
+15. Rife - (나쁜 것이) 만연한, 가득한
+16. Rampant - 걷잡을 수 없는, 만연한 (잡초처럼 퍼지는)
+17. Excessive - 과도한 (정도에 지나친)
+18. Superfluous - 불필요한, 잉여의 (필요 이상으로 많은)
+19. Surplus - 잉여, 흑자 (쓰고 남은 것)
+20. Redundant - 남아도는, 불필요한 (중복되어 쓸모없는)
+21. Lavish - 호화로운, 아끼지 않는 (풍성하게 쓰는)
+22. Generous - 후한, 넉넉한 (양을 많이 주는)
+23. Rich - 풍부한 (함유량이 많은)
+24. Wealthy - 부유한 (재산이 많은)
+25. Affluent - 부유한, 풍족한 (돈이 많아 여유로운)
+26. Opulent - 엄청나게 부유한 (사치스러운)
+27. Loaded - 돈이 많은, 꽉 찬 (속어/비유)
+28. Flush - 돈이 두둑한 (일시적으로 풍족한)
+29. Substantial - 상당한 (양이 꽤 되는)
+30. Infinite - 무한한 (끝없이 많은)
+
+## 추천 태그 (상황/맥락)
+job, happy, mood, school, smartphone, communication, conversation, style, cooking, marketing
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "ABUNDANCE_EXCESS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "ABUNDANCE_EXCESS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

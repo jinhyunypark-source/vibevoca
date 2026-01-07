@@ -1,0 +1,906 @@
+{
+  "deck_title": "AUTONOMY_LENIENCY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Just",
+      "sentence_en": "A just leader treats every employee with equal respect and fairness.",
+      "sentence_ko": "정의로운 리더는 모든 직원을 동등하게 존중하고 공정하게 대우합니다.",
+      "tags": ["business", "office", "communication", "entrepreneur"]
+    },
+    {
+      "word": "Just",
+      "sentence_en": "It is not just to blame the entire team for one person's mistake.",
+      "sentence_ko": "한 사람의 실수 때문에 팀 전체를 비난하는 것은 정의롭지 않습니다.",
+      "tags": ["office", "sad", "communication", "business"]
+    },
+    {
+      "word": "Just",
+      "sentence_en": "We are fighting for a just cause to protect the environment.",
+      "sentence_ko": "우리는 환경을 보호하기 위해 정의로운 명분을 걸고 싸우고 있습니다.",
+      "tags": ["environment", "outdoor", "happy", "communication"]
+    },
+    {
+      "word": "Just",
+      "sentence_en": "He made a just decision after listening to both sides of the argument.",
+      "sentence_ko": "그는 양쪽의 주장을 모두 들은 후 정의로운 결정을 내렸습니다.",
+      "tags": ["communication", "office", "business", "warm"]
+    },
+    {
+      "word": "Just",
+      "sentence_en": "A just society ensures that everyone has equal opportunities.",
+      "sentence_ko": "정의로운 사회는 모든 사람에게 평등한 기회를 보장합니다.",
+      "tags": ["environment", "happy", "communication"]
+    },
+    {
+      "word": "Lenient",
+      "sentence_en": "The manager was lenient with the deadline due to the technical issues.",
+      "sentence_ko": "매니저는 기술적인 문제 때문에 마감 기한에 대해 관대했습니다.",
+      "tags": ["office", "business", "develope", "communication"]
+    },
+    {
+      "word": "Lenient",
+      "sentence_en": "My parents were lenient and let me stay out late on weekends.",
+      "sentence_ko": "우리 부모님은 관대하셔서 주말에 늦게까지 밖에 있는 것을 허락해 주셨습니다.",
+      "tags": ["happy", "communication", "warm", "environment"]
+    },
+    {
+      "word": "Lenient",
+      "sentence_en": "The teacher was lenient grading the essays because it was our first time.",
+      "sentence_ko": "선생님은 우리가 처음이라 에세이 채점을 관대하게 하셨습니다.",
+      "tags": ["develope", "communication", "warm"]
+    },
+    {
+      "word": "Lenient",
+      "sentence_en": "Don't be too lenient with errors in the code; they cause bugs later.",
+      "sentence_ko": "코드 오류에 대해 너무 관대하지 마세요. 나중에 버그가 발생합니다.",
+      "tags": ["develope", "business", "office"]
+    },
+    {
+      "word": "Lenient",
+      "sentence_en": "A lenient policy on dress code makes the office atmosphere more relaxed.",
+      "sentence_ko": "복장 규정에 대한 관대한 정책은 사무실 분위기를 더 편안하게 만듭니다.",
+      "tags": ["office", "business", "environment", "happy"]
+    },
+    {
+      "word": "Permissive",
+      "sentence_en": "A permissive parenting style can sometimes lead to a lack of discipline.",
+      "sentence_ko": "허용적인 양육 방식은 때때로 규율 부족으로 이어질 수 있습니다.",
+      "tags": ["communication", "environment", "sad"]
+    },
+    {
+      "word": "Permissive",
+      "sentence_en": "The company has a permissive culture regarding remote work.",
+      "sentence_ko": "그 회사는 원격 근무에 대해 허용적인 문화를 가지고 있습니다.",
+      "tags": ["business", "office", "environment", "happy"]
+    },
+    {
+      "word": "Permissive",
+      "sentence_en": "Software licenses have become more permissive to encourage open source contributions.",
+      "sentence_ko": "오픈 소스 기여를 장려하기 위해 소프트웨어 라이선스가 더 허용적으로 변했습니다.",
+      "tags": ["develope", "business", "communication"]
+    },
+    {
+      "word": "Permissive",
+      "sentence_en": "He grew up in a very permissive household where rules were rare.",
+      "sentence_ko": "그는 규칙이 거의 없는 매우 자유방임적인 가정에서 자랐습니다.",
+      "tags": ["environment", "happy", "warm"]
+    },
+    {
+      "word": "Permissive",
+      "sentence_en": "The regulations are permissive enough to allow for innovation.",
+      "sentence_ko": "규제가 혁신을 가능하게 할 만큼 충분히 허용적입니다.",
+      "tags": ["business", "entrepreneur", "develope"]
+    },
+    {
+      "word": "Egalitarian",
+      "sentence_en": "Our startup maintains an egalitarian structure where every voice matters.",
+      "sentence_ko": "우리 스타트업은 모든 목소리가 존중받는 평등주의적 구조를 유지합니다.",
+      "tags": ["entrepreneur", "business", "office", "communication"]
+    },
+    {
+      "word": "Egalitarian",
+      "sentence_en": "She believes in an egalitarian society where gender doesn't determine success.",
+      "sentence_ko": "그녀는 성별이 성공을 결정하지 않는 평등주의 사회를 믿습니다.",
+      "tags": ["happy", "environment", "communication"]
+    },
+    {
+      "word": "Egalitarian",
+      "sentence_en": "The team adopted an egalitarian approach to distributing tasks.",
+      "sentence_ko": "팀은 업무 분배에 있어 평등주의적인 접근 방식을 채택했습니다.",
+      "tags": ["office", "business", "develope"]
+    },
+    {
+      "word": "Egalitarian",
+      "sentence_en": "Scandinavian countries are known for their egalitarian social systems.",
+      "sentence_ko": "스칸디나비아 국가들은 평등주의적인 사회 시스템으로 알려져 있습니다.",
+      "tags": ["environment", "happy", "communication"]
+    },
+    {
+      "word": "Egalitarian",
+      "sentence_en": "We strive to create an egalitarian workplace free from hierarchy.",
+      "sentence_ko": "우리는 위계질서가 없는 평등한 직장을 만들기 위해 노력합니다.",
+      "tags": ["business", "office", "happy", "warm"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "We must be tolerant of different opinions to work well together.",
+      "sentence_ko": "함께 일을 잘하려면 다른 의견에 대해 관용적이어야 합니다.",
+      "tags": ["office", "communication", "business", "warm"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "The new update makes the system more tolerant of user errors.",
+      "sentence_ko": "새로운 업데이트는 시스템이 사용자 오류에 더 관용적이게(오류를 잘 처리하게) 만듭니다.",
+      "tags": ["develope", "business", "communication"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "Living in a multicultural city has made me more tolerant.",
+      "sentence_ko": "다문화 도시에 사는 것은 저를 더 관용적인 사람으로 만들었습니다.",
+      "tags": ["environment", "happy", "communication"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "He is not very tolerant of noise when he is trying to focus.",
+      "sentence_ko": "그는 집중하려고 할 때 소음에 대해 별로 관대하지 않습니다.",
+      "tags": ["office", "sad", "environment"]
+    },
+    {
+      "word": "Tolerant",
+      "sentence_en": "A tolerant leader accepts mistakes as part of the learning process.",
+      "sentence_ko": "관용적인 리더는 실수를 배움의 과정 일부로 받아들입니다.",
+      "tags": ["entrepreneur", "develope", "warm"]
+    },
+    {
+      "word": "Liberal",
+      "sentence_en": "She has liberal views on how to run a business.",
+      "sentence_ko": "그녀는 사업 운영에 대해 자유주의적인 견해를 가지고 있습니다.",
+      "tags": ["business", "entrepreneur", "communication"]
+    },
+    {
+      "word": "Liberal",
+      "sentence_en": "He applied a liberal amount of sunscreen before going outdoors.",
+      "sentence_ko": "그는 야외에 나가기 전에 자외선 차단제를 듬뿍 발랐습니다.",
+      "tags": ["outdoor", "environment", "happy"]
+    },
+    {
+      "word": "Liberal",
+      "sentence_en": "A liberal education encourages critical thinking and creativity.",
+      "sentence_ko": "교양(자유) 교육은 비판적 사고와 창의성을 장려합니다.",
+      "tags": ["develope", "communication", "warm"]
+    },
+    {
+      "word": "Liberal",
+      "sentence_en": "The liberal use of spices made the dish very flavorful.",
+      "sentence_ko": "향신료를 아낌없이 사용해서 요리의 풍미가 아주 좋았습니다.",
+      "tags": ["happy", "environment", "communication"]
+    },
+    {
+      "word": "Liberal",
+      "sentence_en": "The company policies are liberal regarding vacation days.",
+      "sentence_ko": "그 회사의 휴가 정책은 매우 자유롭습니다.",
+      "tags": ["business", "office", "happy", "vacation"]
+    },
+    {
+      "word": "Compassionate",
+      "sentence_en": "A compassionate leader cares about the well-being of their team.",
+      "sentence_ko": "연민 어린 리더는 팀원들의 안녕을 신경 씁니다.",
+      "tags": ["entrepreneur", "warm", "office", "happy"]
+    },
+    {
+      "word": "Compassionate",
+      "sentence_en": "She gave a compassionate look to the crying child.",
+      "sentence_ko": "그녀는 우는 아이에게 연민 어린 눈길을 보냈습니다.",
+      "tags": ["sad", "warm", "communication"]
+    },
+    {
+      "word": "Compassionate",
+      "sentence_en": "We need a compassionate approach to solving social issues.",
+      "sentence_ko": "사회 문제를 해결하려면 동정심 있는 접근이 필요합니다.",
+      "tags": ["communication", "environment", "warm"]
+    },
+    {
+      "word": "Compassionate",
+      "sentence_en": "Doctors must be compassionate when delivering bad news.",
+      "sentence_ko": "의사들은 나쁜 소식을 전할 때 동정심을 가져야 합니다.",
+      "tags": ["sad", "communication", "business"]
+    },
+    {
+      "word": "Compassionate",
+      "sentence_en": "It was compassionate of him to offer his seat to the elderly lady.",
+      "sentence_ko": "할머니에게 자리를 양보한 것은 그의 따뜻한 마음씨였습니다.",
+      "tags": ["happy", "warm", "communication"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "Grandparents are often indulgent with their grandchildren.",
+      "sentence_ko": "조부모님들은 종종 손주들에게 너무 오냐오냐하십니다.",
+      "tags": ["happy", "warm", "family"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "He gave me an indulgent smile as I ate the extra dessert.",
+      "sentence_ko": "내가 디저트를 하나 더 먹자 그는 관대하게 미소를 지었습니다.",
+      "tags": ["happy", "warm", "communication"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "The indulgent boss let the team leave early on Friday.",
+      "sentence_ko": "너그러운 상사는 금요일에 팀을 일찍 퇴근시켜 주었습니다.",
+      "tags": ["office", "happy", "business"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "She is indulgent towards her pets, letting them sleep on the bed.",
+      "sentence_ko": "그녀는 애완동물에게 관대해서 침대에서 자게 놔둡니다.",
+      "tags": ["happy", "environment", "warm"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "An indulgent lifestyle can lead to health problems.",
+      "sentence_ko": "방종한(제멋대로인) 생활 방식은 건강 문제로 이어질 수 있습니다.",
+      "tags": ["sad", "environment", "develope"]
+    },
+    {
+      "word": "Free",
+      "sentence_en": "Feel free to ask questions during the presentation.",
+      "sentence_ko": "발표 중에 언제든지 자유롭게 질문하세요.",
+      "tags": ["communication", "office", "business"]
+    },
+    {
+      "word": "Free",
+      "sentence_en": "I love the free atmosphere of working outdoors.",
+      "sentence_ko": "저는 야외에서 일하는 자유로운 분위기를 좋아합니다.",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Free",
+      "sentence_en": "We offer a free trial for our new software.",
+      "sentence_ko": "우리는 새 소프트웨어에 대해 무료 체험을 제공합니다.",
+      "tags": ["business", "develope", "communication"]
+    },
+    {
+      "word": "Free",
+      "sentence_en": "Running makes me feel free from all my stress.",
+      "sentence_ko": "달리기는 모든 스트레스에서 벗어나 자유로움을 느끼게 해줍니다.",
+      "tags": ["outdoor", "happy", "develope"]
+    },
+    {
+      "word": "Free",
+      "sentence_en": "Entrepreneurs enjoy being free to make their own decisions.",
+      "sentence_ko": "기업가들은 스스로 결정을 내릴 수 있는 자유를 즐깁니다.",
+      "tags": ["entrepreneur", "business", "happy"]
+    },
+    {
+      "word": "Independent",
+      "sentence_en": "She wants to be financially independent by the age of 30.",
+      "sentence_ko": "그녀는 30살까지 경제적으로 독립하고 싶어 합니다.",
+      "tags": ["business", "develope", "happy"]
+    },
+    {
+      "word": "Independent",
+      "sentence_en": "Independent contractors have more flexibility with their schedules.",
+      "sentence_ko": "독립 계약자들은 일정에 더 많은 융통성을 가집니다.",
+      "tags": ["business", "office", "entrepreneur"]
+    },
+    {
+      "word": "Independent",
+      "sentence_en": "We need an independent review of the project code.",
+      "sentence_ko": "우리는 프로젝트 코드에 대한 독립적인(제3자의) 검토가 필요합니다.",
+      "tags": ["develope", "business", "office"]
+    },
+    {
+      "word": "Independent",
+      "sentence_en": "Cats are generally more independent than dogs.",
+      "sentence_ko": "고양이는 일반적으로 개보다 더 독립적입니다.",
+      "tags": ["environment", "warm", "communication"]
+    },
+    {
+      "word": "Independent",
+      "sentence_en": "Encourage your team to be independent problem solvers.",
+      "sentence_ko": "팀원들이 독립적인 문제 해결사가 되도록 독려하세요.",
+      "tags": ["entrepreneur", "office", "develope"]
+    },
+    {
+      "word": "Autonomous",
+      "sentence_en": "Autonomous vehicles will change the future of transportation.",
+      "sentence_ko": "자율 주행 차량은 교통의 미래를 바꿀 것입니다.",
+      "tags": ["develope", "business", "outdoor"]
+    },
+    {
+      "word": "Autonomous",
+      "sentence_en": "Our branch office is autonomous and makes its own decisions.",
+      "sentence_ko": "우리 지사는 자치적이며 독자적인 결정을 내립니다.",
+      "tags": ["business", "office", "entrepreneur"]
+    },
+    {
+      "word": "Autonomous",
+      "sentence_en": "Developers prefer working in autonomous teams.",
+      "sentence_ko": "개발자들은 자율적인 팀에서 일하는 것을 선호합니다.",
+      "tags": ["develope", "office", "happy"]
+    },
+    {
+      "word": "Autonomous",
+      "sentence_en": "The robot can perform autonomous tasks without human input.",
+      "sentence_ko": "그 로봇은 인간의 입력 없이 자율적인 작업을 수행할 수 있습니다.",
+      "tags": ["develope", "business", "environment"]
+    },
+    {
+      "word": "Autonomous",
+      "sentence_en": "Giving employees autonomous roles increases job satisfaction.",
+      "sentence_ko": "직원들에게 자율적인 역할을 부여하면 직무 만족도가 높아집니다.",
+      "tags": ["office", "happy", "business"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "Every nation has the right to be a sovereign state.",
+      "sentence_ko": "모든 국가는 자주적인 국가가 될 권리가 있습니다.",
+      "tags": ["environment", "communication", "business"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "Consumers are sovereign in a free market economy.",
+      "sentence_ko": "자유 시장 경제에서는 소비자가 주권자입니다.",
+      "tags": ["business", "communication", "entrepreneur"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "You are the sovereign of your own life and choices.",
+      "sentence_ko": "당신은 당신의 삶과 선택의 주인입니다.",
+      "tags": ["happy", "develope", "warm"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "The sovereign wealth fund invests in global assets.",
+      "sentence_ko": "국부 펀드는 전 세계 자산에 투자합니다.",
+      "tags": ["business", "office", "develope"]
+    },
+    {
+      "word": "Sovereign",
+      "sentence_en": "We must respect the sovereign rights of other companies.",
+      "sentence_ko": "우리는 타 회사의 자주적인 권리를 존중해야 합니다.",
+      "tags": ["business", "communication", "office"]
+    },
+    {
+      "word": "Liberated",
+      "sentence_en": "I felt liberated after quitting the job I hated.",
+      "sentence_ko": "싫어하던 직장을 그만두고 나니 해방감을 느꼈습니다.",
+      "tags": ["happy", "office", "develope"]
+    },
+    {
+      "word": "Liberated",
+      "sentence_en": "Technology has liberated us from mundane tasks.",
+      "sentence_ko": "기술은 우리를 지루한 잡무에서 해방시켰습니다.",
+      "tags": ["develope", "business", "office"]
+    },
+    {
+      "word": "Liberated",
+      "sentence_en": "She felt liberated when she finally spoke the truth.",
+      "sentence_ko": "그녀는 마침내 진실을 말했을 때 해방감을 느꼈습니다.",
+      "tags": ["communication", "happy", "warm"]
+    },
+    {
+      "word": "Liberated",
+      "sentence_en": "Walking in nature makes me feel liberated and peaceful.",
+      "sentence_ko": "자연 속을 걷는 것은 저에게 해방감과 평화로움을 줍니다.",
+      "tags": ["outdoor", "environment", "happy"]
+    },
+    {
+      "word": "Liberated",
+      "sentence_en": "The new update liberated memory space on my phone.",
+      "sentence_ko": "새로운 업데이트는 내 휴대폰의 메모리 공간을 확보해(해방시켜) 주었습니다.",
+      "tags": ["develope", "communication", "business"]
+    },
+    {
+      "word": "Unrestricted",
+      "sentence_en": "The VIP pass gives you unrestricted access to the lounge.",
+      "sentence_ko": "VIP 패스는 라운지에 대한 제한 없는 출입을 제공합니다.",
+      "tags": ["business", "happy", "environment"]
+    },
+    {
+      "word": "Unrestricted",
+      "sentence_en": "We had an unrestricted discussion about future ideas.",
+      "sentence_ko": "우리는 미래 아이디어에 대해 제한 없는 토론을 했습니다.",
+      "tags": ["communication", "office", "entrepreneur"]
+    },
+    {
+      "word": "Unrestricted",
+      "sentence_en": "Unrestricted growth can sometimes be dangerous for a startup.",
+      "sentence_ko": "제한 없는 성장은 때때로 스타트업에게 위험할 수 있습니다.",
+      "tags": ["entrepreneur", "business", "sad"]
+    },
+    {
+      "word": "Unrestricted",
+      "sentence_en": "The artist demanded unrestricted creative freedom.",
+      "sentence_ko": "그 예술가는 제한 없는 창작의 자유를 요구했습니다.",
+      "tags": ["develope", "communication", "happy"]
+    },
+    {
+      "word": "Unrestricted",
+      "sentence_en": "Enjoy the unrestricted view of the ocean from the balcony.",
+      "sentence_ko": "발코니에서 막힘없는 바다 전망을 즐기세요.",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Unbound",
+      "sentence_en": "His imagination is unbound by traditional rules.",
+      "sentence_ko": "그의 상상력은 전통적인 규칙에 얽매이지 않습니다.",
+      "tags": ["develope", "entrepreneur", "happy"]
+    },
+    {
+      "word": "Unbound",
+      "sentence_en": "The book was unbound, consisting of loose pages.",
+      "sentence_ko": "그 책은 제본되지 않아서 낱장으로 되어 있었습니다.",
+      "tags": ["environment", "sad", "office"]
+    },
+    {
+      "word": "Unbound",
+      "sentence_en": "She felt unbound and ready to explore the world.",
+      "sentence_ko": "그녀는 속박에서 벗어나 세상을 탐험할 준비가 되었다고 느꼈습니다.",
+      "tags": ["outdoor", "happy", "develope"]
+    },
+    {
+      "word": "Unbound",
+      "sentence_en": "Unbound by contracts, he works as a freelancer.",
+      "sentence_ko": "계약에 얽매이지 않고 그는 프리랜서로 일합니다.",
+      "tags": ["business", "entrepreneur", "office"]
+    },
+    {
+      "word": "Unbound",
+      "sentence_en": "The unbound energy of the children filled the park.",
+      "sentence_ko": "아이들의 억눌리지 않은 에너지가 공원을 가득 채웠습니다.",
+      "tags": ["outdoor", "happy", "warm"]
+    },
+    {
+      "word": "Loose",
+      "sentence_en": "We have a loose plan, but the details are flexible.",
+      "sentence_ko": "우리는 대략적인(느슨한) 계획을 가지고 있지만, 세부 사항은 유동적입니다.",
+      "tags": ["planning", "business", "office"]
+    },
+    {
+      "word": "Loose",
+      "sentence_en": "My tie is too loose; I need to tighten it.",
+      "sentence_ko": "넥타이가 너무 느슨해서 조여야겠어요.",
+      "tags": ["office", "business", "communication"]
+    },
+    {
+      "word": "Loose",
+      "sentence_en": "Keep a loose grip on the steering wheel while driving.",
+      "sentence_ko": "운전할 때는 핸들을 가볍게(느슨하게) 잡으세요.",
+      "tags": ["outdoor", "communication", "environment"]
+    },
+    {
+      "word": "Loose",
+      "sentence_en": "There is some loose change in my pocket.",
+      "sentence_ko": "주머니에 잔돈이 좀 굴러다닙니다.",
+      "tags": ["environment", "happy", "business"]
+    },
+    {
+      "word": "Loose",
+      "sentence_en": "Don't let your dog run loose in the office.",
+      "sentence_ko": "사무실에서 개가 마음대로 돌아다니게 두지 마세요.",
+      "tags": ["office", "environment", "communication"]
+    },
+    {
+      "word": "Flexible",
+      "sentence_en": "Startups need to be flexible to survive in the market.",
+      "sentence_ko": "스타트업은 시장에서 살아남기 위해 융통성이 있어야 합니다.",
+      "tags": ["entrepreneur", "business", "develope"]
+    },
+    {
+      "word": "Flexible",
+      "sentence_en": "I appreciate having flexible working hours.",
+      "sentence_ko": "저는 유연한 근무 시간을 가질 수 있어서 좋습니다.",
+      "tags": ["office", "happy", "business"]
+    },
+    {
+      "word": "Flexible",
+      "sentence_en": "My yoga teacher is incredibly flexible.",
+      "sentence_ko": "제 요가 선생님은 믿을 수 없을 정도로 유연합니다.",
+      "tags": ["outdoor", "develope", "happy"]
+    },
+    {
+      "word": "Flexible",
+      "sentence_en": "We need a flexible solution that can scale with growth.",
+      "sentence_ko": "우리는 성장에 따라 확장 가능한 유연한 솔루션이 필요합니다.",
+      "tags": ["business", "develope", "office"]
+    },
+    {
+      "word": "Flexible",
+      "sentence_en": "Be flexible with your travel plans in case of rain.",
+      "sentence_ko": "비가 올 경우를 대비해 여행 계획을 유동적으로 잡으세요.",
+      "tags": ["outdoor", "sad", "communication"]
+    },
+    {
+      "word": "Open-minded",
+      "sentence_en": "It is important to be open-minded when hearing new ideas.",
+      "sentence_ko": "새로운 아이디어를 들을 때는 개방적인 태도를 갖는 것이 중요합니다.",
+      "tags": ["communication", "office", "develope"]
+    },
+    {
+      "word": "Open-minded",
+      "sentence_en": "An open-minded boss encourages innovation in the office.",
+      "sentence_ko": "개방적인 상사는 사무실 내 혁신을 장려합니다.",
+      "tags": ["office", "entrepreneur", "business"]
+    },
+    {
+      "word": "Open-minded",
+      "sentence_en": "Travel makes you more open-minded about other cultures.",
+      "sentence_ko": "여행은 타 문화에 대해 더 개방적인 마음을 갖게 해줍니다.",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Open-minded",
+      "sentence_en": "Stay open-minded and don't judge people too quickly.",
+      "sentence_ko": "열린 마음을 유지하고 사람들을 너무 빨리 판단하지 마세요.",
+      "tags": ["communication", "warm", "happy"]
+    },
+    {
+      "word": "Open-minded",
+      "sentence_en": "We are looking for open-minded developers to join our team.",
+      "sentence_ko": "우리는 우리 팀에 합류할 개방적인 개발자들을 찾고 있습니다.",
+      "tags": ["develope", "business", "office"]
+    },
+    {
+      "word": "Democratic",
+      "sentence_en": "We made a democratic decision by voting on the lunch menu.",
+      "sentence_ko": "우리는 점심 메뉴를 투표로 정하는 민주적인 결정을 내렸습니다.",
+      "tags": ["office", "happy", "communication"]
+    },
+    {
+      "word": "Democratic",
+      "sentence_en": "A democratic leadership style involves everyone in the process.",
+      "sentence_ko": "민주적인 리더십 스타일은 모든 사람을 과정에 참여시킵니다.",
+      "tags": ["business", "entrepreneur", "office"]
+    },
+    {
+      "word": "Democratic",
+      "sentence_en": "The internet has democratized access to information.",
+      "sentence_ko": "인터넷은 정보에 대한 접근을 민주화했습니다.",
+      "tags": ["develope", "communication", "environment"]
+    },
+    {
+      "word": "Democratic",
+      "sentence_en": "Democratic values are essential for a free society.",
+      "sentence_ko": "민주적인 가치는 자유로운 사회에 필수적입니다.",
+      "tags": ["environment", "communication", "happy"]
+    },
+    {
+      "word": "Democratic",
+      "sentence_en": "Our team meetings are very democratic; anyone can speak up.",
+      "sentence_ko": "우리 팀 회의는 매우 민주적이어서 누구나 발언할 수 있습니다.",
+      "tags": ["office", "communication", "business"]
+    },
+    {
+      "word": "Fair",
+      "sentence_en": "It's only fair that you get paid for the extra work.",
+      "sentence_ko": "추가 업무에 대해 돈을 받는 것은 지극히 공정한 일입니다.",
+      "tags": ["business", "office", "communication"]
+    },
+    {
+      "word": "Fair",
+      "sentence_en": "Life isn't always fair, but we must keep trying.",
+      "sentence_ko": "인생이 항상 공평한 것은 아니지만, 우리는 계속 노력해야 합니다.",
+      "tags": ["sad", "develope", "environment"]
+    },
+    {
+      "word": "Fair",
+      "sentence_en": "The judge gave a fair verdict based on the evidence.",
+      "sentence_ko": "판사는 증거에 입각하여 공정한 판결을 내렸습니다.",
+      "tags": ["business", "communication", "office"]
+    },
+    {
+      "word": "Fair",
+      "sentence_en": "Let's find a fair solution that benefits both parties.",
+      "sentence_ko": "양측 모두에게 이익이 되는 공정한 해결책을 찾읍시다.",
+      "tags": ["business", "communication", "entrepreneur"]
+    },
+    {
+      "word": "Fair",
+      "sentence_en": "He is known as a fair and honest businessman.",
+      "sentence_ko": "그는 공정하고 정직한 사업가로 알려져 있습니다.",
+      "tags": ["business", "entrepreneur", "warm"]
+    },
+    {
+      "word": "Magnanimous",
+      "sentence_en": "He was magnanimous in victory, praising his opponent's skill.",
+      "sentence_ko": "그는 승리 후 상대의 실력을 칭찬하며 도량이 넓은 모습을 보였습니다.",
+      "tags": ["happy", "communication", "warm"]
+    },
+    {
+      "word": "Magnanimous",
+      "sentence_en": "It was a magnanimous gesture to forgive the debt.",
+      "sentence_ko": "빚을 탕감해 준 것은 대범한(도량이 넓은) 행동이었습니다.",
+      "tags": ["business", "warm", "happy"]
+    },
+    {
+      "word": "Magnanimous",
+      "sentence_en": "A magnanimous leader does not hold grudges against employees.",
+      "sentence_ko": "도량이 넓은 리더는 직원들에게 뒤끝을 보이지 않습니다.",
+      "tags": ["office", "entrepreneur", "business"]
+    },
+    {
+      "word": "Magnanimous",
+      "sentence_en": "She made a magnanimous donation to the charity.",
+      "sentence_ko": "그녀는 자선 단체에 통 큰 기부를 했습니다.",
+      "tags": ["happy", "warm", "environment"]
+    },
+    {
+      "word": "Magnanimous",
+      "sentence_en": "Be magnanimous enough to admit when you are wrong.",
+      "sentence_ko": "자신의 잘못을 인정할 만큼 도량을 넓게 가지세요.",
+      "tags": ["develope", "communication", "warm"]
+    },
+    {
+      "word": "Forgiving",
+      "sentence_en": "The software is forgiving of typos in the search bar.",
+      "sentence_ko": "그 소프트웨어는 검색창의 오타를 너그럽게 처리해 줍니다.",
+      "tags": ["develope", "business", "office"]
+    },
+    {
+      "word": "Forgiving",
+      "sentence_en": "She has a forgiving nature and doesn't stay angry for long.",
+      "sentence_ko": "그녀는 용서하는 성품을 지녀서 오랫동안 화를 내지 않습니다.",
+      "tags": ["warm", "happy", "communication"]
+    },
+    {
+      "word": "Forgiving",
+      "sentence_en": "This beginner trail is very forgiving for new hikers.",
+      "sentence_ko": "이 초보자용 등산로는 초보 등산객들에게 아주 너그럽습니다(쉽습니다).",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Forgiving",
+      "sentence_en": "A forgiving workplace culture encourages people to take risks.",
+      "sentence_ko": "실수를 용납하는 직장 문화는 사람들이 위험을 감수하도록 장려합니다.",
+      "tags": ["business", "entrepreneur", "office"]
+    },
+    {
+      "word": "Forgiving",
+      "sentence_en": "Be forgiving to yourself when you make mistakes.",
+      "sentence_ko": "실수를 했을 때 자신에게 너그러워지세요.",
+      "tags": ["sad", "develope", "warm"]
+    },
+    {
+      "word": "Merciful",
+      "sentence_en": "The judge was merciful and gave him a lighter sentence.",
+      "sentence_ko": "판사는 자비롭게도 그에게 가벼운 형량을 내렸습니다.",
+      "tags": ["business", "communication", "warm"]
+    },
+    {
+      "word": "Merciful",
+      "sentence_en": "We hoped for a merciful end to the long meeting.",
+      "sentence_ko": "우리는 긴 회의가 자비롭게 끝나기를 바랐습니다.",
+      "tags": ["office", "sad", "communication"]
+    },
+    {
+      "word": "Merciful",
+      "sentence_en": "Thankfully, the weather was merciful during our camping trip.",
+      "sentence_ko": "다행히도 캠핑 여행 동안 날씨가 자비로웠습니다(좋았습니다).",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Merciful",
+      "sentence_en": "He begged for a merciful decision from the board.",
+      "sentence_ko": "그는 이사회에 자비로운 결정을 간청했습니다.",
+      "tags": ["business", "sad", "communication"]
+    },
+    {
+      "word": "Merciful",
+      "sentence_en": "A merciful leader listens to the struggles of the people.",
+      "sentence_ko": "자비로운 지도자는 사람들의 고충을 경청합니다.",
+      "tags": ["entrepreneur", "warm", "communication"]
+    },
+    {
+      "word": "Soft",
+      "sentence_en": "He has a soft spot for stray animals.",
+      "sentence_ko": "그는 유기 동물에게 약한(온화한) 마음을 가지고 있습니다.",
+      "tags": ["warm", "happy", "environment"]
+    },
+    {
+      "word": "Soft",
+      "sentence_en": "Don't be too soft on negotiation; stick to the price.",
+      "sentence_ko": "협상에서 너무 무르게 굴지 마세요. 가격을 고수하세요.",
+      "tags": ["business", "entrepreneur", "communication"]
+    },
+    {
+      "word": "Soft",
+      "sentence_en": "The lighting in the office is soft and comfortable.",
+      "sentence_ko": "사무실 조명은 부드럽고 편안합니다.",
+      "tags": ["office", "environment", "happy"]
+    },
+    {
+      "word": "Soft",
+      "sentence_en": "She spoke in a soft voice so as not to wake the baby.",
+      "sentence_ko": "그녀는 아기를 깨우지 않으려고 부드러운 목소리로 말했습니다.",
+      "tags": ["warm", "communication", "happy"]
+    },
+    {
+      "word": "Soft",
+      "sentence_en": "The economy is going through a soft patch right now.",
+      "sentence_ko": "경제는 지금 일시적인 침체기(soft patch)를 겪고 있습니다.",
+      "tags": ["business", "sad", "environment"]
+    },
+    {
+      "word": "Gentle",
+      "sentence_en": "Please be gentle when handling the fragile equipment.",
+      "sentence_ko": "파손되기 쉬운 장비를 다룰 때는 부드럽게 해주세요.",
+      "tags": ["office", "business", "environment"]
+    },
+    {
+      "word": "Gentle",
+      "sentence_en": "A gentle breeze made the outdoor picnic perfect.",
+      "sentence_ko": "산들바람이 불어 야외 소풍이 완벽했습니다.",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Gentle",
+      "sentence_en": "He gave me a gentle reminder about the deadline.",
+      "sentence_ko": "그는 마감 기한에 대해 부드럽게 상기시켜 주었습니다.",
+      "tags": ["communication", "office", "warm"]
+    },
+    {
+      "word": "Gentle",
+      "sentence_en": "She has a gentle personality that puts everyone at ease.",
+      "sentence_ko": "그녀는 모두를 편안하게 해주는 온화한 성격을 가지고 있습니다.",
+      "tags": ["warm", "happy", "communication"]
+    },
+    {
+      "word": "Gentle",
+      "sentence_en": "Start with some gentle stretching exercises before running.",
+      "sentence_ko": "달리기 전에 가벼운 스트레칭 운동으로 시작하세요.",
+      "tags": ["outdoor", "develope", "happy"]
+    },
+    {
+      "word": "Lax",
+      "sentence_en": "Security was lax at the entrance, which worried me.",
+      "sentence_ko": "입구의 보안이 허술해서 걱정이 되었습니다.",
+      "tags": ["business", "sad", "environment"]
+    },
+    {
+      "word": "Lax",
+      "sentence_en": "Don't be lax about backing up your data.",
+      "sentence_ko": "데이터 백업에 대해 해이해지지 마세요.",
+      "tags": ["develope", "office", "business"]
+    },
+    {
+      "word": "Lax",
+      "sentence_en": "His lax attitude towards punctuality annoyed the team.",
+      "sentence_ko": "시간 엄수에 대한 그의 느슨한 태도는 팀원들을 짜증 나게 했습니다.",
+      "tags": ["office", "sad", "communication"]
+    },
+    {
+      "word": "Lax",
+      "sentence_en": "The regulations have become lax over the years.",
+      "sentence_ko": "규정이 수년간 느슨해졌습니다.",
+      "tags": ["business", "environment", "communication"]
+    },
+    {
+      "word": "Lax",
+      "sentence_en": "We cannot afford to be lax with quality control.",
+      "sentence_ko": "우리는 품질 관리에 소홀할 여유가 없습니다.",
+      "tags": ["business", "entrepreneur", "develope"]
+    },
+    {
+      "word": "Easy-going",
+      "sentence_en": "Our new manager is very easy-going and approachable.",
+      "sentence_ko": "새로운 매니저는 매우 털털하고 다가가기 쉽습니다.",
+      "tags": ["office", "happy", "communication"]
+    },
+    {
+      "word": "Easy-going",
+      "sentence_en": "I prefer an easy-going vacation without a strict schedule.",
+      "sentence_ko": "저는 빡빡한 일정 없는 느긋한 휴가를 선호합니다.",
+      "tags": ["outdoor", "happy", "environment"]
+    },
+    {
+      "word": "Easy-going",
+      "sentence_en": "He has an easy-going nature that makes him popular.",
+      "sentence_ko": "그는 느긋한 성격 덕분에 인기가 많습니다.",
+      "tags": ["happy", "warm", "communication"]
+    },
+    {
+      "word": "Easy-going",
+      "sentence_en": "It's nice to work in an easy-going environment.",
+      "sentence_ko": "까다롭지 않은 환경에서 일하는 것은 좋습니다.",
+      "tags": ["office", "business", "happy"]
+    },
+    {
+      "word": "Easy-going",
+      "sentence_en": "Don't be too easy-going; some things require urgency.",
+      "sentence_ko": "너무 태평하지 마세요. 어떤 일들은 긴급함을 요합니다.",
+      "tags": ["business", "develope", "sad"]
+    },
+    {
+      "word": "Empowering",
+      "sentence_en": "It is empowering to see your ideas turn into reality.",
+      "sentence_ko": "자신의 아이디어가 현실이 되는 것을 보는 것은 힘이 솟는 일입니다.",
+      "tags": ["entrepreneur", "develope", "happy"]
+    },
+    {
+      "word": "Empowering",
+      "sentence_en": "The workshop was empowering for women in business.",
+      "sentence_ko": "그 워크숍은 비즈니스 여성들에게 힘을 실어주었습니다.",
+      "tags": ["business", "communication", "happy"]
+    },
+    {
+      "word": "Empowering",
+      "sentence_en": "Learning to code can be a very empowering experience.",
+      "sentence_ko": "코딩을 배우는 것은 매우 자신감을 주는 경험이 될 수 있습니다.",
+      "tags": ["develope", "happy", "communication"]
+    },
+    {
+      "word": "Empowering",
+      "sentence_en": "Giving staff more responsibility is empowering for them.",
+      "sentence_ko": "직원들에게 더 많은 책임을 부여하는 것은 그들에게 권한을 주는 것입니다.",
+      "tags": ["office", "business", "warm"]
+    },
+    {
+      "word": "Empowering",
+      "sentence_en": "The leader's speech was inspiring and empowering.",
+      "sentence_ko": "리더의 연설은 영감을 주고 힘을 북돋아 주었습니다.",
+      "tags": ["communication", "entrepreneur", "happy"]
+    },
+    {
+      "word": "Enfranchised",
+      "sentence_en": "More citizens felt enfranchised after the voting reform.",
+      "sentence_ko": "투표 개혁 이후 더 많은 시민이 권리를 얻었다고 느꼈습니다.",
+      "tags": ["communication", "environment", "happy"]
+    },
+    {
+      "word": "Enfranchised",
+      "sentence_en": "We aim to create an enfranchised workforce that cares about the company.",
+      "sentence_ko": "우리는 회사에 관심을 갖는 권한 있는 인력을 만드는 것을 목표로 합니다.",
+      "tags": ["business", "office", "entrepreneur"]
+    },
+    {
+      "word": "Enfranchised",
+      "sentence_en": "Feeling enfranchised motivates employees to work harder.",
+      "sentence_ko": "권한이 있다고 느끼는 것은 직원들이 더 열심히 일하도록 동기를 부여합니다.",
+      "tags": ["office", "business", "develope"]
+    },
+    {
+      "word": "Enfranchised",
+      "sentence_en": "Historically, not everyone was enfranchised to vote.",
+      "sentence_ko": "역사적으로 모든 사람이 투표권을 부여받은 것은 아니었습니다.",
+      "tags": ["sad", "environment", "communication"]
+    },
+    {
+      "word": "Enfranchised",
+      "sentence_en": "Technology has enfranchised small businesses to reach global markets.",
+      "sentence_ko": "기술은 소규모 기업들이 세계 시장에 진출할 수 있는 권한(능력)을 부여했습니다.",
+      "tags": ["business", "entrepreneur", "develope"]
+    },
+    {
+      "word": "Self-governing",
+      "sentence_en": "The island is a self-governing territory within the country.",
+      "sentence_ko": "그 섬은 국가 내의 자치 영토입니다.",
+      "tags": ["environment", "outdoor", "communication"]
+    },
+    {
+      "word": "Self-governing",
+      "sentence_en": "We are moving towards self-governing teams in our organization.",
+      "sentence_ko": "우리 조직은 자치적인 팀 체제로 나아가고 있습니다.",
+      "tags": ["business", "office", "develope"]
+    },
+    {
+      "word": "Self-governing",
+      "sentence_en": "A self-governing community creates its own rules.",
+      "sentence_ko": "자치 공동체는 스스로 규칙을 만듭니다.",
+      "tags": ["environment", "communication", "happy"]
+    },
+    {
+      "word": "Self-governing",
+      "sentence_en": "Being self-governing requires a high level of responsibility.",
+      "sentence_ko": "자치를 한다는 것은 높은 수준의 책임감을 요구합니다.",
+      "tags": ["entrepreneur", "develope", "business"]
+    },
+    {
+      "word": "Self-governing",
+      "sentence_en": "The software agents are self-governing and adapt to changes.",
+      "sentence_ko": "그 소프트웨어 에이전트들은 자율적이며 변화에 적응합니다.",
+      "tags": ["develope", "business", "office"]
+    }
+  ]
+}

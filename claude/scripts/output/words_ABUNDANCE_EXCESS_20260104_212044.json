@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "60d090c5-c437-43f9-8d36-6c95be52eccc",
+    "word": "Abundant",
+    "meaning": "풍부한 (부족함 없이 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "a4710168-9814-4066-b175-53584ebd6127",
+    "word": "Plentiful",
+    "meaning": "많은, 풍족한 (충분하고 남는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "ce498df1-dce4-4e53-beed-86b24369481b",
+    "word": "Ample",
+    "meaning": "충분한 (필요한 만큼 넉넉한)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "b3140d21-b371-4d0a-ae4e-0865ade856c6",
+    "word": "Bountiful",
+    "meaning": "풍성한 (자연이 주는 혜택이 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "5e0af0df-6de0-46b5-8e65-22da2d0615b9",
+    "word": "Copious",
+    "meaning": "방대한, 엄청난 (양이 아주 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "4c23ad4d-fdb9-4e42-a204-e9c0489aa4f9",
+    "word": "Profuse",
+    "meaning": "많은, 아낌없는 (쏟아져 나오는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "69cfcc1f-dcf5-4cdc-ae36-648caf871148",
+    "word": "Numerous",
+    "meaning": "수많은 (개수가 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "f269c759-9e8b-4838-9421-24de8858b558",
+    "word": "Countless",
+    "meaning": "셀 수 없는 (너무 많아서 셀 수 없는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "8b7d8444-e20d-4c81-8bab-2ece055b850b",
+    "word": "Innumerable",
+    "meaning": "무수한 (셀 수 없이 많은 - 격식)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "c5ddc3b0-b89f-46a7-beeb-94c1abbb6067",
+    "word": "Myriad",
+    "meaning": "무수함 (다양하고 엄청나게 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "df57ab7b-0cce-4f15-be67-e76fc58de7ef",
+    "word": "Multitude",
+    "meaning": "다수 (아주 많은 수/군중)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "dc03e9c9-0aaf-493d-ad15-d29cba48e0c5",
+    "word": "Legion",
+    "meaning": "아주 많은 (군대처럼 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "cef1663f-a530-4cd9-b750-22bf482fdfd7",
+    "word": "Teeming",
+    "meaning": "바글거리는 (생물로 가득 찬)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "c1eadf96-8ee1-4ba4-a07b-ce69aee5db04",
+    "word": "Overflowing",
+    "meaning": "넘쳐흐르는 (용량을 초과한)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "fc540be1-da6e-496d-9625-7331136369d5",
+    "word": "Rife",
+    "meaning": "(나쁜 것이) 만연한, 가득한",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "9c4863a5-a53c-4938-aa4f-3f712d0e8b8a",
+    "word": "Rampant",
+    "meaning": "걷잡을 수 없는, 만연한 (잡초처럼 퍼지는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "02322395-c4ee-4f8e-9d1e-e9e18fb33bd3",
+    "word": "Excessive",
+    "meaning": "과도한 (정도에 지나친)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "130b2973-ab71-4aa5-95bd-1142e4346d49",
+    "word": "Superfluous",
+    "meaning": "불필요한, 잉여의 (필요 이상으로 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "7524fb92-2c4b-46d7-b1a0-d8d2df98b04d",
+    "word": "Surplus",
+    "meaning": "잉여, 흑자 (쓰고 남은 것)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "df0fed75-b25f-4d01-8cf0-0e5b51c3a83a",
+    "word": "Redundant",
+    "meaning": "남아도는, 불필요한 (중복되어 쓸모없는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "722cc6f8-bde3-4a28-bc20-595af484cdef",
+    "word": "Lavish",
+    "meaning": "호화로운, 아끼지 않는 (풍성하게 쓰는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "4d20133e-bae1-4037-897d-5834d509eed9",
+    "word": "Generous",
+    "meaning": "후한, 넉넉한 (양을 많이 주는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "f13a8a3f-d81e-419a-9865-9f118a2ec1b6",
+    "word": "Rich",
+    "meaning": "풍부한 (함유량이 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "d6c5937e-9fbb-427a-b6cd-6d97849b9056",
+    "word": "Wealthy",
+    "meaning": "부유한 (재산이 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "a83e2b59-0e29-4535-9ecf-388a9aa319d4",
+    "word": "Affluent",
+    "meaning": "부유한, 풍족한 (돈이 많아 여유로운)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "c8729e9f-2d68-47b3-a884-7cd33544aa32",
+    "word": "Opulent",
+    "meaning": "엄청나게 부유한 (사치스러운)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "64bc5af4-af65-4aab-8a40-cb4507472a51",
+    "word": "Loaded",
+    "meaning": "돈이 많은, 꽉 찬 (속어/비유)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "8c4c6f93-3d33-4c3b-8c0b-bc7bd2bc98c7",
+    "word": "Flush",
+    "meaning": "돈이 두둑한 (일시적으로 풍족한)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "1f830f6d-03e5-44c8-af73-c36308c1706f",
+    "word": "Substantial",
+    "meaning": "상당한 (양이 꽤 되는)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  },
+  {
+    "card_id": "a67eebb3-d92a-415d-b3ab-0c497404d7e0",
+    "word": "Infinite",
+    "meaning": "무한한 (끝없이 많은)",
+    "deck_id": "24a5a7c7-41e5-4a4c-82d8-0633b90c5e93",
+    "deck_name": "ABUNDANCE_EXCESS"
+  }
+]

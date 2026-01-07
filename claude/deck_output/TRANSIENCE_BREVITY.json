@@ -1,0 +1,906 @@
+{
+  "deck_title": "TRANSIENCE_BREVITY",
+  "total_sentences": 155,
+  "sentences": [
+    {
+      "word": "Ephemeral",
+      "sentence_en": "Social media trends are often ephemeral, disappearing as quickly as they appear on the internet.",
+      "sentence_ko": "소셜 미디어 트렌드는 종종 덧없어서, 인터넷에 나타나는 것만큼이나 빠르게 사라지곤 합니다.",
+      "tags": ["internet", "fashion", "social"]
+    },
+    {
+      "word": "Ephemeral",
+      "sentence_en": "The artist wanted to capture the ephemeral beauty of the sunset in her latest painting.",
+      "sentence_ko": "그 화가는 자신의 최신 작품에 노을의 덧없는 아름다움을 담아내고 싶어 했습니다.",
+      "tags": ["art", "study", "social"]
+    },
+    {
+      "word": "Ephemeral",
+      "sentence_en": "I realized that fame is ephemeral after seeing many former stars struggling to find a job.",
+      "sentence_ko": "한때 스타였던 많은 이들이 직업을 구하려 애쓰는 모습을 보며 명성은 덧없다는 것을 깨달았습니다.",
+      "tags": ["job", "social", "business"]
+    },
+    {
+      "word": "Ephemeral",
+      "sentence_en": "The ephemeral nature of the cherry blossoms makes their short blooming season even more special.",
+      "sentence_ko": "벚꽃의 명이 짧은 특성 때문에 그 짧은 개화 시기가 훨씬 더 특별하게 느껴집니다.",
+      "tags": ["vacation", "social", "art"]
+    },
+    {
+      "word": "Ephemeral",
+      "sentence_en": "Investors should not be fooled by ephemeral spikes in stock prices during a volatile market.",
+      "sentence_ko": "투자자들은 변동성이 큰 시장에서 일시적인 주가 급등에 속지 말아야 합니다.",
+      "tags": ["business", "internet", "job"]
+    },
+    {
+      "word": "Fleeting",
+      "sentence_en": "For a fleeting moment, I forgot all my worries while enjoying the quiet vacation.",
+      "sentence_ko": "조용한 휴가를 즐기는 동안 아주 찰나의 순간이었지만 모든 걱정을 잊을 수 있었습니다.",
+      "tags": ["vacation", "family", "social"]
+    },
+    {
+      "word": "Fleeting",
+      "sentence_en": "The fashion industry thrives on fleeting styles that change almost every single month.",
+      "sentence_ko": "패션 산업은 거의 매달 바뀌는 순식간의 유행들을 먹고 삽니다.",
+      "tags": ["fashion", "business", "internet"]
+    },
+    {
+      "word": "Fleeting",
+      "sentence_en": "He caught a fleeting glimpse of his childhood home while driving past the old neighborhood.",
+      "sentence_ko": "그는 옛 동네를 지나가며 어릴 적 살던 집을 아주 잠깐 스치듯 보았습니다.",
+      "tags": ["family", "social", "vacation"]
+    },
+    {
+      "word": "Fleeting",
+      "sentence_en": "Opportunities in the business world can be fleeting, so you must act quickly to succeed.",
+      "sentence_ko": "비즈니스 세계의 기회는 순식간에 지나가 버릴 수 있으므로 성공하려면 빠르게 움직여야 합니다.",
+      "tags": ["business", "job", "internet"]
+    },
+    {
+      "word": "Fleeting",
+      "sentence_en": "I had a fleeting thought about changing my career path, but I decided to stay.",
+      "sentence_ko": "진로를 바꿀까 하는 생각이 스치듯 지나갔지만, 그냥 남기로 했습니다.",
+      "tags": ["job", "study", "social"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The company appointed an interim manager to lead the team until a permanent replacement is found.",
+      "sentence_ko": "회사는 정식 후임자를 찾을 때까지 팀을 이끌 임시 매니저를 임명했습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "We are currently using an interim version of the software while the developers fix the bugs.",
+      "sentence_ko": "개발자들이 버그를 수정하는 동안 저희는 현재 소프트웨어의 임시 버전을 사용하고 있습니다.",
+      "tags": ["internet", "business", "job"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "In the interim between school semesters, I plan to take a short cooking course.",
+      "sentence_ko": "학기 사이의 중간 휴식 기간에 짧은 요리 과정을 수강할 계획입니다.",
+      "tags": ["study", "cooking", "vacation"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The interim report suggests that the marketing campaign has been successful so far.",
+      "sentence_ko": "중간 보고서에 따르면 지금까지 마케팅 캠페인이 성공적이었음을 알 수 있습니다.",
+      "tags": ["business", "marketing", "job"]
+    },
+    {
+      "word": "Interim",
+      "sentence_en": "The interim government was established to maintain order before the national elections.",
+      "sentence_ko": "국가 선거 전 질서를 유지하기 위해 과도기 정부가 세워졌습니다.",
+      "tags": ["social", "business", "study"]
+    },
+    {
+      "word": "Provisional",
+      "sentence_en": "I received a provisional job offer, pending the results of my final background check.",
+      "sentence_ko": "최종 신원 조회 결과가 나올 때까지 유효한 잠정적인 합격 통보를 받았습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Provisional",
+      "sentence_en": "The committee made a provisional decision to change the study curriculum next year.",
+      "sentence_ko": "위원회는 내년 학습 커리큘럼을 변경하기로 잠정적인 결정을 내렸습니다.",
+      "tags": ["study", "business", "social"]
+    },
+    {
+      "word": "Provisional",
+      "sentence_en": "We set up a provisional kitchen in the backyard while our main one was being renovated.",
+      "sentence_ko": "주방을 개조하는 동안 뒷마당에 임시 주방을 설치했습니다.",
+      "tags": ["cooking", "family", "social"]
+    },
+    {
+      "word": "Provisional",
+      "sentence_en": "The driver was issued a provisional license after passing the written part of the exam.",
+      "sentence_ko": "운전자는 필기 시험에 합격한 후 임시 면허증을 발급받았습니다.",
+      "tags": ["social", "study", "job"]
+    },
+    {
+      "word": "Provisional",
+      "sentence_en": "The provisional results of the research show a strong link between diet and health.",
+      "sentence_ko": "연구의 잠정적 결과는 식단과 건강 사이에 강한 연관성이 있음을 보여줍니다.",
+      "tags": ["study", "cooking", "social"]
+    },
+    {
+      "word": "Transient",
+      "sentence_en": "Many travelers enjoy the transient lifestyle of moving from one city to another every week.",
+      "sentence_ko": "많은 여행객들은 매주 이 도시 저 도시로 옮겨 다니는 일시적인 삶의 방식을 즐깁니다.",
+      "tags": ["vacation", "social", "job"]
+    },
+    {
+      "word": "Transient",
+      "sentence_en": "The workers are mostly transient, arriving in the spring to help with the harvest.",
+      "sentence_ko": "노동자들은 대개 한곳에 머물지 않는 뜨내기들로, 수확을 돕기 위해 봄에 도착합니다.",
+      "tags": ["job", "social", "business"]
+    },
+    {
+      "word": "Transient",
+      "sentence_en": "Psychologists say that feelings of sadness are often transient and will eventually pass.",
+      "sentence_ko": "심리학자들은 슬픈 감정은 대개 일시적이며 결국 지나갈 것이라고 말합니다.",
+      "tags": ["family", "social", "study"]
+    },
+    {
+      "word": "Transient",
+      "sentence_en": "The hotel caters to a transient population of business professionals visiting for meetings.",
+      "sentence_ko": "그 호텔은 회의차 방문하는 비즈니스 전문가들 같은 일시 체류객들을 대상으로 합니다.",
+      "tags": ["business", "job", "vacation"]
+    },
+    {
+      "word": "Transient",
+      "sentence_en": "Storms in this region are transient, usually lasting only for an hour or so.",
+      "sentence_ko": "이 지역의 폭풍은 일시적이어서 보통 한 시간 정도만 지속됩니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Transitory",
+      "sentence_en": "Success in the fashion world is often transitory, as tastes change very quickly.",
+      "sentence_ko": "패션계에서의 성공은 취향이 워낙 빨리 변하기 때문에 종종 일시적일 때가 많습니다.",
+      "tags": ["fashion", "business", "internet"]
+    },
+    {
+      "word": "Transitory",
+      "sentence_en": "We must remember that our time on this planet is transitory and precious.",
+      "sentence_ko": "우리가 이 지구에서 보내는 시간은 영원하지 않고 지나가는 것이며 소중하다는 것을 기억해야 합니다.",
+      "tags": ["social", "family", "study"]
+    },
+    {
+      "word": "Transitory",
+      "sentence_en": "The economic boom turned out to be transitory, followed by a long period of recession.",
+      "sentence_ko": "경제 호황은 일시적인 것으로 판명되었고, 뒤이어 긴 불황이 찾아왔습니다.",
+      "tags": ["business", "social", "job"]
+    },
+    {
+      "word": "Transitory",
+      "sentence_en": "Most of the problems we face in our youth are transitory and won't matter in ten years.",
+      "sentence_ko": "우리가 젊을 때 겪는 대부분의 문제들은 일시적인 것이며 10년 뒤에는 중요하지 않을 것입니다.",
+      "tags": ["social", "study", "family"]
+    },
+    {
+      "word": "Transitory",
+      "sentence_en": "Art can capture a transitory emotion and make it last forever for the viewer.",
+      "sentence_ko": "예술은 찰나의 감정을 포착하여 관람객에게 영원히 남게 할 수 있습니다.",
+      "tags": ["art", "social", "study"]
+    },
+    {
+      "word": "Temporary",
+      "sentence_en": "I found a temporary job for the summer vacation to save up some money for university.",
+      "sentence_ko": "대학 등록금을 모으기 위해 여름 방학 동안 할 임시직 일자리를 구했습니다.",
+      "tags": ["job", "vacation", "study"]
+    },
+    {
+      "word": "Temporary",
+      "sentence_en": "This is only a temporary solution to the leak; we will need a professional plumber later.",
+      "sentence_ko": "이것은 누수에 대한 임시 방편일 뿐입니다. 나중에 전문 배관공을 불러야 할 거예요.",
+      "tags": ["family", "business", "social"]
+    },
+    {
+      "word": "Temporary",
+      "sentence_en": "The museum is hosting a temporary exhibition on the history of cooking tools.",
+      "sentence_ko": "박물관에서 요리 도구의 역사에 관한 특별 임시 전시회를 열고 있습니다.",
+      "tags": ["art", "cooking", "study"]
+    },
+    {
+      "word": "Temporary",
+      "sentence_en": "We moved into a temporary apartment while our new house was being built.",
+      "sentence_ko": "새 집이 지어지는 동안 임시 아파트로 이사했습니다.",
+      "tags": ["family", "social", "business"]
+    },
+    {
+      "word": "Temporary",
+      "sentence_en": "The internet outage was only temporary, and the connection was restored within an hour.",
+      "sentence_ko": "인터넷 중단은 일시적이었으며 한 시간 만에 연결이 복구되었습니다.",
+      "tags": ["internet", "social", "job"]
+    },
+    {
+      "word": "Fugitive",
+      "sentence_en": "The poet tried to describe the fugitive nature of youth and beauty in his verses.",
+      "sentence_ko": "시인은 자신의 시구에 청춘과 아름다움의 붙잡을 수 없는 덧없는 본질을 묘사하려 했습니다.",
+      "tags": ["art", "study", "social"]
+    },
+    {
+      "word": "Fugitive",
+      "sentence_en": "Music can evoke fugitive memories that we didn't even know we still had.",
+      "sentence_ko": "음악은 우리가 여전히 가지고 있는지도 몰랐던 덧없는 기억들을 불러일으킬 수 있습니다.",
+      "tags": ["art", "family", "social"]
+    },
+    {
+      "word": "Fugitive",
+      "sentence_en": "The criminal lived a fugitive life, moving from town to town to avoid being caught.",
+      "sentence_ko": "그 범죄자는 잡히지 않기 위해 이 마을 저 마을로 옮겨 다니며 도망자의 삶을 살았습니다.",
+      "tags": ["social", "job", "business"]
+    },
+    {
+      "word": "Fugitive",
+      "sentence_en": "I caught a fugitive scent of jasmine as I walked through the park at night.",
+      "sentence_ko": "밤에 공원을 걷다가 자스민의 은은하고 덧없는 향기를 맡았습니다.",
+      "tags": ["social", "vacation", "family"]
+    },
+    {
+      "word": "Fugitive",
+      "sentence_en": "Success can be a fugitive thing if you do not work hard to maintain it.",
+      "sentence_ko": "성공을 유지하기 위해 열심히 노력하지 않는다면 그것은 금방 달아나 버릴 덧없는 것이 될 수 있습니다.",
+      "tags": ["business", "job", "study"]
+    },
+    {
+      "word": "Momentary",
+      "sentence_en": "There was a momentary silence in the room after the surprising news was announced.",
+      "sentence_ko": "놀라운 소식이 발표된 후 방 안에는 잠시 순간적인 침묵이 흐르기도 했습니다.",
+      "tags": ["social", "family", "business"]
+    },
+    {
+      "word": "Momentary",
+      "sentence_en": "I experienced a momentary lapse in concentration and made a small mistake on my exam.",
+      "sentence_ko": "순간적으로 집중력이 떨어져서 시험에서 작은 실수를 저질렀습니다.",
+      "tags": ["study", "job", "social"]
+    },
+    {
+      "word": "Momentary",
+      "sentence_en": "The flash of light was only momentary, but it was enough to see the path clearly.",
+      "sentence_ko": "불빛은 찰나였지만 길을 명확히 보기에는 충분했습니다.",
+      "tags": ["vacation", "social", "art"]
+    },
+    {
+      "word": "Momentary",
+      "sentence_en": "The internet glitch was just a momentary distraction during our online business meeting.",
+      "sentence_ko": "인터넷 오류는 온라인 비즈니스 회의 중 발생한 아주 잠깐의 방해 요소였습니다.",
+      "tags": ["internet", "business", "job"]
+    },
+    {
+      "word": "Momentary",
+      "sentence_en": "She felt a momentary pang of guilt after eating the entire cake by herself.",
+      "sentence_ko": "그녀는 케이크 전체를 혼자 다 먹고 나서 순간적인 죄책감을 느꼈습니다.",
+      "tags": ["cooking", "family", "social"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "We had a brief discussion about the project during our morning coffee break.",
+      "sentence_ko": "아침 커피 휴식 시간 동안 프로젝트에 대해 짧게 논의했습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "The professor gave a brief summary of the previous lesson before starting the new one.",
+      "sentence_ko": "교수님은 새 수업을 시작하기 전 이전 수업 내용을 짧게 요약해 주셨습니다.",
+      "tags": ["study", "social", "business"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "Our vacation in Paris was brief but incredibly memorable for the whole family.",
+      "sentence_ko": "파리에서의 휴가는 짧았지만 온 가족에게 믿을 수 없을 정도로 기억에 남았습니다.",
+      "tags": ["vacation", "family", "social"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "She wore a brief, elegant dress that was perfect for the summer party.",
+      "sentence_ko": "그녀는 여름 파티에 딱 어울리는 짧고 우아한 드레스를 입었습니다.",
+      "tags": ["fashion", "social", "art"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "The company issued a brief statement regarding the technical issues on the internet.",
+      "sentence_ko": "회사는 인터넷상의 기술적 문제와 관련하여 짧은 성명을 발표했습니다.",
+      "tags": ["internet", "business", "social"]
+    },
+    {
+      "word": "Short-lived",
+      "sentence_en": "The joy of winning the game was short-lived as we soon heard the bad news.",
+      "sentence_ko": "곧 나쁜 소식을 듣게 되면서 경기에서 이긴 기쁨은 오래가지 못했습니다.",
+      "tags": ["social", "family", "study"]
+    },
+    {
+      "word": "Short-lived",
+      "sentence_en": "His career as a professional chef was short-lived due to a sudden hand injury.",
+      "sentence_ko": "갑작스러운 손 부상 때문에 전문 셰프로서의 그의 경력은 짧게 끝났습니다.",
+      "tags": ["job", "cooking", "business"]
+    },
+    {
+      "word": "Short-lived",
+      "sentence_en": "Many internet viral videos have a short-lived fame before they are forgotten.",
+      "sentence_ko": "많은 인터넷 바이럴 영상들은 잊히기 전까지 아주 잠깐의 명성만을 누립니다.",
+      "tags": ["internet", "social", "marketing"]
+    },
+    {
+      "word": "Short-lived",
+      "sentence_en": "The heavy rain was short-lived, and the sun was out again within ten minutes.",
+      "sentence_ko": "폭우는 오래가지 않았고 10분 만에 다시 해가 떴습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Short-lived",
+      "sentence_en": "Unfortunately, the peace treaty proved to be short-lived, and fighting began again.",
+      "sentence_ko": "불행히도 평화 조약은 오래가지 못하는 것으로 판명되었고 다시 교전이 시작되었습니다.",
+      "tags": ["social", "business", "study"]
+    },
+    {
+      "word": "Evanescent",
+      "sentence_en": "The rainbow was evanescent, disappearing as soon as the sun went behind a cloud.",
+      "sentence_ko": "무지개는 쉬이 사라지는 것이어서, 해가 구름 뒤로 숨자마자 사라졌습니다.",
+      "tags": ["art", "vacation", "social"]
+    },
+    {
+      "word": "Evanescent",
+      "sentence_en": "He tried to capture the evanescent morning mist in a series of beautiful photographs.",
+      "sentence_ko": "그는 일련의 아름다운 사진들에 쉬이 사라지는 아침 안개를 담으려 노력했습니다.",
+      "tags": ["art", "vacation", "study"]
+    },
+    {
+      "word": "Evanescent",
+      "sentence_en": "The feeling of complete happiness can sometimes be evanescent in our busy daily lives.",
+      "sentence_ko": "완벽한 행복의 감정은 우리의 바쁜 일상 속에서 때때로 안개처럼 쉬이 사라지기도 합니다.",
+      "tags": ["family", "social", "job"]
+    },
+    {
+      "word": "Evanescent",
+      "sentence_en": "The bubbles on top of the coffee were evanescent, popping within a few seconds.",
+      "sentence_ko": "커피 위의 거품은 금방 사라지는 것이어서 몇 초 만에 터져 버렸습니다.",
+      "tags": ["cooking", "social", "art"]
+    },
+    {
+      "word": "Evanescent",
+      "sentence_en": "Scholars debated the evanescent nature of power throughout human history.",
+      "sentence_ko": "학자들은 인류 역사 전반에 걸친 권력의 덧없는 본질에 대해 토론했습니다.",
+      "tags": ["study", "social", "business"]
+    },
+    {
+      "word": "Passing",
+      "sentence_en": "Don't worry too much about his rude comment; it was just a passing remark.",
+      "sentence_ko": "그의 무례한 언급에 너무 신경 쓰지 마세요. 그냥 지나가는 말이었을 뿐이니까요.",
+      "tags": ["social", "family", "relationship"]
+    },
+    {
+      "word": "Passing",
+      "sentence_en": "She has a passing interest in fashion, but her true passion is computer science.",
+      "sentence_ko": "그녀는 패션에 일시적인 관심은 있지만, 진짜 열정은 컴퓨터 공학에 있습니다.",
+      "tags": ["fashion", "study", "job"]
+    },
+    {
+      "word": "Passing",
+      "sentence_en": "I only have a passing acquaintance with the new neighbor, as we rarely talk.",
+      "sentence_ko": "새 이웃과는 거의 대화를 나누지 않아서 그냥 얼굴만 아는 정도입니다.",
+      "tags": ["social", "family", "relationship"]
+    },
+    {
+      "word": "Passing",
+      "sentence_en": "The passing years have changed the look of the city but not its unique spirit.",
+      "sentence_ko": "흘러가는 세월이 도시의 모습은 바꾸어 놓았지만 그 독특한 정신은 바꾸지 못했습니다.",
+      "tags": ["social", "art", "vacation"]
+    },
+    {
+      "word": "Passing",
+      "sentence_en": "He mentioned the plan in passing during the business meeting yesterday.",
+      "sentence_ko": "그는 어제 비즈니스 회의 도중 그 계획을 지나가듯 언급했습니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Tentative",
+      "sentence_en": "We have made a tentative schedule for the project, but it might change next week.",
+      "sentence_ko": "프로젝트를 위한 잠정적인 일정을 짰지만, 다음 주에 바뀔 수도 있습니다.",
+      "tags": ["business", "job", "study"]
+    },
+    {
+      "word": "Tentative",
+      "sentence_en": "The shy child took a tentative step toward the other kids playing in the park.",
+      "sentence_ko": "수줍음 많은 그 아이는 공원에서 놀고 있는 다른 아이들을 향해 머뭇거리며 발을 내디뎠습니다.",
+      "tags": ["family", "social", "vacation"]
+    },
+    {
+      "word": "Tentative",
+      "sentence_en": "She gave a tentative smile, unsure of how the news would be received by the team.",
+      "sentence_ko": "그녀는 팀이 그 소식을 어떻게 받아들일지 확신이 없어 머뭇거리며 미소를 지었습니다.",
+      "tags": ["social", "job", "business"]
+    },
+    {
+      "word": "Tentative",
+      "sentence_en": "The negotiations are still in the tentative stage, so no contracts have been signed yet.",
+      "sentence_ko": "협상은 여전히 확정되지 않은 단계여서 아직 계약서에 서명하지 않았습니다.",
+      "tags": ["business", "social", "job"]
+    },
+    {
+      "word": "Tentative",
+      "sentence_en": "I have some tentative plans for the weekend, depending on the weather report.",
+      "sentence_ko": "일기 예보에 따라 달라지겠지만 주말에 대해 몇 가지 잠정적인 계획이 있습니다.",
+      "tags": ["vacation", "family", "social"]
+    },
+    {
+      "word": "Cursory",
+      "sentence_en": "He only gave the report a cursory glance before heading to the important meeting.",
+      "sentence_ko": "그는 중요한 회의에 가기 전 보고서를 대충 훑어보기만 했습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Cursory",
+      "sentence_en": "The police conducted a cursory search of the area but found no evidence.",
+      "sentence_ko": "경찰은 그 구역을 피상적으로 조사했지만 아무런 증거도 찾지 못했습니다.",
+      "tags": ["social", "business", "study"]
+    },
+    {
+      "word": "Cursory",
+      "sentence_en": "A cursory inspection of the used car revealed several hidden scratches on the doors.",
+      "sentence_ko": "중고차를 대충 살펴보았더니 문에 숨겨진 흠집들이 몇 군데 드러났습니다.",
+      "tags": ["business", "social", "job"]
+    },
+    {
+      "word": "Cursory",
+      "sentence_en": "I made a cursory attempt to clean the house before the guests arrived.",
+      "sentence_ko": "손님들이 오기 전 집을 대충이라도 치우려 노력했습니다.",
+      "tags": ["family", "social", "cooking"]
+    },
+    {
+      "word": "Cursory",
+      "sentence_en": "Most internet users only give long articles a cursory read instead of finished them.",
+      "sentence_ko": "대부분의 인터넷 사용자들은 긴 기사를 끝까지 읽는 대신 대충 훑어보기만 합니다.",
+      "tags": ["internet", "study", "social"]
+    },
+    {
+      "word": "Instantaneous",
+      "sentence_en": "The response from the internet server was almost instantaneous, showing no lag at all.",
+      "sentence_ko": "인터넷 서버의 응답은 거의 즉각적이어서 지연이 전혀 없었습니다.",
+      "tags": ["internet", "business", "job"]
+    },
+    {
+      "word": "Instantaneous",
+      "sentence_en": "In the modern world, communication across the globe can be instantaneous via smartphone.",
+      "sentence_ko": "현대 사회에서 전 세계와의 소통은 스마트폰을 통해 즉각적으로 이루어질 수 있습니다.",
+      "tags": ["social", "internet", "business"]
+    },
+    {
+      "word": "Instantaneous",
+      "sentence_en": "The athlete's reaction to the starting gun was instantaneous and perfect.",
+      "sentence_ko": "출발 신호에 대한 그 선수의 반응은 즉각적이고 완벽했습니다.",
+      "tags": ["social", "study", "vacation"]
+    },
+    {
+      "word": "Instantaneous",
+      "sentence_en": "Adding the chemical caused an instantaneous change in the color of the liquid.",
+      "sentence_ko": "화학 물질을 첨가하자 액체의 색이 즉각적으로 변했습니다.",
+      "tags": ["study", "art", "social"]
+    },
+    {
+      "word": "Instantaneous",
+      "sentence_en": "Digital photography allows for the instantaneous viewing of the pictures you just took.",
+      "sentence_ko": "디지털 사진은 방금 찍은 사진을 즉석에서 바로 볼 수 있게 해줍니다.",
+      "tags": ["art", "internet", "vacation"]
+    },
+    {
+      "word": "Abrupt",
+      "sentence_en": "The meeting came to an abrupt end when the fire alarm suddenly went off.",
+      "sentence_ko": "화재 경보기가 갑자기 울리자 회의는 예고 없이 뚝 끊기듯 종료되었습니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Abrupt",
+      "sentence_en": "I was surprised by his abrupt departure from the party without saying goodbye.",
+      "sentence_ko": "작별 인사도 없이 파티에서 갑자기 떠나버린 그의 행동에 놀랐습니다.",
+      "tags": ["social", "family", "vacation"]
+    },
+    {
+      "word": "Abrupt",
+      "sentence_en": "The car made an abrupt stop to avoid hitting the cat crossing the road.",
+      "sentence_ko": "차는 도로를 건너는 고양이를 치지 않기 위해 갑자기 멈춰 섰습니다.",
+      "tags": ["social", "family", "vacation"]
+    },
+    {
+      "word": "Abrupt",
+      "sentence_en": "Her tone of voice became abrupt and cold after I asked the difficult question.",
+      "sentence_ko": "어려운 질문을 던지자 그녀의 목소리 톤은 갑자기 퉁명스럽고 차가워졌습니다.",
+      "tags": ["social", "relationship", "job"]
+    },
+    {
+      "word": "Abrupt",
+      "sentence_en": "There was an abrupt change in the weather, turning the sunny afternoon into a storm.",
+      "sentence_ko": "날씨가 갑자기 변해서 맑았던 오후가 폭풍우로 바뀌었습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Sudden",
+      "sentence_en": "A sudden loud noise from the kitchen startled the entire family during dinner.",
+      "sentence_ko": "저녁 식사 도중 주방에서 들려온 갑작스러운 큰 소리에 온 가족이 깜짝 놀랐습니다.",
+      "tags": ["family", "cooking", "social"]
+    },
+    {
+      "word": "Sudden",
+      "sentence_en": "The company faced a sudden drop in sales after the negative internet reviews.",
+      "sentence_ko": "인터넷에 부정적인 후기들이 올라온 후 회사는 갑작스러운 매출 하락에 직면했습니다.",
+      "tags": ["business", "internet", "marketing"]
+    },
+    {
+      "word": "Sudden",
+      "sentence_en": "I felt a sudden urge to travel the world after watching the adventure movie.",
+      "sentence_ko": "모험 영화를 보고 나서 갑자기 세계 여행을 하고 싶다는 강한 충동을 느꼈습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Sudden",
+      "sentence_en": "Her sudden success in the fashion industry surprised all her old classmates.",
+      "sentence_ko": "그녀가 패션계에서 거둔 갑작스러운 성공은 예전 반 친구들 모두를 놀라게 했습니다.",
+      "tags": ["fashion", "social", "job"]
+    },
+    {
+      "word": "Sudden",
+      "sentence_en": "There was a sudden increase in demand for home office furniture last year.",
+      "sentence_ko": "지난해 홈 오피스 가구에 대한 수요가 갑자기 증가했습니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Short-term",
+      "sentence_en": "We need to find a short-term solution to the budget problem before the month ends.",
+      "sentence_ko": "이달이 끝나기 전에 예산 문제에 대한 단기적인 해결책을 찾아야 합니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Short-term",
+      "sentence_en": "I am staying in this apartment as a short-term resident until my house is ready.",
+      "sentence_ko": "집이 준비될 때까지 이 아파트에서 단기 거주자로 머물고 있습니다.",
+      "tags": ["family", "social", "business"]
+    },
+    {
+      "word": "Short-term",
+      "sentence_en": "The medicine provides short-term relief from the pain but won't cure the illness.",
+      "sentence_ko": "그 약은 통증을 단기적으로 완화해주지만 병을 치료해주지는 못합니다.",
+      "tags": ["family", "social", "study"]
+    },
+    {
+      "word": "Short-term",
+      "sentence_en": "Focusing only on short-term profits can be dangerous for a company's long-term future.",
+      "sentence_ko": "단기적인 이익에만 집중하는 것은 회사의 장기적인 미래에 위험할 수 있습니다.",
+      "tags": ["business", "job", "marketing"]
+    },
+    {
+      "word": "Short-term",
+      "sentence_en": "I have some short-term goals for my studies, like finishing this chapter tonight.",
+      "sentence_ko": "오늘 밤 이 단원을 끝내는 것 같은 학업에 대한 몇 가지 단기적인 목표가 있습니다.",
+      "tags": ["study", "social", "job"]
+    },
+    {
+      "word": "Impermanent",
+      "sentence_en": "The sandcastle was impermanent, washed away by the tide within minutes.",
+      "sentence_ko": "모래성은 영구적이지 않아서 몇 분 만에 파도에 씻겨 내려갔습니다.",
+      "tags": ["vacation", "art", "social"]
+    },
+    {
+      "word": "Impermanent",
+      "sentence_en": "Buddhist philosophy teaches us that all things in life are impermanent and changing.",
+      "sentence_ko": "불교 철학은 삶의 모든 것이 영구적이지 않으며 변한다는 것을 가르쳐 줍니다.",
+      "tags": ["study", "social", "family"]
+    },
+    {
+      "word": "Impermanent",
+      "sentence_en": "Graffiti is often an impermanent form of art that is eventually painted over.",
+      "sentence_ko": "그래피티는 종종 나중에 덧칠해져 사라지는 영구적이지 않은 예술 형태입니다.",
+      "tags": ["art", "social", "fashion"]
+    },
+    {
+      "word": "Impermanent",
+      "sentence_en": "The beauty of the flower is impermanent, but its scent can remain in your memory.",
+      "sentence_ko": "꽃의 아름다움은 영구적이지 않지만, 그 향기는 기억 속에 남을 수 있습니다.",
+      "tags": ["art", "family", "social"]
+    },
+    {
+      "word": "Impermanent",
+      "sentence_en": "Temporary buildings are impermanent structures designed for short-term use during construction.",
+      "sentence_ko": "가설 건물은 공사 기간 동안 단기적으로 사용하기 위해 설계된 비영구적 구조물입니다.",
+      "tags": ["business", "social", "job"]
+    },
+    {
+      "word": "Volatile",
+      "sentence_en": "The stock market has been very volatile lately, making investors quite nervous.",
+      "sentence_ko": "최근 주식 시장이 매우 변덕스러워서 투자자들을 꽤 불안하게 만들고 있습니다.",
+      "tags": ["business", "internet", "job"]
+    },
+    {
+      "word": "Volatile",
+      "sentence_en": "Cooking with volatile oils requires careful attention to avoid catching fire.",
+      "sentence_ko": "휘발성 기름으로 요리할 때는 불이 붙지 않도록 세심한 주의가 필요합니다.",
+      "tags": ["cooking", "family", "social"]
+    },
+    {
+      "word": "Volatile",
+      "sentence_en": "The political situation in that region remains volatile and unpredictable.",
+      "sentence_ko": "그 지역의 정치 상황은 여전히 변덕스럽고 예측 불가능합니다.",
+      "tags": ["social", "study", "business"]
+    },
+    {
+      "word": "Volatile",
+      "sentence_en": "She has a volatile personality, often changing her mind without any warning.",
+      "sentence_ko": "그녀는 성격이 변덕스러워서 아무런 예고 없이 마음을 바꾸곤 합니다.",
+      "tags": ["social", "family", "relationship"]
+    },
+    {
+      "word": "Volatile",
+      "sentence_en": "Internet fame can be volatile; one day you are popular, and the next you are forgotten.",
+      "sentence_ko": "인터넷상의 명성은 변덕스러울 수 있습니다. 어느 날은 유명하다가도 다음 날이면 잊히기도 하죠.",
+      "tags": ["internet", "social", "fashion"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The company's swift response to the crisis helped maintain its reputation in the market.",
+      "sentence_ko": "위기에 대한 회사의 신속한 대응은 시장에서의 평판을 유지하는 데 도움이 되었습니다.",
+      "tags": ["business", "marketing", "job"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "A swift breeze cooled us down during the hot summer afternoon at the beach.",
+      "sentence_ko": "해변에서 보낸 더운 여름 오후, 신속하게 불어온 산들바람이 몸을 식혀 주었습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The bird made a swift descent from the sky to catch its prey.",
+      "sentence_ko": "새는 먹잇감을 잡기 위해 하늘에서 신속하게 내려왔습니다.",
+      "tags": ["social", "study", "art"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "He is known for his swift decision-making skills during stressful business negotiations.",
+      "sentence_ko": "그는 스트레스가 심한 비즈니스 협상 중에도 신속하게 의사 결정을 내리는 능력으로 잘 알려져 있습니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The medicine promised a swift recovery from the common cold symptoms.",
+      "sentence_ko": "그 약은 일반적인 감기 증상으로부터 신속한 회복을 약속했습니다.",
+      "tags": ["family", "social", "study"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "Don't make a hasty decision about the job offer before considering all your options.",
+      "sentence_ko": "모든 선택지를 고려하기 전에 입사 제안에 대해 성급한 결정을 내리지 마세요.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "I wrote a hasty note to my parents before leaving the house in a rush.",
+      "sentence_ko": "서둘러 집을 나서기 전 부모님께 급하게 메모를 남겼습니다.",
+      "tags": ["family", "social", "cooking"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "The project was ruined by hasty planning and a lack of attention to detail.",
+      "sentence_ko": "그 프로젝트는 성급한 계획과 세부 사항에 대한 주의 부족으로 망쳐졌습니다.",
+      "tags": ["business", "job", "study"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "I regretted my hasty words as soon as I saw the look of sadness on her face.",
+      "sentence_ko": "그녀의 얼굴에 서린 슬픔을 보자마자 내가 내뱉은 성급한 말들을 후회했습니다.",
+      "tags": ["social", "family", "relationship"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "A hasty retreat was necessary when the weather suddenly became dangerous for hiking.",
+      "sentence_ko": "등산하기에 날씨가 갑자기 위험해지자 신속하게(서둘러) 후퇴하는 것이 필요했습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Fly-by-night",
+      "sentence_en": "Be careful not to invest your money in fly-by-night companies that promise impossible returns.",
+      "sentence_ko": "불가능한 수익을 약속하는 믿을 수 없는 유령 회사들에 돈을 투자하지 않도록 조심하세요.",
+      "tags": ["business", "job", "internet"]
+    },
+    {
+      "word": "Fly-by-night",
+      "sentence_en": "The restaurant turned out to be a fly-by-night operation, closing down only a week after opening.",
+      "sentence_ko": "그 식당은 잠깐 하고 마는 무책임한 곳으로 판명되었고, 개업한 지 일주일 만에 문을 닫았습니다.",
+      "tags": ["business", "cooking", "social"]
+    },
+    {
+      "word": "Fly-by-night",
+      "sentence_en": "I don't trust fly-by-night internet sellers who have no contact information on their website.",
+      "sentence_ko": "웹사이트에 연락처 정보도 없는 믿을 수 없는 인터넷 판매자들은 신뢰하지 않습니다.",
+      "tags": ["internet", "business", "marketing"]
+    },
+    {
+      "word": "Fly-by-night",
+      "sentence_en": "He was warned against hiring fly-by-night contractors who do poor quality work.",
+      "sentence_ko": "형편없는 작업을 하는 무책임한 업자들을 고용하지 말라는 경고를 받았습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Fly-by-night",
+      "sentence_en": "She avoided fly-by-night fashion brands that don't care about sustainable materials.",
+      "sentence_ko": "그녀는 지속 가능한 소재에 신경 쓰지 않는 잠깐 나타났다 사라지는 패션 브랜드들을 피했습니다.",
+      "tags": ["fashion", "business", "social"]
+    },
+    {
+      "word": "Mortal",
+      "sentence_en": "The hero in the movie realized he was mortal despite his amazing superpowers.",
+      "sentence_ko": "영화 속 영웅은 자신의 놀라운 초능력에도 불구하고 자신이 언젠가는 죽을 인간임을 깨달았습니다.",
+      "tags": ["art", "social", "study"]
+    },
+    {
+      "word": "Mortal",
+      "sentence_en": "We all face mortal limitations and should make the most of the time we have.",
+      "sentence_ko": "우리 모두는 유한한 생명의 한계에 직면해 있으므로 우리에게 주어진 시간을 최대한 활용해야 합니다.",
+      "tags": ["family", "social", "study"]
+    },
+    {
+      "word": "Mortal",
+      "sentence_en": "The soldier was in mortal danger while trying to save his teammates from the fire.",
+      "sentence_ko": "그 군인은 화재로부터 팀원들을 구하려다 죽을 고비에 처했습니다.",
+      "tags": ["social", "job", "business"]
+    },
+    {
+      "word": "Mortal",
+      "sentence_en": "He made a mortal enemy by betraying his business partner for personal gain.",
+      "sentence_ko": "그는 개인적인 이득을 위해 사업 파트너를 배신함으로써 철천지원수를 만들었습니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Mortal",
+      "sentence_en": "The philosopher wrote a long essay about the human condition and our mortal nature.",
+      "sentence_ko": "그 철학자는 인간의 조건과 우리의 필멸하는 본성에 대해 긴 에세이를 썼습니다.",
+      "tags": ["study", "social", "art"]
+    },
+    {
+      "word": "Finite",
+      "sentence_en": "Natural resources are finite, and we must use them wisely to protect the environment.",
+      "sentence_ko": "천연자원은 유한하며, 우리는 환경을 보호하기 위해 그것들을 지혜롭게 사용해야 합니다.",
+      "tags": ["social", "study", "business"]
+    },
+    {
+      "word": "Finite",
+      "sentence_en": "The company has a finite budget for the marketing campaign, so every dollar matters.",
+      "sentence_ko": "회사의 마케팅 캠페인 예산은 유한하므로 단 1달러도 중요합니다.",
+      "tags": ["business", "marketing", "job"]
+    },
+    {
+      "word": "Finite",
+      "sentence_en": "I only have a finite amount of time to finish my homework before dinner.",
+      "sentence_ko": "저녁 식사 전까지 숙제를 끝낼 수 있는 시간은 한정되어 있습니다.",
+      "tags": ["study", "family", "social"]
+    },
+    {
+      "word": "Finite",
+      "sentence_en": "The scientist explained that the universe might have a finite size and shape.",
+      "sentence_ko": "그 과학자는 우주가 유한한 크기와 모양을 가지고 있을 수 있다고 설명했습니다.",
+      "tags": ["study", "social", "art"]
+    },
+    {
+      "word": "Finite",
+      "sentence_en": "There is a finite number of tickets available for the concert, so buy them early.",
+      "sentence_ko": "콘서트 티켓 수량은 유한하므로 일찍 구매하세요.",
+      "tags": ["social", "art", "marketing"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The moon is currently in its crescent phase, looking beautiful in the night sky.",
+      "sentence_ko": "달은 현재 초승달 단계에 있으며 밤하늘에서 아름답게 보입니다.",
+      "tags": ["study", "vacation", "art"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "Starting a new job is just another phase of my life that I am excited about.",
+      "sentence_ko": "새로운 직장을 시작하는 것은 내가 기대하고 있는 내 인생의 또 다른 단계일 뿐입니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "We are entering the final phase of the building project, and everything looks great.",
+      "sentence_ko": "건축 프로젝트의 마지막 단계에 접어들었으며 모든 것이 좋아 보입니다.",
+      "tags": ["business", "job", "social"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "Most teenagers go through a rebellious phase before they become more mature adults.",
+      "sentence_ko": "대부분의 십 대들은 더 성숙한 성인이 되기 전 반항적인 시기를 거칩니다.",
+      "tags": ["family", "social", "study"]
+    },
+    {
+      "word": "Phase",
+      "sentence_en": "The government decided to phase out the use of coal over the next ten years.",
+      "sentence_ko": "정부는 향후 10년에 걸쳐 석탄 사용을 단계적으로 중단하기로 결정했습니다.",
+      "tags": ["social", "business", "study"]
+    },
+    {
+      "word": "Spell",
+      "sentence_en": "We enjoyed a short spell of warm weather during our winter vacation in the mountains.",
+      "sentence_ko": "산에서 보낸 겨울 휴가 기간 동안 잠깐의 따뜻한 날씨를 즐겼습니다.",
+      "tags": ["vacation", "family", "social"]
+    },
+    {
+      "word": "Spell",
+      "sentence_en": "The economy experienced a brief spell of growth before the global crisis hit.",
+      "sentence_ko": "세계적인 위기가 닥치기 전 경제는 잠깐의 성장기를 겪었습니다.",
+      "tags": ["business", "social", "job"]
+    },
+    {
+      "word": "Spell",
+      "sentence_en": "I need to sit down for a spell and rest my legs after that long walk.",
+      "sentence_ko": "그렇게 오래 걸었으니 잠깐 앉아서 다리를 좀 쉬어야겠어요.",
+      "tags": ["social", "family", "vacation"]
+    },
+    {
+      "word": "Spell",
+      "sentence_en": "The magician cast a spell that made the rabbit disappear from the hat.",
+      "sentence_ko": "마술사는 모자에서 토끼가 사라지게 하는 주문을 걸었습니다.",
+      "tags": ["art", "social", "family"]
+    },
+    {
+      "word": "Spell",
+      "sentence_en": "A dry spell in the region has caused serious problems for the local farmers.",
+      "sentence_ko": "이 지역의 가뭄 기간이 계속되면서 지역 농부들에게 심각한 문제를 일으켰습니다.",
+      "tags": ["social", "business", "study"]
+    },
+    {
+      "word": "Flash",
+      "sentence_en": "In a flash, the thief grabbed the bag and ran into the crowded street.",
+      "sentence_ko": "눈 깜짝할 사이에 도둑은 가방을 낚아채 붐비는 거리로 달아났습니다.",
+      "tags": ["social", "business", "job"]
+    },
+    {
+      "word": "Flash",
+      "sentence_en": "A flash of lightning lit up the dark sky for a brief moment during the storm.",
+      "sentence_ko": "폭풍우가 치는 동안 번갯불이 잠시 어두운 하늘을 비추었습니다.",
+      "tags": ["vacation", "social", "family"]
+    },
+    {
+      "word": "Flash",
+      "sentence_en": "I had a flash of inspiration while cooking dinner, so I wrote down a new recipe.",
+      "sentence_ko": "저녁 요리를 하던 중 갑자기 영감이 떠올라 새로운 레시피를 적었습니다.",
+      "tags": ["cooking", "family", "art"]
+    },
+    {
+      "word": "Flash",
+      "sentence_en": "The camera's flash was too bright, making everyone blink in the family photograph.",
+      "sentence_ko": "카메라 플래시가 너무 밝아서 가족 사진 속 모두가 눈을 깜빡이고 말았습니다.",
+      "tags": ["family", "art", "social"]
+    },
+    {
+      "word": "Flash",
+      "sentence_en": "She used a flash drive to save all her important study materials for the exam.",
+      "sentence_ko": "그녀는 시험을 위한 모든 중요한 학습 자료를 저장하기 위해 플래시 드라이브를 사용했습니다.",
+      "tags": ["study", "internet", "social"]
+    },
+    {
+      "word": "Blink",
+      "sentence_en": "In the blink of an eye, the summer vacation was over, and it was time for school.",
+      "sentence_ko": "눈 깜짝할 사이에 여름 방학이 끝나고 학교에 갈 시간이 되었습니다.",
+      "tags": ["vacation", "study", "family"]
+    },
+    {
+      "word": "Blink",
+      "sentence_en": "The lights in the office began to blink when the storm started to get stronger.",
+      "sentence_ko": "폭풍우가 강해지기 시작하자 사무실의 전등이 깜빡이기 시작했습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Blink",
+      "sentence_en": "He didn't even blink when the boss asked him to work overtime during the weekend.",
+      "sentence_ko": "상사가 주말에 야근을 하라고 했을 때 그는 눈 하나 깜빡이지 않았습니다.",
+      "tags": ["job", "business", "social"]
+    },
+    {
+      "word": "Blink",
+      "sentence_en": "I missed the best part of the movie because I chose that exact moment to blink.",
+      "sentence_ko": "하필이면 그 순간 눈을 깜빡이는 바람에 영화의 가장 좋은 부분을 놓치고 말았습니다.",
+      "tags": ["social", "family", "art"]
+    },
+    {
+      "word": "Blink",
+      "sentence_en": "The red light on the dashboard began to blink, warning the driver of a problem.",
+      "sentence_ko": "대시보드의 빨간불이 깜빡이기 시작하며 운전자에게 문제가 있음을 경고했습니다.",
+      "tags": ["social", "business", "family"]
+    }
+  ]
+}

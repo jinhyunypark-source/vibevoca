@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "dd5fb871-818f-45c6-9e68-2382737d3d4c",
+    "word": "Cost",
+    "meaning": "비용, 원가 (지불해야 하는 돈)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "ebbe3882-d3bc-4b0c-ad48-f94ed051ea12",
+    "word": "Price",
+    "meaning": "가격 (판매가)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "6d15a3e9-5d40-4e70-9f47-7770a4a15078",
+    "word": "Value",
+    "meaning": "가치 (유용성이나 중요성)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "9d40283a-2eb5-470f-823b-24674942dd98",
+    "word": "Worth",
+    "meaning": "~의 가치가 있는 (금전적/실질적 가치)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "64dd0b2b-c37a-412f-adf3-1224da9bbb2b",
+    "word": "Valuable",
+    "meaning": "귀중한, 비싼 (가치가 높은)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "4ebd97ed-6df5-45af-82a1-f03738126077",
+    "word": "Precious",
+    "meaning": "귀중한, 소중한 (매우 아끼는)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "930171e6-9ac5-4d4a-829b-6af9998fc62e",
+    "word": "Priceless",
+    "meaning": "돈으로 살 수 없는 (매우 귀중한)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "a2975949-5b35-4c73-9801-5bba802c66ad",
+    "word": "Invaluable",
+    "meaning": "매우 유용한 (값을 따질 수 없을 만큼 귀한)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "0b513dba-4778-4f14-a148-74d753fb58ad",
+    "word": "Worthless",
+    "meaning": "가치 없는 (쓸모없는)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "671c5b11-b5bf-43ec-b8f5-cb936e03f7fa",
+    "word": "Cheap",
+    "meaning": "싼, 싸구려의 (가격이 낮거나 품질이 나쁜)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "90977a53-b4df-4d00-a17f-a502bf84454f",
+    "word": "Inexpensive",
+    "meaning": "저렴한 (비싸지 않은 - 긍정적)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "e69896c6-2924-46ab-b2c8-7161862a71c5",
+    "word": "Inferior",
+    "meaning": "질이 떨어지는 (하급의)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "0ea364c5-27e9-4dc1-a1d1-288afe330a8c",
+    "word": "Shoddy",
+    "meaning": "조잡한 (싸구려로 대충 만든)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "74dfcae8-1c1a-4e59-8e1e-3e81355064d6",
+    "word": "Rip-off",
+    "meaning": "바가지 (터무니없이 비싼 것 - 속어)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "e09a22a3-d576-4b54-b347-de7727492ea2",
+    "word": "Steal",
+    "meaning": "거저나 다름없는 것 (너무 싸게 잘 산 것)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "6099c47b-8fe1-4a90-b4f5-a3f757128e2d",
+    "word": "Deal",
+    "meaning": "거래, 싼 물건",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "92189cc4-0d43-425c-8b2d-b11b624bc3b7",
+    "word": "Expense",
+    "meaning": "지출, 비용 (돈이 나가는 것)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "76323233-fff2-4f42-aed1-692c96b054ac",
+    "word": "Expenditure",
+    "meaning": "지출, 경비 (공적인 지출)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "0fa5ed7a-3784-419f-902b-13c7fdc012eb",
+    "word": "Overhead",
+    "meaning": "고정비, 간접비 (운영 유지비)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "038988fc-cfd5-452a-b9d9-fb36abc64a72",
+    "word": "Quote",
+    "meaning": "견적액 (확정된 제시 가격)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "10e4294a-9b7b-4484-864d-4009abdfb8fe",
+    "word": "Outlay",
+    "meaning": "경비, 지출 (시작할 때 드는 돈)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "e2499f52-0980-43d7-952c-2197e2941805",
+    "word": "Budget",
+    "meaning": "예산 (계획된 돈)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "7c55f3ce-dc48-4cb8-b710-ff14eb7ce29f",
+    "word": "Estimate",
+    "meaning": "견적, 추정 (예상 가격)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "a62d42c7-1e7d-4f64-ad54-ce40b8c467ad",
+    "word": "Valuation",
+    "meaning": "평가액 (가치 산정)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "fb545737-39af-4ce9-8819-3b23b00d0878",
+    "word": "Assessment",
+    "meaning": "평가, 사정 (세금 등을 위한 평가)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "79c30d01-b043-426b-9259-5455d0cef2c5",
+    "word": "Appraisal",
+    "meaning": "감정, 평가 (전문가에 의한 가치 평가)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "f828cb6e-015d-46ee-9774-8ba3c08c2ea5",
+    "word": "Charge",
+    "meaning": "요금, 청구하다 (서비스 대가)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "5940871e-ea75-48dc-b2b3-4fd2bd6326a8",
+    "word": "Fee",
+    "meaning": "수수료, 요금 (전문 서비스/입장료)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "8ab586c9-2e69-4aec-ad07-e9fae66efbac",
+    "word": "Fare",
+    "meaning": "운임 (교통 요금)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  },
+  {
+    "card_id": "0a6f8471-61e9-4e61-b0a5-19a2299f1c38",
+    "word": "Rate",
+    "meaning": "요금, 비율 (기준에 따른 가격)",
+    "deck_id": "2bd3fdbc-3b68-45c7-99ce-b7a0b21bebd9",
+    "deck_name": "COST_PRICE_VALUE"
+  }
+]

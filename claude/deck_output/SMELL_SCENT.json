@@ -1,0 +1,684 @@
+{
+  "deck_title": "SMELL_SCENT",
+  "total_sentences": 126,
+  "sentences": [
+    {
+      "word": "Fragrant",
+      "sentence_en": "The fragrant flowers in the garden reminded me of my childhood home.",
+      "sentence_ko": "정원의 향기로운 꽃들이 어린 시절 집을 떠올리게 했다.",
+      "tags": ["family", "memory"]
+    },
+    {
+      "word": "Fragrant",
+      "sentence_en": "She brought fragrant herbs from the market for tonight's dinner.",
+      "sentence_ko": "그녀는 오늘 저녁 식사를 위해 시장에서 향기로운 허브를 가져왔다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Fragrant",
+      "sentence_en": "The fragrant coffee brewing in the morning helps me wake up.",
+      "sentence_ko": "아침에 내리는 향기로운 커피가 깨어나는 데 도움이 된다.",
+      "tags": ["daily", "routine"]
+    },
+    {
+      "word": "Fragrant",
+      "sentence_en": "The bakery fills the street with fragrant aromas every morning.",
+      "sentence_ko": "빵집이 매일 아침 향기로운 냄새로 거리를 가득 채운다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Fragrant",
+      "sentence_en": "Her fragrant perfume lingered in the room long after she left.",
+      "sentence_ko": "그녀가 떠난 후에도 향기로운 향수가 방에 오래 남아 있었다.",
+      "tags": ["personal", "scent"]
+    },
+    {
+      "word": "Fragrant",
+      "sentence_en": "The fragrant tea helped me relax after a stressful day at work.",
+      "sentence_ko": "향기로운 차가 스트레스 받은 하루 일과 후 긴장을 푸는 데 도움이 됐다.",
+      "tags": ["work", "relaxation"]
+    },
+    {
+      "word": "Redolent",
+      "sentence_en": "The old house was redolent of memories from my childhood.",
+      "sentence_ko": "오래된 집은 어린 시절 추억의 향기가 감돌았다.",
+      "tags": ["family", "memory"]
+    },
+    {
+      "word": "Redolent",
+      "sentence_en": "The kitchen was redolent of cinnamon and freshly baked bread.",
+      "sentence_ko": "부엌은 계피와 갓 구운 빵 냄새가 감돌았다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Redolent",
+      "sentence_en": "His speech was redolent of the marketing strategies from the 90s.",
+      "sentence_ko": "그의 연설은 90년대 마케팅 전략을 떠올리게 했다.",
+      "tags": ["marketing", "work"]
+    },
+    {
+      "word": "Redolent",
+      "sentence_en": "The movie was redolent of classic film noir from Hollywood's golden age.",
+      "sentence_ko": "그 영화는 할리우드 황금기의 고전 필름 누아르를 연상시켰다.",
+      "tags": ["movie", "art"]
+    },
+    {
+      "word": "Redolent",
+      "sentence_en": "The garden was redolent with the scent of jasmine flowers.",
+      "sentence_ko": "정원은 재스민 꽃 향기가 가득했다.",
+      "tags": ["nature", "pleasant"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "The aromatic spices filled the kitchen with an incredible smell.",
+      "sentence_ko": "향기로운 향신료가 부엌을 놀라운 냄새로 채웠다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "She added aromatic herbs to enhance the flavor of the dish.",
+      "sentence_ko": "그녀는 요리의 맛을 높이기 위해 향이 좋은 허브를 추가했다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "The aromatic candles created a relaxing atmosphere for studying.",
+      "sentence_ko": "향이 좋은 양초가 공부하기 위한 편안한 분위기를 만들었다.",
+      "tags": ["study", "environment"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "Aromatic oils are often used in marketing luxury spa products.",
+      "sentence_ko": "향이 좋은 오일은 고급 스파 제품 마케팅에 자주 사용된다.",
+      "tags": ["marketing", "business"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "The aromatic coffee beans were imported directly from Ethiopia.",
+      "sentence_ko": "향이 좋은 커피 원두는 에티오피아에서 직수입됐다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Aromatic",
+      "sentence_en": "We grow aromatic plants in our family garden every summer.",
+      "sentence_ko": "우리는 매년 여름 가족 정원에서 향이 좋은 식물을 재배한다.",
+      "tags": ["family", "gardening"]
+    },
+    {
+      "word": "Scented",
+      "sentence_en": "The scented soap made the bathroom smell like lavender.",
+      "sentence_ko": "향이 나는 비누가 욕실을 라벤더 향으로 만들었다.",
+      "tags": ["personal", "home"]
+    },
+    {
+      "word": "Scented",
+      "sentence_en": "She prefers scented candles when planning romantic dinners at home.",
+      "sentence_ko": "그녀는 집에서 로맨틱한 저녁을 계획할 때 향초를 선호한다.",
+      "tags": ["planning", "romance"]
+    },
+    {
+      "word": "Scented",
+      "sentence_en": "The entrepreneur launched a line of scented products for wellness.",
+      "sentence_ko": "그 기업가는 웰니스를 위한 향이 나는 제품 라인을 출시했다.",
+      "tags": ["entrepreneur", "business"]
+    },
+    {
+      "word": "Scented",
+      "sentence_en": "Scented markers make studying more enjoyable for young students.",
+      "sentence_ko": "향이 나는 마커는 어린 학생들의 공부를 더 즐겁게 만든다.",
+      "tags": ["education", "study"]
+    },
+    {
+      "word": "Scented",
+      "sentence_en": "The marketing team used scented packaging to attract customers.",
+      "sentence_ko": "마케팅 팀은 고객을 끌어들이기 위해 향이 나는 포장을 사용했다.",
+      "tags": ["marketing", "strategy"]
+    },
+    {
+      "word": "Perfumed",
+      "sentence_en": "She entered the room with perfumed hair and elegant clothes.",
+      "sentence_ko": "그녀는 향수를 뿌린 머리와 우아한 옷을 입고 방에 들어왔다.",
+      "tags": ["personal", "style"]
+    },
+    {
+      "word": "Perfumed",
+      "sentence_en": "The perfumed letter reminded him of their first date.",
+      "sentence_ko": "향수를 뿌린 편지가 첫 데이트를 떠올리게 했다.",
+      "tags": ["romance", "memory"]
+    },
+    {
+      "word": "Perfumed",
+      "sentence_en": "The garden party featured perfumed flowers and delicious food.",
+      "sentence_ko": "정원 파티는 향수를 뿌린 듯한 꽃들과 맛있는 음식을 선보였다.",
+      "tags": ["food", "event"]
+    },
+    {
+      "word": "Perfumed",
+      "sentence_en": "She avoided perfumed products because of her sensitive skin.",
+      "sentence_ko": "그녀는 민감한 피부 때문에 향수를 뿌린 제품을 피했다.",
+      "tags": ["health", "personal"]
+    },
+    {
+      "word": "Perfumed",
+      "sentence_en": "The perfumed air in the store attracted many customers.",
+      "sentence_ko": "가게의 향수를 뿌린 듯한 공기가 많은 고객을 끌어들였다.",
+      "tags": ["marketing", "business"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "The floral scent of the perfume reminded her of spring gardens.",
+      "sentence_ko": "향수의 꽃향기가 그녀에게 봄 정원을 떠올리게 했다.",
+      "tags": ["personal", "nature"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "The restaurant used floral arrangements to create an elegant atmosphere.",
+      "sentence_ko": "레스토랑은 우아한 분위기를 만들기 위해 꽃향기 나는 장식을 사용했다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "Her floral perfume was perfect for the summer wedding.",
+      "sentence_ko": "그녀의 꽃향기 향수는 여름 결혼식에 완벽했다.",
+      "tags": ["event", "style"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "The entrepreneur created a floral tea blend that became very popular.",
+      "sentence_ko": "그 기업가는 매우 인기 있게 된 꽃향기 나는 차 블렌드를 만들었다.",
+      "tags": ["entrepreneur", "food"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "The movie featured a garden with beautiful floral fragrances.",
+      "sentence_ko": "그 영화는 아름다운 꽃향기가 있는 정원을 선보였다.",
+      "tags": ["movie", "nature"]
+    },
+    {
+      "word": "Floral",
+      "sentence_en": "The marketing campaign emphasized the floral notes in their new product.",
+      "sentence_ko": "마케팅 캠페인은 신제품의 꽃향기 노트를 강조했다.",
+      "tags": ["marketing", "business"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "The fresh smell of rain made everyone feel energized.",
+      "sentence_ko": "비의 신선한 냄새가 모두를 활기차게 만들었다.",
+      "tags": ["nature", "mood"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "Fresh ingredients are essential for quality cooking at home.",
+      "sentence_ko": "신선한 재료는 집에서 양질의 요리에 필수적이다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "The entrepreneur started a business delivering fresh produce to families.",
+      "sentence_ko": "그 기업가는 가족들에게 신선한 농산물을 배달하는 사업을 시작했다.",
+      "tags": ["entrepreneur", "family"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "Opening the windows brought fresh air into the stuffy office.",
+      "sentence_ko": "창문을 열자 답답한 사무실에 신선한 공기가 들어왔다.",
+      "tags": ["work", "environment"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "Fresh ideas are always welcome in our marketing brainstorming sessions.",
+      "sentence_ko": "우리 마케팅 브레인스토밍 세션에서는 신선한 아이디어가 항상 환영받는다.",
+      "tags": ["marketing", "work"]
+    },
+    {
+      "word": "Fresh",
+      "sentence_en": "The fresh scent of coffee helps me focus during study sessions.",
+      "sentence_ko": "커피의 상쾌한 향이 공부 시간 동안 집중하는 데 도움이 된다.",
+      "tags": ["study", "focus"]
+    },
+    {
+      "word": "Earthy",
+      "sentence_en": "The earthy smell after rain reminded me of my family's farm.",
+      "sentence_ko": "비 온 후 흙냄새가 우리 가족 농장을 떠올리게 했다.",
+      "tags": ["family", "nature"]
+    },
+    {
+      "word": "Earthy",
+      "sentence_en": "The mushrooms had an earthy aroma that enhanced the dish.",
+      "sentence_ko": "버섯은 요리를 향상시키는 흙냄새 나는 향이 있었다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Earthy",
+      "sentence_en": "The wine had an earthy flavor that paired well with the meal.",
+      "sentence_ko": "와인은 식사와 잘 어울리는 흙냄새 나는 맛이 있었다.",
+      "tags": ["food", "dining"]
+    },
+    {
+      "word": "Earthy",
+      "sentence_en": "Essential oils with earthy scents are popular in wellness marketing.",
+      "sentence_ko": "흙냄새 나는 에센셜 오일은 웰니스 마케팅에서 인기가 있다.",
+      "tags": ["marketing", "business"]
+    },
+    {
+      "word": "Earthy",
+      "sentence_en": "The pottery studio had a pleasant earthy smell from the clay.",
+      "sentence_ko": "도자기 공방은 점토로부터 나는 기분 좋은 흙냄새가 있었다.",
+      "tags": ["art", "creative"]
+    },
+    {
+      "word": "Musky",
+      "sentence_en": "The perfume had a musky base note that lasted all day.",
+      "sentence_ko": "향수는 하루 종일 지속되는 사향 냄새의 베이스 노트가 있었다.",
+      "tags": ["personal", "style"]
+    },
+    {
+      "word": "Musky",
+      "sentence_en": "The old library had a musky smell from ancient books.",
+      "sentence_ko": "오래된 도서관은 고서들로부터 나는 사향 냄새가 있었다.",
+      "tags": ["education", "study"]
+    },
+    {
+      "word": "Musky",
+      "sentence_en": "His cologne had a musky scent that many people found appealing.",
+      "sentence_ko": "그의 향수는 많은 사람들이 매력적이라고 생각하는 사향 냄새가 있었다.",
+      "tags": ["personal", "attraction"]
+    },
+    {
+      "word": "Musky",
+      "sentence_en": "The entrepreneur developed a musky fragrance line for men.",
+      "sentence_ko": "그 기업가는 남성을 위한 사향 향수 라인을 개발했다.",
+      "tags": ["entrepreneur", "business"]
+    },
+    {
+      "word": "Musky",
+      "sentence_en": "The basement had a musky odor from being closed for months.",
+      "sentence_ko": "지하실은 몇 달간 닫혀 있어서 사향 냄새가 났다.",
+      "tags": ["home", "maintenance"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "The barbecue gave the food a delicious smoky flavor.",
+      "sentence_ko": "바비큐가 음식에 맛있는 연기 맛을 줬다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "The movie scene was filled with smoky atmosphere and tension.",
+      "sentence_ko": "영화 장면은 연기 나는 분위기와 긴장감으로 가득했다.",
+      "tags": ["movie", "atmosphere"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "The whiskey had a smoky taste that reminded him of campfires.",
+      "sentence_ko": "위스키는 캠프파이어를 떠올리게 하는 연기 맛이 있었다.",
+      "tags": ["food", "experience"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "Her perfume had subtle smoky notes mixed with vanilla.",
+      "sentence_ko": "그녀의 향수는 바닐라와 섞인 은은한 연기 향이 있었다.",
+      "tags": ["personal", "scent"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "The restaurant's marketing emphasized its smoky grilled specialties.",
+      "sentence_ko": "레스토랑의 마케팅은 연기 나는 그릴 특선 요리를 강조했다.",
+      "tags": ["marketing", "food"]
+    },
+    {
+      "word": "Smoky",
+      "sentence_en": "The family gathered around the smoky fireplace during winter.",
+      "sentence_ko": "겨울 동안 가족들은 연기 나는 벽난로 주변에 모였다.",
+      "tags": ["family", "warmth"]
+    },
+    {
+      "word": "Stinking",
+      "sentence_en": "The stinking garbage needs to be taken out immediately.",
+      "sentence_ko": "악취가 나는 쓰레기를 즉시 내다 버려야 해.",
+      "tags": ["home", "hygiene"]
+    },
+    {
+      "word": "Stinking",
+      "sentence_en": "The stinking fish market was overwhelming on a hot summer day.",
+      "sentence_ko": "악취가 진동하는 생선 시장은 더운 여름날 압도적이었다.",
+      "tags": ["food", "unpleasant"]
+    },
+    {
+      "word": "Stinking",
+      "sentence_en": "His stinking attitude ruined the whole family dinner.",
+      "sentence_ko": "그의 고약한 태도가 가족 저녁 식사를 망쳤다.",
+      "tags": ["family", "conflict"]
+    },
+    {
+      "word": "Stinking",
+      "sentence_en": "The stinking socks were left in the gym bag for weeks.",
+      "sentence_ko": "악취가 나는 양말이 체육관 가방에 몇 주 동안 방치됐다.",
+      "tags": ["personal", "hygiene"]
+    },
+    {
+      "word": "Stinking",
+      "sentence_en": "We found a stinking mess in the office refrigerator.",
+      "sentence_ko": "우리는 사무실 냉장고에서 악취가 나는 엉망진창을 발견했다.",
+      "tags": ["work", "unpleasant"]
+    },
+    {
+      "word": "Foul",
+      "sentence_en": "The foul smell from the drain made everyone leave the room.",
+      "sentence_ko": "배수구에서 나는 고약한 냄새가 모두를 방에서 나가게 만들었다.",
+      "tags": ["home", "problem"]
+    },
+    {
+      "word": "Foul",
+      "sentence_en": "The restaurant was closed due to foul odors from the kitchen.",
+      "sentence_ko": "레스토랑은 주방에서 나는 더러운 냄새 때문에 문을 닫았다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Foul",
+      "sentence_en": "His foul language during the meeting was completely inappropriate.",
+      "sentence_ko": "회의 중 그의 더러운 언어는 완전히 부적절했다.",
+      "tags": ["work", "behavior"]
+    },
+    {
+      "word": "Foul",
+      "sentence_en": "The foul air in the factory affected workers' health badly.",
+      "sentence_ko": "공장의 더러운 공기가 근로자들의 건강에 나쁜 영향을 미쳤다.",
+      "tags": ["work", "health"]
+    },
+    {
+      "word": "Foul",
+      "sentence_en": "The movie depicted the foul conditions in the abandoned building.",
+      "sentence_ko": "영화는 버려진 건물의 고약한 상태를 묘사했다.",
+      "tags": ["movie", "atmosphere"]
+    },
+    {
+      "word": "Fetid",
+      "sentence_en": "The fetid water in the pond indicated serious pollution problems.",
+      "sentence_ko": "연못의 극도로 악취가 나는 물은 심각한 오염 문제를 나타냈다.",
+      "tags": ["environment", "problem"]
+    },
+    {
+      "word": "Fetid",
+      "sentence_en": "The fetid smell of decay filled the abandoned warehouse.",
+      "sentence_ko": "버려진 창고는 부패의 극도로 악취가 나는 냄새로 가득했다.",
+      "tags": ["environment", "decay"]
+    },
+    {
+      "word": "Fetid",
+      "sentence_en": "Workers complained about the fetid air near the waste processing plant.",
+      "sentence_ko": "근로자들은 폐기물 처리 공장 근처의 극도로 악취가 나는 공기에 대해 불평했다.",
+      "tags": ["work", "health"]
+    },
+    {
+      "word": "Fetid",
+      "sentence_en": "The fetid conditions in the storage room violated health regulations.",
+      "sentence_ko": "창고의 극도로 악취가 나는 상태는 보건 규정을 위반했다.",
+      "tags": ["work", "regulation"]
+    },
+    {
+      "word": "Fetid",
+      "sentence_en": "The movie's horror scene featured a fetid swamp atmosphere.",
+      "sentence_ko": "영화의 공포 장면은 극도로 악취가 나는 늪 분위기를 선보였다.",
+      "tags": ["movie", "horror"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "The old books in the library had a musty smell.",
+      "sentence_ko": "도서관의 오래된 책들은 곰팡내가 났다.",
+      "tags": ["education", "study"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "The musty basement needed proper ventilation and cleaning.",
+      "sentence_ko": "퀴퀴한 지하실은 적절한 환기와 청소가 필요했다.",
+      "tags": ["home", "maintenance"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "His old clothes had a musty odor from being stored too long.",
+      "sentence_ko": "그의 오래된 옷은 너무 오래 보관돼서 곰팡내가 났다.",
+      "tags": ["personal", "storage"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "The antique shop had a characteristic musty atmosphere.",
+      "sentence_ko": "골동품 가게는 특징적인 곰팡내 나는 분위기가 있었다.",
+      "tags": ["business", "atmosphere"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "The movie set was designed to look musty and abandoned.",
+      "sentence_ko": "영화 세트는 곰팡내 나고 버려진 것처럼 보이도록 디자인됐다.",
+      "tags": ["movie", "design"]
+    },
+    {
+      "word": "Musty",
+      "sentence_en": "We opened all windows to air out the musty room.",
+      "sentence_ko": "우리는 퀴퀴한 방을 환기시키기 위해 모든 창문을 열었다.",
+      "tags": ["home", "cleaning"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The rancid butter had to be thrown away immediately.",
+      "sentence_ko": "쩐내가 나는 버터는 즉시 버려야 했다.",
+      "tags": ["food", "waste"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The restaurant failed its health inspection due to rancid cooking oil.",
+      "sentence_ko": "레스토랑은 쩐내가 나는 식용유 때문에 보건 검사를 통과하지 못했다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The rancid smell from the refrigerator indicated old food inside.",
+      "sentence_ko": "냉장고에서 나는 쩐내는 안에 오래된 음식이 있음을 나타냈다.",
+      "tags": ["home", "food"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "Using rancid ingredients can ruin even the best recipes.",
+      "sentence_ko": "쩐내가 나는 재료를 사용하면 최고의 레시피도 망칠 수 있다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Rancid",
+      "sentence_en": "The family learned to check for rancid smells before cooking.",
+      "sentence_ko": "가족들은 요리하기 전에 쩐내를 확인하는 법을 배웠다.",
+      "tags": ["family", "food"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The pungent smell of garlic filled the entire kitchen.",
+      "sentence_ko": "마늘의 코를 찌르는 냄새가 부엌 전체를 채웠다.",
+      "tags": ["food", "cooking"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The pungent aroma of kimchi is beloved by many families.",
+      "sentence_ko": "김치의 코를 찌르는 향은 많은 가족들에게 사랑받는다.",
+      "tags": ["food", "family"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The cheese had a pungent odor that divided opinions among diners.",
+      "sentence_ko": "치즈는 식사하는 사람들 사이에서 의견이 나뉘는 코를 찌르는 냄새가 있었다.",
+      "tags": ["food", "taste"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The marketing campaign emphasized the pungent flavor of their hot sauce.",
+      "sentence_ko": "마케팅 캠페인은 그들의 핫소스의 코를 찌르는 맛을 강조했다.",
+      "tags": ["marketing", "food"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "His pungent criticism during the work meeting offended many people.",
+      "sentence_ko": "업무 회의 중 그의 날카로운 비판이 많은 사람들을 불쾌하게 했다.",
+      "tags": ["work", "communication"]
+    },
+    {
+      "word": "Pungent",
+      "sentence_en": "The entrepreneur created a pungent spice blend that became popular.",
+      "sentence_ko": "그 기업가는 인기를 끈 코를 찌르는 향신료 블렌드를 만들었다.",
+      "tags": ["entrepreneur", "food"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The acrid smoke from the fire made breathing difficult.",
+      "sentence_ko": "화재의 매캐한 연기가 숨쉬기를 어렵게 만들었다.",
+      "tags": ["emergency", "danger"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The acrid smell of burnt food filled the family kitchen.",
+      "sentence_ko": "탄 음식의 매캐한 냄새가 가족 주방을 채웠다.",
+      "tags": ["family", "food"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The movie scene featured acrid smoke and dramatic tension.",
+      "sentence_ko": "영화 장면은 매캐한 연기와 극적인 긴장감을 선보였다.",
+      "tags": ["movie", "drama"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "His acrid comments left a bitter taste in everyone's mouth.",
+      "sentence_ko": "그의 신랄한 코멘트가 모두의 입에 쓴맛을 남겼다.",
+      "tags": ["work", "conflict"]
+    },
+    {
+      "word": "Acrid",
+      "sentence_en": "The acrid fumes from the chemistry lab required better ventilation.",
+      "sentence_ko": "화학 실험실의 매캐한 연기는 더 나은 환기를 필요로 했다.",
+      "tags": ["education", "safety"]
+    },
+    {
+      "word": "Malodorous",
+      "sentence_en": "The malodorous waste disposal site needed immediate attention.",
+      "sentence_ko": "악취가 나는 폐기물 처리장은 즉각적인 조치가 필요했다.",
+      "tags": ["environment", "problem"]
+    },
+    {
+      "word": "Malodorous",
+      "sentence_en": "Health inspectors closed the malodorous restaurant temporarily.",
+      "sentence_ko": "보건 검사관들이 악취가 나는 레스토랑을 임시로 폐쇄했다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Malodorous",
+      "sentence_en": "The malodorous condition of the workplace violated safety regulations.",
+      "sentence_ko": "직장의 악취가 나는 상태는 안전 규정을 위반했다.",
+      "tags": ["work", "regulation"]
+    },
+    {
+      "word": "Malodorous",
+      "sentence_en": "The entrepreneur developed a product to eliminate malodorous odors.",
+      "sentence_ko": "그 기업가는 악취가 나는 냄새를 제거하는 제품을 개발했다.",
+      "tags": ["entrepreneur", "innovation"]
+    },
+    {
+      "word": "Malodorous",
+      "sentence_en": "The family complained about the malodorous air near the factory.",
+      "sentence_ko": "가족들은 공장 근처의 악취가 나는 공기에 대해 불평했다.",
+      "tags": ["family", "environment"]
+    },
+    {
+      "word": "Noxious",
+      "sentence_en": "The noxious fumes from the factory affected nearby residents' health.",
+      "sentence_ko": "공장의 유독한 연기가 인근 주민들의 건강에 영향을 미쳤다.",
+      "tags": ["environment", "health"]
+    },
+    {
+      "word": "Noxious",
+      "sentence_en": "Workers wore masks to protect themselves from noxious chemicals.",
+      "sentence_ko": "근로자들은 유독한 화학물질로부터 자신을 보호하기 위해 마스크를 착용했다.",
+      "tags": ["work", "safety"]
+    },
+    {
+      "word": "Noxious",
+      "sentence_en": "The noxious gases required evacuation of the entire building.",
+      "sentence_ko": "유독 가스 때문에 건물 전체를 대피시켜야 했다.",
+      "tags": ["emergency", "safety"]
+    },
+    {
+      "word": "Noxious",
+      "sentence_en": "The movie depicted noxious pollution destroying the environment.",
+      "sentence_ko": "영화는 환경을 파괴하는 유독한 오염을 묘사했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Noxious",
+      "sentence_en": "Education about noxious substances is crucial for workplace safety.",
+      "sentence_ko": "유독 물질에 대한 교육은 직장 안전에 필수적이다.",
+      "tags": ["education", "work"]
+    },
+    {
+      "word": "Overpowering",
+      "sentence_en": "Her overpowering perfume made everyone in the room uncomfortable.",
+      "sentence_ko": "그녀의 압도적인 향수가 방 안의 모두를 불편하게 만들었다.",
+      "tags": ["personal", "social"]
+    },
+    {
+      "word": "Overpowering",
+      "sentence_en": "The overpowering smell of cleaning products gave me a headache.",
+      "sentence_ko": "청소 용품의 압도적인 냄새가 두통을 줬다.",
+      "tags": ["home", "health"]
+    },
+    {
+      "word": "Overpowering",
+      "sentence_en": "The restaurant's overpowering garlic aroma affected the whole street.",
+      "sentence_ko": "레스토랑의 압도적인 마늘 향이 거리 전체에 영향을 미쳤다.",
+      "tags": ["food", "business"]
+    },
+    {
+      "word": "Overpowering",
+      "sentence_en": "The marketing campaign's overpowering message turned customers away.",
+      "sentence_ko": "마케팅 캠페인의 압도적인 메시지가 고객들을 돌아서게 만들었다.",
+      "tags": ["marketing", "strategy"]
+    },
+    {
+      "word": "Overpowering",
+      "sentence_en": "The overpowering scent in the store made shopping unpleasant.",
+      "sentence_ko": "가게의 압도적인 향기가 쇼핑을 불쾌하게 만들었다.",
+      "tags": ["business", "customer"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The bread became stale after being left out overnight.",
+      "sentence_ko": "빵은 밤새 밖에 두었더니 케케묵게 됐다.",
+      "tags": ["food", "waste"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The room smelled stale from being closed for months.",
+      "sentence_ko": "방은 몇 달간 닫혀 있어서 케케묵은 냄새가 났다.",
+      "tags": ["home", "maintenance"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The marketing ideas felt stale and needed fresh creativity.",
+      "sentence_ko": "마케팅 아이디어가 케케묵게 느껴져서 신선한 창의성이 필요했다.",
+      "tags": ["marketing", "innovation"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The entrepreneur avoided stale business strategies from the past.",
+      "sentence_ko": "그 기업가는 과거의 케케묵은 비즈니스 전략을 피했다.",
+      "tags": ["entrepreneur", "planning"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "The movie's plot felt stale and predictable to critics.",
+      "sentence_ko": "영화의 줄거리는 비평가들에게 케케묵고 예측 가능하게 느껴졌다.",
+      "tags": ["movie", "criticism"]
+    },
+    {
+      "word": "Stale",
+      "sentence_en": "Family gatherings help prevent relationships from becoming stale.",
+      "sentence_ko": "가족 모임은 관계가 케케묵게 되는 것을 방지하는 데 도움이 된다.",
+      "tags": ["family", "relationship"]
+    }
+  ]
+}

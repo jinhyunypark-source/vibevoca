@@ -1,0 +1,713 @@
+{
+  "deck_title": "LOW_DIFFICULTY_EASE",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Easy",
+      "sentence_en": "Finding a parking spot at the shopping mall was surprisingly easy today.",
+      "sentence_ko": "오늘 쇼핑몰에서 주차 공간을 찾는 것은 놀라울 정도로 쉬웠습니다.",
+      "tags": ["shopping", "place", "driving", "convenience", "time"]
+    },
+    {
+      "word": "Easy",
+      "sentence_en": "The teacher made the math lesson easy for everyone to understand.",
+      "sentence_ko": "선생님은 수학 수업을 모두가 이해하기 쉽게 진행했습니다.",
+      "tags": ["education", "school", "learning", "math", "teacher"]
+    },
+    {
+      "word": "Easy",
+      "sentence_en": "It is easy to find a nice place for a picnic in this park.",
+      "sentence_ko": "이 공원에서는 소풍 가기 좋은 장소를 찾기가 쉽습니다.",
+      "tags": ["place", "outdoor", "environment", "nature", "picnic"]
+    },
+    {
+      "word": "Easy",
+      "sentence_en": "Planning a trip with this app is easy and stress-free.",
+      "sentence_ko": "이 앱으로 여행을 계획하는 것은 쉽고 스트레스가 없습니다.",
+      "tags": ["planning", "travel", "technology", "app", "convenience"]
+    },
+    {
+      "word": "Easy",
+      "sentence_en": "He has an easy style that makes everyone feel comfortable around him.",
+      "sentence_ko": "그는 주변 사람들을 편안하게 만드는 수더분한 스타일을 가지고 있습니다.",
+      "tags": ["style", "social", "relationship", "personality", "comfort"]
+    },
+    {
+      "word": "Facile",
+      "sentence_en": "The movie's plot was too facile and lacked any real depth.",
+      "sentence_ko": "그 영화의 줄거리는 너무 단순해서 진정한 깊이가 부족했습니다.",
+      "tags": ["movie", "entertainment", "story", "review", "criticism"]
+    },
+    {
+      "word": "Facile",
+      "sentence_en": "He offered a facile solution to the complex environmental problem.",
+      "sentence_ko": "그는 복잡한 환경 문제에 대해 경솔하고 손쉬운 해결책을 내놓았습니다.",
+      "tags": ["environment", "planning", "problem", "solution", "science"]
+    },
+    {
+      "word": "Facile",
+      "sentence_en": "Her facile victory in the soccer match surprised the opposing team.",
+      "sentence_ko": "축구 경기에서의 그녀의 손쉬운 승리는 상대 팀을 놀라게 했습니다.",
+      "tags": ["soccer", "sport", "competition", "victory", "surprise"]
+    },
+    {
+      "word": "Facile",
+      "sentence_en": "Avoid making facile generalizations about the education system.",
+      "sentence_ko": "교육 시스템에 대해 지나치게 단순한 일반화를 하는 것은 피하세요.",
+      "tags": ["education", "school", "thought", "opinion", "society"]
+    },
+    {
+      "word": "Facile",
+      "sentence_en": "The explanation seemed facile, ignoring the difficult reality of the situation.",
+      "sentence_ko": "그 설명은 상황의 어려운 현실을 무시한 채 너무 안이해 보였습니다.",
+      "tags": ["planning", "reality", "problem", "analysis", "thought"]
+    },
+    {
+      "word": "Cinch",
+      "sentence_en": "With this new tool, planning your weekly schedule is a cinch.",
+      "sentence_ko": "이 새로운 도구를 사용하면 주간 일정을 짜는 것은 식은 죽 먹기입니다.",
+      "tags": ["planning", "schedule", "time", "organization", "convenience"]
+    },
+    {
+      "word": "Cinch",
+      "sentence_en": "Setting up the tent in the outdoor campsite was a cinch.",
+      "sentence_ko": "야외 캠핑장에 텐트를 설치하는 것은 아주 쉬운 일이었습니다.",
+      "tags": ["outdoor", "camping", "environment", "nature", "travel"]
+    },
+    {
+      "word": "Cinch",
+      "sentence_en": "Passing the elementary level test was a cinch for him.",
+      "sentence_ko": "초급 레벨 테스트를 통과하는 것은 그에게 누워서 떡 먹기였습니다.",
+      "tags": ["education", "school", "test", "learning", "success"]
+    },
+    {
+      "word": "Cinch",
+      "sentence_en": "Buying groceries online is a cinch compared to going to the store.",
+      "sentence_ko": "가게에 가는 것에 비하면 온라인으로 장을 보는 건 정말 쉽습니다.",
+      "tags": ["shopping", "food", "convenience", "home", "technology"]
+    },
+    {
+      "word": "Cinch",
+      "sentence_en": "Scoring a goal from that distance is a cinch for the pro player.",
+      "sentence_ko": "그 거리에서 골을 넣는 것은 프로 선수에게는 아주 쉬운 일입니다.",
+      "tags": ["soccer", "sport", "skill", "talent", "game"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "She prefers a simple style of dress suitable for outdoor activities.",
+      "sentence_ko": "그녀는 야외 활동에 적합한 단순한 스타일의 옷을 선호합니다.",
+      "tags": ["style", "outdoor", "fashion", "clothing", "activity"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "The rules of this soccer game are simple enough for kids.",
+      "sentence_ko": "이 축구 게임의 규칙은 아이들이 이해하기에 충분히 간단합니다.",
+      "tags": ["soccer", "sport", "game", "kids", "education"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "We need a simple plan to improve the school environment.",
+      "sentence_ko": "우리는 학교 환경을 개선하기 위한 간단한 계획이 필요합니다.",
+      "tags": ["school", "environment", "planning", "improvement", "idea"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "Making a reservation at this place is a simple process.",
+      "sentence_ko": "이 장소를 예약하는 것은 간단한 과정입니다.",
+      "tags": ["place", "reservation", "service", "convenience", "planning"]
+    },
+    {
+      "word": "Simple",
+      "sentence_en": "I enjoy simple movies that don't require too much thinking.",
+      "sentence_ko": "저는 너무 깊은 생각을 요구하지 않는 단순한 영화를 즐깁니다.",
+      "tags": ["movie", "entertainment", "hobby", "relaxation", "thought"]
+    },
+    {
+      "word": "Effortless",
+      "sentence_en": "The soccer player made scoring the goal look completely effortless.",
+      "sentence_ko": "그 축구 선수는 골을 넣는 것을 완전히 힘 안 들이는 것처럼 보이게 했습니다.",
+      "tags": ["soccer", "sport", "skill", "talent", "action"]
+    },
+    {
+      "word": "Effortless",
+      "sentence_en": "Her effortless style always attracts attention at the shopping mall.",
+      "sentence_ko": "그녀의 꾸민 듯 안 꾸민 듯한 스타일은 쇼핑몰에서 항상 시선을 끕니다.",
+      "tags": ["style", "shopping", "fashion", "attention", "beauty"]
+    },
+    {
+      "word": "Effortless",
+      "sentence_en": "Digital tools make planning your day almost effortless.",
+      "sentence_ko": "디지털 도구들은 하루 계획을 짜는 것을 거의 힘이 안 들게 만들어줍니다.",
+      "tags": ["planning", "technology", "time", "convenience", "tool"]
+    },
+    {
+      "word": "Effortless",
+      "sentence_en": "Breathing fresh air in this outdoor environment feels effortless.",
+      "sentence_ko": "이 야외 환경에서 신선한 공기를 마시는 것은 무척 편안하게 느껴집니다.",
+      "tags": ["outdoor", "environment", "health", "breathing", "nature"]
+    },
+    {
+      "word": "Effortless",
+      "sentence_en": "The transition to the new school system was effortless for the students.",
+      "sentence_ko": "새로운 학교 시스템으로의 전환은 학생들에게 아주 수월했습니다.",
+      "tags": ["school", "education", "system", "change", "student"]
+    },
+    {
+      "word": "Smooth",
+      "sentence_en": "The planning for the event ensured a smooth experience for everyone.",
+      "sentence_ko": "행사를 위한 계획 덕분에 모두가 순조로운 경험을 할 수 있었습니다.",
+      "tags": ["planning", "event", "experience", "success", "organization"]
+    },
+    {
+      "word": "Smooth",
+      "sentence_en": "He has a smooth style of playing soccer that is nice to watch.",
+      "sentence_ko": "그는 보기에 좋은 매끄러운 축구 스타일을 가지고 있습니다.",
+      "tags": ["soccer", "sport", "style", "skill", "entertainment"]
+    },
+    {
+      "word": "Smooth",
+      "sentence_en": "The road to the camping place was smooth and paved.",
+      "sentence_ko": "캠핑 장소로 가는 길은 평탄하고 포장되어 있었습니다.",
+      "tags": ["place", "outdoor", "driving", "road", "travel"]
+    },
+    {
+      "word": "Smooth",
+      "sentence_en": "Online shopping was smooth thanks to the fast internet connection.",
+      "sentence_ko": "빠른 인터넷 연결 덕분에 온라인 쇼핑이 원활했습니다.",
+      "tags": ["shopping", "internet", "technology", "convenience", "speed"]
+    },
+    {
+      "word": "Smooth",
+      "sentence_en": "Her presentation at school was smooth and well-rehearsed.",
+      "sentence_ko": "학교에서 그녀의 발표는 매끄러웠고 연습이 잘 되어 있었습니다.",
+      "tags": ["school", "education", "presentation", "skill", "success"]
+    },
+    {
+      "word": "Painless",
+      "sentence_en": "The admission process for the school was quick and painless.",
+      "sentence_ko": "학교 입학 절차는 빠르고 수월했습니다.",
+      "tags": ["school", "education", "process", "admin", "time"]
+    },
+    {
+      "word": "Painless",
+      "sentence_en": "Returning items at this shopping center is completely painless.",
+      "sentence_ko": "이 쇼핑센터에서 물건을 반품하는 것은 아주 수월합니다.",
+      "tags": ["shopping", "service", "customer", "convenience", "place"]
+    },
+    {
+      "word": "Painless",
+      "sentence_en": "Switching to an eco-friendly environment can be relatively painless.",
+      "sentence_ko": "친환경적인 환경으로 전환하는 것은 비교적 고통 없이 할 수 있습니다.",
+      "tags": ["environment", "change", "nature", "lifestyle", "planning"]
+    },
+    {
+      "word": "Painless",
+      "sentence_en": "Learning the basics of soccer is a painless experience.",
+      "sentence_ko": "축구의 기초를 배우는 것은 힘들이지 않고 할 수 있는 경험입니다.",
+      "tags": ["soccer", "sport", "education", "learning", "fun"]
+    },
+    {
+      "word": "Painless",
+      "sentence_en": "Downloading the movie was a painless task with high-speed wifi.",
+      "sentence_ko": "고속 와이파이 덕분에 영화를 다운로드하는 것은 아주 쉬운 일이었습니다.",
+      "tags": ["movie", "technology", "internet", "convenience", "home"]
+    },
+    {
+      "word": "Manageable",
+      "sentence_en": "Breaking the project into small parts makes the planning manageable.",
+      "sentence_ko": "프로젝트를 작은 부분으로 나누면 계획을 감당하기 쉬워집니다.",
+      "tags": ["planning", "work", "organization", "strategy", "success"]
+    },
+    {
+      "word": "Manageable",
+      "sentence_en": "The hiking trail is manageable even for beginners in outdoor sports.",
+      "sentence_ko": "그 등산로는 야외 스포츠 초보자들도 감당할 수 있는 수준입니다.",
+      "tags": ["outdoor", "sport", "hiking", "nature", "health"]
+    },
+    {
+      "word": "Manageable",
+      "sentence_en": "The amount of homework from school is manageable this week.",
+      "sentence_ko": "이번 주 학교 숙제 양은 감당할 만합니다.",
+      "tags": ["school", "education", "homework", "student", "time"]
+    },
+    {
+      "word": "Manageable",
+      "sentence_en": "Keeping your room style manageable requires regular cleaning.",
+      "sentence_ko": "방 스타일을 관리하기 쉽게 유지하려면 정기적인 청소가 필요합니다.",
+      "tags": ["style", "home", "cleaning", "living", "habit"]
+    },
+    {
+      "word": "Manageable",
+      "sentence_en": "The crowd at the shopping mall was manageable on a weekday.",
+      "sentence_ko": "평일이라 쇼핑몰의 인파는 감당할 만한 수준이었습니다.",
+      "tags": ["shopping", "place", "crowd", "time", "people"]
+    },
+    {
+      "word": "Doable",
+      "sentence_en": "Completing the soccer training is doable if you stay focused.",
+      "sentence_ko": "집중력을 유지한다면 축구 훈련을 완수하는 것은 할 만합니다.",
+      "tags": ["soccer", "sport", "training", "focus", "effort"]
+    },
+    {
+      "word": "Doable",
+      "sentence_en": "The deadline for the school project seems doable.",
+      "sentence_ko": "학교 프로젝트의 마감 기한은 지킬 수 있을 것 같습니다.",
+      "tags": ["school", "education", "project", "time", "planning"]
+    },
+    {
+      "word": "Doable",
+      "sentence_en": "Creating a sustainable environment at home is definitely doable.",
+      "sentence_ko": "집에서 지속 가능한 환경을 조성하는 것은 분명 실천 가능한 일입니다.",
+      "tags": ["environment", "home", "lifestyle", "sustainability", "action"]
+    },
+    {
+      "word": "Doable",
+      "sentence_en": "Watching three movies in one day is doable for a fan.",
+      "sentence_ko": "하루에 영화 세 편을 보는 것은 팬이라면 할 만한 일입니다.",
+      "tags": ["movie", "entertainment", "hobby", "time", "fan"]
+    },
+    {
+      "word": "Doable",
+      "sentence_en": "Buying a house in this place is doable with proper planning.",
+      "sentence_ko": "적절한 계획만 있다면 이 지역에 집을 사는 것은 가능합니다.",
+      "tags": ["place", "planning", "home", "money", "future"]
+    },
+    {
+      "word": "Breezy",
+      "sentence_en": "The exam was breezy because I studied hard at school.",
+      "sentence_ko": "학교에서 열심히 공부했기 때문에 시험은 식은 죽 먹기였습니다.",
+      "tags": ["school", "education", "exam", "success", "study"]
+    },
+    {
+      "word": "Breezy",
+      "sentence_en": "She wore a breezy outfit suitable for the warm outdoor weather.",
+      "sentence_ko": "그녀는 따뜻한 야외 날씨에 어울리는 시원하고 편한 옷을 입었습니다.",
+      "tags": ["style", "outdoor", "fashion", "weather", "clothing"]
+    },
+    {
+      "word": "Breezy",
+      "sentence_en": "The romantic comedy movie had a light and breezy tone.",
+      "sentence_ko": "그 로맨틱 코미디 영화는 가볍고 경쾌한 분위기였습니다.",
+      "tags": ["movie", "entertainment", "mood", "genre", "fun"]
+    },
+    {
+      "word": "Breezy",
+      "sentence_en": "Communication with the planning team was breezy and efficient.",
+      "sentence_ko": "기획팀과의 소통은 시원시원하고 효율적이었습니다.",
+      "tags": ["planning", "work", "communication", "team", "business"]
+    },
+    {
+      "word": "Breezy",
+      "sentence_en": "Shopping here is breezy because the aisles are wide.",
+      "sentence_ko": "이곳은 통로가 넓어서 쇼핑하기가 아주 쾌적합니다.",
+      "tags": ["shopping", "place", "convenience", "comfort", "store"]
+    },
+    {
+      "word": "Light",
+      "sentence_en": "We enjoyed a light lunch at a place near the office.",
+      "sentence_ko": "우리는 사무실 근처 장소에서 가벼운 점심을 즐겼습니다.",
+      "tags": ["place", "food", "lunch", "work", "break"]
+    },
+    {
+      "word": "Light",
+      "sentence_en": "This movie is a light comedy perfect for the weekend.",
+      "sentence_ko": "이 영화는 주말에 보기에 딱 좋은 가벼운 코미디입니다.",
+      "tags": ["movie", "entertainment", "weekend", "relaxation", "genre"]
+    },
+    {
+      "word": "Light",
+      "sentence_en": "Wear light clothing for soccer practice in the summer.",
+      "sentence_ko": "여름철 축구 연습 때는 가벼운 옷을 입으세요.",
+      "tags": ["soccer", "sport", "clothing", "summer", "outdoor"]
+    },
+    {
+      "word": "Light",
+      "sentence_en": "The homework load from school was unusually light today.",
+      "sentence_ko": "오늘 학교 숙제 분량이 평소와 다르게 적었습니다(가벼웠습니다).",
+      "tags": ["school", "education", "homework", "student", "time"]
+    },
+    {
+      "word": "Light",
+      "sentence_en": "Keep the planning light so we can be flexible.",
+      "sentence_ko": "우리가 유동적으로 움직일 수 있도록 계획을 가볍게 잡으세요.",
+      "tags": ["planning", "travel", "flexibility", "schedule", "trip"]
+    },
+    {
+      "word": "Undemanding",
+      "sentence_en": "This plant is undemanding and fits any environment.",
+      "sentence_ko": "이 식물은 손이 많이 가지 않아서 어떤 환경에도 잘 어울립니다.",
+      "tags": ["environment", "nature", "home", "gardening", "easy"]
+    },
+    {
+      "word": "Undemanding",
+      "sentence_en": "I prefer undemanding tasks when I am tired after school.",
+      "sentence_ko": "방과 후 피곤할 때는 부담 없는 일을 선호합니다.",
+      "tags": ["school", "tired", "relaxation", "work", "preference"]
+    },
+    {
+      "word": "Undemanding",
+      "sentence_en": "It was an undemanding movie that helped me relax.",
+      "sentence_ko": "그것은 내가 긴장을 푸는 데 도움을 준 편안한(요구하는 게 없는) 영화였습니다.",
+      "tags": ["movie", "entertainment", "relaxation", "mood", "rest"]
+    },
+    {
+      "word": "Undemanding",
+      "sentence_en": "The trail offered an undemanding walk through the outdoor woods.",
+      "sentence_ko": "그 산책로는 야외 숲을 통과하는 편안한 코스를 제공했습니다.",
+      "tags": ["outdoor", "nature", "walking", "health", "leisure"]
+    },
+    {
+      "word": "Undemanding",
+      "sentence_en": "Her style of leadership is undemanding but effective.",
+      "sentence_ko": "그녀의 리더십 스타일은 강압적이지 않으면서도 효과적입니다.",
+      "tags": ["style", "work", "leadership", "people", "management"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "The instructions for building the furniture were straightforward.",
+      "sentence_ko": "가구 조립 설명서는 아주 간단명료했습니다.",
+      "tags": ["shopping", "home", "furniture", "instruction", "manual"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "He gave a straightforward answer about the project planning.",
+      "sentence_ko": "그는 프로젝트 계획에 대해 솔직하고 간단한 답변을 했습니다.",
+      "tags": ["planning", "work", "communication", "business", "meeting"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "Soccer rules are straightforward and easy to learn.",
+      "sentence_ko": "축구 규칙은 복잡하지 않고 배우기 쉽습니다.",
+      "tags": ["soccer", "sport", "learning", "rules", "game"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "This textbook provides a straightforward explanation of science.",
+      "sentence_ko": "이 교과서는 과학에 대해 이해하기 쉬운 설명을 제공합니다.",
+      "tags": ["school", "education", "science", "book", "learning"]
+    },
+    {
+      "word": "Straightforward",
+      "sentence_en": "Finding the place was straightforward with the GPS.",
+      "sentence_ko": "GPS 덕분에 그 장소를 찾는 것은 아주 수월했습니다.",
+      "tags": ["place", "navigation", "technology", "travel", "driving"]
+    },
+    {
+      "word": "User-friendly",
+      "sentence_en": "The school website is very user-friendly for parents.",
+      "sentence_ko": "학교 웹사이트는 학부모들이 사용하기에 매우 편리합니다.",
+      "tags": ["school", "education", "technology", "website", "internet"]
+    },
+    {
+      "word": "User-friendly",
+      "sentence_en": "This planning app is user-friendly and helps organize tasks.",
+      "sentence_ko": "이 계획 앱은 사용자 친화적이어서 업무 정리를 도와줍니다.",
+      "tags": ["planning", "app", "technology", "organization", "work"]
+    },
+    {
+      "word": "User-friendly",
+      "sentence_en": "The ticket machine at the movie theater is user-friendly.",
+      "sentence_ko": "영화관의 티켓 발권기는 사용하기 쉽습니다.",
+      "tags": ["movie", "place", "technology", "service", "convenience"]
+    },
+    {
+      "word": "User-friendly",
+      "sentence_en": "We bought a user-friendly camera for our outdoor trips.",
+      "sentence_ko": "우리는 야외 여행을 위해 사용하기 쉬운 카메라를 샀습니다.",
+      "tags": ["outdoor", "shopping", "technology", "hobby", "photography"]
+    },
+    {
+      "word": "User-friendly",
+      "sentence_en": "Modern cars have user-friendly environments for drivers.",
+      "sentence_ko": "현대 자동차들은 운전자들을 위한 사용자 친화적인 환경을 갖추고 있습니다.",
+      "tags": ["environment", "driving", "car", "technology", "comfort"]
+    },
+    {
+      "word": "Snap",
+      "sentence_en": "Changing the battery in this device is a snap.",
+      "sentence_ko": "이 기기의 배터리를 교체하는 것은 식은 죽 먹기입니다.",
+      "tags": ["technology", "shopping", "gadget", "maintenance", "easy"]
+    },
+    {
+      "word": "Snap",
+      "sentence_en": "Making a reservation at the place was a snap online.",
+      "sentence_ko": "온라인으로 그 장소를 예약하는 것은 아주 쉬운 일이었습니다.",
+      "tags": ["place", "internet", "reservation", "planning", "service"]
+    },
+    {
+      "word": "Snap",
+      "sentence_en": "The quiz at school was a snap for the prepared students.",
+      "sentence_ko": "학교 퀴즈는 준비된 학생들에게는 아주 쉬웠습니다.",
+      "tags": ["school", "education", "test", "student", "success"]
+    },
+    {
+      "word": "Snap",
+      "sentence_en": "Deciding on the dinner menu was a snap today.",
+      "sentence_ko": "오늘 저녁 메뉴를 결정하는 것은 아주 간단했습니다.",
+      "tags": ["food", "planning", "decision", "home", "dinner"]
+    },
+    {
+      "word": "Snap",
+      "sentence_en": "Updating your profile style is a snap on this website.",
+      "sentence_ko": "이 웹사이트에서 프로필 스타일을 업데이트하는 것은 아주 쉽습니다.",
+      "tags": ["style", "internet", "social_media", "technology", "web"]
+    },
+    {
+      "word": "Walk in the park",
+      "sentence_en": "Compared to the final exam, this assignment is a walk in the park.",
+      "sentence_ko": "기말고사에 비하면 이 과제는 아주 쉬운 일입니다.",
+      "tags": ["school", "education", "homework", "comparison", "student"]
+    },
+    {
+      "word": "Walk in the park",
+      "sentence_en": "Winning the soccer match was a walk in the park for them.",
+      "sentence_ko": "축구 경기에서 이기는 것은 그들에게 누워서 떡 먹기였습니다.",
+      "tags": ["soccer", "sport", "victory", "competition", "team"]
+    },
+    {
+      "word": "Walk in the park",
+      "sentence_en": "Cooking dinner is a walk in the park with this meal kit.",
+      "sentence_ko": "이 밀키트만 있으면 저녁 요리는 아주 쉬운 일입니다.",
+      "tags": ["food", "shopping", "cooking", "home", "convenience"]
+    },
+    {
+      "word": "Walk in the park",
+      "sentence_en": "Using the new software is a walk in the park.",
+      "sentence_ko": "새로운 소프트웨어를 사용하는 것은 아주 쉽습니다.",
+      "tags": ["technology", "work", "learning", "computer", "easy"]
+    },
+    {
+      "word": "Walk in the park",
+      "sentence_en": "Finding a parking place here is not exactly a walk in the park.",
+      "sentence_ko": "여기서 주차할 곳을 찾는 것은 결코 쉬운 일이 아닙니다.",
+      "tags": ["place", "driving", "city", "difficulty", "traffic"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "The museum makes art accessible to everyone in the community.",
+      "sentence_ko": "그 박물관은 지역 사회의 모든 사람이 예술을 쉽게 접할 수 있게 합니다.",
+      "tags": ["place", "art", "culture", "community", "education"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "We need to make this educational material more accessible.",
+      "sentence_ko": "우리는 이 교육 자료를 더 이해하기 쉽게 만들어야 합니다.",
+      "tags": ["education", "school", "learning", "material", "student"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "The outdoor trail is accessible for wheelchairs.",
+      "sentence_ko": "그 야외 산책로는 휠체어로도 접근이 가능합니다.",
+      "tags": ["outdoor", "nature", "accessibility", "health", "walk"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "His teaching style makes complex topics accessible.",
+      "sentence_ko": "그의 교육 방식은 복잡한 주제를 이해하기 쉽게 만듭니다.",
+      "tags": ["style", "education", "teacher", "learning", "class"]
+    },
+    {
+      "word": "Accessible",
+      "sentence_en": "This shopping mall is easily accessible by subway.",
+      "sentence_ko": "이 쇼핑몰은 지하철로 쉽게 접근할 수 있습니다.",
+      "tags": ["shopping", "place", "transportation", "convenience", "city"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Solving this puzzle requires only elementary logic.",
+      "sentence_ko": "이 퍼즐을 푸는 데는 기초적인 논리만 있으면 됩니다.",
+      "tags": ["game", "logic", "education", "thinking", "easy"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "He made an elementary mistake in his planning.",
+      "sentence_ko": "그는 계획을 세우는 데 있어 초보적인 실수를 저질렀습니다.",
+      "tags": ["planning", "mistake", "work", "learning", "beginner"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Understanding the rules of soccer is elementary.",
+      "sentence_ko": "축구 규칙을 이해하는 것은 아주 기초적인 일입니다.",
+      "tags": ["soccer", "sport", "rules", "learning", "basics"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "We learned elementary science at school today.",
+      "sentence_ko": "우리는 오늘 학교에서 기초 과학을 배웠습니다.",
+      "tags": ["school", "education", "science", "class", "student"]
+    },
+    {
+      "word": "Elementary",
+      "sentence_en": "Cooking this dish involves elementary skills.",
+      "sentence_ko": "이 요리를 하는 데는 기초적인 기술만 있으면 됩니다.",
+      "tags": ["food", "cooking", "skill", "home", "easy"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "We need to cover the basic principles of economics.",
+      "sentence_ko": "우리는 경제학의 기본 원리를 다뤄야 합니다.",
+      "tags": ["education", "school", "learning", "economics", "study"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "The hotel room offered only basic amenities.",
+      "sentence_ko": "그 호텔 방은 기본적인 편의 시설만 제공했습니다.",
+      "tags": ["place", "travel", "hotel", "room", "accommodation"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "He has a basic understanding of computer programming.",
+      "sentence_ko": "그는 컴퓨터 프로그래밍에 대한 기초적인 이해를 가지고 있습니다.",
+      "tags": ["technology", "learning", "skill", "computer", "education"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "My camping style is very basic and simple.",
+      "sentence_ko": "제 캠핑 스타일은 매우 기본적이고 단순합니다.",
+      "tags": ["style", "outdoor", "camping", "nature", "hobby"]
+    },
+    {
+      "word": "Basic",
+      "sentence_en": "These are the basic tools you need for gardening.",
+      "sentence_ko": "이것들이 정원 가꾸기에 필요한 기본 도구들입니다.",
+      "tags": ["shopping", "gardening", "tool", "home", "hobby"]
+    },
+    {
+      "word": "Introductory",
+      "sentence_en": "I signed up for an introductory course in psychology.",
+      "sentence_ko": "저는 심리학 입문 강좌를 신청했습니다.",
+      "tags": ["school", "education", "class", "university", "learning"]
+    },
+    {
+      "word": "Introductory",
+      "sentence_en": "The introductory price for the service is very low.",
+      "sentence_ko": "그 서비스의 출시 기념(입문) 가격은 매우 저렴합니다.",
+      "tags": ["shopping", "money", "business", "service", "sale"]
+    },
+    {
+      "word": "Introductory",
+      "sentence_en": "This book provides an introductory look at world history.",
+      "sentence_ko": "이 책은 세계사에 대한 입문적인 시각을 제공합니다.",
+      "tags": ["book", "education", "history", "reading", "learning"]
+    },
+    {
+      "word": "Introductory",
+      "sentence_en": "The gym offers an introductory session for new members.",
+      "sentence_ko": "그 체육관은 신규 회원을 위한 오리엔테이션 세션을 제공합니다.",
+      "tags": ["place", "health", "exercise", "sport", "service"]
+    },
+    {
+      "word": "Introductory",
+      "sentence_en": "We watched an introductory video about the company culture.",
+      "sentence_ko": "우리는 회사 문화에 대한 소개 영상을 시청했습니다.",
+      "tags": ["work", "video", "culture", "learning", "business"]
+    },
+    {
+      "word": "Child's play",
+      "sentence_en": "Fixing this broken toy is child's play for him.",
+      "sentence_ko": "이 고장 난 장난감을 고치는 것은 그에게 아이들 장난 같은 일입니다.",
+      "tags": ["hobby", "skill", "repair", "home", "easy"]
+    },
+    {
+      "word": "Child's play",
+      "sentence_en": "For a pro, winning this match is child's play.",
+      "sentence_ko": "프로에게 이 시합을 이기는 것은 식은 죽 먹기입니다.",
+      "tags": ["sport", "soccer", "competition", "victory", "talent"]
+    },
+    {
+      "word": "Child's play",
+      "sentence_en": "Learning to ride a bike was child's play for her.",
+      "sentence_ko": "자전거 타는 법을 배우는 것은 그녀에게 아주 쉬운 일이었습니다.",
+      "tags": ["outdoor", "learning", "exercise", "skill", "fun"]
+    },
+    {
+      "word": "Child's play",
+      "sentence_en": "Operating this machine is child's play once you know how.",
+      "sentence_ko": "방법만 알면 이 기계를 작동하는 것은 아주 쉽습니다.",
+      "tags": ["technology", "work", "learning", "machine", "easy"]
+    },
+    {
+      "word": "Child's play",
+      "sentence_en": "Completing the homework was child's play.",
+      "sentence_ko": "숙제를 끝내는 것은 아주 쉬운 일이었습니다.",
+      "tags": ["school", "education", "homework", "student", "time"]
+    },
+    {
+      "word": "Piece of cake",
+      "sentence_en": "The math exam was a piece of cake.",
+      "sentence_ko": "수학 시험은 누워서 떡 먹기였습니다.",
+      "tags": ["school", "education", "math", "test", "success"]
+    },
+    {
+      "word": "Piece of cake",
+      "sentence_en": "Getting a reservation at that restaurant is a piece of cake.",
+      "sentence_ko": "저 식당을 예약하는 것은 아주 쉬운 일입니다.",
+      "tags": ["restaurant", "place", "food", "reservation", "dining"]
+    },
+    {
+      "word": "Piece of cake",
+      "sentence_en": "Building this Lego set is a piece of cake.",
+      "sentence_ko": "이 레고 세트를 조립하는 것은 아주 쉽습니다.",
+      "tags": ["shopping", "hobby", "play", "toy", "home"]
+    },
+    {
+      "word": "Piece of cake",
+      "sentence_en": "Driving to the beach is a piece of cake with GPS.",
+      "sentence_ko": "GPS가 있으면 해변까지 운전해 가는 것은 식은 죽 먹기입니다.",
+      "tags": ["outdoor", "travel", "driving", "technology", "place"]
+    },
+    {
+      "word": "Piece of cake",
+      "sentence_en": "For him, climbing that hill is a piece of cake.",
+      "sentence_ko": "그에게 저 언덕을 오르는 것은 아주 쉬운 일입니다.",
+      "tags": ["outdoor", "exercise", "hiking", "nature", "health"]
+    },
+    {
+      "word": "No-brainer",
+      "sentence_en": "Accepting the job offer was a no-brainer.",
+      "sentence_ko": "그 일자리 제안을 수락하는 것은 고민할 필요도 없는 일이었습니다.",
+      "tags": ["work", "career", "decision", "success", "future"]
+    },
+    {
+      "word": "No-brainer",
+      "sentence_en": "Choosing this movie for date night is a no-brainer.",
+      "sentence_ko": "데이트 밤에 이 영화를 고르는 것은 고민할 것도 없는 선택입니다.",
+      "tags": ["movie", "entertainment", "dating", "choice", "fun"]
+    },
+    {
+      "word": "No-brainer",
+      "sentence_en": "Bringing an umbrella in this weather is a no-brainer.",
+      "sentence_ko": "이런 날씨에 우산을 챙기는 것은 당연한 일입니다.",
+      "tags": ["outdoor", "weather", "preparation", "habit", "smart"]
+    },
+    {
+      "word": "No-brainer",
+      "sentence_en": "Buying this car at such a low price is a no-brainer.",
+      "sentence_ko": "이렇게 싼 가격에 이 차를 사는 것은 망설일 필요가 없습니다.",
+      "tags": ["shopping", "car", "money", "deal", "decision"]
+    },
+    {
+      "word": "No-brainer",
+      "sentence_en": "Protecting the environment is a no-brainer for our future.",
+      "sentence_ko": "환경을 보호하는 것은 우리의 미래를 위해 당연히 해야 할 일입니다.",
+      "tags": ["environment", "nature", "future", "responsibility", "society"]
+    },
+    {
+      "word": "Instinctive",
+      "sentence_en": "His reaction to the ball was instinctive.",
+      "sentence_ko": "공에 대한 그의 반응은 본능적이었습니다.",
+      "tags": ["soccer", "sport", "reaction", "skill", "body"]
+    },
+    {
+      "word": "Instinctive",
+      "sentence_en": "Mothers often have an instinctive understanding of their babies.",
+      "sentence_ko": "어머니들은 종종 아기에 대해 본능적인 이해를 가지고 있습니다.",
+      "tags": ["family", "love", "care", "nature", "life"]
+    },
+    {
+      "word": "Instinctive",
+      "sentence_en": "Choosing a safe path in the woods was instinctive.",
+      "sentence_ko": "숲속에서 안전한 길을 선택하는 것은 본능적이었습니다.",
+      "tags": ["outdoor", "nature", "safety", "hiking", "travel"]
+    }]
+}

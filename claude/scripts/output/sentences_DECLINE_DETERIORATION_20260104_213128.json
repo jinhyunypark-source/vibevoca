@@ -1,0 +1,3317 @@
+[
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "Her work is remarkably deteriorate compared to others.",
+    "sentence_ko": "다른 것과 비교해 악화되다하다",
+    "tags": [
+      "marketing",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "It was a deteriorate mistake that needed correction.",
+    "sentence_ko": "악화되다 실수로 수정이 필요했다",
+    "tags": [
+      "soccer",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "She explained the deteriorate aspects of the project.",
+    "sentence_ko": "악화되다 프로젝트의 측면",
+    "tags": [
+      "marketing",
+      "sad",
+      "technology",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "They decided to deteriorate their approach significantly.",
+    "sentence_ko": "악화되다하게 접근법을 변경하다",
+    "tags": [
+      "code",
+      "startup",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "The deteriorate components worked together seamlessly.",
+    "sentence_ko": "악화되다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "ai",
+      "code",
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "It was a deteriorate decision that benefited everyone.",
+    "sentence_ko": "악화되다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "ai",
+      "business",
+      "warm",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "This solution is more deteriorate than the previous one.",
+    "sentence_ko": "이전보다 더 악화되다하다",
+    "tags": [
+      "technology",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "The deteriorate outcome disappointed stakeholders.",
+    "sentence_ko": "악화되다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "travel",
+      "warm",
+      "soccer",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "The study examined deteriorate characteristics carefully.",
+    "sentence_ko": "악화되다 특성을 주의깊게",
+    "tags": [
+      "travel",
+      "ai",
+      "business"
+    ]
+  },
+  {
+    "card_id": "0effd27a-afdb-4afc-b867-519d9e8f0234",
+    "word": "Deteriorate",
+    "sentence_en": "He tried to deteriorate his ideas more clearly.",
+    "sentence_ko": "악화되다하게 아이디어를 표현하다",
+    "tags": [
+      "restaurant",
+      "warm",
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "The result was surprisingly deplete in nature.",
+    "sentence_ko": "본질적으로 고갈시키다하다",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "The deplete components worked together seamlessly.",
+    "sentence_ko": "고갈시키다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "code",
+      "entrepreneur",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "They decided to deplete their approach significantly.",
+    "sentence_ko": "고갈시키다하게 접근법을 변경하다",
+    "tags": [
+      "sad",
+      "happy",
+      "code"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "The team appreciated his deplete attitude.",
+    "sentence_ko": "고갈시키다 태도",
+    "tags": [
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "The report described the deplete nature of the process.",
+    "sentence_ko": "고갈시키다 프로세스의 특성",
+    "tags": [
+      "hot",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "His deplete behavior affected team morale.",
+    "sentence_ko": "고갈시키다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "soccer",
+      "happy",
+      "hot",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "The new design appears less deplete overall.",
+    "sentence_ko": "전반적으로 고갈시키다하다",
+    "tags": [
+      "warm",
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "Those deplete details made a significant difference.",
+    "sentence_ko": "고갈시키다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "soccer",
+      "warm",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "We should deplete our strategy going forward.",
+    "sentence_ko": "고갈시키다하게 전략을 수립하다",
+    "tags": [
+      "ai",
+      "warm",
+      "develope",
+      "business"
+    ]
+  },
+  {
+    "card_id": "2df1280b-50c6-4871-8bcb-a2debea307c3",
+    "word": "Deplete",
+    "sentence_en": "It was a deplete decision that benefited everyone.",
+    "sentence_ko": "고갈시키다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "happy",
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "She needed to degenerate the situation effectively.",
+    "sentence_ko": "퇴보하다하게 상황을 다루다",
+    "tags": [
+      "happy",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "The degenerate components worked together seamlessly.",
+    "sentence_ko": "퇴보하다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "ai",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "Her degenerate approach helped solve the problem quickly.",
+    "sentence_ko": "퇴보하다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "The report described the degenerate nature of the process.",
+    "sentence_ko": "퇴보하다 프로세스의 특성",
+    "tags": [
+      "ai",
+      "happy",
+      "restaurant",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "The degenerate situation created many challenges.",
+    "sentence_ko": "퇴보하다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "startup",
+      "code",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "Their method proved degenerate in practice.",
+    "sentence_ko": "실제로 퇴보하다하다",
+    "tags": [
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "The manager wanted to degenerate team performance.",
+    "sentence_ko": "퇴보하다하게 팀 성과를 개선하다",
+    "tags": [
+      "happy",
+      "marketing",
+      "travel",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "Those degenerate details made a significant difference.",
+    "sentence_ko": "퇴보하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "business",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "It was a degenerate decision that benefited everyone.",
+    "sentence_ko": "퇴보하다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "soccer",
+      "entrepreneur",
+      "warm",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "8a6f3d5d-46bf-49f7-8cd2-3ca16339b52f",
+    "word": "Degenerate",
+    "sentence_en": "They discussed the degenerate implications thoroughly.",
+    "sentence_ko": "퇴보하다 영향을 철저히",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "This solution is more worsen than the previous one.",
+    "sentence_ko": "이전보다 더 나빠지다하다",
+    "tags": [
+      "marketing",
+      "entrepreneur",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "She needed to worsen the situation effectively.",
+    "sentence_ko": "나빠지다하게 상황을 다루다",
+    "tags": [
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "The worsen elements contributed to success.",
+    "sentence_ko": "나빠지다 요소가 성공에 기여했다",
+    "tags": [
+      "sad",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "Her worsen approach helped solve the problem quickly.",
+    "sentence_ko": "나빠지다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "It was a worsen mistake that needed correction.",
+    "sentence_ko": "나빠지다 실수로 수정이 필요했다",
+    "tags": [
+      "hot",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "She explained the worsen aspects of the project.",
+    "sentence_ko": "나빠지다 프로젝트의 측면",
+    "tags": [
+      "restaurant",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "Her work is remarkably worsen compared to others.",
+    "sentence_ko": "다른 것과 비교해 나빠지다하다",
+    "tags": [
+      "happy",
+      "hot",
+      "entrepreneur",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "He tried to worsen his ideas more clearly.",
+    "sentence_ko": "나빠지다하게 아이디어를 표현하다",
+    "tags": [
+      "hot",
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "The worsen elements contributed to success.",
+    "sentence_ko": "나빠지다 요소가 성공에 기여했다",
+    "tags": [
+      "ai",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "f2c9469d-d655-4790-9a79-984113e8119c",
+    "word": "Worsen",
+    "sentence_en": "It was a worsen decision that benefited everyone.",
+    "sentence_ko": "나빠지다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "startup",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "She needed to decline the situation effectively.",
+    "sentence_ko": "쇠퇴하다하게 상황을 다루다",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "Its decline characteristics were immediately noticeable.",
+    "sentence_ko": "쇠퇴하다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "Her decline approach helped solve the problem quickly.",
+    "sentence_ko": "쇠퇴하다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "sad",
+      "hot",
+      "code",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "The new design appears less decline overall.",
+    "sentence_ko": "전반적으로 쇠퇴하다하다",
+    "tags": [
+      "technology",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "It was a decline mistake that needed correction.",
+    "sentence_ko": "쇠퇴하다 실수로 수정이 필요했다",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "They discussed the decline implications thoroughly.",
+    "sentence_ko": "쇠퇴하다 영향을 철저히",
+    "tags": [
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "She needed to decline the situation effectively.",
+    "sentence_ko": "쇠퇴하다하게 상황을 다루다",
+    "tags": [
+      "technology",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "The decline elements contributed to success.",
+    "sentence_ko": "쇠퇴하다 요소가 성공에 기여했다",
+    "tags": [
+      "code",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "It was a decline decision that benefited everyone.",
+    "sentence_ko": "쇠퇴하다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "hot",
+      "entrepreneur",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "afb19fc6-1f1f-46c8-a86c-fd1ffb63cd15",
+    "word": "Decline",
+    "sentence_en": "The new design appears less decline overall.",
+    "sentence_ko": "전반적으로 쇠퇴하다하다",
+    "tags": [
+      "restaurant",
+      "sad",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "She needed to diminish the situation effectively.",
+    "sentence_ko": "줄어들다하게 상황을 다루다",
+    "tags": [
+      "hot",
+      "ai",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "The team appreciated his diminish attitude.",
+    "sentence_ko": "줄어들다 태도",
+    "tags": [
+      "technology",
+      "sad",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "It was a diminish mistake that needed correction.",
+    "sentence_ko": "줄어들다 실수로 수정이 필요했다",
+    "tags": [
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "The study examined diminish characteristics carefully.",
+    "sentence_ko": "줄어들다 특성을 주의깊게",
+    "tags": [
+      "soccer",
+      "warm",
+      "code",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "Its diminish characteristics were immediately noticeable.",
+    "sentence_ko": "줄어들다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "marketing",
+      "entrepreneur",
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "Their method proved diminish in practice.",
+    "sentence_ko": "실제로 줄어들다하다",
+    "tags": [
+      "warm",
+      "marketing",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "He tried to diminish his ideas more clearly.",
+    "sentence_ko": "줄어들다하게 아이디어를 표현하다",
+    "tags": [
+      "develope",
+      "entrepreneur",
+      "warm",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "The team appreciated his diminish attitude.",
+    "sentence_ko": "줄어들다 태도",
+    "tags": [
+      "warm",
+      "sad",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "The diminish situation created many challenges.",
+    "sentence_ko": "줄어들다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "entrepreneur",
+      "hot",
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "1bec70e9-92b7-4ccf-bdda-cea6e680e003",
+    "word": "Diminish",
+    "sentence_en": "The study examined diminish characteristics carefully.",
+    "sentence_ko": "줄어들다 특성을 주의깊게",
+    "tags": [
+      "restaurant",
+      "business",
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The dwindle components worked together seamlessly.",
+    "sentence_ko": "점점 줄어들다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "soccer",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The dwindle condition made things difficult.",
+    "sentence_ko": "점점 줄어들다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "restaurant",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "They discussed the dwindle implications thoroughly.",
+    "sentence_ko": "점점 줄어들다 영향을 철저히",
+    "tags": [
+      "ai",
+      "happy",
+      "marketing",
+      "code"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "It was a dwindle decision that benefited everyone.",
+    "sentence_ko": "점점 줄어들다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "ai",
+      "happy",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The new design appears less dwindle overall.",
+    "sentence_ko": "전반적으로 점점 줄어들다하다",
+    "tags": [
+      "develope",
+      "sad",
+      "business",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "We should dwindle our strategy going forward.",
+    "sentence_ko": "점점 줄어들다하게 전략을 수립하다",
+    "tags": [
+      "entrepreneur",
+      "business",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The dwindle components worked together seamlessly.",
+    "sentence_ko": "점점 줄어들다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "hot",
+      "happy",
+      "soccer",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The dwindle outcome disappointed stakeholders.",
+    "sentence_ko": "점점 줄어들다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "technology",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "The analysis revealed dwindle patterns in the data.",
+    "sentence_ko": "점점 줄어들다 데이터 패턴",
+    "tags": [
+      "soccer",
+      "sad",
+      "travel",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "310a5bd8-a139-4df1-a2e6-d4ea6dc7c83f",
+    "word": "Dwindle",
+    "sentence_en": "Her dwindle approach helped solve the problem quickly.",
+    "sentence_ko": "점점 줄어들다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "hot",
+      "marketing",
+      "soccer",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "The analysis revealed shrink patterns in the data.",
+    "sentence_ko": "오그라들다 데이터 패턴",
+    "tags": [
+      "hot",
+      "sad",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "The result was surprisingly shrink in nature.",
+    "sentence_ko": "본질적으로 오그라들다하다",
+    "tags": [
+      "ai",
+      "develope",
+      "hot",
+      "code"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "It was a shrink decision that benefited everyone.",
+    "sentence_ko": "오그라들다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "They decided to shrink their approach significantly.",
+    "sentence_ko": "오그라들다하게 접근법을 변경하다",
+    "tags": [
+      "restaurant",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "Its shrink characteristics were immediately noticeable.",
+    "sentence_ko": "오그라들다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "happy",
+      "code",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "The shrink situation created many challenges.",
+    "sentence_ko": "오그라들다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "restaurant",
+      "business",
+      "soccer",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "She explained the shrink aspects of the project.",
+    "sentence_ko": "오그라들다 프로젝트의 측면",
+    "tags": [
+      "soccer",
+      "entrepreneur",
+      "restaurant",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "The new design appears less shrink overall.",
+    "sentence_ko": "전반적으로 오그라들다하다",
+    "tags": [
+      "restaurant",
+      "technology",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "Her shrink approach helped solve the problem quickly.",
+    "sentence_ko": "오그라들다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "hot",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dc872426-197e-4886-8db3-881c20ed8f8c",
+    "word": "Shrink",
+    "sentence_en": "He tried to shrink his ideas more clearly.",
+    "sentence_ko": "오그라들다하게 아이디어를 표현하다",
+    "tags": [
+      "sad",
+      "entrepreneur",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "The new design appears less contract overall.",
+    "sentence_ko": "전반적으로 수축하다하다",
+    "tags": [
+      "technology",
+      "restaurant",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "She explained the contract aspects of the project.",
+    "sentence_ko": "수축하다 프로젝트의 측면",
+    "tags": [
+      "ai",
+      "develope",
+      "startup",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "The contract outcome disappointed stakeholders.",
+    "sentence_ko": "수축하다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "restaurant",
+      "ai",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "Those contract details made a significant difference.",
+    "sentence_ko": "수축하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "ai",
+      "develope",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "The manager wanted to contract team performance.",
+    "sentence_ko": "수축하다하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "The contract atmosphere made everyone feel comfortable.",
+    "sentence_ko": "수축하다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "startup",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "Her work is remarkably contract compared to others.",
+    "sentence_ko": "다른 것과 비교해 수축하다하다",
+    "tags": [
+      "marketing",
+      "entrepreneur",
+      "sad",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "The report described the contract nature of the process.",
+    "sentence_ko": "수축하다 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "warm",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "It was a contract mistake that needed correction.",
+    "sentence_ko": "수축하다 실수로 수정이 필요했다",
+    "tags": [
+      "entrepreneur",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "949f44cb-d360-4b51-a27c-fa613a2428f0",
+    "word": "Contract",
+    "sentence_en": "Those contract details made a significant difference.",
+    "sentence_ko": "수축하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "entrepreneur",
+      "startup",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The recede features distinguished it from competitors.",
+    "sentence_ko": "물러나다 특징이 차별화했다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "happy",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "It was a recede decision that benefited everyone.",
+    "sentence_ko": "물러나다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "develope",
+      "ai",
+      "marketing",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The result was surprisingly recede in nature.",
+    "sentence_ko": "본질적으로 물러나다하다",
+    "tags": [
+      "hot",
+      "sad",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The report described the recede nature of the process.",
+    "sentence_ko": "물러나다 프로세스의 특성",
+    "tags": [
+      "warm",
+      "hot",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The manager wanted to recede team performance.",
+    "sentence_ko": "물러나다하게 팀 성과를 개선하다",
+    "tags": [
+      "code",
+      "soccer",
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The recede situation created many challenges.",
+    "sentence_ko": "물러나다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "startup",
+      "technology",
+      "code",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "The recede elements contributed to success.",
+    "sentence_ko": "물러나다 요소가 성공에 기여했다",
+    "tags": [
+      "code",
+      "entrepreneur",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "Her recede approach helped solve the problem quickly.",
+    "sentence_ko": "물러나다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "restaurant",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "This solution is more recede than the previous one.",
+    "sentence_ko": "이전보다 더 물러나다하다",
+    "tags": [
+      "startup",
+      "travel",
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "acb4af25-8fca-494a-8cbe-757cc4202e0f",
+    "word": "Recede",
+    "sentence_en": "They discussed the recede implications thoroughly.",
+    "sentence_ko": "물러나다 영향을 철저히",
+    "tags": [
+      "technology",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The wither atmosphere made everyone feel comfortable.",
+    "sentence_ko": "시들다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "restaurant",
+      "technology",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The study examined wither characteristics carefully.",
+    "sentence_ko": "시들다 특성을 주의깊게",
+    "tags": [
+      "business",
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The wither features distinguished it from competitors.",
+    "sentence_ko": "시들다 특징이 차별화했다",
+    "tags": [
+      "entrepreneur",
+      "warm",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The manager wanted to wither team performance.",
+    "sentence_ko": "시들다하게 팀 성과를 개선하다",
+    "tags": [
+      "restaurant",
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "His wither behavior affected team morale.",
+    "sentence_ko": "시들다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "technology",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The new design appears less wither overall.",
+    "sentence_ko": "전반적으로 시들다하다",
+    "tags": [
+      "ai",
+      "code",
+      "soccer",
+      "business"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "It was a wither decision that benefited everyone.",
+    "sentence_ko": "시들다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "ai",
+      "entrepreneur",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The analysis revealed wither patterns in the data.",
+    "sentence_ko": "시들다 데이터 패턴",
+    "tags": [
+      "business",
+      "startup",
+      "hot",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "The wither components worked together seamlessly.",
+    "sentence_ko": "시들다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "marketing",
+      "happy",
+      "startup",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "e5040200-1e20-438c-8f76-af87fe55baac",
+    "word": "Wither",
+    "sentence_en": "He tried to wither his ideas more clearly.",
+    "sentence_ko": "시들다하게 아이디어를 표현하다",
+    "tags": [
+      "sad",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "The study examined decay characteristics carefully.",
+    "sentence_ko": "부패하다 특성을 주의깊게",
+    "tags": [
+      "travel",
+      "startup",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "They decided to decay their approach significantly.",
+    "sentence_ko": "부패하다하게 접근법을 변경하다",
+    "tags": [
+      "restaurant",
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "The team appreciated his decay attitude.",
+    "sentence_ko": "부패하다 태도",
+    "tags": [
+      "travel",
+      "ai",
+      "hot",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "The decay condition made things difficult.",
+    "sentence_ko": "부패하다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "travel",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "The result was surprisingly decay in nature.",
+    "sentence_ko": "본질적으로 부패하다하다",
+    "tags": [
+      "hot",
+      "marketing",
+      "develope",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "The decay components worked together seamlessly.",
+    "sentence_ko": "부패하다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "travel",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "She explained the decay aspects of the project.",
+    "sentence_ko": "부패하다 프로젝트의 측면",
+    "tags": [
+      "marketing",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "They decided to decay their approach significantly.",
+    "sentence_ko": "부패하다하게 접근법을 변경하다",
+    "tags": [
+      "marketing",
+      "hot",
+      "code"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "It was a decay decision that benefited everyone.",
+    "sentence_ko": "부패하다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "develope",
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "a5c38cad-85d6-414e-906c-ce3df47638a9",
+    "word": "Decay",
+    "sentence_en": "His decay behavior affected team morale.",
+    "sentence_ko": "부패하다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "entrepreneur",
+      "business"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "Her rot approach helped solve the problem quickly.",
+    "sentence_ko": "썩다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "entrepreneur",
+      "soccer",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "The rot components worked together seamlessly.",
+    "sentence_ko": "썩다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "soccer",
+      "warm",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "We should rot our strategy going forward.",
+    "sentence_ko": "썩다하게 전략을 수립하다",
+    "tags": [
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "It was a rot mistake that needed correction.",
+    "sentence_ko": "썩다 실수로 수정이 필요했다",
+    "tags": [
+      "restaurant",
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "This solution is more rot than the previous one.",
+    "sentence_ko": "이전보다 더 썩다하다",
+    "tags": [
+      "business",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "She explained the rot aspects of the project.",
+    "sentence_ko": "썩다 프로젝트의 측면",
+    "tags": [
+      "code",
+      "hot",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "The rot quality of the product exceeded expectations.",
+    "sentence_ko": "썩다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "restaurant",
+      "hot",
+      "entrepreneur",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "Those rot details made a significant difference.",
+    "sentence_ko": "썩다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "He tried to rot his ideas more clearly.",
+    "sentence_ko": "썩다하게 아이디어를 표현하다",
+    "tags": [
+      "technology",
+      "entrepreneur",
+      "code"
+    ]
+  },
+  {
+    "card_id": "28b52961-9e5a-49ad-8daa-db8381df94d1",
+    "word": "Rot",
+    "sentence_en": "The rot outcome disappointed stakeholders.",
+    "sentence_ko": "썩다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "develope",
+      "code"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The manager wanted to decompose team performance.",
+    "sentence_ko": "분해되다하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "startup",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The decompose quality of the product exceeded expectations.",
+    "sentence_ko": "분해되다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "hot",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The result was surprisingly decompose in nature.",
+    "sentence_ko": "본질적으로 분해되다하다",
+    "tags": [
+      "hot",
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The decompose elements contributed to success.",
+    "sentence_ko": "분해되다 요소가 성공에 기여했다",
+    "tags": [
+      "travel",
+      "ai",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The analysis revealed decompose patterns in the data.",
+    "sentence_ko": "분해되다 데이터 패턴",
+    "tags": [
+      "business",
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The decompose situation created many challenges.",
+    "sentence_ko": "분해되다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "sad",
+      "hot",
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "They decided to decompose their approach significantly.",
+    "sentence_ko": "분해되다하게 접근법을 변경하다",
+    "tags": [
+      "warm",
+      "code"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The decompose quality of the product exceeded expectations.",
+    "sentence_ko": "분해되다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "startup",
+      "soccer",
+      "hot",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "This solution is more decompose than the previous one.",
+    "sentence_ko": "이전보다 더 분해되다하다",
+    "tags": [
+      "business",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "70531971-9910-43f3-a1d8-97f1dd59eb8c",
+    "word": "Decompose",
+    "sentence_en": "The decompose components worked together seamlessly.",
+    "sentence_ko": "분해되다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "ai",
+      "sad",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The corrode outcome disappointed stakeholders.",
+    "sentence_ko": "부식하다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "business",
+      "hot",
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The manager wanted to corrode team performance.",
+    "sentence_ko": "부식하다하게 팀 성과를 개선하다",
+    "tags": [
+      "business",
+      "warm",
+      "restaurant",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The corrode components worked together seamlessly.",
+    "sentence_ko": "부식하다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "develope",
+      "business"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The new design appears less corrode overall.",
+    "sentence_ko": "전반적으로 부식하다하다",
+    "tags": [
+      "technology",
+      "hot",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The analysis revealed corrode patterns in the data.",
+    "sentence_ko": "부식하다 데이터 패턴",
+    "tags": [
+      "marketing",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The corrode atmosphere made everyone feel comfortable.",
+    "sentence_ko": "부식하다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "restaurant",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "The corrode situation created many challenges.",
+    "sentence_ko": "부식하다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "warm",
+      "marketing",
+      "hot",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "She needed to corrode the situation effectively.",
+    "sentence_ko": "부식하다하게 상황을 다루다",
+    "tags": [
+      "marketing",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "Its corrode characteristics were immediately noticeable.",
+    "sentence_ko": "부식하다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "ai",
+      "travel",
+      "develope",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "5d74156a-ffa7-4522-859e-309d20d13938",
+    "word": "Corrode",
+    "sentence_en": "Their method proved corrode in practice.",
+    "sentence_ko": "실제로 부식하다하다",
+    "tags": [
+      "warm",
+      "happy",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "The result was surprisingly erode in nature.",
+    "sentence_ko": "본질적으로 침식하다하다",
+    "tags": [
+      "warm",
+      "marketing",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "It was a erode mistake that needed correction.",
+    "sentence_ko": "침식하다 실수로 수정이 필요했다",
+    "tags": [
+      "entrepreneur",
+      "code",
+      "restaurant",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "They discussed the erode implications thoroughly.",
+    "sentence_ko": "침식하다 영향을 철저히",
+    "tags": [
+      "technology",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "The erode elements contributed to success.",
+    "sentence_ko": "침식하다 요소가 성공에 기여했다",
+    "tags": [
+      "develope",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "The erode atmosphere made everyone feel comfortable.",
+    "sentence_ko": "침식하다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "business",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "He tried to erode his ideas more clearly.",
+    "sentence_ko": "침식하다하게 아이디어를 표현하다",
+    "tags": [
+      "soccer",
+      "code",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "Her work is remarkably erode compared to others.",
+    "sentence_ko": "다른 것과 비교해 침식하다하다",
+    "tags": [
+      "sad",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "The erode outcome disappointed stakeholders.",
+    "sentence_ko": "침식하다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "code",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "The report described the erode nature of the process.",
+    "sentence_ko": "침식하다 프로세스의 특성",
+    "tags": [
+      "marketing",
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "52c218f3-8623-4a7a-a2df-495f9cc09579",
+    "word": "Erode",
+    "sentence_en": "Those erode details made a significant difference.",
+    "sentence_ko": "침식하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "entrepreneur",
+      "technology",
+      "soccer",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The team appreciated his crumble attitude.",
+    "sentence_ko": "바스러지다 태도",
+    "tags": [
+      "restaurant",
+      "marketing",
+      "code"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "He tried to crumble his ideas more clearly.",
+    "sentence_ko": "바스러지다하게 아이디어를 표현하다",
+    "tags": [
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The crumble situation created many challenges.",
+    "sentence_ko": "바스러지다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "soccer",
+      "entrepreneur",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The study examined crumble characteristics carefully.",
+    "sentence_ko": "바스러지다 특성을 주의깊게",
+    "tags": [
+      "technology",
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The crumble components worked together seamlessly.",
+    "sentence_ko": "바스러지다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "business",
+      "hot",
+      "marketing",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "This solution is more crumble than the previous one.",
+    "sentence_ko": "이전보다 더 바스러지다하다",
+    "tags": [
+      "restaurant",
+      "ai",
+      "soccer",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "Her crumble approach helped solve the problem quickly.",
+    "sentence_ko": "바스러지다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "marketing",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "They decided to crumble their approach significantly.",
+    "sentence_ko": "바스러지다하게 접근법을 변경하다",
+    "tags": [
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The crumble condition made things difficult.",
+    "sentence_ko": "바스러지다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "sad",
+      "code",
+      "restaurant",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "35b04996-3b4b-4af6-9202-6b60852ecf14",
+    "word": "Crumble",
+    "sentence_en": "The study examined crumble characteristics carefully.",
+    "sentence_ko": "바스러지다 특성을 주의깊게",
+    "tags": [
+      "technology",
+      "warm",
+      "soccer",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "She explained the collapse aspects of the project.",
+    "sentence_ko": "붕괴하다 프로젝트의 측면",
+    "tags": [
+      "soccer",
+      "warm",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "Those collapse details made a significant difference.",
+    "sentence_ko": "붕괴하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "soccer",
+      "ai",
+      "happy",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "The collapse quality of the product exceeded expectations.",
+    "sentence_ko": "붕괴하다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "technology",
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "It was a collapse mistake that needed correction.",
+    "sentence_ko": "붕괴하다 실수로 수정이 필요했다",
+    "tags": [
+      "warm",
+      "technology",
+      "develope",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "She needed to collapse the situation effectively.",
+    "sentence_ko": "붕괴하다하게 상황을 다루다",
+    "tags": [
+      "technology",
+      "code"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "Her work is remarkably collapse compared to others.",
+    "sentence_ko": "다른 것과 비교해 붕괴하다하다",
+    "tags": [
+      "entrepreneur",
+      "business",
+      "sad",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "The analysis revealed collapse patterns in the data.",
+    "sentence_ko": "붕괴하다 데이터 패턴",
+    "tags": [
+      "marketing",
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "The collapse components worked together seamlessly.",
+    "sentence_ko": "붕괴하다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "business",
+      "technology",
+      "ai",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "Her collapse approach helped solve the problem quickly.",
+    "sentence_ko": "붕괴하다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "soccer",
+      "hot",
+      "business"
+    ]
+  },
+  {
+    "card_id": "920b8ebf-bce9-4c59-978a-b6fce6fa9e28",
+    "word": "Collapse",
+    "sentence_en": "His collapse behavior affected team morale.",
+    "sentence_ko": "붕괴하다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "startup",
+      "marketing",
+      "develope",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "Those plummet details made a significant difference.",
+    "sentence_ko": "곤두박질치다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "code",
+      "happy",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "They discussed the plummet implications thoroughly.",
+    "sentence_ko": "곤두박질치다 영향을 철저히",
+    "tags": [
+      "travel",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "The new design appears less plummet overall.",
+    "sentence_ko": "전반적으로 곤두박질치다하다",
+    "tags": [
+      "startup",
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "They decided to plummet their approach significantly.",
+    "sentence_ko": "곤두박질치다하게 접근법을 변경하다",
+    "tags": [
+      "develope",
+      "soccer",
+      "sad",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "The plummet outcome disappointed stakeholders.",
+    "sentence_ko": "곤두박질치다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "entrepreneur",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "The plummet quality of the product exceeded expectations.",
+    "sentence_ko": "곤두박질치다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "warm",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "Its plummet characteristics were immediately noticeable.",
+    "sentence_ko": "곤두박질치다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "marketing",
+      "happy",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "She explained the plummet aspects of the project.",
+    "sentence_ko": "곤두박질치다 프로젝트의 측면",
+    "tags": [
+      "ai",
+      "code",
+      "travel",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "Her work is remarkably plummet compared to others.",
+    "sentence_ko": "다른 것과 비교해 곤두박질치다하다",
+    "tags": [
+      "entrepreneur",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "191aeb26-9771-4889-9385-b0accacbe3b8",
+    "word": "Plummet",
+    "sentence_en": "The manager wanted to plummet team performance.",
+    "sentence_ko": "곤두박질치다하게 팀 성과를 개선하다",
+    "tags": [
+      "ai",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The team appreciated his plunge attitude.",
+    "sentence_ko": "급락하다 태도",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "Her work is remarkably plunge compared to others.",
+    "sentence_ko": "다른 것과 비교해 급락하다하다",
+    "tags": [
+      "business",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "Those plunge details made a significant difference.",
+    "sentence_ko": "급락하다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "code",
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The manager wanted to plunge team performance.",
+    "sentence_ko": "급락하다하게 팀 성과를 개선하다",
+    "tags": [
+      "code",
+      "sad",
+      "entrepreneur",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "She explained the plunge aspects of the project.",
+    "sentence_ko": "급락하다 프로젝트의 측면",
+    "tags": [
+      "startup",
+      "sad",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The plunge condition made things difficult.",
+    "sentence_ko": "급락하다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "hot",
+      "restaurant",
+      "code"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The plunge quality of the product exceeded expectations.",
+    "sentence_ko": "급락하다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "sad",
+      "code",
+      "soccer",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The new design appears less plunge overall.",
+    "sentence_ko": "전반적으로 급락하다하다",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "The plunge features distinguished it from competitors.",
+    "sentence_ko": "급락하다 특징이 차별화했다",
+    "tags": [
+      "travel",
+      "warm",
+      "ai",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "45ba6622-7d83-4fc2-aabd-9097a500214c",
+    "word": "Plunge",
+    "sentence_en": "He tried to plunge his ideas more clearly.",
+    "sentence_ko": "급락하다하게 아이디어를 표현하다",
+    "tags": [
+      "code",
+      "happy",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "Its slump characteristics were immediately noticeable.",
+    "sentence_ko": "급감하다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "warm",
+      "code",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The slump condition made things difficult.",
+    "sentence_ko": "급감하다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "warm",
+      "restaurant",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "This solution is more slump than the previous one.",
+    "sentence_ko": "이전보다 더 급감하다하다",
+    "tags": [
+      "business",
+      "technology",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The slump atmosphere made everyone feel comfortable.",
+    "sentence_ko": "급감하다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "startup",
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The study examined slump characteristics carefully.",
+    "sentence_ko": "급감하다 특성을 주의깊게",
+    "tags": [
+      "sad",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The manager wanted to slump team performance.",
+    "sentence_ko": "급감하다하게 팀 성과를 개선하다",
+    "tags": [
+      "entrepreneur",
+      "restaurant",
+      "happy",
+      "code"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The slump elements contributed to success.",
+    "sentence_ko": "급감하다 요소가 성공에 기여했다",
+    "tags": [
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "His slump behavior affected team morale.",
+    "sentence_ko": "급감하다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "sad",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "The new design appears less slump overall.",
+    "sentence_ko": "전반적으로 급감하다하다",
+    "tags": [
+      "soccer",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "bc459e55-fd5a-41fc-beae-4e47ba68a191",
+    "word": "Slump",
+    "sentence_en": "Her slump approach helped solve the problem quickly.",
+    "sentence_ko": "급감하다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "happy",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The result was surprisingly crash in nature.",
+    "sentence_ko": "본질적으로 폭락하다하다",
+    "tags": [
+      "code",
+      "sad",
+      "technology",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The crash situation created many challenges.",
+    "sentence_ko": "폭락하다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The crash quality of the product exceeded expectations.",
+    "sentence_ko": "폭락하다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The crash elements contributed to success.",
+    "sentence_ko": "폭락하다 요소가 성공에 기여했다",
+    "tags": [
+      "business",
+      "travel",
+      "soccer",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "They discussed the crash implications thoroughly.",
+    "sentence_ko": "폭락하다 영향을 철저히",
+    "tags": [
+      "technology",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "We should crash our strategy going forward.",
+    "sentence_ko": "폭락하다하게 전략을 수립하다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "This solution is more crash than the previous one.",
+    "sentence_ko": "이전보다 더 폭락하다하다",
+    "tags": [
+      "technology",
+      "restaurant",
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "It was a crash mistake that needed correction.",
+    "sentence_ko": "폭락하다 실수로 수정이 필요했다",
+    "tags": [
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The crash quality of the product exceeded expectations.",
+    "sentence_ko": "폭락하다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "develope",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "10b42fbc-96a9-4910-ac7f-8a7b888a5221",
+    "word": "Crash",
+    "sentence_en": "The crash features distinguished it from competitors.",
+    "sentence_ko": "폭락하다 특징이 차별화했다",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The team appreciated his nosedive attitude.",
+    "sentence_ko": "급강하하다 태도",
+    "tags": [
+      "ai",
+      "sad",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "Its nosedive characteristics were immediately noticeable.",
+    "sentence_ko": "급강하하다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "entrepreneur",
+      "hot",
+      "ai",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "We should nosedive our strategy going forward.",
+    "sentence_ko": "급강하하다하게 전략을 수립하다",
+    "tags": [
+      "technology",
+      "restaurant",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The study examined nosedive characteristics carefully.",
+    "sentence_ko": "급강하하다 특성을 주의깊게",
+    "tags": [
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The nosedive situation created many challenges.",
+    "sentence_ko": "급강하하다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "code",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The new design appears less nosedive overall.",
+    "sentence_ko": "전반적으로 급강하하다하다",
+    "tags": [
+      "travel",
+      "sad",
+      "hot",
+      "code"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "It was a nosedive decision that benefited everyone.",
+    "sentence_ko": "급강하하다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "restaurant",
+      "business"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The nosedive components worked together seamlessly.",
+    "sentence_ko": "급강하하다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "soccer",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The manager wanted to nosedive team performance.",
+    "sentence_ko": "급강하하다하게 팀 성과를 개선하다",
+    "tags": [
+      "happy",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "ecf310a3-6215-436b-8a11-23bfe14835b4",
+    "word": "Nosedive",
+    "sentence_en": "The report described the nosedive nature of the process.",
+    "sentence_ko": "급강하하다 프로세스의 특성",
+    "tags": [
+      "sad",
+      "technology",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "She explained the tumble aspects of the project.",
+    "sentence_ko": "굴러 떨어지다 프로젝트의 측면",
+    "tags": [
+      "restaurant",
+      "marketing",
+      "hot",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble condition made things difficult.",
+    "sentence_ko": "굴러 떨어지다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "startup",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble elements contributed to success.",
+    "sentence_ko": "굴러 떨어지다 요소가 성공에 기여했다",
+    "tags": [
+      "entrepreneur",
+      "ai",
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble quality of the product exceeded expectations.",
+    "sentence_ko": "굴러 떨어지다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "entrepreneur",
+      "technology",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "She needed to tumble the situation effectively.",
+    "sentence_ko": "굴러 떨어지다하게 상황을 다루다",
+    "tags": [
+      "travel",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "Her work is remarkably tumble compared to others.",
+    "sentence_ko": "다른 것과 비교해 굴러 떨어지다하다",
+    "tags": [
+      "happy",
+      "develope",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The report described the tumble nature of the process.",
+    "sentence_ko": "굴러 떨어지다 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble outcome disappointed stakeholders.",
+    "sentence_ko": "굴러 떨어지다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "sad",
+      "entrepreneur",
+      "warm",
+      "business"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble elements contributed to success.",
+    "sentence_ko": "굴러 떨어지다 요소가 성공에 기여했다",
+    "tags": [
+      "code",
+      "business"
+    ]
+  },
+  {
+    "card_id": "ad6a63bf-76d9-4120-9d0e-3b313a54f9d3",
+    "word": "Tumble",
+    "sentence_en": "The tumble quality of the product exceeded expectations.",
+    "sentence_ko": "굴러 떨어지다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "startup",
+      "code",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "She explained the subside aspects of the project.",
+    "sentence_ko": "가라앉다 프로젝트의 측면",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "The subside outcome disappointed stakeholders.",
+    "sentence_ko": "가라앉다 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "code",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "This solution is more subside than the previous one.",
+    "sentence_ko": "이전보다 더 가라앉다하다",
+    "tags": [
+      "marketing",
+      "ai",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "They decided to subside their approach significantly.",
+    "sentence_ko": "가라앉다하게 접근법을 변경하다",
+    "tags": [
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "The team appreciated his subside attitude.",
+    "sentence_ko": "가라앉다 태도",
+    "tags": [
+      "business",
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "The subside components worked together seamlessly.",
+    "sentence_ko": "가라앉다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "restaurant",
+      "entrepreneur",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "The report described the subside nature of the process.",
+    "sentence_ko": "가라앉다 프로세스의 특성",
+    "tags": [
+      "code",
+      "startup",
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "The subside condition made things difficult.",
+    "sentence_ko": "가라앉다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "Her work is remarkably subside compared to others.",
+    "sentence_ko": "다른 것과 비교해 가라앉다하다",
+    "tags": [
+      "warm",
+      "entrepreneur",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "256d957f-553b-49f5-8651-360504d75c55",
+    "word": "Subside",
+    "sentence_en": "She needed to subside the situation effectively.",
+    "sentence_ko": "가라앉다하게 상황을 다루다",
+    "tags": [
+      "technology",
+      "business",
+      "soccer",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "This solution is more wane than the previous one.",
+    "sentence_ko": "이전보다 더 약해지다하다",
+    "tags": [
+      "hot",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "He tried to wane his ideas more clearly.",
+    "sentence_ko": "약해지다하게 아이디어를 표현하다",
+    "tags": [
+      "code",
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "The wane components worked together seamlessly.",
+    "sentence_ko": "약해지다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "travel",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "The team appreciated his wane attitude.",
+    "sentence_ko": "약해지다 태도",
+    "tags": [
+      "entrepreneur",
+      "sad",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "It was a wane mistake that needed correction.",
+    "sentence_ko": "약해지다 실수로 수정이 필요했다",
+    "tags": [
+      "business",
+      "sad",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "The report described the wane nature of the process.",
+    "sentence_ko": "약해지다 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "marketing",
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "Her work is remarkably wane compared to others.",
+    "sentence_ko": "다른 것과 비교해 약해지다하다",
+    "tags": [
+      "startup",
+      "develope",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "She needed to wane the situation effectively.",
+    "sentence_ko": "약해지다하게 상황을 다루다",
+    "tags": [
+      "develope",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "The wane components worked together seamlessly.",
+    "sentence_ko": "약해지다 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "startup",
+      "warm",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "1c687ffe-28eb-4d85-a366-03d497bfb3a7",
+    "word": "Wane",
+    "sentence_en": "The wane atmosphere made everyone feel comfortable.",
+    "sentence_ko": "약해지다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "technology",
+      "travel",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "His fade behavior affected team morale.",
+    "sentence_ko": "희미해지다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "hot",
+      "restaurant",
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "He tried to fade his ideas more clearly.",
+    "sentence_ko": "희미해지다하게 아이디어를 표현하다",
+    "tags": [
+      "hot",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "The result was surprisingly fade in nature.",
+    "sentence_ko": "본질적으로 희미해지다하다",
+    "tags": [
+      "marketing",
+      "business",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "The study examined fade characteristics carefully.",
+    "sentence_ko": "희미해지다 특성을 주의깊게",
+    "tags": [
+      "restaurant",
+      "marketing",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "Her fade approach helped solve the problem quickly.",
+    "sentence_ko": "희미해지다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "sad",
+      "happy",
+      "warm",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "The fade features distinguished it from competitors.",
+    "sentence_ko": "희미해지다 특징이 차별화했다",
+    "tags": [
+      "sad",
+      "travel",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "The fade condition made things difficult.",
+    "sentence_ko": "희미해지다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "technology",
+      "warm",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "We should fade our strategy going forward.",
+    "sentence_ko": "희미해지다하게 전략을 수립하다",
+    "tags": [
+      "develope",
+      "soccer",
+      "ai",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "This solution is more fade than the previous one.",
+    "sentence_ko": "이전보다 더 희미해지다하다",
+    "tags": [
+      "code",
+      "entrepreneur",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "41457d72-d53e-4adf-8ce1-2dffdbc60beb",
+    "word": "Fade",
+    "sentence_en": "The study examined fade characteristics carefully.",
+    "sentence_ko": "희미해지다 특성을 주의깊게",
+    "tags": [
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "It was a exhaust decision that benefited everyone.",
+    "sentence_ko": "다 써버리다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "sad",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "His exhaust behavior affected team morale.",
+    "sentence_ko": "다 써버리다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "happy",
+      "sad",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "The analysis revealed exhaust patterns in the data.",
+    "sentence_ko": "다 써버리다 데이터 패턴",
+    "tags": [
+      "business",
+      "soccer",
+      "code",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "The new design appears less exhaust overall.",
+    "sentence_ko": "전반적으로 다 써버리다하다",
+    "tags": [
+      "soccer",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "Those exhaust details made a significant difference.",
+    "sentence_ko": "다 써버리다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "restaurant",
+      "startup",
+      "business"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "We should exhaust our strategy going forward.",
+    "sentence_ko": "다 써버리다하게 전략을 수립하다",
+    "tags": [
+      "soccer",
+      "develope",
+      "business",
+      "code"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "The exhaust quality of the product exceeded expectations.",
+    "sentence_ko": "다 써버리다 제품 품질이 기대를 초과했다",
+    "tags": [
+      "startup",
+      "happy",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "His exhaust behavior affected team morale.",
+    "sentence_ko": "다 써버리다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "code",
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "They discussed the exhaust implications thoroughly.",
+    "sentence_ko": "다 써버리다 영향을 철저히",
+    "tags": [
+      "soccer",
+      "code",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "da581cb7-e6c9-49bc-9c3c-62cea8429db5",
+    "word": "Exhaust",
+    "sentence_en": "This solution is more exhaust than the previous one.",
+    "sentence_ko": "이전보다 더 다 써버리다하다",
+    "tags": [
+      "technology",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "The study examined weaken characteristics carefully.",
+    "sentence_ko": "약화시키다 특성을 주의깊게",
+    "tags": [
+      "soccer",
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "His weaken behavior affected team morale.",
+    "sentence_ko": "약화시키다 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "technology",
+      "restaurant",
+      "hot",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "The manager wanted to weaken team performance.",
+    "sentence_ko": "약화시키다하게 팀 성과를 개선하다",
+    "tags": [
+      "startup",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "The new design appears less weaken overall.",
+    "sentence_ko": "전반적으로 약화시키다하다",
+    "tags": [
+      "restaurant",
+      "happy",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "Those weaken details made a significant difference.",
+    "sentence_ko": "약화시키다 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "business",
+      "travel",
+      "technology",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "Her weaken approach helped solve the problem quickly.",
+    "sentence_ko": "약화시키다 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "warm",
+      "entrepreneur",
+      "travel",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "The study examined weaken characteristics carefully.",
+    "sentence_ko": "약화시키다 특성을 주의깊게",
+    "tags": [
+      "sad",
+      "travel",
+      "restaurant",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "The weaken situation created many challenges.",
+    "sentence_ko": "약화시키다 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "business",
+      "restaurant",
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "We should weaken our strategy going forward.",
+    "sentence_ko": "약화시키다하게 전략을 수립하다",
+    "tags": [
+      "sad",
+      "develope",
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dadb50f9-2684-454f-acf8-1a3758a548ea",
+    "word": "Weaken",
+    "sentence_en": "This solution is more weaken than the previous one.",
+    "sentence_ko": "이전보다 더 약화시키다하다",
+    "tags": [
+      "warm",
+      "technology",
+      "restaurant",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "She needed to fail the situation effectively.",
+    "sentence_ko": "실패하다하게 상황을 다루다",
+    "tags": [
+      "sad",
+      "business"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "Their method proved fail in practice.",
+    "sentence_ko": "실제로 실패하다하다",
+    "tags": [
+      "marketing",
+      "ai",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "It was a fail decision that benefited everyone.",
+    "sentence_ko": "실패하다 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "She explained the fail aspects of the project.",
+    "sentence_ko": "실패하다 프로젝트의 측면",
+    "tags": [
+      "develope",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "The fail condition made things difficult.",
+    "sentence_ko": "실패하다 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "ai",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "Its fail characteristics were immediately noticeable.",
+    "sentence_ko": "실패하다 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "entrepreneur",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "The manager wanted to fail team performance.",
+    "sentence_ko": "실패하다하게 팀 성과를 개선하다",
+    "tags": [
+      "travel",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "The result was surprisingly fail in nature.",
+    "sentence_ko": "본질적으로 실패하다하다",
+    "tags": [
+      "travel",
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "The fail atmosphere made everyone feel comfortable.",
+    "sentence_ko": "실패하다 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "technology",
+      "soccer",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "97a5ea54-a2bc-4835-9648-612d05f00817",
+    "word": "Fail",
+    "sentence_en": "The report described the fail nature of the process.",
+    "sentence_ko": "실패하다 프로세스의 특성",
+    "tags": [
+      "develope",
+      "entrepreneur"
+    ]
+  }
+]

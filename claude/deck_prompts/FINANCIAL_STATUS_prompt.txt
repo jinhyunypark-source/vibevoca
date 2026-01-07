@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: FINANCIAL_STATUS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Lucrative - 수익성이 좋은 (돈벌이가 잘되는)
+2. Profitable - 이익이 되는 (수익을 내는)
+3. Gainful - 유급의, 돈이 되는 (일자리가 있는)
+4. Remunerative - 보수가 좋은 (돈을 많이 주는 - 격식)
+5. Rewarding - 보람 있는, 수익이 나는 (만족감+돈)
+6. Worthwhile - 가치 있는 (시간/돈 쓸 만한)
+7. Salary - 봉급, 월급 (전문직/사무직의 고정급)
+8. Wage - 임금 (노동직/시간제 급여)
+9. Income - 소득, 수입 (들어오는 모든 돈)
+10. Earnings - 벌이, 수익 (일해서 번 돈/기업 수익)
+11. Revenue - 매출, 세입 (비용 빼기 전 총수입)
+12. Profit - 이익, 순이익 (매출에서 비용 뺀 돈)
+13. Margin - 마진, 이윤의 폭 (원가와 판매가의 차이)
+14. Dividend - 배당금 (주주에게 나눠주는 이익)
+15. Interest - 이자 (돈을 빌려준 대가)
+16. Yield - 수익률, 산출하다 (투자 대비 성과)
+17. Return - 수익 (투자에서 돌아오는 돈)
+18. Capital - 자본 (사업 자금)
+19. Funding - 자금 조달, 재정 지원
+20. Investment - 투자 (이익을 위해 돈을 씀)
+21. Loan - 대출 (빌린 돈)
+22. Debt - 빚, 부채
+23. Credit - 신용, 외상
+24. Mortgage - 주택 담보 대출
+25. Tax - 세금
+26. Duty - 관세, 의무 (수입품에 붙는 세금)
+27. Tariff - 관세 (국가 간 무역 세금)
+28. Fiscal - 재정의, 회계의 (국가 살림/회계 연도)
+29. Monetary - 통화의, 화폐의 (돈의 유통과 관련된)
+30. Financial - 재정적인, 금융의 (돈 관리 전반)
+
+## 추천 태그 (상황/맥락)
+relationship, technology, interview, health, communication, marketing, meeting, warm, art, study
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "FINANCIAL_STATUS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "FINANCIAL_STATUS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

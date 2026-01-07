@@ -1,0 +1,73 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:supabase_flutter/supabase_flutter.dart'; // Import Supabase
+import 'package:firebase_core/firebase_core.dart';
+import 'package:vibevoca/core/router/app_router.dart';
+import 'package:vibevoca/core/theme/app_theme.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'l10n/app_localizations.dart';
+
+import 'dart:async';
+import 'dart:ui' as io;
+
+Future<void> main() async {
+  runZonedGuarded(() async {
+    WidgetsFlutterBinding.ensureInitialized();
+
+    print("🚀 [Main] App Starting...");
+
+    try {
+      // Initialize Supabase
+      await Supabase.initialize(
+        url: 'https://anizwbojntonkfwgyosa.supabase.co',
+        anonKey: 'sb_publishable_exQ8_OAtcUAle1wtPwxj0w_IIfKNudu',
+      );
+      print("✅ [Main] Supabase initialized");
+
+      // Initialize Firebase (Analytics)
+      await Firebase.initializeApp();
+      print("✅ [Main] Firebase initialized");
+    } catch (e, stack) {
+      print("❌ [Main] Supabase init failed: $e\n$stack");
+    }
+
+    runApp(const ProviderScope(child: VibeVocaApp()));
+  }, (error, stack) {
+    print("❌ [Main] Uncaught Error: $error\n$stack");
+  });
+}
+
+class VibeVocaApp extends ConsumerWidget {
+  const VibeVocaApp({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final router = ref.watch(goRouterProvider);
+
+    return MaterialApp.router(
+      title: 'VibeVoca',
+      theme: AppTheme.darkTheme,
+      routerConfig: router,
+      debugShowCheckedModeBanner: false,
+      localizationsDelegates: [
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      supportedLocales: const [
+        Locale('ko'), // Default
+        Locale('en'),
+      ],
+      scrollBehavior: const MaterialScrollBehavior().copyWith(
+        dragDevices: {
+          // Enable mouse drag on desktop for easier testing of swipe/scroll
+          io.PointerDeviceKind.mouse,
+          io.PointerDeviceKind.touch,
+          io.PointerDeviceKind.stylus,
+          io.PointerDeviceKind.unknown,
+        },
+      ),
+    );
+  }
+}

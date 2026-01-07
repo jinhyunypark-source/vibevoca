@@ -1,0 +1,1507 @@
+{
+    "deck_title": "WEALTH_AFFLUENCE",
+    "total_sentences": 150,
+    "sentences": [
+        {
+            "word": "Rich",
+            "sentence_en": "This creamy pasta sauce is so rich and delicious that it feels like a real treat.",
+            "sentence_ko": "이 크림 파스타 소스는 맛이 정말 진하고 풍부해서 마치 특별한 보상을 받는 기분이에요.",
+            "tags": [
+                "food",
+                "cooking",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Rich",
+            "sentence_en": "Many people dream of getting rich quickly, but true wellness comes from inner peace.",
+            "sentence_ko": "많은 사람들이 일확천금을 꿈꾸지만, 진정한 건강함은 내면의 평화에서 옵니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Rich",
+            "sentence_en": "The museum is rich in history, showcasing digital archives from the early days of computing.",
+            "sentence_ko": "그 박물관은 역사가 풍부하며, 초기 컴퓨터 시대의 디지털 기록물들을 전시하고 있습니다.",
+            "tags": [
+                "digital",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Rich",
+            "sentence_en": "After years of working in the city, he moved to a village rich with natural beauty.",
+            "sentence_ko": "도시에서 수년간 일한 후, 그는 자연의 아름다움이 가득한 마을로 이사했습니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Rich",
+            "sentence_en": "The university library offers a rich collection of rare books for students to explore.",
+            "sentence_ko": "그 대학교 도서관은 학생들이 탐구할 수 있는 방대한 희귀 서적 컬렉션을 보유하고 있습니다.",
+            "tags": [
+                "university",
+                "time",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Wealthy",
+            "sentence_en": "The wealthy family donated a large sum of money to the university's new science wing.",
+            "sentence_ko": "그 부유한 가족은 대학교의 새로운 과학관 건립을 위해 거액을 기부했습니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Wealthy",
+            "sentence_en": "Being wealthy allows you to travel the world without worrying about the cost of flights.",
+            "sentence_ko": "재산이 많으면 비행기 표 값을 걱정하지 않고 전 세계를 여행할 수 있습니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Wealthy",
+            "sentence_en": "In the digital age, some young entrepreneurs have become incredibly wealthy through mobile apps.",
+            "sentence_ko": "디지털 시대에 일부 젊은 기업가들은 모바일 앱을 통해 엄청난 자산가가 되었습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Wealthy",
+            "sentence_en": "Even if you are wealthy, maintaining your physical wellness should always be a top priority.",
+            "sentence_ko": "아무리 부자라도 신체적인 건강을 유지하는 것이 항상 최우선 순위가 되어야 합니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "sport"
+            ]
+        },
+        {
+            "word": "Wealthy",
+            "sentence_en": "She grew up in a wealthy neighborhood where every house had its own swimming pool.",
+            "sentence_ko": "그녀는 집집마다 수영장이 딸린 유복한 동네에서 자랐습니다.",
+            "tags": [
+                "daily_life",
+                "travel",
+                "sport"
+            ]
+        },
+        {
+            "word": "Affluent",
+            "sentence_en": "The affluent suburb is known for its high-end boutiques and expensive organic grocery stores.",
+            "sentence_ko": "그 부유한 교외 지역은 고급 부티크와 비싼 유기농 식료품점으로 유명합니다.",
+            "tags": [
+                "daily_life",
+                "food",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Affluent",
+            "sentence_en": "Most students at this private university come from affluent backgrounds and travel frequently.",
+            "sentence_ko": "이 사립 대학교의 학생들 대부분은 부유한 가정 출신이며 여행을 자주 다닙니다.",
+            "tags": [
+                "university",
+                "travel",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Affluent",
+            "sentence_en": "The marketing campaign targeted an affluent audience interested in luxury digital watches.",
+            "sentence_ko": "그 마케팅 캠페인은 럭셔리 디지털 시계에 관심이 있는 부유한 층을 겨냥했습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Affluent",
+            "sentence_en": "He lives an affluent lifestyle, spending his time attending gallery openings and charity galas.",
+            "sentence_ko": "그는 갤러리 개관식이나 자선 파티에 참석하며 풍족한 생활을 즐깁니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Affluent",
+            "sentence_en": "Access to clean water is something that people in affluent nations often take for granted.",
+            "sentence_ko": "부유한 국가의 사람들은 깨끗한 물을 사용할 수 있는 것을 당연하게 여기곤 합니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "food"
+            ]
+        },
+        {
+            "word": "Prosperous",
+            "sentence_en": "The city became prosperous thanks to the booming tech industry and digital innovation.",
+            "sentence_ko": "그 도시는 호황을 누리는 기술 산업과 디지털 혁신 덕분에 번영하게 되었습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Prosperous",
+            "sentence_en": "We wish you a happy and prosperous New Year filled with joy and health.",
+            "sentence_ko": "기쁨과 건강이 가득한 행복하고 풍요로운 새해를 맞이하시길 바랍니다.",
+            "tags": [
+                "emotion",
+                "wellness",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Prosperous",
+            "sentence_en": "A prosperous business requires effective time management and a dedicated team of workers.",
+            "sentence_ko": "번창하는 사업을 위해서는 효율적인 시간 관리와 헌신적인 팀원이 필요합니다.",
+            "tags": [
+                "time",
+                "daily_life",
+                "university"
+            ]
+        },
+        {
+            "word": "Prosperous",
+            "sentence_en": "During the prosperous era of the 1920s, many people invested heavily in the stock market.",
+            "sentence_ko": "번영기였던 1920년대에는 많은 사람들이 주식 시장에 집중적으로 투자했습니다.",
+            "tags": [
+                "time",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Prosperous",
+            "sentence_en": "The farmer had a prosperous harvest this year, providing plenty of food for the village.",
+            "sentence_ko": "올해 농부가 풍작을 거둔 덕분에 마을에 풍부한 식량을 공급할 수 있었습니다.",
+            "tags": [
+                "food",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Opulent",
+            "sentence_en": "The hotel lobby was decorated in an opulent style with gold leaf and crystal chandeliers.",
+            "sentence_ko": "호텔 로비는 금박과 크리스털 샹들리에로 아주 호화롭게 장식되어 있었습니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Opulent",
+            "sentence_en": "They enjoyed an opulent feast that included the rarest ingredients and finest wines.",
+            "sentence_ko": "그들은 가장 귀한 식재료와 최고급 와인이 포함된 사치스러운 진수성찬을 즐겼습니다.",
+            "tags": [
+                "food",
+                "cooking",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Opulent",
+            "sentence_en": "Her opulent lifestyle was often criticized on social media for being too flashy.",
+            "sentence_ko": "그녀의 사치스러운 생활 방식은 너무 화려하다는 이유로 소셜 미디어에서 자주 비판받았습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Opulent",
+            "sentence_en": "The movie featured opulent costumes designed by world-famous fashion houses.",
+            "sentence_ko": "그 영화는 세계적인 패션 하우스들이 제작한 호화로운 의상들을 선보였습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Opulent",
+            "sentence_en": "He lived in an opulent mansion overlooking the ocean with a private gym.",
+            "sentence_ko": "그는 전용 체육관이 딸린, 바다가 내려다보이는 호화로운 저택에 살았습니다.",
+            "tags": [
+                "daily_life",
+                "sport",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Minted",
+            "sentence_en": "The young crypto-trader is absolutely minted after the recent surge in digital assets.",
+            "sentence_ko": "최근 디지털 자산 가치가 급등하면서 그 젊은 가상화폐 트레이더는 그야말로 돈방석에 앉았습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Minted",
+            "sentence_en": "He’s recently minted, so he decided to buy a professional soccer team for fun.",
+            "sentence_ko": "그는 최근에 갑부가 되어서 재미 삼아 프로 축구팀을 인수하기로 결정했습니다.",
+            "tags": [
+                "sport",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Minted",
+            "sentence_en": "I heard that the guy who developed that wellness app is now seriously minted.",
+            "sentence_ko": "그 건강 관리 앱을 개발한 사람이 지금 엄청난 부자가 됐다고 들었어요.",
+            "tags": [
+                "wellness",
+                "digital",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Minted",
+            "sentence_en": "Even though he’s minted, he still prefers eating simple street food with his friends.",
+            "sentence_ko": "그는 갑부임에도 불구하고 여전히 친구들과 소박한 길거리 음식을 먹는 것을 좋아합니다.",
+            "tags": [
+                "food",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Minted",
+            "sentence_en": "You’d have to be minted to afford a private jet for your summer vacation.",
+            "sentence_ko": "여름 휴가 때 전용기를 타려면 정말 돈이 썩어날 정도로 많아야 할 거예요.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Filthy rich",
+            "sentence_en": "Some celebrities are filthy rich but still complain about the smallest things in life.",
+            "sentence_ko": "어떤 연예인들은 돈이 썩어나게 많으면서도 사소한 일에 불평을 늘어놓곤 합니다.",
+            "tags": [
+                "emotion",
+                "daily_life",
+                "digital"
+            ]
+        },
+        {
+            "word": "Filthy rich",
+            "sentence_en": "He became filthy rich after selling his digital marketing agency to a global corporation.",
+            "sentence_ko": "그는 자신의 디지털 마케팅 대행사를 글로벌 기업에 매각한 후 떼부자가 되었습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Filthy rich",
+            "sentence_en": "They live in a neighborhood for the filthy rich where the gates are always closed.",
+            "sentence_ko": "그들은 정문이 항상 닫혀 있는, 떼부자들만 사는 동네에 거주합니다.",
+            "tags": [
+                "daily_life",
+                "travel",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Filthy rich",
+            "sentence_en": "You don't need to be filthy rich to enjoy a healthy and happy lifestyle.",
+            "sentence_ko": "건강하고 행복한 삶을 즐기기 위해 반드시 떼부자일 필요는 없습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "food"
+            ]
+        },
+        {
+            "word": "Filthy rich",
+            "sentence_en": "The villain in the movie was a filthy rich businessman who tried to control the city.",
+            "sentence_ko": "영화 속 악당은 도시를 지배하려는 돈이 넘쳐나는 비열한 사업가였습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Well-off",
+            "sentence_en": "She comes from a well-off family that always supported her dream of studying abroad.",
+            "sentence_ko": "그녀는 유학이라는 꿈을 항상 지지해준 유복한 가정 출신입니다.",
+            "tags": [
+                "university",
+                "travel",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Well-off",
+            "sentence_en": "Even if you aren't well-off, you can still find ways to cook healthy meals on a budget.",
+            "sentence_ko": "형편이 넉넉하지 않더라도 예산에 맞춰 건강한 음식을 요리할 방법을 찾을 수 있습니다.",
+            "tags": [
+                "food",
+                "cooking",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Well-off",
+            "sentence_en": "The retirement home is designed for well-off seniors who want a high level of care.",
+            "sentence_ko": "그 요양원은 수준 높은 관리를 원하는 유복한 노인들을 위해 설계되었습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Well-off",
+            "sentence_en": "He is well-off enough to work only four days a week and spend more time with his kids.",
+            "sentence_ko": "그는 주 4일만 일하고 아이들과 더 많은 시간을 보낼 수 있을 만큼 여유가 있습니다.",
+            "tags": [
+                "time",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Well-off",
+            "sentence_en": "During the economic crisis, even well-off families started to cut down on unnecessary spending.",
+            "sentence_ko": "경제 위기 동안에는 유복한 가정들조차 불필요한 지출을 줄이기 시작했습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Well-to-do",
+            "sentence_en": "The well-to-do lawyer lived in a beautiful historic house near the university campus.",
+            "sentence_ko": "그 명망 있고 넉넉한 변호사는 대학교 캠퍼스 근처의 아름다운 고택에 살았습니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Well-to-do",
+            "sentence_en": "She married into a well-to-do family that owns several successful businesses in the digital sector.",
+            "sentence_ko": "그녀는 디지털 분야에서 여러 성공적인 사업체를 소유한 부유한 집안으로 시집갔습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Well-to-do",
+            "sentence_en": "The shop caters to well-to-do customers who are willing to pay for premium quality products.",
+            "sentence_ko": "그 상점은 프리미엄 품질을 위해 기꺼이 돈을 지불하는 부유한 고객들을 대상으로 합니다.",
+            "tags": [
+                "daily_life",
+                "food",
+                "marketing"
+            ]
+        },
+        {
+            "word": "Well-to-do",
+            "sentence_en": "Well-to-do citizens were encouraged to donate to the local hospital's wellness program.",
+            "sentence_ko": "유복한 시민들은 지역 병원의 건강 증진 프로그램을 위해 기부하도록 권장되었습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Well-to-do",
+            "sentence_en": "He presented himself as a well-to-do gentleman, wearing a perfectly tailored suit.",
+            "sentence_ko": "그는 완벽하게 맞춘 정장을 입고 유복한 신사처럼 보이게 처신했습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Means",
+            "sentence_en": "She is a woman of means who travels to a different country every single month.",
+            "sentence_ko": "그녀는 매달 다른 나라로 여행을 다닐 만큼 재력이 있는 여성입니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Means",
+            "sentence_en": "They don't have the means to buy a new digital piano right now, so they're saving up.",
+            "sentence_ko": "그들은 지금 당장 새로운 디지털 피아노를 살 재력이 없어서 돈을 모으고 있습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Means",
+            "sentence_en": "The scholarship is specifically designed for students who lack the means to pay for university tuition.",
+            "sentence_ko": "그 장학금은 대학 등록금을 낼 경제적 여건이 안 되는 학생들을 위해 특별히 설계되었습니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Means",
+            "sentence_en": "If you have the means, investing in a personal wellness coach can be very beneficial.",
+            "sentence_ko": "경제적 여유가 있다면 개인 건강 코치에게 투자하는 것이 매우 유익할 수 있습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "sport"
+            ]
+        },
+        {
+            "word": "Means",
+            "sentence_en": "He lived beyond his means and eventually found himself in a lot of debt.",
+            "sentence_ko": "그는 자신의 분수에 넘치게 생활하다가 결국 많은 빚을 지게 되었습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Solvent",
+            "sentence_en": "The startup finally became solvent after receiving its third round of investment.",
+            "sentence_ko": "그 스타트업은 세 번째 투자 라운드를 거친 후에야 마침내 지불 능력을 갖추게 되었습니다.",
+            "tags": [
+                "daily_life",
+                "digital",
+                "time"
+            ]
+        },
+        {
+            "word": "Solvent",
+            "sentence_en": "It’s a huge relief to be solvent again after struggling with hospital bills for months.",
+            "sentence_ko": "몇 달간 병원비로 고생하다가 다시 빚을 갚을 능력이 생기니 정말 다행입니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Solvent",
+            "sentence_en": "The university needs to stay solvent to continue offering quality education to its students.",
+            "sentence_ko": "대학교는 학생들에게 양질의 교육을 계속 제공하기 위해 재정적 지불 능력을 유지해야 합니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Solvent",
+            "sentence_en": "Checking if a travel agency is solvent is important before booking an expensive luxury tour.",
+            "sentence_ko": "비싼 럭셔리 투어를 예약하기 전에 여행사가 재정적으로 튼튼한지 확인하는 것이 중요합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Solvent",
+            "sentence_en": "The bank confirmed that the business was still solvent despite the recent market crash.",
+            "sentence_ko": "은행은 최근의 시장 붕괴에도 불구하고 그 기업이 여전히 지불 능력이 있음을 확인했습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "digital"
+            ]
+        },
+        {
+            "word": "Loaded",
+            "sentence_en": "He just won the lottery, so now he’s absolutely loaded and planning a world trip.",
+            "sentence_ko": "그는 방금 복권에 당첨되어서 지금 돈이 썩어나는 상태라 세계 일주를 계획 중입니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Loaded",
+            "sentence_en": "Don’t worry about the bill; my uncle is loaded and he’s paying for dinner.",
+            "sentence_ko": "계산서는 걱정 마세요. 우리 삼촌이 돈이 아주 많아서 저녁을 사주실 거예요.",
+            "tags": [
+                "food",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Loaded",
+            "sentence_en": "She lives in that mansion because her parents are loaded from their digital software company.",
+            "sentence_ko": "그녀의 부모님이 디지털 소프트웨어 회사로 돈을 아주 많이 벌어서 그녀는 저 저택에 삽니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "travel"
+            ]
+        },
+        {
+            "word": "Loaded",
+            "sentence_en": "Even if you are loaded, you can't buy back the time you lost with your family.",
+            "sentence_ko": "아무리 돈이 썩어나게 많아도 가족과 함께하지 못한 잃어버린 시간을 되살 수는 없습니다.",
+            "tags": [
+                "time",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Loaded",
+            "sentence_en": "He’s loaded with cash, but he still wears old clothes and drives a simple car.",
+            "sentence_ko": "그는 돈이 아주 많지만 여전히 낡은 옷을 입고 소박한 차를 뭅니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Flush",
+            "sentence_en": "I’m feeling quite flush this week after receiving my annual bonus from work.",
+            "sentence_ko": "회사에서 연간 보너스를 받아서 이번 주는 주머니 사정이 아주 두둑합니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Flush",
+            "sentence_en": "The startup is currently flush with cash after a very successful digital crowdfunding campaign.",
+            "sentence_ko": "그 스타트업은 아주 성공적인 디지털 크라우드펀딩 캠페인 덕분에 현재 자금이 두둑합니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Flush",
+            "sentence_en": "Wait until I’m flush again before we book that expensive wellness retreat in Switzerland.",
+            "sentence_ko": "스위스로 가는 비싼 건강 캠프를 예약하기 전에 제 주머니가 다시 두둑해질 때까지 기다려주세요.",
+            "tags": [
+                "travel",
+                "wellness",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Flush",
+            "sentence_en": "He was flush with money from his inheritance and spent it all on luxury sports cars.",
+            "sentence_ko": "그는 상속받은 돈이 두둑해서 그것을 전부 럭셔리 스포츠카를 사는 데 써버렸습니다.",
+            "tags": [
+                "sport",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Flush",
+            "sentence_en": "The university is flush with new students this semester, leading to crowded classrooms.",
+            "sentence_ko": "이번 학기에는 신입생들이 넘쳐나서 강의실이 매우 붐빕니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Rolling in it",
+            "sentence_en": "After her digital art became famous as NFTs, she was suddenly rolling in it.",
+            "sentence_ko": "그녀의 디지털 아트가 NFT로 유명해진 후, 그녀는 갑자기 돈방석에 앉았습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Rolling in it",
+            "sentence_en": "He acts like he’s rolling in it, but he’s actually struggling to pay his monthly rent.",
+            "sentence_ko": "그는 돈이 넘쳐나는 것처럼 행동하지만 실제로는 매달 월세를 내는 데 허덕이고 있습니다.",
+            "tags": [
+                "daily_life",
+                "emotion",
+                "time"
+            ]
+        },
+        {
+            "word": "Rolling in it",
+            "sentence_en": "Their family has been rolling in it for generations thanks to their vast inheritance.",
+            "sentence_ko": "그들의 가문은 막대한 유산 덕분에 대대로 돈방석에 앉아 지내왔습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Rolling in it",
+            "sentence_en": "If I were rolling in it, I would build a state-of-the-art wellness center for everyone.",
+            "sentence_ko": "내가 만약 돈방석에 앉는다면 모두를 위한 최첨단 건강 센터를 지을 텐데요.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "sport"
+            ]
+        },
+        {
+            "word": "Rolling in it",
+            "sentence_en": "The soccer star is rolling in it after signing that massive new contract with the club.",
+            "sentence_ko": "그 축구 스타는 클럽과 거액의 새로운 계약을 맺은 후 돈방석에 앉았습니다.",
+            "tags": [
+                "sport",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Privileged",
+            "sentence_en": "Growing up in a privileged environment gave him access to the best university education available.",
+            "sentence_ko": "특권적인 환경에서 자란 덕분에 그는 최고의 대학 교육을 받을 수 있었습니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Privileged",
+            "sentence_en": "She felt privileged to be able to travel to remote islands and explore natural wellness.",
+            "sentence_ko": "그녀는 외딴 섬들을 여행하며 자연적인 건강법을 탐구할 수 있는 것이 특권이라고 느꼈습니다.",
+            "tags": [
+                "travel",
+                "wellness",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Privileged",
+            "sentence_en": "The privileged few often have digital tools that help them stay ahead in the job market.",
+            "sentence_ko": "특권층 소수는 취업 시장에서 앞서 나갈 수 있게 도와주는 디지털 도구들을 종종 보유하고 있습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Privileged",
+            "sentence_en": "It’s important to acknowledge your privileged position and help those who are less fortunate.",
+            "sentence_ko": "자신의 특권적인 위치를 인정하고 운이 덜 좋은 사람들을 돕는 것이 중요합니다.",
+            "tags": [
+                "daily_life",
+                "emotion",
+                "time"
+            ]
+        },
+        {
+            "word": "Privileged",
+            "sentence_en": "They lead a privileged life with private chefs and a full staff of household helpers.",
+            "sentence_ko": "그들은 전용 셰프와 가사 도우미들을 거느리며 특권층의 삶을 삽니다.",
+            "tags": [
+                "cooking",
+                "food",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Comfortable",
+            "sentence_en": "They aren't rich, but they are comfortable enough to take a nice vacation once a year.",
+            "sentence_ko": "그들은 부자는 아니지만 일 년에 한 번 근사한 휴가를 떠날 수 있을 만큼은 넉넉합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Comfortable",
+            "sentence_en": "He earns a comfortable salary from his job as a digital content creator.",
+            "sentence_ko": "그는 디지털 콘텐츠 크리에이터로서 부족함 없는 월급을 받고 있습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Comfortable",
+            "sentence_en": "Living a comfortable life allows you to focus more on your emotional and physical wellness.",
+            "sentence_ko": "넉넉한 삶을 살면 정서적, 신체적 건강에 더 집중할 수 있습니다.",
+            "tags": [
+                "wellness",
+                "emotion",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Comfortable",
+            "sentence_en": "After years of saving, the couple is finally in a comfortable financial position to retire.",
+            "sentence_ko": "수년간 저축한 끝에 그 부부는 마침내 은퇴할 수 있을 만큼 재정적으로 넉넉해졌습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Comfortable",
+            "sentence_en": "The university provides a comfortable living space for international students in the dormitory.",
+            "sentence_ko": "대학교는 기숙사에서 외국인 학생들을 위한 넉넉하고 편안한 생활 공간을 제공합니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "travel"
+            ]
+        },
+        {
+            "word": "Propertied",
+            "sentence_en": "The propertied elite in the city often meet at exclusive social clubs to discuss politics.",
+            "sentence_ko": "도시의 재산가 엘리트들은 정치적 논의를 위해 종종 폐쇄적인 사교 클럽에서 만납니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Propertied",
+            "sentence_en": "He comes from a propertied family that has owned large areas of farmland for centuries.",
+            "sentence_ko": "그는 수세기 동안 넓은 농지를 소유해 온 재산가 집안 출신입니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Propertied",
+            "sentence_en": "Becoming a propertied individual is a common goal for many people in this expensive city.",
+            "sentence_ko": "이 비싼 도시의 많은 사람들에게 유산가가 되는 것은 보편적인 목표입니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Propertied",
+            "sentence_en": "Propertied investors are looking into digital real estate as a new way to build wealth.",
+            "sentence_ko": "부동산 소유 투자자들은 부를 쌓는 새로운 방법으로 디지털 부동산을 조사하고 있습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Propertied",
+            "sentence_en": "In the past, only propertied men were allowed to vote in national elections.",
+            "sentence_ko": "과거에는 재산이 있는 남성들만이 국가 선거에서 투표할 수 있었습니다.",
+            "tags": [
+                "time",
+                "daily_life",
+                "university"
+            ]
+        },
+        {
+            "word": "High-net-worth",
+            "sentence_en": "The bank offers specialized investment advice for its high-net-worth clients in the digital sector.",
+            "sentence_ko": "그 은행은 디지털 분야의 고액 자산가 고객들을 위해 특화된 투자 조언을 제공합니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "High-net-worth",
+            "sentence_en": "High-net-worth individuals often invest in expensive wellness retreats to escape from daily stress.",
+            "sentence_ko": "고액 자산가들은 일상의 스트레스에서 벗어나기 위해 종종 비싼 건강 휴양지에 투자합니다.",
+            "tags": [
+                "wellness",
+                "travel",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "High-net-worth",
+            "sentence_en": "A significant number of high-net-worth families send their children to prestigious universities abroad.",
+            "sentence_ko": "상당수의 고액 자산가 가족들이 자녀를 해외 유명 대학교로 유학 보냅니다.",
+            "tags": [
+                "university",
+                "travel",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "High-net-worth",
+            "sentence_en": "He works as a luxury travel consultant for high-net-worth business owners.",
+            "sentence_ko": "그는 고액 자산가인 사업주들을 위한 럭셔리 여행 컨설턴트로 일하고 있습니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "High-net-worth",
+            "sentence_en": "Privacy is a top priority for high-net-worth people when choosing a new home.",
+            "sentence_ko": "고액 자산가들이 새 집을 고를 때 사생활 보호는 최우선 순위입니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Upscale",
+            "sentence_en": "We had dinner at an upscale restaurant that specializes in modern fusion cooking.",
+            "sentence_ko": "우리는 현대적인 퓨전 요리를 전문으로 하는 고급 레스토랑에서 저녁을 먹었습니다.",
+            "tags": [
+                "food",
+                "cooking",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Upscale",
+            "sentence_en": "The neighborhood has many upscale apartment buildings with private digital gyms.",
+            "sentence_ko": "그 동네에는 전용 디지털 체육관을 갖춘 고급 아파트 건물이 많습니다.",
+            "tags": [
+                "digital",
+                "sport",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Upscale",
+            "sentence_en": "She enjoys shopping at upscale malls where you can find the latest fashion trends.",
+            "sentence_ko": "그녀는 최신 패션 트렌드를 찾을 수 있는 고급 쇼핑몰에서 쇼핑하는 것을 즐깁니다.",
+            "tags": [
+                "daily_life",
+                "travel",
+                "time"
+            ]
+        },
+        {
+            "word": "Upscale",
+            "sentence_en": "The company launched an upscale wellness brand aimed at busy urban professionals.",
+            "sentence_ko": "그 회사는 바쁜 도시의 전문직 종사자들을 겨냥한 고급 웰빙 브랜드를 런칭했습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "marketing"
+            ]
+        },
+        {
+            "word": "Upscale",
+            "sentence_en": "Travelers looking for an upscale experience should visit the luxury resorts in the Maldives.",
+            "sentence_ko": "고급스러운 경험을 원하는 여행객들은 몰디브의 럭셔리 리조트를 방문해야 합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Elite",
+            "sentence_en": "The elite group of scientists gathered at the university to discuss the future of AI.",
+            "sentence_ko": "대학교에 모인 엘리트 과학자 그룹이 AI의 미래에 대해 논의했습니다.",
+            "tags": [
+                "university",
+                "digital",
+                "time"
+            ]
+        },
+        {
+            "word": "Elite",
+            "sentence_en": "Only an elite few are able to master the difficult techniques required for professional sports.",
+            "sentence_ko": "프로 스포츠에 필요한 어려운 기술들을 마스터할 수 있는 사람은 소수 엘리트뿐입니다.",
+            "tags": [
+                "sport",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Elite",
+            "sentence_en": "She belongs to the country’s political elite and has a lot of influence on policy.",
+            "sentence_ko": "그녀는 그 나라의 정치 엘리트 계층에 속하며 정책에 큰 영향력을 행사합니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Elite",
+            "sentence_en": "The resort offers exclusive access to an elite digital lounge for its VIP guests.",
+            "sentence_ko": "그 리조트는 VIP 고객들을 위해 엘리트 디지털 라운지 전용 이용 권한을 제공합니다.",
+            "tags": [
+                "travel",
+                "digital",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Elite",
+            "sentence_en": "The university's elite soccer team won the national championship three years in a row.",
+            "sentence_ko": "그 대학교의 정예 축구팀은 3년 연속 전국 챔피언십에서 우승했습니다.",
+            "tags": [
+                "university",
+                "sport",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Moneyed",
+            "sentence_en": "The moneyed classes in the city tend to spend their summer vacations in the Hamptons.",
+            "sentence_ko": "도시의 재산가 계층은 여름 휴가를 햄튼에서 보내는 경향이 있습니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Moneyed",
+            "sentence_en": "She grew up in a moneyed family but decided to live a simple life in a small village.",
+            "sentence_ko": "그녀는 부유한 집안에서 자랐지만 작은 마을에서 소박한 삶을 살기로 결정했습니다.",
+            "tags": [
+                "daily_life",
+                "wellness",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Moneyed",
+            "sentence_en": "The gallery attracts a moneyed crowd interested in investing in modern digital art.",
+            "sentence_ko": "그 갤러리는 현대 디지털 아트 투자에 관심이 있는 돈 많은 사람들을 끌어들입니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Moneyed",
+            "sentence_en": "Many people believe that moneyed interest groups have too much influence on the government.",
+            "sentence_ko": "많은 이들이 자금력 있는 이익 단체들이 정부에 너무 큰 영향력을 행사한다고 믿습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "university"
+            ]
+        },
+        {
+            "word": "Moneyed",
+            "sentence_en": "A moneyed background can sometimes be a burden if you want to be seen for your own merit.",
+            "sentence_ko": "자신의 능력으로만 인정받고 싶을 때, 부유한 배경은 때때로 짐이 될 수도 있습니다.",
+            "tags": [
+                "daily_life",
+                "university",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Nouveau riche",
+            "sentence_en": "His nouveau riche attitude, buying everything flashy and expensive, annoyed his old friends.",
+            "sentence_ko": "번쩍거리고 비싼 것들을 사들이는 그의 졸부 같은 태도는 옛 친구들을 짜증나게 했습니다.",
+            "tags": [
+                "daily_life",
+                "emotion",
+                "time"
+            ]
+        },
+        {
+            "word": "Nouveau riche",
+            "sentence_en": "The restaurant was filled with the nouveau riche, showing off their latest digital gadgets.",
+            "sentence_ko": "그 레스토랑은 최신 디지털 기기들을 뽐내는 벼락부자들로 가득했습니다.",
+            "tags": [
+                "food",
+                "digital",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Nouveau riche",
+            "sentence_en": "They were often mocked as nouveau riche because of their lack of traditional social etiquette.",
+            "sentence_ko": "그들은 전통적인 사교 예절이 부족하다는 이유로 종종 졸부라고 비웃음을 샀습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Nouveau riche",
+            "sentence_en": "Some nouveau riche families spend vast fortunes on opulent wellness retreats in exotic places.",
+            "sentence_ko": "일부 벼락부자 가족들은 이국적인 장소의 호화로운 건강 휴양지에 막대한 돈을 씁니다.",
+            "tags": [
+                "wellness",
+                "travel",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Nouveau riche",
+            "sentence_en": "The movie portrays the tension between old money families and the nouveau riche in high society.",
+            "sentence_ko": "그 영화는 상류 사회의 전통적인 부자 가문과 벼락부자들 사이의 긴장감을 묘사합니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Tycoon",
+            "sentence_en": "The real estate tycoon owns most of the upscale skyscrapers in the downtown area.",
+            "sentence_ko": "그 부동산 거물은 도심 구역에 있는 대부분의 고급 고층 건물들을 소유하고 있습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Tycoon",
+            "sentence_en": "As a digital media tycoon, he has the power to influence public opinion globally.",
+            "sentence_ko": "디지털 미디어계의 거물로서, 그는 전 세계적으로 여론에 영향을 미칠 수 있는 힘을 가지고 있습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Tycoon",
+            "sentence_en": "The technology tycoon donated millions to university research projects on clean energy.",
+            "sentence_ko": "그 기술계 거물은 청정 에너지에 관한 대학교 연구 프로젝트에 수백만 달러를 기부했습니다.",
+            "tags": [
+                "university",
+                "digital",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Tycoon",
+            "sentence_en": "He started as a simple shopkeeper but eventually became a global retail tycoon.",
+            "sentence_ko": "그는 평범한 점원으로 시작했지만 결국 글로벌 소매업계의 대부가 되었습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Tycoon",
+            "sentence_en": "Even a busy tycoon needs to find time for wellness activities like meditation and yoga.",
+            "sentence_ko": "바쁜 거물이라도 명상이나 요가 같은 건강 활동을 위한 시간을 내야 합니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Magnate",
+            "sentence_en": "The oil magnate’s fortune is estimated to be over fifty billion dollars.",
+            "sentence_ko": "그 석유 왕의 재산은 500억 달러 이상으로 추정됩니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Magnate",
+            "sentence_en": "As a shipping magnate, he controls a vast network of vessels traveling across the oceans.",
+            "sentence_ko": "해운업계의 유력자로서, 그는 대양을 오가는 방대한 선박 네트워크를 관리합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Magnate",
+            "sentence_en": "The entertainment magnate decided to launch a new digital streaming service next year.",
+            "sentence_ko": "그 엔터테인먼트 거물은 내년에 새로운 디지털 스트리밍 서비스를 시작하기로 결정했습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Magnate",
+            "sentence_en": "She became a fashion magnate after her clothing brand went global and became very popular.",
+            "sentence_ko": "그녀의 의류 브랜드가 세계적으로 유명해진 후, 그녀는 패션계의 거물이 되었습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Magnate",
+            "sentence_en": "The university invited the business magnate to give a guest lecture to students.",
+            "sentence_ko": "대학교는 학생들을 위한 초청 강연을 위해 그 비즈니스계 거물을 초대했습니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Millionaire",
+            "sentence_en": "He became a self-made millionaire before the age of thirty by investing in digital startups.",
+            "sentence_ko": "그는 디지털 스타트업에 투자하여 서른 살이 되기 전에 자수성가한 백만장자가 되었습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Millionaire",
+            "sentence_en": "Living like a millionaire doesn't always guarantee that you will be happy.",
+            "sentence_ko": "백만장자처럼 사는 것이 항상 행복을 보장해 주는 것은 아닙니다.",
+            "tags": [
+                "emotion",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Millionaire",
+            "sentence_en": "The lottery winner was shocked to find out that he was now a millionaire.",
+            "sentence_ko": "복권 당첨자는 자신이 이제 백만장자가 되었다는 사실을 알고 깜짝 놀랐습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Millionaire",
+            "sentence_en": "Many millionaires choose to spend their money on luxury travel and expensive hobbies.",
+            "sentence_ko": "많은 백만장자들이 럭셔리 여행과 값비싼 취미 생활에 돈을 쓰는 것을 선택합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "sport"
+            ]
+        },
+        {
+            "word": "Millionaire",
+            "sentence_en": "She works as a personal assistant to a young millionaire in the tech industry.",
+            "tags": [
+                "daily_life",
+                "time",
+                "digital"
+            ],
+            "sentence_ko": "그녀는 기술 산업 분야의 젊은 백만장자의 개인 비서로 일하고 있습니다."
+        },
+        {
+            "word": "Billionaire",
+            "sentence_en": "The billionaire entrepreneur is known for his ambitious plans to build a city on Mars.",
+            "sentence_ko": "그 억만장자 기업가는 화성에 도시를 건설하겠다는 야심 찬 계획으로 유명합니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Billionaire",
+            "sentence_en": "Billionaires often have a huge impact on the world through their massive charity foundations.",
+            "sentence_ko": "억만장자들은 종종 거대한 자선 재단을 통해 세상에 큰 영향을 끼칩니다.",
+            "tags": [
+                "daily_life",
+                "wellness",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Billionaire",
+            "sentence_en": "He is the first person in his country to become a billionaire through digital innovation.",
+            "sentence_ko": "그는 디지털 혁신을 통해 자기 나라에서 처음으로 억만장자가 된 사람입니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Billionaire",
+            "sentence_en": "Living on a private island is a common luxury for many world-famous billionaires.",
+            "sentence_ko": "전용 섬에서 사는 것은 많은 세계적인 억만장자들에게 흔한 사치입니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "wellness"
+            ]
+        },
+        {
+            "word": "Billionaire",
+            "sentence_en": "The billionaire decided to invest in the university to support new medical wellness research.",
+            "sentence_ko": "그 억만장자는 새로운 의학 및 건강 연구를 지원하기 위해 대학교에 투자하기로 했습니다.",
+            "tags": [
+                "university",
+                "wellness",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Fortune",
+            "sentence_en": "He spent a small fortune on high-end digital equipment for his home recording studio.",
+            "sentence_ko": "그는 홈 레코딩 스튜디오를 위한 고급 디지털 장비를 마련하는 데 거금을 썼습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Fortune",
+            "sentence_en": "She inherited a vast fortune from her grandfather, but she decided to give most of it away.",
+            "sentence_ko": "그녀는 할아버지로부터 막대한 유산을 물려받았지만, 대부분을 기부하기로 결정했습니다.",
+            "tags": [
+                "daily_life",
+                "emotion",
+                "time"
+            ]
+        },
+        {
+            "word": "Fortune",
+            "sentence_en": "Travelers should be careful as a trip to that exclusive resort can cost a fortune.",
+            "sentence_ko": "그 독점적인 리조트로 여행을 가는 것은 엄청난 돈이 들 수 있으니 주의해야 합니다.",
+            "tags": [
+                "travel",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Fortune",
+            "sentence_en": "Building a successful tech company from scratch takes hard work, luck, and a bit of fortune.",
+            "sentence_ko": "아무것도 없는 상태에서 성공적인 기술 회사를 세우는 데는 노력과 운, 그리고 어느 정도의 자금이 필요합니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Fortune",
+            "sentence_en": "A healthy body is worth more than any fortune you could possibly earn in your life.",
+            "sentence_ko": "건강한 몸은 일생 동안 벌 수 있는 그 어떤 큰 재산보다 가치가 있습니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Asset",
+            "sentence_en": "Her positive attitude is her greatest asset when facing difficult challenges at the university.",
+            "sentence_ko": "대학교에서 어려운 도전에 직면할 때 그녀의 긍정적인 태도는 그녀의 가장 큰 자산입니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Asset",
+            "sentence_en": "In the digital world, data has become the most valuable asset for many large corporations.",
+            "sentence_ko": "디지털 세상에서 데이터는 많은 대기업들에게 가장 가치 있는 자산이 되었습니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Asset",
+            "sentence_en": "Investing in real estate is a great way to build a strong portfolio of physical assets.",
+            "sentence_ko": "부동산에 투자하는 것은 강력한 실물 자산 포트폴리오를 구축하는 좋은 방법입니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "travel"
+            ]
+        },
+        {
+            "word": "Asset",
+            "sentence_en": "Good physical wellness is an important asset that helps you perform better in sports.",
+            "sentence_ko": "좋은 신체적 건강은 스포츠에서 더 나은 성과를 낼 수 있게 도와주는 중요한 자산입니다.",
+            "tags": [
+                "wellness",
+                "sport",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Asset",
+            "sentence_en": "The company decided to sell some of its non-core assets to raise more capital.",
+            "sentence_ko": "회사는 더 많은 자본을 조달하기 위해 일부 비핵심 자산을 매각하기로 결정했습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "digital"
+            ]
+        },
+        {
+            "word": "Capital",
+            "sentence_en": "The startup needs more venture capital to expand its digital services to international markets.",
+            "sentence_ko": "그 스타트업은 디지털 서비스를 국제 시장으로 확장하기 위해 더 많은 벤처 자본이 필요합니다.",
+            "tags": [
+                "digital",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Capital",
+            "sentence_en": "Working hard and learning new skills is a way of building your own human capital.",
+            "sentence_ko": "열심히 일하고 새로운 기술을 배우는 것은 자신만의 인적 자본을 구축하는 방법입니다.",
+            "tags": [
+                "university",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Capital",
+            "sentence_en": "They raised the necessary capital by presenting their cooking app idea to a group of investors.",
+            "sentence_ko": "그들은 투자자 그룹에게 요리 앱 아이디어를 발표하여 필요한 자본을 조달했습니다.",
+            "tags": [
+                "cooking",
+                "daily_life",
+                "digital"
+            ]
+        },
+        {
+            "word": "Capital",
+            "sentence_en": "A healthy mind is essential capital for anyone wanting to lead a successful and happy life.",
+            "sentence_ko": "건강한 정신은 성공적이고 행복한 삶을 살고자 하는 누구에게나 필수적인 밑천입니다.",
+            "tags": [
+                "wellness",
+                "emotion",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Capital",
+            "sentence_en": "The factory had to close down because it lacked the capital to buy modern machinery.",
+            "sentence_ko": "그 공장은 현대적인 기계를 살 자본금이 부족해서 문을 닫아야 했습니다.",
+            "tags": [
+                "daily_life",
+                "time",
+                "digital"
+            ]
+        },
+        {
+            "word": "Inheritance",
+            "sentence_en": "He used his inheritance to travel the world and learn about different cultures and food.",
+            "sentence_ko": "그는 상속받은 돈을 전 세계를 여행하며 다양한 문화와 음식을 배우는 데 썼습니다.",
+            "tags": [
+                "travel",
+                "food",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Inheritance",
+            "sentence_en": "Waiting for an inheritance is not a good strategy for your long-term financial wellness.",
+            "sentence_ko": "유산을 기다리는 것은 장기적인 재정적 건강을 위해 좋은 전략이 아닙니다.",
+            "tags": [
+                "wellness",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Inheritance",
+            "sentence_en": "She received a small inheritance and decided to spend it on a digital arts course.",
+            "sentence_ko": "그녀는 약간의 유산을 물려받았고 그것을 디지털 아트 과정을 듣는 데 쓰기로 했습니다.",
+            "tags": [
+                "digital",
+                "university",
+                "daily_life"
+            ]
+        },
+        {
+            "word": "Inheritance",
+            "sentence_en": "Family inheritance can sometimes cause arguments and hurt emotions between siblings.",
+            "sentence_ko": "가족 유산은 때때로 형제들 사이에 다툼을 일으키고 감정을 상하게 할 수 있습니다.",
+            "tags": [
+                "emotion",
+                "daily_life",
+                "time"
+            ]
+        },
+        {
+            "word": "Inheritance",
+            "sentence_en": "The ancient castle was part of his family inheritance, but it was too expensive to maintain.",
+            "sentence_ko": "그 고성은 가문의 상속 재산이었지만 유지비가 너무 많이 들었습니다.",
+            "tags": [
+                "daily_life",
+                "travel",
+                "time"
+            ]
+        }
+    ]
+}

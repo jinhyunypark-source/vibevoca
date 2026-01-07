@@ -1,0 +1,906 @@
+{
+  "deck_title": "GROWTH_PROSPERITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Flourish",
+      "sentence_en": "Creativity flourishes in a supportive university environment.",
+      "sentence_ko": "창의성은 지지해 주는 대학 환경에서 번창합니다.",
+      "tags": ["education", "university", "environment"]
+    },
+    {
+      "word": "Flourish",
+      "sentence_en": "The restaurant business flourishes during the hot summer season.",
+      "sentence_ko": "요식업은 더운 여름철에 번창합니다.",
+      "tags": ["dining", "hot", "business"]
+    },
+    {
+      "word": "Flourish",
+      "sentence_en": "Plants flourish when the environment is clean and healthy.",
+      "sentence_ko": "식물들은 환경이 깨끗하고 건강할 때 잘 자랍니다.",
+      "tags": ["environment", "time", "nature"]
+    },
+    {
+      "word": "Flourish",
+      "sentence_en": "Her unique style flourished after she started studying fashion.",
+      "sentence_ko": "그녀의 독특한 스타일은 패션을 공부하기 시작한 후 만개했습니다.",
+      "tags": ["style", "education", "fashion"]
+    },
+    {
+      "word": "Flourish",
+      "sentence_en": "AI technology is flourishing in the current tech market.",
+      "sentence_ko": "AI 기술은 현재 기술 시장에서 번성하고 있습니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Thrive",
+      "sentence_en": "Children thrive when they receive good education and love.",
+      "sentence_ko": "아이들은 좋은 교육과 사랑을 받을 때 잘 자랍니다.",
+      "tags": ["education", "feeling", "family"]
+    },
+    {
+      "word": "Thrive",
+      "sentence_en": "This plant thrives even in hot and dry environments.",
+      "sentence_ko": "이 식물은 덥고 건조한 환경에서도 잘 자랍니다.",
+      "tags": ["hot", "environment", "nature"]
+    },
+    {
+      "word": "Thrive",
+      "sentence_en": "Small businesses thrive with careful planning and execution.",
+      "sentence_ko": "소기업들은 신중한 계획과 실행이 있으면 번창합니다.",
+      "tags": ["planning", "business", "time"]
+    },
+    {
+      "word": "Thrive",
+      "sentence_en": "He thrives on the pressure of university exams.",
+      "sentence_ko": "그는 대학 시험의 압박감 속에서 오히려 힘을 냅니다.",
+      "tags": ["university", "education", "feeling"]
+    },
+    {
+      "word": "Thrive",
+      "sentence_en": "The new dining scene is thriving with diverse options.",
+      "sentence_ko": "새로운 외식 업계는 다양한 선택지들로 성행하고 있습니다.",
+      "tags": ["dining", "style", "food"]
+    },
+    {
+      "word": "Prosper",
+      "sentence_en": "We need careful planning for the city to prosper.",
+      "sentence_ko": "도시가 번영하기 위해서는 신중한 계획이 필요합니다.",
+      "tags": ["planning", "environment", "city"]
+    },
+    {
+      "word": "Prosper",
+      "sentence_en": "The university alumni prospered in various fields after graduation.",
+      "sentence_ko": "대학 졸업생들은 졸업 후 각계각층에서 성공했습니다.",
+      "tags": ["university", "education", "time"]
+    },
+    {
+      "word": "Prosper",
+      "sentence_en": "Businesses prosper when the economic environment is stable.",
+      "sentence_ko": "경제 환경이 안정적일 때 기업들은 번영합니다.",
+      "tags": ["environment", "business", "planning"]
+    },
+    {
+      "word": "Prosper",
+      "sentence_en": "I hope your new venture will prosper over time.",
+      "sentence_ko": "당신의 새로운 벤처 사업이 시간이 지나며 번창하기를 바랍니다.",
+      "tags": ["time", "feeling", "business"]
+    },
+    {
+      "word": "Prosper",
+      "sentence_en": "AI industries are expected to prosper in the next decade.",
+      "sentence_ko": "AI 산업은 향후 10년 동안 번영할 것으로 예상됩니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Boom",
+      "sentence_en": "The housing market boomed due to hot demand.",
+      "sentence_ko": "주택 시장은 뜨거운 수요 덕분에 호황을 누렸습니다.",
+      "tags": ["hot", "environment", "business"]
+    },
+    {
+      "word": "Boom",
+      "sentence_en": "Online education boomed during the recent global crisis.",
+      "sentence_ko": "최근의 전 세계적 위기 동안 온라인 교육이 급성장했습니다.",
+      "tags": ["education", "time", "internet"]
+    },
+    {
+      "word": "Boom",
+      "sentence_en": "The AI sector is booming with new startups appearing daily.",
+      "sentence_ko": "AI 분야는 매일 새로운 스타트업이 등장하며 호황을 맞고 있습니다.",
+      "tags": ["ai", "business", "time"]
+    },
+    {
+      "word": "Boom",
+      "sentence_en": "Tourism in this city booms every summer vacation time.",
+      "sentence_ko": "이 도시의 관광업은 매년 여름휴가 때마다 호황을 누립니다.",
+      "tags": ["time", "environment", "travel"]
+    },
+    {
+      "word": "Boom",
+      "sentence_en": "The dining culture is booming with new restaurant concepts.",
+      "sentence_ko": "외식 문화는 새로운 레스토랑 콘셉트들로 급성장하고 있습니다.",
+      "tags": ["dining", "style", "food"]
+    },
+    {
+      "word": "Blossom",
+      "sentence_en": "Her talent for coding blossomed during her university years.",
+      "sentence_ko": "그녀의 코딩 재능은 대학 시절에 꽃을 피웠습니다.",
+      "tags": ["university", "education", "time"]
+    },
+    {
+      "word": "Blossom",
+      "sentence_en": "Their relationship blossomed into a warm and loving marriage.",
+      "sentence_ko": "그들의 관계는 따뜻하고 사랑스러운 결혼 생활로 발전했습니다.",
+      "tags": ["feeling", "time", "love"]
+    },
+    {
+      "word": "Blossom",
+      "sentence_en": "Cherry blossoms make the environment look magical in spring.",
+      "sentence_ko": "벚꽃은 봄에 주변 환경을 마법처럼 보이게 만듭니다.",
+      "tags": ["environment", "style", "nature"]
+    },
+    {
+      "word": "Blossom",
+      "sentence_en": "The project blossomed after we applied AI solutions.",
+      "sentence_ko": "우리가 AI 솔루션을 적용한 후 프로젝트가 꽃을 피웠습니다.",
+      "tags": ["ai", "planning", "work"]
+    },
+    {
+      "word": "Blossom",
+      "sentence_en": "His culinary skills blossomed after working in fine dining.",
+      "sentence_ko": "그의 요리 기술은 파인 다이닝에서 일한 후 만개했습니다.",
+      "tags": ["dining", "education", "food"]
+    },
+    {
+      "word": "Burgeon",
+      "sentence_en": "The burgeoning AI market offers many new opportunities.",
+      "sentence_ko": "급성장하는 AI 시장은 많은 새로운 기회를 제공합니다.",
+      "tags": ["ai", "business", "planning"]
+    },
+    {
+      "word": "Burgeon",
+      "sentence_en": "Interest in environmental protection is burgeoning among students.",
+      "sentence_ko": "학생들 사이에서 환경 보호에 대한 관심이 급증하고 있습니다.",
+      "tags": ["environment", "education", "feeling"]
+    },
+    {
+      "word": "Burgeon",
+      "sentence_en": "A burgeoning demand for healthy dining options is evident.",
+      "sentence_ko": "건강한 외식 메뉴에 대한 급증하는 수요가 분명합니다.",
+      "tags": ["dining", "style", "health"]
+    },
+    {
+      "word": "Burgeon",
+      "sentence_en": "The university has a burgeoning population of international students.",
+      "sentence_ko": "그 대학은 유학생 수가 급격히 늘어나고 있습니다.",
+      "tags": ["university", "education", "people"]
+    },
+    {
+      "word": "Burgeon",
+      "sentence_en": "My feeling of excitement burgeoned as the trip approached.",
+      "sentence_ko": "여행이 다가올수록 내 흥분감은 커져만 갔습니다.",
+      "tags": ["feeling", "time", "travel"]
+    },
+    {
+      "word": "Expand",
+      "sentence_en": "We plan to expand our dining area to serve more guests.",
+      "sentence_ko": "우리는 더 많은 손님을 모시기 위해 식사 공간을 확장할 계획입니다.",
+      "tags": ["dining", "planning", "business"]
+    },
+    {
+      "word": "Expand",
+      "sentence_en": "The university is expanding its campus to accommodate more students.",
+      "sentence_ko": "대학은 더 많은 학생을 수용하기 위해 캠퍼스를 확장하고 있습니다.",
+      "tags": ["university", "environment", "education"]
+    },
+    {
+      "word": "Expand",
+      "sentence_en": "AI capabilities expand every year with new algorithms.",
+      "sentence_ko": "AI 능력은 새로운 알고리즘과 함께 매년 확장됩니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Expand",
+      "sentence_en": "Reading helps expand your mind and education.",
+      "sentence_ko": "독서는 당신의 사고와 배움을 확장하는 데 도움을 줍니다.",
+      "tags": ["education", "feeling", "book"]
+    },
+    {
+      "word": "Expand",
+      "sentence_en": "The heat caused the metal tracks to expand slightly.",
+      "sentence_ko": "열기로 인해 금속 선로가 약간 팽창했습니다.",
+      "tags": ["hot", "environment", "science"]
+    },
+    {
+      "word": "Escalate",
+      "sentence_en": "The cost of university tuition has escalated significantly over time.",
+      "sentence_ko": "대학 등록금이 시간이 지남에 따라 크게 올랐습니다.",
+      "tags": ["university", "time", "education"]
+    },
+    {
+      "word": "Escalate",
+      "sentence_en": "Arguments can escalate quickly if feelings are hurt.",
+      "sentence_ko": "감정이 상하면 말다툼이 순식간에 격해질 수 있습니다.",
+      "tags": ["feeling", "style", "social"]
+    },
+    {
+      "word": "Escalate",
+      "sentence_en": "We need planning to prevent the conflict from escalating.",
+      "sentence_ko": "우리는 갈등이 확대되는 것을 막기 위한 계획이 필요합니다.",
+      "tags": ["planning", "environment", "social"]
+    },
+    {
+      "word": "Escalate",
+      "sentence_en": "Demand for AI experts is escalating in the job market.",
+      "sentence_ko": "취업 시장에서 AI 전문가에 대한 수요가 고조되고 있습니다.",
+      "tags": ["ai", "business", "education"]
+    },
+    {
+      "word": "Escalate",
+      "sentence_en": "The spiciness of the food escalated with every bite.",
+      "sentence_ko": "음식의 매운맛은 한 입 먹을 때마다 더 강해졌습니다.",
+      "tags": ["dining", "hot", "food"]
+    },
+    {
+      "word": "Surge",
+      "sentence_en": "There was a surge in enrollment at the university this year.",
+      "sentence_ko": "올해 대학 등록생 수가 급증했습니다.",
+      "tags": ["university", "education", "time"]
+    },
+    {
+      "word": "Surge",
+      "sentence_en": "A sudden power surge damaged the AI server room.",
+      "sentence_ko": "갑작스러운 전력 급증으로 AI 서버실이 손상되었습니다.",
+      "tags": ["ai", "environment", "tech"]
+    },
+    {
+      "word": "Surge",
+      "sentence_en": "I felt a surge of happiness when I finished the project.",
+      "sentence_ko": "프로젝트를 마쳤을 때 행복감이 밀려왔습니다.",
+      "tags": ["feeling", "time", "work"]
+    },
+    {
+      "word": "Surge",
+      "sentence_en": "Prices surge when the weather gets extremely hot.",
+      "sentence_ko": "날씨가 극도로 더워지면 가격이 급등합니다.",
+      "tags": ["hot", "planning", "market"]
+    },
+    {
+      "word": "Surge",
+      "sentence_en": "The crowd surged forward to get into the dining hall.",
+      "sentence_ko": "군중이 식당으로 들어가기 위해 앞으로 밀려들었습니다.",
+      "tags": ["dining", "environment", "people"]
+    },
+    {
+      "word": "Soar",
+      "sentence_en": "Temperatures are expected to soar this week, so stay cool.",
+      "sentence_ko": "이번 주에 기온이 치솟을 것으로 예상되니 시원하게 지내세요.",
+      "tags": ["hot", "environment", "time"]
+    },
+    {
+      "word": "Soar",
+      "sentence_en": "Tuition fees at the university continue to soar.",
+      "sentence_ko": "대학 등록금이 계속해서 치솟고 있습니다.",
+      "tags": ["university", "education", "money"]
+    },
+    {
+      "word": "Soar",
+      "sentence_en": "Her confidence soared after receiving the award.",
+      "sentence_ko": "상을 받은 후 그녀의 자신감이 치솟았습니다.",
+      "tags": ["feeling", "style", "success"]
+    },
+    {
+      "word": "Soar",
+      "sentence_en": "Stock prices of AI companies soared after the announcement.",
+      "sentence_ko": "발표 후 AI 기업들의 주가가 치솟았습니다.",
+      "tags": ["ai", "business", "planning"]
+    },
+    {
+      "word": "Soar",
+      "sentence_en": "The eagle soared high above the beautiful environment.",
+      "sentence_ko": "독수리가 아름다운 환경 위로 높이 날아올랐습니다.",
+      "tags": ["environment", "nature", "bird"]
+    },
+    {
+      "word": "Skyrocket",
+      "sentence_en": "The popularity of AI tools has skyrocketed recently.",
+      "sentence_ko": "최근 AI 도구의 인기가 급등했습니다.",
+      "tags": ["ai", "time", "style"]
+    },
+    {
+      "word": "Skyrocket",
+      "sentence_en": "Housing costs skyrocketed in the university district.",
+      "sentence_ko": "대학가의 주거 비용이 급등했습니다.",
+      "tags": ["university", "environment", "money"]
+    },
+    {
+      "word": "Skyrocket",
+      "sentence_en": "Demand for cold drinks skyrockets on hot days.",
+      "sentence_ko": "더운 날에는 차가운 음료 수요가 급증합니다.",
+      "tags": ["hot", "dining", "business"]
+    },
+    {
+      "word": "Skyrocket",
+      "sentence_en": "My stress levels skyrocketed during exam planning.",
+      "sentence_ko": "시험 계획을 짜는 동안 스트레스 수치가 치솟았습니다.",
+      "tags": ["feeling", "planning", "education"]
+    },
+    {
+      "word": "Skyrocket",
+      "sentence_en": "Sales of the new fashion style skyrocketed overnight.",
+      "sentence_ko": "새로운 패션 스타일의 매출이 하룻밤 사이에 급증했습니다.",
+      "tags": ["style", "business", "time"]
+    },
+    {
+      "word": "Amplify",
+      "sentence_en": "Using a microphone will amplify your voice in the lecture hall.",
+      "sentence_ko": "마이크를 사용하면 강의실에서 목소리를 증폭시킬 수 있습니다.",
+      "tags": ["university", "education", "tech"]
+    },
+    {
+      "word": "Amplify",
+      "sentence_en": "Social media tends to amplify negative feelings and news.",
+      "sentence_ko": "소셜 미디어는 부정적인 감정과 뉴스를 증폭시키는 경향이 있습니다.",
+      "tags": ["feeling", "environment", "social"]
+    },
+    {
+      "word": "Amplify",
+      "sentence_en": "AI can amplify human productivity in planning tasks.",
+      "sentence_ko": "AI는 기획 업무에서 인간의 생산성을 증폭시킬 수 있습니다.",
+      "tags": ["ai", "planning", "work"]
+    },
+    {
+      "word": "Amplify",
+      "sentence_en": "The heat amplified the smell of the garbage.",
+      "sentence_ko": "더위가 쓰레기 냄새를 증폭시켰습니다.",
+      "tags": ["hot", "environment", "smell"]
+    },
+    {
+      "word": "Amplify",
+      "sentence_en": "Good lighting can amplify the style of a dining room.",
+      "sentence_ko": "좋은 조명은 다이닝 룸의 스타일을 돋보이게 할 수 있습니다.",
+      "tags": ["style", "dining", "interior"]
+    },
+    {
+      "word": "Augment",
+      "sentence_en": "We use AI to augment our data analysis capabilities.",
+      "sentence_ko": "우리는 데이터 분석 능력을 증대시키기 위해 AI를 사용합니다.",
+      "tags": ["ai", "planning", "tech"]
+    },
+    {
+      "word": "Augment",
+      "sentence_en": "He took a night job to augment his university income.",
+      "sentence_ko": "그는 대학 생활비를 보태기 위해 야간 아르바이트를 했습니다.",
+      "tags": ["university", "time", "work"]
+    },
+    {
+      "word": "Augment",
+      "sentence_en": "Augmented reality is changing the education landscape.",
+      "sentence_ko": "증강 현실은 교육 환경을 변화시키고 있습니다.",
+      "tags": ["education", "environment", "tech"]
+    },
+    {
+      "word": "Augment",
+      "sentence_en": "Spices are used to augment the flavor of the dish.",
+      "sentence_ko": "향신료는 요리의 풍미를 더하기 위해 사용됩니다.",
+      "tags": ["dining", "style", "food"]
+    },
+    {
+      "word": "Augment",
+      "sentence_en": "Reading books augments your vocabulary over time.",
+      "sentence_ko": "독서는 시간이 지남에 따라 어휘력을 증대시킵니다.",
+      "tags": ["education", "time", "learning"]
+    },
+    {
+      "word": "Enhance",
+      "sentence_en": "Good lighting can enhance the mood of a dining experience.",
+      "sentence_ko": "좋은 조명은 식사 경험의 분위기를 고조시킬 수 있습니다.",
+      "tags": ["dining", "feeling", "style"]
+    },
+    {
+      "word": "Enhance",
+      "sentence_en": "AI tools can enhance the quality of photos instantly.",
+      "sentence_ko": "AI 도구는 사진의 품질을 즉시 향상할 수 있습니다.",
+      "tags": ["ai", "style", "tech"]
+    },
+    {
+      "word": "Enhance",
+      "sentence_en": "University programs aim to enhance students' critical thinking.",
+      "sentence_ko": "대학 프로그램은 학생들의 비판적 사고력을 향상하는 것을 목표로 합니다.",
+      "tags": ["university", "education", "thought"]
+    },
+    {
+      "word": "Enhance",
+      "sentence_en": "Planting trees enhances the local environment and air quality.",
+      "sentence_ko": "나무를 심는 것은 지역 환경과 공기질을 개선합니다.",
+      "tags": ["environment", "planning", "nature"]
+    },
+    {
+      "word": "Enhance",
+      "sentence_en": "Meditation enhances your feeling of peace and well-being.",
+      "sentence_ko": "명상은 평화로움과 행복감을 증진시킵니다.",
+      "tags": ["feeling", "time", "health"]
+    },
+    {
+      "word": "Elevate",
+      "sentence_en": "The new curriculum will elevate the standard of education here.",
+      "sentence_ko": "새로운 커리큘럼은 이곳의 교육 수준을 높일 것입니다.",
+      "tags": ["education", "university", "planning"]
+    },
+    {
+      "word": "Elevate",
+      "sentence_en": "We want to elevate the dining experience with premium ingredients.",
+      "sentence_ko": "우리는 고급 재료로 식사 경험의 품격을 높이고자 합니다.",
+      "tags": ["dining", "style", "food"]
+    },
+    {
+      "word": "Elevate",
+      "sentence_en": "AI can elevate routine tasks to automated processes.",
+      "sentence_ko": "AI는 일상적인 업무를 자동화된 프로세스로 격상시킬 수 있습니다.",
+      "tags": ["ai", "planning", "work"]
+    },
+    {
+      "word": "Elevate",
+      "sentence_en": "Positive thinking can elevate your mood instantly.",
+      "sentence_ko": "긍정적인 사고는 기분을 즉시 고조시킬 수 있습니다.",
+      "tags": ["feeling", "time", "mood"]
+    },
+    {
+      "word": "Elevate",
+      "sentence_en": "The new building elevates the style of the entire neighborhood.",
+      "sentence_ko": "새 건물은 동네 전체의 스타일을 격상시킵니다.",
+      "tags": ["style", "environment", "architecture"]
+    },
+    {
+      "word": "Proliferate",
+      "sentence_en": "AI applications proliferate in every sector of the industry.",
+      "sentence_ko": "AI 애플리케이션은 산업의 모든 분야로 확산되고 있습니다.",
+      "tags": ["ai", "environment", "business"]
+    },
+    {
+      "word": "Proliferate",
+      "sentence_en": "Coffee shops proliferate around the university campus.",
+      "sentence_ko": "대학 캠퍼스 주변에는 커피숍이 우후죽순 생겨납니다.",
+      "tags": ["university", "dining", "place"]
+    },
+    {
+      "word": "Proliferate",
+      "sentence_en": "Rumors proliferate quickly on social media platforms.",
+      "sentence_ko": "소문은 소셜 미디어 플랫폼에서 빠르게 퍼집니다.",
+      "tags": ["time", "environment", "internet"]
+    },
+    {
+      "word": "Proliferate",
+      "sentence_en": "Weeds proliferate in the garden during the hot summer.",
+      "sentence_ko": "잡초는 더운 여름 동안 정원에서 무성하게 자라납니다.",
+      "tags": ["hot", "environment", "nature"]
+    },
+    {
+      "word": "Proliferate",
+      "sentence_en": "Online education courses proliferate as demand grows.",
+      "sentence_ko": "수요가 증가함에 따라 온라인 교육 과정이 급증하고 있습니다.",
+      "tags": ["education", "planning", "internet"]
+    },
+    {
+      "word": "Advance",
+      "sentence_en": "We need to advance our planning for the next quarter.",
+      "sentence_ko": "우리는 다음 분기를 위한 계획을 진전시켜야 합니다.",
+      "tags": ["planning", "time", "business"]
+    },
+    {
+      "word": "Advance",
+      "sentence_en": "AI technology advances at an incredible speed.",
+      "sentence_ko": "AI 기술은 놀라운 속도로 발전하고 있습니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Advance",
+      "sentence_en": "He took a course to advance his career in education.",
+      "sentence_ko": "그는 교육 분야의 경력을 발전시키기 위해 강좌를 수강했습니다.",
+      "tags": ["education", "university", "career"]
+    },
+    {
+      "word": "Advance",
+      "sentence_en": "The army advanced through the hostile environment.",
+      "sentence_ko": "군대는 적대적인 환경을 뚫고 전진했습니다.",
+      "tags": ["environment", "time", "action"]
+    },
+    {
+      "word": "Advance",
+      "sentence_en": "Medical science continues to advance, improving our lives.",
+      "sentence_ko": "의학은 계속 발전하여 우리의 삶을 개선하고 있습니다.",
+      "tags": ["time", "feeling", "science"]
+    },
+    {
+      "word": "Progress",
+      "sentence_en": "Students progress at their own pace in this program.",
+      "sentence_ko": "학생들은 이 프로그램에서 자신의 속도에 맞춰 진도를 나갑니다.",
+      "tags": ["education", "time", "university"]
+    },
+    {
+      "word": "Progress",
+      "sentence_en": "Construction of the dining hall is progressing well.",
+      "sentence_ko": "식당 건설이 순조롭게 진행되고 있습니다.",
+      "tags": ["dining", "planning", "environment"]
+    },
+    {
+      "word": "Progress",
+      "sentence_en": "AI research is progressing faster than we expected.",
+      "sentence_ko": "AI 연구는 우리가 예상한 것보다 빠르게 진행되고 있습니다.",
+      "tags": ["ai", "time", "research"]
+    },
+    {
+      "word": "Progress",
+      "sentence_en": "We need to monitor the progress of environmental protection.",
+      "sentence_ko": "우리는 환경 보호의 진행 상황을 모니터링해야 합니다.",
+      "tags": ["environment", "planning", "nature"]
+    },
+    {
+      "word": "Progress",
+      "sentence_en": "My feeling of confidence progressed as I practiced more.",
+      "sentence_ko": "연습을 더 할수록 자신감이 붙었습니다.",
+      "tags": ["feeling", "education", "practice"]
+    },
+    {
+      "word": "Develop",
+      "sentence_en": "Universities help students develop essential life skills.",
+      "sentence_ko": "대학은 학생들이 필수적인 삶의 기술을 개발하도록 돕습니다.",
+      "tags": ["university", "education", "life"]
+    },
+    {
+      "word": "Develop",
+      "sentence_en": "We plan to develop a new AI model for weather prediction.",
+      "sentence_ko": "우리는 날씨 예측을 위한 새로운 AI 모델을 개발할 계획입니다.",
+      "tags": ["ai", "planning", "environment"]
+    },
+    {
+      "word": "Develop",
+      "sentence_en": "It takes time to develop a unique personal style.",
+      "sentence_ko": "독특한 개인 스타일을 개발하는 데는 시간이 걸립니다.",
+      "tags": ["style", "time", "feeling"]
+    },
+    {
+      "word": "Develop",
+      "sentence_en": "The chef wants to develop a new summer dining menu.",
+      "sentence_ko": "셰프는 새로운 여름 식사 메뉴를 개발하고 싶어 합니다.",
+      "tags": ["dining", "hot", "food"]
+    },
+    {
+      "word": "Develop",
+      "sentence_en": "Children develop quickly in a supportive environment.",
+      "sentence_ko": "아이들은 지지해 주는 환경에서 빠르게 발달합니다.",
+      "tags": ["education", "environment", "family"]
+    },
+    {
+      "word": "Mature",
+      "sentence_en": "Students mature significantly during their years at university.",
+      "sentence_ko": "학생들은 대학 시절 동안 상당히 성숙해집니다.",
+      "tags": ["university", "education", "time"]
+    },
+    {
+      "word": "Mature",
+      "sentence_en": "This wine needs time to mature and develop flavor.",
+      "sentence_ko": "이 와인은 맛이 들고 숙성될 시간이 필요합니다.",
+      "tags": ["dining", "time", "style"]
+    },
+    {
+      "word": "Mature",
+      "sentence_en": "The AI market is starting to mature and stabilize.",
+      "sentence_ko": "AI 시장은 성숙하고 안정화되기 시작했습니다.",
+      "tags": ["ai", "planning", "time"]
+    },
+    {
+      "word": "Mature",
+      "sentence_en": "His feelings for her matured into deep love.",
+      "sentence_ko": "그녀에 대한 그의 감정은 깊은 사랑으로 성숙했습니다.",
+      "tags": ["feeling", "time", "love"]
+    },
+    {
+      "word": "Mature",
+      "sentence_en": "Hot weather helps the fruit mature faster.",
+      "sentence_ko": "더운 날씨는 과일이 더 빨리 익도록 돕습니다.",
+      "tags": ["hot", "environment", "food"]
+    },
+    {
+      "word": "Ripen",
+      "sentence_en": "Tomatoes ripen quickly in the hot summer sun.",
+      "sentence_ko": "토마토는 뜨거운 여름 햇볕 아래서 빨리 익습니다.",
+      "tags": ["hot", "food", "environment"]
+    },
+    {
+      "word": "Ripen",
+      "sentence_en": "The time is ripening for a change in educational policy.",
+      "sentence_ko": "교육 정책에 변화를 줄 시기가 무르익고 있습니다.",
+      "tags": ["education", "time", "planning"]
+    },
+    {
+      "word": "Ripen",
+      "sentence_en": "Let the cheese ripen to achieve the best flavor.",
+      "sentence_ko": "최고의 풍미를 얻기 위해 치즈를 숙성시키세요.",
+      "tags": ["dining", "food", "time"]
+    },
+    {
+      "word": "Ripen",
+      "sentence_en": "Plans for the new AI center are ripening.",
+      "sentence_ko": "새로운 AI 센터에 대한 계획이 무르익고 있습니다.",
+      "tags": ["ai", "planning", "university"]
+    },
+    {
+      "word": "Ripen",
+      "sentence_en": "My feeling that this was the right choice ripened.",
+      "sentence_ko": "이것이 올바른 선택이라는 나의 느낌이 확실해졌습니다.",
+      "tags": ["feeling", "time", "thought"]
+    },
+    {
+      "word": "Accumulate",
+      "sentence_en": "Dust tends to accumulate in the corners of the room.",
+      "sentence_ko": "먼지는 방구석에 쌓이는 경향이 있습니다.",
+      "tags": ["environment", "style", "home"]
+    },
+    {
+      "word": "Accumulate",
+      "sentence_en": "Students accumulate debt while attending university.",
+      "sentence_ko": "학생들은 대학에 다니는 동안 빚이 쌓입니다.",
+      "tags": ["university", "education", "money"]
+    },
+    {
+      "word": "Accumulate",
+      "sentence_en": "Data accumulates rapidly in AI training systems.",
+      "sentence_ko": "AI 훈련 시스템에는 데이터가 빠르게 축적됩니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Accumulate",
+      "sentence_en": "Fat can accumulate if you eat too much dining out.",
+      "sentence_ko": "외식을 너무 많이 하면 지방이 축적될 수 있습니다.",
+      "tags": ["dining", "health", "body"]
+    },
+    {
+      "word": "Accumulate",
+      "sentence_en": "I want to accumulate happy memories during my vacation.",
+      "sentence_ko": "휴가 기간 동안 행복한 추억을 많이 쌓고 싶습니다.",
+      "tags": ["feeling", "time", "travel"]
+    },
+    {
+      "word": "Amass",
+      "sentence_en": "He amassed a fortune through smart financial planning.",
+      "sentence_ko": "그는 현명한 재정 계획을 통해 부를 축적했습니다.",
+      "tags": ["planning", "money", "business"]
+    },
+    {
+      "word": "Amass",
+      "sentence_en": "The university library amassed a huge collection of books.",
+      "sentence_ko": "그 대학 도서관은 방대한 양의 장서를 모았습니다.",
+      "tags": ["university", "education", "book"]
+    },
+    {
+      "word": "Amass",
+      "sentence_en": "Clouds amassed in the sky, signaling a storm.",
+      "sentence_ko": "폭풍을 알리는 구름이 하늘에 잔뜩 모여들었습니다.",
+      "tags": ["environment", "weather", "nature"]
+    },
+    {
+      "word": "Amass",
+      "sentence_en": "She amassed a large following for her fashion style.",
+      "sentence_ko": "그녀는 자신의 패션 스타일로 많은 팔로워를 모았습니다.",
+      "tags": ["style", "internet", "social"]
+    },
+    {
+      "word": "Amass",
+      "sentence_en": "AI companies amass user data to improve services.",
+      "sentence_ko": "AI 기업들은 서비스를 개선하기 위해 사용자 데이터를 수집합니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Multiply",
+      "sentence_en": "Problems multiply when you ignore proper planning.",
+      "sentence_ko": "적절한 계획을 무시하면 문제는 배가됩니다.",
+      "tags": ["planning", "time", "work"]
+    },
+    {
+      "word": "Multiply",
+      "sentence_en": "Bacteria multiply rapidly in hot and humid environments.",
+      "sentence_ko": "박테리아는 덥고 습한 환경에서 빠르게 증식합니다.",
+      "tags": ["hot", "environment", "health"]
+    },
+    {
+      "word": "Multiply",
+      "sentence_en": "AI can multiply the efficiency of data processing.",
+      "sentence_ko": "AI는 데이터 처리 효율성을 배가시킬 수 있습니다.",
+      "tags": ["ai", "time", "tech"]
+    },
+    {
+      "word": "Multiply",
+      "sentence_en": "His happiness multiplied when he heard the good news.",
+      "sentence_ko": "좋은 소식을 듣자 그의 행복감은 배가되었습니다.",
+      "tags": ["feeling", "time", "joy"]
+    },
+    {
+      "word": "Multiply",
+      "sentence_en": "Rabbits multiply quickly in the wild environment.",
+      "sentence_ko": "토끼는 야생 환경에서 빠르게 번식합니다.",
+      "tags": ["environment", "nature", "animal"]
+    },
+    {
+      "word": "Boost",
+      "sentence_en": "Drinking coffee can boost your energy in the morning.",
+      "sentence_ko": "커피를 마시는 것은 아침에 에너지를 북돋아 줄 수 있습니다.",
+      "tags": ["dining", "time", "feeling"]
+    },
+    {
+      "word": "Boost",
+      "sentence_en": "This scholarship will boost her chances of attending university.",
+      "sentence_ko": "이 장학금은 그녀의 대학 진학 가능성을 높여줄 것입니다.",
+      "tags": ["university", "education", "money"]
+    },
+    {
+      "word": "Boost",
+      "sentence_en": "AI tools can boost productivity in content creation.",
+      "sentence_ko": "AI 도구는 콘텐츠 제작의 생산성을 높일 수 있습니다.",
+      "tags": ["ai", "time", "work"]
+    },
+    {
+      "word": "Boost",
+      "sentence_en": "Good reviews boost the reputation of a dining establishment.",
+      "sentence_ko": "좋은 리뷰는 식당의 평판을 높여줍니다.",
+      "tags": ["dining", "style", "business"]
+    },
+    {
+      "word": "Boost",
+      "sentence_en": "Planting trees helps boost the local environment.",
+      "sentence_ko": "나무 심기는 지역 환경을 개선하는 데 도움이 됩니다.",
+      "tags": ["environment", "planning", "nature"]
+    },
+    {
+      "word": "Fortify",
+      "sentence_en": "We need to fortify the building against hot weather.",
+      "sentence_ko": "우리는 더운 날씨에 대비해 건물을 강화해야 합니다.",
+      "tags": ["hot", "environment", "planning"]
+    },
+    {
+      "word": "Fortify",
+      "sentence_en": "Vitamins help fortify your body against illness.",
+      "sentence_ko": "비타민은 질병에 대항하여 몸을 튼튼하게 해줍니다.",
+      "tags": ["health", "education", "body"]
+    },
+    {
+      "word": "Fortify",
+      "sentence_en": "The university fortified its network security against hackers.",
+      "sentence_ko": "대학은 해커에 대비해 네트워크 보안을 강화했습니다.",
+      "tags": ["university", "tech", "ai"]
+    },
+    {
+      "word": "Fortify",
+      "sentence_en": "Adding protein can fortify a simple dining meal.",
+      "sentence_ko": "단백질을 추가하면 간단한 식사 메뉴를 영양가 있게 강화할 수 있습니다.",
+      "tags": ["dining", "food", "health"]
+    },
+    {
+      "word": "Fortify",
+      "sentence_en": "Reading classics fortifies your mind and education.",
+      "sentence_ko": "고전을 읽는 것은 정신과 교양을 살찌웁니다.",
+      "tags": ["education", "feeling", "book"]
+    },
+    {
+      "word": "Strengthen",
+      "sentence_en": "Regular exercise strengthens your muscles and heart.",
+      "sentence_ko": "규칙적인 운동은 근육과 심장을 강화합니다.",
+      "tags": ["health", "time", "body"]
+    },
+    {
+      "word": "Strengthen",
+      "sentence_en": "We need to strengthen our planning for the upcoming event.",
+      "sentence_ko": "다가오는 행사를 위해 계획을 강화해야 합니다.",
+      "tags": ["planning", "time", "work"]
+    },
+    {
+      "word": "Strengthen",
+      "sentence_en": "AI strengthens the capability of medical diagnosis.",
+      "sentence_ko": "AI는 의료 진단 능력을 강화합니다.",
+      "tags": ["ai", "health", "tech"]
+    },
+    {
+      "word": "Strengthen",
+      "sentence_en": "Shared experiences strengthen the bond between friends.",
+      "sentence_ko": "공유된 경험은 친구 사이의 유대를 강화합니다.",
+      "tags": ["feeling", "social", "friendship"]
+    },
+    {
+      "word": "Strengthen",
+      "sentence_en": "The university wants to strengthen its ties with the industry.",
+      "sentence_ko": "대학은 산업계와의 유대를 강화하고자 합니다.",
+      "tags": ["university", "education", "business"]
+    },
+    {
+      "word": "Optimize",
+      "sentence_en": "We use AI to optimize energy consumption in the building.",
+      "sentence_ko": "우리는 건물 내 에너지 소비를 최적화하기 위해 AI를 사용합니다.",
+      "tags": ["ai", "environment", "planning"]
+    },
+    {
+      "word": "Optimize",
+      "sentence_en": "You should optimize your study schedule for better grades.",
+      "sentence_ko": "더 좋은 성적을 위해 공부 일정을 최적화해야 합니다.",
+      "tags": ["education", "planning", "time"]
+    },
+    {
+      "word": "Optimize",
+      "sentence_en": "Chefs optimize the menu to reduce food waste.",
+      "sentence_ko": "요리사들은 음식물 쓰레기를 줄이기 위해 메뉴를 최적화합니다.",
+      "tags": ["dining", "environment", "food"]
+    },
+    {
+      "word": "Optimize",
+      "sentence_en": "Optimize your website for mobile viewing style.",
+      "sentence_ko": "모바일 보기 스타일에 맞춰 웹사이트를 최적화하세요.",
+      "tags": ["style", "tech", "internet"]
+    },
+    {
+      "word": "Optimize",
+      "sentence_en": "Engineers optimize the engine to run in hot conditions.",
+      "sentence_ko": "엔지니어들은 엔진이 더운 조건에서도 작동하도록 최적화합니다.",
+      "tags": ["hot", "tech", "car"]
+    },
+    {
+      "word": "Maximize",
+      "sentence_en": "Students should maximize their time at university.",
+      "sentence_ko": "학생들은 대학에서의 시간을 최대한 활용해야 합니다.",
+      "tags": ["university", "time", "education"]
+    },
+    {
+      "word": "Maximize",
+      "sentence_en": "We want to maximize the natural light in the environment.",
+      "sentence_ko": "우리는 환경 내 자연광을 극대화하고 싶습니다.",
+      "tags": ["environment", "style", "home"]
+    },
+    {
+      "word": "Maximize",
+      "sentence_en": "AI helps companies maximize their operational efficiency.",
+      "sentence_ko": "AI는 기업들이 운영 효율성을 극대화하도록 돕습니다.",
+      "tags": ["ai", "business", "planning"]
+    },
+    {
+      "word": "Maximize",
+      "sentence_en": "Maximize your dining pleasure by pairing wine with food.",
+      "sentence_ko": "음식과 와인을 곁들여 식사의 즐거움을 극대화하세요.",
+      "tags": ["dining", "style", "feeling"]
+    },
+    {
+      "word": "Maximize",
+      "sentence_en": "Planning ahead helps you maximize your vacation days.",
+      "sentence_ko": "미리 계획하면 휴가 기간을 최대한 활용하는 데 도움이 됩니다.",
+      "tags": ["planning", "time", "vacation"]
+    },
+    {
+      "word": "Upgrade",
+      "sentence_en": "I need to upgrade my computer to run AI software.",
+      "sentence_ko": "AI 소프트웨어를 실행하려면 컴퓨터를 업그레이드해야 합니다.",
+      "tags": ["ai", "tech", "time"]
+    },
+    {
+      "word": "Upgrade",
+      "sentence_en": "The university plans to upgrade its library facilities.",
+      "sentence_ko": "대학은 도서관 시설을 개선할 계획입니다.",
+      "tags": ["university", "education", "environment"]
+    },
+    {
+      "word": "Upgrade",
+      "sentence_en": "We decided to upgrade our dining table to a larger one.",
+      "sentence_ko": "우리는 식탁을 더 큰 것으로 바꾸기로 결정했습니다.",
+      "tags": ["dining", "style", "home"]
+    },
+    {
+      "word": "Upgrade",
+      "sentence_en": "Upgrade your style with some new fashion accessories.",
+      "sentence_ko": "새로운 패션 액세서리로 스타일을 업그레이드하세요.",
+      "tags": ["style", "fashion", "shopping"]
+    },
+    {
+      "word": "Upgrade",
+      "sentence_en": "Hotels upgrade rooms for guests on special occasions.",
+      "sentence_ko": "호텔은 특별한 날에 투숙객을 위해 객실을 업그레이드해 줍니다.",
+      "tags": ["feeling", "time", "travel"]
+    }
+  ]
+}

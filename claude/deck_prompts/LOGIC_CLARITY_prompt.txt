@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: LOGIC_CLARITY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Articulate - 조리 있는, 분명한
+2. Coherent - 일관성 있는, 앞뒤가 맞는
+3. Candid - 솔직한 (숨김없는)
+4. Frank - 노골적인, 솔직한
+5. Logical - 논리적인
+6. Rational - 이성적인, 합리적인
+7. Lucid - 명쾌한, 알기 쉬운
+8. Subjective - 주관적인
+9. Objective - 객관적인
+10. Ambiguous - 모호한 (두 가지 해석 가능)
+11. Fallacious - 틀린, 오류가 있는
+12. Vague - 애매한, 희미한 (구체적 X)
+13. Incoherent - 앞뒤가 안 맞는, 횡설수설하는
+14. Irrational - 비이성적인
+15. Valid - 타당한, 유효한
+16. Sound - 건전한, 믿을 만한
+17. Explicit - 명시적인, 노골적인
+18. Implicit - 암시적인, 내포된
+19. Subtle - 미묘한
+20. Nuanced - 뉘앙스가 있는 (미묘한 차이)
+21. Relevant - 관련 있는, 적절한
+22. Irrelevant - 무관한, 엉뚱한
+23. Precise - 정밀한, 꼼꼼한
+24. Accurate - 정확한 (사실과 일치)
+25. Misleading - 오해의 소지가 있는
+26. Deceptive - 기만적인, 속이는
+27. Direct - 직접적인
+28. Indirect - 간접적인, 우회적인
+29. Obscure - 모호한, 이해하기 힘든
+30. Clear-cut - 명백한
+
+## 추천 태그 (상황/맥락)
+warm, happy, art, social, outdoor, conversation, schedule, learning, relationship, friendship
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "LOGIC_CLARITY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "LOGIC_CLARITY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

@@ -1,0 +1,3282 @@
+[
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "They discussed the incidental implications thoroughly.",
+    "sentence_ko": "부수적인 영향을 철저히",
+    "tags": [
+      "develope",
+      "restaurant",
+      "travel",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "Their method proved incidental in practice.",
+    "sentence_ko": "실제로 부수적인하다",
+    "tags": [
+      "soccer",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "It was a incidental mistake that needed correction.",
+    "sentence_ko": "부수적인 실수로 수정이 필요했다",
+    "tags": [
+      "startup",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "The incidental features distinguished it from competitors.",
+    "sentence_ko": "부수적인 특징이 차별화했다",
+    "tags": [
+      "develope",
+      "startup",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "It was a incidental decision that benefited everyone.",
+    "sentence_ko": "부수적인 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "startup",
+      "technology",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "She needed to incidental the situation effectively.",
+    "sentence_ko": "부수적인하게 상황을 다루다",
+    "tags": [
+      "happy",
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "She explained the incidental aspects of the project.",
+    "sentence_ko": "부수적인 프로젝트의 측면",
+    "tags": [
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "The new design appears less incidental overall.",
+    "sentence_ko": "전반적으로 부수적인하다",
+    "tags": [
+      "restaurant",
+      "code"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "The incidental situation created many challenges.",
+    "sentence_ko": "부수적인 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "warm",
+      "develope",
+      "ai",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "774ccb9f-85d1-4ba6-8125-4d47d496b317",
+    "word": "Incidental",
+    "sentence_en": "Those incidental details made a significant difference.",
+    "sentence_ko": "부수적인 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "code",
+      "hot",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The report described the critical nature of the process.",
+    "sentence_ko": "대단히 중요한 프로세스의 특성",
+    "tags": [
+      "develope",
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The manager wanted to critical team performance.",
+    "sentence_ko": "대단히 중요한하게 팀 성과를 개선하다",
+    "tags": [
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The critical outcome disappointed stakeholders.",
+    "sentence_ko": "대단히 중요한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "entrepreneur",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "Her critical approach helped solve the problem quickly.",
+    "sentence_ko": "대단히 중요한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "warm",
+      "happy",
+      "business"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "Her work is remarkably critical compared to others.",
+    "sentence_ko": "다른 것과 비교해 대단히 중요한하다",
+    "tags": [
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The critical features distinguished it from competitors.",
+    "sentence_ko": "대단히 중요한 특징이 차별화했다",
+    "tags": [
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The study examined critical characteristics carefully.",
+    "sentence_ko": "대단히 중요한 특성을 주의깊게",
+    "tags": [
+      "entrepreneur",
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "He tried to critical his ideas more clearly.",
+    "sentence_ko": "대단히 중요한하게 아이디어를 표현하다",
+    "tags": [
+      "ai",
+      "code",
+      "marketing",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "It was a critical mistake that needed correction.",
+    "sentence_ko": "대단히 중요한 실수로 수정이 필요했다",
+    "tags": [
+      "develope",
+      "code"
+    ]
+  },
+  {
+    "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+    "word": "Critical",
+    "sentence_en": "The team appreciated his critical attitude.",
+    "sentence_ko": "대단히 중요한 태도",
+    "tags": [
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "Those trivial details made a significant difference.",
+    "sentence_ko": "사소한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "She needed to trivial the situation effectively.",
+    "sentence_ko": "사소한하게 상황을 다루다",
+    "tags": [
+      "marketing",
+      "ai",
+      "startup",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "The result was surprisingly trivial in nature.",
+    "sentence_ko": "본질적으로 사소한하다",
+    "tags": [
+      "travel",
+      "restaurant",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "Her trivial approach helped solve the problem quickly.",
+    "sentence_ko": "사소한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "It was a trivial mistake that needed correction.",
+    "sentence_ko": "사소한 실수로 수정이 필요했다",
+    "tags": [
+      "warm",
+      "marketing",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "The study examined trivial characteristics carefully.",
+    "sentence_ko": "사소한 특성을 주의깊게",
+    "tags": [
+      "warm",
+      "technology",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "The trivial elements contributed to success.",
+    "sentence_ko": "사소한 요소가 성공에 기여했다",
+    "tags": [
+      "startup",
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "She needed to trivial the situation effectively.",
+    "sentence_ko": "사소한하게 상황을 다루다",
+    "tags": [
+      "technology",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "Her work is remarkably trivial compared to others.",
+    "sentence_ko": "다른 것과 비교해 사소한하다",
+    "tags": [
+      "sad",
+      "startup",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "52ec4f87-8061-46a2-89bc-9a69a691c1ec",
+    "word": "Trivial",
+    "sentence_en": "The trivial atmosphere made everyone feel comfortable.",
+    "sentence_ko": "사소한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "restaurant",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The minor quality of the product exceeded expectations.",
+    "sentence_ko": "작은 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The study examined minor characteristics carefully.",
+    "sentence_ko": "작은 특성을 주의깊게",
+    "tags": [
+      "soccer",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "Their method proved minor in practice.",
+    "sentence_ko": "실제로 작은하다",
+    "tags": [
+      "startup",
+      "business"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The minor components worked together seamlessly.",
+    "sentence_ko": "작은 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "business",
+      "entrepreneur",
+      "sad",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The minor outcome disappointed stakeholders.",
+    "sentence_ko": "작은 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "travel",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "She needed to minor the situation effectively.",
+    "sentence_ko": "작은하게 상황을 다루다",
+    "tags": [
+      "entrepreneur",
+      "code",
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The minor quality of the product exceeded expectations.",
+    "sentence_ko": "작은 제품 품질이 기대를 초과했다",
+    "tags": [
+      "entrepreneur",
+      "sad",
+      "happy",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The analysis revealed minor patterns in the data.",
+    "sentence_ko": "작은 데이터 패턴",
+    "tags": [
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The result was surprisingly minor in nature.",
+    "sentence_ko": "본질적으로 작은하다",
+    "tags": [
+      "warm",
+      "restaurant",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "7a3aacdc-d22f-4c10-9d98-48e2a7c41291",
+    "word": "Minor",
+    "sentence_en": "The minor features distinguished it from competitors.",
+    "sentence_ko": "작은 특징이 차별화했다",
+    "tags": [
+      "warm",
+      "travel",
+      "restaurant",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "They decided to petty their approach significantly.",
+    "sentence_ko": "안 중요한하게 접근법을 변경하다",
+    "tags": [
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "They discussed the petty implications thoroughly.",
+    "sentence_ko": "안 중요한 영향을 철저히",
+    "tags": [
+      "soccer",
+      "code",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "The petty quality of the product exceeded expectations.",
+    "sentence_ko": "안 중요한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "business",
+      "soccer",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "Its petty characteristics were immediately noticeable.",
+    "sentence_ko": "안 중요한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "restaurant",
+      "soccer",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "This solution is more petty than the previous one.",
+    "sentence_ko": "이전보다 더 안 중요한하다",
+    "tags": [
+      "code",
+      "business",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "His petty behavior affected team morale.",
+    "sentence_ko": "안 중요한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "ai",
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "He tried to petty his ideas more clearly.",
+    "sentence_ko": "안 중요한하게 아이디어를 표현하다",
+    "tags": [
+      "sad",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "They discussed the petty implications thoroughly.",
+    "sentence_ko": "안 중요한 영향을 철저히",
+    "tags": [
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "The petty atmosphere made everyone feel comfortable.",
+    "sentence_ko": "안 중요한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "entrepreneur",
+      "travel",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "92c4014b-8c9c-43cb-a0f6-772437ff6099",
+    "word": "Petty",
+    "sentence_en": "The petty elements contributed to success.",
+    "sentence_ko": "안 중요한 요소가 성공에 기여했다",
+    "tags": [
+      "technology",
+      "warm",
+      "startup",
+      "code"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "Those slight details made a significant difference.",
+    "sentence_ko": "약간의 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "travel",
+      "code",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "The slight outcome disappointed stakeholders.",
+    "sentence_ko": "약간의 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "ai",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "They discussed the slight implications thoroughly.",
+    "sentence_ko": "약간의 영향을 철저히",
+    "tags": [
+      "hot",
+      "business"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "Her slight approach helped solve the problem quickly.",
+    "sentence_ko": "약간의 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "ai",
+      "marketing",
+      "business",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "Their method proved slight in practice.",
+    "sentence_ko": "실제로 약간의하다",
+    "tags": [
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "He tried to slight his ideas more clearly.",
+    "sentence_ko": "약간의하게 아이디어를 표현하다",
+    "tags": [
+      "soccer",
+      "travel",
+      "restaurant",
+      "code"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "The slight elements contributed to success.",
+    "sentence_ko": "약간의 요소가 성공에 기여했다",
+    "tags": [
+      "restaurant",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "His slight behavior affected team morale.",
+    "sentence_ko": "약간의 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "ai",
+      "code",
+      "soccer",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "She explained the slight aspects of the project.",
+    "sentence_ko": "약간의 프로젝트의 측면",
+    "tags": [
+      "code",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+    "word": "Slight",
+    "sentence_en": "The slight quality of the product exceeded expectations.",
+    "sentence_ko": "약간의 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "Their method proved negligible in practice.",
+    "sentence_ko": "실제로 무시해도 될 정도의하다",
+    "tags": [
+      "technology",
+      "marketing",
+      "develope",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "She explained the negligible aspects of the project.",
+    "sentence_ko": "무시해도 될 정도의 프로젝트의 측면",
+    "tags": [
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "The negligible elements contributed to success.",
+    "sentence_ko": "무시해도 될 정도의 요소가 성공에 기여했다",
+    "tags": [
+      "marketing",
+      "code",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "The negligible situation created many challenges.",
+    "sentence_ko": "무시해도 될 정도의 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "entrepreneur",
+      "code",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "The negligible atmosphere made everyone feel comfortable.",
+    "sentence_ko": "무시해도 될 정도의 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "marketing",
+      "sad",
+      "startup",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "The manager wanted to negligible team performance.",
+    "sentence_ko": "무시해도 될 정도의하게 팀 성과를 개선하다",
+    "tags": [
+      "technology",
+      "code",
+      "develope",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "This solution is more negligible than the previous one.",
+    "sentence_ko": "이전보다 더 무시해도 될 정도의하다",
+    "tags": [
+      "warm",
+      "travel",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "She explained the negligible aspects of the project.",
+    "sentence_ko": "무시해도 될 정도의 프로젝트의 측면",
+    "tags": [
+      "warm",
+      "ai",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "Its negligible characteristics were immediately noticeable.",
+    "sentence_ko": "무시해도 될 정도의 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "ai",
+      "entrepreneur",
+      "technology",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+    "word": "Negligible",
+    "sentence_en": "The negligible condition made things difficult.",
+    "sentence_ko": "무시해도 될 정도의 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "code",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "This solution is more insignificant than the previous one.",
+    "sentence_ko": "이전보다 더 대수롭지 않은하다",
+    "tags": [
+      "sad",
+      "warm",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "The insignificant elements contributed to success.",
+    "sentence_ko": "대수롭지 않은 요소가 성공에 기여했다",
+    "tags": [
+      "ai",
+      "warm",
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "It was a insignificant mistake that needed correction.",
+    "sentence_ko": "대수롭지 않은 실수로 수정이 필요했다",
+    "tags": [
+      "sad",
+      "travel",
+      "soccer",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "He tried to insignificant his ideas more clearly.",
+    "sentence_ko": "대수롭지 않은하게 아이디어를 표현하다",
+    "tags": [
+      "soccer",
+      "restaurant",
+      "entrepreneur",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "They discussed the insignificant implications thoroughly.",
+    "sentence_ko": "대수롭지 않은 영향을 철저히",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "Her insignificant approach helped solve the problem quickly.",
+    "sentence_ko": "대수롭지 않은 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "The new design appears less insignificant overall.",
+    "sentence_ko": "전반적으로 대수롭지 않은하다",
+    "tags": [
+      "happy",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "Its insignificant characteristics were immediately noticeable.",
+    "sentence_ko": "대수롭지 않은 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "startup",
+      "hot",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "The insignificant situation created many challenges.",
+    "sentence_ko": "대수롭지 않은 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "5ac5fe25-9ce6-424d-b7e3-6f368b7bfe72",
+    "word": "Insignificant",
+    "sentence_en": "We should insignificant our strategy going forward.",
+    "sentence_ko": "대수롭지 않은하게 전략을 수립하다",
+    "tags": [
+      "entrepreneur",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "Its marginal characteristics were immediately noticeable.",
+    "sentence_ko": "미미한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "sad",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "They discussed the marginal implications thoroughly.",
+    "sentence_ko": "미미한 영향을 철저히",
+    "tags": [
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The marginal condition made things difficult.",
+    "sentence_ko": "미미한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "soccer",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The marginal quality of the product exceeded expectations.",
+    "sentence_ko": "미미한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "restaurant",
+      "hot",
+      "startup",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The result was surprisingly marginal in nature.",
+    "sentence_ko": "본질적으로 미미한하다",
+    "tags": [
+      "startup",
+      "restaurant",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "We should marginal our strategy going forward.",
+    "sentence_ko": "미미한하게 전략을 수립하다",
+    "tags": [
+      "hot",
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The marginal components worked together seamlessly.",
+    "sentence_ko": "미미한 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "entrepreneur",
+      "business",
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The report described the marginal nature of the process.",
+    "sentence_ko": "미미한 프로세스의 특성",
+    "tags": [
+      "restaurant",
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The marginal situation created many challenges.",
+    "sentence_ko": "미미한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "startup",
+      "develope",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+    "word": "Marginal",
+    "sentence_en": "The marginal atmosphere made everyone feel comfortable.",
+    "sentence_ko": "미미한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "travel",
+      "restaurant",
+      "technology",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The team appreciated his superficial attitude.",
+    "sentence_ko": "표면적인 태도",
+    "tags": [
+      "marketing",
+      "technology",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "This solution is more superficial than the previous one.",
+    "sentence_ko": "이전보다 더 표면적인하다",
+    "tags": [
+      "entrepreneur",
+      "code",
+      "business"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "They discussed the superficial implications thoroughly.",
+    "sentence_ko": "표면적인 영향을 철저히",
+    "tags": [
+      "travel",
+      "sad",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The superficial condition made things difficult.",
+    "sentence_ko": "표면적인 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "entrepreneur",
+      "restaurant",
+      "develope",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "Its superficial characteristics were immediately noticeable.",
+    "sentence_ko": "표면적인 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "She needed to superficial the situation effectively.",
+    "sentence_ko": "표면적인하게 상황을 다루다",
+    "tags": [
+      "technology",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The superficial quality of the product exceeded expectations.",
+    "sentence_ko": "표면적인 제품 품질이 기대를 초과했다",
+    "tags": [
+      "code",
+      "soccer",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The result was surprisingly superficial in nature.",
+    "sentence_ko": "본질적으로 표면적인하다",
+    "tags": [
+      "code",
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The study examined superficial characteristics carefully.",
+    "sentence_ko": "표면적인 특성을 주의깊게",
+    "tags": [
+      "marketing",
+      "technology",
+      "restaurant",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "17fd1c15-7fff-42d5-8523-869316c2d93d",
+    "word": "Superficial",
+    "sentence_en": "The superficial condition made things difficult.",
+    "sentence_ko": "표면적인 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "develope",
+      "ai",
+      "business",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "Their method proved frivolous in practice.",
+    "sentence_ko": "실제로 경박한하다",
+    "tags": [
+      "ai",
+      "sad",
+      "marketing",
+      "code"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "They decided to frivolous their approach significantly.",
+    "sentence_ko": "경박한하게 접근법을 변경하다",
+    "tags": [
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The frivolous outcome disappointed stakeholders.",
+    "sentence_ko": "경박한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "soccer",
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "It was a frivolous decision that benefited everyone.",
+    "sentence_ko": "경박한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "happy",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The frivolous elements contributed to success.",
+    "sentence_ko": "경박한 요소가 성공에 기여했다",
+    "tags": [
+      "warm",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The study examined frivolous characteristics carefully.",
+    "sentence_ko": "경박한 특성을 주의깊게",
+    "tags": [
+      "entrepreneur",
+      "marketing",
+      "code",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The new design appears less frivolous overall.",
+    "sentence_ko": "전반적으로 경박한하다",
+    "tags": [
+      "marketing",
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "She needed to frivolous the situation effectively.",
+    "sentence_ko": "경박한하게 상황을 다루다",
+    "tags": [
+      "travel",
+      "ai",
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The frivolous situation created many challenges.",
+    "sentence_ko": "경박한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "restaurant",
+      "entrepreneur",
+      "ai",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "3dd7e7d3-b780-4a98-b523-09e2e317cad4",
+    "word": "Frivolous",
+    "sentence_en": "The frivolous atmosphere made everyone feel comfortable.",
+    "sentence_ko": "경박한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "They decided to trifling their approach significantly.",
+    "sentence_ko": "하찮은하게 접근법을 변경하다",
+    "tags": [
+      "hot",
+      "restaurant",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "The trifling features distinguished it from competitors.",
+    "sentence_ko": "하찮은 특징이 차별화했다",
+    "tags": [
+      "startup",
+      "warm",
+      "happy",
+      "code"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "They discussed the trifling implications thoroughly.",
+    "sentence_ko": "하찮은 영향을 철저히",
+    "tags": [
+      "business",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "It was a trifling mistake that needed correction.",
+    "sentence_ko": "하찮은 실수로 수정이 필요했다",
+    "tags": [
+      "marketing",
+      "sad",
+      "entrepreneur",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "The trifling quality of the product exceeded expectations.",
+    "sentence_ko": "하찮은 제품 품질이 기대를 초과했다",
+    "tags": [
+      "develope",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "This solution is more trifling than the previous one.",
+    "sentence_ko": "이전보다 더 하찮은하다",
+    "tags": [
+      "soccer",
+      "entrepreneur",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "We should trifling our strategy going forward.",
+    "sentence_ko": "하찮은하게 전략을 수립하다",
+    "tags": [
+      "entrepreneur",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "Those trifling details made a significant difference.",
+    "sentence_ko": "하찮은 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "ai",
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "The report described the trifling nature of the process.",
+    "sentence_ko": "하찮은 프로세스의 특성",
+    "tags": [
+      "sad",
+      "startup",
+      "business"
+    ]
+  },
+  {
+    "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+    "word": "Trifling",
+    "sentence_en": "The trifling outcome disappointed stakeholders.",
+    "sentence_ko": "하찮은 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "business",
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The manager wanted to crucial team performance.",
+    "sentence_ko": "결정적인하게 팀 성과를 개선하다",
+    "tags": [
+      "develope",
+      "warm",
+      "entrepreneur",
+      "code"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The crucial elements contributed to success.",
+    "sentence_ko": "결정적인 요소가 성공에 기여했다",
+    "tags": [
+      "hot",
+      "happy",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The crucial outcome disappointed stakeholders.",
+    "sentence_ko": "결정적인 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "restaurant",
+      "travel",
+      "soccer",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "She explained the crucial aspects of the project.",
+    "sentence_ko": "결정적인 프로젝트의 측면",
+    "tags": [
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "Her crucial approach helped solve the problem quickly.",
+    "sentence_ko": "결정적인 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "startup",
+      "code",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The result was surprisingly crucial in nature.",
+    "sentence_ko": "본질적으로 결정적인하다",
+    "tags": [
+      "restaurant",
+      "hot",
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The manager wanted to crucial team performance.",
+    "sentence_ko": "결정적인하게 팀 성과를 개선하다",
+    "tags": [
+      "restaurant",
+      "code",
+      "technology",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "Those crucial details made a significant difference.",
+    "sentence_ko": "결정적인 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "hot",
+      "technology",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The crucial situation created many challenges.",
+    "sentence_ko": "결정적인 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "marketing",
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "3d33bd0b-4d43-4856-8ccd-faa513250b9d",
+    "word": "Crucial",
+    "sentence_en": "The report described the crucial nature of the process.",
+    "sentence_ko": "결정적인 프로세스의 특성",
+    "tags": [
+      "business",
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The vital elements contributed to success.",
+    "sentence_ko": "필수적인 요소가 성공에 기여했다",
+    "tags": [
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The vital condition made things difficult.",
+    "sentence_ko": "필수적인 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The vital quality of the product exceeded expectations.",
+    "sentence_ko": "필수적인 제품 품질이 기대를 초과했다",
+    "tags": [
+      "travel",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The analysis revealed vital patterns in the data.",
+    "sentence_ko": "필수적인 데이터 패턴",
+    "tags": [
+      "travel",
+      "soccer",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "Their method proved vital in practice.",
+    "sentence_ko": "실제로 필수적인하다",
+    "tags": [
+      "startup",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "They decided to vital their approach significantly.",
+    "sentence_ko": "필수적인하게 접근법을 변경하다",
+    "tags": [
+      "travel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The vital components worked together seamlessly.",
+    "sentence_ko": "필수적인 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "startup",
+      "soccer",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "It was a vital mistake that needed correction.",
+    "sentence_ko": "필수적인 실수로 수정이 필요했다",
+    "tags": [
+      "soccer",
+      "ai",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The team appreciated his vital attitude.",
+    "sentence_ko": "필수적인 태도",
+    "tags": [
+      "restaurant",
+      "technology",
+      "ai",
+      "code"
+    ]
+  },
+  {
+    "card_id": "1f6c9a20-b295-4f47-9609-092fa7ef9ce8",
+    "word": "Vital",
+    "sentence_en": "The report described the vital nature of the process.",
+    "sentence_ko": "필수적인 프로세스의 특성",
+    "tags": [
+      "warm",
+      "soccer",
+      "business",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The manager wanted to pivotal team performance.",
+    "sentence_ko": "중추적인하게 팀 성과를 개선하다",
+    "tags": [
+      "soccer",
+      "entrepreneur",
+      "happy",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The pivotal features distinguished it from competitors.",
+    "sentence_ko": "중추적인 특징이 차별화했다",
+    "tags": [
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "It was a pivotal mistake that needed correction.",
+    "sentence_ko": "중추적인 실수로 수정이 필요했다",
+    "tags": [
+      "sad",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "They discussed the pivotal implications thoroughly.",
+    "sentence_ko": "중추적인 영향을 철저히",
+    "tags": [
+      "code",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The pivotal quality of the product exceeded expectations.",
+    "sentence_ko": "중추적인 제품 품질이 기대를 초과했다",
+    "tags": [
+      "technology",
+      "restaurant",
+      "hot",
+      "code"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The result was surprisingly pivotal in nature.",
+    "sentence_ko": "본질적으로 중추적인하다",
+    "tags": [
+      "startup",
+      "travel",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "He tried to pivotal his ideas more clearly.",
+    "sentence_ko": "중추적인하게 아이디어를 표현하다",
+    "tags": [
+      "sad",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "Its pivotal characteristics were immediately noticeable.",
+    "sentence_ko": "중추적인 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "marketing",
+      "sad",
+      "startup",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The pivotal situation created many challenges.",
+    "sentence_ko": "중추적인 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "soccer",
+      "startup",
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "6899edaf-1883-4ea9-be4e-effc2c6b6cfc",
+    "word": "Pivotal",
+    "sentence_en": "The report described the pivotal nature of the process.",
+    "sentence_ko": "중추적인 프로세스의 특성",
+    "tags": [
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "He tried to essential his ideas more clearly.",
+    "sentence_ko": "본질적인하게 아이디어를 표현하다",
+    "tags": [
+      "business",
+      "hot",
+      "sad",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "Those essential details made a significant difference.",
+    "sentence_ko": "본질적인 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "entrepreneur",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "It was a essential decision that benefited everyone.",
+    "sentence_ko": "본질적인 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "startup",
+      "marketing",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "Her work is remarkably essential compared to others.",
+    "sentence_ko": "다른 것과 비교해 본질적인하다",
+    "tags": [
+      "happy",
+      "marketing",
+      "warm",
+      "code"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The essential situation created many challenges.",
+    "sentence_ko": "본질적인 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "business",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The analysis revealed essential patterns in the data.",
+    "sentence_ko": "본질적인 데이터 패턴",
+    "tags": [
+      "technology",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The manager wanted to essential team performance.",
+    "sentence_ko": "본질적인하게 팀 성과를 개선하다",
+    "tags": [
+      "code",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The essential elements contributed to success.",
+    "sentence_ko": "본질적인 요소가 성공에 기여했다",
+    "tags": [
+      "soccer",
+      "business"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The essential atmosphere made everyone feel comfortable.",
+    "sentence_ko": "본질적인 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "happy",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "6f7b003c-52dd-4260-b3c1-748112bd69b4",
+    "word": "Essential",
+    "sentence_en": "The result was surprisingly essential in nature.",
+    "sentence_ko": "본질적으로 본질적인하다",
+    "tags": [
+      "technology",
+      "ai",
+      "hot",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The major components worked together seamlessly.",
+    "sentence_ko": "주요한 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "travel",
+      "soccer",
+      "sad",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The manager wanted to major team performance.",
+    "sentence_ko": "주요한하게 팀 성과를 개선하다",
+    "tags": [
+      "startup",
+      "marketing",
+      "hot",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The major condition made things difficult.",
+    "sentence_ko": "주요한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "code",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The major atmosphere made everyone feel comfortable.",
+    "sentence_ko": "주요한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The study examined major characteristics carefully.",
+    "sentence_ko": "주요한 특성을 주의깊게",
+    "tags": [
+      "happy",
+      "sad",
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The result was surprisingly major in nature.",
+    "sentence_ko": "본질적으로 주요한하다",
+    "tags": [
+      "happy",
+      "code"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "The major features distinguished it from competitors.",
+    "sentence_ko": "주요한 특징이 차별화했다",
+    "tags": [
+      "business",
+      "warm",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "We should major our strategy going forward.",
+    "sentence_ko": "주요한하게 전략을 수립하다",
+    "tags": [
+      "startup",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "His major behavior affected team morale.",
+    "sentence_ko": "주요한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "hot",
+      "business",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "e1b0f669-ff66-44a1-b1ef-93070286c773",
+    "word": "Major",
+    "sentence_en": "It was a major decision that benefited everyone.",
+    "sentence_ko": "주요한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "develope",
+      "restaurant",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The serious elements contributed to success.",
+    "sentence_ko": "심각한 요소가 성공에 기여했다",
+    "tags": [
+      "happy",
+      "code",
+      "technology",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The serious outcome disappointed stakeholders.",
+    "sentence_ko": "심각한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "travel",
+      "develope",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "They discussed the serious implications thoroughly.",
+    "sentence_ko": "심각한 영향을 철저히",
+    "tags": [
+      "sad",
+      "ai",
+      "business"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The manager wanted to serious team performance.",
+    "sentence_ko": "심각한하게 팀 성과를 개선하다",
+    "tags": [
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The serious atmosphere made everyone feel comfortable.",
+    "sentence_ko": "심각한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "warm",
+      "travel",
+      "technology",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The new design appears less serious overall.",
+    "sentence_ko": "전반적으로 심각한하다",
+    "tags": [
+      "marketing",
+      "soccer",
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "Those serious details made a significant difference.",
+    "sentence_ko": "심각한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "ai",
+      "restaurant",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "The serious outcome disappointed stakeholders.",
+    "sentence_ko": "심각한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "startup",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "They discussed the serious implications thoroughly.",
+    "sentence_ko": "심각한 영향을 철저히",
+    "tags": [
+      "technology",
+      "sad",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "333b7e8c-5041-4b2b-9b87-38285eee4048",
+    "word": "Serious",
+    "sentence_en": "She needed to serious the situation effectively.",
+    "sentence_ko": "심각한하게 상황을 다루다",
+    "tags": [
+      "travel",
+      "sad",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "They decided to grave their approach significantly.",
+    "sentence_ko": "중대한하게 접근법을 변경하다",
+    "tags": [
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The analysis revealed grave patterns in the data.",
+    "sentence_ko": "중대한 데이터 패턴",
+    "tags": [
+      "restaurant",
+      "hot",
+      "travel",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The grave atmosphere made everyone feel comfortable.",
+    "sentence_ko": "중대한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "develope",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "Her work is remarkably grave compared to others.",
+    "sentence_ko": "다른 것과 비교해 중대한하다",
+    "tags": [
+      "sad",
+      "ai",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The grave situation created many challenges.",
+    "sentence_ko": "중대한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "soccer",
+      "sad",
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The grave features distinguished it from competitors.",
+    "sentence_ko": "중대한 특징이 차별화했다",
+    "tags": [
+      "startup",
+      "business",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "We should grave our strategy going forward.",
+    "sentence_ko": "중대한하게 전략을 수립하다",
+    "tags": [
+      "restaurant",
+      "marketing",
+      "startup",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The report described the grave nature of the process.",
+    "sentence_ko": "중대한 프로세스의 특성",
+    "tags": [
+      "sad",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "The grave atmosphere made everyone feel comfortable.",
+    "sentence_ko": "중대한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "develope",
+      "startup",
+      "happy",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "616a5a05-d96c-40ad-b3ea-4ea95a1e213c",
+    "word": "Grave",
+    "sentence_en": "Her work is remarkably grave compared to others.",
+    "sentence_ko": "다른 것과 비교해 중대한하다",
+    "tags": [
+      "warm",
+      "business",
+      "entrepreneur",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "We should acute our strategy going forward.",
+    "sentence_ko": "극심한하게 전략을 수립하다",
+    "tags": [
+      "business",
+      "hot",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "The study examined acute characteristics carefully.",
+    "sentence_ko": "극심한 특성을 주의깊게",
+    "tags": [
+      "soccer",
+      "startup",
+      "hot",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "Their method proved acute in practice.",
+    "sentence_ko": "실제로 극심한하다",
+    "tags": [
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "His acute behavior affected team morale.",
+    "sentence_ko": "극심한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "restaurant",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "Her acute approach helped solve the problem quickly.",
+    "sentence_ko": "극심한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "soccer",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "The acute elements contributed to success.",
+    "sentence_ko": "극심한 요소가 성공에 기여했다",
+    "tags": [
+      "business",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "They decided to acute their approach significantly.",
+    "sentence_ko": "극심한하게 접근법을 변경하다",
+    "tags": [
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "The study examined acute characteristics carefully.",
+    "sentence_ko": "극심한 특성을 주의깊게",
+    "tags": [
+      "develope",
+      "ai",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "The new design appears less acute overall.",
+    "sentence_ko": "전반적으로 극심한하다",
+    "tags": [
+      "marketing",
+      "hot",
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "dccee112-9a35-4150-9703-5e631543fcc7",
+    "word": "Acute",
+    "sentence_en": "The acute outcome disappointed stakeholders.",
+    "sentence_ko": "극심한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "develope",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "Their method proved severe in practice.",
+    "sentence_ko": "실제로 가혹한하다",
+    "tags": [
+      "restaurant",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "The study examined severe characteristics carefully.",
+    "sentence_ko": "가혹한 특성을 주의깊게",
+    "tags": [
+      "entrepreneur",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "She needed to severe the situation effectively.",
+    "sentence_ko": "가혹한하게 상황을 다루다",
+    "tags": [
+      "restaurant",
+      "startup",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "The severe features distinguished it from competitors.",
+    "sentence_ko": "가혹한 특징이 차별화했다",
+    "tags": [
+      "business",
+      "soccer",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "The severe outcome disappointed stakeholders.",
+    "sentence_ko": "가혹한 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "The severe atmosphere made everyone feel comfortable.",
+    "sentence_ko": "가혹한 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "code",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "Their method proved severe in practice.",
+    "sentence_ko": "실제로 가혹한하다",
+    "tags": [
+      "entrepreneur",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "They discussed the severe implications thoroughly.",
+    "sentence_ko": "가혹한 영향을 철저히",
+    "tags": [
+      "business",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "They decided to severe their approach significantly.",
+    "sentence_ko": "가혹한하게 접근법을 변경하다",
+    "tags": [
+      "travel",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "a303b4e9-16c7-47fb-b3c7-cb0497ac66d8",
+    "word": "Severe",
+    "sentence_en": "The severe features distinguished it from competitors.",
+    "sentence_ko": "가혹한 특징이 차별화했다",
+    "tags": [
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "She explained the profound aspects of the project.",
+    "sentence_ko": "심오한 프로젝트의 측면",
+    "tags": [
+      "travel",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "He tried to profound his ideas more clearly.",
+    "sentence_ko": "심오한하게 아이디어를 표현하다",
+    "tags": [
+      "develope",
+      "soccer",
+      "hot",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "His profound behavior affected team morale.",
+    "sentence_ko": "심오한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "marketing",
+      "technology",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "Their method proved profound in practice.",
+    "sentence_ko": "실제로 심오한하다",
+    "tags": [
+      "technology",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "The profound features distinguished it from competitors.",
+    "sentence_ko": "심오한 특징이 차별화했다",
+    "tags": [
+      "develope",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "Her profound approach helped solve the problem quickly.",
+    "sentence_ko": "심오한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "startup",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "The report described the profound nature of the process.",
+    "sentence_ko": "심오한 프로세스의 특성",
+    "tags": [
+      "soccer",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "They decided to profound their approach significantly.",
+    "sentence_ko": "심오한하게 접근법을 변경하다",
+    "tags": [
+      "sad",
+      "hot",
+      "travel",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "It was a profound mistake that needed correction.",
+    "sentence_ko": "심오한 실수로 수정이 필요했다",
+    "tags": [
+      "happy",
+      "ai",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "728d2825-96b7-4cc6-985e-1a3a68ab8274",
+    "word": "Profound",
+    "sentence_en": "The result was surprisingly profound in nature.",
+    "sentence_ko": "본질적으로 심오한하다",
+    "tags": [
+      "soccer",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "The deep features distinguished it from competitors.",
+    "sentence_ko": "깊은 특징이 차별화했다",
+    "tags": [
+      "technology",
+      "sad",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "She needed to deep the situation effectively.",
+    "sentence_ko": "깊은하게 상황을 다루다",
+    "tags": [
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "They discussed the deep implications thoroughly.",
+    "sentence_ko": "깊은 영향을 철저히",
+    "tags": [
+      "marketing",
+      "soccer",
+      "code"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "This solution is more deep than the previous one.",
+    "sentence_ko": "이전보다 더 깊은하다",
+    "tags": [
+      "technology",
+      "marketing",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "His deep behavior affected team morale.",
+    "sentence_ko": "깊은 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "hot",
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "Her deep approach helped solve the problem quickly.",
+    "sentence_ko": "깊은 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "soccer",
+      "travel",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "The deep components worked together seamlessly.",
+    "sentence_ko": "깊은 구성요소가 완벽하게 작동했다",
+    "tags": [
+      "happy",
+      "warm",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "The manager wanted to deep team performance.",
+    "sentence_ko": "깊은하게 팀 성과를 개선하다",
+    "tags": [
+      "travel",
+      "sad",
+      "code"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "The analysis revealed deep patterns in the data.",
+    "sentence_ko": "깊은 데이터 패턴",
+    "tags": [
+      "restaurant",
+      "code"
+    ]
+  },
+  {
+    "card_id": "13892e3f-6569-4130-b2da-493f27c65f25",
+    "word": "Deep",
+    "sentence_en": "This solution is more deep than the previous one.",
+    "sentence_ko": "이전보다 더 깊은하다",
+    "tags": [
+      "startup",
+      "happy",
+      "code",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "Her weighty approach helped solve the problem quickly.",
+    "sentence_ko": "중대한 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "ai",
+      "business"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "Those weighty details made a significant difference.",
+    "sentence_ko": "중대한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "startup",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "The result was surprisingly weighty in nature.",
+    "sentence_ko": "본질적으로 중대한하다",
+    "tags": [
+      "develope",
+      "marketing",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "The study examined weighty characteristics carefully.",
+    "sentence_ko": "중대한 특성을 주의깊게",
+    "tags": [
+      "technology",
+      "startup",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "The weighty situation created many challenges.",
+    "sentence_ko": "중대한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "ai",
+      "startup",
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "They decided to weighty their approach significantly.",
+    "sentence_ko": "중대한하게 접근법을 변경하다",
+    "tags": [
+      "marketing",
+      "warm",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "It was a weighty decision that benefited everyone.",
+    "sentence_ko": "중대한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "happy",
+      "entrepreneur",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "Its weighty characteristics were immediately noticeable.",
+    "sentence_ko": "중대한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "marketing",
+      "sad",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "Her work is remarkably weighty compared to others.",
+    "sentence_ko": "다른 것과 비교해 중대한하다",
+    "tags": [
+      "soccer",
+      "develope",
+      "travel",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "cc2d14ac-53f9-4054-a496-96fc1a2d313c",
+    "word": "Weighty",
+    "sentence_en": "The report described the weighty nature of the process.",
+    "sentence_ko": "중대한 프로세스의 특성",
+    "tags": [
+      "happy",
+      "ai",
+      "entrepreneur",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "He tried to monumental his ideas more clearly.",
+    "sentence_ko": "기념비적인하게 아이디어를 표현하다",
+    "tags": [
+      "technology",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "Her work is remarkably monumental compared to others.",
+    "sentence_ko": "다른 것과 비교해 기념비적인하다",
+    "tags": [
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "The monumental outcome disappointed stakeholders.",
+    "sentence_ko": "기념비적인 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "startup",
+      "business"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "She explained the monumental aspects of the project.",
+    "sentence_ko": "기념비적인 프로젝트의 측면",
+    "tags": [
+      "hot",
+      "entrepreneur",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "The monumental atmosphere made everyone feel comfortable.",
+    "sentence_ko": "기념비적인 분위기가 모두를 편안하게 만들었다",
+    "tags": [
+      "hot",
+      "marketing",
+      "warm",
+      "business"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "Its monumental characteristics were immediately noticeable.",
+    "sentence_ko": "기념비적인 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "startup",
+      "sad",
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "He tried to monumental his ideas more clearly.",
+    "sentence_ko": "기념비적인하게 아이디어를 표현하다",
+    "tags": [
+      "travel",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "The result was surprisingly monumental in nature.",
+    "sentence_ko": "본질적으로 기념비적인하다",
+    "tags": [
+      "travel",
+      "ai",
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "The monumental condition made things difficult.",
+    "sentence_ko": "기념비적인 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "ai",
+      "hot",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+    "word": "Monumental",
+    "sentence_en": "They discussed the monumental implications thoroughly.",
+    "sentence_ko": "기념비적인 영향을 철저히",
+    "tags": [
+      "code",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The consequential outcome disappointed stakeholders.",
+    "sentence_ko": "중대한 결과가 따르는 결과가 이해관계자들을 실망시켰다",
+    "tags": [
+      "travel",
+      "hot",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The consequential quality of the product exceeded expectations.",
+    "sentence_ko": "중대한 결과가 따르는 제품 품질이 기대를 초과했다",
+    "tags": [
+      "code",
+      "develope",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "Those consequential details made a significant difference.",
+    "sentence_ko": "중대한 결과가 따르는 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "sad",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The report described the consequential nature of the process.",
+    "sentence_ko": "중대한 결과가 따르는 프로세스의 특성",
+    "tags": [
+      "business",
+      "sad",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The new design appears less consequential overall.",
+    "sentence_ko": "전반적으로 중대한 결과가 따르는하다",
+    "tags": [
+      "business",
+      "code",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The manager wanted to consequential team performance.",
+    "sentence_ko": "중대한 결과가 따르는하게 팀 성과를 개선하다",
+    "tags": [
+      "entrepreneur",
+      "marketing",
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The consequential situation created many challenges.",
+    "sentence_ko": "중대한 결과가 따르는 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "code",
+      "sad",
+      "warm",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "Her consequential approach helped solve the problem quickly.",
+    "sentence_ko": "중대한 결과가 따르는 접근법이 문제 해결에 도움이 되었다",
+    "tags": [
+      "warm",
+      "technology",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The consequential features distinguished it from competitors.",
+    "sentence_ko": "중대한 결과가 따르는 특징이 차별화했다",
+    "tags": [
+      "hot",
+      "sad",
+      "business"
+    ]
+  },
+  {
+    "card_id": "01210d44-dc77-4184-a5f9-1c109110cb77",
+    "word": "Consequential",
+    "sentence_en": "The study examined consequential characteristics carefully.",
+    "sentence_ko": "중대한 결과가 따르는 특성을 주의깊게",
+    "tags": [
+      "hot",
+      "sad",
+      "happy",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "He tried to substantial his ideas more clearly.",
+    "sentence_ko": "상당한하게 아이디어를 표현하다",
+    "tags": [
+      "soccer",
+      "ai",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "The substantial situation created many challenges.",
+    "sentence_ko": "상당한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "business",
+      "restaurant",
+      "technology",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "Their method proved substantial in practice.",
+    "sentence_ko": "실제로 상당한하다",
+    "tags": [
+      "soccer",
+      "startup",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "Those substantial details made a significant difference.",
+    "sentence_ko": "상당한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "ai",
+      "restaurant",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "The substantial quality of the product exceeded expectations.",
+    "sentence_ko": "상당한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "travel",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "The study examined substantial characteristics carefully.",
+    "sentence_ko": "상당한 특성을 주의깊게",
+    "tags": [
+      "startup",
+      "business",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "She needed to substantial the situation effectively.",
+    "sentence_ko": "상당한하게 상황을 다루다",
+    "tags": [
+      "soccer",
+      "marketing",
+      "ai",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "It was a substantial mistake that needed correction.",
+    "sentence_ko": "상당한 실수로 수정이 필요했다",
+    "tags": [
+      "hot",
+      "sad",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "Their method proved substantial in practice.",
+    "sentence_ko": "실제로 상당한하다",
+    "tags": [
+      "develope",
+      "technology",
+      "code"
+    ]
+  },
+  {
+    "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+    "word": "Substantial",
+    "sentence_en": "Those substantial details made a significant difference.",
+    "sentence_ko": "상당한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "business",
+      "happy",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "It was a pressing decision that benefited everyone.",
+    "sentence_ko": "긴박한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "travel",
+      "code"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The report described the pressing nature of the process.",
+    "sentence_ko": "긴박한 프로세스의 특성",
+    "tags": [
+      "marketing",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "Their method proved pressing in practice.",
+    "sentence_ko": "실제로 긴박한하다",
+    "tags": [
+      "business",
+      "marketing",
+      "travel",
+      "restaurant"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "Those pressing details made a significant difference.",
+    "sentence_ko": "긴박한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "restaurant",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The pressing situation created many challenges.",
+    "sentence_ko": "긴박한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "travel",
+      "startup",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The manager wanted to pressing team performance.",
+    "sentence_ko": "긴박한하게 팀 성과를 개선하다",
+    "tags": [
+      "technology",
+      "happy",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The pressing quality of the product exceeded expectations.",
+    "sentence_ko": "긴박한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "technology",
+      "happy",
+      "startup"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The report described the pressing nature of the process.",
+    "sentence_ko": "긴박한 프로세스의 특성",
+    "tags": [
+      "restaurant",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "The new design appears less pressing overall.",
+    "sentence_ko": "전반적으로 긴박한하다",
+    "tags": [
+      "warm",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+    "word": "Pressing",
+    "sentence_en": "Those pressing details made a significant difference.",
+    "sentence_ko": "긴박한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "marketing",
+      "happy",
+      "business"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "The urgent quality of the product exceeded expectations.",
+    "sentence_ko": "시급한 제품 품질이 기대를 초과했다",
+    "tags": [
+      "business",
+      "travel",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "The new design appears less urgent overall.",
+    "sentence_ko": "전반적으로 시급한하다",
+    "tags": [
+      "marketing",
+      "ai",
+      "warm",
+      "technology"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "Its urgent characteristics were immediately noticeable.",
+    "sentence_ko": "시급한 특성이 즉시 눈에 띄었다",
+    "tags": [
+      "ai",
+      "soccer",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "His urgent behavior affected team morale.",
+    "sentence_ko": "시급한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "warm",
+      "business",
+      "startup",
+      "marketing"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "We should urgent our strategy going forward.",
+    "sentence_ko": "시급한하게 전략을 수립하다",
+    "tags": [
+      "technology",
+      "warm",
+      "ai",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "She explained the urgent aspects of the project.",
+    "sentence_ko": "시급한 프로젝트의 측면",
+    "tags": [
+      "startup",
+      "develope"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "It was a urgent decision that benefited everyone.",
+    "sentence_ko": "시급한 결정으로 모두가 혜택을 받았다",
+    "tags": [
+      "marketing",
+      "sad"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "Her work is remarkably urgent compared to others.",
+    "sentence_ko": "다른 것과 비교해 시급한하다",
+    "tags": [
+      "business",
+      "technology",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "The urgent features distinguished it from competitors.",
+    "sentence_ko": "시급한 특징이 차별화했다",
+    "tags": [
+      "travel",
+      "hot"
+    ]
+  },
+  {
+    "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+    "word": "Urgent",
+    "sentence_en": "The urgent situation created many challenges.",
+    "sentence_ko": "시급한 상황이 많은 어려움을 만들었다",
+    "tags": [
+      "marketing",
+      "ai"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "She needed to paramount the situation effectively.",
+    "sentence_ko": "최고로 중요한하게 상황을 다루다",
+    "tags": [
+      "warm",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "The study examined paramount characteristics carefully.",
+    "sentence_ko": "최고로 중요한 특성을 주의깊게",
+    "tags": [
+      "soccer",
+      "warm",
+      "code"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "The result was surprisingly paramount in nature.",
+    "sentence_ko": "본질적으로 최고로 중요한하다",
+    "tags": [
+      "hot",
+      "business"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "The paramount condition made things difficult.",
+    "sentence_ko": "최고로 중요한 상태가 일을 어렵게 만들었다",
+    "tags": [
+      "happy",
+      "travel"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "The team appreciated his paramount attitude.",
+    "sentence_ko": "최고로 중요한 태도",
+    "tags": [
+      "travel",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "Those paramount details made a significant difference.",
+    "sentence_ko": "최고로 중요한 세부사항이 큰 차이를 만들었다",
+    "tags": [
+      "warm",
+      "restaurant",
+      "entrepreneur"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "He tried to paramount his ideas more clearly.",
+    "sentence_ko": "최고로 중요한하게 아이디어를 표현하다",
+    "tags": [
+      "technology",
+      "happy"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "The study examined paramount characteristics carefully.",
+    "sentence_ko": "최고로 중요한 특성을 주의깊게",
+    "tags": [
+      "startup",
+      "hot",
+      "warm"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "Her work is remarkably paramount compared to others.",
+    "sentence_ko": "다른 것과 비교해 최고로 중요한하다",
+    "tags": [
+      "hot",
+      "marketing",
+      "soccer"
+    ]
+  },
+  {
+    "card_id": "704cc007-1330-4af5-826a-c5d528a74bd2",
+    "word": "Paramount",
+    "sentence_en": "His paramount behavior affected team morale.",
+    "sentence_ko": "최고로 중요한 행동이 팀 사기에 영향을 미쳤다",
+    "tags": [
+      "warm",
+      "ai"
+    ]
+  }
+]

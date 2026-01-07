@@ -1,0 +1,101 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: HIGH_DIFFICULTY_EFFORT
+- **총 단어 수**: 29개
+
+## 단어 목록
+1. Arduous - 몹시 힘든, 고된 (오랜 시간 끈기와 노력이 필요한)
+2. Laborious - 힘든, 공이 많이 드는 (시간과 노동력이 많이 드는)
+3. Strenuous - 격렬한, 힘이 많이 드는 (많은 에너지를 쏟아야 하는)
+4. Grueling - 녹초로 만드는, 엄한 (극한까지 몰아붙이는)
+5. Demanding - 요구가 많은, 벅찬 (높은 수준의 노력/기술을 요하는)
+6. Formidable - 어마어마한, 버거운 (상대하기 무섭고 벅찬)
+7. Onerous - 아주 힘든, 부담스러운 (짐처럼 느껴지는 책임/의무)
+8. Taxing - 아주 힘든, 무리한 (심신을 지치게 하는)
+9. Backbreaking - 등골이 휘는 (육체적으로 매우 고된)
+10. Challenging - 도전적인, 만만치 않은 (어렵지만 해볼 만한 가치가 있는)
+11. Burdensome - 부담스러운 (짐이 되는)
+12. Punishing - 살인적인, 극도로 힘든 (몸을 혹사시키는)
+13. Rigorous - 엄격한, 철저한 (빈틈없고 힘든 기준)
+14. Exacting - 힘든, 까다로운 (정확성을 엄격히 요구하는)
+15. Tough - 힘든, 거친 (어렵고 곤란한)
+16. Tricky - 까다로운, 교묘한 (실수하기 쉽고 다루기 힘든)
+17. Thorny - 골치 아픈, 가시밭길 같은 (문제나 논쟁이 많은)
+18. Problematic - 문제가 있는, 확실치 않은 (해결이 어려운)
+19. Uphill - 힘겨운, 오르막의 (투쟁이나 노력이 필요한)
+20. Insuperable - 극복할 수 없는 (도저히 넘을 수 없는 장애물)
+21. Impossible - 불가능한 (실현될 수 없는)
+22. Herculean - 초인적인 (헤라클레스 같은 힘이 필요한)
+23. Painstaking - 공들인, 힘든 (세심한 주의와 노력이 필요한)
+24. Exhausting - 진이 빠지는 (체력을 다 소모하게 하는)
+25. Trying - 괴로운, 시련을 주는 (인내심을 시험하는)
+26. Severe - 심각한, 가혹한 (어려움의 정도가 심한)
+27. Steep - 가파른, 터무니없는 (너무 높거나 어려운)
+28. Rough - 거친, 힘든 (순탄치 않은)
+29. Crucial - 결정적인 (어렵고 중대한 기로에 선)
+
+## 추천 태그 (상황/맥락)
+study, education, friendship, medical, develope, startup, internet, entrepreneur, style, interview
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "HIGH_DIFFICULTY_EFFORT",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "HIGH_DIFFICULTY_EFFORT",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 29개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

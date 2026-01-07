@@ -1,0 +1,906 @@
+{
+  "deck_title": "TIMING_SPEED_PUNCTUALITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Punctual",
+      "sentence_en": "Being punctual for a dinner reservation is a basic courtesy to the restaurant and your friends.",
+      "sentence_ko": "저녁 식사 예약 시간을 엄수하는 것은 식당과 친구들에 대한 기본적인 예의입니다.",
+      "tags": ["restaurant", "social", "planning", "daily_life"]
+    },
+    {
+      "word": "Punctual",
+      "sentence_en": "Our manager is extremely punctual and expects everyone to be in the meeting room on time.",
+      "sentence_ko": "우리 매니저는 시간을 매우 철저하게 엄수하며 모든 직원이 회의실에 정시에 도착하길 바랍니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Punctual",
+      "sentence_en": "The train service in this country is famous for being incredibly punctual and reliable.",
+      "sentence_ko": "이 나라의 열차 서비스는 시간을 매우 정확하게 지키고 신뢰할 수 있는 것으로 유명합니다.",
+      "tags": ["daily_life", "planning", "activity"]
+    },
+    {
+      "word": "Punctual",
+      "sentence_en": "I try to be punctual for my morning yoga class to avoid disturbing the other students.",
+      "sentence_ko": "다른 학생들에게 방해가 되지 않도록 아침 요가 수업 시간에 늦지 않으려 노력합니다.",
+      "tags": ["health", "activity", "hobby", "daily_life"]
+    },
+    {
+      "word": "Punctual",
+      "sentence_en": "A punctual delivery is crucial for maintaining a positive brand image in the competitive market.",
+      "sentence_ko": "경쟁이 치열한 시장에서 긍정적인 브랜드 이미지를 유지하려면 정시 배송이 필수적입니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Prompt",
+      "sentence_en": "The restaurant provided prompt service despite the large number of customers on a Friday night.",
+      "sentence_ko": "그 식당은 금요일 밤 손님이 많았음에도 불구하고 지체 없이 즉각적인 서비스를 제공했습니다.",
+      "tags": ["restaurant", "daily_life", "activity"]
+    },
+    {
+      "word": "Prompt",
+      "sentence_en": "We appreciate your prompt reply to our inquiry regarding the upcoming marketing campaign.",
+      "sentence_ko": "다가오는 마케팅 캠페인 관련 문의에 대해 신속하게 답변해 주셔서 감사합니다.",
+      "tags": ["marketing", "planning", "social"]
+    },
+    {
+      "word": "Prompt",
+      "sentence_en": "Immediate medical attention and prompt action can save lives in critical health emergencies.",
+      "sentence_ko": "위급한 건강 비상 상황에서 즉각적인 의료 조치와 신속한 행동은 생명을 구할 수 있습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Prompt",
+      "sentence_en": "The app sends a prompt notification whenever someone comments on your shared hobby photos.",
+      "sentence_ko": "공유한 취미 사진에 누군가 댓글을 달 때마다 앱에서 즉각적인 알림을 보냅니다.",
+      "tags": ["hobby", "social", "daily_life"]
+    },
+    {
+      "word": "Prompt",
+      "sentence_en": "A prompt decision from the planning committee is needed to start the construction on time.",
+      "sentence_ko": "공사를 정시에 시작하려면 기획 위원회의 지체 없는 결정이 필요합니다.",
+      "tags": ["planning", "activity", "daily_life"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The timely arrival of the rain saved the crops from the long, dry summer drought.",
+      "sentence_ko": "때마침 내린 비 덕분에 길고 건조한 여름 가뭄으로부터 농작물을 구할 수 있었습니다.",
+      "tags": ["daily_life", "health", "activity"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "Thank you for your timely advice; it really helped me avoid a big social misunderstanding.",
+      "sentence_ko": "적절한 시기에 조언해 주셔서 감사합니다. 덕분에 큰 사회적 오해를 피할 수 있었습니다.",
+      "tags": ["social", "planning", "daily_life"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The government's timely intervention prevented the market from falling into a deeper recession.",
+      "sentence_ko": "정부의 시의적절한 개입 덕분에 시장이 더 깊은 불황에 빠지는 것을 막았습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "Receiving a timely health checkup can detect potential problems before they become serious.",
+      "sentence_ko": "제때 건강 검진을 받는 것은 잠재적인 문제가 심각해지기 전에 발견할 수 있게 해줍니다.",
+      "tags": ["health", "daily_life", "planning"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The company released a timely software update to fix the security issues reported by users.",
+      "sentence_ko": "회사는 사용자들이 보고한 보안 문제를 해결하기 위해 적절한 시기에 소프트웨어 업데이트를 출시했습니다.",
+      "tags": ["marketing", "daily_life", "planning"]
+    },
+    {
+      "word": "Tardy",
+      "sentence_en": "He received a warning for being tardy to work for the third time this week.",
+      "sentence_ko": "그는 이번 주에만 세 번째로 지각을 해서 경고를 받았습니다.",
+      "tags": ["daily_life", "planning", "social"]
+    },
+    {
+      "word": "Tardy",
+      "sentence_en": "The student gave a weak excuse for his tardy arrival at the morning lecture.",
+      "sentence_ko": "그 학생은 오전 강의에 늦게 온 것에 대해 궁색한 변명을 늘어놓았습니다.",
+      "tags": ["daily_life", "social", "activity"]
+    },
+    {
+      "word": "Tardy",
+      "sentence_en": "Please apologize for your tardy response to the client's urgent email request.",
+      "sentence_ko": "고객의 긴급한 이메일 요청에 뒤늦게 답변한 것에 대해 사과해 주세요.",
+      "tags": ["marketing", "planning", "social"]
+    },
+    {
+      "word": "Tardy",
+      "sentence_en": "A tardy start to the game led to the team losing their initial rhythm.",
+      "sentence_ko": "경기를 늦게 시작하는 바람에 팀이 초반 리듬을 잃고 말았습니다.",
+      "tags": ["sport", "activity", "hobby"]
+    },
+    {
+      "word": "Tardy",
+      "sentence_en": "The plant's growth was tardy due to the lack of sunlight in the cold room.",
+      "sentence_ko": "추운 방에 햇빛이 부족해서 식물의 성장이 더뎠습니다.",
+      "tags": ["hobby", "home", "daily_life"]
+    },
+    {
+      "word": "Delayed",
+      "sentence_en": "Our flight was delayed for three hours due to heavy snow and poor visibility.",
+      "sentence_ko": "폭설과 시야 확보 불량으로 인해 우리 비행기가 3시간 동안 지연되었습니다.",
+      "tags": ["daily_life", "planning", "activity"]
+    },
+    {
+      "word": "Delayed",
+      "sentence_en": "The restaurant manager apologized for the delayed order and offered us free drinks.",
+      "sentence_ko": "식당 지배인은 음식이 늦게 나온 것에 대해 사과하며 우리에게 무료 음료를 제공했습니다.",
+      "tags": ["restaurant", "social", "daily_life"]
+    },
+    {
+      "word": "Delayed",
+      "sentence_en": "The delayed reaction of the goalkeeper cost the team a crucial goal in the final.",
+      "sentence_ko": "골키퍼의 한 박자 늦은 반응 때문에 결승전에서 결정적인 골을 허용하고 말았습니다.",
+      "tags": ["sport", "activity", "hobby"]
+    },
+    {
+      "word": "Delayed",
+      "sentence_en": "Construction of the new community center was delayed by the unexpected rainy season.",
+      "sentence_ko": "예기치 못한 장마로 인해 새로운 커뮤니티 센터 건립이 지연되었습니다.",
+      "tags": ["planning", "activity", "social"]
+    },
+    {
+      "word": "Delayed",
+      "sentence_en": "A delayed diagnosis can sometimes lead to more complicated treatment procedures in the future.",
+      "sentence_ko": "진단이 늦어지면 나중에 치료 절차가 더 복잡해지는 결과를 초래할 수 있습니다.",
+      "tags": ["health", "daily_life", "planning"]
+    },
+    {
+      "word": "Overdue",
+      "sentence_en": "I need to return these overdue books to the library before the fines increase.",
+      "sentence_ko": "연체료가 더 쌓이기 전에 기한이 지난 이 책들을 도서관에 반납해야 합니다.",
+      "tags": ["daily_life", "hobby", "planning"]
+    },
+    {
+      "word": "Overdue",
+      "sentence_en": "A long-overdue cleaning of the house made the whole family feel much better.",
+      "sentence_ko": "한참 늦어진 집 청소를 하고 나니 온 가족의 기분이 훨씬 좋아졌습니다.",
+      "tags": ["home", "daily_life", "health"]
+    },
+    {
+      "word": "Overdue",
+      "sentence_en": "The payment for the electricity bill is now two weeks overdue.",
+      "sentence_ko": "전기 요금 납부 기한이 이미 2주일이나 지났습니다.",
+      "tags": ["daily_life", "planning", "home"]
+    },
+    {
+      "word": "Overdue",
+      "sentence_en": "Success was overdue for the athlete who had trained hard for over ten years.",
+      "sentence_ko": "10년 넘게 고생하며 훈련한 그 선수에게 성공은 이미 진작에 찾아왔어야 할 것이었습니다.",
+      "tags": ["sport", "hobby", "daily_life"]
+    },
+    {
+      "word": "Overdue",
+      "sentence_en": "The company's apology for the faulty product was long overdue and felt insincere.",
+      "sentence_ko": "결함 있는 제품에 대한 회사의 사과는 이미 한참 늦었기에 진정성이 느껴지지 않았습니다.",
+      "tags": ["marketing", "social", "daily_life"]
+    },
+    {
+      "word": "Belated",
+      "sentence_en": "I sent a belated birthday card to my friend after forgetting the actual date.",
+      "sentence_ko": "친구 생일 날짜를 잊어버리는 바람에 뒤늦게 생일 축하 카드를 보냈습니다.",
+      "tags": ["social", "daily_life", "planning"]
+    },
+    {
+      "word": "Belated",
+      "sentence_en": "The company made a belated attempt to fix the problem after the news became public.",
+      "sentence_ko": "뉴스가 공론화된 후에야 회사는 뒤늦게 문제를 해결하려는 시도를 했습니다.",
+      "tags": ["marketing", "social", "daily_life"]
+    },
+    {
+      "word": "Belated",
+      "sentence_en": "We had a belated celebration for our anniversary because we were both busy with work.",
+      "sentence_ko": "둘 다 일 때문에 바빠서 기념일 축하를 뒤늦게 했습니다.",
+      "tags": ["social", "home", "daily_life"]
+    },
+    {
+      "word": "Belated",
+      "sentence_en": "His belated realization of the truth came too late to save the relationship.",
+      "sentence_ko": "그가 진실을 뒤늦게 깨달았을 때는 이미 관계를 회복하기에 너무 늦은 뒤였습니다.",
+      "tags": ["social", "daily_life", "health"]
+    },
+    {
+      "word": "Belated",
+      "sentence_en": "The movie received belated recognition as a masterpiece years after its initial release.",
+      "sentence_ko": "그 영화는 개봉 후 수년이 지나서야 걸작으로 뒤늦게 인정받았습니다.",
+      "tags": ["hobby", "daily_life", "activity"]
+    },
+    {
+      "word": "Premature",
+      "sentence_en": "It would be premature to celebrate our victory before the final scores are announced.",
+      "sentence_ko": "최종 점수가 발표되기도 전에 승리를 축하하는 것은 시기상조입니다.",
+      "tags": ["sport", "planning", "social"]
+    },
+    {
+      "word": "Premature",
+      "sentence_en": "The premature aging of the skin can be caused by excessive exposure to the sun.",
+      "sentence_ko": "피부의 조기 노화는 과도한 햇빛 노출로 인해 발생할 수 있습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Premature",
+      "sentence_en": "The project was cancelled due to a premature announcement that caused confusion in the market.",
+      "sentence_ko": "시장에 혼란을 준 성급한 발표 때문에 프로젝트가 취소되었습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Premature",
+      "sentence_en": "He made a premature judgment about the new colleague before getting to know them.",
+      "sentence_ko": "그는 새로운 동료를 잘 알기도 전에 성급하게 판단을 내렸습니다.",
+      "tags": ["social", "daily_life", "planning"]
+    },
+    {
+      "word": "Premature",
+      "sentence_en": "The premature baby required special medical care in the neonatal intensive care unit.",
+      "sentence_ko": "미숙아는 신생아 집중 치료실에서 특별한 의료 조치가 필요했습니다.",
+      "tags": ["health", "daily_life", "home"]
+    },
+    {
+      "word": "Precocious",
+      "sentence_en": "The precocious child could play difficult classical pieces on the piano at the age of five.",
+      "sentence_ko": "그 조숙한 아이는 다섯 살 때 이미 피아노로 어려운 클래식 곡들을 연주할 수 있었습니다.",
+      "tags": ["hobby", "daily_life", "social"]
+    },
+    {
+      "word": "Precocious",
+      "sentence_en": "Her precocious talent for painting led to her first art exhibition while still in middle school.",
+      "sentence_ko": "그녀의 남다른 재능 덕분에 중학생 때 이미 첫 미술 전시회를 열게 되었습니다.",
+      "tags": ["hobby", "activity", "daily_life"]
+    },
+    {
+      "word": "Precocious",
+      "sentence_en": "He showed a precocious interest in politics, often discussing global issues with adults.",
+      "sentence_ko": "그는 정치에 대해 조숙한 관심을 보이며 어른들과 글로벌 이슈를 토론하곤 했습니다.",
+      "tags": ["social", "daily_life", "hobby"]
+    },
+    {
+      "word": "Precocious",
+      "sentence_en": "The young athlete's precocious physical development gave him an advantage over his peers.",
+      "sentence_ko": "그 어린 선수의 조숙한 신체 발달은 또래들에 비해 유리한 조건을 갖게 해주었습니다.",
+      "tags": ["sport", "health", "daily_life"]
+    },
+    {
+      "word": "Precocious",
+      "sentence_en": "She was a precocious reader, finishing thick novels long before her classmates.",
+      "sentence_ko": "그녀는 읽기 능력이 매우 빨라서 같은 반 친구들보다 훨씬 일찍 두꺼운 소설책들을 다 읽었습니다.",
+      "tags": ["hobby", "daily_life", "social"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The movie was released with simultaneous screenings in over fifty countries worldwide.",
+      "sentence_ko": "그 영화는 전 세계 50개국 이상에서 동시에 개봉되었습니다.",
+      "tags": ["marketing", "hobby", "activity"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The app allows for simultaneous editing of the planning document by multiple team members.",
+      "sentence_ko": "이 앱은 여러 팀원이 기획 문서를 동시에 편집할 수 있도록 지원합니다.",
+      "tags": ["planning", "activity", "daily_life"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The simultaneous explosion of fireworks created a breathtaking scene in the night sky.",
+      "sentence_ko": "불꽃놀이가 동시에 터지면서 밤하늘에 환상적인 장면을 연출했습니다.",
+      "tags": ["daily_life", "activity", "hobby"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "Trying to handle simultaneous phone calls can be quite stressful for customer service staff.",
+      "sentence_ko": "동시에 걸려오는 전화들을 처리하는 것은 고객 서비스 직원들에게 꽤 스트레스가 될 수 있습니다.",
+      "tags": ["social", "daily_life", "planning"]
+    },
+    {
+      "word": "Simultaneous",
+      "sentence_en": "The simultaneous translation service was essential for the international health conference.",
+      "sentence_ko": "국제 건강 컨퍼런스에서는 동시통역 서비스가 필수적이었습니다.",
+      "tags": ["health", "social", "planning"]
+    },
+    {
+      "word": "Synchronized",
+      "sentence_en": "We need to ensure our smartphones are synchronized with our computer's calendar.",
+      "sentence_ko": "우리의 스마트폰이 컴퓨터 캘린더와 동기화되어 있는지 확인해야 합니다.",
+      "tags": ["planning", "daily_life", "home"]
+    },
+    {
+      "word": "Synchronized",
+      "sentence_en": "The dancers performed a perfectly synchronized routine that impressed the entire audience.",
+      "sentence_ko": "무용수들은 관객 전체를 감동시킨 완벽하게 합이 맞는 안무를 선보였습니다.",
+      "tags": ["hobby", "activity", "daily_life"]
+    },
+    {
+      "word": "Synchronized",
+      "sentence_en": "Synchronized swimming requires intense physical strength and perfect timing with teammates.",
+      "sentence_ko": "아티스틱 스위밍(싱크로나이즈드 스위밍)은 강한 체력과 팀원들과의 완벽한 타이밍을 요구합니다.",
+      "tags": ["sport", "health", "hobby"]
+    },
+    {
+      "word": "Synchronized",
+      "sentence_en": "The traffic lights were synchronized to improve the flow of cars during rush hour.",
+      "sentence_ko": "출퇴근 시간대 차량 흐름을 개선하기 위해 신호등들이 동기화되었습니다.",
+      "tags": ["daily_life", "planning", "activity"]
+    },
+    {
+      "word": "Synchronized",
+      "sentence_en": "A synchronized marketing strategy across all social media platforms is key to brand success.",
+      "sentence_ko": "모든 소셜 미디어 플랫폼에서 일관된(동기화된) 마케팅 전략을 취하는 것이 브랜드 성공의 열쇠입니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Coincident",
+      "sentence_en": "The start of our vacation was coincident with the beginning of a major local festival.",
+      "sentence_ko": "우리 휴가의 시작이 마침 지역 대축제의 시작과 겹쳤습니다.",
+      "tags": ["daily_life", "activity", "social"]
+    },
+    {
+      "word": "Coincident",
+      "sentence_en": "His views on healthy living are coincident with the latest scientific research.",
+      "sentence_ko": "건강한 삶에 대한 그의 견해는 최신 과학 연구 결과와 일치합니다.",
+      "tags": ["health", "social", "daily_life"]
+    },
+    {
+      "word": "Coincident",
+      "sentence_en": "Our meeting at the restaurant was purely coincident, as we hadn't planned to see each other.",
+      "sentence_ko": "우리가 식당에서 만난 건 정말 우연이었어요. 서로 만날 계획이 전혀 없었거든요.",
+      "tags": ["restaurant", "social", "daily_life"]
+    },
+    {
+      "word": "Coincident",
+      "sentence_en": "The rise in sales was coincident with the launch of our new social media marketing campaign.",
+      "sentence_ko": "매출 증가는 우리의 새로운 소셜 미디어 마케팅 캠페인 런칭과 시기적으로 일치했습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Coincident",
+      "sentence_en": "Two coincident events made the day unforgettable for the small village community.",
+      "sentence_ko": "동시에 일어난 두 사건 덕분에 그날은 마을 주민들에게 잊지 못할 날이 되었습니다.",
+      "tags": ["social", "daily_life", "activity"]
+    },
+    {
+      "word": "Opportune",
+      "sentence_en": "The rain stopped at an opportune moment, just as we were starting the outdoor ceremony.",
+      "sentence_ko": "야외 행사를 막 시작하려던 참에 비가 딱 맞춰 그쳤습니다.",
+      "tags": ["daily_life", "activity", "planning"]
+    },
+    {
+      "word": "Opportune",
+      "sentence_en": "It was an opportune time to invest in the market before the prices started rising.",
+      "sentence_ko": "가격이 오르기 시작하기 전이었으니 시장에 투자하기에 아주 적절한 시기였습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Opportune",
+      "sentence_en": "He waited for an opportune moment to ask his boss for a promotion during the dinner.",
+      "sentence_ko": "그는 저녁 식사 도중 상사에게 승진 이야기를 꺼낼 절호의 기회를 엿보았습니다.",
+      "tags": ["restaurant", "social", "planning"]
+    },
+    {
+      "word": "Opportune",
+      "sentence_en": "A sudden vacancy in the team provided an opportune opening for the young intern.",
+      "sentence_ko": "팀에 갑자기 빈자리가 생기면서 젊은 인턴에게는 아주 좋은 기회가 찾아왔습니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Opportune",
+      "sentence_en": "We arrived at the restaurant at an opportune time, just as a table became free.",
+      "sentence_ko": "마침 테이블 하나가 비었을 때 식당에 도착해서 운이 좋았습니다.",
+      "tags": ["restaurant", "daily_life", "social"]
+    },
+    {
+      "word": "Inopportune",
+      "sentence_en": "The heavy rain started at an inopportune time, just as we began our outdoor picnic.",
+      "sentence_ko": "야외 소풍을 시작하려는데 비가 내려서 때가 참 안 좋았습니다.",
+      "tags": ["daily_life", "activity", "hobby"]
+    },
+    {
+      "word": "Inopportune",
+      "sentence_en": "I'm sorry to call at such an inopportune moment, but this health matter is urgent.",
+      "sentence_ko": "안 좋은 때에 전화 드려 죄송합니다만, 이 건강 관련 문제가 매우 시급합니다.",
+      "tags": ["health", "social", "daily_life"]
+    },
+    {
+      "word": "Inopportune",
+      "sentence_en": "The computer crashed at a most inopportune moment, right before I saved the marketing report.",
+      "sentence_ko": "마케팅 보고서를 저장하기 직전이라는 최악의 타이밍에 컴퓨터가 다운되었습니다.",
+      "tags": ["planning", "marketing", "daily_life"]
+    },
+    {
+      "word": "Inopportune",
+      "sentence_en": "The unexpected guest arrived at an inopportune time when the house was a complete mess.",
+      "sentence_ko": "집이 엉망인 상태에서 예기치 못한 손님이 와서 참 난감했습니다.",
+      "tags": ["home", "social", "daily_life"]
+    },
+    {
+      "word": "Inopportune",
+      "sentence_en": "His inopportune joke during the serious planning meeting was not well-received.",
+      "sentence_ko": "심각한 기획 회의 도중에 그가 던진 눈치 없는 농담은 좋은 반응을 얻지 못했습니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Seasonable",
+      "sentence_en": "The weather today is unusually warm for January, not at all seasonable.",
+      "sentence_ko": "오늘 날씨는 1월치고는 이상하게 따뜻해서 전혀 계절에 맞지 않네요.",
+      "tags": ["daily_life", "activity", "health"]
+    },
+    {
+      "word": "Seasonable",
+      "sentence_en": "The restaurant menu focuses on seasonable ingredients to ensure the best flavor and quality.",
+      "sentence_ko": "그 식당 메뉴는 최고의 맛과 품질을 보장하기 위해 제철 식재료에 집중합니다.",
+      "tags": ["restaurant", "health", "daily_life"]
+    },
+    {
+      "word": "Seasonable",
+      "sentence_en": "It is important to wear seasonable clothing during outdoor activities to protect your health.",
+      "sentence_ko": "건강을 보호하기 위해 야외 활동 중에는 계절에 맞는 옷을 입는 것이 중요합니다.",
+      "tags": ["health", "activity", "hobby"]
+    },
+    {
+      "word": "Seasonable",
+      "sentence_en": "A seasonable drop in temperature is expected as we approach the end of autumn.",
+      "sentence_ko": "가을이 끝나감에 따라 계절에 걸맞은 기온 하강이 예상됩니다.",
+      "tags": ["daily_life", "activity", "health"]
+    },
+    {
+      "word": "Seasonable",
+      "sentence_en": "The shop started selling seasonable decorations for the upcoming winter holidays.",
+      "sentence_ko": "그 상점은 다가오는 겨울 연휴에 맞춰 계절 장식품들을 팔기 시작했습니다.",
+      "tags": ["daily_life", "planning", "home"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "The doctor received an urgent call regarding a patient's critical health condition.",
+      "sentence_ko": "의사는 환자의 위급한 건강 상태에 관한 긴급 전화를 받았습니다.",
+      "tags": ["health", "daily_life", "social"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "We need to have an urgent meeting to discuss the sudden changes in the marketing budget.",
+      "sentence_ko": "갑작스러운 마케팅 예산 변경에 대해 논의하기 위해 긴급 회의가 필요합니다.",
+      "tags": ["planning", "marketing", "daily_life"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "Please mark the package as 'Urgent' so it reaches the client by tomorrow morning.",
+      "sentence_ko": "내일 아침까지 고객에게 전달될 수 있도록 소포에 '긴급' 표시를 해주세요.",
+      "tags": ["daily_life", "planning", "marketing"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "The plumbing problem in the kitchen is urgent and needs to be fixed immediately.",
+      "sentence_ko": "주방 배수관 문제는 시급하므로 즉시 수리해야 합니다.",
+      "tags": ["home", "daily_life", "planning"]
+    },
+    {
+      "word": "Urgent",
+      "sentence_en": "His tone of voice sounded urgent, so I knew something serious had happened.",
+      "sentence_ko": "그의 목소리가 다급하게 들려서 심각한 일이 생겼다는 것을 직감했습니다.",
+      "tags": ["social", "daily_life", "health"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "Climate change is one of the most pressing issues facing our world today.",
+      "sentence_ko": "기후 변화는 오늘날 우리 세계가 직면한 가장 긴박한 문제 중 하나입니다.",
+      "tags": ["daily_life", "activity", "health"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "The need for a better health insurance policy has become a pressing concern for the family.",
+      "sentence_ko": "더 나은 건강 보험 정책에 대한 필요성이 가족들에게 시급한 관심사가 되었습니다.",
+      "tags": ["health", "home", "planning"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "I have some pressing work to finish, so I won't be able to join you for the hobby club tonight.",
+      "sentence_ko": "급히 끝내야 할 일이 있어서 오늘 밤 취미 동호회 모임에는 못 갈 것 같아요.",
+      "tags": ["hobby", "daily_life", "activity"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "There is a pressing need for more parking spaces near the popular restaurant district.",
+      "sentence_ko": "인기 식당가 근처에 주차 공간을 늘려야 한다는 압박이 거세지고 있습니다.",
+      "tags": ["restaurant", "planning", "daily_life"]
+    },
+    {
+      "word": "Pressing",
+      "sentence_en": "Despite the pressing deadline, the team managed to maintain a high level of work quality.",
+      "sentence_ko": "촉박한 마감 기한에도 불구하고 팀은 높은 작업 품질을 유지해 냈습니다.",
+      "tags": ["planning", "activity", "marketing"]
+    },
+    {
+      "word": "Immediate",
+      "sentence_en": "The medicine provided immediate relief from the pain after the dental procedure.",
+      "sentence_ko": "치과 치료 후 그 약을 먹으니 통증이 즉각적으로 가라앉았습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Immediate",
+      "sentence_en": "Her immediate reaction to the news was to call her mother and share the joy.",
+      "sentence_ko": "그 소식을 듣자마자 그녀가 한 행동은 엄마에게 전화해 기쁨을 나누는 것이었습니다.",
+      "tags": ["social", "home", "daily_life"]
+    },
+    {
+      "word": "Immediate",
+      "sentence_en": "We need to see an immediate improvement in sales to meet our marketing goals for the year.",
+      "sentence_ko": "올해 마케팅 목표를 달성하려면 매출이 즉각적으로 개선되어야 합니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Immediate",
+      "sentence_en": "There is an immediate danger of falling rocks in this specific area of the mountain.",
+      "sentence_ko": "산의 이 특정 구역에는 낙석의 즉각적인 위험이 있습니다.",
+      "tags": ["activity", "hobby", "health"]
+    },
+    {
+      "word": "Immediate",
+      "sentence_en": "The manager demanded an immediate explanation for the missing budget figures.",
+      "sentence_ko": "매니저는 예산 수치가 누락된 것에 대해 즉각적인 설명을 요구했습니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Instant",
+      "sentence_en": "I usually have instant coffee in the morning when I'm in a hurry to get to work.",
+      "sentence_ko": "출근하느라 서두르는 아침에는 보통 인스턴트 커피를 마십니다.",
+      "tags": ["daily_life", "home", "activity"]
+    },
+    {
+      "word": "Instant",
+      "sentence_en": "The new smartphone app provides instant access to thousands of recipes and cooking tips.",
+      "sentence_ko": "그 새로운 스마트폰 앱은 수천 개의 레시피와 요리 팁에 즉석에서 접근할 수 있게 해줍니다.",
+      "tags": ["daily_life", "hobby", "planning"]
+    },
+    {
+      "word": "Instant",
+      "sentence_en": "He became an instant celebrity after the video of his speech went viral on the internet.",
+      "sentence_ko": "그의 연설 영상이 인터넷에서 화제가 된 후 그는 단숨에 유명 인사가 되었습니다.",
+      "tags": ["social", "daily_life", "hobby"]
+    },
+    {
+      "word": "Instant",
+      "sentence_en": "Instant feedback is one of the biggest benefits of using digital marketing tools.",
+      "sentence_ko": "즉각적인 피드백은 디지털 마케팅 도구를 사용하는 가장 큰 장점 중 하나입니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Instant",
+      "sentence_en": "The detective had an instant suspicion about the witness's inconsistent story.",
+      "sentence_ko": "형사는 증인의 앞뒤가 맞지 않는 이야기에 대해 즉각적인 의구심을 가졌습니다.",
+      "tags": ["social", "daily_life", "activity"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The swift action of the lifeguard saved the drowning child from the strong waves.",
+      "sentence_ko": "안전 요원의 신속한 조치가 강한 파도에 휩쓸린 아이의 생명을 구했습니다.",
+      "tags": ["health", "activity", "social"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "We hope for a swift recovery for our teammate after his surgery last week.",
+      "sentence_ko": "지난주 수술을 받은 우리 팀원이 빨리 회복되기를 바랍니다.",
+      "tags": ["health", "sport", "social"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The company's swift response to the customer complaints helped rebuild their trust.",
+      "sentence_ko": "고객 불만에 대한 회사의 신속한 대응이 신뢰를 다시 쌓는 데 도움이 되었습니다.",
+      "tags": ["marketing", "social", "daily_life"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "The bird made a swift descent from the tree to catch the insect on the ground.",
+      "sentence_ko": "새가 땅 위의 벌레를 잡기 위해 나무에서 신속하게 내려왔습니다.",
+      "tags": ["hobby", "daily_life", "activity"]
+    },
+    {
+      "word": "Swift",
+      "sentence_en": "Swift communication between the planning departments is essential for large-scale projects.",
+      "sentence_ko": "대규모 프로젝트를 수행할 때는 기획 부서 간의 신속한 소통이 필수적입니다.",
+      "tags": ["planning", "social", "marketing"]
+    },
+    {
+      "word": "Rapid",
+      "sentence_en": "The rapid growth of the city has led to a shortage of affordable housing.",
+      "sentence_ko": "도시의 급격한 성장은 저렴한 주택 부족 현상을 초래했습니다.",
+      "tags": ["daily_life", "planning", "social"]
+    },
+    {
+      "word": "Rapid",
+      "sentence_en": "The patient showed rapid improvement after starting the new medical treatment.",
+      "sentence_ko": "그 환자는 새로운 치료를 시작한 후 빠른 호전 양상을 보였습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Rapid",
+      "sentence_en": "Digital marketing has undergone rapid changes over the last decade due to social media.",
+      "sentence_ko": "디지털 마케팅은 소셜 미디어 덕분에 지난 10년 동안 급격한 변화를 겪었습니다.",
+      "tags": ["marketing", "social", "planning"]
+    },
+    {
+      "word": "Rapid",
+      "sentence_en": "The rapid pace of modern life can sometimes lead to increased levels of stress.",
+      "sentence_ko": "현대 생활의 빠른 속도는 때로 스트레스 수치를 높이는 결과를 낳을 수 있습니다.",
+      "tags": ["health", "daily_life", "social"]
+    },
+    {
+      "word": "Rapid",
+      "sentence_en": "The athlete is known for his rapid speed and agility on the football field.",
+      "sentence_ko": "그 선수는 축구장에서의 빠른 속도와 민첩성으로 잘 알려져 있습니다.",
+      "tags": ["sport", "activity", "hobby"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "Making a hasty decision without looking at all the facts can lead to serious mistakes.",
+      "sentence_ko": "모든 사실을 확인하지 않고 성급하게 결정을 내리는 것은 심각한 실수로 이어질 수 있습니다.",
+      "tags": ["planning", "daily_life", "social"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "She wrote a hasty note to her family before leaving the house in a rush.",
+      "sentence_ko": "그녀는 급히 집을 나서기 전 가족들에게 짧은 메모를 남겼습니다.",
+      "tags": ["home", "social", "daily_life"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "A hasty marketing launch can result in technical bugs that ruin the user experience.",
+      "sentence_ko": "서둘러 마케팅 런칭을 하다 보면 사용자 경험을 망치는 기술적 버그가 발생할 수 있습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "The team's hasty defense in the final minutes allowed the opponent to score.",
+      "sentence_ko": "마지막 몇 분간 팀의 서툰 수비 때문에 상대방에게 득점을 허용하고 말았습니다.",
+      "tags": ["sport", "activity", "hobby"]
+    },
+    {
+      "word": "Hasty",
+      "sentence_en": "I regret my hasty words during our argument and hope you can forgive me.",
+      "sentence_ko": "말다툼 중에 생각 없이 내뱉은 말들이 후회돼요. 용서해 주길 바라요.",
+      "tags": ["social", "daily_life", "health"]
+    },
+    {
+      "word": "Brisk",
+      "sentence_en": "A brisk walk in the park every morning is a great way to stay healthy.",
+      "sentence_ko": "매일 아침 공원에서 활기차게 걷는 것은 건강을 유지하는 아주 좋은 방법입니다.",
+      "tags": ["health", "activity", "hobby"]
+    },
+    {
+      "word": "Brisk",
+      "sentence_en": "The restaurant enjoyed brisk business during the weekend festival in the city center.",
+      "sentence_ko": "그 식당은 도심에서 열린 주말 축제 기간 동안 활발한 영업 성과를 거두었습니다.",
+      "tags": ["restaurant", "daily_life", "marketing"]
+    },
+    {
+      "word": "Brisk",
+      "sentence_en": "There was a brisk wind blowing from the ocean, making the air feel very fresh.",
+      "sentence_ko": "바다에서 시원한 바람이 불어와 공기가 아주 상쾌하게 느껴졌습니다.",
+      "tags": ["daily_life", "activity", "hobby"]
+    },
+    {
+      "word": "Brisk",
+      "sentence_en": "The meeting proceeded at a brisk pace, covering all the topics in under an hour.",
+      "sentence_ko": "회의는 속도감 있게 진행되어 한 시간도 안 되어 모든 주제를 다루었습니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Brisk",
+      "sentence_en": "Sales of the new smartphone were brisk during the first week of its release.",
+      "sentence_ko": "그 새로운 스마트폰은 출시 첫 주 동안 활발하게 팔렸습니다.",
+      "tags": ["marketing", "daily_life", "planning"]
+    },
+    {
+      "word": "Accelerated",
+      "sentence_en": "The use of artificial intelligence has accelerated the development of new health treatments.",
+      "sentence_ko": "인공지능의 사용은 새로운 건강 치료법 개발을 가속화했습니다.",
+      "tags": ["health", "planning", "daily_life"]
+    },
+    {
+      "word": "Accelerated",
+      "sentence_en": "The student was placed in an accelerated learning program due to her high test scores.",
+      "sentence_ko": "그 학생은 높은 시험 점수 덕분에 속진 학습(월반) 프로그램에 배정되었습니다.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Accelerated",
+      "sentence_en": "Environmental damage is being accelerated by the excessive use of plastic products.",
+      "sentence_ko": "플라스틱 제품의 과도한 사용으로 인해 환경 파괴가 가속화되고 있습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Accelerated",
+      "sentence_en": "The marketing team decided on an accelerated schedule to beat the competitors to the market.",
+      "sentence_ko": "마케팅팀은 경쟁사들보다 시장을 선점하기 위해 가속화된 일정을 결정했습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Accelerated",
+      "sentence_en": "His heart rate accelerated as he prepared to give his first public speech.",
+      "sentence_ko": "생애 첫 공개 연설을 준비하면서 그의 심장 박동이 빨라졌습니다.",
+      "tags": ["social", "health", "activity"]
+    },
+    {
+      "word": "Pace",
+      "sentence_en": "The marathon runner maintained a steady pace throughout the entire forty-two kilometers.",
+      "sentence_ko": "마라톤 선수는 42km 내내 일정한 페이스를 유지했습니다.",
+      "tags": ["sport", "activity", "health"]
+    },
+    {
+      "word": "Pace",
+      "sentence_en": "Living in a large city often involves a much faster pace of life compared to the countryside.",
+      "sentence_ko": "대도시에 사는 것은 종종 시골에 비해 훨씬 더 빠른 삶의 속도를 수반합니다.",
+      "tags": ["daily_life", "social", "health"]
+    },
+    {
+      "word": "Pace",
+      "sentence_en": "We need to pick up the pace if we want to finish the planning phase by Friday.",
+      "sentence_ko": "금요일까지 기획 단계를 끝내려면 속도를 좀 더 내야 합니다.",
+      "tags": ["planning", "marketing", "daily_life"]
+    },
+    {
+      "word": "Pace",
+      "sentence_en": "He walked at a slow pace while enjoying the beautiful sunset in the park.",
+      "sentence_ko": "그는 공원의 아름다운 노을을 감상하며 천천히 걸었습니다.",
+      "tags": ["daily_life", "hobby", "activity"]
+    },
+    {
+      "word": "Pace",
+      "sentence_en": "The technological advancements in the smartphone industry are moving at an incredible pace.",
+      "sentence_ko": "스마트폰 산업의 기술 발전은 믿을 수 없을 정도로 빠른 속도로 진행되고 있습니다.",
+      "tags": ["marketing", "daily_life", "planning"]
+    },
+    {
+      "word": "Tempo",
+      "sentence_en": "The upbeat tempo of the music at the party made everyone want to dance.",
+      "sentence_ko": "파티 음악의 경쾌한 템포 덕분에 모두가 춤을 추고 싶어 했습니다.",
+      "tags": ["hobby", "social", "activity"]
+    },
+    {
+      "word": "Tempo",
+      "sentence_en": "The coach told the team to increase the tempo of the game in the second half.",
+      "sentence_ko": "감독은 팀에게 후반전에는 경기 템포를 올리라고 지시했습니다.",
+      "tags": ["sport", "activity", "hobby"]
+    },
+    {
+      "word": "Tempo",
+      "sentence_en": "Finding a work tempo that suits your personality is important for long-term productivity.",
+      "sentence_ko": "자신의 성격에 맞는 업무 템포를 찾는 것은 장기적인 생산성을 위해 중요합니다.",
+      "tags": ["daily_life", "planning", "health"]
+    },
+    {
+      "word": "Tempo",
+      "sentence_en": "The restaurant changed the background music to a slower tempo to encourage guests to stay longer.",
+      "sentence_ko": "식당은 손님들이 더 오래 머물도록 배경 음악을 느린 템포로 바꿨습니다.",
+      "tags": ["restaurant", "marketing", "daily_life"]
+    },
+    {
+      "word": "Tempo",
+      "sentence_en": "As the deadline approached, the tempo of activity in the marketing office increased significantly.",
+      "sentence_ko": "마감 기한이 다가오자 마케팅 사무실의 활동 속도가 눈에 띄게 빨라졌습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Lag",
+      "sentence_en": "I experienced a lot of lag while playing the online game due to a slow internet connection.",
+      "sentence_ko": "인터넷 연결이 느려서 온라인 게임을 하는 동안 렉(지체 현상)이 심했습니다.",
+      "tags": ["hobby", "daily_life", "activity"]
+    },
+    {
+      "word": "Lag",
+      "sentence_en": "There is often a lag between a marketing campaign launch and the actual increase in sales.",
+      "sentence_ko": "마케팅 캠페인 런칭과 실제 매출 증가 사이에는 종종 시간 차가 존재합니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Lag",
+      "sentence_en": "Jet lag can disrupt your sleep pattern for several days after an international journey.",
+      "sentence_ko": "해외 여행 후에는 시차 적응 문제로 며칠 동안 수면 패턴이 망가질 수 있습니다.",
+      "tags": ["health", "daily_life", "activity"]
+    },
+    {
+      "word": "Lag",
+      "sentence_en": "The small company began to lag behind its competitors because it failed to innovate.",
+      "sentence_ko": "그 작은 회사는 혁신에 실패하면서 경쟁사들에 뒤처지기 시작했습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Lag",
+      "sentence_en": "The video and audio were not synchronized, resulting in a noticeable lag during the movie.",
+      "sentence_ko": "영상과 오디오가 맞지 않아서 영화를 보는 동안 눈에 띄는 지체 현상이 있었습니다.",
+      "tags": ["hobby", "daily_life", "activity"]
+    },
+    {
+      "word": "Procrastinate",
+      "sentence_en": "Don't procrastinate on your health checkup; it's better to know your status early.",
+      "sentence_ko": "건강 검진을 미루지 마세요. 자신의 상태를 일찍 아는 것이 더 좋습니다.",
+      "tags": ["health", "daily_life", "planning"]
+    },
+    {
+      "word": "Procrastinate",
+      "sentence_en": "I tend to procrastinate when I have a difficult task that I don't want to start.",
+      "sentence_ko": "저는 시작하기 싫은 어려운 일이 있을 때 미루는 경향이 있습니다.",
+      "tags": ["daily_life", "social", "planning"]
+    },
+    {
+      "word": "Procrastinate",
+      "sentence_en": "The student decided to stop procrastinating and finally finish his research project.",
+      "sentence_ko": "그 학생은 꾸물거리는 것을 멈추고 마침내 연구 프로젝트를 끝내기로 했습니다.",
+      "tags": ["daily_life", "activity", "planning"]
+    },
+    {
+      "word": "Procrastinate",
+      "sentence_en": "Procrastinating on the marketing report will only lead to more stress later in the week.",
+      "sentence_ko": "마케팅 보고서를 미루는 것은 주 후반에 더 많은 스트레스를 유발할 뿐입니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Procrastinate",
+      "sentence_en": "She spent the whole afternoon cleaning the house as a way to procrastinate on her studies.",
+      "sentence_ko": "그녀는 공부를 미루기 위해 오후 내내 집 청소를 하며 시간을 보냈습니다.",
+      "tags": ["home", "daily_life", "hobby"]
+    },
+    {
+      "word": "Defer",
+      "sentence_en": "The committee decided to defer the decision until more data is available.",
+      "sentence_ko": "위원회는 더 많은 데이터가 확보될 때까지 결정을 미루기로 했습니다.",
+      "tags": ["planning", "marketing", "social"]
+    },
+    {
+      "word": "Defer",
+      "sentence_en": "I often defer to my partner's judgment when choosing a restaurant for dinner.",
+      "sentence_ko": "저녁 식사 장소를 정할 때는 보통 파트너의 판단에 따르는(결정을 맡기는) 편입니다.",
+      "tags": ["restaurant", "social", "home"]
+    },
+    {
+      "word": "Defer",
+      "sentence_en": "He had to defer his college education for a year to help with the family business.",
+      "sentence_ko": "그는 가업을 돕기 위해 대학 진학을 1년 미뤄야 했습니다.",
+      "tags": ["home", "social", "daily_life"]
+    },
+    {
+      "word": "Defer",
+      "sentence_en": "The judge agreed to defer the trial because of new evidence that needed investigation.",
+      "sentence_ko": "판사는 조사가 필요한 새로운 증거 때문에 재판을 연기하는 데 동의했습니다.",
+      "tags": ["social", "planning", "daily_life"]
+    },
+    {
+      "word": "Defer",
+      "sentence_en": "The company decided to defer the launch of the new product due to marketing concerns.",
+      "sentence_ko": "회사는 마케팅 우려 사항으로 인해 신제품 런칭을 연기하기로 결정했습니다.",
+      "tags": ["marketing", "planning", "daily_life"]
+    },
+    {
+      "word": "Postpone",
+      "sentence_en": "We had to postpone our outdoor wedding ceremony due to the unexpected rainstorm.",
+      "sentence_ko": "예기치 못한 폭풍우 때문에 야외 결혼식을 연기해야만 했습니다.",
+      "tags": ["social", "planning", "daily_life"]
+    },
+    {
+      "word": "Postpone",
+      "sentence_en": "The doctor advised me to postpone my exercise routine until my injury fully heals.",
+      "sentence_ko": "의사는 부상이 완전히 나을 때까지 운동 루틴을 미루라고 조언했습니다.",
+      "tags": ["health", "sport", "daily_life"]
+    },
+    {
+      "word": "Postpone",
+      "sentence_en": "Is it possible to postpone the meeting by thirty minutes? I'm stuck in traffic.",
+      "sentence_ko": "회의를 30분만 늦출 수 있을까요? 차가 너무 막혀서요.",
+      "tags": ["planning", "social", "daily_life"]
+    },
+    {
+      "word": "Postpone",
+      "sentence_en": "The team decided to postpone their celebration until after the final game of the season.",
+      "sentence_ko": "팀은 시즌 마지막 경기가 끝난 후로 축하 파티를 미루기로 했습니다.",
+      "tags": ["sport", "activity", "social"]
+    },
+    {
+      "word": "Postpone",
+      "sentence_en": "You shouldn't postpone paying your credit card bill to avoid unnecessary interest charges.",
+      "sentence_ko": "불필요한 이자 부담을 피하려면 카드 대금 결제를 미루지 말아야 합니다.",
+      "tags": ["daily_life", "planning", "home"]
+    }
+  ]
+}

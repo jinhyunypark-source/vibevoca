@@ -1,0 +1,1086 @@
+{
+  "deck_title": "BREVITY_VERBOSITY",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Concise",
+      "sentence_en": "The travel guide was concise yet packed with all the essential information.",
+      "sentence_ko": "여행 가이드북은 간결했지만 모든 필수 정보가 담겨 있었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "Her concise feedback helped me improve my marketing proposal quickly.",
+      "sentence_ko": "그녀의 간결한 피드백 덕분에 마케팅 제안서를 빠르게 개선할 수 있었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "University professors appreciate concise answers that demonstrate clear understanding.",
+      "sentence_ko": "대학 교수들은 명확한 이해를 보여주는 간결한 답변을 높이 평가한다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "The fitness instructor gave concise directions for each exercise routine.",
+      "sentence_ko": "피트니스 강사는 각 운동 루틴에 대해 간결한 설명을 해주었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "I prefer concise text messages when making plans with friends.",
+      "sentence_ko": "친구들과 약속을 정할 때는 간결한 문자가 좋다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Concise",
+      "sentence_en": "The nature documentary was concise but emotionally powerful.",
+      "sentence_ko": "그 자연 다큐멘터리는 짧았지만 감정적으로 강렬했다.",
+      "tags": ["nature", "emotion"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "We had a brief stop at a beautiful village during our road trip.",
+      "sentence_ko": "우리는 로드트립 중에 아름다운 마을에서 잠시 멈췄다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "The marketing meeting was brief but covered all the important points.",
+      "sentence_ko": "마케팅 회의는 짧았지만 모든 중요한 사항을 다루었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "After a brief warm-up, we started the intense exercise session.",
+      "sentence_ko": "짧은 워밍업 후에 강도 높은 운동을 시작했다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "Our friendship began with a brief conversation at a university event.",
+      "sentence_ko": "우리의 우정은 대학 행사에서의 짧은 대화로 시작되었다.",
+      "tags": ["friendship", "university"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "She gave me a brief hug before leaving for her trip abroad.",
+      "sentence_ko": "그녀는 해외여행을 떠나기 전에 나에게 짧게 안아주었다.",
+      "tags": ["emotion", "travel"]
+    },
+    {
+      "word": "Brief",
+      "sentence_en": "The fashion show offered a brief glimpse into next season's trends.",
+      "sentence_ko": "패션쇼는 다음 시즌 트렌드를 잠깐 엿볼 수 있게 해주었다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "His succinct explanation of the hiking trail was easy to follow.",
+      "sentence_ko": "등산로에 대한 그의 간단명료한 설명은 이해하기 쉬웠다.",
+      "tags": ["travel", "nature"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "The professor's succinct lecture made complex theories easier to understand.",
+      "sentence_ko": "교수님의 간결한 강의 덕분에 복잡한 이론을 이해하기 쉬웠다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "A succinct marketing slogan can be more memorable than a lengthy one.",
+      "sentence_ko": "간결한 마케팅 슬로건이 긴 것보다 더 기억에 남을 수 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "She sent a succinct message expressing her feelings clearly.",
+      "sentence_ko": "그녀는 자신의 감정을 분명하게 표현하는 간결한 메시지를 보냈다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "The fitness app provides succinct instructions for each workout.",
+      "sentence_ko": "피트니스 앱은 각 운동에 대해 간단명료한 설명을 제공한다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Succinct",
+      "sentence_en": "Good friends can communicate with succinct glances and smiles.",
+      "sentence_ko": "좋은 친구들은 짧은 눈빛과 미소만으로도 소통할 수 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "The mountain guide was laconic but his words carried great wisdom.",
+      "sentence_ko": "산악 가이드는 과묵했지만 그의 말에는 큰 지혜가 담겨 있었다.",
+      "tags": ["travel", "nature"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "His laconic reply to my long email was just one word: 'Okay.'",
+      "sentence_ko": "내 긴 이메일에 대한 그의 과묵한 답장은 딱 한 단어였다: '알겠습니다.'",
+      "tags": ["emotion"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "Despite his laconic nature, his friendship was deep and genuine.",
+      "sentence_ko": "과묵한 성격에도 불구하고 그의 우정은 깊고 진실했다.",
+      "tags": ["friendship", "feeling"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "The fashion designer gave laconic answers during the interview.",
+      "sentence_ko": "패션 디자이너는 인터뷰에서 말수가 적은 답변을 했다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "Her laconic coaching style pushed athletes to think for themselves.",
+      "sentence_ko": "그녀의 과묵한 코칭 스타일은 선수들이 스스로 생각하게 만들었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Laconic",
+      "sentence_en": "The university professor was known for his laconic but impactful lectures.",
+      "sentence_ko": "그 대학 교수는 과묵하지만 인상적인 강의로 유명했다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "She was reticent about sharing her travel experiences with strangers.",
+      "sentence_ko": "그녀는 낯선 사람들에게 여행 경험을 이야기하는 것을 꺼렸다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "The company was reticent about revealing its new marketing strategy.",
+      "sentence_ko": "회사는 새로운 마케팅 전략을 공개하는 것에 신중했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "He became reticent when asked about his feelings regarding the breakup.",
+      "sentence_ko": "이별에 대한 감정을 물었을 때 그는 말을 아꼈다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "Students are often reticent to speak up in large university lectures.",
+      "sentence_ko": "학생들은 대학의 큰 강의에서 발언하는 것을 꺼리는 경우가 많다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "Despite being reticent at first, she opened up to her new friends.",
+      "sentence_ko": "처음에는 말을 아꼈지만, 그녀는 새 친구들에게 마음을 열었다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Reticent",
+      "sentence_en": "The nature photographer is reticent about the locations of rare species.",
+      "sentence_ko": "그 자연 사진작가는 희귀종의 위치에 대해 말을 아낀다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "The taciturn fisherman rarely spoke but knew the sea better than anyone.",
+      "sentence_ko": "과묵한 어부는 거의 말을 하지 않았지만 바다를 누구보다 잘 알았다.",
+      "tags": ["nature", "place"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "My taciturn roommate at university turned out to be a great friend.",
+      "sentence_ko": "대학에서 무뚝뚝했던 룸메이트가 결국 좋은 친구가 되었다.",
+      "tags": ["university", "friendship"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "The taciturn trainer communicated more through demonstrations than words.",
+      "sentence_ko": "무뚝뚝한 트레이너는 말보다 시범으로 더 많이 소통했다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "She appreciated his taciturn nature after dating someone overly talkative.",
+      "sentence_ko": "너무 말이 많은 사람과 사귄 후, 그녀는 그의 과묵한 성격이 좋았다.",
+      "tags": ["feeling", "emotion"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "The taciturn designer let his fashion creations speak for themselves.",
+      "sentence_ko": "말이 없는 디자이너는 자신의 패션 작품이 스스로 말하게 했다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Taciturn",
+      "sentence_en": "Travel often attracts taciturn souls seeking solitude and reflection.",
+      "sentence_ko": "여행은 종종 고독과 성찰을 찾는 과묵한 영혼들을 끌어들인다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "There was a tacit understanding between them that words couldn't express.",
+      "sentence_ko": "그들 사이에는 말로 표현할 수 없는 무언의 이해가 있었다.",
+      "tags": ["friendship", "feeling"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "The team had a tacit agreement to support each other during the competition.",
+      "sentence_ko": "팀원들은 대회 중 서로를 지지한다는 암묵적인 합의가 있었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "In fashion, there's a tacit rule that simplicity often wins.",
+      "sentence_ko": "패션에서는 단순함이 이긴다는 암묵적인 규칙이 있다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "Their tacit bond was evident even without speaking to each other.",
+      "sentence_ko": "서로 말하지 않아도 그들의 무언의 유대감은 분명했다.",
+      "tags": ["emotion", "friendship"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "The marketing team had tacit approval to proceed with the campaign.",
+      "sentence_ko": "마케팅 팀은 캠페인을 진행해도 된다는 암묵적 승인을 받았다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Tacit",
+      "sentence_en": "University students often develop tacit norms within their study groups.",
+      "sentence_ko": "대학생들은 종종 스터디 그룹 내에서 암묵적인 규범을 형성한다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "The travel blogger is known for her pithy reviews of popular destinations.",
+      "sentence_ko": "그 여행 블로거는 인기 여행지에 대한 함축적인 리뷰로 유명하다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "His pithy marketing slogans have become iconic in the industry.",
+      "sentence_ko": "그의 핵심을 찌르는 마케팅 슬로건은 업계에서 상징적이 되었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "She has a gift for making pithy observations about human nature.",
+      "sentence_ko": "그녀는 인간 본성에 대해 핵심을 찌르는 관찰을 하는 재능이 있다.",
+      "tags": ["nature", "feeling"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "The fitness coach's pithy advice stuck with me throughout my journey.",
+      "sentence_ko": "피트니스 코치의 함축적인 조언은 내 여정 내내 기억에 남았다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "Good friends often share pithy wisdom that changes your perspective.",
+      "sentence_ko": "좋은 친구들은 종종 관점을 바꿔주는 핵심적인 지혜를 나눈다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Pithy",
+      "sentence_en": "The university professor was famous for his pithy concluding remarks.",
+      "sentence_ko": "그 대학 교수는 함축적인 맺음말로 유명했다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "The travel brochure was so wordy that I lost interest halfway through.",
+      "sentence_ko": "여행 브로셔가 너무 장황해서 중간에 흥미를 잃었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "His wordy marketing emails often get ignored by potential customers.",
+      "sentence_ko": "그의 너저분한 마케팅 이메일은 종종 잠재 고객들에게 무시당한다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "The professor asked us to avoid wordy explanations in our essays.",
+      "sentence_ko": "교수님은 에세이에서 장황한 설명을 피하라고 하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "Her wordy apology made me feel worse rather than better.",
+      "sentence_ko": "그녀의 장황한 사과는 오히려 기분을 더 나쁘게 만들었다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "Fashion critics dislike wordy descriptions of simple clothing items.",
+      "sentence_ko": "패션 평론가들은 단순한 의류에 대한 장황한 설명을 싫어한다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Wordy",
+      "sentence_en": "The exercise manual was too wordy for beginners to follow easily.",
+      "sentence_ko": "운동 매뉴얼이 너무 말이 많아서 초보자가 따라 하기 어려웠다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "His terse response suggested he wasn't happy about the travel delay.",
+      "sentence_ko": "그의 퉁명스러운 대답은 여행 지연에 대해 기분이 좋지 않음을 암시했다.",
+      "tags": ["travel", "emotion"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "The marketing director sent a terse email rejecting the proposal.",
+      "sentence_ko": "마케팅 이사는 제안서를 거절하는 퉁명스러운 이메일을 보냈다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "Her terse feedback left students feeling confused and discouraged.",
+      "sentence_ko": "그녀의 딱딱한 피드백은 학생들을 혼란스럽고 낙담하게 했다.",
+      "tags": ["university", "feeling"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "The coach's terse instructions during the game were hard to follow.",
+      "sentence_ko": "경기 중 코치의 퉁명스러운 지시는 따라가기 어려웠다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "After the argument, our conversation became awkwardly terse.",
+      "sentence_ko": "다툼 후, 우리의 대화는 어색하게 딱딱해졌다.",
+      "tags": ["friendship", "emotion"]
+    },
+    {
+      "word": "Terse",
+      "sentence_en": "Nature documentaries should avoid terse narration that lacks warmth.",
+      "sentence_ko": "자연 다큐멘터리는 따뜻함이 없는 퉁명스러운 내레이션을 피해야 한다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "The loquacious tour guide shared endless stories about every location.",
+      "sentence_ko": "수다스러운 투어 가이드가 모든 장소에 대한 끝없는 이야기를 들려주었다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "My loquacious friend never runs out of things to say.",
+      "sentence_ko": "내 수다스러운 친구는 할 말이 떨어지는 법이 없다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "The loquacious professor often went over the class time limit.",
+      "sentence_ko": "말이 많은 교수님은 종종 수업 시간을 초과했다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "She becomes loquacious when discussing her favorite fashion designers.",
+      "sentence_ko": "그녀는 좋아하는 패션 디자이너에 대해 이야기할 때 수다스러워진다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "The loquacious marketing presenter lost the audience's attention.",
+      "sentence_ko": "수다스러운 마케팅 발표자가 청중의 관심을 잃었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Loquacious",
+      "sentence_en": "Even the loquacious hikers fell silent before the stunning mountain view.",
+      "sentence_ko": "수다스러운 등산객들도 멋진 산 경치 앞에서는 말을 잃었다.",
+      "tags": ["nature", "travel"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "The verbose travel guide book was too heavy to carry during the trip.",
+      "sentence_ko": "장황한 여행 가이드북은 여행 중에 들고 다니기엔 너무 무거웠다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "His verbose writing style made simple marketing concepts confusing.",
+      "sentence_ko": "그의 장황한 글쓰기 스타일은 간단한 마케팅 개념을 혼란스럽게 만들었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "The professor criticized my verbose essay and asked me to be more concise.",
+      "sentence_ko": "교수님은 내 장황한 에세이를 비판하며 더 간결하게 쓰라고 하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "Verbose exercise instructions can be frustrating for beginners.",
+      "sentence_ko": "장황한 운동 설명은 초보자에게 답답할 수 있다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "Her verbose explanation of her feelings made things more complicated.",
+      "sentence_ko": "자신의 감정에 대한 장황한 설명이 상황을 더 복잡하게 만들었다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Verbose",
+      "sentence_en": "Fashion magazines are often verbose with unnecessary descriptions.",
+      "sentence_ko": "패션 잡지는 종종 불필요한 설명으로 장황하다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "The long-winded speech at the travel conference put everyone to sleep.",
+      "sentence_ko": "여행 컨퍼런스에서의 길게 늘어지는 연설에 모두가 졸았다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "His long-winded explanations during meetings waste valuable time.",
+      "sentence_ko": "회의 중 그의 장황한 설명은 귀중한 시간을 낭비한다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "The university lecturer was long-winded but occasionally insightful.",
+      "sentence_ko": "그 대학 강사는 말이 길었지만 가끔 통찰력이 있었다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "His long-winded apology felt more annoying than sincere.",
+      "sentence_ko": "그의 길게 늘어지는 사과는 진심보다 짜증스럽게 느껴졌다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "The fitness instructor's long-winded warm-up explanation delayed the workout.",
+      "sentence_ko": "피트니스 강사의 장황한 워밍업 설명이 운동을 지연시켰다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Long-winded",
+      "sentence_en": "Even my best friend can be long-winded when telling stories.",
+      "sentence_ko": "내 가장 친한 친구도 이야기할 때 말이 길어질 수 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "The garrulous traveler told everyone about his adventures without pause.",
+      "sentence_ko": "수다스러운 여행자는 쉬지 않고 모두에게 자신의 모험담을 들려주었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "My garrulous neighbor always has something to say about the weather.",
+      "sentence_ko": "수다스러운 이웃은 항상 날씨에 대해 할 말이 있다.",
+      "tags": ["place", "nature"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "The garrulous salesperson made the shopping experience exhausting.",
+      "sentence_ko": "주책없이 말 많은 판매원 때문에 쇼핑 경험이 피곤했다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "University dormitories are filled with garrulous freshmen sharing stories.",
+      "sentence_ko": "대학 기숙사는 이야기를 나누는 수다스러운 신입생들로 가득하다.",
+      "tags": ["university", "friendship"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "She became garrulous after a few drinks, sharing all her feelings.",
+      "sentence_ko": "술을 몇 잔 마신 후 그녀는 수다스러워져서 모든 감정을 쏟아냈다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Garrulous",
+      "sentence_en": "The garrulous coach spent more time talking than demonstrating exercises.",
+      "sentence_ko": "수다스러운 코치는 운동 시범보다 말하는 데 더 많은 시간을 썼다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "The travel agency provided a comprehensive guide to all major attractions.",
+      "sentence_ko": "여행사에서 모든 주요 명소에 대한 포괄적인 가이드를 제공했다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "The marketing team prepared a comprehensive analysis of consumer trends.",
+      "sentence_ko": "마케팅 팀이 소비자 트렌드에 대한 종합적인 분석을 준비했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "Her comprehensive study of fashion history impressed the professors.",
+      "sentence_ko": "패션 역사에 대한 그녀의 포괄적인 연구가 교수들에게 깊은 인상을 주었다.",
+      "tags": ["fashion", "university"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "The fitness app offers a comprehensive workout plan for all levels.",
+      "sentence_ko": "피트니스 앱은 모든 수준에 맞는 포괄적인 운동 계획을 제공한다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "A comprehensive understanding of nature requires years of observation.",
+      "sentence_ko": "자연에 대한 포괄적인 이해는 수년간의 관찰이 필요하다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Comprehensive",
+      "sentence_en": "True friendship requires comprehensive acceptance of each other's flaws.",
+      "sentence_ko": "진정한 우정은 서로의 결점에 대한 전면적인 수용이 필요하다.",
+      "tags": ["friendship", "feeling"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "The chatty flight attendant made the long travel more enjoyable.",
+      "sentence_ko": "수다스러운 승무원 덕분에 긴 여행이 더 즐거웠다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "My chatty friend always knows the latest gossip about everyone.",
+      "sentence_ko": "수다스러운 내 친구는 항상 모두에 대한 최신 소문을 알고 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "The marketing team's chatty atmosphere fostered creative ideas.",
+      "sentence_ko": "마케팅 팀의 수다스러운 분위기가 창의적인 아이디어를 키웠다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "University cafeterias are always filled with chatty students between classes.",
+      "sentence_ko": "대학 카페테리아는 항상 수업 사이에 잡담하는 학생들로 가득하다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "She was unusually chatty, revealing her excited feelings about the trip.",
+      "sentence_ko": "그녀는 유난히 수다스러웠는데, 여행에 대한 설레는 감정이 드러났다.",
+      "tags": ["emotion", "feeling", "travel"]
+    },
+    {
+      "word": "Chatty",
+      "sentence_en": "The chatty trainer kept the gym class entertaining and motivating.",
+      "sentence_ko": "수다스러운 트레이너가 헬스 수업을 재미있고 동기 부여되게 만들었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "The talkative guide shared fascinating stories about every tourist spot.",
+      "sentence_ko": "말하기 좋아하는 가이드가 모든 관광지에 대한 흥미로운 이야기를 들려주었다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "He's usually quiet but becomes talkative around close friends.",
+      "sentence_ko": "그는 보통 조용하지만 친한 친구들 주변에서는 말이 많아진다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "The talkative student dominated the university seminar discussion.",
+      "sentence_ko": "말하기 좋아하는 학생이 대학 세미나 토론을 지배했다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "People tend to become more talkative when they feel comfortable.",
+      "sentence_ko": "사람들은 편안함을 느낄 때 더 말을 많이 하는 경향이 있다.",
+      "tags": ["feeling", "emotion"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "The talkative fashion blogger reviewed every detail of the runway show.",
+      "sentence_ko": "수다스러운 패션 블로거가 런웨이 쇼의 모든 세부 사항을 리뷰했다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Talkative",
+      "sentence_en": "Nature walks are more enjoyable without overly talkative companions.",
+      "sentence_ko": "자연 산책은 너무 말이 많은 동행 없이 더 즐겁다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "The silent beauty of the mountain landscape left us speechless.",
+      "sentence_ko": "산 풍경의 고요한 아름다움에 우리는 말을 잃었다.",
+      "tags": ["nature", "travel", "place"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "She remained silent about her feelings, which worried her friends.",
+      "sentence_ko": "그녀는 자신의 감정에 대해 침묵했고, 이것이 친구들을 걱정하게 했다.",
+      "tags": ["emotion", "feeling", "friendship"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "The marketing campaign used silent visuals to create an emotional impact.",
+      "sentence_ko": "마케팅 캠페인은 감정적 임팩트를 주기 위해 무음 영상을 사용했다.",
+      "tags": ["marketing", "emotion"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "University libraries are meant to be silent study spaces.",
+      "sentence_ko": "대학 도서관은 조용한 학습 공간이어야 한다.",
+      "tags": ["university", "place"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "The gym was eerily silent during the early morning hours.",
+      "sentence_ko": "헬스장은 이른 아침 시간에 으스스할 정도로 조용했다.",
+      "tags": ["exercise", "place"]
+    },
+    {
+      "word": "Silent",
+      "sentence_en": "Fashion shows often use silent models to let the clothes speak.",
+      "sentence_ko": "패션쇼는 종종 옷이 말하게 하기 위해 침묵하는 모델을 사용한다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "The travel blog provided detailed descriptions of hidden gems in the city.",
+      "sentence_ko": "여행 블로그가 도시의 숨겨진 명소에 대한 상세한 설명을 제공했다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "The marketing report included detailed statistics on customer behavior.",
+      "sentence_ko": "마케팅 보고서에는 고객 행동에 대한 상세한 통계가 포함되어 있었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "The professor required detailed analysis in all our university papers.",
+      "sentence_ko": "교수님은 모든 대학 과제에서 상세한 분석을 요구하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "The fitness trainer gave detailed instructions for proper exercise form.",
+      "sentence_ko": "피트니스 트레이너가 올바른 운동 자세에 대해 상세히 설명해 주었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "Her detailed account of the friendship touched everyone who heard it.",
+      "sentence_ko": "우정에 대한 그녀의 상세한 이야기가 듣는 모든 이에게 감동을 주었다.",
+      "tags": ["friendship", "emotion"]
+    },
+    {
+      "word": "Detailed",
+      "sentence_en": "The nature documentary featured detailed footage of rare wildlife.",
+      "sentence_ko": "자연 다큐멘터리는 희귀 야생동물의 상세한 영상을 담았다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "Could you elaborate on the travel itinerary for our trip next week?",
+      "sentence_ko": "다음 주 여행 일정에 대해 자세히 설명해 주시겠어요?",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "The designer created an elaborate fashion collection for the spring show.",
+      "sentence_ko": "디자이너는 봄 쇼를 위해 정교한 패션 컬렉션을 만들었다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "He didn't elaborate on his feelings, leaving everyone confused.",
+      "sentence_ko": "그는 자신의 감정에 대해 자세히 말하지 않아 모두를 혼란스럽게 했다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "The marketing team asked him to elaborate on his innovative strategy.",
+      "sentence_ko": "마케팅 팀은 그에게 혁신적인 전략에 대해 자세히 설명해 달라고 요청했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "The professor asked students to elaborate on their thesis statements.",
+      "sentence_ko": "교수님은 학생들에게 논문 주제문을 상세히 설명하라고 하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Elaborate",
+      "sentence_en": "Nature has elaborate systems that humans are still trying to understand.",
+      "sentence_ko": "자연은 인간이 아직 이해하려고 노력하는 정교한 시스템을 가지고 있다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "The travel website offers an exhaustive list of accommodations worldwide.",
+      "sentence_ko": "여행 웹사이트는 전 세계 숙소의 철저한 목록을 제공한다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "The marketing team conducted an exhaustive analysis of competitor strategies.",
+      "sentence_ko": "마케팅 팀은 경쟁사 전략에 대한 철저한 분석을 수행했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "Her exhaustive research on fashion history earned her top grades.",
+      "sentence_ko": "패션 역사에 대한 그녀의 철저한 연구 덕분에 최고 성적을 받았다.",
+      "tags": ["fashion", "university"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "The fitness app includes an exhaustive database of exercises.",
+      "sentence_ko": "피트니스 앱은 운동의 광범위한 데이터베이스를 포함하고 있다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "The nature guide provided an exhaustive explanation of local ecosystems.",
+      "sentence_ko": "자연 가이드가 지역 생태계에 대한 남김없는 설명을 제공했다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Exhaustive",
+      "sentence_en": "After exhaustive discussions, they finally understood each other's feelings.",
+      "sentence_ko": "철저한 대화 끝에 그들은 마침내 서로의 감정을 이해했다.",
+      "tags": ["emotion", "feeling", "friendship"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "The travel directions were sketchy, so we ended up getting lost.",
+      "sentence_ko": "여행 경로 설명이 대략적이어서 결국 길을 잃었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "His sketchy explanation of the marketing budget raised some concerns.",
+      "sentence_ko": "마케팅 예산에 대한 그의 대충하는 설명이 우려를 낳았다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "The professor rejected my essay because the argument was too sketchy.",
+      "sentence_ko": "교수님은 논증이 너무 불완전하다며 내 에세이를 반려하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "Her sketchy memory of the event left out important emotional details.",
+      "sentence_ko": "그 사건에 대한 그녀의 불완전한 기억에는 중요한 감정적 세부 사항이 빠져 있었다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "The fitness program provided only sketchy guidelines for nutrition.",
+      "sentence_ko": "피트니스 프로그램은 영양에 대해 대략적인 가이드라인만 제공했다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Sketchy",
+      "sentence_en": "The area had a sketchy reputation, so we avoided traveling there alone.",
+      "sentence_ko": "그 지역은 수상한 평판이 있어서 혼자 여행하는 것을 피했다.",
+      "tags": ["place", "travel"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "The travel agent summarized the key points of our vacation package.",
+      "sentence_ko": "여행사 직원이 휴가 패키지의 핵심 포인트를 요약해 주었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "The marketing report summarized consumer trends in just two pages.",
+      "sentence_ko": "마케팅 보고서는 소비자 트렌드를 단 두 페이지로 요약했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "The professor summarized the entire semester's content in the final lecture.",
+      "sentence_ko": "교수님은 마지막 강의에서 전 학기 내용을 요약해 주셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "She summarized her feelings in a heartfelt letter to her friend.",
+      "sentence_ko": "그녀는 친구에게 보내는 진심 어린 편지에 자신의 감정을 요약했다.",
+      "tags": ["friendship", "emotion", "feeling"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "The fitness instructor summarized the workout routine at the end of class.",
+      "sentence_ko": "피트니스 강사가 수업 끝에 운동 루틴을 요약해 주었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Summarized",
+      "sentence_en": "The documentary summarized decades of environmental research beautifully.",
+      "sentence_ko": "다큐멘터리가 수십 년간의 환경 연구를 아름답게 요약했다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "The abbreviated travel guide fit perfectly in my pocket during the trip.",
+      "sentence_ko": "축약된 여행 가이드가 여행 중 주머니에 딱 들어맞았다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "Due to time constraints, the marketing presentation was abbreviated.",
+      "sentence_ko": "시간 제약으로 인해 마케팅 프레젠테이션이 축약되었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "The university course was abbreviated to fit the summer schedule.",
+      "sentence_ko": "대학 강좌가 여름 일정에 맞게 축약되었다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "Her abbreviated goodbye didn't fully convey her true emotions.",
+      "sentence_ko": "그녀의 짧은 작별 인사는 진정한 감정을 다 전달하지 못했다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "The exercise routine was abbreviated for beginners to prevent injury.",
+      "sentence_ko": "운동 루틴은 부상 방지를 위해 초보자용으로 축약되었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Abbreviated",
+      "sentence_en": "The fashion show was abbreviated due to unexpected weather conditions.",
+      "sentence_ko": "예상치 못한 날씨로 인해 패션쇼가 축약되었다.",
+      "tags": ["fashion", "nature"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "The travel brochure was full of redundant information that wasted space.",
+      "sentence_ko": "여행 브로셔는 공간을 낭비하는 중복된 정보로 가득했다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "The professor pointed out redundant phrases in my university essay.",
+      "sentence_ko": "교수님은 내 대학 에세이에서 중복된 문구를 지적하셨다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "Redundant marketing messages can annoy customers rather than attract them.",
+      "sentence_ko": "중복된 마케팅 메시지는 고객을 끌어들이기보다 짜증나게 할 수 있다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "The exercise video contained redundant explanations that slowed the pace.",
+      "sentence_ko": "운동 영상에는 속도를 늦추는 불필요한 설명이 있었다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "His redundant apologies felt less sincere each time he repeated them.",
+      "sentence_ko": "반복되는 그의 사과는 할 때마다 덜 진심으로 느껴졌다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "Good friends don't need redundant reassurances of loyalty.",
+      "sentence_ko": "좋은 친구들은 충성심에 대한 불필요한 확인이 필요 없다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "We took a meandering path through the beautiful countryside during our trip.",
+      "sentence_ko": "우리는 여행 중에 아름다운 시골을 통과하는 구불구불한 길을 걸었다.",
+      "tags": ["travel", "nature", "place"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "His meandering speech failed to capture the audience's attention.",
+      "sentence_ko": "그의 두서없는 연설은 청중의 관심을 끌지 못했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "The professor's meandering lecture made it hard to take coherent notes.",
+      "sentence_ko": "교수님의 두서없는 강의 때문에 일관된 노트를 작성하기 어려웠다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "Our meandering conversation touched on many different emotions and memories.",
+      "sentence_ko": "우리의 정처 없는 대화는 다양한 감정과 추억을 건드렸다.",
+      "tags": ["emotion", "feeling", "friendship"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "The meandering river was a stunning sight during our nature hike.",
+      "sentence_ko": "구불거리는 강은 자연 하이킹 중에 멋진 광경이었다.",
+      "tags": ["nature", "travel"]
+    },
+    {
+      "word": "Meandering",
+      "sentence_en": "Fashion trends often follow a meandering path before becoming mainstream.",
+      "sentence_ko": "패션 트렌드는 종종 주류가 되기 전에 구불구불한 경로를 따른다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "The travel documentary became boring due to its repetitive narration.",
+      "sentence_ko": "여행 다큐멘터리는 반복적인 내레이션 때문에 지루해졌다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "Marketing emails that are repetitive get marked as spam quickly.",
+      "sentence_ko": "반복적인 마케팅 이메일은 빠르게 스팸으로 표시된다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "The exercise routine felt repetitive, so I added some new movements.",
+      "sentence_ko": "운동 루틴이 반복적으로 느껴져서 새로운 동작을 추가했다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "His repetitive complaints about the same issues frustrated everyone.",
+      "sentence_ko": "같은 문제에 대한 그의 반복적인 불만이 모두를 짜증나게 했다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "University lectures can become repetitive if the professor doesn't vary their approach.",
+      "sentence_ko": "교수가 접근 방식을 바꾸지 않으면 대학 강의가 반복적이 될 수 있다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Repetitive",
+      "sentence_en": "Nature has repetitive patterns that create beautiful symmetry in landscapes.",
+      "sentence_ko": "자연에는 풍경에 아름다운 대칭을 만드는 반복적인 패턴이 있다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "The tour guide's digressive storytelling made us miss our scheduled stops.",
+      "sentence_ko": "투어 가이드의 주제를 벗어난 이야기 때문에 예정된 정류장을 놓쳤다.",
+      "tags": ["travel", "place"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "The marketing meeting became digressive and failed to reach any conclusions.",
+      "sentence_ko": "마케팅 회의가 주제에서 벗어나 어떤 결론도 내리지 못했다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "The professor's digressive lectures are entertaining but hard to follow.",
+      "sentence_ko": "교수님의 옆길로 새는 강의는 재미있지만 따라가기 어렵다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "Our conversation became digressive as we shared old memories together.",
+      "sentence_ko": "우리가 옛 추억을 나누면서 대화가 이리저리 흘러갔다.",
+      "tags": ["friendship", "emotion"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "His digressive explanation of the fashion collection confused the audience.",
+      "sentence_ko": "패션 컬렉션에 대한 그의 산만한 설명이 청중을 혼란스럽게 했다.",
+      "tags": ["fashion"]
+    },
+    {
+      "word": "Digressive",
+      "sentence_en": "The nature documentary was digressive but covered fascinating topics.",
+      "sentence_ko": "자연 다큐멘터리는 주제를 벗어났지만 흥미로운 주제들을 다뤘다.",
+      "tags": ["nature"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "The travel agent was to the point and helped us book quickly.",
+      "sentence_ko": "여행사 직원이 핵심만 짚어서 빠르게 예약할 수 있었다.",
+      "tags": ["travel"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "Her marketing presentation was to the point and highly effective.",
+      "sentence_ko": "그녀의 마케팅 프레젠테이션은 핵심을 찔러 매우 효과적이었다.",
+      "tags": ["marketing"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "The professor's feedback was to the point and genuinely helpful.",
+      "sentence_ko": "교수님의 피드백은 핵심적이고 정말 도움이 되었다.",
+      "tags": ["university"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "Good friends appreciate advice that is honest and to the point.",
+      "sentence_ko": "좋은 친구들은 솔직하고 핵심을 찌르는 조언을 고마워한다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "The fitness instructor's directions were to the point and easy to follow.",
+      "sentence_ko": "피트니스 강사의 지시는 명확해서 따라 하기 쉬웠다.",
+      "tags": ["exercise"]
+    },
+    {
+      "word": "To the point",
+      "sentence_en": "When expressing emotions, being to the point prevents misunderstandings.",
+      "sentence_ko": "감정을 표현할 때 핵심만 말하면 오해를 방지할 수 있다.",
+      "tags": ["emotion", "feeling"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "The hotel receptionist gave a curt response that left us feeling unwelcome.",
+      "sentence_ko": "호텔 직원의 퉁명스러운 응대에 환영받지 못한다는 느낌이 들었다.",
+      "tags": ["travel", "place", "feeling"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "His curt email reply offended the entire marketing team.",
+      "sentence_ko": "그의 퉁명스러운 이메일 답장이 마케팅 팀 전체의 기분을 상하게 했다.",
+      "tags": ["marketing", "emotion"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "The professor's curt dismissal of my question hurt my confidence.",
+      "sentence_ko": "교수님이 내 질문을 퉁명스럽게 무시해서 자신감이 떨어졌다.",
+      "tags": ["university", "feeling"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "After our argument, her messages became increasingly curt and cold.",
+      "sentence_ko": "다툼 후, 그녀의 메시지는 점점 더 퉁명스럽고 차가워졌다.",
+      "tags": ["friendship", "emotion"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "The personal trainer's curt instructions made the gym atmosphere tense.",
+      "sentence_ko": "퍼스널 트레이너의 퉁명스러운 지시가 헬스장 분위기를 긴장되게 만들었다.",
+      "tags": ["exercise", "feeling"]
+    },
+    {
+      "word": "Curt",
+      "sentence_en": "Even when tired, try not to be curt with people who are trying to help.",
+      "sentence_ko": "피곤해도 도우려는 사람들에게 퉁명스럽게 굴지 않도록 노력하세요.",
+      "tags": ["emotion", "feeling"]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "70db595a-ab83-455f-890e-367f48c9d3df",
+    "word": "Fluctuate",
+    "meaning": "변동하다 (불규칙하게 오르내리다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "7b0cc823-ec1c-4db1-b876-ecb9030cfc5b",
+    "word": "Vacillate",
+    "meaning": "흔들리다 (결정을 못 내리고 오락가락하다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "4886efbe-0a98-42f3-bada-0bff33762370",
+    "word": "Oscillate",
+    "meaning": "진동하다 (추처럼 규칙적으로 왔다 갔다 하다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "e7b374fa-9ac0-423e-bb8c-38a0ed00f847",
+    "word": "Swing",
+    "meaning": "그네처럼 흔들리다 (크게 변하다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "a4e77078-9a98-49fe-af44-7dbd6d9ef007",
+    "word": "Vary",
+    "meaning": "달라지다 (일정하지 않다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "300d5416-c33f-47cc-8935-2b67a45922ae",
+    "word": "Waver",
+    "meaning": "약해지다, 흔들리다 (불안정하게 떨리다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "a3b7c9ed-9552-4258-9a39-cbc90e971d87",
+    "word": "Alternate",
+    "meaning": "번갈아 일어나다 (A-B-A-B 패턴)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "2a303c13-4dbc-46a9-8276-d1c0968ea559",
+    "word": "Seesaw",
+    "meaning": "일진일퇴하다 (시소처럼 위아래로)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "88d0f1a5-7430-4d54-b4e1-c2899392b679",
+    "word": "Stagnate",
+    "meaning": "침체하다 (고여서 흐르지 않다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "9304691e-1e0e-4848-9735-0369a394e980",
+    "word": "Stall",
+    "meaning": "교착 상태에 빠지다 (엔진이 꺼지듯 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "05c8bd38-3aff-4744-bb16-2145e8981c46",
+    "word": "Plateau",
+    "meaning": "정체기에 들다 (상승하다가 평평해지다)  like plate",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "38eacaef-b595-4c33-b420-a462685d7a81",
+    "word": "Stabilize",
+    "meaning": "안정되다 (흔들림을 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "30e7b128-7a68-497c-a9b1-695868a88d5a",
+    "word": "Settle",
+    "meaning": "자리를 잡다, 가라앉다 (움직임이 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "974b89cb-9ff7-49fb-9a8f-f08e977d6c28",
+    "word": "Remain",
+    "meaning": "여전히 ~이다 (변하지 않고 남다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "58315cf0-511f-4d99-a830-64fb8579f5b8",
+    "word": "Persist",
+    "meaning": "지속되다, 고집하다 (없어지지 않고 계속되다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "178e4098-b858-4266-9ce3-8b419249b0ba",
+    "word": "Endure",
+    "meaning": "지속되다, 견디다 (오래가다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "3502a6d3-a8d3-4ed7-a051-c8736569c7ff",
+    "word": "Last",
+    "meaning": "계속하다 (시간적으로 지속되다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "e0b9e89f-d893-4d58-947e-c4cb0f1d82d1",
+    "word": "Freeze",
+    "meaning": "동결하다 (움직임을 완전히 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "613ba90e-6e77-492c-aa92-f014c595544e",
+    "word": "Halt",
+    "meaning": "중단시키다 (가던 것을 세우다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "2aad289b-55f8-4586-8701-3fcb7bfe0303",
+    "word": "Pause",
+    "meaning": "일시 정지하다 (잠깐 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "981aaf6a-1899-408f-be99-a740e9ce3b4f",
+    "word": "Suspend",
+    "meaning": "유예하다, 매달다 (공중에 띄워 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "c2e6b986-301e-4667-8e66-c3ce147dd496",
+    "word": "Linger",
+    "meaning": "오래 머물다 (떠나지 않고 질질 끌다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "e3f19d32-54d4-4e28-ad32-441533393f8d",
+    "word": "Hover",
+    "meaning": "맴돌다 (수치나 위치가 제자리에서)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "092d8545-75c7-414f-9518-5de4e463cc0f",
+    "word": "Drift",
+    "meaning": "표류하다 (목적 없이 흘러가다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "258d8452-581d-4e37-a017-4cf5483707e3",
+    "word": "Meander",
+    "meaning": "굽이쳐 흐르다 (이리저리 천천히 가다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "aadb29df-00bf-42d5-acd5-44cac70ab34d",
+    "word": "Deviate",
+    "meaning": "일탈하다, 벗어나다 (경로에서 빠지다). de(떨어져) + via(길)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "e17ce51a-746d-458d-a0e7-781b4f5d017e",
+    "word": "Diverge",
+    "meaning": "갈라지다 (한 점에서 나뉘다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "fe52cf73-b647-48d2-b11b-9e68c0375e94",
+    "word": "Converge",
+    "meaning": "모여들다 (한 점으로 합쳐지다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "687e22ff-4942-4539-bda2-182e82864d11",
+    "word": "Level off",
+    "meaning": "수평을 유지하다 (상승/하락 후 멈추다)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  },
+  {
+    "card_id": "6d7a1301-5383-4db9-9339-40aa487d7309",
+    "word": "Steady",
+    "meaning": "꾸준한, 안정된 (변함없는)",
+    "deck_id": "d839b445-4cd5-4a29-901e-9e4d433c4c6d",
+    "deck_name": "FLUCTUATION_STAGNATION"
+  }
+]

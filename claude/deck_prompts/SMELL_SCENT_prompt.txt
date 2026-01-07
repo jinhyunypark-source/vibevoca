@@ -1,0 +1,93 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SMELL_SCENT
+- **총 단어 수**: 21개
+
+## 단어 목록
+1. Fragrant - 향기로운 >  fragile(깨지기쉬운, 향기가 사라지기쉬운)
+2. Redolent - ~향이 감도는/생각나게 하는   odor (냄새) (라)olere향기나다
+3. Aromatic - 향이 좋은 (음식/허브)
+4. Scented - 향이 나는 (인공/자연)
+5. Perfumed - 향수를 뿌린
+6. Floral - 꽃향기의
+7. Fresh - 신선한, 상쾌한
+8. Earthy - 흙냄새 나는
+9. Musky - 사향 냄새가 나는
+10. Smoky - 연기 냄새가 나는
+11. Stinking - 악취가 진동하는
+12. Foul - 더러운, 고약한
+13. Fetid - 극도로 악취가 나는 (부패)
+14. Musty - 곰팡내 나는, 퀴퀴한
+15. Rancid - 쩐내가 나는
+16. Pungent - 코를 찌르는
+17. Acrid - 매캐한
+18. Malodorous - 악취가 나는 (격식)
+19. Noxious - 유독한, 유해한
+20. Overpowering - 압도적인 (너무 강한)
+21. Stale - 케케묵은, 신선하지 않은
+
+## 추천 태그 (상황/맥락)
+education, entrepreneur, marketing, work, food, planning, family, study, ai, movie
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SMELL_SCENT",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SMELL_SCENT",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 21개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

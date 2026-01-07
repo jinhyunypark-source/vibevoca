@@ -1,0 +1,936 @@
+{
+  "deck_title": "LUXURY_EXTRAVAGANCE",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Extravagant",
+      "sentence_en": "The wedding was extravagant with ice sculptures and a live orchestra.",
+      "sentence_ko": "결혼식은 얼음 조각상과 라이브 오케스트라가 있어서 정말 사치스러웠다.",
+      "tags": ["event", "celebration"]
+    },
+    {
+      "word": "Extravagant",
+      "sentence_en": "She has extravagant taste in fashion and only buys designer brands.",
+      "sentence_ko": "그녀는 패션 취향이 사치스러워서 명품 브랜드만 산다.",
+      "tags": ["shopping", "lifestyle"]
+    },
+    {
+      "word": "Extravagant",
+      "sentence_en": "His extravagant lifestyle eventually led to bankruptcy.",
+      "sentence_ko": "그의 사치스러운 생활방식은 결국 파산으로 이어졌다.",
+      "tags": ["sad", "money"]
+    },
+    {
+      "word": "Extravagant",
+      "sentence_en": "Don't be so extravagant with your spending during vacation.",
+      "sentence_ko": "휴가 중에 돈을 그렇게 사치스럽게 쓰지 마.",
+      "tags": ["vacation", "advice"]
+    },
+    {
+      "word": "Extravagant",
+      "sentence_en": "The hotel suite was extravagant with a private pool and butler service.",
+      "sentence_ko": "호텔 스위트는 전용 수영장과 집사 서비스가 있어서 엄청 호화로웠다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Extravagant",
+      "sentence_en": "I can't afford such extravagant gifts on my salary.",
+      "sentence_ko": "내 월급으로는 그런 사치스러운 선물을 살 여유가 없어.",
+      "tags": ["shopping", "work"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "The CEO threw a lavish party to celebrate the company's success.",
+      "sentence_ko": "CEO는 회사의 성공을 축하하기 위해 호화로운 파티를 열었다.",
+      "tags": ["work", "celebration"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "She received lavish praise from critics for her performance.",
+      "sentence_ko": "그녀는 연기로 평론가들로부터 극찬을 받았다.",
+      "tags": ["entertainment", "success"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "The restaurant is known for its lavish portions and rich flavors.",
+      "sentence_ko": "그 레스토랑은 푸짐한 양과 진한 맛으로 유명하다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "They planned a lavish vacation to the Maldives for their anniversary.",
+      "sentence_ko": "그들은 기념일을 위해 몰디브로 호화로운 휴가를 계획했다.",
+      "tags": ["vacation", "journey"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "The palace interior was lavish with gold decorations everywhere.",
+      "sentence_ko": "궁전 내부는 온통 금장식으로 호화로웠다.",
+      "tags": ["tourism", "architecture"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "My grandmother is lavish with her affection and gifts.",
+      "sentence_ko": "우리 할머니는 애정과 선물을 아낌없이 주신다.",
+      "tags": ["family", "love"]
+    },
+    {
+      "word": "Luxurious",
+      "sentence_en": "The luxurious spa offers massages and thermal baths.",
+      "sentence_ko": "고급스러운 스파는 마사지와 온천욕을 제공한다.",
+      "tags": ["health", "relaxation"]
+    },
+    {
+      "word": "Luxurious",
+      "sentence_en": "She bought a luxurious leather handbag that cost three months' salary.",
+      "sentence_ko": "그녀는 월급 3개월치나 하는 고급 가죽 핸드백을 샀다.",
+      "tags": ["shopping", "expensive"]
+    },
+    {
+      "word": "Luxurious",
+      "sentence_en": "The hotel room had luxurious silk sheets and a marble bathroom.",
+      "sentence_ko": "호텔 방에는 고급 실크 시트와 대리석 욕실이 있었다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Luxurious",
+      "sentence_en": "Living a luxurious lifestyle requires a substantial income.",
+      "sentence_ko": "고급스러운 생활방식을 유지하려면 상당한 수입이 필요하다.",
+      "tags": ["work", "money"]
+    },
+    {
+      "word": "Luxurious",
+      "sentence_en": "The yacht was equipped with luxurious amenities including a jacuzzi.",
+      "sentence_ko": "요트에는 자쿠지를 포함한 고급스러운 편의시설이 갖춰져 있었다.",
+      "tags": ["vacation", "wealth"]
+    },
+    {
+      "word": "Sumptuous",
+      "sentence_en": "The restaurant served a sumptuous five-course meal.",
+      "sentence_ko": "레스토랑은 호화로운 5코스 식사를 제공했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Sumptuous",
+      "sentence_en": "The mansion had sumptuous furnishings and artwork throughout.",
+      "sentence_ko": "저택에는 곳곳에 화려한 가구와 예술품들이 있었다.",
+      "tags": ["luxury", "home"]
+    },
+    {
+      "word": "Sumptuous",
+      "sentence_en": "They enjoyed a sumptuous buffet at the five-star hotel.",
+      "sentence_ko": "그들은 5성급 호텔에서 호화로운 뷔페를 즐겼다.",
+      "tags": ["restaurant", "vacation"]
+    },
+    {
+      "word": "Sumptuous",
+      "sentence_en": "The bride wore a sumptuous gown covered in pearls and lace.",
+      "sentence_ko": "신부는 진주와 레이스로 뒤덮인 화려한 드레스를 입었다.",
+      "tags": ["wedding", "fashion"]
+    },
+    {
+      "word": "Sumptuous",
+      "sentence_en": "The palace garden was sumptuous with exotic flowers and fountains.",
+      "sentence_ko": "궁전 정원은 이국적인 꽃들과 분수로 화려했다.",
+      "tags": ["outdoor", "tourism"]
+    },
+    {
+      "word": "Costly",
+      "sentence_en": "The medical treatment was costly but necessary to save his life.",
+      "sentence_ko": "치료비는 비쌌지만 그의 생명을 구하는 데 필요했다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Costly",
+      "sentence_en": "That mistake proved costly and the company lost millions.",
+      "sentence_ko": "그 실수는 대가가 컸고 회사는 수백만 달러를 잃었다.",
+      "tags": ["work", "sad"]
+    },
+    {
+      "word": "Costly",
+      "sentence_en": "Home renovations can be surprisingly costly if not planned carefully.",
+      "sentence_ko": "집 리모델링은 신중하게 계획하지 않으면 놀랍도록 비용이 많이 든다.",
+      "tags": ["home", "planning"]
+    },
+    {
+      "word": "Costly",
+      "sentence_en": "The legal battle was lengthy and costly for both parties.",
+      "sentence_ko": "법정 싸움은 양측 모두에게 길고 비용이 많이 들었다.",
+      "tags": ["legal", "sad"]
+    },
+    {
+      "word": "Costly",
+      "sentence_en": "Studying abroad can be costly but it's a valuable experience.",
+      "sentence_ko": "유학은 비용이 많이 들지만 값진 경험이다.",
+      "tags": ["education", "journey"]
+    },
+    {
+      "word": "Exorbitant",
+      "sentence_en": "The hotel charges exorbitant prices during peak tourist season.",
+      "sentence_ko": "호텔은 성수기에 터무니없이 비싼 가격을 받는다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Exorbitant",
+      "sentence_en": "I refused to pay the exorbitant fee for express shipping.",
+      "sentence_ko": "나는 특급 배송에 대한 터무니없는 요금을 내기를 거부했다.",
+      "tags": ["shopping", "digital"]
+    },
+    {
+      "word": "Exorbitant",
+      "sentence_en": "Concert tickets have reached exorbitant prices this year.",
+      "sentence_ko": "콘서트 티켓이 올해 터무니없는 가격에 도달했다.",
+      "tags": ["entertainment", "expensive"]
+    },
+    {
+      "word": "Exorbitant",
+      "sentence_en": "The lawyer's exorbitant fees made the lawsuit unaffordable.",
+      "sentence_ko": "변호사의 터무니없는 수임료 때문에 소송을 감당할 수 없었다.",
+      "tags": ["legal", "money"]
+    },
+    {
+      "word": "Exorbitant",
+      "sentence_en": "Healthcare costs in America are exorbitant compared to other countries.",
+      "sentence_ko": "미국의 의료비는 다른 나라들에 비해 터무니없이 비싸다.",
+      "tags": ["health", "sad"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "Living in the city center is expensive but convenient for work.",
+      "sentence_ko": "도심에 사는 건 비싸지만 출퇴근하기 편하다.",
+      "tags": ["work", "housing"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "That restaurant is too expensive for a casual dinner.",
+      "sentence_ko": "그 레스토랑은 평범한 저녁 식사로는 너무 비싸.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "Electric cars are expensive upfront but save money on gas.",
+      "sentence_ko": "전기차는 처음엔 비싸지만 기름값을 절약할 수 있다.",
+      "tags": ["transportation", "investment"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "She has expensive taste but a limited budget.",
+      "sentence_ko": "그녀는 취향은 비싼데 예산이 한정적이다.",
+      "tags": ["shopping", "sad"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "Private schools are expensive but offer smaller class sizes.",
+      "sentence_ko": "사립학교는 비싸지만 소규모 학급을 제공한다.",
+      "tags": ["education", "investment"]
+    },
+    {
+      "word": "Expensive",
+      "sentence_en": "The most expensive seats at the stadium sold out immediately.",
+      "sentence_ko": "경기장의 가장 비싼 좌석은 즉시 매진됐다.",
+      "tags": ["entertainment", "sport"]
+    },
+    {
+      "word": "Splurging",
+      "sentence_en": "I'm splurging on a spa day to celebrate my promotion.",
+      "sentence_ko": "승진 축하로 스파에서 돈 좀 쓰려고.",
+      "tags": ["health", "celebration"]
+    },
+    {
+      "word": "Splurging",
+      "sentence_en": "She's splurging on designer shoes even though she's in debt.",
+      "sentence_ko": "그녀는 빚이 있는데도 명품 신발에 돈을 펑펑 쓰고 있어.",
+      "tags": ["shopping", "sad"]
+    },
+    {
+      "word": "Splurging",
+      "sentence_en": "We're splurging on a luxury hotel for our honeymoon.",
+      "sentence_ko": "우리는 신혼여행으로 고급 호텔에 돈을 좀 쓸 거야.",
+      "tags": ["vacation", "journey"]
+    },
+    {
+      "word": "Splurging",
+      "sentence_en": "After months of saving, I'm finally splurging on a new laptop.",
+      "sentence_ko": "몇 달간 저축한 후 드디어 새 노트북에 돈을 쓸 거야.",
+      "tags": ["digital", "shopping"]
+    },
+    {
+      "word": "Splurging",
+      "sentence_en": "He's splurging on expensive wine to impress his date.",
+      "sentence_ko": "그는 데이트 상대에게 인상을 주려고 비싼 와인에 돈을 쓰고 있어.",
+      "tags": ["restaurant", "romance"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "Organic vegetables are rather dear at this market.",
+      "sentence_ko": "이 시장에서 유기농 채소는 꽤 비싸다.",
+      "tags": ["shopping", "health"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "Everything is so dear in London compared to other cities.",
+      "sentence_ko": "런던은 다른 도시들에 비해 모든 게 비싸다.",
+      "tags": ["journey", "tourism"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "Petrol has become frightfully dear this year.",
+      "sentence_ko": "올해 휘발유가 정말 비싸졌다.",
+      "tags": ["transportation", "hot"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "The cost of living is getting dearer every year.",
+      "sentence_ko": "생활비가 해마다 더 비싸지고 있다.",
+      "tags": ["economy", "sad"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "Housing in the capital is terribly dear for young professionals.",
+      "sentence_ko": "수도권의 주택은 젊은 직장인들에게 정말 비싸다.",
+      "tags": ["work", "housing"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "That restaurant looks pricey but the reviews are excellent.",
+      "sentence_ko": "그 레스토랑은 비싸 보이지만 리뷰는 훌륭해.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "The boutique hotel was pricey but totally worth it.",
+      "sentence_ko": "부티크 호텔은 비쌌지만 완전히 값어치를 했어.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "Designer jeans are way too pricey for my budget.",
+      "sentence_ko": "명품 청바지는 내 예산에 너무 비싸.",
+      "tags": ["shopping", "fashion"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "The gym membership seems pricey but includes personal training.",
+      "sentence_ko": "헬스장 회원권이 비싸 보이지만 개인 트레이닝이 포함돼 있어.",
+      "tags": ["health", "exercise"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "Organic groceries are pricey but better for your health.",
+      "sentence_ko": "유기농 식품은 비싸지만 건강에 더 좋아.",
+      "tags": ["health", "shopping"]
+    },
+    {
+      "word": "Pricey",
+      "sentence_en": "The repair turned out to be pricey than I expected.",
+      "sentence_ko": "수리비가 예상보다 비싸게 나왔어.",
+      "tags": ["expense", "sad"]
+    },
+    {
+      "word": "Prodigal",
+      "sentence_en": "His prodigal spending habits left him with no savings.",
+      "sentence_ko": "그의 낭비벽 때문에 저축이 하나도 없다.",
+      "tags": ["sad", "money"]
+    },
+    {
+      "word": "Prodigal",
+      "sentence_en": "The prodigal son returned home after wasting his inheritance.",
+      "sentence_ko": "탕자가 유산을 탕진한 후 집으로 돌아왔다.",
+      "tags": ["story", "sad"]
+    },
+    {
+      "word": "Prodigal",
+      "sentence_en": "She was prodigal with her lottery winnings and lost everything.",
+      "sentence_ko": "그녀는 복권 당첨금을 흥청망청 써서 다 잃었다.",
+      "tags": ["sad", "money"]
+    },
+    {
+      "word": "Prodigal",
+      "sentence_en": "His prodigal lifestyle couldn't be sustained on his salary.",
+      "sentence_ko": "그의 낭비하는 생활방식은 월급으로 감당할 수 없었다.",
+      "tags": ["work", "sad"]
+    },
+    {
+      "word": "Prodigal",
+      "sentence_en": "The company's prodigal management led to bankruptcy.",
+      "sentence_ko": "회사의 낭비적인 경영이 파산으로 이어졌다.",
+      "tags": ["work", "sad"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The prices at that café are pretty steep for just coffee.",
+      "sentence_ko": "그 카페 가격은 커피치고는 꽤 비싸.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "I think fifty dollars for a t-shirt is a bit steep.",
+      "sentence_ko": "티셔츠에 50달러는 좀 비싼 것 같아.",
+      "tags": ["shopping", "fashion"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The tuition increase seems steep compared to last year.",
+      "sentence_ko": "작년에 비해 등록금 인상이 너무 크게 느껴진다.",
+      "tags": ["education", "sad"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The parking fee downtown is steep but unavoidable.",
+      "sentence_ko": "도심의 주차비는 비싸지만 어쩔 수 없어.",
+      "tags": ["transportation", "expense"]
+    },
+    {
+      "word": "Steep",
+      "sentence_en": "The hotel's cancellation fee is unreasonably steep.",
+      "sentence_ko": "호텔 취소 수수료가 불합리하게 비싸다.",
+      "tags": ["vacation", "sad"]
+    },
+    {
+      "word": "Wasteful",
+      "sentence_en": "Throwing away perfectly good food is wasteful and irresponsible.",
+      "sentence_ko": "멀쩡한 음식을 버리는 건 낭비고 무책임해.",
+      "tags": ["restaurant", "environment"]
+    },
+    {
+      "word": "Wasteful",
+      "sentence_en": "His wasteful spending on unnecessary gadgets concerned his family.",
+      "sentence_ko": "불필요한 기기들에 대한 그의 낭비적 지출이 가족을 걱정시켰다.",
+      "tags": ["digital", "sad"]
+    },
+    {
+      "word": "Wasteful",
+      "sentence_en": "Leaving lights on all day is wasteful and expensive.",
+      "sentence_ko": "하루 종일 불을 켜두는 건 낭비이고 비용도 많이 든다.",
+      "tags": ["home", "environment"]
+    },
+    {
+      "word": "Wasteful",
+      "sentence_en": "The company's wasteful practices were exposed in the audit.",
+      "sentence_ko": "회사의 낭비적 관행이 감사에서 드러났다.",
+      "tags": ["work", "sad"]
+    },
+    {
+      "word": "Wasteful",
+      "sentence_en": "Fast fashion is wasteful and harmful to the environment.",
+      "sentence_ko": "패스트 패션은 낭비적이고 환경에 해롭다.",
+      "tags": ["shopping", "environment"]
+    },
+    {
+      "word": "Spendthrift",
+      "sentence_en": "My brother is a spendthrift and can never save money.",
+      "sentence_ko": "내 남동생은 돈을 헤프게 써서 절대 저축을 못 해.",
+      "tags": ["family", "sad"]
+    },
+    {
+      "word": "Spendthrift",
+      "sentence_en": "Her spendthrift ways left her struggling to pay rent.",
+      "sentence_ko": "그녀의 낭비벽 때문에 월세 내는 것도 힘들게 됐다.",
+      "tags": ["housing", "sad"]
+    },
+    {
+      "word": "Spendthrift",
+      "sentence_en": "The spendthrift celebrity went bankrupt despite earning millions.",
+      "sentence_ko": "그 낭비벽 있는 연예인은 수백만 달러를 벌었는데도 파산했다.",
+      "tags": ["entertainment", "sad"]
+    },
+    {
+      "word": "Spendthrift",
+      "sentence_en": "Being a spendthrift in your twenties can haunt you later.",
+      "sentence_ko": "20대에 돈을 헤프게 쓰면 나중에 후회하게 된다.",
+      "tags": ["advice", "money"]
+    },
+    {
+      "word": "Spendthrift",
+      "sentence_en": "The spendthrift heir squandered the family fortune in five years.",
+      "sentence_ko": "낭비벽 있는 상속자가 5년 만에 가족 재산을 탕진했다.",
+      "tags": ["wealth", "sad"]
+    },
+    {
+      "word": "Immoderate",
+      "sentence_en": "His immoderate drinking led to serious health problems.",
+      "sentence_ko": "그의 무절제한 음주가 심각한 건강 문제로 이어졌다.",
+      "tags": ["health", "sad"]
+    },
+    {
+      "word": "Immoderate",
+      "sentence_en": "Immoderate spending during the holidays can ruin your budget.",
+      "sentence_ko": "명절 기간 동안 무절제한 지출이 예산을 망칠 수 있다.",
+      "tags": ["shopping", "advice"]
+    },
+    {
+      "word": "Immoderate",
+      "sentence_en": "The restaurant's immoderate portions left everyone overstuffed.",
+      "sentence_ko": "레스토랑의 무절제한 양 때문에 모두가 배불러 죽을 뻔했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Immoderate",
+      "sentence_en": "His immoderate appetite for luxury goods caused financial problems.",
+      "sentence_ko": "명품에 대한 그의 무절제한 욕구가 재정 문제를 일으켰다.",
+      "tags": ["shopping", "sad"]
+    },
+    {
+      "word": "Immoderate",
+      "sentence_en": "Immoderate exercise without rest can lead to injuries.",
+      "sentence_ko": "휴식 없는 무절제한 운동은 부상으로 이어질 수 있다.",
+      "tags": ["health", "exercise"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "I'm being indulgent tonight with dessert and wine.",
+      "sentence_ko": "오늘 밤은 디저트랑 와인으로 좀 사치 부릴 거야.",
+      "tags": ["restaurant", "relaxation"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "The spa offers indulgent treatments like hot stone massage.",
+      "sentence_ko": "그 스파는 핫스톤 마사지 같은 호화로운 트리트먼트를 제공한다.",
+      "tags": ["health", "hot"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "She takes an indulgent bubble bath every Sunday evening.",
+      "sentence_ko": "그녀는 매주 일요일 저녁에 사치스러운 거품 목욕을 한다.",
+      "tags": ["health", "relaxation"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "The hotel breakfast was indulgent with champagne and oysters.",
+      "sentence_ko": "호텔 조식은 샴페인과 굴이 나와서 정말 호화로웠다.",
+      "tags": ["vacation", "restaurant"]
+    },
+    {
+      "word": "Indulgent",
+      "sentence_en": "My indulgent vacation to Bali was exactly what I needed.",
+      "sentence_ko": "발리로 간 사치스러운 휴가는 내가 딱 필요로 하던 거였어.",
+      "tags": ["vacation", "journey"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "The restaurant's prices seem excessive for the portion size.",
+      "sentence_ko": "레스토랑 가격이 양에 비해 과도해 보여.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "His excessive spending on video games worried his parents.",
+      "sentence_ko": "비디오 게임에 대한 그의 과도한 지출이 부모님을 걱정시켰다.",
+      "tags": ["digital", "sad"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "The hotel charged excessive fees for basic amenities.",
+      "sentence_ko": "호텔은 기본 편의시설에 과도한 요금을 부과했다.",
+      "tags": ["vacation", "sad"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "Excessive overtime at work is affecting my health.",
+      "sentence_ko": "직장에서의 과도한 야근이 내 건강에 영향을 미치고 있어.",
+      "tags": ["work", "health"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "The insurance company demanded excessive documentation for the claim.",
+      "sentence_ko": "보험사는 청구를 위해 과도한 서류를 요구했다.",
+      "tags": ["communication", "frustration"]
+    },
+    {
+      "word": "Fancy",
+      "sentence_en": "We're going to a fancy restaurant to celebrate our anniversary.",
+      "sentence_ko": "우리는 기념일을 축하하려고 고급 레스토랑에 갈 거야.",
+      "tags": ["restaurant", "celebration"]
+    },
+    {
+      "word": "Fancy",
+      "sentence_en": "She wore a fancy dress to the gala event.",
+      "sentence_ko": "그녀는 갈라 행사에 화려한 드레스를 입었다.",
+      "tags": ["event", "fashion"]
+    },
+    {
+      "word": "Fancy",
+      "sentence_en": "The hotel lobby was decorated with fancy chandeliers.",
+      "sentence_ko": "호텔 로비는 화려한 샹들리에로 장식되어 있었다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Fancy",
+      "sentence_en": "I don't need anything fancy, just a simple meal is fine.",
+      "sentence_ko": "화려한 건 필요 없어, 간단한 식사면 충분해.",
+      "tags": ["restaurant", "simple"]
+    },
+    {
+      "word": "Fancy",
+      "sentence_en": "He bought a fancy sports car to show off his success.",
+      "sentence_ko": "그는 성공을 과시하려고 화려한 스포츠카를 샀다.",
+      "tags": ["transportation", "wealth"]
+    },
+    {
+      "word": "High-end",
+      "sentence_en": "The boutique only sells high-end designer clothing.",
+      "sentence_ko": "그 부티크는 고급 명품 의류만 판다.",
+      "tags": ["shopping", "fashion"]
+    },
+    {
+      "word": "High-end",
+      "sentence_en": "I work at a high-end restaurant that caters to celebrities.",
+      "sentence_ko": "나는 유명인들을 상대하는 고급 레스토랑에서 일해.",
+      "tags": ["restaurant", "work"]
+    },
+    {
+      "word": "High-end",
+      "sentence_en": "The company specializes in high-end audio equipment.",
+      "sentence_ko": "그 회사는 고급 오디오 장비를 전문으로 한다.",
+      "tags": ["digital", "technology"]
+    },
+    {
+      "word": "High-end",
+      "sentence_en": "High-end hotels offer personalized concierge services.",
+      "sentence_ko": "고급 호텔은 맞춤형 컨시어지 서비스를 제공한다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "High-end",
+      "sentence_en": "She only shops at high-end stores in the fashion district.",
+      "sentence_ko": "그녀는 패션 지구의 고급 매장에서만 쇼핑한다.",
+      "tags": ["shopping", "luxury"]
+    },
+    {
+      "word": "Premium",
+      "sentence_en": "I upgraded to premium economy for the long flight.",
+      "sentence_ko": "장거리 비행을 위해 프리미엄 이코노미로 업그레이드했어.",
+      "tags": ["journey", "vacation"]
+    },
+    {
+      "word": "Premium",
+      "sentence_en": "The restaurant charges premium prices for organic ingredients.",
+      "sentence_ko": "레스토랑은 유기농 재료에 프리미엄 가격을 받는다.",
+      "tags": ["restaurant", "health"]
+    },
+    {
+      "word": "Premium",
+      "sentence_en": "Premium gym memberships include access to spa facilities.",
+      "sentence_ko": "프리미엄 헬스장 회원권은 스파 시설 이용이 포함된다.",
+      "tags": ["health", "exercise"]
+    },
+    {
+      "word": "Premium",
+      "sentence_en": "She subscribes to premium streaming services for ad-free content.",
+      "sentence_ko": "그녀는 광고 없는 콘텐츠를 위해 프리미엄 스트리밍 서비스를 구독한다.",
+      "tags": ["digital", "entertainment"]
+    },
+    {
+      "word": "Premium",
+      "sentence_en": "The premium version of the app offers advanced features.",
+      "sentence_ko": "앱의 프리미엄 버전은 고급 기능을 제공한다.",
+      "tags": ["digital", "technology"]
+    },
+    {
+      "word": "Deluxe",
+      "sentence_en": "We booked a deluxe suite with an ocean view.",
+      "sentence_ko": "우리는 오션뷰가 있는 디럭스 스위트를 예약했어.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Deluxe",
+      "sentence_en": "The deluxe package includes breakfast and airport transfer.",
+      "sentence_ko": "디럭스 패키지는 조식과 공항 픽업이 포함된다.",
+      "tags": ["vacation", "journey"]
+    },
+    {
+      "word": "Deluxe",
+      "sentence_en": "She ordered the deluxe burger with extra toppings.",
+      "sentence_ko": "그녀는 토핑이 추가된 디럭스 버거를 주문했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Deluxe",
+      "sentence_en": "The deluxe edition of the game comes with exclusive content.",
+      "sentence_ko": "게임의 디럭스 에디션은 독점 콘텐츠가 포함된다.",
+      "tags": ["digital", "entertainment"]
+    },
+    {
+      "word": "Deluxe",
+      "sentence_en": "I treated myself to a deluxe spa treatment for my birthday.",
+      "sentence_ko": "생일 맞아서 디럭스 스파 트리트먼트를 받았어.",
+      "tags": ["health", "celebration"]
+    },
+    {
+      "word": "Exclusive",
+      "sentence_en": "The club is so exclusive that there's a year-long waiting list.",
+      "sentence_ko": "그 클럽은 너무 고급스러워서 1년 대기 명단이 있어.",
+      "tags": ["social", "luxury"]
+    },
+    {
+      "word": "Exclusive",
+      "sentence_en": "She shops at exclusive boutiques that regular people can't access.",
+      "sentence_ko": "그녀는 일반인은 들어갈 수 없는 독점 부티크에서 쇼핑한다.",
+      "tags": ["shopping", "luxury"]
+    },
+    {
+      "word": "Exclusive",
+      "sentence_en": "The resort offers exclusive villas for VIP guests only.",
+      "sentence_ko": "리조트는 VIP 손님만을 위한 독점 빌라를 제공한다.",
+      "tags": ["vacation", "luxury"]
+    },
+    {
+      "word": "Exclusive",
+      "sentence_en": "He attended an exclusive networking event for entrepreneurs.",
+      "sentence_ko": "그는 기업가들을 위한 독점 네트워킹 행사에 참석했다.",
+      "tags": ["work", "event"]
+    },
+    {
+      "word": "Exclusive",
+      "sentence_en": "The magazine published an exclusive interview with the celebrity.",
+      "sentence_ko": "잡지는 그 연예인과의 독점 인터뷰를 게재했다.",
+      "tags": ["communication", "entertainment"]
+    },
+    {
+      "word": "Posh",
+      "sentence_en": "They live in a posh neighborhood with celebrity neighbors.",
+      "sentence_ko": "그들은 유명인 이웃들이 있는 고급 동네에 산다.",
+      "tags": ["housing", "wealth"]
+    },
+    {
+      "word": "Posh",
+      "sentence_en": "The posh restaurant requires a jacket and tie.",
+      "sentence_ko": "그 고급 레스토랑은 재킷과 넥타이가 필수다.",
+      "tags": ["restaurant", "formal"]
+    },
+    {
+      "word": "Posh",
+      "sentence_en": "She speaks with a posh British accent.",
+      "sentence_ko": "그녀는 상류층 영국 억양으로 말한다.",
+      "tags": ["communication", "culture"]
+    },
+    {
+      "word": "Posh",
+      "sentence_en": "The hotel is very posh with marble floors and gold fixtures.",
+      "sentence_ko": "호텔은 대리석 바닥과 금장식이 있어서 매우 고급스럽다.",
+      "tags": ["vacation", "hotel"]
+    },
+    {
+      "word": "Posh",
+      "sentence_en": "He went to a posh boarding school in Switzerland.",
+      "sentence_ko": "그는 스위스의 고급 기숙학교를 다녔다.",
+      "tags": ["education", "wealth"]
+    },
+    {
+      "word": "Upscale",
+      "sentence_en": "The upscale shopping mall attracts wealthy tourists.",
+      "sentence_ko": "고급 쇼핑몰은 부유한 관광객들을 끌어들인다.",
+      "tags": ["shopping", "tourism"]
+    },
+    {
+      "word": "Upscale",
+      "sentence_en": "We dined at an upscale steakhouse for our anniversary.",
+      "sentence_ko": "우리는 기념일에 고급 스테이크하우스에서 식사했다.",
+      "tags": ["restaurant", "celebration"]
+    },
+    {
+      "word": "Upscale",
+      "sentence_en": "The neighborhood has become more upscale with new developments.",
+      "sentence_ko": "그 동네는 새로운 개발로 더 고급스러워졌다.",
+      "tags": ["housing", "change"]
+    },
+    {
+      "word": "Upscale",
+      "sentence_en": "She works as a stylist at an upscale salon.",
+      "sentence_ko": "그녀는 고급 미용실에서 스타일리스트로 일한다.",
+      "tags": ["work", "beauty"]
+    },
+    {
+      "word": "Upscale",
+      "sentence_en": "The upscale gym has a rooftop pool and juice bar.",
+      "sentence_ko": "고급 헬스장은 옥상 수영장과 주스 바가 있다.",
+      "tags": ["health", "exercise"]
+    },
+    {
+      "word": "Flashy",
+      "sentence_en": "He drives a flashy red sports car to show off.",
+      "sentence_ko": "그는 자랑하려고 화려한 빨간 스포츠카를 몬다.",
+      "tags": ["transportation", "showing-off"]
+    },
+    {
+      "word": "Flashy",
+      "sentence_en": "Her flashy jewelry attracted everyone's attention at the party.",
+      "sentence_ko": "그녀의 화려한 보석이 파티에서 모든 사람의 시선을 끌었다.",
+      "tags": ["fashion", "attention"]
+    },
+    {
+      "word": "Flashy",
+      "sentence_en": "I prefer elegant style over flashy and loud fashion.",
+      "sentence_ko": "나는 화려하고 시끄러운 패션보다 우아한 스타일을 선호해.",
+      "tags": ["fashion", "preference"]
+    },
+    {
+      "word": "Flashy",
+      "sentence_en": "The website design is too flashy and distracting.",
+      "sentence_ko": "웹사이트 디자인이 너무 화려해서 정신이 산만해.",
+      "tags": ["digital", "design"]
+    },
+    {
+      "word": "Flashy",
+      "sentence_en": "His flashy lifestyle doesn't match his actual income.",
+      "sentence_ko": "그의 화려한 생활방식은 실제 수입과 맞지 않아.",
+      "tags": ["lifestyle", "sad"]
+    },
+    {
+      "word": "Ostentatious",
+      "sentence_en": "Their ostentatious display of wealth made everyone uncomfortable.",
+      "sentence_ko": "그들의 대놓고 과시하는 부의 전시가 모두를 불편하게 만들었다.",
+      "tags": ["social", "uncomfortable"]
+    },
+    {
+      "word": "Ostentatious",
+      "sentence_en": "The mansion was ostentatious with gold everything and chandeliers.",
+      "sentence_ko": "저택은 온통 금으로 되어 있고 샹들리에가 있어서 과시적이었다.",
+      "tags": ["housing", "luxury"]
+    },
+    {
+      "word": "Ostentatious",
+      "sentence_en": "His ostentatious spending habits annoyed his modest friends.",
+      "sentence_ko": "그의 과시적인 지출 습관이 소박한 친구들을 짜증나게 했다.",
+      "tags": ["social", "friendship"]
+    },
+    {
+      "word": "Ostentatious",
+      "sentence_en": "The wedding was unnecessarily ostentatious with ice sculptures everywhere.",
+      "sentence_ko": "결혼식은 곳곳에 얼음 조각이 있어서 불필요하게 과시적이었다.",
+      "tags": ["event", "excessive"]
+    },
+    {
+      "word": "Ostentatious",
+      "sentence_en": "She dislikes ostentatious displays of designer logos.",
+      "sentence_ko": "그녀는 명품 로고를 대놓고 과시하는 걸 싫어한다.",
+      "tags": ["fashion", "preference"]
+    },
+    {
+      "word": "Showy",
+      "sentence_en": "His showy car and designer clothes scream insecurity.",
+      "sentence_ko": "그의 화려한 차와 명품 옷은 불안감을 드러낸다.",
+      "tags": ["lifestyle", "psychology"]
+    },
+    {
+      "word": "Showy",
+      "sentence_en": "The restaurant's presentation is showy but the food is mediocre.",
+      "sentence_ko": "레스토랑의 플레이팅은 화려하지만 음식은 평범하다.",
+      "tags": ["restaurant", "disappointing"]
+    },
+    {
+      "word": "Showy",
+      "sentence_en": "I prefer substance over showy appearances.",
+      "sentence_ko": "나는 화려한 겉모습보다 실속을 선호해.",
+      "tags": ["philosophy", "values"]
+    },
+    {
+      "word": "Showy",
+      "sentence_en": "Her proposal was showy with fireworks and a flash mob.",
+      "sentence_ko": "그의 프러포즈는 불꽃놀이와 플래시몹으로 화려했다.",
+      "tags": ["romance", "event"]
+    },
+    {
+      "word": "Showy",
+      "sentence_en": "The celebrity's showy entrance disrupted the entire event.",
+      "sentence_ko": "연예인의 화려한 등장이 행사 전체를 방해했다.",
+      "tags": ["entertainment", "attention"]
+    },
+    {
+      "word": "Squandering",
+      "sentence_en": "He's squandering his inheritance on gambling and parties.",
+      "sentence_ko": "그는 도박과 파티로 유산을 탕진하고 있다.",
+      "tags": ["sad", "money"]
+    },
+    {
+      "word": "Squandering",
+      "sentence_en": "Stop squandering your time on meaningless social media.",
+      "sentence_ko": "의미 없는 소셜 미디어로 시간을 낭비하지 마.",
+      "tags": ["digital", "advice"]
+    },
+    {
+      "word": "Squandering",
+      "sentence_en": "The company is squandering resources on unnecessary projects.",
+      "sentence_ko": "회사가 불필요한 프로젝트에 자원을 낭비하고 있다.",
+      "tags": ["work", "management"]
+    },
+    {
+      "word": "Squandering",
+      "sentence_en": "She's squandering her talent by not pursuing her dreams.",
+      "sentence_ko": "그녀는 꿈을 추구하지 않아서 재능을 낭비하고 있다.",
+      "tags": ["sad", "potential"]
+    },
+    {
+      "word": "Squandering",
+      "sentence_en": "They're squandering their vacation days by not taking time off.",
+      "sentence_ko": "그들은 휴가를 안 써서 휴가 일수를 낭비하고 있다.",
+      "tags": ["work", "vacation"]
+    },
+    {
+      "word": "Burning (money)",
+      "sentence_en": "Eating out every day is like burning money unnecessarily.",
+      "sentence_ko": "매일 외식하는 건 돈을 불태우는 것과 같아.",
+      "tags": ["restaurant", "waste"]
+    },
+    {
+      "word": "Burning (money)",
+      "sentence_en": "He's burning money on crypto investments he doesn't understand.",
+      "sentence_ko": "그는 이해하지도 못하는 가상화폐 투자로 돈을 날리고 있다.",
+      "tags": ["digital", "sad"]
+    },
+    {
+      "word": "Burning (money)",
+      "sentence_en": "Buying designer clothes you'll never wear is burning money.",
+      "sentence_ko": "절대 입지도 않을 명품 옷을 사는 건 돈을 태우는 거야.",
+      "tags": ["shopping", "waste"]
+    },
+    {
+      "word": "Burning (money)",
+      "sentence_en": "Paying for unused gym memberships is just burning money.",
+      "sentence_ko": "쓰지도 않는 헬스장 회원권 비용을 내는 건 그냥 돈 낭비야.",
+      "tags": ["health", "waste"]
+    },
+    {
+      "word": "Burning (money)",
+      "sentence_en": "That investment turned out to be burning money in a pit.",
+      "sentence_ko": "그 투자는 결국 돈을 구덩이에 태우는 것으로 밝혀졌다.",
+      "tags": ["sad", "investment"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "This café is overpriced for what you get.",
+      "sentence_ko": "이 카페는 받는 것에 비해 너무 비싸.",
+      "tags": ["restaurant", "expensive"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "The tourist trap restaurant was completely overpriced.",
+      "sentence_ko": "관광객 바가지 레스토랑은 완전히 바가지였어.",
+      "tags": ["journey", "sad"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "Designer water bottles are ridiculously overpriced.",
+      "sentence_ko": "명품 물병은 말도 안 되게 비싸.",
+      "tags": ["shopping", "waste"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "The hotel was overpriced considering the poor service.",
+      "sentence_ko": "서비스가 형편없는 걸 고려하면 호텔은 바가지였다.",
+      "tags": ["vacation", "disappointing"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "Airport food is notoriously overpriced everywhere.",
+      "sentence_ko": "공항 음식은 어디서나 악명 높게 비싸다.",
+      "tags": ["journey", "restaurant"]
+    },
+    {
+      "word": "Overpriced",
+      "sentence_en": "The concert merchandise was overpriced but fans bought it anyway.",
+      "sentence_ko": "콘서트 굿즈는 바가지였지만 팬들은 어쨌든 샀다.",
+      "tags": ["entertainment", "shopping"]
+    }
+  ]
+}

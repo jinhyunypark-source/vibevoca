@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "518e65e3-41ce-48e4-a2c4-dca95f26dc79",
+    "word": "Eternal",
+    "meaning": "영원한 (시작과 끝이 없는 불변의 상태)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "29bc1f32-ef91-429f-b2ac-bf4f4970a7ad",
+    "word": "Perpetual",
+    "meaning": "끊임없는, 영구적인 (멈추지 않고 계속 반복되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "c773fc4b-acd4-4d3e-a3b8-3a4d789d1a07",
+    "word": "Everlasting",
+    "meaning": "영속적인, 변치 않는 (끝없이 지속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "770bbd34-1ba8-48f3-b4aa-a6aedc8208a7",
+    "word": "Infinite",
+    "meaning": "무한한 (시간이나 공간의 끝이 없는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "eac576d1-ccec-4eed-a246-f256f01fc4a5",
+    "word": "Enduring",
+    "meaning": "오래가는, 지속되는 (어려움을 견디고 살아남은)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "33f87e9f-d52b-4a17-a241-3dbcab95cf55",
+    "word": "Permanent",
+    "meaning": "영구적인 (일시적이지 않고 고정된)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "91704b61-4738-4bef-8003-56c850fb4573",
+    "word": "Chronic",
+    "meaning": "만성적인 (병이나 나쁜 상태가 오래가는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "ec007511-23f5-43f2-b24e-3790ecaf2880",
+    "word": "Prolonged",
+    "meaning": "장기적인, 연장된 (예상보다 길어진)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "f0ee768d-c685-4ca3-bd1e-7c72f8907d39",
+    "word": "Protracted",
+    "meaning": "오래 끈, 지연된 (지루하게 길어진)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "217fc8f7-11cf-4d09-b4e9-ece52ce0b583",
+    "word": "Incessant",
+    "meaning": "끊임없는 (주로 부정적, 귀찮게 계속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "c8a79b8e-9910-4e82-8f9e-d3908d88fbdb",
+    "word": "Ceaseless",
+    "meaning": "그치지 않는 (쉬지 않고 계속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "c74867a4-5c0a-45d0-a0e0-3f6cb24d32d6",
+    "word": "Unending",
+    "meaning": "끝이 없는 (지겨울 정도로 계속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "b63a0ee8-82eb-46f3-86f6-ff423cae22ec",
+    "word": "Timeless",
+    "meaning": "세월이 흘러도 변치 않는 (유행을 타지 않는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "9dbb9768-ac55-4c7a-be59-db849723f1b7",
+    "word": "Immortal",
+    "meaning": "불멸의 (죽지 않는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "cd9cabf8-5a7e-4d5f-a676-bf63a9e8e9c8",
+    "word": "Abiding",
+    "meaning": "변함없는, 지속적인 (감정이나 신념이 오래가는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "541e0326-a50e-4bc1-b495-d9c091884e64",
+    "word": "Persisting",
+    "meaning": "지속되는, 고집하는 (없어지지 않고 남은)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "76cfab5f-eb28-495c-a3fd-2eecbd1c9862",
+    "word": "Lingering",
+    "meaning": "질질 끄는, 남아 있는 (떠나지 않고 머무는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "f365c466-6cea-4564-99ce-15be59d21bd0",
+    "word": "Constant",
+    "meaning": "지속적인, 변함없는 (늘 그 상태인)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "aba580f2-8766-404e-a33c-dd77d6690567",
+    "word": "Continuous",
+    "meaning": "연속적인 (중단 없이 쭉 이어지는 선 같은)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "d9c8815f-8a5d-48db-a2a6-5054137982f6",
+    "word": "Continual",
+    "meaning": "빈번한, 자꾸 계속되는 (단속적으로 자꾸 일어나는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "0d6c7ec4-2284-4cf4-98aa-cf2d511bd622",
+    "word": "Sustained",
+    "meaning": "지속된 (일정한 수준을 유지한)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "576ec804-53d8-40d1-96af-3fa37b21cda7",
+    "word": "Extended",
+    "meaning": "연장된, 장기간의 (늘어난)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "3f36c9e3-60b2-4b92-837d-6de226f8cfcb",
+    "word": "Longevity",
+    "meaning": "장수, 오래 지속됨 (수명)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "645f2feb-428d-496f-94db-fb2fabe274e2",
+    "word": "Perennial",
+    "meaning": "다년생의, 끊임없는 (해마다 계속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "93be99e6-d413-4bb9-80be-f59a4527afb0",
+    "word": "Indefinite",
+    "meaning": "무기한의 (끝이 정해지지 않은)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "ccc9fca5-6453-410a-9d90-f8cdf1c216ce",
+    "word": "Deep-seated",
+    "meaning": "뿌리 깊은 (오래되어 고치기 힘든)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "bdc01649-daa8-4e1d-bfd7-2469c8422cc8",
+    "word": "Inveterate",
+    "meaning": "상습적인, 만성의 (습관이 몸에 밴)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "8da006bd-faa5-4e84-b51c-3c21d38aeadd",
+    "word": "Standing",
+    "meaning": "상설의, 고정적인 (계속 유효한)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "076a13c6-7769-4794-b257-ddac1b5bbe92",
+    "word": "Lifelong",
+    "meaning": "평생의 (일생 동안 계속되는)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  },
+  {
+    "card_id": "b795555c-029d-4cb8-b715-6072eaab2b01",
+    "word": "Undying",
+    "meaning": "영원한, 불멸의 (죽지 않는 감정)",
+    "deck_id": "1279880a-ef0e-4421-aca8-4728ccf161cf",
+    "deck_name": "PERMANENCE_LONGEVITY"
+  }
+]

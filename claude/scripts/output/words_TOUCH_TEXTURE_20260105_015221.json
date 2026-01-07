@@ -1,0 +1,163 @@
+[
+  {
+    "card_id": "65e58107-4e73-45a9-b910-f68e9a06dce9",
+    "word": "Silky",
+    "meaning": "비단 같은",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "c33bb78d-8d17-49c0-b115-153f84dab07c",
+    "word": "Velvety",
+    "meaning": "벨벳 같은",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "2dfbf5f8-9432-4741-8e2d-eaac1d6e59e3",
+    "word": "Sleek",
+    "meaning": "매끄러운",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "2862b179-7ac3-499d-8ffe-2189dcbcc1e8",
+    "word": "Supple",
+    "meaning": "유연한, 탄력 있는.  sub+pli(구부리다)",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "5f53a896-0bab-4fbe-82fb-ee4bdeb775e1",
+    "word": "[supple](https://www.google.com/search?q=supple_sca_esv=5ea70eeef6a2a5b7_rlz=1C5CHFA_enKR1185KR1185_sxsrf=AE3TifMncPwbcYuEJE04QBefCVP_avfAWw%3A1765085439607_ei=_xA1aeXjJO6y0-kPoIOu6QU_ved=2ahUKEwjn6qHe36qRAxVv1jQHHSyPOTsQgK4QegQIAxAG_uact=5_oq=Supple+%EC%96%B4%EC%9B%90_gs_lp=Egxnd3Mtd2l6LXNlcnAiDVN1cHBsZSDslrTsm5AyBhAAGAcYHjIGEAAYDRgeMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSOcJUNMCWKEIcAJ4AJABAJgBggGgAfABqgEDMC4yuAEDyAEA-AEC-AEBmAIEoAKAAsICCBAAGLADGO8FwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwMyLjKgB7YHsgcDMC4yuAf4AcIHBTAuMy4xyAcKgAgA_sclient=gws-wiz-serp_mstk=AUtExfCu7yfUGZUVWmeRCrvQ5TxBuPrdlXhwQtWLbzOUgQzhAxmmTEJd_jrJmTBCb_Ucq3_o4oA28lcF_7xzQXQJTlAoc_NjsWjhMDyald09V8VoSqUtJ8SSLwjTaGuR1RIBOekL15Fi7VU1WvxP1APEObqBkaSaDJ2F76U6ngEnQA1sexMh5jHhhY3BVojM5UGqw79vBoJnpwOzlEH8HrwK0QsDAYAfqDicrGAKDC_vSd9YbKkTsWS2uApjx1wW90M8Oj9XpSLGKvL0LPp21YLnmBNH_csui=3)ment",
+    "meaning": "보충하다.",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "bdaee441-3669-4778-9716-5a3000cf12ff",
+    "word": "Fluffy",
+    "meaning": "푹신한, 솜털 같은",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "7069dfd5-3df3-4aa0-82c8-37f3833416da",
+    "word": "Coarse",
+    "meaning": "거친 (입자가 굵은)",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "53e99fba-fdfd-4d41-baa9-e70e307d9bbf",
+    "word": "Rough",
+    "meaning": "거친, 울퉁불퉁한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "702242ea-8b5d-4ea8-ac79-b930eede58f8",
+    "word": "Prickly",
+    "meaning": "가시 같은, 따끔거리는  (고)prik 찌르다",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "effaed06-79cb-4572-bf7a-d648818886e5",
+    "word": "Bristly",
+    "meaning": "까슬까슬한 (털)",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "c5f2c2f3-992c-4788-8f2d-0e62e3d73d2d",
+    "word": "Gritty",
+    "meaning": "모래 같은, 꺼끌꺼끌한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "64c08e79-b2f8-4808-8a97-c6812b422723",
+    "word": "grit",
+    "meaning": "모래",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "255bd083-5283-4fc7-bd04-a0874ff38e3d",
+    "word": "Abrasive",
+    "meaning": "연마하는, 거친",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "622bfb0b-cbaa-4776-8d17-5e2ae76ba4fb",
+    "word": "Clammy",
+    "meaning": "축축한 (기분 나쁜)  clam(끈적)/ clay(점토)",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "4b1a2b69-b55f-4f78-b7b7-7a39e7b149f5",
+    "word": "Viscous",
+    "meaning": "점성이 있는, 끈적한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "77644785-2319-40c8-addc-fbbe12f1f4fd",
+    "word": "Damp",
+    "meaning": "눅눅한, 축축한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "2e3d4e03-6da2-490c-bd77-0fcd231e59ad",
+    "word": "Slimy",
+    "meaning": "미끈거리는, 끈적한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "91215351-8144-4039-a3d7-ff163ea071f7",
+    "word": "Sticky",
+    "meaning": "끈적끈적한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "3356a1b7-97e5-4ce2-9671-ed9afb38f47a",
+    "word": "Tepid",
+    "meaning": "미지근한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "bbe62faa-f28d-4954-aeda-31c599e1971d",
+    "word": "Frigid",
+    "meaning": "몹시 차가운",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "694427be-8d6b-4646-8d8c-26b1f0e38a70",
+    "word": "Brittle",
+    "meaning": "부서지기 쉬운",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "531ae140-2224-467b-89dc-aa6a1e4ec714",
+    "word": "Fragile",
+    "meaning": "깨지기 쉬운, 연약한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  },
+  {
+    "card_id": "2eb87c77-0cc1-4a73-971b-55861c063fc1",
+    "word": "Jagged",
+    "meaning": "삐죽삐죽한",
+    "deck_id": "197423b4-974e-400c-b010-00aabc920e4c",
+    "deck_name": "TOUCH_TEXTURE"
+  }
+]

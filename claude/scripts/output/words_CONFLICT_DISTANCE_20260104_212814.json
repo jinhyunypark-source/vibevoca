@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "1b39d9e9-b2a3-481d-a7d5-4fd6b67da37c",
+    "word": "Hostile",
+    "meaning": "적대적인 (적으로 간주하고 공격적인)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "a3404724-92e2-4f0e-a427-ea6d070160d1",
+    "word": "Estranged",
+    "meaning": "소원해진, 별거 중인 (사이가 멀어져 남남이 된)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "8c9d3e29-cee0-47fb-b7c3-28fe35c47fe6",
+    "word": "Distant",
+    "meaning": "거리감을 두는 (친하지 않고 멀리하는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "86553075-80d6-403c-a861-cf701f614925",
+    "word": "Cold",
+    "meaning": "차가운, 쌀쌀맞은 (감정이 없는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "731964ee-e3a8-4200-9889-45e7624002ca",
+    "word": "Aloof",
+    "meaning": "냉담한 (거리를 두고 무심한 척하는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "bf057e25-ca24-46a4-9945-c7e724e9c700",
+    "word": "Detached",
+    "meaning": "무심한, 초연한 (감정적으로 분리된)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "bc065515-e244-49b7-845f-ddc87a1cecd3",
+    "word": "Alienated",
+    "meaning": "소외된 (동떨어지고 배척당한 느낌)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "d031cb19-4c34-4686-b7c4-3be9dd202586",
+    "word": "Isolated",
+    "meaning": "고립된 (혼자 떨어져 있는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "fc56c205-b1df-44a6-bc77-b953e0aa5cde",
+    "word": "Incompatible",
+    "meaning": "맞지 않는 (성격 차이로 공존 불가능한)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "5c6b6a6d-bd69-4549-bf78-741de84e1ff4",
+    "word": "Abusive",
+    "meaning": "학대하는 (폭력적이거나 모욕적인)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "000d57bb-9897-4c9e-8170-8764e29889fa",
+    "word": "Toxic",
+    "meaning": "유해한 (정신적으로 해를 끼치는 관계)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "892d82e1-af23-4925-a522-3d2bbe7c302a",
+    "word": "Manipulative",
+    "meaning": "조종하는 (교묘하게 이용해 먹는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "53bf8d1d-ebd8-4acd-abb3-8cef1c16349d",
+    "word": "Controlling",
+    "meaning": "통제하려는 (자기 멋대로 하려는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "53466d53-7564-47f7-b106-5dd9c8f5bf07",
+    "word": "Jealous",
+    "meaning": "질투하는 (내 것을 뺏길까 봐/남을 시샘하여)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "de6df224-9b13-4621-8b41-4f816a6c137e",
+    "word": "Envious",
+    "meaning": "부러워하는 (남의 것이 탐나서)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "41938ae5-db38-4b5c-b771-8a0ad295e757",
+    "word": "Resentful",
+    "meaning": "원망하는, 앙심을 품은 (억울해서 화난)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "845d4331-e261-48bc-b27d-3ab0a16c70c7",
+    "word": "Bitter",
+    "meaning": "쓰라린, 비통해하는 (상처받아 냉소적인)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "deb1d78d-20bf-4625-8dce-cce9d06636c3",
+    "word": "Vengeful",
+    "meaning": "복수심에 불타는 (되갚아주려는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "38362ba7-1650-4f73-b1b2-50578dcb27ff",
+    "word": "Spiteful",
+    "meaning": "앙심 깊은 (괴롭히려는 악의가 있는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "abc562fd-54b3-4a4b-bb7c-dd009c44678a",
+    "word": "Feud",
+    "meaning": "불화, 반목 (오랫동안 지속된 싸움)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "44b48dd1-393e-45ed-9026-e2a23dcc0019",
+    "word": "Rivalry",
+    "meaning": "라이벌 의식, 경쟁 (서로 이기려는 관계)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "a4ac0436-77cb-49e8-b572-6376a429253c",
+    "word": "Friction",
+    "meaning": "마찰 (의견 충돌로 인한 삐걱거림)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "34eca3a7-8387-413f-8e33-4af895610211",
+    "word": "Tension",
+    "meaning": "긴장 (불편하고 팽팽한 분위기)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "ab71c88b-e28c-493a-8ad9-9b244004ba94",
+    "word": "Conflict",
+    "meaning": "갈등, 충돌 (직접적인 싸움)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "282ffd00-3fc6-4e05-867d-cc3e5be37465",
+    "word": "Broken",
+    "meaning": "깨진 (관계가 파탄 난)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "a28b3ca1-ac40-4aca-8300-4d83c5ebcfd4",
+    "word": "Divorced",
+    "meaning": "이혼한 (법적으로 갈라선)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "e890b615-ae10-40fd-8620-52723cd6babf",
+    "word": "Separated",
+    "meaning": "별거 중인 (헤어져 사는)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "f35d7842-2917-47d2-b9c8-f8b8b68978c9",
+    "word": "Antagonistic",
+    "meaning": "적대적인, 반감을 가진 (사사건건 반대하는)    (그)agonistes(배우,경쟁자)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "7fc08a1c-2b07-4c23-8392-7611e9fb8f41",
+    "word": "Confrontational",
+    "meaning": "대립을 일삼는 (싸움을 거는 성향)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  },
+  {
+    "card_id": "d67f72d1-0530-4252-a67e-cfdbbc6000b6",
+    "word": "Unfriendly",
+    "meaning": "비우호적인 (친절하지 않은)",
+    "deck_id": "7a168e67-0544-4ef5-a6b3-69d1412c5330",
+    "deck_name": "CONFLICT_DISTANCE"
+  }
+]

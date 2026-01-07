@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: PERSUASION_CONFLICT
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Persuasive - 설득력 있는
+2. Convincing - 납득이 가는
+3. Compelling - 강력한, 마음을 끄는
+4. Coercive - 강압적인 (라)arcere가두다
+5. coercion - 상자,숨기다
+6. arcane - 비밀의, 신비 (esoteric)
+7. Accusatory - 비난하는 듯한
+8. Flattering - 아첨하는, 비위를 맞추는
+9. Defiant - 반항적인, 도전적인
+10. Contentious - 논쟁을 불러일으키는
+11. contend - 경멸하다
+12. Blunt - 직설적인
+13. Conciliatory - 달래는, 회유하는
+14. concil - 모임
+15. council - 지방 의회
+16. Sycophantic - 아부하는 (비굴함) 그_밀고자
+17. Complimentary - 칭찬하는
+18. complement - 보충하다. 보충물
+19. Manipulative - 조종하는, 교활한
+20. Influential - 영향력 있는
+21. Critical - 비판적인
+22. Judgmental - 남을 섣불리 판단하는
+23. Apologetic - 사과하는, 미안해하는
+24. Agreeable - 동의하는, 쾌활한
+25. Disagreeable - 까칠한, 불쾌한
+26. Argumentative - 논쟁을 좋아하는
+27. Diplomatic - 외교적인, 요령 있는
+28. Tactful - 재치 있는, 눈치 빠른
+29. Harsh - 가혹한
+30. Gentle - 온화한
+
+## 추천 태그 (상황/맥락)
+family, conversation, soccer, home, code, shopping, warm, learning, movie, entertainment
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "PERSUASION_CONFLICT",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "PERSUASION_CONFLICT",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

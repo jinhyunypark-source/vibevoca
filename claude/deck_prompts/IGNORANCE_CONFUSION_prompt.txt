@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: IGNORANCE_CONFUSION
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Ignorant - 무지한 (배우지 못했거나 정보가 없는)
+2. Uneducated - 교육받지 못한 (학교 교육 부재)
+3. Illiterate - 문맹의 (글을 읽고 쓸 줄 모르는)
+4. Uninformed - 정보통이 아닌 (지식/정보가 부족한)
+5. Unaware - 알지 못하는 (자각하지 못한)
+6. Oblivious - 의식하지 못하는 (주변 상황을 까먹고 있는)
+7. Naive - 순진한 (경험이 없어 세상 물정 모르는)
+8. Gullible - 잘 속는 (남의 말을 너무 쉽게 믿는)
+9. Credulous - 쉽게 믿는 (의심할 줄 모르는)
+10. Innocent - 무고한, 천진난만한 (악의가 없는)
+11. Green - 풋내기의 (경험이 부족한)
+12. Inexperienced - 경험 없는 (미숙한)
+13. Amateurish - 아마추어 같은 (전문성이 떨어지는)
+14. Clumsy - 서투른 (동작이 어설픈)
+15. Inept - 솜씨 없는, 서툰 (적성이 없는)
+16. Incompetent - 무능한 (일을 처리할 능력이 없는)
+17. Confused - 혼란스러운 (이해하지 못해 헷갈리는)
+18. Puzzled - 어리둥절한 (이해가 안 가서 궁금한)
+19. Perplexed - 당혹스러운 (복잡해서 난처한)
+20. Baffled - 도저히 이해할 수 없는 (완전히 당황한)
+21. Bewildered - 어리둥절해하는 (너무 많거나 놀라서 정신없는)
+22. Disoriented - 방향 감각을 잃은 (어디가 어딘지 모르는)
+23. Dazed - 멍한 (충격 등으로 정신이 나간)
+24. Absent-minded - 건망증이 있는, 멍한 (정신을 다른 데 파는)
+25. Forgetful - 잘 잊어버리는 (기억력이 나쁜)
+26. Scatterbrained - 정신산란한 (집중 못 하고 덜렁대는)
+27. Irrational - 비이성적인 (논리가 통하지 않는)
+28. Illogical - 비논리적인 (앞뒤가 안 맞는)
+29. Unreasonable - 불합리한, 무리한 (이치에 닿지 않는)
+30. Biased - 편향된 (공정하지 못하고 한쪽으로 치우친 판단)
+
+## 추천 태그 (상황/맥락)
+movie, mood, shopping, school, travel, study, code, dining, sport, happy
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "IGNORANCE_CONFUSION",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "IGNORANCE_CONFUSION",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

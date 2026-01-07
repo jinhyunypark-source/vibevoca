@@ -1,0 +1,906 @@
+{
+  "deck_title": "TIMELINESS_FUTURE_PAST",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Contemporary",
+      "sentence_en": "Contemporary fashion designers are increasingly focusing on sustainable materials to protect the environment.",
+      "sentence_ko": "현대 패션 디자이너들은 환경 보호를 위해 지속 가능한 소재에 점점 더 집중하고 있습니다.",
+      "tags": ["fashion", "marketing", "education"]
+    },
+    {
+      "word": "Contemporary",
+      "sentence_en": "I find it fascinating to compare contemporary art with the works of the old masters.",
+      "sentence_ko": "현대 미술과 옛 거장들의 작품을 비교하는 것은 매우 흥미로운 일이라고 생각합니다.",
+      "tags": ["hobby", "conversation", "education"]
+    },
+    {
+      "word": "Contemporary",
+      "sentence_en": "Many contemporary parents struggle to balance their career goals with family responsibilities.",
+      "sentence_ko": "많은 현대의 부모들이 경력 목표와 가정에 대한 책임 사이에서 균형을 잡으려 애씁니다.",
+      "tags": ["family", "relationship", "interview"]
+    },
+    {
+      "word": "Contemporary",
+      "sentence_en": "The museum features a wide collection of contemporary sculptures from local artists.",
+      "sentence_ko": "그 미술관은 지역 예술가들의 다양한 현대 조각품 컬렉션을 전시하고 있습니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Contemporary",
+      "sentence_en": "Contemporary music trends are heavily influenced by viral videos on social media platforms.",
+      "sentence_ko": "현대 음악 트렌드는 소셜 미디어 플랫폼의 바이럴 영상들에 큰 영향을 받습니다.",
+      "tags": ["marketing", "hobby", "smartphone"]
+    },
+    {
+      "word": "Modern",
+      "sentence_en": "Modern smartphones have become essential tools for managing both work and personal life.",
+      "sentence_ko": "현대 스마트폰은 업무와 개인 생활 모두를 관리하는 데 필수적인 도구가 되었습니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Modern",
+      "sentence_en": "The interview focused on how modern technology is changing the landscape of higher education.",
+      "sentence_ko": "인터뷰는 현대 기술이 고등 교육의 지형을 어떻게 바꾸고 있는지에 초점을 맞췄습니다.",
+      "tags": ["interview", "education", "smartphone"]
+    },
+    {
+      "word": "Modern",
+      "sentence_en": "Modern soccer relies heavily on data analysis to improve team performance and strategy.",
+      "sentence_ko": "현대 축구는 팀의 성적과 전략을 개선하기 위해 데이터 분석에 크게 의존합니다.",
+      "tags": ["soccer", "hobby", "education"]
+    },
+    {
+      "word": "Modern",
+      "sentence_en": "She prefers a modern interior design with clean lines and a minimalist aesthetic.",
+      "sentence_ko": "그녀는 깔끔한 선과 미니멀한 미학을 갖춘 현대적인 인테리어 디자인을 선호합니다.",
+      "tags": ["fashion", "hobby", "family"]
+    },
+    {
+      "word": "Modern",
+      "sentence_en": "Modern dating apps have completely transformed the way people build romantic relationships.",
+      "sentence_ko": "현대 데이팅 앱은 사람들이 연인 관계를 맺는 방식을 완전히 바꿔 놓았습니다.",
+      "tags": ["relationship", "smartphone", "conversation"]
+    },
+    {
+      "word": "Current",
+      "sentence_en": "What is the current trend in the fashion industry for the upcoming spring season?",
+      "sentence_ko": "다가오는 봄 시즌 패션 업계의 현재 트렌드는 무엇인가요?",
+      "tags": ["fashion", "marketing", "conversation"]
+    },
+    {
+      "word": "Current",
+      "sentence_en": "Under current circumstances, the family decided to postpone their international vacation plans.",
+      "sentence_ko": "현재 상황에서 가족들은 해외 휴가 계획을 연기하기로 결정했습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Current",
+      "sentence_en": "The job candidate shared her thoughts on the current challenges facing the marketing sector.",
+      "sentence_ko": "구직자는 마케팅 부문이 직면한 현재의 과제들에 대한 자신의 생각을 공유했습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Current",
+      "sentence_en": "Please ensure that your smartphone's operating system is updated to the current version.",
+      "sentence_ko": "스마트폰의 운영 체제가 현재 버전으로 업데이트되어 있는지 확인하십시오.",
+      "tags": ["smartphone", "hobby", "marketing"]
+    },
+    {
+      "word": "Current",
+      "sentence_en": "The current education system is being criticized for focusing too much on standardized testing.",
+      "sentence_ko": "현재의 교육 시스템은 표준화된 시험에 너무 치중한다는 비판을 받고 있습니다.",
+      "tags": ["education", "interview", "conversation"]
+    },
+    {
+      "word": "Present-day",
+      "sentence_en": "Present-day marketing strategies rely heavily on influencer collaborations and social media ads.",
+      "sentence_ko": "오늘날의 마케팅 전략은 인플루언서 협업과 소셜 미디어 광고에 크게 의존합니다.",
+      "tags": ["marketing", "smartphone", "hobby"]
+    },
+    {
+      "word": "Present-day",
+      "sentence_en": "The documentary explores the lives of present-day explorers who search for deep-sea mysteries.",
+      "sentence_ko": "그 다큐멘터리는 심해의 신비를 찾는 오늘날 탐험가들의 삶을 다룹니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Present-day",
+      "sentence_en": "In present-day society, maintaining a healthy work-life balance has become a major priority.",
+      "sentence_ko": "오늘날의 사회에서 건강한 일과 삶의 균형을 유지하는 것이 주요 우선순위가 되었습니다.",
+      "tags": ["family", "relationship", "interview"]
+    },
+    {
+      "word": "Present-day",
+      "sentence_en": "The museum exhibit compares ancient agricultural tools with present-day farming machinery.",
+      "sentence_ko": "박물관 전시물은 고대 농기구와 오늘날의 농기계를 비교합니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Present-day",
+      "sentence_en": "Present-day smartphone users spend an average of four hours a day on their devices.",
+      "sentence_ko": "오늘날의 스마트폰 사용자들은 하루 평균 4시간을 기기 사용에 소비합니다.",
+      "tags": ["smartphone", "hobby", "marketing"]
+    },
+    {
+      "word": "Ancient",
+      "sentence_en": "Learning about ancient civilizations helps students understand the roots of modern legal systems.",
+      "sentence_ko": "고대 문명에 대해 배우는 것은 학생들이 현대 법률 시스템의 뿌리를 이해하는 데 도움이 됩니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Ancient",
+      "sentence_en": "The ancient ruins in Greece attracted millions of tourists from all over the world.",
+      "sentence_ko": "그리스의 고대 유적지는 전 세계 수백만 명의 관광객을 끌어모았습니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Ancient",
+      "sentence_en": "Some ancient fashion trends, like linen tunics, have seen a revival in modern collections.",
+      "sentence_ko": "리넨 튜닉 같은 일부 고대 패션 트렌드는 현대 컬렉션에서 부활을 맞이했습니다.",
+      "tags": ["fashion", "hobby", "marketing"]
+    },
+    {
+      "word": "Ancient",
+      "sentence_en": "My grandfather has an ancient smartphone that barely functions by today's standards.",
+      "sentence_ko": "우리 할아버지는 오늘날 기준으로는 거의 작동하지 않는 아주 오래된 스마트폰을 가지고 계십니다.",
+      "tags": ["smartphone", "family", "conversation"]
+    },
+    {
+      "word": "Ancient",
+      "sentence_en": "The philosopher's ancient wisdom still provides valuable guidance for navigating modern relationships.",
+      "sentence_ko": "그 철학자의 고대 지혜는 현대의 인간관계를 헤쳐 나가는 데 여전히 가치 있는 지침을 제공합니다.",
+      "tags": ["relationship", "conversation", "education"]
+    },
+    {
+      "word": "Archaic",
+      "sentence_en": "The company decided to replace its archaic filing system with a digital database.",
+      "sentence_ko": "회사는 낡은 서류 정리 시스템을 디지털 데이터베이스로 교체하기로 결정했습니다.",
+      "tags": ["marketing", "education", "smartphone"]
+    },
+    {
+      "word": "Archaic",
+      "sentence_en": "Using such archaic language in a casual conversation can make you sound out of touch.",
+      "sentence_ko": "일상적인 대화에서 그런 고풍스러운 언어를 사용하는 것은 시대에 뒤떨어진 것처럼 보일 수 있습니다.",
+      "tags": ["conversation", "relationship", "interview"]
+    },
+    {
+      "word": "Archaic",
+      "sentence_en": "The school finally updated the archaic laboratory equipment to better serve the students.",
+      "sentence_ko": "학교는 학생들에게 더 나은 도움을 주기 위해 마침내 구식 실험 장비를 교체했습니다.",
+      "tags": ["education", "marketing", "hobby"]
+    },
+    {
+      "word": "Archaic",
+      "sentence_en": "Some critics argue that certain laws in the country are archaic and need immediate reform.",
+      "sentence_ko": "일부 비평가들은 그 나라의 특정 법률들이 너무 낡아서 즉각적인 개혁이 필요하다고 주장합니다.",
+      "tags": ["conversation", "education", "interview"]
+    },
+    {
+      "word": "Archaic",
+      "sentence_en": "He still uses an archaic flip phone despite the widespread popularity of cutting-edge smartphones.",
+      "sentence_ko": "그는 최첨단 스마트폰의 광범위한 인기에도 불구하고 여전히 구식 폴더폰을 사용합니다.",
+      "tags": ["smartphone", "hobby", "fashion"]
+    },
+    {
+      "word": "Primitive",
+      "sentence_en": "The early version of the mobile app was quite primitive compared to its current state.",
+      "sentence_ko": "모바일 앱의 초기 버전은 현재 상태에 비하면 꽤 원시적이었습니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Primitive",
+      "sentence_en": "Camping without modern gear forced the family to rely on primitive survival skills.",
+      "sentence_ko": "현대적인 장비 없는 캠핑은 가족들이 원시적인 생존 기술에 의존하게 만들었습니다.",
+      "tags": ["family", "hobby", "relationship"]
+    },
+    {
+      "word": "Primitive",
+      "sentence_en": "Archaeologists discovered primitive tools used by early humans for hunting and gathering.",
+      "sentence_ko": "고고학자들은 초기 인류가 수렵과 채집을 위해 사용했던 원시적인 도구들을 발견했습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Primitive",
+      "sentence_en": "The remote tribe still maintains a primitive lifestyle, untouched by modern technology.",
+      "sentence_ko": "그 외딴 부족은 현대 기술의 손길이 닿지 않은 원시적인 생활 방식을 여전히 유지하고 있습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Primitive",
+      "sentence_en": "He felt a primitive urge to protect his younger siblings during the scary storm.",
+      "sentence_ko": "그는 무서운 폭풍우 속에서 어린 동생들을 보호해야 한다는 원초적인 충동을 느꼈습니다.",
+      "tags": ["family", "relationship", "feeling"]
+    },
+    {
+      "word": "Primeval",
+      "sentence_en": "Walking through the primeval forest felt like stepping back in time millions of years.",
+      "sentence_ko": "원시림을 걷는 것은 수백만 년 전으로 시간을 되돌려 놓은 것 같은 기분이 들게 했습니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Primeval",
+      "sentence_en": "The movie depicts the primeval struggle between man and nature in an icy wilderness.",
+      "sentence_ko": "그 영화는 얼어붙은 황무지에서 인간과 자연 사이의 원시적인 투쟁을 묘사합니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Primeval",
+      "sentence_en": "The deep, primeval silence of the mountains provided a perfect escape from city life.",
+      "sentence_ko": "산의 깊고 태고적인 정적은 도시 생활로부터의 완벽한 탈출구가 되었습니다.",
+      "tags": ["hobby", "family", "relationship"]
+    },
+    {
+      "word": "Primeval",
+      "sentence_en": "Scientists are studying primeval organisms to understand how life first began on Earth.",
+      "sentence_ko": "과학자들은 지구에서 생명이 어떻게 처음 시작되었는지 이해하기 위해 원시 생물들을 연구하고 있습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Primeval",
+      "sentence_en": "There is a primeval beauty in the rugged landscapes of the volcanic island.",
+      "sentence_ko": "화산섬의 거친 풍경 속에는 태고의 아름다움이 깃들어 있습니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Medieval",
+      "sentence_en": "The history teacher wore a medieval costume to make the lesson more engaging.",
+      "sentence_ko": "역사 선생님은 수업을 더 흥미롭게 만들기 위해 중세 복장을 입었습니다.",
+      "tags": ["education", "fashion", "hobby"]
+    },
+    {
+      "word": "Medieval",
+      "sentence_en": "The city is famous for its well-preserved medieval castle and narrow cobblestone streets.",
+      "sentence_ko": "그 도시는 잘 보존된 중세 성과 좁은 자갈길로 유명합니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Medieval",
+      "sentence_en": "She enjoys attending medieval fairs where people reenact ancient battles and crafts.",
+      "sentence_ko": "그녀는 사람들이 고대 전투와 공예를 재현하는 중세 축제에 가는 것을 즐깁니다.",
+      "tags": ["hobby", "fashion", "conversation"]
+    },
+    {
+      "word": "Medieval",
+      "sentence_en": "The book provides a detailed account of the social hierarchy in medieval Europe.",
+      "sentence_ko": "그 책은 중세 유럽의 사회 계급 구조에 대해 상세히 설명합니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Medieval",
+      "sentence_en": "Critics called the school's punishment system medieval and demanded immediate changes.",
+      "sentence_ko": "비평가들은 학교의 처벌 시스템이 중세 방식이라며 즉각적인 변화를 요구했습니다.",
+      "tags": ["education", "conversation", "interview"]
+    },
+    {
+      "word": "Prehistoric",
+      "sentence_en": "The children were amazed by the massive skeletons of prehistoric dinosaurs at the museum.",
+      "sentence_ko": "아이들은 박물관에서 선사 시대 공룡들의 거대한 골격을 보고 놀라움을 금치 못했습니다.",
+      "tags": ["education", "family", "hobby"]
+    },
+    {
+      "word": "Prehistoric",
+      "sentence_en": "Prehistoric cave paintings offer a glimpse into the spiritual lives of early humans.",
+      "sentence_ko": "선사 시대의 동굴 벽화는 초기 인류의 영적인 삶을 엿볼 수 있게 해줍니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Prehistoric",
+      "sentence_en": "The researcher specializes in prehistoric tools made from bone and flint stone.",
+      "sentence_ko": "그 연구원은 뼈와 부싯돌로 만든 선사 시대 도구를 전문으로 연구합니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Prehistoric",
+      "sentence_en": "He jokingly referred to his old desktop computer as a prehistoric artifact.",
+      "sentence_ko": "그는 자신의 오래된 데스크탑 컴퓨터를 농담조로 선사 시대 유물이라고 불렀습니다.",
+      "tags": ["smartphone", "hobby", "conversation"]
+    },
+    {
+      "word": "Prehistoric",
+      "sentence_en": "The discovery of prehistoric burial sites changed our understanding of ancient migration patterns.",
+      "sentence_ko": "선사 시대 매장지의 발견은 고대 이주 패턴에 대한 우리의 이해를 바꾸어 놓았습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Future",
+      "sentence_en": "In the interview, he was asked about his future goals for the next five years.",
+      "sentence_ko": "인터뷰에서 그는 향후 5년간의 미래 목표에 대해 질문을 받았습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Future",
+      "sentence_en": "The father opened a savings account to support his children's future education costs.",
+      "sentence_ko": "아버지는 아이들의 미래 교육비를 지원하기 위해 저축 계좌를 개설했습니다.",
+      "tags": ["family", "education", "relationship"]
+    },
+    {
+      "word": "Future",
+      "sentence_en": "Future smartphones might include features that we can only imagine in science fiction movies.",
+      "sentence_ko": "미래의 스마트폰은 우리가 공상 과학 영화에서나 상상할 수 있는 기능들을 포함할지도 모릅니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Future",
+      "sentence_en": "The team is training hard because they are hopeful about their future soccer matches.",
+      "sentence_ko": "그 팀은 미래의 축구 경기들에 대해 희망적이기 때문에 열심히 훈련하고 있습니다.",
+      "tags": ["soccer", "hobby", "relationship"]
+    },
+    {
+      "word": "Future",
+      "sentence_en": "Environmental education is crucial for ensuring a sustainable future for the next generation.",
+      "sentence_ko": "환경 교육은 다음 세대를 위한 지속 가능한 미래를 보장하는 데 필수적입니다.",
+      "tags": ["education", "marketing", "family"]
+    },
+    {
+      "word": "Prospective",
+      "sentence_en": "The university held an open house for prospective students and their parents.",
+      "sentence_ko": "대학교는 장래의 입학생들과 그 부모님들을 위해 오픈 하우스 행사를 열었습니다.",
+      "tags": ["education", "family", "conversation"]
+    },
+    {
+      "word": "Prospective",
+      "sentence_en": "During the interview, the prospective employee demonstrated excellent communication skills.",
+      "sentence_ko": "인터뷰 동안, 장래의 직원은 훌륭한 의사소통 능력을 보여주었습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Prospective",
+      "sentence_en": "The real estate agent showed the apartment to several prospective buyers today.",
+      "sentence_ko": "부동산 중개인은 오늘 여러 명의 장래 구매자들에게 아파트를 보여주었습니다.",
+      "tags": ["family", "marketing", "conversation"]
+    },
+    {
+      "word": "Prospective",
+      "sentence_en": "We need to analyze the prospective benefits and risks of this new marketing campaign.",
+      "sentence_ko": "우리는 이 새로운 마케팅 캠페인의 유망한 혜택과 위험 요소를 분석해야 합니다.",
+      "tags": ["marketing", "interview", "education"]
+    },
+    {
+      "word": "Prospective",
+      "sentence_en": "Prospective soccer players were invited to participate in the club's annual tryouts.",
+      "sentence_ko": "장래의 축구 선수들이 클럽의 연례 트라이아웃에 참여하도록 초대되었습니다.",
+      "tags": ["soccer", "hobby", "education"]
+    },
+    {
+      "word": "Imminent",
+      "sentence_en": "The dark clouds suggested that a heavy rainstorm was imminent, so we went inside.",
+      "sentence_ko": "먹구름은 폭우가 임박했음을 암시했고, 그래서 우리는 실내로 들어갔습니다.",
+      "tags": ["hobby", "family", "conversation"]
+    },
+    {
+      "word": "Imminent",
+      "sentence_en": "The tech blog reported that the release of the new smartphone is imminent.",
+      "sentence_ko": "기술 블로그는 새로운 스마트폰의 출시가 임박했다고 보도했습니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Imminent",
+      "sentence_en": "Fearing an imminent defeat, the coach made several drastic tactical changes during the game.",
+      "sentence_ko": "패배가 임박했음을 두려워한 감독은 경기 중 여러 가지 과감한 전술적 변화를 시도했습니다.",
+      "tags": ["soccer", "hobby", "relationship"]
+    },
+    {
+      "word": "Imminent",
+      "sentence_en": "The principal announced an imminent change to the school's graduation requirements.",
+      "sentence_ko": "교장 선생님은 학교의 졸업 요건에 대한 즉각적인 변경 사항을 발표했습니다.",
+      "tags": ["education", "conversation", "interview"]
+    },
+    {
+      "word": "Imminent",
+      "sentence_en": "After weeks of negotiations, an imminent agreement between the two companies is expected.",
+      "sentence_ko": "몇 주간의 협상 끝에, 두 회사 사이의 임박한 합의가 예상됩니다.",
+      "tags": ["marketing", "interview", "conversation"]
+    },
+    {
+      "word": "Impending",
+      "sentence_en": "The family gathered to discuss their plans for the impending winter holiday.",
+      "sentence_ko": "가족들은 다가오는 겨울 휴가 계획을 논의하기 위해 모였습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Impending",
+      "sentence_en": "Students were stressed about the impending final exams and spent extra hours in the library.",
+      "sentence_ko": "학생들은 곧 닥칠 기말고사 때문에 스트레스를 받았고 도서관에서 추가 시간을 보냈습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Impending",
+      "sentence_en": "The news of the impending economic crisis caused a lot of anxiety in the marketing department.",
+      "sentence_ko": "곧 닥칠 경제 위기 소식은 마케팅 부서에 많은 불안감을 일으켰습니다.",
+      "tags": ["marketing", "interview", "conversation"]
+    },
+    {
+      "word": "Impending",
+      "sentence_en": "We watched the news for updates on the impending hurricane approaching the coast.",
+      "sentence_ko": "우리는 해안으로 다가오는 허리케인 소식에 대한 업데이트를 위해 뉴스를 지켜보았습니다.",
+      "tags": ["hobby", "family", "conversation"]
+    },
+    {
+      "word": "Impending",
+      "sentence_en": "The soccer player felt a sense of impending doom after receiving a red card.",
+      "sentence_ko": "축구 선수는 레드카드를 받은 후 불길한 일이 닥칠 것 같은 기분을 느꼈습니다.",
+      "tags": ["soccer", "hobby", "feeling"]
+    },
+    {
+      "word": "Looming",
+      "sentence_en": "The looming deadline for the project kept the marketing team working late into the night.",
+      "sentence_ko": "프로젝트의 어렴풋이 다가오는 마감 기한 때문에 마케팅팀은 밤늦게까지 일해야 했습니다.",
+      "tags": ["marketing", "interview", "education"]
+    },
+    {
+      "word": "Looming",
+      "sentence_en": "With the looming threat of heavy snow, many schools decided to close for the day.",
+      "sentence_ko": "폭설의 위협이 다가오자, 많은 학교들이 그날 휴교하기로 결정했습니다.",
+      "tags": ["education", "family", "conversation"]
+    },
+    {
+      "word": "Looming",
+      "sentence_en": "The interview touched upon the looming challenges of artificial intelligence in the workplace.",
+      "sentence_ko": "인터뷰는 직장에서 인공지능이 가져올 어렴풋한 도전 과제들에 대해 언급했습니다.",
+      "tags": ["interview", "marketing", "smartphone"]
+    },
+    {
+      "word": "Looming",
+      "sentence_en": "A looming figure emerged from the fog, startling the hikers on the trail.",
+      "sentence_ko": "안개 속에서 어렴풋한 형체가 나타나 등산객들을 깜짝 놀라게 했습니다.",
+      "tags": ["hobby", "conversation", "feeling"]
+    },
+    {
+      "word": "Looming",
+      "sentence_en": "The looming housing crisis is a major concern for young couples planning to start a family.",
+      "sentence_ko": "다가오는 주택 위기는 가정을 꾸리려는 젊은 부부들에게 큰 걱정거리입니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Forthcoming",
+      "sentence_en": "The author shared some exciting details about her forthcoming novel during the book signing.",
+      "sentence_ko": "작가는 사인회 도중 그녀의 곧 나올 소설에 대한 흥미로운 세부 사항들을 공유했습니다.",
+      "tags": ["hobby", "conversation", "marketing"]
+    },
+    {
+      "word": "Forthcoming",
+      "sentence_en": "He wasn't very forthcoming about his previous work experience during the initial interview.",
+      "sentence_ko": "그는 첫 인터뷰 동안 자신의 이전 업무 경험에 대해 그다지 시원하게 밝히지 않았습니다.",
+      "tags": ["interview", "conversation", "marketing"]
+    },
+    {
+      "word": "Forthcoming",
+      "sentence_en": "The school newsletter provides information on the forthcoming parent-teacher conferences.",
+      "sentence_ko": "학교 소식지는 다가오는 학부모-교사 상담에 대한 정보를 제공합니다.",
+      "tags": ["education", "family", "conversation"]
+    },
+    {
+      "word": "Forthcoming",
+      "sentence_en": "The marketing team is busy preparing for the forthcoming product launch in Asia.",
+      "sentence_ko": "마케팅팀은 아시아에서의 곧 있을 제품 출시 준비로 바쁩니다.",
+      "tags": ["marketing", "smartphone", "conversation"]
+    },
+    {
+      "word": "Forthcoming",
+      "sentence_en": "Fans are eagerly waiting for more forthcoming news about the legendary player's return.",
+      "sentence_ko": "팬들은 전설적인 선수의 복귀에 관한 더 많은 다가올 소식을 간절히 기다리고 있습니다.",
+      "tags": ["soccer", "hobby", "conversation"]
+    },
+    {
+      "word": "Eventual",
+      "sentence_en": "His hard work and dedication led to his eventual promotion to senior manager.",
+      "sentence_ko": "그의 노력과 헌신은 결국 그를 시니어 매니저로 승진하게 만들었습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Eventual",
+      "sentence_en": "The team remained optimistic despite the losses, believing in their eventual success.",
+      "sentence_ko": "팀은 패배에도 불구하고 그들의 궁극적인 성공을 믿으며 낙관적인 태도를 유지했습니다.",
+      "tags": ["soccer", "hobby", "relationship"]
+    },
+    {
+      "word": "Eventual",
+      "sentence_en": "The eventual goal of the education reform is to provide equal opportunities for all students.",
+      "sentence_ko": "교육 개혁의 궁극적인 목표는 모든 학생들에게 평등한 기회를 제공하는 것입니다.",
+      "tags": ["education", "interview", "marketing"]
+    },
+    {
+      "word": "Eventual",
+      "sentence_en": "Although they argued frequently, the couple reached an eventual understanding about their finances.",
+      "sentence_ko": "자주 다퉜지만, 그 부부는 재정 상태에 대해 언젠가는 이해에 도달했습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Eventual",
+      "sentence_en": "The eventual cost of the home renovation was much higher than the original estimate.",
+      "sentence_ko": "집 수리의 최종 비용은 원래 견적보다 훨씬 높았습니다.",
+      "tags": ["family", "hobby", "marketing"]
+    },
+    {
+      "word": "Ultimate",
+      "sentence_en": "Winning the World Cup is the ultimate dream for every professional soccer player.",
+      "sentence_ko": "월드컵 우승은 모든 프로 축구 선수들의 궁극적인 꿈입니다.",
+      "tags": ["soccer", "hobby", "marketing"]
+    },
+    {
+      "word": "Ultimate",
+      "sentence_en": "The ultimate responsibility for the project's success lies with the marketing director.",
+      "sentence_ko": "프로젝트 성공에 대한 최후의 책임은 마케팅 이사에게 있습니다.",
+      "tags": ["marketing", "interview", "education"]
+    },
+    {
+      "word": "Ultimate",
+      "sentence_en": "She believes that kindness is the ultimate key to building a healthy relationship.",
+      "sentence_ko": "그녀는 친절이 건강한 관계를 구축하는 궁극적인 열쇠라고 믿습니다.",
+      "tags": ["relationship", "family", "conversation"]
+    },
+    {
+      "word": "Ultimate",
+      "sentence_en": "The ultimate test of a smartphone's durability is how it survives a long fall.",
+      "sentence_ko": "스마트폰 내구성의 최종 테스트는 높은 곳에서 떨어졌을 때 어떻게 견디느냐입니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Ultimate",
+      "sentence_en": "For many students, the ultimate goal of higher education is to secure a stable job.",
+      "sentence_ko": "많은 학생들에게 고등 교육의 궁극적인 목표는 안정적인 직업을 구하는 것입니다.",
+      "tags": ["education", "interview", "conversation"]
+    },
+    {
+      "word": "Bygone",
+      "sentence_en": "The museum display features beautiful artifacts from a bygone era of royal kings.",
+      "sentence_ko": "박물관 전시물은 왕조 시대의 지나간 시대의 아름다운 유물들을 보여줍니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Bygone",
+      "sentence_en": "The family enjoyed looking at old photos and reminiscing about bygone summer vacations.",
+      "sentence_ko": "가족들은 옛날 사진을 보며 지나간 여름 휴가들을 추억하는 것을 즐겼습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Bygone",
+      "sentence_en": "In the fast-paced world of technology, last year's smartphones already feel like bygone relics.",
+      "sentence_ko": "빠르게 변화하는 기술 세계에서 작년의 스마트폰은 이미 과거의 유물처럼 느껴집니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Bygone",
+      "sentence_en": "The old house was filled with memories of bygone days when the children were young.",
+      "sentence_ko": "그 낡은 집은 아이들이 어렸던 지나간 날들의 추억으로 가득 차 있었습니다.",
+      "tags": ["family", "relationship", "feeling"]
+    },
+    {
+      "word": "Bygone",
+      "sentence_en": "Let's let bygones be bygones and focus on rebuilding our friendship from now on.",
+      "sentence_ko": "과거의 일은 과거로 돌리고 지금부터는 우리의 우정을 다시 쌓는 데 집중하자.",
+      "tags": ["relationship", "conversation", "feeling"]
+    },
+    {
+      "word": "Former",
+      "sentence_en": "The former president of the university gave a moving speech at the graduation ceremony.",
+      "sentence_ko": "전임 대학 총장은 졸업식에서 감동적인 연설을 했습니다.",
+      "tags": ["education", "conversation", "interview"]
+    },
+    {
+      "word": "Former",
+      "sentence_en": "The job candidate discussed the skills she acquired from her former employer in the interview.",
+      "sentence_ko": "구직자는 인터뷰에서 이전 고용주로부터 습득한 기술들에 대해 논의했습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Former",
+      "sentence_en": "My former soccer coach still sends me messages of encouragement before big matches.",
+      "sentence_ko": "나의 이전 축구 코치는 여전히 큰 경기 전에 나에게 격려 메시지를 보냅니다.",
+      "tags": ["soccer", "hobby", "relationship"]
+    },
+    {
+      "word": "Former",
+      "sentence_en": "The restaurant occupies the space of a former library in the heart of the city.",
+      "sentence_ko": "그 레스토랑은 도시 한복판의 이전 도서관 자리에 위치해 있습니다.",
+      "tags": ["hobby", "conversation", "marketing"]
+    },
+    {
+      "word": "Former",
+      "sentence_en": "Of the two options, I prefer the former because it is more cost-effective.",
+      "sentence_ko": "두 가지 옵션 중에서 나는 더 비용 효율적인 전자를 선호합니다.",
+      "tags": ["marketing", "conversation", "education"]
+    },
+    {
+      "word": "Previous",
+      "sentence_en": "The interview panel reviewed the candidate's previous work achievements very carefully.",
+      "sentence_ko": "면접관들은 지원자의 이전 업무 성과들을 매우 주의 깊게 검토했습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Previous",
+      "sentence_en": "If you missed the previous lesson, you can find the materials on the school website.",
+      "sentence_ko": "이전 수업을 놓쳤다면 학교 웹사이트에서 자료를 찾을 수 있습니다.",
+      "tags": ["education", "smartphone", "hobby"]
+    },
+    {
+      "word": "Previous",
+      "sentence_en": "The family decided to visit the same beach they had enjoyed on a previous trip.",
+      "sentence_ko": "가족들은 이전 여행에서 즐겼던 똑같은 해변을 방문하기로 결정했습니다.",
+      "tags": ["family", "hobby", "relationship"]
+    },
+    {
+      "word": "Previous",
+      "sentence_en": "Compared to the previous model, the new smartphone has a much longer battery life.",
+      "sentence_ko": "이전 모델에 비해, 새로운 스마트폰은 배터리 수명이 훨씬 깁니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Previous",
+      "sentence_en": "The soccer team analyzed their previous mistakes to prepare for the upcoming final game.",
+      "sentence_ko": "축구팀은 다가오는 결승전을 준비하기 위해 그들의 이전 실수들을 분석했습니다.",
+      "tags": ["soccer", "hobby", "education"]
+    },
+    {
+      "word": "Obsolete",
+      "sentence_en": "Many people believe that physical textbooks will soon become obsolete due to digital learning.",
+      "sentence_ko": "많은 사람들은 디지털 학습으로 인해 종이 교과서가 곧 구식이 될 것이라고 믿습니다.",
+      "tags": ["education", "smartphone", "marketing"]
+    },
+    {
+      "word": "Obsolete",
+      "sentence_en": "Old charging cables for mobile devices become obsolete very quickly as technology advances.",
+      "sentence_ko": "기술이 발전함에 따라 모바일 기기용 오래된 충전 케이블은 매우 빨리 쓸모없게 됩니다.",
+      "tags": ["smartphone", "hobby", "marketing"]
+    },
+    {
+      "word": "Obsolete",
+      "sentence_en": "The factory had to shut down because its machinery was obsolete and too expensive to fix.",
+      "sentence_ko": "그 공장은 기계가 구식이고 수리비가 너무 많이 들어서 문을 닫아야 했습니다.",
+      "tags": ["marketing", "interview", "conversation"]
+    },
+    {
+      "word": "Obsolete",
+      "sentence_en": "The interview discussed how certain jobs might become obsolete with the rise of automation.",
+      "sentence_ko": "인터뷰에서는 자동화의 부상으로 특정 직업들이 어떻게 쓸모없어질 수 있는지에 대해 논의했습니다.",
+      "tags": ["interview", "marketing", "smartphone"]
+    },
+    {
+      "word": "Obsolete",
+      "sentence_en": "Relying on obsolete fashion trends can make your brand appear out of touch with customers.",
+      "sentence_ko": "구식 패션 트렌드에 의존하는 것은 당신의 브랜드를 고객들과 동떨어져 보이게 만들 수 있습니다.",
+      "tags": ["fashion", "marketing", "conversation"]
+    },
+    {
+      "word": "Outdated",
+      "sentence_en": "The marketing strategy was criticized for being outdated and failing to reach younger audiences.",
+      "sentence_ko": "그 마케팅 전략은 구식이고 젊은 층에게 도달하지 못했다는 비판을 받았습니다.",
+      "tags": ["marketing", "smartphone", "interview"]
+    },
+    {
+      "word": "Outdated",
+      "sentence_en": "He still follows an outdated fitness routine that doesn't provide any visible results.",
+      "sentence_ko": "그는 여전히 눈에 띄는 결과를 주지 못하는 구식 운동 루틴을 따르고 있습니다.",
+      "tags": ["hobby", "soccer", "conversation"]
+    },
+    {
+      "word": "Outdated",
+      "sentence_en": "Students complained that the school's computer lab was equipped with outdated hardware.",
+      "sentence_ko": "학생들은 학교 컴퓨터실이 구식 하드웨어를 갖추고 있다고 불평했습니다.",
+      "tags": ["education", "smartphone", "hobby"]
+    },
+    {
+      "word": "Outdated",
+      "sentence_en": "The fashion critic called the latest collection outdated and lacking in originality.",
+      "sentence_ko": "패션 비평가는 최신 컬렉션을 구식이며 독창성이 부족하다고 평가했습니다.",
+      "tags": ["fashion", "marketing", "hobby"]
+    },
+    {
+      "word": "Outdated",
+      "sentence_en": "I need to update my contact list because most of the information is outdated.",
+      "sentence_ko": "대부분의 정보가 구식이라 연락처 목록을 업데이트해야 합니다.",
+      "tags": ["smartphone", "family", "conversation"]
+    },
+    {
+      "word": "Antedated",
+      "sentence_en": "The discovery of the artifact antedated the previous historical records of the region.",
+      "sentence_ko": "그 유물의 발견은 그 지역의 이전 역사 기록보다 시기상 앞선 것이었습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Antedated",
+      "sentence_en": "The letter was antedated to make it appear as if it had been sent weeks ago.",
+      "sentence_ko": "그 편지는 마치 몇 주 전에 보내진 것처럼 보이게 하기 위해 날짜가 앞당겨졌습니다.",
+      "tags": ["conversation", "marketing", "interview"]
+    },
+    {
+      "word": "Antedated",
+      "sentence_en": "Some fashion styles antedated the official start of the modern minimalist movement.",
+      "sentence_ko": "일부 패션 스타일은 현대 미니멀리즘 운동의 공식적인 시작보다 앞서 있었습니다.",
+      "tags": ["fashion", "marketing", "hobby"]
+    },
+    {
+      "word": "Antedated",
+      "sentence_en": "The contract was antedated to the beginning of the month to include all recent transactions.",
+      "sentence_ko": "그 계약은 모든 최근 거래를 포함하기 위해 날짜가 이달 초로 앞당겨졌습니다.",
+      "tags": ["marketing", "interview", "conversation"]
+    },
+    {
+      "word": "Antedated",
+      "sentence_en": "His interest in soccer antedated his primary school years, thanks to his father's influence.",
+      "sentence_ko": "축구에 대한 그의 관심은 아버지의 영향 덕분에 초등학교 시절보다 앞섰습니다.",
+      "tags": ["soccer", "family", "hobby"]
+    },
+    {
+      "word": "Retroactive",
+      "sentence_en": "The company announced a retroactive pay raise that covers the last three months.",
+      "sentence_ko": "회사는 지난 3개월을 소급 적용하는 임금 인상을 발표했습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Retroactive",
+      "sentence_en": "The new school policy on attendance will not be retroactive to the previous semester.",
+      "sentence_ko": "출석에 관한 새로운 학교 정책은 지난 학기에 소급 적용되지 않을 것입니다.",
+      "tags": ["education", "interview", "conversation"]
+    },
+    {
+      "word": "Retroactive",
+      "sentence_en": "Some legal changes are retroactive, meaning they apply to actions taken in the past.",
+      "sentence_ko": "일부 법적 변경 사항은 소급 적용되어 과거에 취해진 조치에도 적용됩니다.",
+      "tags": ["conversation", "marketing", "interview"]
+    },
+    {
+      "word": "Retroactive",
+      "sentence_en": "The marketing discount was retroactive for all customers who purchased the smartphone last week.",
+      "sentence_ko": "마케팅 할인은 지난주에 스마트폰을 구매한 모든 고객들에게 소급 적용되었습니다.",
+      "tags": ["marketing", "smartphone", "hobby"]
+    },
+    {
+      "word": "Retroactive",
+      "sentence_en": "They requested a retroactive adjustment to the insurance policy after the family emergency.",
+      "sentence_ko": "그들은 가족 비상 상황 이후 보험 정책에 대한 소급 조정을 요청했습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Anachronistic",
+      "sentence_en": "Wearing a heavy suit to a casual beach wedding felt somewhat anachronistic.",
+      "sentence_ko": "캐주얼한 해변 결혼식에 무거운 정장을 입고 가는 것은 다소 시대착오적으로 느껴졌습니다.",
+      "tags": ["fashion", "relationship", "conversation"]
+    },
+    {
+      "word": "Anachronistic",
+      "sentence_en": "The movie was criticized for including anachronistic technology in its medieval setting.",
+      "sentence_ko": "그 영화는 중세 배경에 시대착오적인 기술을 포함했다는 비판을 받았습니다.",
+      "tags": ["hobby", "education", "conversation"]
+    },
+    {
+      "word": "Anachronistic",
+      "sentence_en": "Using a typewriter in a modern office is often seen as an anachronistic hobby.",
+      "sentence_ko": "현대식 사무실에서 타자기를 사용하는 것은 종종 시대착오적인 취미로 여겨집니다.",
+      "tags": ["hobby", "marketing", "smartphone"]
+    },
+    {
+      "word": "Anachronistic",
+      "sentence_en": "Some older education methods are increasingly viewed as anachronistic in the digital age.",
+      "sentence_ko": "일부 오래된 교육 방법들은 디지털 시대에 점점 더 시대착오적인 것으로 간주됩니다.",
+      "tags": ["education", "smartphone", "interview"]
+    },
+    {
+      "word": "Anachronistic",
+      "sentence_en": "The interview panel found his views on gender roles in the family to be anachronistic.",
+      "sentence_ko": "면접관들은 가족 내 성 역할에 대한 그의 견해가 시대착오적이라고 판단했습니다.",
+      "tags": ["interview", "family", "relationship"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The timely intervention by the soccer coach prevented a serious injury to the player.",
+      "sentence_ko": "축구 코치의 시의적절한 개입이 선수의 심각한 부상을 막았습니다.",
+      "tags": ["soccer", "hobby", "relationship"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The family received a timely warning about the storm, allowing them to prepare.",
+      "sentence_ko": "가족들은 폭풍에 대한 시의적절한 경고를 받았고, 덕분에 준비할 수 있었습니다.",
+      "tags": ["family", "relationship", "conversation"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "Your timely feedback on the marketing proposal was very helpful for the team.",
+      "sentence_ko": "마케팅 제안서에 대한 당신의 시의적절한 피드백은 팀에 매우 도움이 되었습니다.",
+      "tags": ["marketing", "interview", "conversation"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The education grant arrived in a timely manner, just before the semester started.",
+      "sentence_ko": "교육 지원금이 학기 시작 직전인 딱 좋은 때에 도착했습니다.",
+      "tags": ["education", "hobby", "marketing"]
+    },
+    {
+      "word": "Timely",
+      "sentence_en": "The smartphone app sends timely notifications about important news and weather updates.",
+      "sentence_ko": "스마트폰 앱은 중요한 뉴스 및 날씨 업데이트에 대해 시의적절한 알림을 보냅니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Up-to-date",
+      "sentence_en": "It is important for marketing professionals to stay up-to-date with the latest digital trends.",
+      "sentence_ko": "마케팅 전문가들이 최신 디지털 트렌드에 대해 항상 최신 상태를 유지하는 것이 중요합니다.",
+      "tags": ["marketing", "smartphone", "interview"]
+    },
+    {
+      "word": "Up-to-date",
+      "sentence_en": "The teacher made sure all the textbooks in the library were up-to-date and accurate.",
+      "sentence_ko": "선생님은 도서관의 모든 교과서가 최신 상태이고 정확한지 확인했습니다.",
+      "tags": ["education", "hobby", "conversation"]
+    },
+    {
+      "word": "Up-to-date",
+      "sentence_en": "Always keep your smartphone's antivirus software up-to-date to protect your personal data.",
+      "sentence_ko": "개인 데이터를 보호하기 위해 스마트폰의 백신 소프트웨어를 항상 최신 상태로 유지하십시오.",
+      "tags": ["smartphone", "hobby", "marketing"]
+    },
+    {
+      "word": "Up-to-date",
+      "sentence_en": "The family shared up-to-date photos of their vacation through a private group chat.",
+      "sentence_ko": "가족들은 개인 단톡방을 통해 휴가의 최신 사진들을 공유했습니다.",
+      "tags": ["family", "relationship", "smartphone"]
+    },
+    {
+      "word": "Up-to-date",
+      "sentence_en": "During the interview, he demonstrated an up-to-date knowledge of the global soccer scene.",
+      "sentence_ko": "인터뷰 동안 그는 세계 축구계에 대한 최신의 지식을 보여주었습니다.",
+      "tags": ["interview", "soccer", "hobby"]
+    },
+    {
+      "word": "State-of-the-art",
+      "sentence_en": "The school recently opened a state-of-the-art science lab equipped with the latest technology.",
+      "sentence_ko": "학교는 최근 최신 기술을 갖춘 최첨단 과학 실험실을 열었습니다.",
+      "tags": ["education", "hobby", "smartphone"]
+    },
+    {
+      "word": "State-of-the-art",
+      "sentence_en": "The new smartphone features a state-of-the-art camera system that takes professional-quality photos.",
+      "sentence_ko": "새로운 스마트폰은 전문가 수준의 사진을 찍을 수 있는 최첨단 카메라 시스템을 특징으로 합니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "State-of-the-art",
+      "sentence_en": "Athletes at the training center have access to state-of-the-art facilities and equipment.",
+      "sentence_ko": "훈련 센터의 선수들은 최첨단 시설과 장비를 이용할 수 있습니다.",
+      "tags": ["soccer", "hobby", "marketing"]
+    },
+    {
+      "word": "State-of-the-art",
+      "sentence_en": "The marketing agency prides itself on using state-of-the-art software for data analysis.",
+      "sentence_ko": "그 마케팅 대행사는 데이터 분석을 위해 최첨단 소프트웨어를 사용하는 것에 자부심을 가지고 있습니다.",
+      "tags": ["marketing", "interview", "smartphone"]
+    },
+    {
+      "word": "State-of-the-art",
+      "sentence_en": "They live in a state-of-the-art smart home where everything can be controlled by a voice command.",
+      "sentence_ko": "그들은 모든 것이 음성 명령으로 제어되는 최첨단 스마트 홈에 살고 있습니다.",
+      "tags": ["family", "hobby", "smartphone"]
+    },
+    {
+      "word": "Cutting-edge",
+      "sentence_en": "The interview panel was impressed by the candidate's cutting-edge ideas for the company's future.",
+      "sentence_ko": "면접관들은 회사의 미래를 위한 지원자의 최첨단 아이디어들에 깊은 인상을 받았습니다.",
+      "tags": ["interview", "marketing", "conversation"]
+    },
+    {
+      "word": "Cutting-edge",
+      "sentence_en": "Our university offers cutting-edge courses in cybersecurity and blockchain technology.",
+      "sentence_ko": "우리 대학교는 사이버 보안과 블록체인 기술에 대한 최첨단 과정들을 제공합니다.",
+      "tags": ["education", "smartphone", "hobby"]
+    },
+    {
+      "word": "Cutting-edge",
+      "sentence_en": "Fashion designers are experimenting with cutting-edge 3D printing techniques for their new collections.",
+      "sentence_ko": "패션 디자이너들은 그들의 새로운 컬렉션을 위해 최첨단 3D 프린팅 기법을 실험하고 있습니다.",
+      "tags": ["fashion", "marketing", "hobby"]
+    },
+    {
+      "word": "Cutting-edge",
+      "sentence_en": "The smartphone market is incredibly competitive, with brands constantly releasing cutting-edge features.",
+      "sentence_ko": "스마트폰 시장은 브랜드들이 끊임없이 최첨단 기능들을 출시하면서 매우 경쟁적입니다.",
+      "tags": ["smartphone", "marketing", "hobby"]
+    },
+    {
+      "word": "Cutting-edge",
+      "sentence_en": "He enjoys staying informed about cutting-edge developments in the field of aerospace engineering.",
+      "sentence_ko": "그는 항공 우주 공학 분야의 최첨단 발전에 대해 계속해서 정보를 얻는 것을 즐깁니다.",
+      "tags": ["hobby", "education", "conversation"]
+    }
+  ]
+}

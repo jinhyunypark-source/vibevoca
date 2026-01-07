@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: START_END_RECOVERY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Initiate - 개시하다 (공식적으로 시작하다)
+2. Commence - 시작되다 (격식 있는 시작)
+3. Launch - 출시하다, 발사하다 (세상에 내놓다)
+4. Trigger - 촉발하다 (방아쇠를 당기듯 일으키다)
+5. Spark - 불러일으키다 (불꽃을 튀기다)
+6. Originate - 비롯되다 (기원을 두다)
+7. Generate - 발생시키다 (만들어내다)
+8. Establish - 설립하다, 확립하다 (기반을 다지다)
+9. Terminate - 종료하다 (끝을 맺다/해고하다)
+10. Cease - 중단하다 (그치다)
+11. Conclude - 결론 짓다, 마치다 (마무리하다)
+12. Abolish - 폐지하다 (법이나 제도를 없애다)
+13. Eradicate - 근절하다 (뿌리째 뽑다)
+14. Eliminate - 제거하다 (없애다)
+15. Extinguish - 끄다, 소멸시키다 (불을 끄듯 없애다)
+16. Vanish - 사라지다 (갑자기 없어지다)
+17. Recover - 회복하다 (원래 상태를 되찾다)
+18. Restore - 복구하다 (이전의 좋은 상태로 돌리다)
+19. Revive - 되살리다 (생기를 불어넣다)
+20. Rejuvenate - 다시 젊게 하다 (활력을 되찾다)
+21. Resurrect - 부활시키다 (죽은 것을 살려내다)
+22. Rehabilitate - 재활하다, 명예를 회복하다
+23. Retrieve - 되찾다, 회수하다 (잃어버린 것을 가져오다)
+24. Redeem - 만회하다, 상환하다 (잘못을 덮거나 갚다)
+25. Salvage - 구조하다 (난파선/재난에서 건지다)
+26. Bounce back - 다시 회복하다 (공처럼 튀어 오르다)
+27. Rally - (세력을) 규합하다, 반등하다
+28. Recuperate - 회복하다 (병이나 피로에서 요양하다)
+29. Heal - 치유하다 (상처가 낫다)
+30. Regenerate - 재생하다 (조직이나 사회를 다시 살리다)
+
+## 추천 태그 (상황/맥락)
+school, music, friendship, daily_life, internet, meeting, work, smartphone, learning, outdoor
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "START_END_RECOVERY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "START_END_RECOVERY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

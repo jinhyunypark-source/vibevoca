@@ -1,0 +1,906 @@
+{
+  "deck_title": "ABUNDANCE_EXCESS",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Abundant",
+      "sentence_en": "We have abundant evidence to support our marketing strategy.",
+      "sentence_ko": "우리의 마케팅 전략을 뒷받침할 풍부한 증거가 있습니다.",
+      "tags": ["marketing", "job", "strategy", "data", "work"]
+    },
+    {
+      "word": "Abundant",
+      "sentence_en": "Living in the countryside means access to abundant fresh air.",
+      "sentence_ko": "시골에 산다는 것은 풍부하고 신선한 공기를 마실 수 있다는 뜻입니다.",
+      "tags": ["mood", "health", "life", "home", "nature"]
+    },
+    {
+      "word": "Abundant",
+      "sentence_en": "This smartphone has abundant storage for all your photos.",
+      "sentence_ko": "이 스마트폰은 모든 사진을 저장할 수 있는 풍부한 저장 공간을 갖추고 있습니다.",
+      "tags": ["smartphone", "tech", "photo", "style", "shopping"]
+    },
+    {
+      "word": "Abundant",
+      "sentence_en": "The chef used an abundant amount of herbs in the pasta.",
+      "sentence_ko": "셰프는 파스타에 허브를 아주 듬뿍 사용했습니다.",
+      "tags": ["cooking", "food", "style", "taste", "kitchen"]
+    },
+    {
+      "word": "Abundant",
+      "sentence_en": "There are abundant opportunities for growth in this company.",
+      "sentence_ko": "이 회사에는 성장할 수 있는 기회가 무궁무진합니다.",
+      "tags": ["job", "career", "happy", "future", "work"]
+    },
+    {
+      "word": "Plentiful",
+      "sentence_en": "Strawberries are plentiful in the spring season.",
+      "sentence_ko": "봄철에는 딸기가 아주 풍성합니다.",
+      "tags": ["cooking", "food", "season", "market", "shopping"]
+    },
+    {
+      "word": "Plentiful",
+      "sentence_en": "Make sure to drink plentiful amounts of water during the hike.",
+      "sentence_ko": "등산하는 동안 물을 충분히 많이 마시도록 하세요.",
+      "tags": ["health", "sport", "mood", "body", "advice"]
+    },
+    {
+      "word": "Plentiful",
+      "sentence_en": "Jobs were plentiful when the economy was booming.",
+      "sentence_ko": "경기가 호황일 때는 일자리가 넘쳐났습니다.",
+      "tags": ["job", "economy", "money", "history", "society"]
+    },
+    {
+      "word": "Plentiful",
+      "sentence_en": "We had a plentiful breakfast before heading to school.",
+      "sentence_ko": "우리는 학교에 가기 전에 아침을 든든하게 먹었습니다.",
+      "tags": ["school", "cooking", "food", "morning", "family"]
+    },
+    {
+      "word": "Plentiful",
+      "sentence_en": "Resources are plentiful, so we don't need to worry about shortages.",
+      "sentence_ko": "자원이 풍족해서 부족함을 걱정할 필요가 없습니다.",
+      "tags": ["job", "project", "mood", "planning", "business"]
+    },
+    {
+      "word": "Ample",
+      "sentence_en": "There is ample parking space near the office building.",
+      "sentence_ko": "사무실 건물 근처에 주차 공간이 넉넉합니다.",
+      "tags": ["job", "car", "place", "convenience", "work"]
+    },
+    {
+      "word": "Ample",
+      "sentence_en": "You will have ample time to finish the exam.",
+      "sentence_ko": "시험을 마칠 시간은 충분할 것입니다.",
+      "tags": ["school", "test", "time", "mood", "study"]
+    },
+    {
+      "word": "Ample",
+      "sentence_en": "The dress has ample room for movement, making it very comfortable.",
+      "sentence_ko": "그 드레스는 품이 넉넉해서 움직이기에 매우 편안합니다.",
+      "tags": ["style", "clothing", "fashion", "mood", "comfort"]
+    },
+    {
+      "word": "Ample",
+      "sentence_en": "We have ample evidence to prove his innocence.",
+      "sentence_ko": "그의 무죄를 입증할 충분한 증거가 우리에게 있습니다.",
+      "tags": ["law", "communication", "truth", "story", "drama"]
+    },
+    {
+      "word": "Ample",
+      "sentence_en": "Please give me ample notice if you plan to quit.",
+      "sentence_ko": "그만둘 계획이라면 충분한 시간을 두고 미리 알려주세요.",
+      "tags": ["job", "communication", "courtesy", "work", "talk"]
+    },
+    {
+      "word": "Bountiful",
+      "sentence_en": "We enjoyed a bountiful harvest this autumn.",
+      "sentence_ko": "우리는 올가을에 풍성한 수확을 누렸습니다.",
+      "tags": ["cooking", "food", "nature", "season", "farming"]
+    },
+    {
+      "word": "Bountiful",
+      "sentence_en": "Nature provides a bountiful supply of ingredients for cooking.",
+      "sentence_ko": "자연은 요리를 위한 풍부한 재료를 제공해 줍니다.",
+      "tags": ["cooking", "nature", "food", "health", "style"]
+    },
+    {
+      "word": "Bountiful",
+      "sentence_en": "She received bountiful praise for her excellent presentation.",
+      "sentence_ko": "그녀는 훌륭한 프레젠테이션으로 아낌없는 칭찬을 받았습니다.",
+      "tags": ["job", "school", "communication", "happy", "success"]
+    },
+    {
+      "word": "Bountiful",
+      "sentence_en": "The buffet offered a bountiful selection of seafood.",
+      "sentence_ko": "그 뷔페는 해산물을 아주 풍성하게 제공했습니다.",
+      "tags": ["cooking", "food", "restaurant", "style", "eating"]
+    },
+    {
+      "word": "Bountiful",
+      "sentence_en": "A bountiful mood spread across the festival crowd.",
+      "sentence_ko": "축제 관중들 사이에 풍요롭고 넉넉한 분위기가 퍼졌습니다.",
+      "tags": ["mood", "festival", "happy", "people", "party"]
+    },
+    {
+      "word": "Copious",
+      "sentence_en": "He took copious notes during the lecture to prepare for the test.",
+      "sentence_ko": "그는 시험을 대비해 강의 중에 필기를 엄청나게 많이 했습니다.",
+      "tags": ["school", "study", "writing", "habit", "learning"]
+    },
+    {
+      "word": "Copious",
+      "sentence_en": "She drank copious amounts of coffee to stay awake.",
+      "sentence_ko": "그녀는 깨어 있기 위해 엄청난 양의 커피를 마셨습니다.",
+      "tags": ["cooking", "food", "work", "mood", "habit"]
+    },
+    {
+      "word": "Copious",
+      "sentence_en": "The software generates copious data logs every hour.",
+      "sentence_ko": "이 소프트웨어는 매시간 방대한 데이터 로그를 생성합니다.",
+      "tags": ["smartphone", "tech", "job", "data", "computer"]
+    },
+    {
+      "word": "Copious",
+      "sentence_en": "They shed copious tears at the touching movie ending.",
+      "sentence_ko": "그들은 감동적인 영화 결말을 보고 엄청난 눈물을 쏟았습니다.",
+      "tags": ["mood", "emotion", "movie", "culture", "drama"]
+    },
+    {
+      "word": "Copious",
+      "sentence_en": "The investigation revealed copious evidence of fraud.",
+      "sentence_ko": "조사 결과 엄청난 양의 사기 증거가 드러났습니다.",
+      "tags": ["job", "law", "news", "crime", "story"]
+    },
+    {
+      "word": "Profuse",
+      "sentence_en": "He offered profuse apologies for being late to the meeting.",
+      "sentence_ko": "그는 회의에 늦은 것에 대해 거듭 사과했습니다.",
+      "tags": ["job", "communication", "manner", "meeting", "talk"]
+    },
+    {
+      "word": "Profuse",
+      "sentence_en": "The wound was bleeding profusely, so we called an ambulance.",
+      "sentence_ko": "상처에서 피가 많이 나서 우리는 구급차를 불렀습니다.",
+      "tags": ["health", "emergency", "body", "accident", "drama"]
+    },
+    {
+      "word": "Profuse",
+      "sentence_en": "She expressed her profuse gratitude to everyone who helped.",
+      "sentence_ko": "그녀는 도와준 모든 사람에게 아낌없는 감사를 표했습니다.",
+      "tags": ["communication", "happy", "relationship", "talk", "emotion"]
+    },
+    {
+      "word": "Profuse",
+      "sentence_en": "The garden was filled with profuse blooming flowers.",
+      "sentence_ko": "정원은 흐드러지게 핀 꽃들로 가득 찼습니다.",
+      "tags": ["style", "nature", "home", "beauty", "mood"]
+    },
+    {
+      "word": "Profuse",
+      "sentence_en": "He broke out in a profuse sweat during the intense workout.",
+      "sentence_ko": "격렬한 운동 중에 그는 비 오듯 땀을 흘렸습니다.",
+      "tags": ["style", "sport", "health", "body", "effort"]
+    },
+    {
+      "word": "Numerous",
+      "sentence_en": "There are numerous apps available for learning English.",
+      "sentence_ko": "영어를 배울 수 있는 수많은 앱이 있습니다.",
+      "tags": ["smartphone", "school", "learning", "tech", "app"]
+    },
+    {
+      "word": "Numerous",
+      "sentence_en": "I have received numerous complaints about the new policy.",
+      "sentence_ko": "새로운 정책에 대해 수많은 불만을 접수했습니다.",
+      "tags": ["job", "communication", "problem", "work", "talk"]
+    },
+    {
+      "word": "Numerous",
+      "sentence_en": "She has won numerous awards for her cooking skills.",
+      "sentence_ko": "그녀는 요리 실력으로 수많은 상을 받았습니다.",
+      "tags": ["cooking", "happy", "success", "talent", "style"]
+    },
+    {
+      "word": "Numerous",
+      "sentence_en": "We visited numerous historical sites during our trip.",
+      "sentence_ko": "우리는 여행 중에 수많은 유적지를 방문했습니다.",
+      "tags": ["school", "travel", "culture", "history", "learning"]
+    },
+    {
+      "word": "Numerous",
+      "sentence_en": "Numerous studies have shown the benefits of reading.",
+      "sentence_ko": "수많은 연구가 독서의 이점을 보여주었습니다.",
+      "tags": ["school", "study", "reading", "book", "fact"]
+    },
+    {
+      "word": "Countless",
+      "sentence_en": "I've told you countless times to clean your room.",
+      "sentence_ko": "방 좀 치우라고 내가 셀 수 없이 말했잖아요.",
+      "tags": ["communication", "home", "family", "cleaning", "talk"]
+    },
+    {
+      "word": "Countless",
+      "sentence_en": "There are countless stars in the night sky.",
+      "sentence_ko": "밤하늘에는 셀 수 없이 많은 별이 있습니다.",
+      "tags": ["mood", "nature", "universe", "beauty", "night"]
+    },
+    {
+      "word": "Countless",
+      "sentence_en": "She spent countless hours editing the video for YouTube.",
+      "sentence_ko": "그녀는 유튜브 영상을 편집하느라 셀 수 없는 시간을 보냈습니다.",
+      "tags": ["job", "marketing", "media", "work", "computer"]
+    },
+    {
+      "word": "Countless",
+      "sentence_en": "We have countless reasons to be happy today.",
+      "sentence_ko": "오늘 우리가 행복해야 할 이유는 셀 수 없이 많습니다.",
+      "tags": ["happy", "mood", "life", "positive", "thought"]
+    },
+    {
+      "word": "Countless",
+      "sentence_en": "The smartphone connects us to countless people around the world.",
+      "sentence_ko": "스마트폰은 우리를 전 세계의 수많은 사람과 연결해 줍니다.",
+      "tags": ["smartphone", "communication", "tech", "social", "global"]
+    },
+    {
+      "word": "Innumerable",
+      "sentence_en": "The project faced innumerable delays due to technical issues.",
+      "sentence_ko": "그 프로젝트는 기술적 문제로 인해 셀 수 없이 많은 지연을 겪었습니다.",
+      "tags": ["job", "tech", "problem", "work", "stress"]
+    },
+    {
+      "word": "Innumerable",
+      "sentence_en": "There are innumerable tiny organisms in a drop of water.",
+      "sentence_ko": "물 한 방울 속에는 무수히 많은 미생물이 있습니다.",
+      "tags": ["school", "science", "nature", "learning", "fact"]
+    },
+    {
+      "word": "Innumerable",
+      "sentence_en": "He has innumerable contacts in the fashion industry.",
+      "sentence_ko": "그는 패션 업계에 셀 수 없이 많은 인맥을 가지고 있습니다.",
+      "tags": ["style", "job", "network", "fashion", "people"]
+    },
+    {
+      "word": "Innumerable",
+      "sentence_en": "We are grateful for the innumerable sacrifices made by our ancestors.",
+      "sentence_ko": "우리는 조상들의 무수한 희생에 감사하고 있습니다.",
+      "tags": ["mood", "history", "respect", "culture", "emotion"]
+    },
+    {
+      "word": "Innumerable",
+      "sentence_en": "The internet offers innumerable sources of information.",
+      "sentence_ko": "인터넷은 셀 수 없이 많은 정보의 원천을 제공합니다.",
+      "tags": ["smartphone", "school", "internet", "learning", "search"]
+    },
+    {
+      "word": "Myriad",
+      "sentence_en": "We face a myriad of choices when buying a new smartphone.",
+      "sentence_ko": "새 스마트폰을 살 때 우리는 무수히 많은 선택지에 직면합니다.",
+      "tags": ["smartphone", "shopping", "tech", "choice", "market"]
+    },
+    {
+      "word": "Myriad",
+      "sentence_en": "The myriad colors of the sunset were breathtaking.",
+      "sentence_ko": "일몰의 다채롭고 무수한 색깔들은 숨이 멎을 듯 아름다웠습니다.",
+      "tags": ["mood", "nature", "beauty", "art", "style"]
+    },
+    {
+      "word": "Myriad",
+      "sentence_en": "There are myriad ways to solve this coding problem.",
+      "sentence_ko": "이 코딩 문제를 해결하는 데는 무수히 많은 방법이 있습니다.",
+      "tags": ["school", "job", "tech", "problem_solving", "computer"]
+    },
+    {
+      "word": "Myriad",
+      "sentence_en": "She has a myriad of interests ranging from cooking to skydiving.",
+      "sentence_ko": "그녀는 요리부터 스카이다이빙까지 관심사가 엄청나게 다양합니다.",
+      "tags": ["cooking", "hobby", "life", "personality", "style"]
+    },
+    {
+      "word": "Myriad",
+      "sentence_en": "The CEO has to deal with myriad issues every day.",
+      "sentence_ko": "CEO는 매일 산더미처럼 많은 문제들을 처리해야 합니다.",
+      "tags": ["job", "business", "management", "work", "stress"]
+    },
+    {
+      "word": "Multitude",
+      "sentence_en": "A multitude of students gathered in the hall for the announcement.",
+      "sentence_ko": "수많은 학생이 발표를 듣기 위해 강당에 모였습니다.",
+      "tags": ["school", "event", "people", "crowd", "news"]
+    },
+    {
+      "word": "Multitude",
+      "sentence_en": "This device serves a multitude of purposes in the kitchen.",
+      "sentence_ko": "이 기구는 주방에서 아주 다양한 용도로 쓰입니다.",
+      "tags": ["cooking", "tool", "kitchen", "home", "utility"]
+    },
+    {
+      "word": "Multitude",
+      "sentence_en": "There is a multitude of reasons why I declined the job offer.",
+      "sentence_ko": "제가 그 일자리 제안을 거절한 데는 여러 가지 많은 이유가 있습니다.",
+      "tags": ["job", "career", "choice", "reason", "talk"]
+    },
+    {
+      "word": "Multitude",
+      "sentence_en": "The multitude was cheering loudly for their team.",
+      "sentence_ko": "군중은 자기 팀을 위해 큰 소리로 환호하고 있었습니다.",
+      "tags": ["mood", "sport", "happy", "noise", "excitement"]
+    },
+    {
+      "word": "Multitude",
+      "sentence_en": "Marketing involves reaching a multitude of potential customers.",
+      "sentence_ko": "마케팅은 수많은 잠재 고객에게 도달하는 것을 포함합니다.",
+      "tags": ["marketing", "job", "business", "people", "strategy"]
+    },
+    {
+      "word": "Legion",
+      "sentence_en": "His fans are legion, spreading across the globe.",
+      "sentence_ko": "그의 팬들은 전 세계에 퍼져 있을 정도로 아주 많습니다.",
+      "tags": ["style", "fame", "people", "music", "pop_culture"]
+    },
+    {
+      "word": "Legion",
+      "sentence_en": "The problems with this old car are legion.",
+      "sentence_ko": "이 낡은 차의 문제점은 한두 가지가 아닙니다 (아주 많습니다).",
+      "tags": ["car", "problem", "mood", "stress", "complaint"]
+    },
+    {
+      "word": "Legion",
+      "sentence_en": "Opportunities for online businesses are legion these days.",
+      "sentence_ko": "요즘 온라인 비즈니스를 위한 기회는 아주 많습니다.",
+      "tags": ["marketing", "job", "business", "internet", "startup"]
+    },
+    {
+      "word": "Legion",
+      "sentence_en": "Legion stories have been written about that haunted house.",
+      "sentence_ko": "저 흉가에 대해서는 수많은 이야기가 쓰였습니다.",
+      "tags": ["mood", "story", "book", "mystery", "culture"]
+    },
+    {
+      "word": "Legion",
+      "sentence_en": "We faced legion difficulties while launching the app.",
+      "sentence_ko": "앱을 출시하는 동안 우리는 수많은 어려움에 직면했습니다.",
+      "tags": ["smartphone", "job", "tech", "challenge", "work"]
+    },
+    {
+      "word": "Teeming",
+      "sentence_en": "The market was teeming with people buying fresh produce.",
+      "sentence_ko": "시장은 신선한 농산물을 사려는 사람들로 바글거렸습니다.",
+      "tags": ["cooking", "market", "people", "food", "busy"]
+    },
+    {
+      "word": "Teeming",
+      "sentence_en": "My mind is teeming with new ideas for the marketing campaign.",
+      "sentence_ko": "제 머릿속은 마케팅 캠페인을 위한 새로운 아이디어들로 가득합니다.",
+      "tags": ["marketing", "job", "idea", "creativity", "brainstorming"]
+    },
+    {
+      "word": "Teeming",
+      "sentence_en": "The jungle is teeming with wildlife.",
+      "sentence_ko": "정글은 야생 동물들로 우글거립니다.",
+      "tags": ["school", "nature", "animal", "travel", "science"]
+    },
+    {
+      "word": "Teeming",
+      "sentence_en": "After the rain, the river was teeming with fish.",
+      "sentence_ko": "비가 온 후 강에는 물고기가 가득했습니다.",
+      "tags": ["nature", "hobby", "fishing", "environment", "mood"]
+    },
+    {
+      "word": "Teeming",
+      "sentence_en": "The school playground was teeming with energetic children.",
+      "sentence_ko": "학교 운동장은 활기찬 아이들로 북적였습니다.",
+      "tags": ["school", "happy", "children", "energy", "play"]
+    },
+    {
+      "word": "Overflowing",
+      "sentence_en": "Her heart was overflowing with joy when she got accepted.",
+      "sentence_ko": "합격 소식을 들었을 때 그녀의 마음은 기쁨으로 넘쳐흘렀습니다.",
+      "tags": ["happy", "mood", "success", "emotion", "news"]
+    },
+    {
+      "word": "Overflowing",
+      "sentence_en": "The trash can is overflowing; please empty it.",
+      "sentence_ko": "쓰레기통이 넘치고 있으니 좀 비워 주세요.",
+      "tags": ["home", "cleaning", "chore", "smell", "living"]
+    },
+    {
+      "word": "Overflowing",
+      "sentence_en": "My email inbox is overflowing with unread messages.",
+      "sentence_ko": "제 이메일 수신함은 읽지 않은 메시지들로 넘쳐나고 있습니다.",
+      "tags": ["job", "communication", "smartphone", "stress", "work"]
+    },
+    {
+      "word": "Overflowing",
+      "sentence_en": "The sink was overflowing because I forgot to turn off the tap.",
+      "sentence_ko": "수도꼭지 잠그는 걸 깜빡해서 싱크대가 넘쳐흐르고 있었습니다.",
+      "tags": ["cooking", "kitchen", "mistake", "accident", "home"]
+    },
+    {
+      "word": "Overflowing",
+      "sentence_en": "The stadium was overflowing with excited fans.",
+      "sentence_ko": "경기장은 흥분한 팬들로 차고 넘쳤습니다.",
+      "tags": ["mood", "sport", "crowd", "event", "happy"]
+    },
+    {
+      "word": "Rife",
+      "sentence_en": "The internet is rife with misinformation these days.",
+      "sentence_ko": "요즘 인터넷에는 잘못된 정보가 만연합니다.",
+      "tags": ["smartphone", "communication", "news", "society", "warning"]
+    },
+    {
+      "word": "Rife",
+      "sentence_en": "The office was rife with rumors about layoffs.",
+      "sentence_ko": "사무실에는 해고에 관한 소문이 파다했습니다.",
+      "tags": ["job", "mood", "stress", "gossip", "work"]
+    },
+    {
+      "word": "Rife",
+      "sentence_en": "Before the exam, the classroom was rife with anxiety.",
+      "sentence_ko": "시험 전 교실에는 긴장감이 가득했습니다.",
+      "tags": ["school", "mood", "stress", "feeling", "test"]
+    },
+    {
+      "word": "Rife",
+      "sentence_en": "This essay is rife with grammatical errors.",
+      "sentence_ko": "이 에세이는 문법 오류 투성이입니다.",
+      "tags": ["school", "writing", "learning", "mistake", "study"]
+    },
+    {
+      "word": "Rife",
+      "sentence_en": "Corruption was rife in the local government.",
+      "sentence_ko": "지방 정부에는 부패가 만연해 있었습니다.",
+      "tags": ["news", "politics", "society", "issue", "law"]
+    },
+    {
+      "word": "Rampant",
+      "sentence_en": "Inflation is running rampant, making groceries expensive.",
+      "sentence_ko": "인플레이션이 걷잡을 수 없어 식료품 가격이 비싸지고 있습니다.",
+      "tags": ["cooking", "money", "economy", "market", "shopping"]
+    },
+    {
+      "word": "Rampant",
+      "sentence_en": "Rumors were rampant after the celebrity scandal broke.",
+      "sentence_ko": "연예인 스캔들이 터진 후 소문이 걷잡을 수 없이 퍼졌습니다.",
+      "tags": ["communication", "news", "society", "gossip", "story"]
+    },
+    {
+      "word": "Rampant",
+      "sentence_en": "Weeds are running rampant in the garden.",
+      "sentence_ko": "정원에 잡초가 무성하게 퍼지고 있습니다.",
+      "tags": ["home", "nature", "garden", "problem", "chore"]
+    },
+    {
+      "word": "Rampant",
+      "sentence_en": "Cheating was rampant during the online test.",
+      "sentence_ko": "온라인 시험 중에 부정행위가 만연했습니다.",
+      "tags": ["school", "test", "issue", "tech", "ethics"]
+    },
+    {
+      "word": "Rampant",
+      "sentence_en": "Viruses can run rampant if you don't update your smartphone.",
+      "sentence_ko": "스마트폰을 업데이트하지 않으면 바이러스가 기승을 부릴 수 있습니다.",
+      "tags": ["smartphone", "tech", "security", "warning", "computer"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "Excessive use of smartphones can damage your eyes.",
+      "sentence_ko": "스마트폰의 과도한 사용은 눈을 상하게 할 수 있습니다.",
+      "tags": ["smartphone", "health", "habit", "warning", "body"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "The teacher punished him for excessive talking in class.",
+      "sentence_ko": "선생님은 수업 시간에 지나치게 떠든 그를 벌했습니다.",
+      "tags": ["school", "communication", "rule", "behavior", "learning"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "Excessive noise from the construction site is annoying.",
+      "sentence_ko": "공사장의 과도한 소음은 짜증이 납니다.",
+      "tags": ["mood", "home", "noise", "stress", "complaint"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "Avoid excessive salt when cooking for better health.",
+      "sentence_ko": "건강을 위해 요리할 때 과도한 소금은 피하세요.",
+      "tags": ["cooking", "health", "food", "advice", "recipe"]
+    },
+    {
+      "word": "Excessive",
+      "sentence_en": "The marketing budget seems excessive for such a small project.",
+      "sentence_ko": "작은 프로젝트치고는 마케팅 예산이 과도해 보입니다.",
+      "tags": ["marketing", "job", "money", "business", "planning"]
+    },
+    {
+      "word": "Superfluous",
+      "sentence_en": "Please remove any superfluous details from your report.",
+      "sentence_ko": "보고서에서 불필요한 세부 사항은 모두 제거해 주세요.",
+      "tags": ["job", "writing", "communication", "work", "edit"]
+    },
+    {
+      "word": "Superfluous",
+      "sentence_en": "Buying another coat is superfluous since you already have ten.",
+      "sentence_ko": "이미 코트가 열 벌이나 있는데 또 사는 건 불필요한 일입니다.",
+      "tags": ["style", "shopping", "fashion", "money", "habit"]
+    },
+    {
+      "word": "Superfluous",
+      "sentence_en": "The extra buttons on this remote are superfluous.",
+      "sentence_ko": "이 리모컨의 추가 버튼들은 쓸모가 없습니다.",
+      "tags": ["tech", "design", "usability", "gadget", "home"]
+    },
+    {
+      "word": "Superfluous",
+      "sentence_en": "Your comment was superfluous and didn't add value to the conversation.",
+      "sentence_ko": "당신의 코멘트는 불필요했고 대화에 아무런 가치를 더하지 못했습니다.",
+      "tags": ["conversation", "communication", "meeting", "social", "feedback"]
+    },
+    {
+      "word": "Superfluous",
+      "sentence_en": "In minimal design, superfluous elements are eliminated.",
+      "sentence_ko": "미니멀 디자인에서는 불필요한 요소들이 제거됩니다.",
+      "tags": ["style", "design", "art", "concept", "beauty"]
+    },
+    {
+      "word": "Surplus",
+      "sentence_en": "We sold the surplus vegetables at the local market.",
+      "sentence_ko": "우리는 쓰고 남은 채소를 지역 시장에 팔았습니다.",
+      "tags": ["cooking", "market", "food", "money", "business"]
+    },
+    {
+      "word": "Surplus",
+      "sentence_en": "The government announced a budget surplus this year.",
+      "sentence_ko": "정부는 올해 예산 흑자를 발표했습니다.",
+      "tags": ["news", "money", "economy", "politics", "society"]
+    },
+    {
+      "word": "Surplus",
+      "sentence_en": "Use the surplus fabric to make a pillow cover.",
+      "sentence_ko": "남은 천을 사용해서 베개 커버를 만드세요.",
+      "tags": ["style", "home", "hobby", "craft", "making"]
+    },
+    {
+      "word": "Surplus",
+      "sentence_en": "There is a surplus of engineers in that sector.",
+      "sentence_ko": "그 분야에는 엔지니어 인력이 잉여 상태입니다.",
+      "tags": ["job", "market", "industry", "work", "trend"]
+    },
+    {
+      "word": "Surplus",
+      "sentence_en": "Surplus energy is stored in the battery for later use.",
+      "sentence_ko": "잉여 에너지는 나중에 사용하기 위해 배터리에 저장됩니다.",
+      "tags": ["tech", "science", "environment", "energy", "future"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "The phrase 'free gift' is redundant because gifts are always free.",
+      "sentence_ko": "'무료 선물'이라는 말은 중복입니다. 선물은 항상 무료니까요.",
+      "tags": ["school", "language", "communication", "writing", "learning"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "Many factory jobs became redundant due to automation.",
+      "sentence_ko": "자동화 때문에 많은 공장 일자리가 불필요해졌습니다.",
+      "tags": ["job", "tech", "future", "industry", "economy"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "We have a redundant server in case the main one fails.",
+      "sentence_ko": "메인 서버가 고장 날 경우를 대비해 예비(중복) 서버를 갖추고 있습니다.",
+      "tags": ["job", "tech", "computer", "security", "system"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "Removing redundant code improved the app's performance.",
+      "sentence_ko": "불필요한 중복 코드를 제거하니 앱의 성능이 향상되었습니다.",
+      "tags": ["smartphone", "tech", "coding", "work", "speed"]
+    },
+    {
+      "word": "Redundant",
+      "sentence_en": "Don't be redundant when explaining your point.",
+      "sentence_ko": "요점을 설명할 때 중언부언하지 마세요.",
+      "tags": ["communication", "conversation", "speech", "advice", "talk"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "They hosted a lavish dinner party for the clients.",
+      "sentence_ko": "그들은 고객들을 위해 호화로운 저녁 파티를 주최했습니다.",
+      "tags": ["cooking", "job", "party", "food", "business"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "The critics heaped lavish praise on the new movie.",
+      "sentence_ko": "비평가들은 그 새 영화에 아낌없는 찬사를 쏟아냈습니다.",
+      "tags": ["mood", "movie", "culture", "review", "art"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "She enjoys a lavish lifestyle with expensive cars and trips.",
+      "sentence_ko": "그녀는 비싼 차와 여행을 즐기며 호화로운 생활을 합니다.",
+      "tags": ["style", "money", "rich", "life", "luxury"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "The hotel lobby was decorated in a lavish style.",
+      "sentence_ko": "호텔 로비는 아주 호화로운 스타일로 장식되어 있었습니다.",
+      "tags": ["style", "travel", "interior", "beauty", "design"]
+    },
+    {
+      "word": "Lavish",
+      "sentence_en": "Don't be too lavish with your spending on gadgets.",
+      "sentence_ko": "전자기기에 돈을 너무 펑펑 쓰지 마세요.",
+      "tags": ["smartphone", "money", "shopping", "tech", "advice"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "He is very generous with his time, always helping students.",
+      "sentence_ko": "그는 학생들을 돕는 데 시간을 아끼지 않는 매우 관대한 분입니다.",
+      "tags": ["school", "teacher", "character", "help", "kindness"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "The restaurant serves generous portions of pasta.",
+      "sentence_ko": "그 식당은 파스타 양을 아주 넉넉하게 줍니다.",
+      "tags": ["cooking", "food", "restaurant", "eating", "happy"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "She made a generous donation to the charity.",
+      "sentence_ko": "그녀는 자선 단체에 거액을 기부했습니다.",
+      "tags": ["money", "society", "good", "giving", "love"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "Thank you for your generous offer, but I cannot accept it.",
+      "sentence_ko": "후한 제안은 감사합니다만, 받아들일 수 없습니다.",
+      "tags": ["conversation", "communication", "politeness", "job", "talk"]
+    },
+    {
+      "word": "Generous",
+      "sentence_en": "A generous spirit makes everyone around you happy.",
+      "sentence_ko": "너그러운 마음씨는 주변 사람 모두를 행복하게 만듭니다.",
+      "tags": ["happy", "mood", "relationship", "life", "wisdom"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "This chocolate cake has a very rich flavor.",
+      "sentence_ko": "이 초콜릿 케이크는 아주 진하고 풍부한 맛이 납니다.",
+      "tags": ["cooking", "food", "taste", "dessert", "happy"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "The soil here is rich, perfect for growing vegetables.",
+      "sentence_ko": "이곳의 토양은 비옥해서 채소를 기르기에 완벽합니다.",
+      "tags": ["nature", "farming", "garden", "home", "food"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "Korea has a rich history and culture.",
+      "sentence_ko": "한국은 풍요로운 역사와 문화를 가지고 있습니다.",
+      "tags": ["school", "history", "culture", "travel", "country"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "The fabric is a rich velvet with a deep red color.",
+      "sentence_ko": "그 천은 짙은 붉은색의 고급스러운 벨벳입니다.",
+      "tags": ["style", "fashion", "material", "clothing", "design"]
+    },
+    {
+      "word": "Rich",
+      "sentence_en": "Avocados are rich in healthy fats.",
+      "sentence_ko": "아보카도에는 건강한 지방이 풍부합니다.",
+      "tags": ["cooking", "health", "food", "fruit", "diet"]
+    },
+    {
+      "word": "Wealthy",
+      "sentence_en": "He became wealthy after selling his software company.",
+      "sentence_ko": "그는 소프트웨어 회사를 매각한 후 부자가 되었습니다.",
+      "tags": ["job", "money", "business", "tech", "success"]
+    },
+    {
+      "word": "Wealthy",
+      "sentence_en": "Wealthy customers often prefer premium services.",
+      "sentence_ko": "부유한 고객들은 종종 프리미엄 서비스를 선호합니다.",
+      "tags": ["marketing", "business", "service", "money", "trend"]
+    },
+    {
+      "word": "Wealthy",
+      "sentence_en": "She grew up in a wealthy neighborhood in Seoul.",
+      "sentence_ko": "그녀는 서울의 부촌에서 자랐습니다.",
+      "tags": ["home", "life", "background", "city", "society"]
+    },
+    {
+      "word": "Wealthy",
+      "sentence_en": "Being wealthy doesn't always guarantee you'll be happy.",
+      "sentence_ko": "부유하다고 해서 항상 행복이 보장되는 것은 아닙니다.",
+      "tags": ["happy", "mood", "life", "wisdom", "money"]
+    },
+    {
+      "word": "Wealthy",
+      "sentence_en": "The wealthy donate a lot of money to art museums.",
+      "sentence_ko": "부유층은 미술관에 많은 돈을 기부합니다.",
+      "tags": ["art", "culture", "money", "society", "hobby"]
+    },
+    {
+      "word": "Affluent",
+      "sentence_en": "Marketing luxury goods requires targeting affluent consumers.",
+      "sentence_ko": "명품을 마케팅하려면 부유한 소비자를 타깃으로 삼아야 합니다.",
+      "tags": ["marketing", "business", "strategy", "money", "sales"]
+    },
+    {
+      "word": "Affluent",
+      "sentence_en": "Only affluent families could afford to send their kids abroad.",
+      "sentence_ko": "부유한 가정만이 자녀를 유학 보낼 여력이 있었습니다.",
+      "tags": ["school", "money", "family", "education", "society"]
+    },
+    {
+      "word": "Affluent",
+      "sentence_en": "They live in an affluent suburb with big houses.",
+      "sentence_ko": "그들은 큰 집들이 있는 부유한 교외 지역에 삽니다.",
+      "tags": ["home", "life", "place", "style", "house"]
+    },
+    {
+      "word": "Affluent",
+      "sentence_en": "As the society became more affluent, people traveled more.",
+      "sentence_ko": "사회가 더 풍요로워지면서 사람들은 여행을 더 많이 다녔습니다.",
+      "tags": ["travel", "society", "economy", "lifestyle", "history"]
+    },
+    {
+      "word": "Affluent",
+      "sentence_en": "He has an affluent vocabulary for a middle school student.",
+      "sentence_ko": "그는 중학생치고는 풍부한 어휘력을 가지고 있습니다.",
+      "tags": ["school", "language", "learning", "study", "smart"]
+    },
+    {
+      "word": "Opulent",
+      "sentence_en": "The palace was famous for its opulent decorations.",
+      "sentence_ko": "그 궁전은 호화로운 장식으로 유명했습니다.",
+      "tags": ["travel", "history", "art", "style", "beauty"]
+    },
+    {
+      "word": "Opulent",
+      "sentence_en": "They stayed in an opulent suite at a five-star hotel.",
+      "sentence_ko": "그들은 5성급 호텔의 호화로운 스위트룸에 묵었습니다.",
+      "tags": ["travel", "luxury", "hotel", "money", "happy"]
+    },
+    {
+      "word": "Opulent",
+      "sentence_en": "The wedding was an opulent affair with hundreds of guests.",
+      "sentence_ko": "그 결혼식은 수백 명의 하객이 참석한 성대한 행사였습니다.",
+      "tags": ["event", "party", "style", "family", "celebration"]
+    },
+    {
+      "word": "Opulent",
+      "sentence_en": "He wears an opulent gold watch on his wrist.",
+      "sentence_ko": "그는 손목에 사치스러운 금시계를 차고 있습니다.",
+      "tags": ["style", "fashion", "accessory", "money", "man"]
+    },
+    {
+      "word": "Opulent",
+      "sentence_en": "The opulent lifestyle of the king angered the poor.",
+      "sentence_ko": "왕의 사치스러운 생활 방식은 빈민들을 분노하게 했습니다.",
+      "tags": ["history", "politics", "society", "money", "story"]
+    },
+    {
+      "word": "Loaded",
+      "sentence_en": "That pizza is fully loaded with cheese and pepperoni.",
+      "sentence_ko": "저 피자는 치즈와 페퍼로니가 잔뜩 올라가 있습니다.",
+      "tags": ["cooking", "food", "eating", "taste", "happy"]
+    },
+    {
+      "word": "Loaded",
+      "sentence_en": "He must be loaded to drive a car like that.",
+      "sentence_ko": "저런 차를 몰다니 그는 돈이 엄청 많은 게 분명합니다.",
+      "tags": ["car", "money", "slang", "conversation", "people"]
+    },
+    {
+      "word": "Loaded",
+      "sentence_en": "Be careful, that is a loaded question.",
+      "sentence_ko": "조심하세요, 그건 의도가 깔린(함정이 있는) 질문입니다.",
+      "tags": ["conversation", "communication", "interview", "warning", "talk"]
+    },
+    {
+      "word": "Loaded",
+      "sentence_en": "My smartphone is loaded with useful travel apps.",
+      "sentence_ko": "제 스마트폰에는 유용한 여행 앱들이 가득 깔려 있습니다.",
+      "tags": ["smartphone", "travel", "app", "tech", "convenience"]
+    },
+    {
+      "word": "Loaded",
+      "sentence_en": "The truck was loaded with supplies for the factory.",
+      "sentence_ko": "트럭에는 공장으로 보낼 물품들이 실려 있었습니다.",
+      "tags": ["job", "work", "transport", "business", "car"]
+    },
+    {
+      "word": "Flush",
+      "sentence_en": "I'm flush with cash right now because I got my bonus.",
+      "sentence_ko": "보너스를 받아서 지금 주머니 사정이 아주 두둑합니다.",
+      "tags": ["job", "money", "happy", "shopping", "mood"]
+    },
+    {
+      "word": "Flush",
+      "sentence_en": "His face was flush with excitement after winning the game.",
+      "sentence_ko": "경기에서 이긴 후 그의 얼굴은 흥분으로 붉게 상기되었습니다.",
+      "tags": ["mood", "sport", "emotion", "happy", "face"]
+    },
+    {
+      "word": "Flush",
+      "sentence_en": "Ensure the shelf is flush with the wall.",
+      "sentence_ko": "선반이 벽과 딱 맞게 수평이 되도록 하세요.",
+      "tags": ["home", "diy", "furniture", "work", "making"]
+    },
+    {
+      "word": "Flush",
+      "sentence_en": "The team felt flush with confidence before the final match.",
+      "sentence_ko": "결승전을 앞두고 팀은 자신감으로 충만해 있었습니다.",
+      "tags": ["mood", "sport", "team", "feeling", "energy"]
+    },
+    {
+      "word": "Flush",
+      "sentence_en": "When investors are flush, startups get more funding.",
+      "sentence_ko": "투자자들의 자금이 넉넉할 때 스타트업들은 더 많은 투자를 받습니다.",
+      "tags": ["job", "business", "money", "startup", "economy"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "We made substantial progress on the project this week.",
+      "sentence_ko": "우리는 이번 주에 프로젝트에서 상당한 진전을 이루었습니다.",
+      "tags": ["job", "work", "success", "team", "business"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "She donated a substantial amount of money to the school.",
+      "sentence_ko": "그녀는 학교에 상당한 금액을 기부했습니다.",
+      "tags": ["school", "money", "giving", "society", "good"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "A substantial breakfast gives you energy for the day.",
+      "sentence_ko": "속 든든한 아침 식사는 하루를 위한 에너지를 줍니다.",
+      "tags": ["cooking", "food", "health", "morning", "energy"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "There is a substantial difference between the two smartphones.",
+      "sentence_ko": "두 스마트폰 사이에는 상당한 차이가 있습니다.",
+      "tags": ["smartphone", "tech", "comparison", "shopping", "gadget"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "His contribution to the team was substantial.",
+      "sentence_ko": "팀에 대한 그의 기여는 상당했습니다.",
+      "tags": ["job", "work", "teamwork", "value", "praise"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "The possibilities of AI technology seem infinite.",
+      "sentence_ko": "AI 기술의 가능성은 무한해 보입니다.",
+      "tags": ["job", "tech", "future", "science", "imagination"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "She has infinite patience when teaching children.",
+      "sentence_ko": "그녀는 아이들을 가르칠 때 무한한 인내심을 발휘합니다.",
+      "tags": ["school", "teaching", "character", "love", "education"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "Looking at the ocean makes me feel the infinite nature of the world.",
+      "sentence_ko": "바다를 바라보고 있으면 세상의 무한함이 느껴집니다.",
+      "tags": ["mood", "nature", "travel", "emotion", "thought"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "Space is an infinite expanse of mystery.",
+      "sentence_ko": "우주는 신비로움이 가득한 무한한 공간입니다.",
+      "tags": ["school", "science", "universe", "learning", "dream"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "You can scroll through infinite content on social media.",
+      "sentence_ko": "소셜 미디어에서는 무한한 콘텐츠를 스크롤 할 수 있습니다.",
+      "tags": ["smartphone", "app", "media", "fun", "time"]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: INTELLIGENCE_BRILLIANCE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Knowledgeable - 아는 것이 많은 (박식한)
+2. Intelligent - 지능적인 (가장 일반적이고 격식 있는 표현)
+3. Smart - 똑똑한 (똑바르고 깔끔하게 머리가 좋은)
+4. Bright - 총명한, 영리한 (잠재력이 있고 눈이 반짝이는)
+5. Brilliant - 명석한, 훌륭한 (지능이 빛날 정도로 뛰어난)
+6. Genius - 천재적인 (범접할 수 없는 재능)
+7. Resourceful - 기지 넘치는, 수완 좋은 (자원을 잘 활용하는)
+8. Erudite - 박식한, 학식 있는ex(바깥)[rudis(미숙한)](rudis(%EB%AF%B8%EC%88%99%ED%95%9C)%202c23415d9fe7801ba725ceb7c3eb0e84.md)
+9. rudimentary - 기초적인
+10. Cerebral - 이성적인, 머리를 쓰는 (감정보다 두뇌 활동을 중시하는)
+11. Gifted - 타고난 재능이 있는 (신이 주신 선물 같은)
+12. Talented - 재주가 있는 (특정 분야에 능력이 있는)
+13. Sharp - 날카로운, 예리한 (두뇌 회전이 빠르고 정확한)
+14. Quick-witted - 두뇌 회전이 빠른 (즉각적으로 반응하는)
+15. Brainy - 머리가 좋은 (구어체) (공부 잘하는 뉘앙스)
+16. Intellectual - 지적인 (학문적이고 깊이 생각하는)
+17. Academic - 학구적인 (학교 공부나 이론에 강한)
+18. Clever - 영리한 (머리를 잘 굴리는, 솜씨 좋은)
+19. Ingenious - 기발한, 독창적인 (창의적으로 문제를 해결하는)
+20. Capable - 유능한 (일을 처리할 능력이 있는)
+21. Competent - 능숙한, 적임의 (필요한 수준의 능력을 갖춘)
+22. Proficient - 능란한, 숙달된 (훈련을 통해 잘하는)
+23. Skilled - 숙련된 (기술이 뛰어난)
+24. Expert - 전문적인 (최고 수준의 지식/기술)
+25. Masterful - 거장다운, 능수능란한 (통제력 있고 뛰어난)
+26. Educated - 교육받은, 교양 있는 (학교 교육을 잘 받은)
+27. Literate - 글을 읽고 쓸 줄 아는 (기본적인 지식이 있는)
+28. Well-read - 다독한 (책을 많이 읽어 지식이 풍부한)
+29. Scholarly - 학자적인 (학문에 정진하는)
+30. Bookish - 책을 좋아하는 (실생활보다 책에 파묻힌)
+
+## 추천 태그 (상황/맥락)
+warm, technology, startup, smartphone, sad, travel, entrepreneur, interview, job, learning
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "INTELLIGENCE_BRILLIANCE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "INTELLIGENCE_BRILLIANCE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

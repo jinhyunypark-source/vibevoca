@@ -1,0 +1,1506 @@
+{
+    "deck_title": "PERSUASION_CONFLICT",
+    "total_sentences": 150,
+    "sentences": [
+        {
+            "word": "Persuasive",
+            "sentence_en": "She wrote a persuasive essay that convinced the teacher to change the grade.",
+            "sentence_ko": "그녀는 선생님이 점수를 고치게 만들 만큼 설득력 있는 에세이를 썼습니다.",
+            "tags": [
+                "learning",
+                "school",
+                "writing"
+            ]
+        },
+        {
+            "word": "Persuasive",
+            "sentence_en": "You need to be persuasive if you want to sell this product.",
+            "sentence_ko": "이 제품을 팔고 싶다면 설득력이 있어야 합니다.",
+            "tags": [
+                "shopping",
+                "marketing",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Persuasive",
+            "sentence_en": "His persuasive tone made everyone in the room agree with his plan.",
+            "sentence_ko": "그의 설득력 있는 어조는 방 안의 모든 사람이 그의 계획에 동의하게 만들었습니다.",
+            "tags": [
+                "conversation",
+                "business",
+                "meeting"
+            ]
+        },
+        {
+            "word": "Persuasive",
+            "sentence_en": "There is no persuasive evidence to support his wild theory.",
+            "sentence_ko": "그의 터무니없는 이론을 뒷받침할 만한 설득력 있는 증거가 없습니다.",
+            "tags": [
+                "learning",
+                "discussion",
+                "fact"
+            ]
+        },
+        {
+            "word": "Persuasive",
+            "sentence_en": "A persuasive speaker can influence the crowd's emotion easily.",
+            "sentence_ko": "설득력 있는 연설가는 군중의 감정을 쉽게 움직일 수 있습니다.",
+            "tags": [
+                "conversation",
+                "entertainment",
+                "speech"
+            ]
+        },
+        {
+            "word": "Convincing",
+            "sentence_en": "The actor's performance in the movie was incredibly convincing.",
+            "sentence_ko": "그 영화에서 배우의 연기는 정말로 납득이 갈 만큼 훌륭했습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "review"
+            ]
+        },
+        {
+            "word": "Convincing",
+            "sentence_en": "I need a convincing reason to skip the soccer practice today.",
+            "sentence_ko": "오늘 축구 연습을 빠지려면 납득할 만한 이유가 필요합니다.",
+            "tags": [
+                "soccer",
+                "conversation",
+                "excuse"
+            ]
+        },
+        {
+            "word": "Convincing",
+            "sentence_en": "Her explanation for the error in the code was very convincing.",
+            "sentence_ko": "코드 오류에 대한 그녀의 설명은 매우 설득력이 있었습니다.",
+            "tags": [
+                "code",
+                "learning",
+                "work"
+            ]
+        },
+        {
+            "word": "Convincing",
+            "sentence_en": "It is hard to find a convincing argument against healthy eating.",
+            "sentence_ko": "건강한 식습관에 반대하는 납득할 만한 주장을 찾기는 어렵습니다.",
+            "tags": [
+                "health",
+                "food",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Convincing",
+            "sentence_en": "He gave a convincing smile, but I knew he was lying.",
+            "sentence_ko": "그는 그럴듯한 미소를 지었지만, 나는 그가 거짓말을 하고 있다는 것을 알았습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Compelling",
+            "sentence_en": "The documentary told a compelling story about climate change.",
+            "sentence_ko": "그 다큐멘터리는 기후 변화에 대한 강력하고 흥미로운 이야기를 들려주었습니다.",
+            "tags": [
+                "movie",
+                "learning",
+                "entertainment"
+            ]
+        },
+        {
+            "word": "Compelling",
+            "sentence_en": "There is no compelling reason to buy a new computer right now.",
+            "sentence_ko": "지금 당장 새 컴퓨터를 사야 할 강력한 이유는 없습니다.",
+            "tags": [
+                "shopping",
+                "tech",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Compelling",
+            "sentence_en": "Her speech was so compelling that the audience stood up and clapped.",
+            "sentence_ko": "그녀의 연설은 너무나 마음을 사로잡아서 청중들이 기립 박수를 보냈습니다.",
+            "tags": [
+                "entertainment",
+                "conversation",
+                "warm"
+            ]
+        },
+        {
+            "word": "Compelling",
+            "sentence_en": "The game has a compelling storyline that keeps you playing.",
+            "sentence_ko": "그 게임은 계속 플레이하게 만드는 강력한 스토리를 가지고 있습니다.",
+            "tags": [
+                "entertainment",
+                "game",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Compelling",
+            "sentence_en": "We need compelling visual elements for the marketing campaign.",
+            "sentence_ko": "우리는 마케팅 캠페인을 위한 눈길을 끄는 시각적 요소가 필요합니다.",
+            "tags": [
+                "marketing",
+                "code",
+                "design"
+            ]
+        },
+        {
+            "word": "Coercive",
+            "sentence_en": "The manager used coercive tactics to make employees work overtime.",
+            "sentence_ko": "그 관리자는 직원들에게 야근을 시키기 위해 강압적인 수단을 썼습니다.",
+            "tags": [
+                "conversation",
+                "work",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Coercive",
+            "sentence_en": "You cannot build a warm relationship with coercive behavior.",
+            "sentence_ko": "강압적인 태도로는 따뜻한 관계를 쌓을 수 없습니다.",
+            "tags": [
+                "family",
+                "relationship",
+                "warm"
+            ]
+        },
+        {
+            "word": "Coercive",
+            "sentence_en": "Coercive measures usually lead to resentment rather than cooperation.",
+            "sentence_ko": "강압적인 조치는 보통 협력보다는 분노를 초래합니다.",
+            "tags": [
+                "learning",
+                "social",
+                "psychology"
+            ]
+        },
+        {
+            "word": "Coercive",
+            "sentence_en": "The rules felt coercive and restricted our creative freedom.",
+            "sentence_ko": "그 규칙들은 강압적으로 느껴졌고 우리의 창작 자유를 제한했습니다.",
+            "tags": [
+                "code",
+                "art",
+                "feeling"
+            ]
+        },
+        {
+            "word": "Coercive",
+            "sentence_en": "Parents should avoid using coercive language with their children.",
+            "sentence_ko": "부모는 자녀에게 강압적인 언어를 사용하는 것을 피해야 합니다.",
+            "tags": [
+                "family",
+                "home",
+                "parenting"
+            ]
+        },
+        {
+            "word": "Coercion",
+            "sentence_en": "He claimed that he signed the contract under coercion.",
+            "sentence_ko": "그는 강압에 의해 계약서에 서명했다고 주장했습니다.",
+            "tags": [
+                "conversation",
+                "business",
+                "law"
+            ]
+        },
+        {
+            "word": "Coercion",
+            "sentence_en": "True education should be about inspiration, not coercion.",
+            "sentence_ko": "참된 교육은 강요가 아니라 영감을 주는 것이어야 합니다.",
+            "tags": [
+                "learning",
+                "education",
+                "school"
+            ]
+        },
+        {
+            "word": "Coercion",
+            "sentence_en": "There was a hint of coercion in his request for money.",
+            "sentence_ko": "돈을 요구하는 그의 말에는 강요의 기색이 있었습니다.",
+            "tags": [
+                "money",
+                "relationship",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Coercion",
+            "sentence_en": "We do not use coercion to get customers to buy our products.",
+            "sentence_ko": "우리는 고객이 제품을 사게 하기 위해 강요를 사용하지 않습니다.",
+            "tags": [
+                "marketing",
+                "shopping",
+                "business"
+            ]
+        },
+        {
+            "word": "Coercion",
+            "sentence_en": "The police obtained the confession without any coercion.",
+            "sentence_ko": "경찰은 어떠한 강압도 없이 자백을 받아냈습니다.",
+            "tags": [
+                "news",
+                "conversation",
+                "law"
+            ]
+        },
+        {
+            "word": "Arcane",
+            "sentence_en": "The old code is full of arcane commands that no one remembers.",
+            "sentence_ko": "그 오래된 코드는 아무도 기억 못 하는 난해한 명령어로 가득합니다.",
+            "tags": [
+                "code",
+                "tech",
+                "history"
+            ]
+        },
+        {
+            "word": "Arcane",
+            "sentence_en": "She enjoys studying the arcane rituals of ancient civilizations.",
+            "sentence_ko": "그녀는 고대 문명의 신비로운 의식을 연구하는 것을 즐깁니다.",
+            "tags": [
+                "learning",
+                "history",
+                "hobby"
+            ]
+        },
+        {
+            "word": "Arcane",
+            "sentence_en": "The rules of this board game seem a bit arcane to beginners.",
+            "sentence_ko": "이 보드게임의 규칙은 초보자들에게 좀 난해해 보입니다.",
+            "tags": [
+                "entertainment",
+                "game",
+                "family"
+            ]
+        },
+        {
+            "word": "Arcane",
+            "sentence_en": "He has knowledge of arcane legal details that most lawyers miss.",
+            "sentence_ko": "그는 대부분의 변호사가 놓치는 비밀스러운 법적 세부 사항을 알고 있습니다.",
+            "tags": [
+                "learning",
+                "work",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Arcane",
+            "sentence_en": "The library has a section dedicated to arcane and mystical books.",
+            "sentence_ko": "그 도서관에는 신비롭고 난해한 책들만 모아둔 구역이 있습니다.",
+            "tags": [
+                "learning",
+                "reading",
+                "place"
+            ]
+        },
+        {
+            "word": "Accusatory",
+            "sentence_en": "Please don't use that accusatory tone when speaking to me.",
+            "sentence_ko": "저에게 말할 때 그런 비난하는 듯한 말투는 쓰지 말아 주세요.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Accusatory",
+            "sentence_en": "He pointed an accusatory finger at his brother for breaking the toy.",
+            "sentence_ko": "그는 장난감을 부러뜨린 것에 대해 형을 비난하며 손가락질했습니다.",
+            "tags": [
+                "family",
+                "home",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Accusatory",
+            "sentence_en": "Her eyes were accusatory as she looked at the mess in the kitchen.",
+            "sentence_ko": "부엌의 엉망진창인 모습을 바라보는 그녀의 눈빛은 비난하는 듯했습니다.",
+            "tags": [
+                "home",
+                "emotion",
+                "family"
+            ]
+        },
+        {
+            "word": "Accusatory",
+            "sentence_en": "The article was accusatory and lacked objective facts.",
+            "sentence_ko": "그 기사는 비난조였으며 객관적인 사실이 부족했습니다.",
+            "tags": [
+                "learning",
+                "news",
+                "reading"
+            ]
+        },
+        {
+            "word": "Accusatory",
+            "sentence_en": "Avoiding accusatory language helps solve conflicts peacefully.",
+            "sentence_ko": "비난하는 언어를 피하는 것은 갈등을 평화롭게 해결하는 데 도움이 됩니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "advice"
+            ]
+        },
+        {
+            "word": "Flattering",
+            "sentence_en": "That dress is very flattering and suits you perfectly.",
+            "sentence_ko": "그 드레스는 당신을 아주 돋보이게 하고 완벽하게 어울립니다.",
+            "tags": [
+                "shopping",
+                "fashion",
+                "warm"
+            ]
+        },
+        {
+            "word": "Flattering",
+            "sentence_en": "He made some flattering remarks about her coding skills.",
+            "sentence_ko": "그는 그녀의 코딩 실력에 대해 기분 좋은 칭찬을 했습니다.",
+            "tags": [
+                "code",
+                "conversation",
+                "work"
+            ]
+        },
+        {
+            "word": "Flattering",
+            "sentence_en": "The lighting in this restaurant is very flattering for photos.",
+            "sentence_ko": "이 식당의 조명은 사진이 아주 잘 나오게 해줍니다.",
+            "tags": [
+                "entertainment",
+                "photo",
+                "place"
+            ]
+        },
+        {
+            "word": "Flattering",
+            "sentence_en": "It is flattering to be invited to speak at the conference.",
+            "sentence_ko": "콘퍼런스 연사로 초청받다니 참 영광스럽고 기분 좋은 일입니다.",
+            "tags": [
+                "conversation",
+                "learning",
+                "work"
+            ]
+        },
+        {
+            "word": "Flattering",
+            "sentence_en": "She didn't believe his flattering words, thinking he wanted something.",
+            "sentence_ko": "그녀는 그가 뭔가를 원한다고 생각해서 그의 아첨하는 말을 믿지 않았습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Defiant",
+            "sentence_en": "The defiant player argued with the referee during the soccer match.",
+            "sentence_ko": "그 반항적인 선수는 축구 경기 중에 심판과 언쟁을 벌였습니다.",
+            "tags": [
+                "soccer",
+                "sport",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Defiant",
+            "sentence_en": "The teenager was defiant and refused to clean his room.",
+            "sentence_ko": "그 십 대는 반항적이었고 방 청소를 거부했습니다.",
+            "tags": [
+                "family",
+                "home",
+                "parenting"
+            ]
+        },
+        {
+            "word": "Defiant",
+            "sentence_en": "He crossed his arms in a defiant gesture.",
+            "sentence_ko": "그는 도전적인 태도로 팔짱을 꼈습니다.",
+            "tags": [
+                "conversation",
+                "emotion",
+                "body_language"
+            ]
+        },
+        {
+            "word": "Defiant",
+            "sentence_en": "Despite the harsh criticism, she remained defiant and confident.",
+            "sentence_ko": "가혹한 비판에도 불구하고 그녀는 여전히 당당하고 자신감이 있었습니다.",
+            "tags": [
+                "conversation",
+                "emotion",
+                "learning"
+            ]
+        },
+        {
+            "word": "Defiant",
+            "sentence_en": "The defiant mood of the crowd worried the security guards.",
+            "sentence_ko": "군중의 반항적인 분위기는 경비원들을 걱정하게 만들었습니다.",
+            "tags": [
+                "social",
+                "entertainment",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Contentious",
+            "sentence_en": "Politics is often a contentious topic at family dinners.",
+            "sentence_ko": "정치는 가족 저녁 식사에서 종종 논쟁을 불러일으키는 주제입니다.",
+            "tags": [
+                "family",
+                "home",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Contentious",
+            "sentence_en": "The decision to sell the house was highly contentious.",
+            "sentence_ko": "집을 팔기로 한 결정은 매우 논란이 많았습니다.",
+            "tags": [
+                "home",
+                "family",
+                "money"
+            ]
+        },
+        {
+            "word": "Contentious",
+            "sentence_en": "They had a contentious relationship filled with arguments.",
+            "sentence_ko": "그들은 말다툼으로 가득 찬 험악한 관계였습니다.",
+            "tags": [
+                "relationship",
+                "conflict",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Contentious",
+            "sentence_en": "The new soccer rule is contentious among fans.",
+            "sentence_ko": "새로운 축구 규칙은 팬들 사이에서 논란이 되고 있습니다.",
+            "tags": [
+                "soccer",
+                "sport",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Contentious",
+            "sentence_en": "It was a contentious meeting that lasted for hours.",
+            "sentence_ko": "그것은 몇 시간 동안 지속된 논쟁적인 회의였습니다.",
+            "tags": [
+                "business",
+                "conversation",
+                "meeting"
+            ]
+        },
+        {
+            "word": "Contend",
+            "sentence_en": "Several teams will contend for the championship title this year.",
+            "sentence_ko": "올해는 여러 팀이 챔피언 타이틀을 놓고 다툴 것입니다.",
+            "tags": [
+                "soccer",
+                "sport",
+                "competition"
+            ]
+        },
+        {
+            "word": "Contend",
+            "sentence_en": "I have to contend with many bugs in this old code.",
+            "sentence_ko": "저는 이 오래된 코드에 있는 많은 버그와 씨름해야 합니다.",
+            "tags": [
+                "code",
+                "tech",
+                "work"
+            ]
+        },
+        {
+            "word": "Contend",
+            "sentence_en": "She contends that the new policy is unfair.",
+            "sentence_ko": "그녀는 새로운 정책이 불공평하다고 주장합니다.",
+            "tags": [
+                "conversation",
+                "learning",
+                "opinion"
+            ]
+        },
+        {
+            "word": "Contend",
+            "sentence_en": "We had to contend with bad weather during our trip.",
+            "sentence_ko": "우리는 여행 중에 나쁜 날씨와 싸워야 했습니다.",
+            "tags": [
+                "travel",
+                "family",
+                "weather"
+            ]
+        },
+        {
+            "word": "Contend",
+            "sentence_en": "Athletes have to contend with immense pressure to win.",
+            "sentence_ko": "운동선수들은 이겨야 한다는 엄청난 압박감과 싸워야 합니다.",
+            "tags": [
+                "soccer",
+                "sport",
+                "health"
+            ]
+        },
+        {
+            "word": "Blunt",
+            "sentence_en": "To be blunt, your cooking needs more salt.",
+            "sentence_ko": "솔직하게 말해서, 당신 요리는 소금이 더 필요해요.",
+            "tags": [
+                "conversation",
+                "food",
+                "home"
+            ]
+        },
+        {
+            "word": "Blunt",
+            "sentence_en": "He gave a blunt answer without caring about my feelings.",
+            "sentence_ko": "그는 내 기분은 신경 쓰지 않고 직설적인 대답을 했습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Blunt",
+            "sentence_en": "The knife is too blunt to cut the tomato.",
+            "sentence_ko": "칼이 너무 무뎌서 토마토를 자를 수 없습니다.",
+            "tags": [
+                "home",
+                "cooking",
+                "kitchen"
+            ]
+        },
+        {
+            "word": "Blunt",
+            "sentence_en": "Her blunt criticism of the movie surprised everyone.",
+            "sentence_ko": "영화에 대한 그녀의 직설적인 비평은 모두를 놀라게 했습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Blunt",
+            "sentence_en": "Sometimes a blunt refusal is better than a vague promise.",
+            "sentence_ko": "때로는 직설적인 거절이 애매한 약속보다 낫습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "advice"
+            ]
+        },
+        {
+            "word": "Conciliatory",
+            "sentence_en": "She used a conciliatory tone to end the argument.",
+            "sentence_ko": "그녀는 언쟁을 끝내기 위해 달래는 듯한 어조를 사용했습니다.",
+            "tags": [
+                "conversation",
+                "conflict",
+                "relationship"
+            ]
+        },
+        {
+            "word": "Conciliatory",
+            "sentence_en": "He made a conciliatory gesture by offering a handshake.",
+            "sentence_ko": "그는 악수를 청하며 화해의 제스처를 취했습니다.",
+            "tags": [
+                "conversation",
+                "warm",
+                "body_language"
+            ]
+        },
+        {
+            "word": "Conciliatory",
+            "sentence_en": "The government adopted a conciliatory approach with the protesters.",
+            "sentence_ko": "정부는 시위대에게 회유적인 접근 방식을 취했습니다.",
+            "tags": [
+                "news",
+                "social",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Conciliatory",
+            "sentence_en": "A conciliatory message can help repair a broken friendship.",
+            "sentence_ko": "화해의 메시지는 깨진 우정을 회복하는 데 도움이 될 수 있습니다.",
+            "tags": [
+                "relationship",
+                "family",
+                "warm"
+            ]
+        },
+        {
+            "word": "Conciliatory",
+            "sentence_en": "Despite his conciliatory words, he was still angry inside.",
+            "sentence_ko": "그의 달래는 듯한 말에도 불구하고, 그는 속으로 여전히 화가 나 있었습니다.",
+            "tags": [
+                "emotion",
+                "conversation",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Counsel",
+            "sentence_en": "I sought the counsel of my professor regarding my career.",
+            "sentence_ko": "저는 진로에 관해 교수님의 조언을 구했습니다.",
+            "tags": [
+                "learning",
+                "school",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Counsel",
+            "sentence_en": "The lawyer provided legal counsel to the family.",
+            "sentence_ko": "변호사는 그 가족에게 법률적 조언을 제공했습니다.",
+            "tags": [
+                "family",
+                "law",
+                "business"
+            ]
+        },
+        {
+            "word": "Counsel",
+            "sentence_en": "She counseled him to be more patient with his children.",
+            "sentence_ko": "그녀는 그에게 아이들에게 더 인내심을 가지라고 조언했습니다.",
+            "tags": [
+                "family",
+                "home",
+                "parenting"
+            ]
+        },
+        {
+            "word": "Counsel",
+            "sentence_en": "We need wise counsel to solve this complex code problem.",
+            "sentence_ko": "이 복잡한 코드 문제를 해결하려면 현명한 조언이 필요합니다.",
+            "tags": [
+                "code",
+                "tech",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Counsel",
+            "sentence_en": "He keeps his own counsel and rarely shares his plans.",
+            "sentence_ko": "그는 자신의 생각을 남에게 잘 알리지 않고 계획을 거의 공유하지 않습니다.",
+            "tags": [
+                "personality",
+                "conversation",
+                "mystery"
+            ]
+        },
+        {
+            "word": "Council",
+            "sentence_en": "The city council voted to build a new park.",
+            "sentence_ko": "시 의회는 새 공원을 짓기로 투표했습니다.",
+            "tags": [
+                "social",
+                "news",
+                "place"
+            ]
+        },
+        {
+            "word": "Council",
+            "sentence_en": "She was elected as the president of the student council.",
+            "sentence_ko": "그녀는 학생회 회장으로 선출되었습니다.",
+            "tags": [
+                "school",
+                "learning",
+                "leadership"
+            ]
+        },
+        {
+            "word": "Council",
+            "sentence_en": "The family held a council to decide where to go on vacation.",
+            "sentence_ko": "가족들은 휴가를 어디로 갈지 정하기 위해 가족회의를 열었습니다.",
+            "tags": [
+                "family",
+                "home",
+                "vacation"
+            ]
+        },
+        {
+            "word": "Council",
+            "sentence_en": "A council of experts was formed to discuss the environmental issue.",
+            "sentence_ko": "환경 문제를 논의하기 위해 전문가 위원회가 구성되었습니다.",
+            "tags": [
+                "learning",
+                "social",
+                "science"
+            ]
+        },
+        {
+            "word": "Council",
+            "sentence_en": "We attended the local council meeting to complain about the noise.",
+            "sentence_ko": "우리는 소음 문제를 항의하기 위해 지방 의회 회의에 참석했습니다.",
+            "tags": [
+                "conversation",
+                "home",
+                "community"
+            ]
+        },
+        {
+            "word": "Sycophantic",
+            "sentence_en": "The king was surrounded by sycophantic advisors.",
+            "sentence_ko": "왕은 아첨하는 조언자들에게 둘러싸여 있었습니다.",
+            "tags": [
+                "movie",
+                "history",
+                "story"
+            ]
+        },
+        {
+            "word": "Sycophantic",
+            "sentence_en": "I dislike his sycophantic behavior towards the boss.",
+            "sentence_ko": "나는 상사에게 아부하는 그의 행동이 싫습니다.",
+            "tags": [
+                "conversation",
+                "work",
+                "relationship"
+            ]
+        },
+        {
+            "word": "Sycophantic",
+            "sentence_en": "Her praise sounded sycophantic rather than genuine.",
+            "sentence_ko": "그녀의 칭찬은 진심이라기보다는 아첨처럼 들렸습니다.",
+            "tags": [
+                "conversation",
+                "emotion",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Sycophantic",
+            "sentence_en": "He wrote a sycophantic review to get free products.",
+            "sentence_ko": "그는 무료 제품을 받기 위해 아부성 리뷰를 썼습니다.",
+            "tags": [
+                "shopping",
+                "marketing",
+                "internet"
+            ]
+        },
+        {
+            "word": "Sycophantic",
+            "sentence_en": "Don't be sycophantic; just tell me the truth.",
+            "sentence_ko": "아부하지 말고 그냥 사실대로 말해 주세요.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "honesty"
+            ]
+        },
+        {
+            "word": "Complimentary",
+            "sentence_en": "The hotel offers complimentary coffee in the lobby.",
+            "sentence_ko": "호텔은 로비에서 무료(서비스) 커피를 제공합니다.",
+            "tags": [
+                "travel",
+                "food",
+                "warm"
+            ]
+        },
+        {
+            "word": "Complimentary",
+            "sentence_en": "She was very complimentary about my new hairstyle.",
+            "sentence_ko": "그녀는 내 새 헤어스타일에 대해 칭찬을 아끼지 않았습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "warm"
+            ]
+        },
+        {
+            "word": "Complimentary",
+            "sentence_en": "He made several complimentary remarks about the meal.",
+            "sentence_ko": "그는 식사에 대해 몇 가지 칭찬의 말을 했습니다.",
+            "tags": [
+                "food",
+                "conversation",
+                "home"
+            ]
+        },
+        {
+            "word": "Complimentary",
+            "sentence_en": "We received complimentary tickets to the movie premiere.",
+            "sentence_ko": "우리는 영화 시사회 무료 초대권을 받았습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "gift"
+            ]
+        },
+        {
+            "word": "Complimentary",
+            "sentence_en": "A complimentary review can boost sales significantly.",
+            "sentence_ko": "칭찬하는 리뷰는 매출을 크게 올릴 수 있습니다.",
+            "tags": [
+                "marketing",
+                "shopping",
+                "business"
+            ]
+        },
+        {
+            "word": "Complement",
+            "sentence_en": "This red wine will perfectly complement the steak.",
+            "sentence_ko": "이 레드 와인은 스테이크와 완벽하게 잘 어울릴 것입니다.",
+            "tags": [
+                "food",
+                "conversation",
+                "shopping"
+            ]
+        },
+        {
+            "word": "Complement",
+            "sentence_en": "Her calm personality complements his energetic nature.",
+            "sentence_ko": "그녀의 차분한 성격은 그의 활기찬 성격을 보완해 줍니다.",
+            "tags": [
+                "relationship",
+                "family",
+                "warm"
+            ]
+        },
+        {
+            "word": "Complement",
+            "sentence_en": "The new sofa complements the living room decor.",
+            "sentence_ko": "새 소파는 거실 장식과 잘 어울립니다.",
+            "tags": [
+                "home",
+                "shopping",
+                "design"
+            ]
+        },
+        {
+            "word": "Complement",
+            "sentence_en": "Code comments should complement the code, not repeat it.",
+            "sentence_ko": "코드 주석은 코드를 보완해야지 반복해서는 안 됩니다.",
+            "tags": [
+                "code",
+                "learning",
+                "tech"
+            ]
+        },
+        {
+            "word": "Complement",
+            "sentence_en": "Strawberries and chocolate complement each other well.",
+            "sentence_ko": "딸기와 초콜릿은 서로 잘 어울립니다.",
+            "tags": [
+                "food",
+                "cooking",
+                "snack"
+            ]
+        },
+        {
+            "word": "Manipulative",
+            "sentence_en": "The villain in the movie was extremely manipulative.",
+            "sentence_ko": "영화 속 악당은 지독하게 교활하고 조종에 능했습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "character"
+            ]
+        },
+        {
+            "word": "Manipulative",
+            "sentence_en": "Stop being manipulative and just ask for what you want.",
+            "sentence_ko": "교묘하게 조종하려 들지 말고 원하는 걸 그냥 말하세요.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Manipulative",
+            "sentence_en": "She realized her friend was manipulative and selfish.",
+            "sentence_ko": "그녀는 친구가 사람을 조종하려 하고 이기적이라는 것을 깨달았습니다.",
+            "tags": [
+                "relationship",
+                "emotion",
+                "friendship"
+            ]
+        },
+        {
+            "word": "Manipulative",
+            "sentence_en": "Manipulative advertising can trick people into buying things.",
+            "sentence_ko": "교묘한 광고는 사람들이 물건을 사도록 속일 수 있습니다.",
+            "tags": [
+                "marketing",
+                "shopping",
+                "business"
+            ]
+        },
+        {
+            "word": "Manipulative",
+            "sentence_en": "He used manipulative tactics to win the argument.",
+            "sentence_ko": "그는 논쟁에서 이기기 위해 교활한 전술을 썼습니다.",
+            "tags": [
+                "conversation",
+                "conflict",
+                "logic"
+            ]
+        },
+        {
+            "word": "Influential",
+            "sentence_en": "She is one of the most influential people in the tech industry.",
+            "sentence_ko": "그녀는 기술 업계에서 가장 영향력 있는 인물 중 하나입니다.",
+            "tags": [
+                "code",
+                "tech",
+                "career"
+            ]
+        },
+        {
+            "word": "Influential",
+            "sentence_en": "His influential speech changed my perspective on life.",
+            "sentence_ko": "그의 영향력 있는 연설은 제 인생관을 바꾸어 놓았습니다.",
+            "tags": [
+                "learning",
+                "conversation",
+                "warm"
+            ]
+        },
+        {
+            "word": "Influential",
+            "sentence_en": "Parents are influential figures in a child's development.",
+            "sentence_ko": "부모는 아동 발달에 영향력 있는 인물입니다.",
+            "tags": [
+                "family",
+                "home",
+                "parenting"
+            ]
+        },
+        {
+            "word": "Influential",
+            "sentence_en": "This book was very influential in the 20th century.",
+            "sentence_ko": "이 책은 20세기에 매우 영향력이 있었습니다.",
+            "tags": [
+                "learning",
+                "reading",
+                "history"
+            ]
+        },
+        {
+            "word": "Influential",
+            "sentence_en": "Influential bloggers can help market your product.",
+            "sentence_ko": "영향력 있는 블로거들은 제품 마케팅에 도움을 줄 수 있습니다.",
+            "tags": [
+                "marketing",
+                "business",
+                "internet"
+            ]
+        },
+        {
+            "word": "Critical",
+            "sentence_en": "It is critical to fix this bug before the release.",
+            "sentence_ko": "출시 전에 이 버그를 수정하는 것이 결정적으로 중요합니다.",
+            "tags": [
+                "code",
+                "tech",
+                "work"
+            ]
+        },
+        {
+            "word": "Critical",
+            "sentence_en": "Stop being so critical of everything I do.",
+            "sentence_ko": "내가 하는 모든 일에 대해 그렇게 비판적으로 굴지 마세요.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Critical",
+            "sentence_en": "The movie received critical acclaim from experts.",
+            "sentence_ko": "그 영화는 전문가들로부터 비평가들의 찬사를 받았습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "review"
+            ]
+        },
+        {
+            "word": "Critical",
+            "sentence_en": "Critical thinking is an essential skill for coding.",
+            "sentence_ko": "비판적 사고는 코딩에 필수적인 기술입니다.",
+            "tags": [
+                "code",
+                "learning",
+                "logic"
+            ]
+        },
+        {
+            "word": "Critical",
+            "sentence_en": "The patient is in critical condition at the hospital.",
+            "sentence_ko": "그 환자는 병원에서 위독한(중대한) 상태입니다.",
+            "tags": [
+                "health",
+                "news",
+                "emergency"
+            ]
+        },
+        {
+            "word": "Judgmental",
+            "sentence_en": "Don't be so judgmental about his fashion choices.",
+            "sentence_ko": "그의 패션 선택에 대해 너무 섣불리 판단하지 마세요.",
+            "tags": [
+                "conversation",
+                "fashion",
+                "relationship"
+            ]
+        },
+        {
+            "word": "Judgmental",
+            "sentence_en": "She felt her mother was being judgmental about her job.",
+            "sentence_ko": "그녀는 어머니가 자신의 직업을 안 좋게 판단하고 있다고 느꼈습니다.",
+            "tags": [
+                "family",
+                "home",
+                "career"
+            ]
+        },
+        {
+            "word": "Judgmental",
+            "sentence_en": "A judgmental attitude can push friends away.",
+            "sentence_ko": "남을 섣불리 판단하는 태도는 친구들을 멀어지게 할 수 있습니다.",
+            "tags": [
+                "relationship",
+                "social",
+                "friendship"
+            ]
+        },
+        {
+            "word": "Judgmental",
+            "sentence_en": "Try to listen without being judgmental.",
+            "sentence_ko": "비판하지 말고 들어주도록 노력해 보세요.",
+            "tags": [
+                "conversation",
+                "warm",
+                "counseling"
+            ]
+        },
+        {
+            "word": "Judgmental",
+            "sentence_en": "He gave me a judgmental look when I ordered a second burger.",
+            "sentence_ko": "내가 햄버거를 하나 더 시키자 그는 나를 비판하는 듯한 눈빛으로 쳐다봤습니다.",
+            "tags": [
+                "food",
+                "conversation",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Apologetic",
+            "sentence_en": "He was very apologetic about forgetting our anniversary.",
+            "sentence_ko": "그는 우리의 기념일을 잊어버린 것에 대해 매우 미안해했습니다.",
+            "tags": [
+                "relationship",
+                "conversation",
+                "love"
+            ]
+        },
+        {
+            "word": "Apologetic",
+            "sentence_en": "The waiter was apologetic when he spilled the water.",
+            "sentence_ko": "웨이터는 물을 쏟았을 때 사과하는 태도를 보였습니다.",
+            "tags": [
+                "conversation",
+                "food",
+                "service"
+            ]
+        },
+        {
+            "word": "Apologetic",
+            "sentence_en": "She sent an apologetic email for missing the meeting.",
+            "sentence_ko": "그녀는 회의에 빠진 것에 대해 사과하는 이메일을 보냈습니다.",
+            "tags": [
+                "conversation",
+                "work",
+                "writing"
+            ]
+        },
+        {
+            "word": "Apologetic",
+            "sentence_en": "There is no need to be apologetic; it wasn't your fault.",
+            "sentence_ko": "미안해할 필요 없습니다. 당신 잘못이 아니에요.",
+            "tags": [
+                "warm",
+                "conversation",
+                "comfort"
+            ]
+        },
+        {
+            "word": "Apologetic",
+            "sentence_en": "His apologetic smile made me forgive him instantly.",
+            "sentence_ko": "그의 미안해하는 미소에 나는 즉시 그를 용서했습니다.",
+            "tags": [
+                "relationship",
+                "warm",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Agreeable",
+            "sentence_en": "We spent an agreeable afternoon walking in the park.",
+            "sentence_ko": "우리는 공원을 산책하며 기분 좋은 오후를 보냈습니다.",
+            "tags": [
+                "warm",
+                "leisure",
+                "nature"
+            ]
+        },
+        {
+            "word": "Agreeable",
+            "sentence_en": "He is an agreeable person who gets along with everyone.",
+            "sentence_ko": "그는 누구와도 잘 어울리는 상냥한 사람입니다.",
+            "tags": [
+                "relationship",
+                "personality",
+                "social"
+            ]
+        },
+        {
+            "word": "Agreeable",
+            "sentence_en": "If the terms are agreeable, please sign the contract.",
+            "sentence_ko": "조건이 마음에 드시면(동의하시면) 계약서에 서명해 주세요.",
+            "tags": [
+                "business",
+                "conversation",
+                "shopping"
+            ]
+        },
+        {
+            "word": "Agreeable",
+            "sentence_en": "The weather was agreeable for a soccer match.",
+            "sentence_ko": "날씨가 축구 경기를 하기에 아주 쾌적했습니다.",
+            "tags": [
+                "soccer",
+                "weather",
+                "sport"
+            ]
+        },
+        {
+            "word": "Agreeable",
+            "sentence_en": "We reached an agreeable solution to the problem.",
+            "sentence_ko": "우리는 그 문제에 대해 서로 만족할 만한 해결책에 도달했습니다.",
+            "tags": [
+                "conversation",
+                "conflict",
+                "resolution"
+            ]
+        },
+        {
+            "word": "Disagreeable",
+            "sentence_en": "The medicine had a very disagreeable taste.",
+            "sentence_ko": "그 약은 매우 불쾌한 맛이 났습니다.",
+            "tags": [
+                "health",
+                "food",
+                "taste"
+            ]
+        },
+        {
+            "word": "Disagreeable",
+            "sentence_en": "He can be quite disagreeable when he is hungry.",
+            "sentence_ko": "그는 배가 고플 때 꽤 까칠해질 수 있습니다.",
+            "tags": [
+                "conversation",
+                "personality",
+                "food"
+            ]
+        },
+        {
+            "word": "Disagreeable",
+            "sentence_en": "It was a disagreeable task, but someone had to do it.",
+            "sentence_ko": "그것은 불쾌한 일이었지만, 누군가는 해야 했습니다.",
+            "tags": [
+                "work",
+                "conversation",
+                "duty"
+            ]
+        },
+        {
+            "word": "Disagreeable",
+            "sentence_en": "Don't let a disagreeable encounter ruin your day.",
+            "sentence_ko": "불쾌한 만남으로 하루를 망치지 마세요.",
+            "tags": [
+                "emotion",
+                "warm",
+                "advice"
+            ]
+        },
+        {
+            "word": "Disagreeable",
+            "sentence_en": "The damp weather was disagreeable for camping.",
+            "sentence_ko": "축축한 날씨는 캠핑하기에 좋지 않았습니다.",
+            "tags": [
+                "weather",
+                "entertainment",
+                "outdoor"
+            ]
+        },
+        {
+            "word": "Argumentative",
+            "sentence_en": "He becomes argumentative whenever we talk about politics.",
+            "sentence_ko": "우리가 정치 이야기를 할 때마다 그는 논쟁적으로 변합니다.",
+            "tags": [
+                "conversation",
+                "conflict",
+                "politics"
+            ]
+        },
+        {
+            "word": "Argumentative",
+            "sentence_en": "The argumentative student challenged every point the teacher made.",
+            "sentence_ko": "그 논쟁적인 학생은 선생님의 모든 주장에 이의를 제기했습니다.",
+            "tags": [
+                "learning",
+                "school",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Argumentative",
+            "sentence_en": "Don't be so argumentative; just enjoy the movie.",
+            "sentence_ko": "너무 따지지 말고 그냥 영화를 즐기세요.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "conversation"
+            ]
+        },
+        {
+            "word": "Argumentative",
+            "sentence_en": "Her argumentative nature makes it hard to collaborate on code.",
+            "sentence_ko": "그녀의 논쟁적인 성격 때문에 코딩 협업을 하기가 어렵습니다.",
+            "tags": [
+                "code",
+                "work",
+                "teamwork"
+            ]
+        },
+        {
+            "word": "Argumentative",
+            "sentence_en": "Being argumentative does not always mean you are smart.",
+            "sentence_ko": "논쟁을 좋아한다고 해서 항상 똑똑한 것은 아닙니다.",
+            "tags": [
+                "learning",
+                "character",
+                "social"
+            ]
+        },
+        {
+            "word": "Diplomatic",
+            "sentence_en": "She gave a diplomatic answer to avoid hurting his feelings.",
+            "sentence_ko": "그녀는 그의 감정을 상하게 하지 않으려고 외교적인(요령 있는) 대답을 했습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "warm"
+            ]
+        },
+        {
+            "word": "Diplomatic",
+            "sentence_en": "You need to be diplomatic when handling customer complaints.",
+            "sentence_ko": "고객 불만을 처리할 때는 요령이 있어야 합니다.",
+            "tags": [
+                "business",
+                "conversation",
+                "shopping"
+            ]
+        },
+        {
+            "word": "Diplomatic",
+            "sentence_en": "We need a diplomatic solution to this family dispute.",
+            "sentence_ko": "이 가족 분쟁에는 외교적인 해결책이 필요합니다.",
+            "tags": [
+                "family",
+                "home",
+                "conflict"
+            ]
+        },
+        {
+            "word": "Diplomatic",
+            "sentence_en": "He is very diplomatic and good at solving conflicts.",
+            "sentence_ko": "그는 매우 수완이 좋고 갈등 해결에 능합니다.",
+            "tags": [
+                "personality",
+                "social",
+                "work"
+            ]
+        },
+        {
+            "word": "Diplomatic",
+            "sentence_en": "Diplomatic relations between the two countries have improved.",
+            "sentence_ko": "두 나라 간의 외교 관계가 개선되었습니다.",
+            "tags": [
+                "news",
+                "politics",
+                "world"
+            ]
+        },
+        {
+            "word": "Tactful",
+            "sentence_en": "He was tactful enough not to mention her failure.",
+            "sentence_ko": "그는 그녀의 실패를 언급하지 않을 만큼 재치가 있었습니다.",
+            "tags": [
+                "conversation",
+                "relationship",
+                "warm"
+            ]
+        },
+        {
+            "word": "Tactful",
+            "sentence_en": "A tactful suggestion is better than a blunt command.",
+            "sentence_ko": "재치 있는 제안이 직설적인 명령보다 낫습니다.",
+            "tags": [
+                "conversation",
+                "learning",
+                "advice"
+            ]
+        },
+        {
+            "word": "Tactful",
+            "sentence_en": "Be tactful when you ask for a refund.",
+            "sentence_ko": "환불을 요청할 때는 요령 있게(예의 바르게) 하세요.",
+            "tags": [
+                "shopping",
+                "conversation",
+                "money"
+            ]
+        },
+        {
+            "word": "Tactful",
+            "sentence_en": "She tried to be tactful about the bad food.",
+            "sentence_ko": "그녀는 맛없는 음식에 대해 눈치껏(조심스럽게) 말하려고 노력했습니다.",
+            "tags": [
+                "food",
+                "conversation",
+                "politeness"
+            ]
+        },
+        {
+            "word": "Tactful",
+            "sentence_en": "It wasn't very tactful to laugh at his mistake.",
+            "sentence_ko": "그의 실수를 비웃은 것은 별로 재치 있는 행동이 아니었습니다.",
+            "tags": [
+                "social",
+                "conversation",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Harsh",
+            "sentence_en": "The lighting in this room is too harsh for relaxing.",
+            "sentence_ko": "이 방의 조명은 휴식을 취하기엔 너무 강렬합니다.",
+            "tags": [
+                "home",
+                "environment",
+                "comfort"
+            ]
+        },
+        {
+            "word": "Harsh",
+            "sentence_en": "His harsh words left a deep scar on their relationship.",
+            "sentence_ko": "그의 가혹한 말은 그들의 관계에 깊은 상처를 남겼습니다.",
+            "tags": [
+                "relationship",
+                "conflict",
+                "emotion"
+            ]
+        },
+        {
+            "word": "Harsh",
+            "sentence_en": "The soccer players trained in harsh weather conditions.",
+            "sentence_ko": "축구 선수들은 가혹한 날씨 조건 속에서 훈련했습니다.",
+            "tags": [
+                "soccer",
+                "sport",
+                "weather"
+            ]
+        },
+        {
+            "word": "Harsh",
+            "sentence_en": "Don't be too harsh on yourself for making a mistake.",
+            "sentence_ko": "실수한 자신에게 너무 가혹하게 굴지 마세요.",
+            "tags": [
+                "warm",
+                "learning",
+                "comfort"
+            ]
+        },
+        {
+            "word": "Harsh",
+            "sentence_en": "The movie received harsh reviews from critics.",
+            "sentence_ko": "그 영화는 비평가들로부터 혹평을 받았습니다.",
+            "tags": [
+                "movie",
+                "entertainment",
+                "news"
+            ]
+        },
+        {
+            "word": "Gentle",
+            "sentence_en": "Be gentle with the baby; he is sleeping.",
+            "sentence_ko": "아기에게 부드럽게 대해 주세요. 자고 있거든요.",
+            "tags": [
+                "family",
+                "home",
+                "warm"
+            ]
+        },
+        {
+            "word": "Gentle",
+            "sentence_en": "She gave me a gentle reminder about the deadline.",
+            "sentence_ko": "그녀는 나에게 마감 기한에 대해 부드럽게 상기시켜 주었습니다.",
+            "tags": [
+                "conversation",
+                "work",
+                "relationship"
+            ]
+        },
+        {
+            "word": "Gentle",
+            "sentence_en": "Use a gentle soap for sensitive skin.",
+            "sentence_ko": "민감한 피부에는 순한 비누를 사용하세요.",
+            "tags": [
+                "health",
+                "shopping",
+                "care"
+            ]
+        },
+        {
+            "word": "Gentle",
+            "sentence_en": "A gentle breeze blew through the open window.",
+            "sentence_ko": "열린 창문으로 온화한 산들바람이 불어왔습니다.",
+            "tags": [
+                "home",
+                "weather",
+                "feeling"
+            ]
+        },
+        {
+            "word": "Gentle",
+            "sentence_en": "He has a gentle voice that calms everyone down.",
+            "sentence_ko": "그는 모두를 차분하게 만드는 온화한 목소리를 가졌습니다.",
+            "tags": [
+                "conversation",
+                "warm",
+                "character"
+            ]
+        }
+    ]
+}

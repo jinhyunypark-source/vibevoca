@@ -1,0 +1,212 @@
+[
+  {
+    "card_id": "32440480-38bb-4a82-b6e8-79e08e860b52",
+    "word": "Poor",
+    "meaning": "가난한 (일반적인 표현)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "11e81b38-962f-4d6a-a163-da231e6036ac",
+    "word": "Destitute",
+    "meaning": "극빈한 (가진 것이 아무것도 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "0761448e-08a4-4419-aa2b-57f116239aa8",
+    "word": "Impoverished",
+    "meaning": "빈곤해진 (가난하게 된/열악한)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "d87d9e7c-7d4b-4f61-a439-62516fa07b2d",
+    "word": "Indigent",
+    "meaning": "곤궁한 (생필품이 부족한 - 격식)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "ca52ceb1-f1df-4511-8dcc-fe0731f961f6",
+    "word": "Needy",
+    "meaning": "어려운, 궁핍한 (도움이 필요한)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "b1a75040-b2f3-4ca6-b25f-bf46b3a688ea",
+    "word": "Penniless",
+    "meaning": "무일푼의 (동전 한 푼 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "1d9bff36-08cb-4bbb-8f7f-917cb69928e6",
+    "word": "Broke",
+    "meaning": "빈털터리인 (돈이 다 떨어진 - 구어체)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "8055034e-e358-4080-a1e9-54878015ffb0",
+    "word": "Deprived",
+    "meaning": "궁핍한, 불우한 (필수적인 것을 못 누리는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "df95b2fc-f14d-4b18-ac7a-ba62034e9bfa",
+    "word": "Bankrupt",
+    "meaning": "파산한 (법적으로 빚을 갚을 수 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "c5867c0c-9419-45bf-952e-966c4c06a1e1",
+    "word": "Insolvent",
+    "meaning": "지불 불능의 (빚이 자산보다 많은)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "b0c50161-8495-4b84-a4e2-f09679820df3",
+    "word": "Bust",
+    "meaning": "파산한 (망한 - 구어체)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "c91c066e-e846-4576-a99d-00b8d0248a47",
+    "word": "In debt",
+    "meaning": "빚을 진",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "f5912933-f0cd-4f86-9206-1e1c4f20d99d",
+    "word": "Hard up",
+    "meaning": "돈에 쪼들리는 (돈이 부족한)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "1ab74049-b62a-40ae-b215-03ec878ef966",
+    "word": "Strapped",
+    "meaning": "돈이 궁한 (현금이 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "e13c0718-202c-4c6e-8334-444820677844",
+    "word": "Short",
+    "meaning": "부족한 (돈이 모자라는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "dda59643-1b73-44a7-8d0f-8b14bf8c0db0",
+    "word": "Pinched",
+    "meaning": "쪼들리는 (경제적으로 압박받는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "e9e083b1-96aa-42b4-a32e-1d6f686a1734",
+    "word": "Squalid",
+    "meaning": "지저분한, 불결한 (가난으로 더러운)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "f0ba6aa1-3bbe-4537-8d9f-0fa1e000f0f3",
+    "word": "Underprivileged",
+    "meaning": "혜택 받지 못한 (사회적/경제적으로 낮은)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "a2975127-152d-42f8-aea5-0c9c3b794900",
+    "word": "Low-income",
+    "meaning": "저소득의 (수입이 적은)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "e167b5bd-7768-4f50-b5b1-2cb13107b014",
+    "word": "Subsistence",
+    "meaning": "최저 생계의 (겨우 먹고사는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "35ab2162-012b-49fb-a216-ff203867bc32",
+    "word": "Hand-to-mouth",
+    "meaning": "하루 벌어 하루 먹는 (저축 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "8ee477c8-5463-4fc0-a64b-4cd87684b604",
+    "word": "Penury",
+    "meaning": "극빈 (지독한 가난 - 명사)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "72eaedd3-e299-4fa0-9024-f7601d174485",
+    "word": "Pauper",
+    "meaning": "빈민, 극빈자 (거지)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "9f6c13bf-6c10-4abc-9ad5-99c53c03c9c2",
+    "word": "Beggar",
+    "meaning": "거지 (구걸하는 사람)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "947715b9-cfdc-4b11-a040-b1a1b08c17c5",
+    "word": "Hardship",
+    "meaning": "곤란, 고난 (경제적 어려움)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "e4d66399-d333-45f0-abf4-afffb5360064",
+    "word": "Adversity",
+    "meaning": "역경 (불운과 어려움)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "7b1433f6-94f5-421f-8741-084637e0b09e",
+    "word": "Default",
+    "meaning": "채무 불이행 (빚을 못 갚음)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "ebbd77e6-1723-425a-9709-1e76d959908c",
+    "word": "Ruined",
+    "meaning": "파산한, 망한 (완전히 무너진)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "f5f32aed-36a7-40a3-9ac9-5552c1a65e34",
+    "word": "Tight",
+    "meaning": "빠듯한 (여유가 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  },
+  {
+    "card_id": "20eff885-0a43-4b38-a4c9-b241769541fb",
+    "word": "Skint",
+    "meaning": "빈털터리인 (영국 속어: 돈이 없는)",
+    "deck_id": "48370bd5-3dbc-4ea5-a905-0acfb089b4a1",
+    "deck_name": "POVERTY_HARDSHIP"
+  }
+]

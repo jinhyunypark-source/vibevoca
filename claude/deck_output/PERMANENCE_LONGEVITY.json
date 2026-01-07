@@ -1,0 +1,906 @@
+{
+  "deck_title": "PERMANENCE_LONGEVITY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Eternal",
+      "sentence_en": "They promised eternal love to each other during the wedding ceremony.",
+      "sentence_ko": "그들은 결혼식에서 서로에게 영원한 사랑을 맹세했습니다.",
+      "tags": ["happy", "conversation", "mood"]
+    },
+    {
+      "word": "Eternal",
+      "sentence_en": "Be careful not to create an eternal loop when writing this code.",
+      "sentence_ko": "이 코드를 작성할 때 무한 루프(영원한 반복)를 만들지 않도록 주의하세요.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Eternal",
+      "sentence_en": "Some philosophers spend their lives searching for eternal truth.",
+      "sentence_ko": "어떤 철학자들은 영원한 진리를 찾으며 평생을 보냅니다.",
+      "tags": ["conversation", "time", "hobby"]
+    },
+    {
+      "word": "Eternal",
+      "sentence_en": "The diamond is often marketed as a symbol of eternal beauty.",
+      "sentence_ko": "다이아몬드는 종종 영원한 아름다움의 상징으로 마케팅됩니다.",
+      "tags": ["fashion", "business", "happy"]
+    },
+    {
+      "word": "Eternal",
+      "sentence_en": "We must protect nature to ensure the eternal survival of our planet.",
+      "sentence_ko": "우리 행성의 영원한 생존을 보장하기 위해 자연을 보호해야 합니다.",
+      "tags": ["environment", "time", "conversation"]
+    },
+    {
+      "word": "Perpetual",
+      "sentence_en": "We decided to buy a perpetual license for the software instead of a subscription.",
+      "sentence_ko": "우리는 구독 대신 그 소프트웨어의 영구 라이선스를 구매하기로 결정했습니다.",
+      "tags": ["technology", "business", "code"]
+    },
+    {
+      "word": "Perpetual",
+      "sentence_en": "His perpetual optimism keeps the team happy even during tough times.",
+      "sentence_ko": "그의 끊임없는 낙관주의는 힘든 시기에도 팀을 행복하게 만듭니다.",
+      "tags": ["happy", "mood", "business"]
+    },
+    {
+      "word": "Perpetual",
+      "sentence_en": "The perpetual noise from the construction site is annoying.",
+      "sentence_ko": "공사장의 끊임없는 소음이 짜증을 유발합니다.",
+      "tags": ["environment", "mood", "conversation"]
+    },
+    {
+      "word": "Perpetual",
+      "sentence_en": "Fashion seems to be in a state of perpetual change.",
+      "sentence_ko": "패션은 끊임없이 변화하는 상태에 있는 것 같습니다.",
+      "tags": ["fashion", "time", "business"]
+    },
+    {
+      "word": "Perpetual",
+      "sentence_en": "Scientists have long dreamed of creating a perpetual motion machine.",
+      "sentence_ko": "과학자들은 오랫동안 영구 기관을 만드는 꿈을 꾸어왔습니다.",
+      "tags": ["technology", "code", "hobby"]
+    },
+    {
+      "word": "Everlasting",
+      "sentence_en": "I want to build a business that leaves an everlasting impact on society.",
+      "sentence_ko": "저는 사회에 영속적인 영향을 남기는 비즈니스를 만들고 싶습니다.",
+      "tags": ["business", "conversation", "time"]
+    },
+    {
+      "word": "Everlasting",
+      "sentence_en": "High-quality leather goods are known for their everlasting style.",
+      "sentence_ko": "고품질 가죽 제품은 유행을 타지 않는 영속적인 스타일로 유명합니다.",
+      "tags": ["fashion", "hobby", "business"]
+    },
+    {
+      "word": "Everlasting",
+      "sentence_en": "The battery life isn't everlasting, so bring a charger.",
+      "sentence_ko": "배터리 수명이 영원한 건 아니니 충전기를 챙기세요.",
+      "tags": ["technology", "code", "travel"]
+    },
+    {
+      "word": "Everlasting",
+      "sentence_en": "We shared stories and made everlasting memories on our trip.",
+      "sentence_ko": "우리는 여행에서 이야기를 나누며 영원히 남을 추억을 만들었습니다.",
+      "tags": ["happy", "conversation", "mood"]
+    },
+    {
+      "word": "Everlasting",
+      "sentence_en": "Plastic waste is an everlasting problem for the environment.",
+      "sentence_ko": "플라스틱 쓰레기는 환경에 있어 영구적인 문제입니다.",
+      "tags": ["environment", "time", "business"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "The possibilities for creating new apps are practically infinite.",
+      "sentence_ko": "새로운 앱을 만들 수 있는 가능성은 사실상 무한합니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "Looking at the infinite stars in the sky improves my mood.",
+      "sentence_ko": "하늘에 있는 무한한 별들을 바라보니 기분이 좋아집니다.",
+      "tags": ["mood", "environment", "happy"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "She has infinite patience when listening to her customers.",
+      "sentence_ko": "그녀는 고객의 말을 들을 때 무한한 인내심을 보입니다.",
+      "tags": ["business", "conversation", "mood"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "The infinite loop caused the program to freeze completely.",
+      "sentence_ko": "무한 루프 때문에 프로그램이 완전히 멈췄습니다.",
+      "tags": ["code", "technology", "time"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "Social media feeds provide an infinite scroll of content.",
+      "sentence_ko": "소셜 미디어 피드는 콘텐츠의 무한 스크롤을 제공합니다.",
+      "tags": ["technology", "time", "hobby"]
+    },
+    {
+      "word": "Enduring",
+      "sentence_en": "Denim is an enduring fabric that never goes out of fashion.",
+      "sentence_ko": "데님은 유행을 타지 않고 오래가는 직물입니다.",
+      "tags": ["fashion", "time", "business"]
+    },
+    {
+      "word": "Enduring",
+      "sentence_en": "Their enduring friendship survived years of living apart.",
+      "sentence_ko": "그들의 오래된 우정은 수년간 떨어져 지내는 것도 견뎌냈습니다.",
+      "tags": ["happy", "conversation", "mood"]
+    },
+    {
+      "word": "Enduring",
+      "sentence_en": "Building an enduring brand requires trust and consistency.",
+      "sentence_ko": "지속 가능한 브랜드를 구축하려면 신뢰와 일관성이 필요합니다.",
+      "tags": ["business", "time", "strategy"]
+    },
+    {
+      "word": "Enduring",
+      "sentence_en": "We need enduring solutions to protect our environment.",
+      "sentence_ko": "우리는 환경을 보호하기 위해 오래 지속되는 해결책이 필요합니다.",
+      "tags": ["environment", "technology", "code"]
+    },
+    {
+      "word": "Enduring",
+      "sentence_en": "His enduring passion for coding led him to become a great developer.",
+      "sentence_ko": "코딩에 대한 그의 지속적인 열정이 그를 훌륭한 개발자로 이끌었습니다.",
+      "tags": ["code", "technology", "hobby"]
+    },
+    {
+      "word": "Permanent",
+      "sentence_en": "Are you looking for a temporary gig or a permanent position?",
+      "sentence_ko": "임시직을 찾고 계신가요, 아니면 정규직(영구적인 자리)을 찾고 계신가요?",
+      "tags": ["business", "conversation", "time"]
+    },
+    {
+      "word": "Permanent",
+      "sentence_en": "Once you delete this file, the loss is permanent.",
+      "sentence_ko": "이 파일을 삭제하면 영구적으로 복구할 수 없습니다.",
+      "tags": ["technology", "code", "business"]
+    },
+    {
+      "word": "Permanent",
+      "sentence_en": "He used a permanent marker to sign the autograph.",
+      "sentence_ko": "그는 사인을 하기 위해 유성 매직을 사용했습니다.",
+      "tags": ["hobby", "conversation", "fashion"]
+    },
+    {
+      "word": "Permanent",
+      "sentence_en": "Climate change is causing permanent damage to the ecosystem.",
+      "sentence_ko": "기후 변화는 생태계에 영구적인 손상을 입히고 있습니다.",
+      "tags": ["environment", "time", "technology"]
+    },
+    {
+      "word": "Permanent",
+      "sentence_en": "Establishing a permanent residence in a new country takes time.",
+      "sentence_ko": "새로운 나라에 영구적인 거주지를 마련하는 것은 시간이 걸립니다.",
+      "tags": ["conversation", "time", "business"]
+    },
+    {
+      "word": "Chronic",
+      "sentence_en": "The system suffers from chronic lag due to old hardware.",
+      "sentence_ko": "그 시스템은 오래된 하드웨어 때문에 만성적인 렉(지연)에 시달립니다.",
+      "tags": ["technology", "code", "time"]
+    },
+    {
+      "word": "Chronic",
+      "sentence_en": "Chronic lateness is not acceptable in our business culture.",
+      "sentence_ko": "만성적인 지각은 우리 비즈니스 문화에서 용납되지 않습니다.",
+      "tags": ["business", "time", "conversation"]
+    },
+    {
+      "word": "Chronic",
+      "sentence_en": "She has a chronic pain in her back from sitting too long.",
+      "sentence_ko": "그녀는 너무 오래 앉아 있어서 만성적인 허리 통증이 있습니다.",
+      "tags": ["mood", "health", "time"]
+    },
+    {
+      "word": "Chronic",
+      "sentence_en": "Pollution has become a chronic issue in major cities.",
+      "sentence_ko": "오염은 대도시들의 만성적인 문제가 되었습니다.",
+      "tags": ["environment", "business", "technology"]
+    },
+    {
+      "word": "Chronic",
+      "sentence_en": "He is a chronic complainer, which affects the team's mood.",
+      "sentence_ko": "그는 습관적으로 불평하는 사람이라 팀 분위기에 영향을 줍니다.",
+      "tags": ["mood", "conversation", "business"]
+    },
+    {
+      "word": "Prolonged",
+      "sentence_en": "Prolonged exposure to the sun can damage your skin.",
+      "sentence_ko": "장시간 햇볕에 노출되면 피부가 상할 수 있습니다.",
+      "tags": ["environment", "fashion", "health"]
+    },
+    {
+      "word": "Prolonged",
+      "sentence_en": "The meeting was prolonged because of the heated debate.",
+      "sentence_ko": "격렬한 토론 때문에 회의가 연장되었습니다.",
+      "tags": ["business", "conversation", "time"]
+    },
+    {
+      "word": "Prolonged",
+      "sentence_en": "Using the laptop for a prolonged period drains the battery quickly.",
+      "sentence_ko": "노트북을 장시간 사용하면 배터리가 빨리 닳습니다.",
+      "tags": ["technology", "code", "time"]
+    },
+    {
+      "word": "Prolonged",
+      "sentence_en": "A prolonged silence made the conversation awkward.",
+      "sentence_ko": "길어진 침묵이 대화를 어색하게 만들었습니다.",
+      "tags": ["conversation", "mood", "relationship"]
+    },
+    {
+      "word": "Prolonged",
+      "sentence_en": "The prolonged economic downturn affected many small businesses.",
+      "sentence_ko": "장기화된 경기 침체가 많은 소상공인에게 영향을 미쳤습니다.",
+      "tags": ["business", "time", "environment"]
+    },
+    {
+      "word": "Protracted",
+      "sentence_en": "The protracted legal battle cost the company a lot of money.",
+      "sentence_ko": "오래 끈 법정 다툼으로 회사는 많은 돈을 썼습니다.",
+      "tags": ["business", "time", "conversation"]
+    },
+    {
+      "word": "Protracted",
+      "sentence_en": "A protracted development cycle can delay the software launch.",
+      "sentence_ko": "개발 주기가 지루하게 길어지면 소프트웨어 출시가 지연될 수 있습니다.",
+      "tags": ["technology", "code", "business"]
+    },
+    {
+      "word": "Protracted",
+      "sentence_en": "The negotiation was protracted, lasting several weeks.",
+      "sentence_ko": "협상이 질질 끌며 몇 주 동안 지속되었습니다.",
+      "tags": ["business", "conversation", "time"]
+    },
+    {
+      "word": "Protracted",
+      "sentence_en": "Protracted conflict destroys the environment and people's lives.",
+      "sentence_ko": "오래 지속되는 분쟁은 환경과 사람들의 삶을 파괴합니다.",
+      "tags": ["environment", "time", "mood"]
+    },
+    {
+      "word": "Protracted",
+      "sentence_en": "Everyone was tired after the protracted discussion.",
+      "sentence_ko": "지루하게 이어진 토론 후 모두가 지쳤습니다.",
+      "tags": ["mood", "conversation", "business"]
+    },
+    {
+      "word": "Incessant",
+      "sentence_en": "The incessant notifications on my phone are distracting.",
+      "sentence_ko": "휴대폰의 끊임없는 알림 때문에 정신이 산만합니다.",
+      "tags": ["technology", "code", "mood"]
+    },
+    {
+      "word": "Incessant",
+      "sentence_en": "I couldn't sleep because of the incessant rain outside.",
+      "sentence_ko": "밖에 끊임없이 내리는 비 때문에 잠을 잘 수가 없었습니다.",
+      "tags": ["environment", "mood", "time"]
+    },
+    {
+      "word": "Incessant",
+      "sentence_en": "Her incessant chatting makes it hard to focus on business.",
+      "sentence_ko": "그녀의 끊임없는 수다 때문에 업무에 집중하기가 힘듭니다.",
+      "tags": ["business", "conversation", "mood"]
+    },
+    {
+      "word": "Incessant",
+      "sentence_en": "The incessant changes in fashion trends can be exhausting.",
+      "sentence_ko": "패션 트렌드의 끊임없는 변화는 피곤할 수 있습니다.",
+      "tags": ["fashion", "time", "business"]
+    },
+    {
+      "word": "Incessant",
+      "sentence_en": "Developers face incessant demands for new features.",
+      "sentence_ko": "개발자들은 새로운 기능에 대한 끊임없는 요구에 직면합니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Ceaseless",
+      "sentence_en": "The ceaseless waves of the ocean are calming to watch.",
+      "sentence_ko": "쉬지 않고 치는 바다의 파도를 보는 것은 마음을 차분하게 해줍니다.",
+      "tags": ["environment", "mood", "happy"]
+    },
+    {
+      "word": "Ceaseless",
+      "sentence_en": "Technology evolves through ceaseless innovation.",
+      "sentence_ko": "기술은 끊임없는 혁신을 통해 진화합니다.",
+      "tags": ["technology", "code", "business"]
+    },
+    {
+      "word": "Ceaseless",
+      "sentence_en": "His ceaseless efforts finally led to a successful business.",
+      "sentence_ko": "그의 끊임없는 노력은 마침내 성공적인 비즈니스로 이어졌습니다.",
+      "tags": ["business", "happy", "time"]
+    },
+    {
+      "word": "Ceaseless",
+      "sentence_en": "The city is known for its ceaseless energy and nightlife.",
+      "sentence_ko": "그 도시는 끊임없는 에너지와 밤 문화로 유명합니다.",
+      "tags": ["mood", "conversation", "travel"]
+    },
+    {
+      "word": "Ceaseless",
+      "sentence_en": "Maintaining a garden requires ceaseless care.",
+      "sentence_ko": "정원을 가꾸는 일은 쉬지 않는 보살핌을 필요로 합니다.",
+      "tags": ["hobby", "environment", "time"]
+    },
+    {
+      "word": "Unending",
+      "sentence_en": "The list of bugs to fix seems unending.",
+      "sentence_ko": "고쳐야 할 버그 리스트가 끝이 없는 것 같습니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Unending",
+      "sentence_en": "We drove down the unending highway through the desert.",
+      "sentence_ko": "우리는 사막을 가로지르는 끝없는 고속도로를 달렸습니다.",
+      "tags": ["environment", "conversation", "travel"]
+    },
+    {
+      "word": "Unending",
+      "sentence_en": "Their conversation was an unending stream of jokes.",
+      "sentence_ko": "그들의 대화는 끝없는 농담의 연속이었습니다.",
+      "tags": ["conversation", "happy", "mood"]
+    },
+    {
+      "word": "Unending",
+      "sentence_en": "Fashion offers an unending variety of styles to explore.",
+      "sentence_ko": "패션은 탐구할 수 있는 끝없는 스타일의 다양성을 제공합니다.",
+      "tags": ["fashion", "hobby", "art"]
+    },
+    {
+      "word": "Unending",
+      "sentence_en": "The unending meetings today left me with no time to code.",
+      "sentence_ko": "오늘 끝없이 이어진 회의들 때문에 코딩할 시간이 없었습니다.",
+      "tags": ["business", "code", "time"]
+    },
+    {
+      "word": "Timeless",
+      "sentence_en": "A well-tailored suit is a timeless piece of fashion.",
+      "sentence_ko": "잘 재단된 정장은 유행을 타지 않는 패션 아이템입니다.",
+      "tags": ["fashion", "business", "hobby"]
+    },
+    {
+      "word": "Timeless",
+      "sentence_en": "Good code follows timeless principles of logic and structure.",
+      "sentence_ko": "좋은 코드는 논리와 구조라는 불변의 원칙을 따릅니다.",
+      "tags": ["code", "technology", "education"]
+    },
+    {
+      "word": "Timeless",
+      "sentence_en": "The melody of this song is truly timeless.",
+      "sentence_ko": "이 노래의 멜로디는 정말 세월이 흘러도 변치 않습니다.",
+      "tags": ["hobby", "happy", "mood"]
+    },
+    {
+      "word": "Timeless",
+      "sentence_en": "Grandmother gave me some timeless advice on relationships.",
+      "sentence_ko": "할머니께서 인간관계에 대한 변치 않는 조언을 해주셨습니다.",
+      "tags": ["conversation", "mood", "family"]
+    },
+    {
+      "word": "Timeless",
+      "sentence_en": "Nature possesses a timeless beauty that we must preserve.",
+      "sentence_ko": "자연은 우리가 보존해야 할 영원한 아름다움을 지니고 있습니다.",
+      "tags": ["environment", "happy", "time"]
+    },
+    {
+      "word": "Immortal",
+      "sentence_en": "Great artists become immortal through their work.",
+      "sentence_ko": "위대한 예술가들은 그들의 작품을 통해 불멸의 존재가 됩니다.",
+      "tags": ["hobby", "business", "time"]
+    },
+    {
+      "word": "Immortal",
+      "sentence_en": "In the game, your character can become immortal with this item.",
+      "sentence_ko": "게임에서 이 아이템을 쓰면 당신의 캐릭터는 불사신이 될 수 있습니다.",
+      "tags": ["technology", "code", "hobby"]
+    },
+    {
+      "word": "Immortal",
+      "sentence_en": "His brave words made him an immortal figure in history.",
+      "sentence_ko": "그의 용감한 말들은 그를 역사 속 불멸의 인물로 만들었습니다.",
+      "tags": ["conversation", "time", "education"]
+    },
+    {
+      "word": "Immortal",
+      "sentence_en": "Plastic does not decay, making it practically immortal trash.",
+      "sentence_ko": "플라스틱은 썩지 않아서 사실상 불멸의 쓰레기가 됩니다.",
+      "tags": ["environment", "technology", "time"]
+    },
+    {
+      "word": "Immortal",
+      "sentence_en": "They vowed their immortal love for each other.",
+      "sentence_ko": "그들은 서로에게 죽지 않는 영원한 사랑을 맹세했습니다.",
+      "tags": ["happy", "mood", "relationship"]
+    },
+    {
+      "word": "Abiding",
+      "sentence_en": "He has an abiding interest in vintage fashion.",
+      "sentence_ko": "그는 빈티지 패션에 대해 변함없는 관심을 가지고 있습니다.",
+      "tags": ["fashion", "hobby", "time"]
+    },
+    {
+      "word": "Abiding",
+      "sentence_en": "Our company has an abiding commitment to ethical business.",
+      "sentence_ko": "우리 회사는 윤리적 경영에 대한 지속적인 약속을 지키고 있습니다.",
+      "tags": ["business", "conversation", "ethics"]
+    },
+    {
+      "word": "Abiding",
+      "sentence_en": "She found abiding peace while walking in the forest.",
+      "sentence_ko": "그녀는 숲속을 걸으며 변함없는 평화를 느꼈습니다.",
+      "tags": ["environment", "mood", "happy"]
+    },
+    {
+      "word": "Abiding",
+      "sentence_en": "An abiding memory of my childhood is playing video games.",
+      "sentence_ko": "제 어린 시절의 잊혀지지 않는 추억은 비디오 게임을 하던 것입니다.",
+      "tags": ["technology", "hobby", "mood"]
+    },
+    {
+      "word": "Abiding",
+      "sentence_en": "Law-abiding citizens help maintain a safe society.",
+      "sentence_ko": "법을 준수하는 시민들은 안전한 사회를 유지하는 데 도움을 줍니다.",
+      "tags": ["conversation", "business", "society"]
+    },
+    {
+      "word": "Persisting",
+      "sentence_en": "Despite the patch, the error in the code is persisting.",
+      "sentence_ko": "패치에도 불구하고 코드의 오류가 지속되고 있습니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Persisting",
+      "sentence_en": "Persisting in your efforts is the key to mastering a hobby.",
+      "sentence_ko": "노력을 지속하는 것이 취미를 마스터하는 열쇠입니다.",
+      "tags": ["hobby", "time", "education"]
+    },
+    {
+      "word": "Persisting",
+      "sentence_en": "The persisting fog made driving dangerous.",
+      "sentence_ko": "계속 남아있는 안개가 운전을 위험하게 만들었습니다.",
+      "tags": ["environment", "mood", "travel"]
+    },
+    {
+      "word": "Persisting",
+      "sentence_en": "If the pain is persisting, you should see a doctor.",
+      "sentence_ko": "통증이 지속된다면 의사를 만나봐야 합니다.",
+      "tags": ["health", "conversation", "mood"]
+    },
+    {
+      "word": "Persisting",
+      "sentence_en": "Rumors about the merger are persisting in the office.",
+      "sentence_ko": "합병에 대한 소문이 사무실에서 계속 돌고 있습니다.",
+      "tags": ["business", "conversation", "mood"]
+    },
+    {
+      "word": "Lingering",
+      "sentence_en": "There is a lingering bug in the software that is hard to find.",
+      "sentence_ko": "소프트웨어에 찾기 힘든 버그가 계속 남아 있습니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Lingering",
+      "sentence_en": "The lingering scent of coffee made the cafe feel warm.",
+      "sentence_ko": "은은하게 남아있는 커피 향이 카페를 따뜻하게 느끼게 했습니다.",
+      "tags": ["mood", "environment", "happy"]
+    },
+    {
+      "word": "Lingering",
+      "sentence_en": "I have a lingering doubt about the business plan.",
+      "sentence_ko": "저는 그 사업 계획에 대해 여전히 의구심이 남아 있습니다.",
+      "tags": ["business", "conversation", "mood"]
+    },
+    {
+      "word": "Lingering",
+      "sentence_en": "We enjoyed a lingering sunset by the beach.",
+      "sentence_ko": "우리는 해변에서 오랫동안 머무는 노을을 즐겼습니다.",
+      "tags": ["environment", "happy", "time"]
+    },
+    {
+      "word": "Lingering",
+      "sentence_en": "He cast a lingering look at the beautiful fashion display.",
+      "sentence_ko": "그는 아름다운 패션 진열대에서 눈을 떼지 못하고 오랫동안 바라보았습니다.",
+      "tags": ["fashion", "hobby", "shopping"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "In programming, a constant is a value that does not change.",
+      "sentence_ko": "프로그래밍에서 상수(constant)는 변하지 않는 값을 의미합니다.",
+      "tags": ["code", "technology", "education"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "Her constant support makes me feel happy and confident.",
+      "sentence_ko": "그녀의 변함없는 지지는 저를 행복하고 자신감 있게 만듭니다.",
+      "tags": ["happy", "mood", "relationship"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "Business faces constant changes in the global market.",
+      "sentence_ko": "비즈니스는 글로벌 시장의 지속적인 변화에 직면해 있습니다.",
+      "tags": ["business", "environment", "time"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "The constant hum of the server room is soothing to me.",
+      "sentence_ko": "서버실의 지속적인 윙윙거리는 소리가 저에게는 마음을 편안하게 해줍니다.",
+      "tags": ["technology", "mood", "hobby"]
+    },
+    {
+      "word": "Constant",
+      "sentence_en": "Fashion trends are in constant motion.",
+      "sentence_ko": "패션 트렌드는 끊임없이 움직입니다.",
+      "tags": ["fashion", "time", "art"]
+    },
+    {
+      "word": "Continuous",
+      "sentence_en": "Continuous integration is a key practice in modern software development.",
+      "sentence_ko": "지속적 통합(CI)은 현대 소프트웨어 개발의 핵심 관행입니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Continuous",
+      "sentence_en": "We need continuous improvement to stay ahead in business.",
+      "sentence_ko": "비즈니스에서 앞서 나가기 위해서는 지속적인 개선이 필요합니다.",
+      "tags": ["business", "time", "strategy"]
+    },
+    {
+      "word": "Continuous",
+      "sentence_en": "The continuous rain helped the environment recover from drought.",
+      "sentence_ko": "계속되는 비가 가뭄으로부터 환경이 회복되는 데 도움을 주었습니다.",
+      "tags": ["environment", "happy", "weather"]
+    },
+    {
+      "word": "Continuous",
+      "sentence_en": "The fashion show was a continuous display of creativity.",
+      "sentence_ko": "그 패션쇼는 창의성의 연속적인 향연이었습니다.",
+      "tags": ["fashion", "hobby", "art"]
+    },
+    {
+      "word": "Continuous",
+      "sentence_en": "Learning a language is a continuous process.",
+      "sentence_ko": "언어를 배우는 것은 연속적인 과정입니다.",
+      "tags": ["education", "conversation", "time"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "Continual interruptions made it impossible to code efficiently.",
+      "sentence_ko": "빈번한 방해 때문에 효율적으로 코딩하는 것이 불가능했습니다.",
+      "tags": ["code", "technology", "business"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "We face continual problems with the old server.",
+      "sentence_ko": "우리는 구형 서버 때문에 자꾸 일어나는 문제들에 직면합니다.",
+      "tags": ["technology", "business", "time"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "His continual questions showed his eagerness to learn.",
+      "sentence_ko": "그의 끊임없는 질문들은 배우고자 하는 열의를 보여주었습니다.",
+      "tags": ["conversation", "education", "mood"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "The continual updates to the app are improving the user experience.",
+      "sentence_ko": "앱의 빈번한 업데이트가 사용자 경험을 개선하고 있습니다.",
+      "tags": ["technology", "code", "happy"]
+    },
+    {
+      "word": "Continual",
+      "sentence_en": "Continual care is needed for these delicate plants.",
+      "sentence_ko": "이 섬세한 식물들에게는 지속적인(자주 들여다보는) 보살핌이 필요합니다.",
+      "tags": ["environment", "hobby", "time"]
+    },
+    {
+      "word": "Sustained",
+      "sentence_en": "Sustained economic growth is good for business.",
+      "sentence_ko": "지속된 경제 성장은 비즈니스에 좋습니다.",
+      "tags": ["business", "money", "time"]
+    },
+    {
+      "word": "Sustained",
+      "sentence_en": "The athlete maintained a sustained speed throughout the race.",
+      "sentence_ko": "그 선수는 경주 내내 일정한 속도를 유지했습니다.",
+      "tags": ["hobby", "sports", "time"]
+    },
+    {
+      "word": "Sustained",
+      "sentence_en": "We need sustained efforts to protect the environment.",
+      "sentence_ko": "환경을 보호하기 위해 지속적인 노력이 필요합니다.",
+      "tags": ["environment", "happy", "future"]
+    },
+    {
+      "word": "Sustained",
+      "sentence_en": "Sustained attention is required to debug this complex code.",
+      "sentence_ko": "이 복잡한 코드를 디버깅하려면 지속적인 주의가 필요합니다.",
+      "tags": ["code", "technology", "work"]
+    },
+    {
+      "word": "Sustained",
+      "sentence_en": "Her sustained passion for fashion led to her own brand.",
+      "sentence_ko": "패션에 대한 그녀의 지속된 열정이 자신의 브랜드 창립으로 이어졌습니다.",
+      "tags": ["fashion", "business", "happy"]
+    },
+    {
+      "word": "Extended",
+      "sentence_en": "We offer an extended warranty for all our tech products.",
+      "sentence_ko": "우리는 모든 기술 제품에 대해 연장 보증을 제공합니다.",
+      "tags": ["technology", "business", "money"]
+    },
+    {
+      "word": "Extended",
+      "sentence_en": "The extended family gathered for a happy celebration.",
+      "sentence_ko": "대가족(확장된 가족)이 행복한 축하를 위해 모였습니다.",
+      "tags": ["happy", "family", "conversation"]
+    },
+    {
+      "word": "Extended",
+      "sentence_en": "Extended working hours can negatively affect your mood.",
+      "sentence_ko": "연장된 근무 시간은 기분에 부정적인 영향을 줄 수 있습니다.",
+      "tags": ["business", "mood", "health"]
+    },
+    {
+      "word": "Extended",
+      "sentence_en": "This class extends the basic code functionality.",
+      "sentence_ko": "이 클래스는 기본 코드 기능을 확장합니다.",
+      "tags": ["code", "technology", "education"]
+    },
+    {
+      "word": "Extended",
+      "sentence_en": "The deadline was extended to allow more time for review.",
+      "sentence_ko": "검토할 시간을 더 주기 위해 마감 기한이 연장되었습니다.",
+      "tags": ["time", "business", "work"]
+    },
+    {
+      "word": "Longevity",
+      "sentence_en": "The longevity of this battery is impressive.",
+      "sentence_ko": "이 배터리의 수명은 인상적입니다.",
+      "tags": ["technology", "business", "time"]
+    },
+    {
+      "word": "Longevity",
+      "sentence_en": "Eating healthy food contributes to longevity.",
+      "sentence_ko": "건강한 음식을 먹는 것은 장수에 기여합니다.",
+      "tags": ["health", "environment", "happy"]
+    },
+    {
+      "word": "Longevity",
+      "sentence_en": "We admire the longevity of his career in the fashion industry.",
+      "sentence_ko": "우리는 패션 업계에서 그의 긴 경력(장수)을 존경합니다.",
+      "tags": ["fashion", "business", "time"]
+    },
+    {
+      "word": "Longevity",
+      "sentence_en": "Code longevity depends on good documentation.",
+      "sentence_ko": "코드의 수명은 좋은 문서화에 달려 있습니다.",
+      "tags": ["code", "technology", "work"]
+    },
+    {
+      "word": "Longevity",
+      "sentence_en": "Customer satisfaction ensures the longevity of a business.",
+      "sentence_ko": "고객 만족은 비즈니스의 장수를 보장합니다.",
+      "tags": ["business", "conversation", "money"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "These perennial flowers bloom every spring, making the garden happy.",
+      "sentence_ko": "이 다년생 꽃들은 매년 봄에 피어 정원을 행복하게 만듭니다.",
+      "tags": ["environment", "happy", "hobby"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "Budget cuts are a perennial problem in our business.",
+      "sentence_ko": "예산 삭감은 우리 비즈니스에서 해마다 반복되는 문제입니다.",
+      "tags": ["business", "money", "time"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "Jeans are a perennial favorite in casual fashion.",
+      "sentence_ko": "청바지는 캐주얼 패션에서 끊임없이 사랑받는 아이템입니다.",
+      "tags": ["fashion", "hobby", "style"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "The perennial debate about which code editor is best continues.",
+      "sentence_ko": "어떤 코드 에디터가 최고인가에 대한 끊임없는 논쟁은 계속됩니다.",
+      "tags": ["code", "technology", "conversation"]
+    },
+    {
+      "word": "Perennial",
+      "sentence_en": "Wisdom is a perennial theme in literature.",
+      "sentence_ko": "지혜는 문학에서 시대를 초월하여 계속되는 주제입니다.",
+      "tags": ["conversation", "education", "time"]
+    },
+    {
+      "word": "Indefinite",
+      "sentence_en": "The project is on hold for an indefinite period.",
+      "sentence_ko": "그 프로젝트는 무기한 보류 중입니다.",
+      "tags": ["business", "time", "work"]
+    },
+    {
+      "word": "Indefinite",
+      "sentence_en": "An indefinite loop can crash the browser.",
+      "sentence_ko": "종료 조건이 없는 무한 루프는 브라우저를 충돌시킬 수 있습니다.",
+      "tags": ["code", "technology", "error"]
+    },
+    {
+      "word": "Indefinite",
+      "sentence_en": "She took an indefinite leave to travel the world.",
+      "sentence_ko": "그녀는 세계 여행을 하기 위해 무기한 휴가를 냈습니다.",
+      "tags": ["travel", "hobby", "happy"]
+    },
+    {
+      "word": "Indefinite",
+      "sentence_en": "The release date of the new tech gadget is indefinite.",
+      "sentence_ko": "새로운 기술 가젯의 출시일은 미정입니다.",
+      "tags": ["technology", "business", "time"]
+    },
+    {
+      "word": "Indefinite",
+      "sentence_en": "We made indefinite plans to meet up sometime later.",
+      "sentence_ko": "우리는 나중에 언제 한번 보자고 기약 없는 약속을 했습니다.",
+      "tags": ["conversation", "mood", "friend"]
+    },
+    {
+      "word": "Deep-seated",
+      "sentence_en": "He has a deep-seated fear of public speaking.",
+      "sentence_ko": "그는 대중 연설에 대한 뿌리 깊은 두려움을 가지고 있습니다.",
+      "tags": ["mood", "conversation", "business"]
+    },
+    {
+      "word": "Deep-seated",
+      "sentence_en": "Cultural traditions are deep-seated in this community.",
+      "sentence_ko": "이 지역 사회에는 문화적 전통이 깊이 뿌리박혀 있습니다.",
+      "tags": ["conversation", "time", "environment"]
+    },
+    {
+      "word": "Deep-seated",
+      "sentence_en": "Fixing deep-seated bugs in legacy code is difficult.",
+      "sentence_ko": "레거시 코드에 깊이 박힌 버그를 수정하는 것은 어렵습니다.",
+      "tags": ["code", "technology", "problem"]
+    },
+    {
+      "word": "Deep-seated",
+      "sentence_en": "There is a deep-seated belief that technology improves life.",
+      "sentence_ko": "기술이 삶을 향상시킨다는 뿌리 깊은 믿음이 있습니다.",
+      "tags": ["technology", "happy", "future"]
+    },
+    {
+      "word": "Deep-seated",
+      "sentence_en": "Her deep-seated passion for fashion started in childhood.",
+      "sentence_ko": "그녀의 패션에 대한 뿌리 깊은 열정은 어린 시절부터 시작되었습니다.",
+      "tags": ["fashion", "hobby", "time"]
+    },
+    {
+      "word": "Inveterate",
+      "sentence_en": "He is an inveterate traveler who is never at home.",
+      "sentence_ko": "그는 집에 붙어 있는 법이 없는 상습적인 여행가입니다.",
+      "tags": ["hobby", "travel", "happy"]
+    },
+    {
+      "word": "Inveterate",
+      "sentence_en": "As an inveterate coder, he dreams in Python.",
+      "sentence_ko": "뼛속까지 코더인 그는 파이썬으로 꿈을 꿉니다.",
+      "tags": ["code", "technology", "hobby"]
+    },
+    {
+      "word": "Inveterate",
+      "sentence_en": "Don't trust him; he is an inveterate liar.",
+      "sentence_ko": "그를 믿지 마세요. 그는 상습적인 거짓말쟁이입니다.",
+      "tags": ["conversation", "business", "mood"]
+    },
+    {
+      "word": "Inveterate",
+      "sentence_en": "She is an inveterate collector of vintage fashion.",
+      "sentence_ko": "그녀는 빈티지 패션의 열렬한 수집광입니다.",
+      "tags": ["fashion", "hobby", "time"]
+    },
+    {
+      "word": "Inveterate",
+      "sentence_en": "His inveterate optimism kept the startup going.",
+      "sentence_ko": "그의 몸에 밴 낙관주의가 스타트업을 계속하게 만들었습니다.",
+      "tags": ["business", "mood", "happy"]
+    },
+    {
+      "word": "Standing",
+      "sentence_en": "We have a standing meeting every Monday morning.",
+      "sentence_ko": "우리는 매주 월요일 아침에 고정된(정례) 회의가 있습니다.",
+      "tags": ["business", "time", "conversation"]
+    },
+    {
+      "word": "Standing",
+      "sentence_en": "You have a standing invitation to visit our home.",
+      "sentence_ko": "우리 집에 언제든 방문해도 좋다는 초대(상시 초대)는 유효합니다.",
+      "tags": ["happy", "conversation", "relationship"]
+    },
+    {
+      "word": "Standing",
+      "sentence_en": "The committee is a standing body, not a temporary one.",
+      "sentence_ko": "그 위원회는 임시 기구가 아니라 상설 기구입니다.",
+      "tags": ["business", "organization", "time"]
+    },
+    {
+      "word": "Standing",
+      "sentence_en": "He received a standing ovation for his code presentation.",
+      "sentence_ko": "그는 코드 프레젠테이션으로 기립 박수를 받았습니다.",
+      "tags": ["code", "technology", "happy"]
+    },
+    {
+      "word": "Standing",
+      "sentence_en": "There is a standing order to update the software weekly.",
+      "sentence_ko": "매주 소프트웨어를 업데이트하라는 고정 지시가 있습니다.",
+      "tags": ["technology", "business", "rule"]
+    },
+    {
+      "word": "Lifelong",
+      "sentence_en": "Learning to code has been a lifelong dream of mine.",
+      "sentence_ko": "코딩을 배우는 것은 제 평생의 꿈이었습니다.",
+      "tags": ["code", "technology", "dream"]
+    },
+    {
+      "word": "Lifelong",
+      "sentence_en": "They became lifelong friends after meeting in college.",
+      "sentence_ko": "그들은 대학에서 만난 후 평생의 친구가 되었습니다.",
+      "tags": ["happy", "conversation", "relationship"]
+    },
+    {
+      "word": "Lifelong",
+      "sentence_en": "Lifelong learning is essential in the fast-changing tech world.",
+      "sentence_ko": "빠르게 변화하는 기술 세계에서 평생 학습은 필수적입니다.",
+      "tags": ["technology", "business", "education"]
+    },
+    {
+      "word": "Lifelong",
+      "sentence_en": "She has a lifelong passion for sustainable fashion.",
+      "sentence_ko": "그녀는 지속 가능한 패션에 대해 평생의 열정을 가지고 있습니다.",
+      "tags": ["fashion", "environment", "hobby"]
+    },
+    {
+      "word": "Lifelong",
+      "sentence_en": "Maintaining healthy habits is a lifelong commitment.",
+      "sentence_ko": "건강한 습관을 유지하는 것은 평생의 약속입니다.",
+      "tags": ["health", "time", "life"]
+    },
+    {
+      "word": "Undying",
+      "sentence_en": "He pledged his undying loyalty to the company.",
+      "sentence_ko": "그는 회사에 변치 않는 충성을 맹세했습니다.",
+      "tags": ["business", "mood", "work"]
+    },
+    {
+      "word": "Undying",
+      "sentence_en": "Her undying love for music kept her happy.",
+      "sentence_ko": "음악에 대한 그녀의 영원한 사랑이 그녀를 행복하게 했습니다.",
+      "tags": ["happy", "hobby", "music"]
+    },
+    {
+      "word": "Undying",
+      "sentence_en": "The undying flame symbolized hope for the future.",
+      "sentence_ko": "꺼지지 않는 불꽃은 미래에 대한 희망을 상징했습니다.",
+      "tags": ["mood", "environment", "symbol"]
+    },
+    {
+      "word": "Undying",
+      "sentence_en": "Fans showed undying support for their favorite tech brand.",
+      "sentence_ko": "팬들은 그들이 가장 좋아하는 기술 브랜드에 대해 변치 않는 지지를 보냈습니다.",
+      "tags": ["technology", "business", "conversation"]
+    },
+    {
+      "word": "Undying",
+      "sentence_en": "The legend of the hero is undying.",
+      "sentence_ko": "그 영웅의 전설은 영원합니다.",
+      "tags": ["time", "story", "education"]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: SIMPLICITY_CLARITY
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Simple - 단순한 (복잡하지 않은)
+2. Clear - 명확한 (이해하기 쉬운)
+3. Plain - 꾸밈없는, 평이한 (솔직하고 단순한)
+4. Straightforward - 간단명료한 (비비 꼬지 않은)
+5. Direct - 직접적인 (우회하지 않는)
+6. Coherent - 일관성 있는 (논리가 명확한)
+7. Lucid - 명쾌한 (투명하듯 맑고 이해하기 쉬운)
+8. Distinct - 뚜렷한 (구분이 명확한)
+9. Explicit - 명시적인 (숨김없이 드러난)
+10. Obvious - 뻔한, 분명한 (누가 봐도 알 수 있는)
+11. Evident - 명백한 (증거가 있어 확실한)
+12. Apparent - 분명한, 외관상의 (눈에 보이는)
+13. Rudimentary - 기초적인, 미발달의 (아주 기본적인 수준)
+14. Elementary - 초보적인 (기초 단계의)
+15. Manifest - 나타나다, 명백한 (겉으로 드러난)
+16. Transparent - 투명한, 빤히 들여다보이는 (숨김없는)
+17. Self-explanatory - 설명이 필요 없는 (보면 바로 아는)
+18. Unambiguous - 모호하지 않은 (뜻이 하나로 명확한)
+19. Unmistakable - 틀림없는 (오해할 여지가 없는)
+20. Basic - 기본적인 (가장 밑바탕이 되는)
+21. Fundamental - 근본적인 (핵심이 되는)
+22. Pure - 순수한 (섞이지 않은)
+23. Stark - 삭막한, 있는 그대로의 (꾸밈없이 적나라한)
+24. Unadorned - 꾸밈없는 (장식이 없는)
+25. Minimalist - 미니멀한 (최소한의 것만 있는)
+26. Bare - 벌거벗은, 딱 그만큼의 (최소한의)
+27. Essential - 필수적인, 본질적인 (군더더기 뺀 핵심)
+28. Core - 핵심의 (가장 중심이 되는)
+29. Concise - 간결한 (짧고 명확한)
+30. Crisp - 상쾌한, 바삭한, 간결한 (깔끔하고 명쾌한)
+
+## 추천 태그 (상황/맥락)
+career, nature, feeling, family, social, startup, school, style, sad, restaurant
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "SIMPLICITY_CLARITY",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "SIMPLICITY_CLARITY",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

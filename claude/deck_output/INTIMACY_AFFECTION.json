@@ -1,0 +1,954 @@
+{
+  "deck_title": "INTIMACY_AFFECTION",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Tender",
+      "sentence_en": "She gave him a tender kiss on the forehead before leaving.",
+      "sentence_ko": "그녀는 떠나기 전에 그의 이마에 부드럽게 키스했다.",
+      "tags": ["romance", "mood"]
+    },
+    {
+      "word": "Tender",
+      "sentence_en": "His tender voice comforted her during the difficult time.",
+      "sentence_ko": "그의 상냥한 목소리가 힘든 시기에 그녀를 위로해줬다.",
+      "tags": ["conversation", "mood"]
+    },
+    {
+      "word": "Tender",
+      "sentence_en": "The mother held her baby with tender care.",
+      "sentence_ko": "엄마는 아기를 부드럽게 안았다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Tender",
+      "sentence_en": "He wrote her a tender love letter expressing his feelings.",
+      "sentence_ko": "그는 자신의 감정을 담은 다정한 러브레터를 그녀에게 썼다.",
+      "tags": ["romance", "writing"]
+    },
+    {
+      "word": "Tender",
+      "sentence_en": "They shared a tender moment watching the sunset together.",
+      "sentence_ko": "그들은 함께 석양을 보며 부드러운 순간을 나눴다.",
+      "tags": ["outdoor", "romance"]
+    },
+    {
+      "word": "Tender",
+      "sentence_en": "Her tender smile made everyone feel welcome at home.",
+      "sentence_ko": "그녀의 상냥한 미소가 모두를 집에서 편안하게 만들었다.",
+      "tags": ["home", "mood"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "They had an intimate conversation about their future plans.",
+      "sentence_ko": "그들은 미래 계획에 대해 깊은 대화를 나눴다.",
+      "tags": ["conversation", "relationship"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "The restaurant had an intimate atmosphere perfect for dates.",
+      "sentence_ko": "그 레스토랑은 데이트하기 완벽한 친밀한 분위기였다.",
+      "tags": ["dining", "romance"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "She only shares her intimate thoughts with her closest friends.",
+      "sentence_ko": "그녀는 가장 친한 친구들하고만 속마음을 나눈다.",
+      "tags": ["conversation", "friendship"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "The small wedding was intimate with only family and close friends.",
+      "sentence_ko": "작은 결혼식은 가족과 친한 친구들만 참석해서 아늑했다.",
+      "tags": ["event", "family"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "They developed an intimate bond after working together for years.",
+      "sentence_ko": "그들은 수년간 함께 일한 후 친밀한 유대감이 생겼다.",
+      "tags": ["office", "relationship"]
+    },
+    {
+      "word": "Intimate",
+      "sentence_en": "The book reveals intimate details about the author's childhood.",
+      "sentence_ko": "그 책은 작가의 어린 시절에 대한 사적인 세부사항을 드러낸다.",
+      "tags": ["reading", "story"]
+    },
+    {
+      "word": "Fraternal",
+      "sentence_en": "The team has a strong fraternal bond that helps them succeed.",
+      "sentence_ko": "팀은 성공에 도움이 되는 강한 형제애를 가지고 있다.",
+      "tags": ["office", "teamwork"]
+    },
+    {
+      "word": "Fraternal",
+      "sentence_en": "They share a fraternal relationship despite not being blood brothers.",
+      "sentence_ko": "그들은 친형제는 아니지만 형제 같은 관계를 나눈다.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Fraternal",
+      "sentence_en": "The fraternal organization supports young entrepreneurs.",
+      "sentence_ko": "그 우애 단체는 젊은 기업가들을 지원한다.",
+      "tags": ["entrepreneur", "social"]
+    },
+    {
+      "word": "Fraternal",
+      "sentence_en": "His fraternal advice helped me through difficult career decisions.",
+      "sentence_ko": "그의 형제 같은 조언이 어려운 커리어 결정을 하는 데 도움이 됐다.",
+      "tags": ["conversation", "office"]
+    },
+    {
+      "word": "Fraternal",
+      "sentence_en": "The soldiers formed fraternal connections during their training.",
+      "sentence_ko": "군인들은 훈련 중에 형제 같은 유대감을 형성했다.",
+      "tags": ["teamwork", "experience"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "We've been close friends since elementary school.",
+      "sentence_ko": "우리는 초등학교 때부터 친한 친구 사이야.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "She's very close to her grandmother and visits her every week.",
+      "sentence_ko": "그녀는 할머니와 매우 가까워서 매주 찾아뵌다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "My brother and I aren't that close anymore.",
+      "sentence_ko": "남동생이랑 나는 이제 예전처럼 가깝지 않아.",
+      "tags": ["family", "mood"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "He keeps his close friends' secrets safe.",
+      "sentence_ko": "그는 친한 친구들의 비밀을 잘 지킨다.",
+      "tags": ["friendship", "trust"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "They became close after working on the project together.",
+      "sentence_ko": "그들은 함께 프로젝트를 하면서 가까워졌다.",
+      "tags": ["office", "collaboration"]
+    },
+    {
+      "word": "Close",
+      "sentence_en": "I feel close to nature when hiking in the mountains.",
+      "sentence_ko": "산에서 하이킹할 때 자연과 가깝다고 느껴져.",
+      "tags": ["outdoor", "exercise"]
+    },
+    {
+      "word": "Affectionate",
+      "sentence_en": "My dog is very affectionate and always wants to cuddle.",
+      "sentence_ko": "우리 강아지는 정말 애교가 많아서 항상 안기려고 해.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Affectionate",
+      "sentence_en": "She's naturally affectionate and gives hugs to everyone.",
+      "sentence_ko": "그녀는 타고나길 애정표현을 잘해서 모두를 안아준다.",
+      "tags": ["mood", "personality"]
+    },
+    {
+      "word": "Affectionate",
+      "sentence_en": "He wrote an affectionate note thanking his parents.",
+      "sentence_ko": "그는 부모님께 감사하는 다정한 편지를 썼다.",
+      "tags": ["family", "gratitude"]
+    },
+    {
+      "word": "Affectionate",
+      "sentence_en": "The couple shared an affectionate glance across the room.",
+      "sentence_ko": "커플은 방 건너편에서 애정 어린 눈빛을 주고받았다.",
+      "tags": ["romance", "mood"]
+    },
+    {
+      "word": "Affectionate",
+      "sentence_en": "My grandparents are still very affectionate after fifty years of marriage.",
+      "sentence_ko": "우리 조부모님은 50년 결혼생활에도 여전히 다정하시다.",
+      "tags": ["family", "relationship"]
+    },
+    {
+      "word": "Loving",
+      "sentence_en": "She grew up in a loving home with supportive parents.",
+      "sentence_ko": "그녀는 지지해주는 부모님이 계신 사랑이 넘치는 집에서 자랐다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Loving",
+      "sentence_en": "His loving nature makes him a great kindergarten teacher.",
+      "sentence_ko": "그의 다정한 성품이 그를 훌륭한 유치원 선생님으로 만든다.",
+      "tags": ["work", "personality"]
+    },
+    {
+      "word": "Loving",
+      "sentence_en": "They have a loving relationship built on trust and respect.",
+      "sentence_ko": "그들은 신뢰와 존중을 바탕으로 한 사랑이 깊은 관계를 갖고 있다.",
+      "tags": ["romance", "relationship"]
+    },
+    {
+      "word": "Loving",
+      "sentence_en": "She gave me a loving hug when I needed comfort.",
+      "sentence_ko": "그녀는 내가 위로가 필요할 때 따뜻하게 안아줬다.",
+      "tags": ["friendship", "mood"]
+    },
+    {
+      "word": "Loving",
+      "sentence_en": "My cat shows her loving side by purring when I pet her.",
+      "sentence_ko": "우리 고양이는 내가 쓰다듬을 때 가르랑거리며 애정을 표현해.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "She's a devoted mother who always puts her children first.",
+      "sentence_ko": "그녀는 항상 아이들을 최우선으로 하는 헌신적인 엄마다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "He's devoted to his work and often stays late at the office.",
+      "sentence_ko": "그는 일에 헌신적이어서 자주 사무실에 늦게까지 남아 있어.",
+      "tags": ["office", "work"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "The devoted fan has attended every concert for ten years.",
+      "sentence_ko": "그 열성 팬은 10년 동안 모든 콘서트에 참석했다.",
+      "tags": ["entertainment", "dedication"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "She's devoted to helping homeless animals in her community.",
+      "sentence_ko": "그녀는 지역사회의 유기동물을 돕는 데 헌신하고 있다.",
+      "tags": ["social", "volunteer"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "My devoted friend visited me every day while I was sick.",
+      "sentence_ko": "헌신적인 내 친구는 내가 아플 때 매일 찾아와줬다.",
+      "tags": ["friendship", "care"]
+    },
+    {
+      "word": "Devoted",
+      "sentence_en": "He's a devoted husband who never forgets their anniversary.",
+      "sentence_ko": "그는 결혼기념일을 절대 잊지 않는 헌신적인 남편이다.",
+      "tags": ["romance", "relationship"]
+    },
+    {
+      "word": "Platonic",
+      "sentence_en": "We have a platonic relationship despite what people assume.",
+      "sentence_ko": "사람들이 생각하는 것과 달리 우리는 순수한 친구 사이야.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Platonic",
+      "sentence_en": "His love for literature is purely platonic and intellectual.",
+      "sentence_ko": "문학에 대한 그의 사랑은 순수하게 정신적이고 지적이다.",
+      "tags": ["study", "interest"]
+    },
+    {
+      "word": "Platonic",
+      "sentence_en": "They share a deep platonic bond without any romantic feelings.",
+      "sentence_ko": "그들은 연애 감정 없이 깊은 정신적 유대감을 나눈다.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Platonic",
+      "sentence_en": "It's possible to have platonic friendships with the opposite sex.",
+      "sentence_ko": "이성과 순수한 우정을 나누는 건 가능해.",
+      "tags": ["conversation", "friendship"]
+    },
+    {
+      "word": "Platonic",
+      "sentence_en": "Their platonic cuddling confused their friends.",
+      "sentence_ko": "그들의 순수한 스킨십이 친구들을 헷갈리게 했다.",
+      "tags": ["friendship", "misunderstanding"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "He planned a romantic dinner with candles and roses.",
+      "sentence_ko": "그는 촛불과 장미가 있는 로맨틱한 저녁을 계획했다.",
+      "tags": ["romance", "dining"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "The movie had a romantic ending that made everyone cry.",
+      "sentence_ko": "그 영화는 모두를 울린 로맨틱한 결말이었다.",
+      "tags": ["entertainment", "mood"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "She's not very romantic but shows love in practical ways.",
+      "sentence_ko": "그녀는 로맨틱하진 않지만 실용적인 방식으로 사랑을 보여줘.",
+      "tags": ["relationship", "personality"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "They took a romantic walk along the beach at sunset.",
+      "sentence_ko": "그들은 석양 무렵 해변을 따라 로맨틱하게 산책했다.",
+      "tags": ["outdoor", "romance"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "His romantic gestures always make her feel special.",
+      "sentence_ko": "그의 로맨틱한 행동들이 항상 그녀를 특별하게 느끼게 해.",
+      "tags": ["romance", "mood"]
+    },
+    {
+      "word": "Romantic",
+      "sentence_en": "Paris is known as one of the most romantic cities in the world.",
+      "sentence_ko": "파리는 세계에서 가장 로맨틱한 도시 중 하나로 알려져 있다.",
+      "tags": ["travel", "culture"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "She's passionate about environmental protection and volunteers weekly.",
+      "sentence_ko": "그녀는 환경 보호에 열정적이어서 매주 자원봉사를 한다.",
+      "tags": ["social", "volunteer"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "He gave a passionate speech that moved the entire audience.",
+      "sentence_ko": "그는 청중 전체를 감동시킨 열정적인 연설을 했다.",
+      "tags": ["conversation", "event"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "They shared a passionate kiss before saying goodbye.",
+      "sentence_ko": "그들은 작별 인사 전에 열정적인 키스를 나눴다.",
+      "tags": ["romance", "mood"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "My passionate pursuit of coding led me to my dream job.",
+      "sentence_ko": "코딩에 대한 나의 열정적인 추구가 나를 꿈의 직업으로 이끌었다.",
+      "tags": ["code", "career"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "She's a passionate dancer who practices every single day.",
+      "sentence_ko": "그녀는 매일같이 연습하는 열정적인 댄서다.",
+      "tags": ["exercise", "dedication"]
+    },
+    {
+      "word": "Passionate",
+      "sentence_en": "His passionate debate convinced many people to change their minds.",
+      "sentence_ko": "그의 열정적인 논쟁이 많은 사람들의 마음을 바꾸게 했다.",
+      "tags": ["conversation", "persuasion"]
+    },
+    {
+      "word": "Inseparable",
+      "sentence_en": "The twins are inseparable and do everything together.",
+      "sentence_ko": "그 쌍둥이는 떼려야 뗄 수 없고 모든 걸 함께 한다.",
+      "tags": ["family", "relationship"]
+    },
+    {
+      "word": "Inseparable",
+      "sentence_en": "My dog and I have been inseparable since I adopted him.",
+      "sentence_ko": "강아지를 입양한 이후로 우리는 늘 붙어 다닌다.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Inseparable",
+      "sentence_en": "They became inseparable friends after their study abroad trip.",
+      "sentence_ko": "그들은 교환학생 여행 후 떼려야 뗄 수 없는 친구가 됐다.",
+      "tags": ["friendship", "travel"]
+    },
+    {
+      "word": "Inseparable",
+      "sentence_en": "The business partners are inseparable and finish each other's sentences.",
+      "sentence_ko": "그 사업 파트너들은 떼려야 뗄 수 없고 서로의 말을 받아서 한다.",
+      "tags": ["entrepreneur", "partnership"]
+    },
+    {
+      "word": "Inseparable",
+      "sentence_en": "Coffee and morning are inseparable for me.",
+      "sentence_ko": "나한테 커피와 아침은 떼려야 뗄 수 없는 관계야.",
+      "tags": ["home", "routine"]
+    },
+    {
+      "word": "Bonded",
+      "sentence_en": "We bonded over our shared love of hiking.",
+      "sentence_ko": "우리는 하이킹을 좋아한다는 공통점으로 유대감이 생겼어.",
+      "tags": ["outdoor", "friendship"]
+    },
+    {
+      "word": "Bonded",
+      "sentence_en": "The team bonded during the difficult project deadline.",
+      "sentence_ko": "팀은 힘든 프로젝트 마감 기한 동안 유대감이 형성됐다.",
+      "tags": ["office", "teamwork"]
+    },
+    {
+      "word": "Bonded",
+      "sentence_en": "They've bonded like family after working together for years.",
+      "sentence_ko": "그들은 수년간 함께 일하면서 가족처럼 유대감이 생겼다.",
+      "tags": ["office", "relationship"]
+    },
+    {
+      "word": "Bonded",
+      "sentence_en": "She quickly bonded with her roommate over their love of cooking.",
+      "sentence_ko": "그녀는 요리를 좋아한다는 공통점으로 룸메이트와 빠르게 친해졌다.",
+      "tags": ["home", "friendship"]
+    },
+    {
+      "word": "Bonded",
+      "sentence_en": "The experience bonded us in a way nothing else could.",
+      "sentence_ko": "그 경험이 우리를 다른 어떤 것도 할 수 없는 방식으로 연결시켰다.",
+      "tags": ["experience", "relationship"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "I'm really attached to my childhood teddy bear.",
+      "sentence_ko": "나는 어렸을 때 테디베어에 정말 애착이 있어.",
+      "tags": ["home", "memory"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "She's too attached to her phone and can't put it down.",
+      "sentence_ko": "그녀는 폰에 너무 집착해서 내려놓질 못해.",
+      "tags": ["habit", "technology"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "Don't get too attached; we're only fostering the puppy temporarily.",
+      "sentence_ko": "너무 정들지 마. 우리는 강아지를 임시로만 맡는 거니까.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "He became attached to the old coffee shop where he studied.",
+      "sentence_ko": "그는 공부했던 오래된 카페에 애착이 생겼다.",
+      "tags": ["study", "place"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "I'm not emotionally attached to material possessions.",
+      "sentence_ko": "나는 물질적인 것들에 정서적으로 집착하지 않아.",
+      "tags": ["shopping", "mindset"]
+    },
+    {
+      "word": "Attached",
+      "sentence_en": "She's deeply attached to her hometown and never wants to leave.",
+      "sentence_ko": "그녀는 고향에 깊은 애착이 있어서 절대 떠나고 싶어 하지 않는다.",
+      "tags": ["home", "emotion"]
+    },
+    {
+      "word": "Close-knit",
+      "sentence_en": "We have a close-knit family that gets together every weekend.",
+      "sentence_ko": "우리는 매주 모이는 끈끈한 가족이야.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Close-knit",
+      "sentence_en": "The startup has a close-knit team of only five people.",
+      "sentence_ko": "그 스타트업은 단 5명으로 이루어진 끈끈한 팀이 있다.",
+      "tags": ["entrepreneur", "office"]
+    },
+    {
+      "word": "Close-knit",
+      "sentence_en": "She grew up in a close-knit community where everyone knew each other.",
+      "sentence_ko": "그녀는 모두가 서로를 아는 끈끈한 공동체에서 자랐다.",
+      "tags": ["home", "community"]
+    },
+    {
+      "word": "Close-knit",
+      "sentence_en": "The close-knit group of friends has been meeting for twenty years.",
+      "sentence_ko": "그 끈끈한 친구 그룹은 20년 동안 계속 만나고 있다.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Close-knit",
+      "sentence_en": "Our office is close-knit and we often hang out after work.",
+      "sentence_ko": "우리 사무실은 끈끈해서 퇴근 후에 자주 어울린다.",
+      "tags": ["office", "social"]
+    },
+    {
+      "word": "Familial",
+      "sentence_en": "There's a familial atmosphere in our small company.",
+      "sentence_ko": "우리 작은 회사에는 가족 같은 분위기가 있다.",
+      "tags": ["office", "entrepreneur"]
+    },
+    {
+      "word": "Familial",
+      "sentence_en": "She has a strong sense of familial duty to her parents.",
+      "sentence_ko": "그녀는 부모님에 대한 강한 가족적 의무감을 갖고 있다.",
+      "tags": ["family", "culture"]
+    },
+    {
+      "word": "Familial",
+      "sentence_en": "The disease has a familial pattern and runs in families.",
+      "sentence_ko": "그 질병은 가족력이 있고 유전되는 경향이 있다.",
+      "tags": ["health", "medical"]
+    },
+    {
+      "word": "Familial",
+      "sentence_en": "They share a familial bond despite not being related by blood.",
+      "sentence_ko": "그들은 혈연관계는 아니지만 가족 같은 유대감을 나눈다.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Familial",
+      "sentence_en": "The coach treats all players with familial care and concern.",
+      "sentence_ko": "코치는 모든 선수를 가족처럼 보살피고 신경 쓴다.",
+      "tags": ["sport", "care"]
+    },
+    {
+      "word": "Maternal",
+      "sentence_en": "She has a maternal instinct to protect and nurture others.",
+      "sentence_ko": "그녀는 다른 사람들을 보호하고 돌보는 모성 본능이 있다.",
+      "tags": ["personality", "care"]
+    },
+    {
+      "word": "Maternal",
+      "sentence_en": "My maternal grandmother taught me how to cook traditional dishes.",
+      "sentence_ko": "외할머니께서 전통 요리 만드는 법을 가르쳐 주셨다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Maternal",
+      "sentence_en": "Her maternal love for her children is unconditional.",
+      "sentence_ko": "자식들에 대한 그녀의 모성애는 무조건적이다.",
+      "tags": ["family", "emotion"]
+    },
+    {
+      "word": "Maternal",
+      "sentence_en": "The nurse showed maternal kindness to all her patients.",
+      "sentence_ko": "간호사는 모든 환자에게 모성 같은 친절함을 보였다.",
+      "tags": ["work", "care"]
+    },
+    {
+      "word": "Maternal",
+      "sentence_en": "She felt maternal pride watching her student graduate.",
+      "sentence_ko": "그녀는 제자가 졸업하는 걸 보며 엄마 같은 자부심을 느꼈다.",
+      "tags": ["teaching", "emotion"]
+    },
+    {
+      "word": "Confidant",
+      "sentence_en": "She's my closest confidant and knows all my secrets.",
+      "sentence_ko": "그녀는 내 가장 가까운 절친이고 내 비밀을 다 알아.",
+      "tags": ["friendship", "trust"]
+    },
+    {
+      "word": "Confidant",
+      "sentence_en": "He served as the president's confidant during the crisis.",
+      "sentence_ko": "그는 위기 동안 대통령의 측근 역할을 했다.",
+      "tags": ["work", "trust"]
+    },
+    {
+      "word": "Confidant",
+      "sentence_en": "I need a confidant I can trust with sensitive information.",
+      "sentence_ko": "민감한 정보를 믿고 맡길 수 있는 절친이 필요해.",
+      "tags": ["conversation", "trust"]
+    },
+    {
+      "word": "Confidant",
+      "sentence_en": "My sister has been my confidant since we were children.",
+      "sentence_ko": "언니는 우리가 어렸을 때부터 내 절친이었어.",
+      "tags": ["family", "relationship"]
+    },
+    {
+      "word": "Confidant",
+      "sentence_en": "Every entrepreneur needs a trusted confidant for advice.",
+      "sentence_ko": "모든 기업가는 조언을 구할 믿을 수 있는 절친이 필요하다.",
+      "tags": ["entrepreneur", "mentorship"]
+    },
+    {
+      "word": "Paternal",
+      "sentence_en": "He has a paternal way of giving advice that makes everyone listen.",
+      "sentence_ko": "그는 모두가 경청하게 만드는 아버지 같은 조언 방식이 있다.",
+      "tags": ["conversation", "mentorship"]
+    },
+    {
+      "word": "Paternal",
+      "sentence_en": "My paternal grandfather was a successful entrepreneur.",
+      "sentence_ko": "친할아버지는 성공한 기업가였다.",
+      "tags": ["family", "entrepreneur"]
+    },
+    {
+      "word": "Paternal",
+      "sentence_en": "The coach showed paternal concern for his injured player.",
+      "sentence_ko": "코치는 다친 선수에게 아버지 같은 걱정을 보였다.",
+      "tags": ["sport", "care"]
+    },
+    {
+      "word": "Paternal",
+      "sentence_en": "He felt a paternal responsibility to guide the younger employees.",
+      "sentence_ko": "그는 후배 직원들을 이끌어야 한다는 부성 같은 책임감을 느꼈다.",
+      "tags": ["office", "mentorship"]
+    },
+    {
+      "word": "Paternal",
+      "sentence_en": "His paternal pride was evident when his son won the award.",
+      "sentence_ko": "아들이 상을 탔을 때 그의 아버지로서의 자부심이 역력했다.",
+      "tags": ["family", "emotion"]
+    },
+    {
+      "word": "Cherished",
+      "sentence_en": "This photo album contains cherished memories from my childhood.",
+      "sentence_ko": "이 사진첩에는 어린 시절의 소중한 추억들이 담겨 있다.",
+      "tags": ["home", "memory"]
+    },
+    {
+      "word": "Cherished",
+      "sentence_en": "She kept the cherished letter from her grandmother.",
+      "sentence_ko": "그녀는 할머니께 받은 소중한 편지를 간직했다.",
+      "tags": ["family", "emotion"]
+    },
+    {
+      "word": "Cherished",
+      "sentence_en": "My most cherished possession is the watch my father gave me.",
+      "sentence_ko": "내가 가장 아끼는 물건은 아버지가 주신 시계야.",
+      "tags": ["family", "value"]
+    },
+    {
+      "word": "Cherished",
+      "sentence_en": "They cherished every moment spent together before he left.",
+      "sentence_ko": "그들은 그가 떠나기 전에 함께한 모든 순간을 소중히 여겼다.",
+      "tags": ["romance", "time"]
+    },
+    {
+      "word": "Cherished",
+      "sentence_en": "The cherished tradition has been passed down for generations.",
+      "sentence_ko": "그 소중한 전통은 여러 세대에 걸쳐 전해져 왔다.",
+      "tags": ["family", "culture"]
+    },
+    {
+      "word": "Beloved",
+      "sentence_en": "His beloved wife passed away after fifty years of marriage.",
+      "sentence_ko": "그의 사랑하는 아내가 50년의 결혼 생활 후 세상을 떠났다.",
+      "tags": ["family", "emotion"]
+    },
+    {
+      "word": "Beloved",
+      "sentence_en": "She returned to her beloved hometown after years abroad.",
+      "sentence_ko": "그녀는 해외에서 몇 년을 보낸 후 사랑하는 고향으로 돌아왔다.",
+      "tags": ["home", "travel"]
+    },
+    {
+      "word": "Beloved",
+      "sentence_en": "The beloved teacher retired after thirty years of service.",
+      "sentence_ko": "사랑받는 선생님이 30년간의 봉사 후 은퇴하셨다.",
+      "tags": ["school", "career"]
+    },
+    {
+      "word": "Beloved",
+      "sentence_en": "My beloved dog has been with me through thick and thin.",
+      "sentence_ko": "내 사랑하는 강아지는 좋을 때나 나쁠 때나 나와 함께 있어줬다.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Beloved",
+      "sentence_en": "The beloved local restaurant closed after twenty years.",
+      "sentence_ko": "사랑받던 동네 식당이 20년 만에 문을 닫았다.",
+      "tags": ["dining", "community"]
+    },
+    {
+      "word": "Adoring",
+      "sentence_en": "She looked at him with adoring eyes during the ceremony.",
+      "sentence_ko": "그녀는 행사 중에 그를 흠모하는 눈빛으로 바라봤다.",
+      "tags": ["romance", "mood"]
+    },
+    {
+      "word": "Adoring",
+      "sentence_en": "His adoring fans waited for hours to meet him.",
+      "sentence_ko": "그의 열성 팬들은 그를 만나기 위해 몇 시간을 기다렸다.",
+      "tags": ["entertainment", "dedication"]
+    },
+    {
+      "word": "Adoring",
+      "sentence_en": "The grandmother gave her adoring grandchildren tight hugs.",
+      "sentence_ko": "할머니는 사랑하는 손주들을 꽉 안아주셨다.",
+      "tags": ["family", "affection"]
+    },
+    {
+      "word": "Adoring",
+      "sentence_en": "He spoke about his wife in an adoring tone.",
+      "sentence_ko": "그는 아내에 대해 애정 어린 말투로 이야기했다.",
+      "tags": ["conversation", "romance"]
+    },
+    {
+      "word": "Adoring",
+      "sentence_en": "The puppy gave me an adoring look hoping for treats.",
+      "sentence_ko": "강아지가 간식을 바라며 나를 애교 부리는 눈빛으로 쳐다봤다.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "My dear friend, I've missed you so much!",
+      "sentence_ko": "내 소중한 친구야, 너무 보고 싶었어!",
+      "tags": ["friendship", "conversation"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "This necklace is very dear to me because my mother gave it.",
+      "sentence_ko": "이 목걸이는 엄마가 주신 거라 나한테 정말 소중해.",
+      "tags": ["family", "value"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "She held the dear memories of their first date close to her heart.",
+      "sentence_ko": "그녀는 첫 데이트의 소중한 기억을 마음속 깊이 간직했다.",
+      "tags": ["romance", "memory"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "Thank you, dear, for always being there for me.",
+      "sentence_ko": "자기야, 항상 곁에 있어줘서 고마워.",
+      "tags": ["romance", "gratitude"]
+    },
+    {
+      "word": "Dear",
+      "sentence_en": "My dear colleagues have supported me throughout this project.",
+      "sentence_ko": "소중한 동료들이 이 프로젝트 내내 나를 지지해줬다.",
+      "tags": ["office", "teamwork"]
+    },
+    {
+      "word": "Fond",
+      "sentence_en": "I have fond memories of summers at my grandparents' house.",
+      "sentence_ko": "조부모님 댁에서 보낸 여름의 좋은 추억이 있다.",
+      "tags": ["family", "memory"]
+    },
+    {
+      "word": "Fond",
+      "sentence_en": "She's quite fond of hiking and goes every weekend.",
+      "sentence_ko": "그녀는 하이킹을 꽤 좋아해서 매주 간다.",
+      "tags": ["outdoor", "exercise"]
+    },
+    {
+      "word": "Fond",
+      "sentence_en": "My teacher was very fond of students who asked questions.",
+      "sentence_ko": "우리 선생님은 질문하는 학생들을 정말 좋아하셨다.",
+      "tags": ["school", "learning"]
+    },
+    {
+      "word": "Fond",
+      "sentence_en": "I'm not particularly fond of shopping for clothes.",
+      "sentence_ko": "나는 옷 쇼핑을 특별히 좋아하지는 않아.",
+      "tags": ["shopping", "preference"]
+    },
+    {
+      "word": "Fond",
+      "sentence_en": "He spoke with fond affection about his college days.",
+      "sentence_ko": "그는 대학 시절에 대해 다정한 애정을 담아 이야기했다.",
+      "tags": ["conversation", "memory"]
+    },
+    {
+      "word": "Warm",
+      "sentence_en": "She has a warm personality that makes everyone feel comfortable.",
+      "sentence_ko": "그녀는 모두를 편안하게 만드는 따뜻한 성격을 가졌다.",
+      "tags": ["mood", "personality"]
+    },
+    {
+      "word": "Warm",
+      "sentence_en": "They gave us a warm welcome when we arrived.",
+      "sentence_ko": "우리가 도착했을 때 그들은 따뜻하게 환영해줬다.",
+      "tags": ["home", "hospitality"]
+    },
+    {
+      "word": "Warm",
+      "sentence_en": "His warm smile immediately put me at ease.",
+      "sentence_ko": "그의 따뜻한 미소가 즉시 나를 편안하게 만들었다.",
+      "tags": ["mood", "emotion"]
+    },
+    {
+      "word": "Warm",
+      "sentence_en": "The café has a warm atmosphere perfect for studying.",
+      "sentence_ko": "그 카페는 공부하기 완벽한 따뜻한 분위기야.",
+      "tags": ["study", "environment"]
+    },
+    {
+      "word": "Warm",
+      "sentence_en": "She shared warm memories of growing up with her siblings.",
+      "sentence_ko": "그녀는 남매들과 함께 자란 따뜻한 추억을 나눴다.",
+      "tags": ["family", "conversation"]
+    },
+    {
+      "word": "Soulmate",
+      "sentence_en": "I truly believe she's my soulmate and we're meant to be together.",
+      "sentence_ko": "나는 진심으로 그녀가 내 소울메이트이고 우리가 함께할 운명이라고 믿어.",
+      "tags": ["romance", "relationship"]
+    },
+    {
+      "word": "Soulmate",
+      "sentence_en": "My best friend is like my platonic soulmate.",
+      "sentence_ko": "내 베프는 내 정신적 소울메이트 같아.",
+      "tags": ["friendship", "relationship"]
+    },
+    {
+      "word": "Soulmate",
+      "sentence_en": "Finding your soulmate doesn't always happen in movies.",
+      "sentence_ko": "소울메이트를 찾는 건 영화에서처럼 항상 일어나는 일은 아니야.",
+      "tags": ["romance", "reality"]
+    },
+    {
+      "word": "Soulmate",
+      "sentence_en": "They're business soulmates who understand each other perfectly.",
+      "sentence_ko": "그들은 서로를 완벽하게 이해하는 비즈니스 소울메이트야.",
+      "tags": ["entrepreneur", "partnership"]
+    },
+    {
+      "word": "Soulmate",
+      "sentence_en": "I'm still waiting to meet my soulmate someday.",
+      "sentence_ko": "나는 아직 언젠가 내 소울메이트를 만나길 기다리고 있어.",
+      "tags": ["romance", "hope"]
+    },
+    {
+      "word": "Companion",
+      "sentence_en": "My dog has been my faithful companion for ten years.",
+      "sentence_ko": "우리 강아지는 10년 동안 나의 충실한 동반자였다.",
+      "tags": ["home", "pet"]
+    },
+    {
+      "word": "Companion",
+      "sentence_en": "She's looking for a travel companion to explore Europe with.",
+      "sentence_ko": "그녀는 유럽을 함께 여행할 동반자를 찾고 있다.",
+      "tags": ["travel", "friendship"]
+    },
+    {
+      "word": "Companion",
+      "sentence_en": "Books have been my constant companions since childhood.",
+      "sentence_ko": "책은 어린 시절부터 나의 변함없는 친구였다.",
+      "tags": ["study", "hobby"]
+    },
+    {
+      "word": "Companion",
+      "sentence_en": "He hired a companion to help his elderly mother.",
+      "sentence_ko": "그는 연로한 어머니를 돕기 위해 돌보미를 고용했다.",
+      "tags": ["family", "care"]
+    },
+    {
+      "word": "Companion",
+      "sentence_en": "My workout companion keeps me motivated at the gym.",
+      "sentence_ko": "내 운동 동료가 체육관에서 나를 동기부여해줘.",
+      "tags": ["exercise", "motivation"]
+    },
+    {
+      "word": "Partner",
+      "sentence_en": "My business partner and I have been working together for five years.",
+      "sentence_ko": "내 사업 파트너와 나는 5년 동안 함께 일해왔다.",
+      "tags": ["entrepreneur", "office"]
+    },
+    {
+      "word": "Partner",
+      "sentence_en": "She's not just my partner, she's also my best friend.",
+      "sentence_ko": "그녀는 단순히 내 파트너가 아니라 내 베프이기도 해.",
+      "tags": ["romance", "friendship"]
+    },
+    {
+      "word": "Partner",
+      "sentence_en": "We need a coding partner for this hackathon project.",
+      "sentence_ko": "이 해커톤 프로젝트를 위해 코딩 파트너가 필요해.",
+      "tags": ["code", "collaboration"]
+    },
+    {
+      "word": "Partner",
+      "sentence_en": "My dance partner and I practice together three times a week.",
+      "sentence_ko": "내 댄스 파트너와 나는 일주일에 세 번 함께 연습해.",
+      "tags": ["exercise", "practice"]
+    },
+    {
+      "word": "Partner",
+      "sentence_en": "Life is easier when you have a supportive partner by your side.",
+      "sentence_ko": "곁에 지지해주는 파트너가 있으면 인생이 더 쉽다.",
+      "tags": ["romance", "support"]
+    },
+    {
+      "word": "Spouse",
+      "sentence_en": "You can add your spouse to your health insurance plan.",
+      "sentence_ko": "배우자를 건강보험 플랜에 추가할 수 있습니다.",
+      "tags": ["office", "benefits"]
+    },
+    {
+      "word": "Spouse",
+      "sentence_en": "Military spouses often face unique challenges when relocating.",
+      "sentence_ko": "군인 배우자들은 이사할 때 특별한 어려움을 겪곤 한다.",
+      "tags": ["family", "challenge"]
+    },
+    {
+      "word": "Spouse",
+      "sentence_en": "The tax form requires information about your spouse's income.",
+      "sentence_ko": "세금 양식에는 배우자의 수입에 관한 정보가 필요합니다.",
+      "tags": ["finance", "legal"]
+    },
+    {
+      "word": "Spouse",
+      "sentence_en": "My spouse and I take turns cooking dinner every week.",
+      "sentence_ko": "배우자와 나는 매주 번갈아가며 저녁을 요리해.",
+      "tags": ["home", "routine"]
+    },
+    {
+      "word": "Spouse",
+      "sentence_en": "Company benefits extend to employees' spouses and children.",
+      "sentence_ko": "회사 혜택은 직원의 배우자와 자녀에게도 적용됩니다.",
+      "tags": ["office", "benefits"]
+    },
+    {
+      "word": "Significant other",
+      "sentence_en": "I'm bringing my significant other to the office party.",
+      "sentence_ko": "사무실 파티에 내 애인을 데려올 거야.",
+      "tags": ["office", "social"]
+    },
+    {
+      "word": "Significant other",
+      "sentence_en": "Have you met his significant other yet?",
+      "sentence_ko": "그의 연인을 만나봤어?",
+      "tags": ["conversation", "relationship"]
+    },
+    {
+      "word": "Significant other",
+      "sentence_en": "My significant other supports all my entrepreneurial dreams.",
+      "sentence_ko": "내 파트너는 내 모든 창업 꿈을 지지해줘.",
+      "tags": ["entrepreneur", "support"]
+    },
+    {
+      "word": "Significant other",
+      "sentence_en": "She's planning a surprise trip for her significant other.",
+      "sentence_ko": "그녀는 애인을 위해 깜짝 여행을 계획하고 있어.",
+      "tags": ["romance", "travel"]
+    },
+    {
+      "word": "Significant other",
+      "sentence_en": "My significant other and I love hiking together on weekends.",
+      "sentence_ko": "내 파트너와 나는 주말에 함께 하이킹하는 걸 좋아해.",
+      "tags": ["outdoor", "exercise"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "Hey buddy, want to grab lunch together?",
+      "sentence_ko": "야 친구, 같이 점심 먹을래?",
+      "tags": ["conversation", "casual"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "My gym buddy keeps me accountable for my fitness goals.",
+      "sentence_ko": "내 헬스장 친구가 운동 목표를 책임지도록 도와줘.",
+      "tags": ["exercise", "motivation"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "We use the buddy system when hiking in unfamiliar areas.",
+      "sentence_ko": "우리는 낯선 지역에서 하이킹할 때 짝 시스템을 사용해.",
+      "tags": ["outdoor", "safety"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "My coding buddy helps me debug difficult problems.",
+      "sentence_ko": "내 코딩 친구가 어려운 문제를 디버깅하는 걸 도와줘.",
+      "tags": ["code", "collaboration"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "Listen buddy, I think you're making a mistake here.",
+      "sentence_ko": "이봐 친구, 네가 여기서 실수하는 것 같아.",
+      "tags": ["conversation", "advice"]
+    },
+    {
+      "word": "Buddy",
+      "sentence_en": "My study buddy and I meet every Tuesday at the library.",
+      "sentence_ko": "내 공부 친구와 나는 매주 화요일 도서관에서 만나.",
+      "tags": ["study", "routine"]
+    }
+  ]
+}

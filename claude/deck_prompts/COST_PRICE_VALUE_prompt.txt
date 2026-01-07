@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: COST_PRICE_VALUE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Cost - 비용, 원가 (지불해야 하는 돈)
+2. Price - 가격 (판매가)
+3. Value - 가치 (유용성이나 중요성)
+4. Worth - ~의 가치가 있는 (금전적/실질적 가치)
+5. Valuable - 귀중한, 비싼 (가치가 높은)
+6. Precious - 귀중한, 소중한 (매우 아끼는)
+7. Priceless - 돈으로 살 수 없는 (매우 귀중한)
+8. Invaluable - 매우 유용한 (값을 따질 수 없을 만큼 귀한)
+9. Worthless - 가치 없는 (쓸모없는)
+10. Cheap - 싼, 싸구려의 (가격이 낮거나 품질이 나쁜)
+11. Inexpensive - 저렴한 (비싸지 않은 - 긍정적)
+12. Inferior - 질이 떨어지는 (하급의)
+13. Shoddy - 조잡한 (싸구려로 대충 만든)
+14. Rip-off - 바가지 (터무니없이 비싼 것 - 속어)
+15. Steal - 거저나 다름없는 것 (너무 싸게 잘 산 것)
+16. Deal - 거래, 싼 물건
+17. Expense - 지출, 비용 (돈이 나가는 것)
+18. Expenditure - 지출, 경비 (공적인 지출)
+19. Overhead - 고정비, 간접비 (운영 유지비)
+20. Quote - 견적액 (확정된 제시 가격)
+21. Outlay - 경비, 지출 (시작할 때 드는 돈)
+22. Budget - 예산 (계획된 돈)
+23. Estimate - 견적, 추정 (예상 가격)
+24. Valuation - 평가액 (가치 산정)
+25. Assessment - 평가, 사정 (세금 등을 위한 평가)
+26. Appraisal - 감정, 평가 (전문가에 의한 가치 평가)
+27. Charge - 요금, 청구하다 (서비스 대가)
+28. Fee - 수수료, 요금 (전문 서비스/입장료)
+29. Fare - 운임 (교통 요금)
+30. Rate - 요금, 비율 (기준에 따른 가격)
+
+## 추천 태그 (상황/맥락)
+meeting, shopping, warm, food, university, home, interview, conversation, relationship, wellness
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "COST_PRICE_VALUE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "COST_PRICE_VALUE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

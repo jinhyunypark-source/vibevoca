@@ -1,0 +1,906 @@
+{
+  "deck_title": "ATTITUDE_TONE",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Assertive",
+      "sentence_en": "You need to be assertive to succeed as an entrepreneur.",
+      "sentence_ko": "기업가로서 성공하려면 단호한 태도를 보여야 합니다.",
+      "tags": ["entrepreneur", "develope", "conversation", "activity"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "She was assertive in the meeting, making sure her plan was heard.",
+      "sentence_ko": "그녀는 회의에서 자신의 계획이 전달되도록 단호하게 행동했습니다.",
+      "tags": ["conversation", "planning", "time", "activity"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "Being assertive is different from being aggressive; it's about confidence.",
+      "sentence_ko": "단호한 것은 공격적인 것과는 다릅니다. 그것은 자신감에 관한 것입니다.",
+      "tags": ["emotion", "develope", "conversation"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "He made an assertive decision to change the project deadline.",
+      "sentence_ko": "그는 프로젝트 마감 기한을 변경하기 위해 결단력 있는 결정을 내렸습니다.",
+      "tags": ["planning", "time", "develope", "activity"]
+    },
+    {
+      "word": "Assertive",
+      "sentence_en": "I learned to be more assertive when negotiating my salary.",
+      "sentence_ko": "저는 연봉 협상을 할 때 더 자기주장을 확실히 하는 법을 배웠습니다.",
+      "tags": ["entrepreneur", "conversation", "planning"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "It is important to be polite when asking for directions in a new place.",
+      "sentence_ko": "낯선 곳에서 길을 물을 때는 예의를 갖추는 것이 중요합니다.",
+      "tags": ["place", "vacation", "conversation", "activity"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "He gave a polite refusal to the invitation due to lack of time.",
+      "sentence_ko": "그는 시간이 부족해서 초대에 대해 정중하게 거절했습니다.",
+      "tags": ["time", "conversation", "emotion"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "The staff at the hotel were incredibly polite and helpful.",
+      "sentence_ko": "그 호텔의 직원들은 믿을 수 없을 정도로 예의 바르고 협조적이었습니다.",
+      "tags": ["vacation", "place", "emotion", "activity"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "Keep the conversation polite even if you disagree with them.",
+      "sentence_ko": "그들과 의견이 다르더라도 대화는 예의 바르게 유지하세요.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Polite",
+      "sentence_en": "A polite email can open many doors in business.",
+      "sentence_ko": "정중한 이메일 한 통이 비즈니스에서 많은 기회를 열어줄 수 있습니다.",
+      "tags": ["entrepreneur", "conversation", "planning"]
+    },
+    {
+      "word": "Enthusiastic",
+      "sentence_en": "The team was enthusiastic about the new app development project.",
+      "sentence_ko": "팀은 새로운 앱 개발 프로젝트에 대해 열정적이었습니다.",
+      "tags": ["develope", "entrepreneur", "planning", "emotion"]
+    },
+    {
+      "word": "Enthusiastic",
+      "sentence_en": "She gave an enthusiastic presentation that excited the investors.",
+      "sentence_ko": "그녀는 투자자들을 흥분시키는 열정적인 프레젠테이션을 했습니다.",
+      "tags": ["entrepreneur", "conversation", "activity"]
+    },
+    {
+      "word": "Enthusiastic",
+      "sentence_en": "My children are very enthusiastic about going to the movies this weekend.",
+      "sentence_ko": "제 아이들은 이번 주말에 영화 보러 가는 것에 아주 신나 있습니다.",
+      "tags": ["movie", "vacation", "time", "emotion"]
+    },
+    {
+      "word": "Enthusiastic",
+      "sentence_en": "He is an enthusiastic runner, waking up early every day.",
+      "sentence_ko": "그는 매일 일찍 일어나는 열정적인 러너입니다.",
+      "tags": ["activity", "time", "emotion", "develope"]
+    },
+    {
+      "word": "Enthusiastic",
+      "sentence_en": "We received an enthusiastic welcome when we arrived at the venue.",
+      "sentence_ko": "우리가 장소에 도착했을 때 열렬한 환영을 받았습니다.",
+      "tags": ["place", "emotion", "vacation"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "Despite his success as an entrepreneur, he remains humble.",
+      "sentence_ko": "기업가로서의 성공에도 불구하고, 그는 여전히 겸손합니다.",
+      "tags": ["entrepreneur", "develope", "emotion"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "She was humble enough to admit her mistake in the planning phase.",
+      "sentence_ko": "그녀는 기획 단계에서의 실수를 인정할 만큼 겸손했습니다.",
+      "tags": ["planning", "develope", "conversation"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "They live in a humble house near the countryside.",
+      "sentence_ko": "그들은 시골 근처의 소박한 집에서 살고 있습니다.",
+      "tags": ["place", "vacation", "activity"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "He accepted the award with a humble speech.",
+      "sentence_ko": "그는 겸손한 연설로 상을 받았습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Humble",
+      "sentence_en": "It is important to stay humble and keep learning.",
+      "sentence_ko": "겸손함을 유지하며 계속 배우는 것이 중요합니다.",
+      "tags": ["develope", "education", "time"]
+    },
+    {
+      "word": "Aggressive",
+      "sentence_en": "The company launched an aggressive marketing campaign.",
+      "sentence_ko": "그 회사는 공격적인 마케팅 캠페인을 시작했습니다.",
+      "tags": ["entrepreneur", "planning", "activity"]
+    },
+    {
+      "word": "Aggressive",
+      "sentence_en": "His aggressive tone during the conversation made everyone uncomfortable.",
+      "sentence_ko": "대화 중 그의 공격적인 어조는 모두를 불편하게 만들었습니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Aggressive",
+      "sentence_en": "You need to be aggressive to secure a spot in this competitive market.",
+      "sentence_ko": "이 경쟁 치열한 시장에서 자리를 확보하려면 공격적이어야 합니다.",
+      "tags": ["entrepreneur", "planning", "time"]
+    },
+    {
+      "word": "Aggressive",
+      "sentence_en": "The player was too aggressive and got a penalty.",
+      "sentence_ko": "그 선수는 너무 공격적이어서 페널티를 받았습니다.",
+      "tags": ["activity", "emotion", "place"]
+    },
+    {
+      "word": "Aggressive",
+      "sentence_en": "Aggressive driving can lead to serious accidents.",
+      "sentence_ko": "난폭한(공격적인) 운전은 심각한 사고로 이어질 수 있습니다.",
+      "tags": ["activity", "place", "time"]
+    },
+    {
+      "word": "Condescending",
+      "sentence_en": "I dislike it when he explains things in a condescending way.",
+      "sentence_ko": "나는 그가 거들먹거리는 방식으로 설명할 때가 싫습니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Condescending",
+      "sentence_en": "Her condescending attitude towards the interns was unprofessional.",
+      "sentence_ko": "인턴들을 향한 그녀의 거들먹거리는 태도는 프로답지 못했습니다.",
+      "tags": ["entrepreneur", "place", "conversation"]
+    },
+    {
+      "word": "Condescending",
+      "sentence_en": "The movie critic wrote a condescending review of the blockbuster.",
+      "sentence_ko": "영화 평론가는 그 블록버스터 영화에 대해 잘난 체하는 리뷰를 썼습니다.",
+      "tags": ["movie", "develope", "emotion"]
+    },
+    {
+      "word": "Condescending",
+      "sentence_en": "Please don't be condescending; I understand the plan perfectly.",
+      "sentence_ko": "잘난 체하지 마세요. 저는 그 계획을 완벽하게 이해하고 있습니다.",
+      "tags": ["planning", "conversation", "emotion"]
+    },
+    {
+      "word": "Condescending",
+      "sentence_en": "He gave me a condescending smile as if I were a child.",
+      "sentence_ko": "그는 마치 나를 어린애 취급하듯 거들먹거리는 미소를 지었습니다.",
+      "tags": ["emotion", "conversation", "time"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "A passive approach won't help you grow your business.",
+      "sentence_ko": "수동적인 접근 방식은 사업을 키우는 데 도움이 되지 않습니다.",
+      "tags": ["entrepreneur", "develope", "planning"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "He remained passive during the discussion and didn't offer any ideas.",
+      "sentence_ko": "그는 토론 내내 수동적이었고 아무런 아이디어도 내지 않았습니다.",
+      "tags": ["conversation", "activity", "time"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "Watching movies is a passive activity compared to running.",
+      "sentence_ko": "영화를 보는 것은 달리기에 비해 수동적인 활동입니다.",
+      "tags": ["movie", "activity", "time"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "Don't be passive about your health; take action now.",
+      "sentence_ko": "건강에 대해 수동적으로 있지 말고 지금 행동을 취하세요.",
+      "tags": ["develope", "emotion", "time"]
+    },
+    {
+      "word": "Passive",
+      "sentence_en": "She enjoys a passive vacation simply lying on the beach.",
+      "sentence_ko": "그녀는 해변에 누워만 있는 수동적인 휴가를 즐깁니다.",
+      "tags": ["vacation", "place", "emotion"]
+    },
+    {
+      "word": "Patronizing",
+      "sentence_en": "Stop being patronizing and treat me like an equal.",
+      "sentence_ko": "가르치려 들지 말고 저를 동등하게 대해주세요.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Patronizing",
+      "sentence_en": "The boss's patronizing tone annoyed the employees.",
+      "sentence_ko": "상사의 생색내는 말투는 직원들을 짜증 나게 했습니다.",
+      "tags": ["entrepreneur", "place", "emotion"]
+    },
+    {
+      "word": "Patronizing",
+      "sentence_en": "It sounded patronizing when he explained how to use the coffee machine.",
+      "sentence_ko": "그가 커피 머신 사용법을 설명할 때 마치 가르치려 드는 것처럼 들렸습니다.",
+      "tags": ["conversation", "activity", "place"]
+    },
+    {
+      "word": "Patronizing",
+      "sentence_en": "She didn't mean to be patronizing, but it came off that way.",
+      "sentence_ko": "그녀는 생색내려는 의도가 아니었지만, 그렇게 보였습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Patronizing",
+      "sentence_en": "Avoid using patronizing language in your marketing copy.",
+      "sentence_ko": "마케팅 문구에 소비자를 가르치려 드는 언어를 사용하지 마세요.",
+      "tags": ["entrepreneur", "planning", "develope"]
+    },
+    {
+      "word": "Defensive",
+      "sentence_en": "He gets defensive whenever someone criticizes his code.",
+      "sentence_ko": "그는 누군가 자신의 코드를 비판할 때마다 방어적으로 변합니다.",
+      "tags": ["develope", "conversation", "emotion"]
+    },
+    {
+      "word": "Defensive",
+      "sentence_en": "There is no need to be defensive; we are just brainstorming.",
+      "sentence_ko": "방어적일 필요 없습니다. 우리는 단지 브레인스토밍을 하는 중이니까요.",
+      "tags": ["planning", "conversation", "activity"]
+    },
+    {
+      "word": "Defensive",
+      "sentence_en": "She folded her arms in a defensive posture.",
+      "sentence_ko": "그녀는 방어적인 자세로 팔짱을 꼈습니다.",
+      "tags": ["emotion", "place", "activity"]
+    },
+    {
+      "word": "Defensive",
+      "sentence_en": "Don't take his feedback as an attack and get defensive.",
+      "sentence_ko": "그의 피드백을 공격으로 받아들여 방어적으로 굴지 마세요.",
+      "tags": ["develope", "conversation", "emotion"]
+    },
+    {
+      "word": "Defensive",
+      "sentence_en": "The team played a defensive game to maintain their lead.",
+      "sentence_ko": "그 팀은 리드를 지키기 위해 방어적인 경기를 펼쳤습니다.",
+      "tags": ["activity", "time", "place"]
+    },
+    {
+      "word": "Sarcastic",
+      "sentence_en": "His sarcastic comment made everyone laugh, but it stung a little.",
+      "sentence_ko": "그의 빈정대는 발언은 모두를 웃게 했지만, 약간 뼈가 있었습니다.",
+      "tags": ["conversation", "emotion", "activity"]
+    },
+    {
+      "word": "Sarcastic",
+      "sentence_en": "I couldn't tell if he was being serious or sarcastic.",
+      "sentence_ko": "나는 그가 진지한 건지 빈정대는 건지 구분이 안 갔습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Sarcastic",
+      "sentence_en": "The movie character is known for his witty and sarcastic humor.",
+      "sentence_ko": "그 영화 속 캐릭터는 재치 있고 냉소적인 유머로 유명합니다.",
+      "tags": ["movie", "emotion", "develope"]
+    },
+    {
+      "word": "Sarcastic",
+      "sentence_en": "\"Great job,\" he said in a sarcastic voice after I dropped the phone.",
+      "sentence_ko": "내가 전화기를 떨어뜨리자 그는 빈정대는 목소리로 \"잘했어\"라고 말했습니다.",
+      "tags": ["conversation", "emotion", "activity"]
+    },
+    {
+      "word": "Sarcastic",
+      "sentence_en": "Sarcastic remarks can sometimes hurt people's feelings.",
+      "sentence_ko": "빈정대는 말은 때때로 사람들의 감정을 상하게 할 수 있습니다.",
+      "tags": ["emotion", "develope", "conversation"]
+    },
+    {
+      "word": "Haughty",
+      "sentence_en": "She looked at the waiter with a haughty expression.",
+      "sentence_ko": "그녀는 거만한 표정으로 웨이터를 쳐다보았습니다.",
+      "tags": ["place", "emotion", "conversation"]
+    },
+    {
+      "word": "Haughty",
+      "sentence_en": "His haughty attitude made it difficult to work with him.",
+      "sentence_ko": "그의 거만한 태도는 그와 함께 일하는 것을 어렵게 만들었습니다.",
+      "tags": ["entrepreneur", "activity", "develope"]
+    },
+    {
+      "word": "Haughty",
+      "sentence_en": "The haughty prince in the movie eventually learns a lesson.",
+      "sentence_ko": "영화 속 거만한 왕자는 결국 교훈을 얻습니다.",
+      "tags": ["movie", "emotion", "time"]
+    },
+    {
+      "word": "Haughty",
+      "sentence_en": "Don't be haughty just because you have more experience.",
+      "sentence_ko": "경험이 더 많다고 해서 거만하게 굴지 마세요.",
+      "tags": ["develope", "emotion", "time"]
+    },
+    {
+      "word": "Haughty",
+      "sentence_en": "He dismissed our ideas with a haughty wave of his hand.",
+      "sentence_ko": "그는 거만한 손짓으로 우리의 아이디어를 일축했습니다.",
+      "tags": ["planning", "conversation", "emotion"]
+    },
+    {
+      "word": "Insincere",
+      "sentence_en": "His apology sounded insincere and forced.",
+      "sentence_ko": "그의 사과는 가식적이고 억지스럽게 들렸습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Insincere",
+      "sentence_en": "I hate insincere compliments; just tell me the truth.",
+      "sentence_ko": "저는 가식적인 칭찬이 싫습니다. 그냥 사실대로 말해주세요.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Insincere",
+      "sentence_en": "The customer service felt mechanical and insincere.",
+      "sentence_ko": "고객 서비스가 기계적이고 성의 없게 느껴졌습니다.",
+      "tags": ["place", "emotion", "activity"]
+    },
+    {
+      "word": "Insincere",
+      "sentence_en": "An insincere smile can be easily spotted.",
+      "sentence_ko": "가식적인 미소는 쉽게 알아챌 수 있습니다.",
+      "tags": ["emotion", "conversation", "time"]
+    },
+    {
+      "word": "Insincere",
+      "sentence_en": "Don't make insincere promises to your business partners.",
+      "sentence_ko": "비즈니스 파트너들에게 지키지 못할 가식적인 약속은 하지 마세요.",
+      "tags": ["entrepreneur", "planning", "conversation"]
+    },
+    {
+      "word": "Apathetic",
+      "sentence_en": "Voters are becoming apathetic about the upcoming election.",
+      "sentence_ko": "유권자들은 다가오는 선거에 대해 무관심해지고 있습니다.",
+      "tags": ["time", "emotion", "place"]
+    },
+    {
+      "word": "Apathetic",
+      "sentence_en": "He felt apathetic towards his work and needed a break.",
+      "sentence_ko": "그는 일에 대해 무기력함을 느꼈고 휴식이 필요했습니다.",
+      "tags": ["develope", "emotion", "vacation"]
+    },
+    {
+      "word": "Apathetic",
+      "sentence_en": "The students were apathetic during the boring lecture.",
+      "sentence_ko": "지루한 강의 시간 동안 학생들은 무관심했습니다.",
+      "tags": ["place", "time", "activity"]
+    },
+    {
+      "word": "Apathetic",
+      "sentence_en": "Don't be apathetic about your financial planning.",
+      "sentence_ko": "재무 설계에 대해 무관심하지 마세요.",
+      "tags": ["planning", "time", "develope"]
+    },
+    {
+      "word": "Apathetic",
+      "sentence_en": "Her apathetic response disappointed everyone who worked hard.",
+      "sentence_ko": "그녀의 무심한 반응은 열심히 일한 모두를 실망시켰습니다.",
+      "tags": ["conversation", "emotion", "activity"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "He was too arrogant to ask for directions.",
+      "sentence_ko": "그는 너무 오만해서 길을 물어보지 않았습니다.",
+      "tags": ["place", "emotion", "conversation"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "The arrogant villain in the movie thinks he is invincible.",
+      "sentence_ko": "영화 속 오만한 악당은 자신이 천하무적이라고 생각합니다.",
+      "tags": ["movie", "emotion", "time"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "Confidence is good, but being arrogant turns people away.",
+      "sentence_ko": "자신감은 좋지만, 오만하게 구는 것은 사람들을 등돌리게 합니다.",
+      "tags": ["develope", "emotion", "entrepreneur"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "She made an arrogant assumption that she would win easily.",
+      "sentence_ko": "그녀는 자신이 쉽게 이길 것이라는 오만한 추측을 했습니다.",
+      "tags": ["planning", "activity", "emotion"]
+    },
+    {
+      "word": "Arrogant",
+      "sentence_en": "His arrogant behavior ruined the team spirit.",
+      "sentence_ko": "그의 오만한 행동은 팀 분위기를 망쳤습니다.",
+      "tags": ["activity", "emotion", "place"]
+    },
+    {
+      "word": "Rude",
+      "sentence_en": "It is rude to talk loudly in a movie theater.",
+      "sentence_ko": "영화관에서 크게 떠드는 것은 무례한 일입니다.",
+      "tags": ["movie", "place", "activity"]
+    },
+    {
+      "word": "Rude",
+      "sentence_en": "I didn't mean to be rude, but I was in a hurry.",
+      "sentence_ko": "무례하게 굴려던 건 아니었는데, 제가 좀 급했습니다.",
+      "tags": ["time", "conversation", "emotion"]
+    },
+    {
+      "word": "Rude",
+      "sentence_en": "He made a rude gesture at the driver who cut him off.",
+      "sentence_ko": "그는 끼어든 운전자에게 무례한 제스처를 취했습니다.",
+      "tags": ["activity", "emotion", "place"]
+    },
+    {
+      "word": "Rude",
+      "sentence_en": "The rude customer made the cashier cry.",
+      "sentence_ko": "무례한 손님이 계산원을 울렸습니다.",
+      "tags": ["place", "emotion", "conversation"]
+    },
+    {
+      "word": "Rude",
+      "sentence_en": "Checking your phone during a conversation is considered rude.",
+      "sentence_ko": "대화 중에 휴대전화를 확인하는 것은 무례한 것으로 간주됩니다.",
+      "tags": ["conversation", "time", "activity"]
+    },
+    {
+      "word": "Flippant",
+      "sentence_en": "He gave a flippant answer to a serious question.",
+      "sentence_ko": "그는 심각한 질문에 건성으로(경박하게) 대답했습니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Flippant",
+      "sentence_en": "Don't be flippant about safety regulations.",
+      "sentence_ko": "안전 규정에 대해 경박하게 굴지 마세요.",
+      "tags": ["planning", "activity", "time"]
+    },
+    {
+      "word": "Flippant",
+      "sentence_en": "His flippant attitude towards the project angered the manager.",
+      "sentence_ko": "프로젝트에 대한 그의 건방진 태도는 매니저를 화나게 했습니다.",
+      "tags": ["entrepreneur", "develope", "emotion"]
+    },
+    {
+      "word": "Flippant",
+      "sentence_en": "It is not the time to be flippant; we are in a crisis.",
+      "sentence_ko": "지금은 경박하게 굴 때가 아닙니다. 위기 상황입니다.",
+      "tags": ["time", "emotion", "planning"]
+    },
+    {
+      "word": "Flippant",
+      "sentence_en": "She regretted her flippant remark as soon as she said it.",
+      "sentence_ko": "그녀는 말을 내뱉자마자 자신의 경박한 발언을 후회했습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Offensive",
+      "sentence_en": "His jokes were offensive to many people in the audience.",
+      "sentence_ko": "그의 농담은 청중의 많은 사람에게 불쾌감을 주었습니다.",
+      "tags": ["conversation", "emotion", "place"]
+    },
+    {
+      "word": "Offensive",
+      "sentence_en": "Please avoid using offensive language in the workplace.",
+      "sentence_ko": "직장에서는 모욕적인 언어 사용을 피해주세요.",
+      "tags": ["place", "conversation", "develope"]
+    },
+    {
+      "word": "Offensive",
+      "sentence_en": "I found the movie's portrayal of history offensive.",
+      "sentence_ko": "저는 그 영화의 역사 묘사가 불쾌하다고 느꼈습니다.",
+      "tags": ["movie", "emotion", "time"]
+    },
+    {
+      "word": "Offensive",
+      "sentence_en": "He didn't realize his comment was offensive until I told him.",
+      "sentence_ko": "내가 말해주기 전까지 그는 자신의 말이 모욕적이라는 것을 깨닫지 못했습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Offensive",
+      "sentence_en": "They launched an offensive campaign against their competitors.",
+      "sentence_ko": "그들은 경쟁사들에 대해 공격적인(불쾌한) 캠페인을 시작했습니다.",
+      "tags": ["entrepreneur", "planning", "activity"]
+    },
+    {
+      "word": "Cynical",
+      "sentence_en": "He has become cynical about politics after the scandal.",
+      "sentence_ko": "그 스캔들 이후 그는 정치에 대해 냉소적으로 변했습니다.",
+      "tags": ["develope", "emotion", "time"]
+    },
+    {
+      "word": "Cynical",
+      "sentence_en": "Don't be so cynical; not everyone has a hidden agenda.",
+      "sentence_ko": "너무 냉소적으로 굴지 마세요. 모든 사람에게 숨은 의도가 있는 건 아닙니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Cynical",
+      "sentence_en": "The movie takes a cynical look at modern romance.",
+      "sentence_ko": "그 영화는 현대의 로맨스를 냉소적인 시선으로 바라봅니다.",
+      "tags": ["movie", "emotion", "time"]
+    },
+    {
+      "word": "Cynical",
+      "sentence_en": "Her cynical attitude makes it hard to brainstorm new ideas.",
+      "sentence_ko": "그녀의 냉소적인 태도는 새로운 아이디어를 내는 것을 어렵게 만듭니다.",
+      "tags": ["planning", "entrepreneur", "activity"]
+    },
+    {
+      "word": "Cynical",
+      "sentence_en": "A cynical investor might say the market is rigged.",
+      "sentence_ko": "냉소적인 투자자라면 시장이 조작되었다고 말할지도 모릅니다.",
+      "tags": ["entrepreneur", "develope", "conversation"]
+    },
+    {
+      "word": "Ironic",
+      "sentence_en": "It is ironic that the fire station burned down.",
+      "sentence_ko": "소방서가 불에 탔다니 참 아이러니합니다.",
+      "tags": ["place", "emotion", "time"]
+    },
+    {
+      "word": "Ironic",
+      "sentence_en": "He made an ironic comment about the 'perfect' weather as it rained.",
+      "sentence_ko": "비가 오는데 '완벽한' 날씨라며 그는 반어적인 농담을 했습니다.",
+      "tags": ["vacation", "conversation", "emotion"]
+    },
+    {
+      "word": "Ironic",
+      "sentence_en": "The movie has an ironic twist at the end.",
+      "sentence_ko": "그 영화는 결말에 아이러니한 반전이 있습니다.",
+      "tags": ["movie", "time", "emotion"]
+    },
+    {
+      "word": "Ironic",
+      "sentence_en": "Ideally, technology saves time, but ironically, we are busier than ever.",
+      "sentence_ko": "원래 기술은 시간을 절약해주지만, 아이러니하게도 우리는 그 어느 때보다 바쁩니다.",
+      "tags": ["develope", "time", "activity"]
+    },
+    {
+      "word": "Ironic",
+      "sentence_en": "Life is full of ironic situations.",
+      "sentence_ko": "인생은 아이러니한 상황들로 가득 차 있습니다.",
+      "tags": ["develope", "emotion", "time"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "She was very sympathetic when I told her about my bad day.",
+      "sentence_ko": "내가 안 좋은 하루를 보냈다고 말했을 때 그녀는 매우 공감해주었습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "The doctor was sympathetic to the patient's pain.",
+      "sentence_ko": "의사는 환자의 고통에 대해 동정적이었습니다.",
+      "tags": ["place", "emotion", "develope"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "We need a sympathetic ear to listen to our problems.",
+      "sentence_ko": "우리에게는 문제를 들어줄 공감 어린 귀가 필요합니다.",
+      "tags": ["conversation", "emotion", "activity"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "The movie portrays the villain as a sympathetic character.",
+      "sentence_ko": "그 영화는 악당을 동정심이 가는 캐릭터로 묘사합니다.",
+      "tags": ["movie", "emotion", "develope"]
+    },
+    {
+      "word": "Sympathetic",
+      "sentence_en": "He gave a sympathetic smile and patted my back.",
+      "sentence_ko": "그는 동정 어린 미소를 지으며 내 등을 토닥였습니다.",
+      "tags": ["emotion", "activity", "conversation"]
+    },
+    {
+      "word": "Hypocritical",
+      "sentence_en": "It is hypocritical to tell others to save money while you spend lavishly.",
+      "sentence_ko": "자기는 펑펑 쓰면서 남들에게 돈을 아끼라고 하는 것은 위선적입니다.",
+      "tags": ["develope", "conversation", "planning"]
+    },
+    {
+      "word": "Hypocritical",
+      "sentence_en": "I found his speech hypocritical given his past actions.",
+      "sentence_ko": "그의 과거 행동을 볼 때 저는 그의 연설이 위선적이라고 생각했습니다.",
+      "tags": ["conversation", "time", "emotion"]
+    },
+    {
+      "word": "Hypocritical",
+      "sentence_en": "Don't be hypocritical; practice what you preach.",
+      "sentence_ko": "위선적으로 굴지 말고 언행을 일치시키세요.",
+      "tags": ["develope", "activity", "conversation"]
+    },
+    {
+      "word": "Hypocritical",
+      "sentence_en": "The politician was criticized for his hypocritical stance.",
+      "sentence_ko": "그 정치인은 위선적인 태도로 비판을 받았습니다.",
+      "tags": ["place", "emotion", "conversation"]
+    },
+    {
+      "word": "Hypocritical",
+      "sentence_en": "It feels hypocritical to eat meat while claiming to love animals.",
+      "sentence_ko": "동물을 사랑한다고 하면서 고기를 먹는 것은 위선적으로 느껴집니다.",
+      "tags": ["emotion", "activity", "develope"]
+    },
+    {
+      "word": "Empathetic",
+      "sentence_en": "An empathetic leader understands the team's struggles.",
+      "sentence_ko": "공감 능력이 있는 리더는 팀의 고충을 이해합니다.",
+      "tags": ["entrepreneur", "develope", "emotion"]
+    },
+    {
+      "word": "Empathetic",
+      "sentence_en": "Try to be empathetic and see things from their perspective.",
+      "sentence_ko": "감정을 이입해서 그들의 관점으로 상황을 보도록 노력하세요.",
+      "tags": ["conversation", "emotion", "planning"]
+    },
+    {
+      "word": "Empathetic",
+      "sentence_en": "She is an empathetic listener who makes people feel safe.",
+      "sentence_ko": "그녀는 사람들을 편안하게 해주는 공감 능력 뛰어난 청자입니다.",
+      "tags": ["conversation", "emotion", "place"]
+    },
+    {
+      "word": "Empathetic",
+      "sentence_en": "Being empathetic helps in building strong relationships.",
+      "sentence_ko": "공감하는 태도는 튼튼한 관계를 쌓는 데 도움이 됩니다.",
+      "tags": ["develope", "emotion", "activity"]
+    },
+    {
+      "word": "Empathetic",
+      "sentence_en": "The actor gave an empathetic performance as a grieving father.",
+      "sentence_ko": "그 배우는 슬픔에 잠긴 아버지로서 감정 이입이 되는 연기를 보여주었습니다.",
+      "tags": ["movie", "emotion", "activity"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "The crowd became hostile when the concert was cancelled.",
+      "sentence_ko": "콘서트가 취소되자 군중은 적대적으로 변했습니다.",
+      "tags": ["place", "emotion", "activity"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "He sensed a hostile atmosphere as soon as he entered the room.",
+      "sentence_ko": "그는 방에 들어서자마자 적대적인 분위기를 감지했습니다.",
+      "tags": ["place", "emotion", "time"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "It is hard to negotiate in such a hostile environment.",
+      "sentence_ko": "그렇게 적대적인 환경에서는 협상하기 어렵습니다.",
+      "tags": ["entrepreneur", "planning", "place"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "Don't give me that hostile look; I am trying to help.",
+      "sentence_ko": "그렇게 적대적인 눈빛으로 보지 마세요. 저는 도우려는 겁니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "The takeover bid was considered hostile by the board.",
+      "sentence_ko": "그 인수 제안은 이사회에서 적대적인 것으로 간주되었습니다.",
+      "tags": ["entrepreneur", "planning", "activity"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "Our new neighbors are very friendly and welcoming.",
+      "sentence_ko": "새로 온 이웃들은 매우 우호적이고 우리를 환영해 줍니다.",
+      "tags": ["place", "emotion", "conversation"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "We had a friendly competition to see who could run faster.",
+      "sentence_ko": "우리는 누가 더 빨리 달리는지 보려고 친선 경기를 했습니다.",
+      "tags": ["activity", "develope", "time"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "The user interface is friendly and easy to navigate.",
+      "sentence_ko": "사용자 인터페이스가 친화적이고 탐색하기 쉽습니다.",
+      "tags": ["develope", "planning", "activity"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "She gave me a friendly advice about where to eat.",
+      "sentence_ko": "그녀는 어디서 식사하면 좋을지 친절한 조언을 해주었습니다.",
+      "tags": ["vacation", "conversation", "place"]
+    },
+    {
+      "word": "Friendly",
+      "sentence_en": "Keep the tone friendly in your customer emails.",
+      "sentence_ko": "고객 이메일에서는 어조를 우호적으로 유지하세요.",
+      "tags": ["entrepreneur", "conversation", "planning"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "He gave me a cold shoulder after the argument.",
+      "sentence_ko": "논쟁 후 그는 나에게 쌀쌀맞게 대했습니다.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "Her voice was cold and lacked any emotion.",
+      "sentence_ko": "그녀의 목소리는 차가웠고 아무런 감정도 없었습니다.",
+      "tags": ["conversation", "emotion", "place"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "The reception we received was cold and unwelcoming.",
+      "sentence_ko": "우리가 받은 접대는 차갑고 환영받지 못하는 느낌이었습니다.",
+      "tags": ["place", "vacation", "emotion"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "Don't be so cold; try to understand his situation.",
+      "sentence_ko": "너무 차갑게 굴지 말고 그의 상황을 이해해 보세요.",
+      "tags": ["develope", "emotion", "conversation"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "The movie depicts a cold and ruthless killer.",
+      "sentence_ko": "그 영화는 차갑고 무자비한 살인마를 묘사합니다.",
+      "tags": ["movie", "emotion", "time"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "He has been distant lately, as if he is worried about something.",
+      "sentence_ko": "그는 마치 무언가를 걱정하는 듯 최근 들어 거리를 두고 있습니다.",
+      "tags": ["emotion", "time", "conversation"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "Her distant look suggested she was lost in thought.",
+      "sentence_ko": "그녀의 멍한(먼 곳을 보는) 눈빛은 생각에 잠겨 있음을 암시했습니다.",
+      "tags": ["emotion", "place", "time"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "They remained distant friends after graduation.",
+      "sentence_ko": "그들은 졸업 후에도 서먹한 친구 사이로 남았습니다.",
+      "tags": ["time", "emotion", "develope"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "The goal seems distant, but we can achieve it.",
+      "sentence_ko": "목표가 멀어 보이지만, 우리는 달성할 수 있습니다.",
+      "tags": ["planning", "entrepreneur", "time"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "Don't be distant with your family; spend time together.",
+      "sentence_ko": "가족에게 거리감을 두지 말고 함께 시간을 보내세요.",
+      "tags": ["time", "emotion", "activity"]
+    },
+    {
+      "word": "Indifferent",
+      "sentence_en": "He seemed indifferent to the news of his promotion.",
+      "sentence_ko": "그는 승진 소식에도 무덤덤해 보였습니다.",
+      "tags": ["emotion", "conversation", "entrepreneur"]
+    },
+    {
+      "word": "Indifferent",
+      "sentence_en": "Nature is indifferent to human suffering.",
+      "sentence_ko": "자연은 인간의 고통에 무심합니다.",
+      "tags": ["place", "emotion", "time"]
+    },
+    {
+      "word": "Indifferent",
+      "sentence_en": "The indifferent service at the restaurant ruined our meal.",
+      "sentence_ko": "식당의 무관심한 서비스가 우리 식사를 망쳤습니다.",
+      "tags": ["place", "vacation", "emotion"]
+    },
+    {
+      "word": "Indifferent",
+      "sentence_en": "She shrugged her shoulders in an indifferent manner.",
+      "sentence_ko": "그녀는 무심한 태도로 어깨를 으쓱했습니다.",
+      "tags": ["activity", "conversation", "emotion"]
+    },
+    {
+      "word": "Indifferent",
+      "sentence_en": "Being indifferent to politics allows bad leaders to rise.",
+      "sentence_ko": "정치에 무관심하면 나쁜 지도자가 득세하게 됩니다.",
+      "tags": ["develope", "planning", "time"]
+    },
+    {
+      "word": "Sincere",
+      "sentence_en": "Please accept my sincere apologies for the mistake.",
+      "sentence_ko": "실수에 대한 저의 진심 어린 사과를 받아주세요.",
+      "tags": ["conversation", "emotion", "time"]
+    },
+    {
+      "word": "Sincere",
+      "sentence_en": "He is a sincere person who always keeps his promises.",
+      "sentence_ko": "그는 항상 약속을 지키는 성실하고 진실한 사람입니다.",
+      "tags": ["develope", "emotion", "entrepreneur"]
+    },
+    {
+      "word": "Sincere",
+      "sentence_en": "I appreciate your sincere efforts to help us.",
+      "sentence_ko": "우리를 도우려는 당신의 진심 어린 노력에 감사드립니다.",
+      "tags": ["activity", "emotion", "conversation"]
+    },
+    {
+      "word": "Sincere",
+      "sentence_en": "Her sincere wish is to see her family happy.",
+      "sentence_ko": "그녀의 간절한 소망은 가족이 행복해지는 것을 보는 것입니다.",
+      "tags": ["emotion", "time", "planning"]
+    },
+    {
+      "word": "Sincere",
+      "sentence_en": "A sincere compliment can make someone's day.",
+      "sentence_ko": "진심 어린 칭찬 한마디가 누군가의 하루를 기분 좋게 만들 수 있습니다.",
+      "tags": ["conversation", "emotion", "develope"]
+    },
+    {
+      "word": "Earnest",
+      "sentence_en": "He made an earnest attempt to fix the problem.",
+      "sentence_ko": "그는 문제를 해결하기 위해 성실하게 시도했습니다.",
+      "tags": ["activity", "planning", "develope"]
+    },
+    {
+      "word": "Earnest",
+      "sentence_en": "She had an earnest expression on her face as she studied.",
+      "sentence_ko": "공부하는 그녀의 얼굴에는 진지한 표정이 담겨 있었습니다.",
+      "tags": ["emotion", "time", "activity"]
+    },
+    {
+      "word": "Earnest",
+      "sentence_en": "We need earnest discussions about our future plans.",
+      "sentence_ko": "우리는 미래 계획에 대해 진지한 토론이 필요합니다.",
+      "tags": ["planning", "conversation", "time"]
+    },
+    {
+      "word": "Earnest",
+      "sentence_en": "The earnest employee was quickly promoted.",
+      "sentence_ko": "그 성실한 직원은 빠르게 승진했습니다.",
+      "tags": ["entrepreneur", "develope", "time"]
+    },
+    {
+      "word": "Earnest",
+      "sentence_en": "Please be earnest when you fill out the application.",
+      "sentence_ko": "지원서를 작성할 때 성실하게 임해주세요.",
+      "tags": ["planning", "activity", "develope"]
+    },
+    {
+      "word": "Respectful",
+      "sentence_en": "We must be respectful of other cultures when traveling.",
+      "sentence_ko": "여행할 때는 타 문화를 존중해야 합니다.",
+      "tags": ["vacation", "place", "emotion"]
+    },
+    {
+      "word": "Respectful",
+      "sentence_en": "Keep the debate respectful and focused on facts.",
+      "sentence_ko": "토론은 서로 존중하며 사실에 집중하도록 하세요.",
+      "tags": ["conversation", "activity", "develope"]
+    },
+    {
+      "word": "Respectful",
+      "sentence_en": "He maintained a respectful distance to give her space.",
+      "sentence_ko": "그는 그녀에게 여유를 주기 위해 정중하게 거리를 유지했습니다.",
+      "tags": ["place", "emotion", "time"]
+    },
+    {
+      "word": "Respectful",
+      "sentence_en": "A respectful attitude is essential for teamwork.",
+      "sentence_ko": "존중하는 태도는 팀워크에 필수적입니다.",
+      "tags": ["entrepreneur", "activity", "develope"]
+    },
+    {
+      "word": "Respectful",
+      "sentence_en": "Children should be taught to be respectful to elders.",
+      "sentence_ko": "아이들은 어른을 공경하도록 가르침을 받아야 합니다.",
+      "tags": ["develope", "time", "conversation"]
+    }
+  ]
+}

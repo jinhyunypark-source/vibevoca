@@ -1,0 +1,1086 @@
+{
+  "deck_title": "CONFLICT_DISTANCE",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Hostile",
+      "sentence_en": "The restaurant staff became hostile when we complained about the cold food.",
+      "sentence_ko": "우리가 차가운 음식에 대해 불평하자 레스토랑 직원이 적대적으로 변했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "The work environment turned hostile after the new manager arrived.",
+      "sentence_ko": "새 매니저가 오고 나서 직장 분위기가 적대적으로 바뀌었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "Family gatherings can feel hostile when unresolved issues remain.",
+      "sentence_ko": "해결되지 않은 문제가 있으면 가족 모임이 적대적으로 느껴질 수 있다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "The doctor's hostile attitude made the patient reluctant to ask questions.",
+      "sentence_ko": "의사의 적대적인 태도 때문에 환자가 질문하기를 꺼렸다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "Some AI chatbots can sound hostile if not programmed with empathy.",
+      "sentence_ko": "일부 AI 챗봇은 공감이 프로그래밍되지 않으면 적대적으로 들릴 수 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Hostile",
+      "sentence_en": "The hostile weather conditions forced us to cancel our outdoor plans.",
+      "sentence_ko": "험악한 날씨 때문에 야외 계획을 취소해야 했다.",
+      "tags": ["weather"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "He hasn't spoken to his estranged brother in over five years.",
+      "sentence_ko": "그는 사이가 멀어진 형과 5년 넘게 말을 하지 않았다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "The estranged couple met at the restaurant to discuss their divorce.",
+      "sentence_ko": "별거 중인 부부가 이혼 문제를 논의하기 위해 레스토랑에서 만났다.",
+      "tags": ["restaurant", "family"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "She felt estranged from her old friends after moving to a new city.",
+      "sentence_ko": "그녀는 새 도시로 이사한 후 옛 친구들과 소원해진 느낌이었다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "The estranged father tried to reconnect with his children during the holidays.",
+      "sentence_ko": "소원해진 아버지가 명절에 자녀들과 다시 연락하려고 했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "Childhood friends sometimes become estranged as they grow older.",
+      "sentence_ko": "어린 시절 친구들도 나이가 들면서 사이가 멀어지기도 한다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Estranged",
+      "sentence_en": "The medical crisis brought the estranged siblings back together.",
+      "sentence_ko": "의료 위기가 소원해진 형제자매를 다시 모이게 했다.",
+      "tags": ["medical", "family"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "She became distant after discovering what her friend had said about her.",
+      "sentence_ko": "친구가 자기에 대해 뭐라고 했는지 알고 나서 그녀는 거리를 두기 시작했다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "My father has always been emotionally distant, even at home.",
+      "sentence_ko": "아버지는 집에서도 항상 감정적으로 거리감을 두셨다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "The waiter seemed distant and uninterested in serving us properly.",
+      "sentence_ko": "웨이터는 무심해 보였고 제대로 서비스하는 데 관심이 없어 보였다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "He became distant after his medical diagnosis changed his outlook on life.",
+      "sentence_ko": "그는 의료 진단 후 삶에 대한 관점이 바뀌면서 거리를 두게 되었다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "AI assistants can feel distant compared to human interaction.",
+      "sentence_ko": "AI 어시스턴트는 인간과의 상호작용에 비해 거리감이 느껴질 수 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Distant",
+      "sentence_en": "The cold weather made everyone seem more distant and withdrawn.",
+      "sentence_ko": "추운 날씨 때문에 모두가 더 거리감 있고 내성적으로 보였다.",
+      "tags": ["weather", "social"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "Her cold response at dinner made the whole family uncomfortable.",
+      "sentence_ko": "저녁 식사 때 그녀의 쌀쌀맞은 반응이 온 가족을 불편하게 했다.",
+      "tags": ["family", "dining", "home"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "The receptionist's cold attitude put off many patients at the clinic.",
+      "sentence_ko": "접수원의 차가운 태도가 병원의 많은 환자들을 불쾌하게 했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "After the argument, our friendship became cold and formal.",
+      "sentence_ko": "다툼 후에 우리의 우정은 쌀쌀하고 형식적이 되었다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "The cold weather matched the cold atmosphere between the divorced couple.",
+      "sentence_ko": "추운 날씨가 이혼한 부부 사이의 차가운 분위기와 어울렸다.",
+      "tags": ["weather", "family"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "Some people find AI responses cold and lacking human warmth.",
+      "sentence_ko": "어떤 사람들은 AI 응답이 차갑고 인간적 따뜻함이 없다고 느낀다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Cold",
+      "sentence_en": "The chef gave us a cold look when we sent back the undercooked dish.",
+      "sentence_ko": "덜 익은 요리를 돌려보냈을 때 셰프가 우리에게 차가운 시선을 보냈다.",
+      "tags": ["restaurant", "cooking", "dining"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "He remained aloof during family gatherings, preferring to stay in his room.",
+      "sentence_ko": "그는 가족 모임에서 냉담하게 거리를 두며 방에만 있으려 했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "The new neighbor seemed aloof and never responded to our greetings.",
+      "sentence_ko": "새 이웃은 냉담해 보였고 우리의 인사에 절대 답하지 않았다.",
+      "tags": ["social", "home"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "She stayed aloof from the drama among her coworkers.",
+      "sentence_ko": "그녀는 동료들 사이의 드라마에서 거리를 두었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "The restaurant owner was aloof and rarely interacted with customers.",
+      "sentence_ko": "레스토랑 주인은 냉담해서 손님들과 거의 교류하지 않았다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "Some doctors appear aloof to protect themselves emotionally from patients' suffering.",
+      "sentence_ko": "일부 의사들은 환자의 고통으로부터 감정적으로 보호하기 위해 냉담해 보인다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Aloof",
+      "sentence_en": "Old friends found him aloof after he became successful.",
+      "sentence_ko": "그가 성공한 후 옛 친구들은 그가 냉담해졌다고 느꼈다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "The therapist maintained a detached perspective to help patients objectively.",
+      "sentence_ko": "치료사는 환자를 객관적으로 돕기 위해 초연한 관점을 유지했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "He seemed emotionally detached during his parents' divorce proceedings.",
+      "sentence_ko": "그는 부모님의 이혼 절차 동안 감정적으로 무심해 보였다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "Living in a detached house gave them privacy from nosy neighbors.",
+      "sentence_ko": "단독 주택에 살면서 참견하는 이웃들로부터 프라이버시를 얻었다.",
+      "tags": ["home"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "Her detached manner at social events made others think she was arrogant.",
+      "sentence_ko": "사교 모임에서의 그녀의 무심한 태도가 다른 사람들에게 거만해 보이게 했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "AI systems are inherently detached from human emotional experiences.",
+      "sentence_ko": "AI 시스템은 본질적으로 인간의 감정적 경험에서 분리되어 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Detached",
+      "sentence_en": "She remained detached from the friendship drama at school.",
+      "sentence_ko": "그녀는 학교에서의 친구 관계 드라마에서 거리를 두었다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "He felt alienated from his family after they disapproved of his career choice.",
+      "sentence_ko": "가족이 그의 직업 선택을 반대한 후 그는 소외감을 느꼈다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "The new employee felt alienated during lunch when no one invited him to join.",
+      "sentence_ko": "새 직원은 점심시간에 아무도 같이 먹자고 하지 않아 소외감을 느꼈다.",
+      "tags": ["dining", "social"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "Technology can make older people feel alienated in a rapidly changing world.",
+      "sentence_ko": "기술은 빠르게 변하는 세상에서 노인들이 소외감을 느끼게 할 수 있다.",
+      "tags": ["ai", "social"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "She became alienated from her friends after the misunderstanding.",
+      "sentence_ko": "오해 이후 그녀는 친구들로부터 소외되었다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "Patients can feel alienated when medical staff use too much jargon.",
+      "sentence_ko": "의료진이 전문 용어를 너무 많이 사용하면 환자들이 소외감을 느낄 수 있다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Alienated",
+      "sentence_en": "The cold weather and empty streets made him feel even more alienated.",
+      "sentence_ko": "추운 날씨와 텅 빈 거리가 그를 더욱 소외감 들게 했다.",
+      "tags": ["weather"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "The pandemic forced many families to feel isolated in their own homes.",
+      "sentence_ko": "팬데믹으로 인해 많은 가정이 자기 집에서도 고립감을 느꼈다.",
+      "tags": ["home", "family", "medical"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "She felt isolated at the dinner party where she knew no one.",
+      "sentence_ko": "그녀는 아무도 모르는 저녁 파티에서 고립감을 느꼈다.",
+      "tags": ["dining", "social"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "The severe weather isolated the small village for several days.",
+      "sentence_ko": "악천후로 인해 작은 마을이 며칠간 고립되었다.",
+      "tags": ["weather"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "Working from home can make people feel isolated from their colleagues.",
+      "sentence_ko": "재택근무는 동료들로부터 고립감을 느끼게 할 수 있다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "Elderly patients often feel isolated during long hospital stays.",
+      "sentence_ko": "노인 환자들은 긴 병원 입원 중에 종종 고립감을 느낀다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Isolated",
+      "sentence_en": "After the fight, she isolated herself from her group of friends.",
+      "sentence_ko": "싸움 후에 그녀는 친구 그룹에서 스스로를 고립시켰다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "They realized they were incompatible after living together for a year.",
+      "sentence_ko": "그들은 1년간 함께 살고 나서야 서로 맞지 않는다는 것을 깨달았다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "Their cooking styles were completely incompatible in the kitchen.",
+      "sentence_ko": "그들의 요리 스타일은 부엌에서 전혀 맞지 않았다.",
+      "tags": ["cooking", "home"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "The new software was incompatible with the hospital's old computer systems.",
+      "sentence_ko": "새 소프트웨어가 병원의 오래된 컴퓨터 시스템과 호환되지 않았다.",
+      "tags": ["medical", "ai"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "Some friendships fail because of incompatible values and beliefs.",
+      "sentence_ko": "일부 우정은 가치관과 신념이 맞지 않아서 실패한다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "The couple's incompatible schedules made dining together nearly impossible.",
+      "sentence_ko": "부부의 맞지 않는 스케줄 때문에 함께 식사하는 것이 거의 불가능했다.",
+      "tags": ["dining", "family"]
+    },
+    {
+      "word": "Incompatible",
+      "sentence_en": "Their incompatible personalities led to constant arguments at home.",
+      "sentence_ko": "그들의 맞지 않는 성격이 집에서 끊임없는 다툼으로 이어졌다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "She finally left the abusive relationship after years of suffering.",
+      "sentence_ko": "그녀는 수년간의 고통 끝에 마침내 학대적인 관계를 떠났다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "The restaurant manager was fired for abusive behavior toward staff.",
+      "sentence_ko": "레스토랑 매니저는 직원들에 대한 학대적인 행동으로 해고되었다.",
+      "tags": ["restaurant", "social"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "Abusive language is never acceptable, even during heated arguments.",
+      "sentence_ko": "아무리 격렬한 논쟁 중에도 모욕적인 언어는 절대 용납되지 않는다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "The patient reported the abusive treatment to the hospital administration.",
+      "sentence_ko": "환자는 병원 행정부에 학대적인 대우를 보고했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "Growing up in an abusive home affected her ability to form friendships.",
+      "sentence_ko": "학대적인 가정에서 자란 것이 그녀의 우정 형성 능력에 영향을 미쳤다.",
+      "tags": ["home", "family", "friendship"]
+    },
+    {
+      "word": "Abusive",
+      "sentence_en": "AI systems must be programmed to recognize and report abusive content.",
+      "sentence_ko": "AI 시스템은 학대적인 콘텐츠를 인식하고 보고하도록 프로그래밍되어야 한다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "She decided to end the toxic friendship that was draining her energy.",
+      "sentence_ko": "그녀는 에너지를 빼앗는 해로운 우정을 끝내기로 결심했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "The toxic work environment made everyone miserable.",
+      "sentence_ko": "유해한 직장 환경이 모두를 비참하게 만들었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "Growing up in a toxic family can have lasting effects on mental health.",
+      "sentence_ko": "유해한 가정에서 자라는 것은 정신 건강에 오래가는 영향을 줄 수 있다.",
+      "tags": ["family", "home", "medical"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "Social media can become toxic when it fuels comparison and jealousy.",
+      "sentence_ko": "소셜 미디어는 비교와 질투를 부추길 때 유해해질 수 있다.",
+      "tags": ["social", "ai"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "The restaurant closed after reports of toxic substances in the food.",
+      "sentence_ko": "음식에 유해 물질이 있다는 보고 후 레스토랑이 문을 닫았다.",
+      "tags": ["restaurant", "dining", "cooking"]
+    },
+    {
+      "word": "Toxic",
+      "sentence_en": "Doctors warned that the patient's toxic relationship was affecting her health.",
+      "sentence_ko": "의사들은 환자의 해로운 관계가 건강에 영향을 미치고 있다고 경고했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "She recognized her partner's manipulative behavior and sought help.",
+      "sentence_ko": "그녀는 파트너의 조종적인 행동을 인식하고 도움을 구했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "The manipulative colleague always took credit for others' work.",
+      "sentence_ko": "조종적인 동료는 항상 다른 사람의 공을 가로챘다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "Some AI algorithms can be manipulative in how they present information.",
+      "sentence_ko": "일부 AI 알고리즘은 정보를 제시하는 방식에서 조종적일 수 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "Manipulative marketing tactics can deceive consumers into buying unnecessary products.",
+      "sentence_ko": "조종적인 마케팅 전술은 소비자를 속여 불필요한 제품을 사게 만들 수 있다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "Her manipulative friend always made her feel guilty for saying no.",
+      "sentence_ko": "그녀의 조종적인 친구는 항상 거절하면 죄책감을 느끼게 만들었다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Manipulative",
+      "sentence_en": "The manipulative patient tried to get extra medication by lying to doctors.",
+      "sentence_ko": "조종적인 환자가 의사에게 거짓말을 해서 추가 약을 받으려 했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "Her controlling husband monitored every aspect of her daily life.",
+      "sentence_ko": "통제적인 남편이 그녀의 일상생활 모든 면을 감시했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "The controlling parent decided what their adult child could eat and wear.",
+      "sentence_ko": "통제적인 부모가 성인 자녀가 무엇을 먹고 입을지 결정했다.",
+      "tags": ["family", "dining"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "A controlling friend is not a true friend at all.",
+      "sentence_ko": "통제하려는 친구는 진정한 친구가 아니다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "The restaurant chef had a controlling personality that intimidated the staff.",
+      "sentence_ko": "레스토랑 셰프는 직원들을 주눅들게 하는 통제적인 성격이었다.",
+      "tags": ["restaurant", "cooking"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "Concerns exist about AI becoming too controlling over human decisions.",
+      "sentence_ko": "AI가 인간의 결정을 너무 통제하게 되는 것에 대한 우려가 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Controlling",
+      "sentence_en": "She escaped the controlling relationship and started a new life.",
+      "sentence_ko": "그녀는 통제적인 관계에서 벗어나 새 삶을 시작했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "He became jealous when his friend got a promotion before him.",
+      "sentence_ko": "친구가 자기보다 먼저 승진하자 그는 질투가 났다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "The jealous sibling always competed for their parents' attention.",
+      "sentence_ko": "질투심 많은 형제는 항상 부모의 관심을 얻기 위해 경쟁했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "She felt jealous when her partner spent time with other friends.",
+      "sentence_ko": "그녀는 파트너가 다른 친구들과 시간을 보낼 때 질투를 느꼈다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "The jealous chef criticized every dish made by the new cook.",
+      "sentence_ko": "질투심 많은 셰프가 새 요리사가 만든 모든 요리를 비판했다.",
+      "tags": ["restaurant", "cooking"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "Social media often triggers jealous feelings when comparing lifestyles.",
+      "sentence_ko": "소셜 미디어는 종종 라이프스타일을 비교할 때 질투심을 유발한다.",
+      "tags": ["social", "ai"]
+    },
+    {
+      "word": "Jealous",
+      "sentence_en": "A jealous friend may try to sabotage your relationships.",
+      "sentence_ko": "질투하는 친구는 당신의 관계를 방해하려 할 수 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "She was envious of her friend's beautiful home and garden.",
+      "sentence_ko": "그녀는 친구의 아름다운 집과 정원이 부러웠다.",
+      "tags": ["friendship", "home"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "He felt envious of his coworker's talent in the kitchen.",
+      "sentence_ko": "그는 동료의 요리 재능이 부러웠다.",
+      "tags": ["cooking", "social"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "The envious neighbor always commented on everything we bought.",
+      "sentence_ko": "시기심 많은 이웃은 우리가 사는 것마다 항상 언급했다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "She was envious of families who could afford to dine out regularly.",
+      "sentence_ko": "그녀는 정기적으로 외식할 여유가 있는 가족들이 부러웠다.",
+      "tags": ["dining", "family", "restaurant"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "Social media posts often make people envious of others' vacations.",
+      "sentence_ko": "소셜 미디어 게시물은 종종 사람들이 다른 사람의 휴가를 부러워하게 만든다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Envious",
+      "sentence_en": "Being envious of others' health motivated him to improve his own lifestyle.",
+      "sentence_ko": "다른 사람의 건강이 부러워서 그는 자신의 생활 방식을 개선하게 되었다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "She felt resentful toward her parents for their strict upbringing.",
+      "sentence_ko": "그녀는 엄격한 양육 방식에 대해 부모님을 원망했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "He became resentful when his friend forgot his birthday again.",
+      "sentence_ko": "친구가 또 그의 생일을 잊었을 때 그는 서운함을 느꼈다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "The resentful employee complained about unfair treatment to everyone.",
+      "sentence_ko": "앙심을 품은 직원이 모두에게 불공평한 대우에 대해 불평했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "She was resentful of having to cook dinner every single night.",
+      "sentence_ko": "그녀는 매일 밤 저녁을 해야 하는 것에 대해 불만이 있었다.",
+      "tags": ["cooking", "home"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "Patients can become resentful when they feel ignored by medical staff.",
+      "sentence_ko": "환자들은 의료진에게 무시당한다고 느낄 때 원망하게 될 수 있다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Resentful",
+      "sentence_en": "The resentful sibling never forgave the family inheritance dispute.",
+      "sentence_ko": "앙심을 품은 형제는 가족 상속 분쟁을 절대 용서하지 않았다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "Years after the divorce, he remained bitter about how it ended.",
+      "sentence_ko": "이혼 후 수년이 지났는데도 그는 결말에 대해 여전히 쓰라렸다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The bitter cold weather kept everyone indoors for days.",
+      "sentence_ko": "몹시 추운 날씨가 며칠 동안 모두를 집 안에 있게 했다.",
+      "tags": ["weather", "home"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "She felt bitter about losing her best friend to a silly argument.",
+      "sentence_ko": "그녀는 사소한 다툼으로 가장 친한 친구를 잃은 것에 대해 쓰라렸다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The coffee was too bitter, so he added more sugar.",
+      "sentence_ko": "커피가 너무 써서 설탕을 더 넣었다.",
+      "tags": ["dining", "restaurant"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "The bitter experience at the hospital changed her view of healthcare.",
+      "sentence_ko": "병원에서의 쓰라린 경험이 그녀의 의료에 대한 시각을 바꿨다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Bitter",
+      "sentence_en": "He became bitter after being betrayed by someone he trusted.",
+      "sentence_ko": "믿었던 사람에게 배신당한 후 그는 냉소적이 되었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "The vengeful ex-partner spread rumors about her all over town.",
+      "sentence_ko": "복수심에 불타는 전 파트너가 마을 전체에 그녀에 대한 소문을 퍼뜨렸다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "His vengeful attitude destroyed what was left of their friendship.",
+      "sentence_ko": "그의 복수심 어린 태도가 남아있던 우정마저 파괴했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "The vengeful sibling refused to attend family gatherings for years.",
+      "sentence_ko": "앙심을 품은 형제는 수년간 가족 모임 참석을 거부했다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "The movie portrayed a vengeful character seeking justice for his family.",
+      "sentence_ko": "영화는 가족을 위해 정의를 찾는 복수심에 불타는 캐릭터를 그렸다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "A vengeful customer left a harsh review after one bad dining experience.",
+      "sentence_ko": "복수심에 찬 고객이 한 번의 안 좋은 식사 경험 후 혹독한 리뷰를 남겼다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Vengeful",
+      "sentence_en": "Social media can amplify vengeful behavior through public shaming.",
+      "sentence_ko": "소셜 미디어는 공개적 망신을 통해 복수심 어린 행동을 증폭시킬 수 있다.",
+      "tags": ["social", "ai"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "Her spiteful comments at dinner ruined the entire family gathering.",
+      "sentence_ko": "저녁 식사 때 그녀의 앙심 어린 말이 전체 가족 모임을 망쳤다.",
+      "tags": ["dining", "family", "home"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "The spiteful neighbor complained about every little noise we made.",
+      "sentence_ko": "악의적인 이웃은 우리가 내는 모든 작은 소음에 대해 불평했다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "She made spiteful remarks about her ex-friend's cooking skills.",
+      "sentence_ko": "그녀는 전 친구의 요리 실력에 대해 앙심 어린 말을 했다.",
+      "tags": ["cooking", "friendship"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "His spiteful behavior cost him many valuable friendships.",
+      "sentence_ko": "그의 앙심 깊은 행동이 많은 소중한 우정을 잃게 만들었다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "The spiteful review was obviously written to harm the restaurant's reputation.",
+      "sentence_ko": "악의적인 리뷰는 분명히 레스토랑의 명성을 해치기 위해 쓰여졌다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Spiteful",
+      "sentence_en": "Despite the spiteful treatment, she chose not to retaliate.",
+      "sentence_ko": "악의적인 대우에도 불구하고 그녀는 보복하지 않기로 했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "The family feud began over a disagreement about inheritance.",
+      "sentence_ko": "가족 간의 불화는 상속에 대한 의견 차이로 시작되었다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "The neighbors' feud over the property line lasted for decades.",
+      "sentence_ko": "땅 경계를 둘러싼 이웃 간의 반목은 수십 년간 계속되었다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "The restaurant feud between the two chefs became local news.",
+      "sentence_ko": "두 셰프 사이의 레스토랑 불화가 지역 뉴스가 되었다.",
+      "tags": ["restaurant", "cooking"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "Their friendship ended in a bitter feud that affected everyone around them.",
+      "sentence_ko": "그들의 우정은 주변 모든 사람에게 영향을 미친 쓰라린 불화로 끝났다.",
+      "tags": ["friendship", "social"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "The social media feud between the celebrities entertained millions.",
+      "sentence_ko": "유명인들 사이의 소셜 미디어 싸움이 수백만 명을 즐겁게 했다.",
+      "tags": ["social", "ai"]
+    },
+    {
+      "word": "Feud",
+      "sentence_en": "The medical community was divided by a feud over treatment approaches.",
+      "sentence_ko": "의료계는 치료 접근법을 둘러싼 반목으로 분열되었다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "The sibling rivalry for their parents' attention continued into adulthood.",
+      "sentence_ko": "부모의 관심을 얻기 위한 형제간 경쟁은 성인이 되어서도 계속되었다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "The rivalry between the two restaurants drove both to improve their menus.",
+      "sentence_ko": "두 레스토랑 사이의 경쟁이 둘 다 메뉴를 개선하게 만들었다.",
+      "tags": ["restaurant", "dining", "cooking"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "Friendly rivalry can strengthen a friendship if handled well.",
+      "sentence_ko": "건전한 경쟁은 잘 다루면 우정을 강화할 수 있다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "The rivalry between AI companies has accelerated technological advancement.",
+      "sentence_ko": "AI 회사들 사이의 경쟁이 기술 발전을 가속화했다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "The intense rivalry at work created a stressful environment for everyone.",
+      "sentence_ko": "직장에서의 치열한 경쟁이 모두에게 스트레스가 많은 환경을 만들었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Rivalry",
+      "sentence_en": "Their cooking rivalry led to creative new dishes at every family dinner.",
+      "sentence_ko": "그들의 요리 경쟁은 매 가족 저녁마다 창의적인 새 요리로 이어졌다.",
+      "tags": ["cooking", "family", "dining"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "There was constant friction between the two roommates over household chores.",
+      "sentence_ko": "두 룸메이트 사이에는 집안일을 두고 끊임없는 마찰이 있었다.",
+      "tags": ["home"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "The friction at family dinners made everyone dread the holidays.",
+      "sentence_ko": "가족 저녁 식사 때의 마찰이 모두를 명절을 두려워하게 만들었다.",
+      "tags": ["family", "dining"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "Office friction can often be resolved through open communication.",
+      "sentence_ko": "직장 내 마찰은 종종 열린 소통을 통해 해결될 수 있다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "The friction in the kitchen affected the quality of the restaurant's food.",
+      "sentence_ko": "주방에서의 마찰이 레스토랑 음식의 질에 영향을 미쳤다.",
+      "tags": ["restaurant", "cooking"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "Their friendship experienced friction when money became involved.",
+      "sentence_ko": "그들의 우정은 돈이 관련되자 삐걱거리기 시작했다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Friction",
+      "sentence_en": "The friction between doctors and administrators affected patient care.",
+      "sentence_ko": "의사와 행정진 사이의 마찰이 환자 치료에 영향을 미쳤다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "You could feel the tension at the dinner table after the argument.",
+      "sentence_ko": "다툼 후 식탁에서 긴장감을 느낄 수 있었다.",
+      "tags": ["dining", "family", "home"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "The tension between them was obvious to everyone in the room.",
+      "sentence_ko": "그들 사이의 긴장감은 방 안의 모든 사람에게 명백했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "Family reunions often bring old tensions back to the surface.",
+      "sentence_ko": "가족 모임은 종종 오래된 긴장을 다시 표면으로 끌어올린다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "The tension in the restaurant kitchen was palpable during rush hour.",
+      "sentence_ko": "피크 시간대에 레스토랑 주방의 긴장감은 피부로 느껴졌다.",
+      "tags": ["restaurant", "cooking"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "Weather changes can sometimes increase tension in people with certain conditions.",
+      "sentence_ko": "날씨 변화는 때때로 특정 질환이 있는 사람들의 긴장을 증가시킬 수 있다.",
+      "tags": ["weather", "medical"]
+    },
+    {
+      "word": "Tension",
+      "sentence_en": "Their friendship survived despite years of underlying tension.",
+      "sentence_ko": "그들의 우정은 수년간의 기저에 깔린 긴장에도 불구하고 살아남았다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "The conflict between the siblings started over something trivial.",
+      "sentence_ko": "형제간의 갈등은 사소한 것에서 시작되었다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "Avoiding conflict is not always the best solution for relationships.",
+      "sentence_ko": "갈등을 피하는 것이 관계에 항상 최선의 해결책은 아니다.",
+      "tags": ["social", "friendship"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "The conflict at the restaurant escalated when the manager got involved.",
+      "sentence_ko": "매니저가 개입하면서 레스토랑에서의 충돌이 격화되었다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "AI ethics involves navigating conflicts between efficiency and human values.",
+      "sentence_ko": "AI 윤리는 효율성과 인간 가치 사이의 갈등을 다루는 것을 포함한다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "The medical team worked to resolve the conflict about treatment options.",
+      "sentence_ko": "의료팀은 치료 옵션에 대한 갈등을 해결하기 위해 노력했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Conflict",
+      "sentence_en": "Their conflict over cooking methods created tension in the kitchen.",
+      "sentence_ko": "요리 방법을 둘러싼 그들의 갈등이 부엌에서 긴장을 만들었다.",
+      "tags": ["cooking", "home"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "The broken relationship between father and son seemed beyond repair.",
+      "sentence_ko": "아버지와 아들 사이의 깨진 관계는 회복이 불가능해 보였다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "She came from a broken home but worked hard to build a better life.",
+      "sentence_ko": "그녀는 결손 가정 출신이지만 더 나은 삶을 만들기 위해 열심히 노력했다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "Their broken friendship left a lasting impact on both of them.",
+      "sentence_ko": "그들의 깨진 우정은 둘 모두에게 지속적인 영향을 남겼다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "The broken air conditioning made dining at the restaurant uncomfortable.",
+      "sentence_ko": "고장 난 에어컨 때문에 레스토랑에서의 식사가 불편했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "The doctor helped her heal from a broken heart after the divorce.",
+      "sentence_ko": "의사가 이혼 후 상처받은 마음을 치유하는 것을 도왔다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Broken",
+      "sentence_en": "A broken promise can damage trust in any social relationship.",
+      "sentence_ko": "깨진 약속은 어떤 사회적 관계에서든 신뢰를 손상시킬 수 있다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "My parents have been divorced since I was ten years old.",
+      "sentence_ko": "부모님은 내가 열 살 때부터 이혼하셨다.",
+      "tags": ["family"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "The divorced couple still shared cooking duties for their children.",
+      "sentence_ko": "이혼한 부부는 여전히 아이들을 위해 요리를 나눠 했다.",
+      "tags": ["cooking", "family"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "She found it awkward meeting her divorced ex at social events.",
+      "sentence_ko": "그녀는 사교 행사에서 이혼한 전 남편을 만나는 것이 어색했다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "The divorced father visited his children at the family home every weekend.",
+      "sentence_ko": "이혼한 아버지는 매주 주말 아이들을 집에서 만났다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "Dating apps have made it easier for divorced people to find new partners.",
+      "sentence_ko": "데이팅 앱이 이혼한 사람들이 새 파트너를 찾는 것을 더 쉽게 만들었다.",
+      "tags": ["ai", "social"]
+    },
+    {
+      "word": "Divorced",
+      "sentence_en": "The restaurant became a weekly meeting place for the divorced friends group.",
+      "sentence_ko": "레스토랑은 이혼한 친구들 모임의 주간 모임 장소가 되었다.",
+      "tags": ["restaurant", "friendship"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "The separated couple decided to live in different homes for a while.",
+      "sentence_ko": "별거 중인 부부는 당분간 다른 집에서 살기로 했다.",
+      "tags": ["home", "family"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "Even though they were separated, they still had dinner together for the kids.",
+      "sentence_ko": "별거 중임에도 불구하고 아이들을 위해 여전히 함께 저녁을 먹었다.",
+      "tags": ["dining", "family"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "The separated siblings had to rely on video calls to stay in touch.",
+      "sentence_ko": "떨어져 사는 형제자매는 연락을 유지하기 위해 화상 통화에 의존해야 했다.",
+      "tags": ["family", "ai"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "Her separated parents alternated holidays at different family homes.",
+      "sentence_ko": "별거 중인 그녀의 부모님은 다른 집에서 명절을 번갈아 보냈다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "The severe weather separated the friends who had planned to meet.",
+      "sentence_ko": "악천후가 만나기로 한 친구들을 갈라놓았다.",
+      "tags": ["weather", "friendship"]
+    },
+    {
+      "word": "Separated",
+      "sentence_en": "Medical isolation separated the patient from their worried family.",
+      "sentence_ko": "의료 격리가 환자를 걱정하는 가족으로부터 분리시켰다.",
+      "tags": ["medical", "family"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "His antagonistic attitude made family dinners extremely uncomfortable.",
+      "sentence_ko": "그의 적대적인 태도가 가족 저녁 식사를 매우 불편하게 만들었다.",
+      "tags": ["family", "dining", "home"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "The antagonistic neighbors complained about everything we did.",
+      "sentence_ko": "반감을 가진 이웃들은 우리가 하는 모든 것에 대해 불평했다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "Her antagonistic response to my cooking suggestion hurt my feelings.",
+      "sentence_ko": "내 요리 제안에 대한 그녀의 적대적인 반응이 내 감정을 상하게 했다.",
+      "tags": ["cooking", "friendship"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "The doctor's antagonistic manner discouraged patients from asking questions.",
+      "sentence_ko": "의사의 적대적인 태도가 환자들이 질문하는 것을 망설이게 했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "Some AI chatbots can become antagonistic when given confusing inputs.",
+      "sentence_ko": "일부 AI 챗봇은 혼란스러운 입력을 받으면 적대적이 될 수 있다.",
+      "tags": ["ai"]
+    },
+    {
+      "word": "Antagonistic",
+      "sentence_en": "The antagonistic restaurant critic was feared by chefs throughout the city.",
+      "sentence_ko": "적대적인 레스토랑 평론가는 도시 전체의 셰프들에게 두려움의 대상이었다.",
+      "tags": ["restaurant"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "His confrontational approach at work created a hostile environment.",
+      "sentence_ko": "직장에서의 그의 대립적인 접근 방식이 적대적인 환경을 만들었다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "Family gatherings became stressful due to his confrontational behavior.",
+      "sentence_ko": "그의 대립적인 행동 때문에 가족 모임이 스트레스가 되었다.",
+      "tags": ["family", "home"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "The confrontational customer demanded to see the restaurant manager immediately.",
+      "sentence_ko": "대립적인 고객이 즉시 레스토랑 매니저를 만나게 해달라고 요구했다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "Avoiding confrontational language helps maintain healthy friendships.",
+      "sentence_ko": "대립적인 언어를 피하는 것이 건강한 우정을 유지하는 데 도움이 된다.",
+      "tags": ["friendship"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "The patient's confrontational attitude made the medical consultation difficult.",
+      "sentence_ko": "환자의 대립적인 태도가 의료 상담을 어렵게 만들었다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Confrontational",
+      "sentence_en": "Hot weather can sometimes make people more confrontational than usual.",
+      "sentence_ko": "더운 날씨는 때때로 사람들을 평소보다 더 대립적으로 만들 수 있다.",
+      "tags": ["weather", "social"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "The unfriendly waiter made our dining experience quite unpleasant.",
+      "sentence_ko": "불친절한 웨이터가 우리의 식사 경험을 꽤 불쾌하게 만들었다.",
+      "tags": ["restaurant", "dining"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "The new neighbors seemed unfriendly and never returned our greetings.",
+      "sentence_ko": "새 이웃들은 불친절해 보였고 우리의 인사에 절대 답하지 않았다.",
+      "tags": ["home", "social"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "The unfriendly atmosphere at the clinic made patients feel unwelcome.",
+      "sentence_ko": "병원의 비우호적인 분위기가 환자들을 환영받지 못한다고 느끼게 했다.",
+      "tags": ["medical"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "She found the local community unfriendly when she first moved there.",
+      "sentence_ko": "그녀가 처음 이사 왔을 때 지역 사회가 불친절하다고 느꼈다.",
+      "tags": ["social"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "The unfriendly weather kept everyone indoors all weekend.",
+      "sentence_ko": "궂은 날씨가 주말 내내 모두를 집 안에 있게 했다.",
+      "tags": ["weather", "home"]
+    },
+    {
+      "word": "Unfriendly",
+      "sentence_en": "His unfriendly demeanor made it difficult for him to maintain friendships.",
+      "sentence_ko": "그의 불친절한 태도가 우정을 유지하는 것을 어렵게 만들었다.",
+      "tags": ["friendship", "social"]
+    }
+  ]
+}

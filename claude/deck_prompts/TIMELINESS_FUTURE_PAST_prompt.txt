@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: TIMELINESS_FUTURE_PAST
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Contemporary - 동시대의, 현대의 (같은 시기/최신)
+2. Modern - 현대의, 근대의 (과거와 대비되는)
+3. Current - 현재의, 통용되는 (지금 일어나고 있는)
+4. Present-day - 오늘날의 (지금 이 시대의)
+5. Ancient - 고대의 (아주 먼 옛날의)
+6. Archaic - 고풍의, 낡은 (너무 오래되어 안 쓰는)
+7. Primitive - 원시적인 (초기 단계의)
+8. Primeval - 태고의, 원시의 (세상 시작 때의)
+9. Medieval - 중세의 (옛날 방식의)
+10. Prehistoric - 선사 시대의 (역사 기록 이전의)
+11. Future - 미래의 (앞으로 올)
+12. Prospective - 장래의, 유망한 (앞으로 될 가능성이 있는)
+13. Imminent - 임박한, 일촉즉발의 (금방이라도 닥칠)
+14. Impending - 곧 닥칠 (불길한 일이 다가오는)
+15. Looming - 어렴풋이 나타나는 (걱정거리가 다가오는)
+16. Forthcoming - 다가오는, 곧 나올 (준비된)
+17. Eventual - 궁극적인, 언젠가는 일어날 (결국에는)
+18. Ultimate - 최후의, 궁극적인 (마지막 단계의)
+19. Bygone - 지나간, 과거의 (추억 속의)
+20. Former - 이전의, 전직의 (직전의)
+21. Previous - 이전의, 앞선 (순서상 앞의)
+22. Obsolete - 구식의, 쓸모없게 된 (더 이상 안 쓰는)
+23. Outdated - 구식인 (날짜가 지난)
+24. Antedated - 시기보다 앞선 (실제보다 날짜를 앞당긴)
+25. Retroactive - 소급 적용되는 (과거까지 거슬러 올라가는)
+26. Anachronistic - 시대착오적인 (시대에 맞지 않는)
+27. Timely - 시의적절한 (딱 좋은 때의)
+28. Up-to-date - 최신의 (현대적인)
+29. State-of-the-art - 최첨단의 (가장 발달한)
+30. Cutting-edge - 최첨단의 (가장 앞서가는)
+
+## 추천 태그 (상황/맥락)
+interview, conversation, relationship, fashion, family, marketing, hobby, smartphone, soccer, education
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "TIMELINESS_FUTURE_PAST",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "TIMELINESS_FUTURE_PAST",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

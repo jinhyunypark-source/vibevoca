@@ -1,0 +1,906 @@
+{
+  "deck_title": "OPPRESSION_TYRANNY",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Oppressive",
+      "sentence_en": "The oppressive heat in the kitchen made it hard to focus on cooking the delicate sauce.",
+      "sentence_ko": "주방의 숨 막히는 열기 때문에 섬세한 소스를 만드는 데 집중하기가 힘들었습니다.",
+      "tags": ["cooking", "health", "work", "environment"]
+    },
+    {
+      "word": "Oppressive",
+      "sentence_en": "We tried to lighten the oppressive atmosphere of the meeting with some warm coffee and snacks.",
+      "sentence_ko": "우리는 따뜻한 커피와 간식으로 회의의 숨 막히는 분위기를 좀 풀어보려 했습니다.",
+      "tags": ["meeting", "business", "communication", "warm"]
+    },
+    {
+      "word": "Oppressive",
+      "sentence_en": "The teacher realized that an oppressive silence was hindering the students' ability to learn.",
+      "sentence_ko": "선생님은 억압적인 침묵이 학생들의 학습 능력을 저해하고 있다는 것을 깨달았습니다.",
+      "tags": ["education", "communication", "learning"]
+    },
+    {
+      "word": "Oppressive",
+      "sentence_en": "Ideally, a medical uniform shouldn't feel oppressive or uncomfortable during long shifts.",
+      "sentence_ko": "이상적으로 의료용 유니폼은 긴 근무 시간 동안 꽉 끼거나 불편하게 느껴져서는 안 됩니다.",
+      "tags": ["medical", "health", "work"]
+    },
+    {
+      "word": "Oppressive",
+      "sentence_en": "Successful entrepreneurs know that oppressive regulations can sometimes stifle innovation.",
+      "sentence_ko": "성공한 기업가들은 억압적인 규제가 때로는 혁신을 질식시킬 수 있다는 것을 알고 있습니다.",
+      "tags": ["entrepreneur", "business", "management"]
+    },
+    {
+      "word": "Tyrannical",
+      "sentence_en": "No one wants to work for a tyrannical boss who refuses to listen to feedback.",
+      "sentence_ko": "피드백 듣기를 거부하는 폭군 같은 상사 밑에서 일하고 싶어 하는 사람은 아무도 없습니다.",
+      "tags": ["business", "communication", "management"]
+    },
+    {
+      "word": "Tyrannical",
+      "sentence_en": "In the history class, we discussed how tyrannical leaders are often overthrown by the people.",
+      "sentence_ko": "역사 수업 시간에 우리는 폭군적인 지도자들이 어떻게 민중들에게 축출되는지에 대해 토론했습니다.",
+      "tags": ["education", "meeting", "communication"]
+    },
+    {
+      "word": "Tyrannical",
+      "sentence_en": "The head chef was tyrannical about cleanliness, ensuring the kitchen was spotless.",
+      "sentence_ko": "수석 셰프는 청결에 있어서는 독재자처럼 굴었지만, 덕분에 주방은 티끌 하나 없이 깨끗했습니다.",
+      "tags": ["cooking", "health", "business"]
+    },
+    {
+      "word": "Tyrannical",
+      "sentence_en": "A happy family life is impossible if one parent behaves in a tyrannical manner.",
+      "sentence_ko": "부모 중 한 명이 폭군처럼 행동한다면 행복한 가정생활은 불가능합니다.",
+      "tags": ["happy", "communication", "family"]
+    },
+    {
+      "word": "Tyrannical",
+      "sentence_en": "The new CEO promised to end the tyrannical management style of the previous administration.",
+      "sentence_ko": "새로운 CEO는 이전 경영진의 전제적인 경영 스타일을 끝내겠다고 약속했습니다.",
+      "tags": ["business", "entrepreneur", "meeting"]
+    },
+    {
+      "word": "Dictatorial",
+      "sentence_en": "A dictatorial approach in a medical consultation can make patients feel unheard.",
+      "sentence_ko": "진료 상담 시 독재적인 태도는 환자가 자신의 말이 무시당한다고 느끼게 할 수 있습니다.",
+      "tags": ["medical", "health", "communication"]
+    },
+    {
+      "word": "Dictatorial",
+      "sentence_en": "Effective communication is about exchange, not dictatorial commands.",
+      "sentence_ko": "효과적인 의사소통은 주고받는 것이지, 독재적으로 명령하는 것이 아닙니다.",
+      "tags": ["communication", "business", "meeting"]
+    },
+    {
+      "word": "Dictatorial",
+      "sentence_en": "He left the company to become an entrepreneur because he hated the dictatorial culture.",
+      "sentence_ko": "그는 독재적인 기업 문화가 싫어서 창업가가 되기 위해 회사를 떠났습니다.",
+      "tags": ["entrepreneur", "business", "happy"]
+    },
+    {
+      "word": "Dictatorial",
+      "sentence_en": "The cooking instructor was a bit dictatorial, insisting we follow the recipe exactly.",
+      "sentence_ko": "그 요리 강사는 조금 독단적이어서, 우리가 레시피를 정확히 따를 것을 고집했습니다.",
+      "tags": ["cooking", "education", "learning"]
+    },
+    {
+      "word": "Dictatorial",
+      "sentence_en": "In education, a dictatorial style rarely inspires creativity in students.",
+      "sentence_ko": "교육에 있어서 독재적인 방식은 학생들에게 창의성을 거의 불어넣지 못합니다.",
+      "tags": ["education", "warm", "communication"]
+    },
+    {
+      "word": "Autocratic",
+      "sentence_en": "The autocratic leader made all the decisions without consulting his team.",
+      "sentence_ko": "그 독단적인 리더는 팀원들과 상의 없이 모든 결정을 내렸습니다.",
+      "tags": ["business", "meeting", "management"]
+    },
+    {
+      "word": "Autocratic",
+      "sentence_en": "Moving away from autocratic rule, the organization embraced a more democratic structure.",
+      "sentence_ko": "독재적인 통치에서 벗어나, 그 조직은 더 민주적인 구조를 받아들였습니다.",
+      "tags": ["entrepreneur", "communication", "business"]
+    },
+    {
+      "word": "Autocratic",
+      "sentence_en": "Doctors today are less autocratic and more collaborative with their patients.",
+      "sentence_ko": "오늘날의 의사들은 환자들에게 덜 권위적이고 더 협력적입니다.",
+      "tags": ["medical", "health", "communication"]
+    },
+    {
+      "word": "Autocratic",
+      "sentence_en": "An autocratic teacher might get silence, but they won't get engagement.",
+      "sentence_ko": "독단적인 교사는 조용한 교실을 만들 수는 있겠지만, 학생들의 참여를 이끌어내지는 못할 것입니다.",
+      "tags": ["education", "communication", "learning"]
+    },
+    {
+      "word": "Autocratic",
+      "sentence_en": "In the kitchen, the head chef's autocratic style ensured speed but caused high stress.",
+      "sentence_ko": "주방에서 수석 셰프의 독단적인 스타일은 속도는 보장했지만 높은 스트레스를 유발했습니다.",
+      "tags": ["cooking", "business", "health"]
+    },
+    {
+      "word": "Despotic",
+      "sentence_en": "The villagers were happy when the despotic landlord finally sold the property.",
+      "sentence_ko": "마을 사람들은 횡포를 부리던 지주가 마침내 땅을 팔자 기뻐했습니다.",
+      "tags": ["happy", "business", "communication"]
+    },
+    {
+      "word": "Despotic",
+      "sentence_en": "We learned that despotic regimes often control the media and education systems.",
+      "sentence_ko": "우리는 독재 정권이 종종 언론과 교육 시스템을 통제한다는 것을 배웠습니다.",
+      "tags": ["education", "communication", "business"]
+    },
+    {
+      "word": "Despotic",
+      "sentence_en": "A despotic manager creates a toxic environment that ruins employee health.",
+      "sentence_ko": "폭군 같은 매니저는 직원의 건강을 해치는 유해한 환경을 조성합니다.",
+      "tags": ["health", "business", "medical"]
+    },
+    {
+      "word": "Despotic",
+      "sentence_en": "She ran her small bakery with a warm heart, never in a despotic way.",
+      "sentence_ko": "그녀는 절대 횡포를 부리지 않고 따뜻한 마음으로 자신의 작은 빵집을 운영했습니다.",
+      "tags": ["cooking", "entrepreneur", "warm"]
+    },
+    {
+      "word": "Despotic",
+      "sentence_en": "True communication cannot exist under despotic control.",
+      "sentence_ko": "진정한 소통은 폭압적인 통제 하에서는 존재할 수 없습니다.",
+      "tags": ["communication", "meeting", "business"]
+    },
+    {
+      "word": "Totalitarian",
+      "sentence_en": "The novel depicted a totalitarian society where even thoughts were monitored.",
+      "sentence_ko": "그 소설은 생각조차 감시당하는 전체주의 사회를 묘사했습니다.",
+      "tags": ["education", "communication", "book"]
+    },
+    {
+      "word": "Totalitarian",
+      "sentence_en": "To maintain health and happiness, we must value freedom over totalitarian control.",
+      "sentence_ko": "건강과 행복을 유지하기 위해 우리는 전체주의적 통제보다 자유를 소중히 여겨야 합니다.",
+      "tags": ["health", "happy", "medical"]
+    },
+    {
+      "word": "Totalitarian",
+      "sentence_en": "Business innovation dies quickly in a totalitarian environment.",
+      "sentence_ko": "전체주의적인 환경에서는 비즈니스 혁신이 금방 죽어버립니다.",
+      "tags": ["business", "entrepreneur", "management"]
+    },
+    {
+      "word": "Totalitarian",
+      "sentence_en": "The meeting was about resisting the totalitarian policies proposed by the board.",
+      "sentence_ko": "그 회의는 이사회가 제안한 전체주의적인 정책에 저항하기 위한 것이었습니다.",
+      "tags": ["meeting", "business", "communication"]
+    },
+    {
+      "word": "Totalitarian",
+      "sentence_en": "Cooking can be an act of freedom in a totalitarian state where resources are rationed.",
+      "sentence_ko": "자원이 배급되는 전체주의 국가에서 요리는 자유를 표현하는 행위가 될 수 있습니다.",
+      "tags": ["cooking", "warm", "education"]
+    },
+    {
+      "word": "Coercive",
+      "sentence_en": "The sales tactics were too coercive, making the customers feel uncomfortable.",
+      "sentence_ko": "영업 방식이 너무 강압적이어서 고객들이 불편함을 느꼈습니다.",
+      "tags": ["business", "communication", "meeting"]
+    },
+    {
+      "word": "Coercive",
+      "sentence_en": "Doctors should explain risks clearly without using coercive language.",
+      "sentence_ko": "의사는 강압적인 언어를 사용하지 않고 위험성을 명확하게 설명해야 합니다.",
+      "tags": ["medical", "health", "communication"]
+    },
+    {
+      "word": "Coercive",
+      "sentence_en": "Good education inspires students rather than using coercive measures to force study.",
+      "sentence_ko": "좋은 교육은 공부를 강요하는 강압적인 수단을 쓰기보다 학생들에게 영감을 줍니다.",
+      "tags": ["education", "learning", "warm"]
+    },
+    {
+      "word": "Coercive",
+      "sentence_en": "An entrepreneur builds trust, whereas a scammer relies on coercive pressure.",
+      "sentence_ko": "기업가는 신뢰를 쌓지만, 사기꾼은 강압적인 압력에 의존합니다.",
+      "tags": ["entrepreneur", "business", "happy"]
+    },
+    {
+      "word": "Coercive",
+      "sentence_en": "There was nothing coercive about her invitation; it was just a warm request.",
+      "sentence_ko": "그녀의 초대에는 강압적인 것이 전혀 없었습니다. 그저 따뜻한 부탁이었죠.",
+      "tags": ["warm", "communication", "meeting"]
+    },
+    {
+      "word": "Draconian",
+      "sentence_en": "The company finally dropped its draconian dress code, making everyone happier.",
+      "sentence_ko": "회사가 마침내 가혹한 복장 규정을 폐지하자 모두가 더 행복해졌습니다.",
+      "tags": ["business", "happy", "fashion"]
+    },
+    {
+      "word": "Draconian",
+      "sentence_en": "Draconian budget cuts in the hospital affected the quality of medical care.",
+      "sentence_ko": "병원의 가혹한 예산 삭감은 의료 서비스의 질에 영향을 미쳤습니다.",
+      "tags": ["medical", "health", "business"]
+    },
+    {
+      "word": "Draconian",
+      "sentence_en": "The school's draconian rules on tardiness were discussed at the parent meeting.",
+      "sentence_ko": "지각에 대한 학교의 지나치게 엄격한 규정들이 학부모 회의에서 논의되었습니다.",
+      "tags": ["education", "meeting", "communication"]
+    },
+    {
+      "word": "Draconian",
+      "sentence_en": "Entrepreneurs often struggle to survive under draconian tax laws.",
+      "sentence_ko": "기업가들은 종종 가혹한 세법 아래서 살아남기 위해 고군분투합니다.",
+      "tags": ["entrepreneur", "business", "finance"]
+    },
+    {
+      "word": "Draconian",
+      "sentence_en": "He jokingly called his diet plan draconian because it forbade all sweets.",
+      "sentence_ko": "그는 모든 단것을 금지하는 자신의 다이어트 계획을 농담 삼아 가혹하다고 말했습니다.",
+      "tags": ["health", "cooking", "food"]
+    },
+    {
+      "word": "Repressive",
+      "sentence_en": "A repressive work environment can lead to mental health issues for employees.",
+      "sentence_ko": "억압적인 근무 환경은 직원들에게 정신 건강 문제를 일으킬 수 있습니다.",
+      "tags": ["health", "business", "medical"]
+    },
+    {
+      "word": "Repressive",
+      "sentence_en": "We aim to build an education system that is supportive, not repressive.",
+      "sentence_ko": "우리는 억압적이지 않고 지지해 주는 교육 시스템을 구축하는 것을 목표로 합니다.",
+      "tags": ["education", "warm", "learning"]
+    },
+    {
+      "word": "Repressive",
+      "sentence_en": "Open communication helps to dismantle repressive social norms.",
+      "sentence_ko": "열린 의사소통은 억압적인 사회 규범을 허무는 데 도움이 됩니다.",
+      "tags": ["communication", "meeting", "happy"]
+    },
+    {
+      "word": "Repressive",
+      "sentence_en": "The artist felt the repressive laws were stifling his creativity.",
+      "sentence_ko": "그 예술가는 억압적인 법률이 자신의 창의성을 질식시키고 있다고 느꼈습니다.",
+      "tags": ["entrepreneur", "business", "art"]
+    },
+    {
+      "word": "Repressive",
+      "sentence_en": "Cooking traditional food was a way to keep their culture alive under a repressive regime.",
+      "sentence_ko": "전통 음식을 요리하는 것은 탄압적인 정권 아래서 문화를 지키는 하나의 방법이었습니다.",
+      "tags": ["cooking", "warm", "culture"]
+    },
+    {
+      "word": "Ruthless",
+      "sentence_en": "The business world can be ruthless, so you need a strong network.",
+      "sentence_ko": "비즈니스 세계는 무자비할 수 있으니 든든한 네트워크가 필요합니다.",
+      "tags": ["business", "entrepreneur", "meeting"]
+    },
+    {
+      "word": "Ruthless",
+      "sentence_en": "You have to be ruthless when editing your writing to make it clear.",
+      "sentence_ko": "글을 명확하게 만들려면 무자비할 정도로 편집을 해야 합니다.",
+      "tags": ["education", "communication", "writing"]
+    },
+    {
+      "word": "Ruthless",
+      "sentence_en": "A ruthless virus spread quickly, keeping the medical staff busy.",
+      "sentence_ko": "무자비한 바이러스가 빠르게 퍼져 의료진들을 바쁘게 만들었습니다.",
+      "tags": ["medical", "health", "science"]
+    },
+    {
+      "word": "Ruthless",
+      "sentence_en": "The chef was ruthless about quality; bad ingredients were thrown out immediately.",
+      "sentence_ko": "셰프는 품질에 있어서 가차 없었습니다. 나쁜 재료는 즉시 버려졌습니다.",
+      "tags": ["cooking", "business", "food"]
+    },
+    {
+      "word": "Ruthless",
+      "sentence_en": "Despite his ruthless reputation in business, he was a warm father at home.",
+      "sentence_ko": "비즈니스에서는 무자비하다는 평판에도 불구하고, 집에서는 따뜻한 아버지였습니다.",
+      "tags": ["warm", "family", "business"]
+    },
+    {
+      "word": "Cruel",
+      "sentence_en": "It feels cruel to be on a diet while everyone else is enjoying the cooking.",
+      "sentence_ko": "다른 사람들은 다 요리를 즐기는데 혼자 다이어트를 하는 건 잔인하게 느껴집니다.",
+      "tags": ["cooking", "health", "food"]
+    },
+    {
+      "word": "Cruel",
+      "sentence_en": "Bullying in schools is a cruel behavior that educators must stop.",
+      "sentence_ko": "학교 폭력은 교육자들이 반드시 멈춰야 할 잔인한 행동입니다.",
+      "tags": ["education", "communication", "warm"]
+    },
+    {
+      "word": "Cruel",
+      "sentence_en": "Sometimes nature seems cruel, but it teaches us valuable lessons.",
+      "sentence_ko": "때때로 자연은 잔인해 보이지만, 우리에게 귀중한 교훈을 줍니다.",
+      "tags": ["education", "health", "nature"]
+    },
+    {
+      "word": "Cruel",
+      "sentence_en": "It is cruel to withhold medical treatment from those who need it.",
+      "sentence_ko": "필요한 사람에게 치료를 제공하지 않는 것은 잔인한 일입니다.",
+      "tags": ["medical", "health", "business"]
+    },
+    {
+      "word": "Cruel",
+      "sentence_en": "We had a meeting to discuss how to stop cruel practices in the supply chain.",
+      "sentence_ko": "우리는 공급망 내의 잔인한 관행을 멈추는 방법을 논의하기 위해 회의를 가졌습니다.",
+      "tags": ["meeting", "business", "entrepreneur"]
+    },
+    {
+      "word": "Heavy-handed",
+      "sentence_en": "The manager's heavy-handed approach ruined the happy vibe of the team.",
+      "sentence_ko": "매니저의 지나치게 강압적인 방식이 팀의 행복한 분위기를 망쳤습니다.",
+      "tags": ["business", "happy", "communication"]
+    },
+    {
+      "word": "Heavy-handed",
+      "sentence_en": "Don't be too heavy-handed with the salt when you are cooking.",
+      "sentence_ko": "요리할 때 소금을 너무 과하게 넣지 마세요.",
+      "tags": ["cooking", "health", "food"]
+    },
+    {
+      "word": "Heavy-handed",
+      "sentence_en": "The government was criticized for its heavy-handed regulation of small businesses.",
+      "sentence_ko": "정부는 중소기업에 대한 과도한 규제로 비판을 받았습니다.",
+      "tags": ["entrepreneur", "business", "law"]
+    },
+    {
+      "word": "Heavy-handed",
+      "sentence_en": "Medical treatment should be precise, not heavy-handed.",
+      "sentence_ko": "의료적 처치는 정밀해야지, 서투르고 과격해서는 안 됩니다.",
+      "tags": ["medical", "health", "science"]
+    },
+    {
+      "word": "Heavy-handed",
+      "sentence_en": "We prefer open communication rather than heavy-handed discipline in this school.",
+      "sentence_ko": "우리 학교는 강압적인 훈육보다는 열린 소통을 선호합니다.",
+      "tags": ["education", "communication", "learning"]
+    },
+    {
+      "word": "Iron-fisted",
+      "sentence_en": "He ruled the company with an iron-fisted grip, allowing no dissent.",
+      "sentence_ko": "그는 반대를 용납하지 않고 철권통치로 회사를 지배했습니다.",
+      "tags": ["business", "management", "entrepreneur"]
+    },
+    {
+      "word": "Iron-fisted",
+      "sentence_en": "The history books describe the iron-fisted rule of the ancient kings.",
+      "sentence_ko": "역사책들은 고대 왕들의 철권통치를 묘사하고 있습니다.",
+      "tags": ["education", "reading", "history"]
+    },
+    {
+      "word": "Iron-fisted",
+      "sentence_en": "An iron-fisted approach rarely works when you are trying to build a warm community.",
+      "sentence_ko": "따뜻한 공동체를 만들려고 할 때 철권통치 방식은 거의 효과가 없습니다.",
+      "tags": ["warm", "communication", "community"]
+    },
+    {
+      "word": "Iron-fisted",
+      "sentence_en": "The coach was iron-fisted about training schedules to ensure peak health.",
+      "sentence_ko": "코치는 최상의 건강 상태를 보장하기 위해 훈련 일정에 있어 매우 엄격했습니다.",
+      "tags": ["health", "sports", "education"]
+    },
+    {
+      "word": "Iron-fisted",
+      "sentence_en": "Cooking requires a delicate touch, not an iron-fisted one.",
+      "sentence_ko": "요리는 섬세한 손길을 필요로 하지, 무지막지한 힘을 필요로 하지 않습니다.",
+      "tags": ["cooking", "art", "skills"]
+    },
+    {
+      "word": "Domineering",
+      "sentence_en": "His domineering personality made it difficult to have a balanced conversation.",
+      "sentence_ko": "그의 거만한 성격 때문에 균형 잡힌 대화를 나누기가 어려웠습니다.",
+      "tags": ["communication", "meeting", "relationship"]
+    },
+    {
+      "word": "Domineering",
+      "sentence_en": "A domineering partner can negatively impact your mental health.",
+      "sentence_ko": "지나치게 지배하려 드는 파트너는 당신의 정신 건강에 부정적인 영향을 줄 수 있습니다.",
+      "tags": ["health", "medical", "happy"]
+    },
+    {
+      "word": "Domineering",
+      "sentence_en": "In the meeting, she stood up to the domineering director to protect her team.",
+      "sentence_ko": "회의에서 그녀는 팀을 보호하기 위해 거만한 이사에게 맞섰습니다.",
+      "tags": ["business", "meeting", "courage"]
+    },
+    {
+      "word": "Domineering",
+      "sentence_en": "Entrepreneurs need to be leaders, not domineering bosses.",
+      "sentence_ko": "기업가는 리더가 되어야지, 군림하는 보스가 되어서는 안 됩니다.",
+      "tags": ["entrepreneur", "business", "management"]
+    },
+    {
+      "word": "Domineering",
+      "sentence_en": "The teacher managed the class well without being domineering.",
+      "sentence_ko": "그 선생님은 위압적이지 않으면서도 학급을 잘 이끌었습니다.",
+      "tags": ["education", "warm", "learning"]
+    },
+    {
+      "word": "Bossy",
+      "sentence_en": "Stop being so bossy and let's enjoy the cooking together.",
+      "sentence_ko": "그만 좀 이래라저래라 하고 우리 같이 요리를 즐기자.",
+      "tags": ["cooking", "happy", "relationship"]
+    },
+    {
+      "word": "Bossy",
+      "sentence_en": "The child was a bit bossy, telling all his friends what to play.",
+      "sentence_ko": "그 아이는 조금 대장 노릇을 하며 친구들에게 무엇을 하고 놀지 지시했습니다.",
+      "tags": ["education", "communication", "family"]
+    },
+    {
+      "word": "Bossy",
+      "sentence_en": "No one likes a bossy coworker who acts like a manager.",
+      "sentence_ko": "매니저처럼 행동하며 지시하는 직장 동료를 좋아하는 사람은 없습니다.",
+      "tags": ["business", "work", "meeting"]
+    },
+    {
+      "word": "Bossy",
+      "sentence_en": "She laughed at her bossy sister who was trying to organize the party.",
+      "sentence_ko": "그녀는 파티를 주관하려 애쓰는, 이래라저래라 하는 언니를 보고 웃었습니다.",
+      "tags": ["happy", "family", "warm"]
+    },
+    {
+      "word": "Bossy",
+      "sentence_en": "Nurses can be firm about health rules without being bossy.",
+      "sentence_ko": "간호사들은 거들먹거리지 않으면서도 건강 수칙에 대해 단호할 수 있습니다.",
+      "tags": ["medical", "health", "communication"]
+    },
+    {
+      "word": "Imperious",
+      "sentence_en": "She raised an imperious hand to silence the room during the meeting.",
+      "sentence_ko": "그녀는 회의 중에 좌중을 조용히 시키기 위해 거만하게 손을 들어 올렸습니다.",
+      "tags": ["meeting", "business", "communication"]
+    },
+    {
+      "word": "Imperious",
+      "sentence_en": "The imperious attitude of the head surgeon intimidated the interns.",
+      "sentence_ko": "수석 외과의의 고압적인 태도는 인턴들을 겁먹게 했습니다.",
+      "tags": ["medical", "health", "education"]
+    },
+    {
+      "word": "Imperious",
+      "sentence_en": "Customers dislike imperious waiters who act superior.",
+      "sentence_ko": "손님들은 우월한 척 행동하는 거만한 웨이터를 싫어합니다.",
+      "tags": ["business", "cooking", "service"]
+    },
+    {
+      "word": "Imperious",
+      "sentence_en": "An entrepreneur must stay humble, avoiding an imperious manner.",
+      "sentence_ko": "기업가는 거만한 태도를 피하고 겸손함을 유지해야 합니다.",
+      "tags": ["entrepreneur", "business", "warm"]
+    },
+    {
+      "word": "Imperious",
+      "sentence_en": "The professor's imperious voice echoed through the lecture hall.",
+      "sentence_ko": "교수의 고압적인 목소리가 강의실에 울려 퍼졌습니다.",
+      "tags": ["education", "communication", "learning"]
+    },
+    {
+      "word": "Arbitrary",
+      "sentence_en": "The rules for the cooking contest seemed completely arbitrary.",
+      "sentence_ko": "요리 대회의 규칙은 완전히 제멋대로인 것처럼 보였습니다.",
+      "tags": ["cooking", "competition", "business"]
+    },
+    {
+      "word": "Arbitrary",
+      "sentence_en": "Arbitrary deadlines cause unnecessary stress and bad health.",
+      "sentence_ko": "원칙 없는 마감 기한은 불필요한 스트레스와 건강 악화를 초래합니다.",
+      "tags": ["health", "business", "work"]
+    },
+    {
+      "word": "Arbitrary",
+      "sentence_en": "Good communication requires logic, not arbitrary statements.",
+      "sentence_ko": "좋은 의사소통은 논리를 필요로 하지, 독단적인 주장을 필요로 하지 않습니다.",
+      "tags": ["communication", "meeting", "education"]
+    },
+    {
+      "word": "Arbitrary",
+      "sentence_en": "An entrepreneur cannot succeed by making arbitrary decisions based on moods.",
+      "sentence_ko": "기업가는 기분에 따라 독단적인 결정을 내려서는 성공할 수 없습니다.",
+      "tags": ["entrepreneur", "business", "management"]
+    },
+    {
+      "word": "Arbitrary",
+      "sentence_en": "The grading system felt arbitrary, which frustrated the students.",
+      "sentence_ko": "채점 방식이 제멋대로라고 느껴져서 학생들이 좌절했습니다.",
+      "tags": ["education", "school", "fairness"]
+    },
+    {
+      "word": "Unjust",
+      "sentence_en": "It is unjust to blame the medical staff for the lack of resources.",
+      "sentence_ko": "자원 부족을 의료진의 탓으로 돌리는 것은 부당합니다.",
+      "tags": ["medical", "health", "business"]
+    },
+    {
+      "word": "Unjust",
+      "sentence_en": "We held a meeting to protest the unjust firing of our colleague.",
+      "sentence_ko": "우리는 동료의 부당 해고에 항의하기 위해 회의를 열었습니다.",
+      "tags": ["meeting", "business", "work"]
+    },
+    {
+      "word": "Unjust",
+      "sentence_en": "Education should fight against unjust discrimination in society.",
+      "sentence_ko": "교육은 사회의 부당한 차별에 맞서 싸워야 합니다.",
+      "tags": ["education", "communication", "justice"]
+    },
+    {
+      "word": "Unjust",
+      "sentence_en": "The review of the restaurant was unjust; the cooking was actually excellent.",
+      "sentence_ko": "그 식당에 대한 리뷰는 부당했습니다. 요리는 실제로 훌륭했거든요.",
+      "tags": ["cooking", "business", "food"]
+    },
+    {
+      "word": "Unjust",
+      "sentence_en": "A happy society is one where unjust laws are corrected.",
+      "sentence_ko": "행복한 사회는 부당한 법이 시정되는 사회입니다.",
+      "tags": ["happy", "law", "communication"]
+    },
+    {
+      "word": "Exploitative",
+      "sentence_en": "The company was fined for its exploitative labor practices.",
+      "sentence_ko": "그 회사는 착취적인 노동 관행으로 벌금을 부과받았습니다.",
+      "tags": ["business", "law", "work"]
+    },
+    {
+      "word": "Exploitative",
+      "sentence_en": "We need to protect young entrepreneurs from exploitative investors.",
+      "sentence_ko": "우리는 착취하려 드는 투자자들로부터 청년 사업가들을 보호해야 합니다.",
+      "tags": ["entrepreneur", "business", "money"]
+    },
+    {
+      "word": "Exploitative",
+      "sentence_en": "Exploitative relationships can severely damage your emotional health.",
+      "sentence_ko": "착취적인 관계는 당신의 정서적 건강을 심각하게 해칠 수 있습니다.",
+      "tags": ["health", "relationship", "medical"]
+    },
+    {
+      "word": "Exploitative",
+      "sentence_en": "The documentary exposed the exploitative nature of the fashion industry.",
+      "sentence_ko": "그 다큐멘터리는 패션 산업의 착취적인 본질을 폭로했습니다.",
+      "tags": ["education", "communication", "media"]
+    },
+    {
+      "word": "Exploitative",
+      "sentence_en": "Using interns for free labor is often seen as exploitative.",
+      "sentence_ko": "인턴을 무보수 노동력으로 쓰는 것은 종종 착취로 간주됩니다.",
+      "tags": ["business", "education", "job"]
+    },
+    {
+      "word": "Subjugating",
+      "sentence_en": "The empire expanded by subjugating neighboring countries.",
+      "sentence_ko": "그 제국은 이웃 국가들을 정복하고 예속시키며 확장했습니다.",
+      "tags": ["education", "history", "war"]
+    },
+    {
+      "word": "Subjugating",
+      "sentence_en": "True leadership is about empowering people, not subjugating them.",
+      "sentence_ko": "진정한 리더십은 사람들에게 힘을 실어주는 것이지, 그들을 굴복시키는 것이 아닙니다.",
+      "tags": ["business", "entrepreneur", "management"]
+    },
+    {
+      "word": "Subjugating",
+      "sentence_en": "She felt the corporate culture was subjugating her unique style.",
+      "sentence_ko": "그녀는 기업 문화가 자신의 독특한 스타일을 억누르고 있다고 느꼈습니다.",
+      "tags": ["business", "communication", "work"]
+    },
+    {
+      "word": "Subjugating",
+      "sentence_en": "Subjugating one's desires is sometimes necessary for better health.",
+      "sentence_ko": "더 나은 건강을 위해 때로는 욕망을 억제하는 것이 필요합니다.",
+      "tags": ["health", "medical", "discipline"]
+    },
+    {
+      "word": "Subjugating",
+      "sentence_en": "We had a warm discussion about not subjugating our personal lives to work.",
+      "sentence_ko": "우리는 개인의 삶을 일에 종속시키지 않는 것에 대해 따뜻한 토론을 했습니다.",
+      "tags": ["warm", "meeting", "happy"]
+    },
+    {
+      "word": "Crushing",
+      "sentence_en": "The crushing defeat in the market taught the entrepreneur a hard lesson.",
+      "sentence_ko": "시장에서의 참혹한 패배는 그 기업가에게 힘든 교훈을 주었습니다.",
+      "tags": ["entrepreneur", "business", "education"]
+    },
+    {
+      "word": "Crushing",
+      "sentence_en": "She felt a crushing weight of responsibility during the medical emergency.",
+      "sentence_ko": "의료 응급 상황에서 그녀는 짓누르는 듯한 책임감을 느꼈습니다.",
+      "tags": ["medical", "health", "work"]
+    },
+    {
+      "word": "Crushing",
+      "sentence_en": "Don't let a crushing workload destroy your happy family life.",
+      "sentence_ko": "살인적인 업무량이 당신의 행복한 가정생활을 파괴하게 두지 마세요.",
+      "tags": ["happy", "business", "family"]
+    },
+    {
+      "word": "Crushing",
+      "sentence_en": "The chef was crushing garlic to add flavor to the cooking.",
+      "sentence_ko": "셰프는 요리에 풍미를 더하기 위해 마늘을 으깨고 있었습니다.",
+      "tags": ["cooking", "food", "kitchen"]
+    },
+    {
+      "word": "Crushing",
+      "sentence_en": "Students often feel crushing pressure during exam periods.",
+      "sentence_ko": "학생들은 시험 기간 동안 짓눌리는 듯한 압박감을 종종 느낍니다.",
+      "tags": ["education", "health", "school"]
+    },
+    {
+      "word": "Intimidating",
+      "sentence_en": "The large medical equipment can be intimidating to young patients.",
+      "sentence_ko": "거대한 의료 장비는 어린 환자들에게 위협적으로 보일 수 있습니다.",
+      "tags": ["medical", "health", "child"]
+    },
+    {
+      "word": "Intimidating",
+      "sentence_en": "Walking into a boardroom full of executives was intimidating.",
+      "sentence_ko": "임원들로 가득 찬 회의실로 들어가는 것은 위축되는 일이었습니다.",
+      "tags": ["business", "meeting", "fear"]
+    },
+    {
+      "word": "Intimidating",
+      "sentence_en": "Learning a new language shouldn't be intimidating; it should be fun.",
+      "sentence_ko": "새로운 언어를 배우는 것이 겁나는 일이 되어서는 안 됩니다. 즐거워야죠.",
+      "tags": ["education", "communication", "happy"]
+    },
+    {
+      "word": "Intimidating",
+      "sentence_en": "The professional kitchen looked intimidating with all the sharp knives.",
+      "sentence_ko": "전문 주방은 온통 날카로운 칼들이 있어서 위협적으로 보였습니다.",
+      "tags": ["cooking", "work", "tool"]
+    },
+    {
+      "word": "Intimidating",
+      "sentence_en": "An entrepreneur faces intimidating challenges but overcomes them.",
+      "sentence_ko": "기업가는 위협적인 도전들에 직면하지만 그것들을 극복해 냅니다.",
+      "tags": ["entrepreneur", "business", "success"]
+    },
+    {
+      "word": "Suffocating",
+      "sentence_en": "The lack of creativity in the office felt suffocating.",
+      "sentence_ko": "사무실에 창의성이 부족하여 숨이 막히는 것 같았습니다.",
+      "tags": ["business", "communication", "art"]
+    },
+    {
+      "word": "Suffocating",
+      "sentence_en": "She opened the window to let fresh air into the suffocating room.",
+      "sentence_ko": "그녀는 숨 막히는 방에 신선한 공기를 들이기 위해 창문을 열었습니다.",
+      "tags": ["health", "warm", "home"]
+    },
+    {
+      "word": "Suffocating",
+      "sentence_en": "A suffocating relationship prevents you from being truly happy.",
+      "sentence_ko": "숨 막히는 관계는 당신이 진정으로 행복해지는 것을 막습니다.",
+      "tags": ["happy", "relationship", "love"]
+    },
+    {
+      "word": "Suffocating",
+      "sentence_en": "The smoke from the burnt cooking was suffocating.",
+      "sentence_ko": "요리가 타서 나는 연기 때문에 숨이 막혔습니다.",
+      "tags": ["cooking", "health", "kitchen"]
+    },
+    {
+      "word": "Suffocating",
+      "sentence_en": "Strict school rules can sometimes feel suffocating to teenagers.",
+      "sentence_ko": "엄격한 학교 규칙은 십 대들에게 때때로 숨 막히게 느껴질 수 있습니다.",
+      "tags": ["education", "school", "student"]
+    },
+    {
+      "word": "Restrictive",
+      "sentence_en": "The restrictive diet helped him regain his health.",
+      "sentence_ko": "제한적인 식단은 그가 건강을 되찾는 데 도움을 주었습니다.",
+      "tags": ["health", "cooking", "food"]
+    },
+    {
+      "word": "Restrictive",
+      "sentence_en": "Restrictive laws on trade can harm international business.",
+      "sentence_ko": "무역에 대한 제한적인 법률은 국제 비즈니스에 해를 끼칠 수 있습니다.",
+      "tags": ["business", "law", "global"]
+    },
+    {
+      "word": "Restrictive",
+      "sentence_en": "We tried to make the meeting less restrictive to encourage ideas.",
+      "sentence_ko": "우리는 아이디어를 장려하기 위해 회의를 덜 제한적으로 만들려고 노력했습니다.",
+      "tags": ["meeting", "communication", "idea"]
+    },
+    {
+      "word": "Restrictive",
+      "sentence_en": "Education should expand minds, not be restrictive.",
+      "sentence_ko": "교육은 사고를 확장해야지, 제한적이어서는 안 됩니다.",
+      "tags": ["education", "learning", "growth"]
+    },
+    {
+      "word": "Restrictive",
+      "sentence_en": "The entrepreneur found the local regulations too restrictive for growth.",
+      "sentence_ko": "그 기업가는 지역 규제가 성장에 너무 제약이 많다고 느꼈습니다.",
+      "tags": ["entrepreneur", "business", "startups"]
+    },
+    {
+      "word": "Threatening",
+      "sentence_en": "The dark clouds were threatening a storm, so we canceled the picnic.",
+      "sentence_ko": "먹구름이 폭풍을 예고하며 위협하고 있어서 우리는 소풍을 취소했습니다.",
+      "tags": ["nature", "weather", "plan"]
+    },
+    {
+      "word": "Threatening",
+      "sentence_en": "Threatening language has no place in a professional meeting.",
+      "sentence_ko": "협박성 언어는 전문적인 회의에서 설자리가 없습니다.",
+      "tags": ["meeting", "business", "communication"]
+    },
+    {
+      "word": "Threatening",
+      "sentence_en": "High blood pressure is a condition threatening his overall health.",
+      "sentence_ko": "고혈압은 그의 전반적인 건강을 위협하는 질환입니다.",
+      "tags": ["health", "medical", "body"]
+    },
+    {
+      "word": "Threatening",
+      "sentence_en": "The teacher handled the threatening behavior of the bully calmly.",
+      "sentence_ko": "선생님은 괴롭히는 학생의 위협적인 행동을 침착하게 처리했습니다.",
+      "tags": ["education", "school", "control"]
+    },
+    {
+      "word": "Threatening",
+      "sentence_en": "A competitor is threatening to take over our market share.",
+      "sentence_ko": "경쟁사가 우리의 시장 점유율을 차지하겠다고 위협하고 있습니다.",
+      "tags": ["business", "entrepreneur", "market"]
+    },
+    {
+      "word": "Menacing",
+      "sentence_en": "The menacing dog barked loudly, scaring the children.",
+      "sentence_ko": "위협적인 개가 크게 짖어 아이들을 겁주었습니다.",
+      "tags": ["nature", "family", "fear"]
+    },
+    {
+      "word": "Menacing",
+      "sentence_en": "A menacing look from the boss silenced the entire office.",
+      "sentence_ko": "보스의 위협적인 눈빛 하나에 사무실 전체가 조용해졌습니다.",
+      "tags": ["business", "work", "communication"]
+    },
+    {
+      "word": "Menacing",
+      "sentence_en": "Pollution is a menacing problem for public health.",
+      "sentence_ko": "오염은 공중 보건에 위협적인 문제입니다.",
+      "tags": ["health", "medical", "environment"]
+    },
+    {
+      "word": "Menacing",
+      "sentence_en": "In the cooking show, the strict judge can seem menacing to contestants.",
+      "sentence_ko": "요리 쇼에서 엄격한 심사위원은 참가자들에게 위협적으로 보일 수 있습니다.",
+      "tags": ["cooking", "entertainment", "tv"]
+    },
+    {
+      "word": "Menacing",
+      "sentence_en": "We must remove menacing obstacles to ensure happy growth for kids.",
+      "sentence_ko": "아이들의 행복한 성장을 보장하기 위해 위협적인 장애물들을 제거해야 합니다.",
+      "tags": ["happy", "education", "child"]
+    },
+    {
+      "word": "Bullying",
+      "sentence_en": "The school launched a campaign to stop bullying and promote kindness.",
+      "sentence_ko": "학교는 괴롭힘을 멈추고 친절을 장려하기 위한 캠페인을 시작했습니다.",
+      "tags": ["education", "warm", "communication"]
+    },
+    {
+      "word": "Bullying",
+      "sentence_en": "Workplace bullying creates a hostile environment and lowers productivity.",
+      "sentence_ko": "직장 내 괴롭힘은 적대적인 환경을 조성하고 생산성을 떨어뜨립니다.",
+      "tags": ["business", "work", "mental"]
+    },
+    {
+      "word": "Bullying",
+      "sentence_en": "We teach our children that bullying is never acceptable.",
+      "sentence_ko": "우리는 아이들에게 괴롭힘은 절대 용납될 수 없다고 가르칩니다.",
+      "tags": ["family", "happy", "learning"]
+    },
+    {
+      "word": "Bullying",
+      "sentence_en": "Bullying can cause serious mental health issues for victims.",
+      "sentence_ko": "괴롭힘은 피해자에게 심각한 정신 건강 문제를 일으킬 수 있습니다.",
+      "tags": ["health", "medical", "mind"]
+    },
+    {
+      "word": "Bullying",
+      "sentence_en": "The manager was fired for bullying his staff into working overtime.",
+      "sentence_ko": "그 매니저는 직원들을 괴롭혀 야근을 강요한 이유로 해고되었습니다.",
+      "tags": ["business", "management", "justice"]
+    },
+    {
+      "word": "Overbearing",
+      "sentence_en": "Her overbearing mother tried to plan every detail of the wedding.",
+      "sentence_ko": "그녀의 강압적인 어머니는 결혼식의 모든 세부 사항을 계획하려 했습니다.",
+      "tags": ["family", "communication", "event"]
+    },
+    {
+      "word": "Overbearing",
+      "sentence_en": "An overbearing boss can stifle the creativity of an entrepreneur.",
+      "sentence_ko": "거만하고 압제적인 상사는 기업가의 창의성을 질식시킬 수 있습니다.",
+      "tags": ["entrepreneur", "business", "startup"]
+    },
+    {
+      "word": "Overbearing",
+      "sentence_en": "The sauce had an overbearing flavor that ruined the cooking.",
+      "sentence_ko": "소스 맛이 너무 강해서 요리를 망쳤습니다.",
+      "tags": ["cooking", "food", "taste"]
+    },
+    {
+      "word": "Overbearing",
+      "sentence_en": "We need warm support, not overbearing advice.",
+      "sentence_ko": "우리는 거만한 조언이 아니라 따뜻한 지지가 필요합니다.",
+      "tags": ["warm", "communication", "help"]
+    },
+    {
+      "word": "Overbearing",
+      "sentence_en": "The heat in the room was overbearing, affecting everyone's health.",
+      "sentence_ko": "방 안의 열기가 너무 심해서 모두의 건강에 영향을 주었습니다.",
+      "tags": ["health", "environment", "condition"]
+    },
+    {
+      "word": "Violent",
+      "sentence_en": "The patient had a violent reaction to the new medication.",
+      "sentence_ko": "그 환자는 새로운 약물에 대해 격렬한 반응을 보였습니다.",
+      "tags": ["medical", "health", "science"]
+    },
+    {
+      "word": "Violent",
+      "sentence_en": "Violent language is strictly prohibited in our business meetings.",
+      "sentence_ko": "우리 비즈니스 회의에서 폭력적인 언어는 엄격히 금지됩니다.",
+      "tags": ["business", "meeting", "rule"]
+    },
+    {
+      "word": "Violent",
+      "sentence_en": "The violent storm outside made our warm home feel even cozier.",
+      "sentence_ko": "밖의 거센 폭풍우 덕분에 우리의 따뜻한 집이 더 아늑하게 느껴졌습니다.",
+      "tags": ["warm", "home", "happy"]
+    },
+    {
+      "word": "Violent",
+      "sentence_en": "We must protect children from violent content on the internet.",
+      "sentence_ko": "우리는 인터넷상의 폭력적인 콘텐츠로부터 아이들을 보호해야 합니다.",
+      "tags": ["education", "communication", "protection"]
+    },
+    {
+      "word": "Violent",
+      "sentence_en": "Violent market fluctuations can ruin an unprepared entrepreneur.",
+      "sentence_ko": "격렬한 시장 변동은 준비되지 않은 기업가를 망하게 할 수 있습니다.",
+      "tags": ["entrepreneur", "business", "finance"]
+    },
+    {
+      "word": "Harsh",
+      "sentence_en": "The harsh lighting in the office caused eye strain.",
+      "sentence_ko": "사무실의 거친 조명이 눈의 피로를 유발했습니다.",
+      "tags": ["health", "business", "work"]
+    },
+    {
+      "word": "Harsh",
+      "sentence_en": "Don't use harsh chemicals when cleaning the cooking equipment.",
+      "sentence_ko": "요리 도구를 청소할 때 독한 화학 물질을 사용하지 마세요.",
+      "tags": ["cooking", "clean", "safety"]
+    },
+    {
+      "word": "Harsh",
+      "sentence_en": "His harsh words hurt her feelings, but they made up with a warm hug.",
+      "sentence_ko": "그의 모진 말은 그녀에게 상처를 주었지만, 그들은 따뜻한 포옹으로 화해했습니다.",
+      "tags": ["communication", "warm", "relationship"]
+    },
+    {
+      "word": "Harsh",
+      "sentence_en": "The medical treatment was harsh, but it saved his life.",
+      "sentence_ko": "그 의학적 치료는 가혹했지만, 그의 생명을 구했습니다.",
+      "tags": ["medical", "health", "survival"]
+    },
+    {
+      "word": "Harsh",
+      "sentence_en": "Entrepreneurs often face harsh realities before achieving success.",
+      "sentence_ko": "기업가들은 성공을 거두기 전에 종종 가혹한 현실에 직면합니다.",
+      "tags": ["entrepreneur", "business", "challenge"]
+    }
+  ]
+}

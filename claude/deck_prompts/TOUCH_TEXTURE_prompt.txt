@@ -1,0 +1,95 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: TOUCH_TEXTURE
+- **총 단어 수**: 23개
+
+## 단어 목록
+1. Silky - 비단 같은
+2. Velvety - 벨벳 같은
+3. Sleek - 매끄러운
+4. Supple - 유연한, 탄력 있는.  sub+pli(구부리다)
+5. [supple](https://www.google.com/search?q=supple_sca_esv=5ea70eeef6a2a5b7_rlz=1C5CHFA_enKR1185KR1185_sxsrf=AE3TifMncPwbcYuEJE04QBefCVP_avfAWw%3A1765085439607_ei=_xA1aeXjJO6y0-kPoIOu6QU_ved=2ahUKEwjn6qHe36qRAxVv1jQHHSyPOTsQgK4QegQIAxAG_uact=5_oq=Supple+%EC%96%B4%EC%9B%90_gs_lp=Egxnd3Mtd2l6LXNlcnAiDVN1cHBsZSDslrTsm5AyBhAAGAcYHjIGEAAYDRgeMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSOcJUNMCWKEIcAJ4AJABAJgBggGgAfABqgEDMC4yuAEDyAEA-AEC-AEBmAIEoAKAAsICCBAAGLADGO8FwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwMyLjKgB7YHsgcDMC4yuAf4AcIHBTAuMy4xyAcKgAgA_sclient=gws-wiz-serp_mstk=AUtExfCu7yfUGZUVWmeRCrvQ5TxBuPrdlXhwQtWLbzOUgQzhAxmmTEJd_jrJmTBCb_Ucq3_o4oA28lcF_7xzQXQJTlAoc_NjsWjhMDyald09V8VoSqUtJ8SSLwjTaGuR1RIBOekL15Fi7VU1WvxP1APEObqBkaSaDJ2F76U6ngEnQA1sexMh5jHhhY3BVojM5UGqw79vBoJnpwOzlEH8HrwK0QsDAYAfqDicrGAKDC_vSd9YbKkTsWS2uApjx1wW90M8Oj9XpSLGKvL0LPp21YLnmBNH_csui=3)ment - 보충하다.
+6. Fluffy - 푹신한, 솜털 같은
+7. Coarse - 거친 (입자가 굵은)
+8. Rough - 거친, 울퉁불퉁한
+9. Prickly - 가시 같은, 따끔거리는  (고)prik 찌르다
+10. Bristly - 까슬까슬한 (털)
+11. Gritty - 모래 같은, 꺼끌꺼끌한
+12. grit - 모래
+13. Abrasive - 연마하는, 거친
+14. Clammy - 축축한 (기분 나쁜)  clam(끈적)/ clay(점토)
+15. Viscous - 점성이 있는, 끈적한
+16. Damp - 눅눅한, 축축한
+17. Slimy - 미끈거리는, 끈적한
+18. Sticky - 끈적끈적한
+19. Tepid - 미지근한
+20. Frigid - 몹시 차가운
+21. Brittle - 부서지기 쉬운
+22. Fragile - 깨지기 쉬운, 연약한
+23. Jagged - 삐죽삐죽한
+
+## 추천 태그 (상황/맥락)
+entrepreneur, meeting, activity, smartphone, daily_life, technology, relationship, university, ai, movie
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "TOUCH_TEXTURE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "TOUCH_TEXTURE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 23개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

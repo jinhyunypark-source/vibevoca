@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: FLUCTUATION_STAGNATION
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Fluctuate - 변동하다 (불규칙하게 오르내리다)
+2. Vacillate - 흔들리다 (결정을 못 내리고 오락가락하다)
+3. Oscillate - 진동하다 (추처럼 규칙적으로 왔다 갔다 하다)
+4. Swing - 그네처럼 흔들리다 (크게 변하다)
+5. Vary - 달라지다 (일정하지 않다)
+6. Waver - 약해지다, 흔들리다 (불안정하게 떨리다)
+7. Alternate - 번갈아 일어나다 (A-B-A-B 패턴)
+8. Seesaw - 일진일퇴하다 (시소처럼 위아래로)
+9. Stagnate - 침체하다 (고여서 흐르지 않다)
+10. Stall - 교착 상태에 빠지다 (엔진이 꺼지듯 멈추다)
+11. Plateau - 정체기에 들다 (상승하다가 평평해지다)  like plate
+12. Stabilize - 안정되다 (흔들림을 멈추다)
+13. Settle - 자리를 잡다, 가라앉다 (움직임이 멈추다)
+14. Remain - 여전히 ~이다 (변하지 않고 남다)
+15. Persist - 지속되다, 고집하다 (없어지지 않고 계속되다)
+16. Endure - 지속되다, 견디다 (오래가다)
+17. Last - 계속하다 (시간적으로 지속되다)
+18. Freeze - 동결하다 (움직임을 완전히 멈추다)
+19. Halt - 중단시키다 (가던 것을 세우다)
+20. Pause - 일시 정지하다 (잠깐 멈추다)
+21. Suspend - 유예하다, 매달다 (공중에 띄워 멈추다)
+22. Linger - 오래 머물다 (떠나지 않고 질질 끌다)
+23. Hover - 맴돌다 (수치나 위치가 제자리에서)
+24. Drift - 표류하다 (목적 없이 흘러가다)
+25. Meander - 굽이쳐 흐르다 (이리저리 천천히 가다)
+26. Deviate - 일탈하다, 벗어나다 (경로에서 빠지다). de(떨어져) + via(길)
+27. Diverge - 갈라지다 (한 점에서 나뉘다)
+28. Converge - 모여들다 (한 점으로 합쳐지다)
+29. Level off - 수평을 유지하다 (상승/하락 후 멈추다)
+30. Steady - 꾸준한, 안정된 (변함없는)
+
+## 추천 태그 (상황/맥락)
+exercise, sport, code, feeling, emotion, nature, conversation, style, food, mood
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "FLUCTUATION_STAGNATION",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "FLUCTUATION_STAGNATION",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

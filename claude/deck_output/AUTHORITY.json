@@ -1,0 +1,1086 @@
+{
+  "deck_title": "AUTHORITY_PRESTIGE",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "word": "Influential",
+      "sentence_en": "The documentary became influential in changing public opinion about environmental issues.",
+      "sentence_ko": "그 다큐멘터리는 환경 문제에 대한 대중의 인식을 바꾸는 데 큰 영향력을 발휘했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Influential",
+      "sentence_en": "She became one of the most influential art critics in the contemporary scene.",
+      "sentence_ko": "그녀는 현대 미술계에서 가장 영향력 있는 평론가 중 한 명이 되었다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Influential",
+      "sentence_en": "His influential blog posts on digital marketing reach millions of readers worldwide.",
+      "sentence_ko": "디지털 마케팅에 관한 그의 영향력 있는 블로그 글은 전 세계 수백만 독자에게 도달한다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Influential",
+      "sentence_en": "The interviewer asked how influential mentors shaped her career path.",
+      "sentence_ko": "면접관은 영향력 있는 멘토들이 그녀의 커리어에 어떤 영향을 주었는지 물었다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Influential",
+      "sentence_en": "Social media has become an influential platform for spreading awareness about climate change.",
+      "sentence_ko": "소셜 미디어는 기후 변화에 대한 인식을 퍼뜨리는 영향력 있는 플랫폼이 되었다.",
+      "tags": ["digital", "environment"]
+    },
+    {
+      "word": "Influential",
+      "sentence_en": "The chef's influential cooking style transformed the local dining scene entirely.",
+      "sentence_ko": "그 셰프의 영향력 있는 요리 스타일이 지역 외식 문화를 완전히 바꿔놓았다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "The museum guide spoke in an authoritative tone that captivated all visitors.",
+      "sentence_ko": "박물관 가이드는 모든 방문객을 사로잡는 권위 있는 어조로 설명했다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "This textbook is considered the most authoritative source on modern European history.",
+      "sentence_ko": "이 교과서는 현대 유럽 역사에 관해 가장 권위 있는 자료로 여겨진다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "The documentary featured authoritative experts discussing environmental conservation.",
+      "sentence_ko": "그 다큐멘터리에는 환경 보전에 대해 논의하는 권위 있는 전문가들이 출연했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "Her authoritative knowledge of digital security impressed everyone at the interview.",
+      "sentence_ko": "디지털 보안에 대한 그녀의 전문적인 지식이 면접에서 모두에게 깊은 인상을 주었다.",
+      "tags": ["digital", "interview"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "The restaurant critic writes authoritative reviews that shape the city's dining trends.",
+      "sentence_ko": "그 레스토랑 평론가는 도시의 외식 트렌드를 좌우하는 권위 있는 리뷰를 쓴다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Authoritative",
+      "sentence_en": "His authoritative presence made everyone in the room pay attention.",
+      "sentence_ko": "그의 위엄 있는 존재감에 방 안의 모든 사람이 주목했다.",
+      "tags": ["feeling"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "She is a highly respected professor in the field of environmental science.",
+      "sentence_ko": "그녀는 환경 과학 분야에서 매우 존경받는 교수이다.",
+      "tags": ["environment", "learning"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "The respected film director received a lifetime achievement award at the festival.",
+      "sentence_ko": "그 존경받는 영화감독은 영화제에서 평생공로상을 받았다.",
+      "tags": ["movie", "art"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "Being a respected leader in the community gave her a strong sense of purpose.",
+      "sentence_ko": "지역사회에서 존경받는 리더가 되면서 그녀는 강한 사명감을 느꼈다.",
+      "tags": ["feeling", "place"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "The interview was conducted by one of the most respected journalists in digital media.",
+      "sentence_ko": "그 인터뷰는 디지털 미디어에서 가장 존경받는 기자 중 한 명이 진행했다.",
+      "tags": ["interview", "digital"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "This respected art gallery has been showcasing emerging artists for decades.",
+      "sentence_ko": "이 명망 있는 갤러리는 수십 년간 신진 작가들을 소개해 왔다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Respected",
+      "sentence_en": "The restaurant is run by a respected chef who trained in France.",
+      "sentence_ko": "그 레스토랑은 프랑스에서 수련한 존경받는 셰프가 운영한다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "She was accepted into one of the most prestigious art schools in the world.",
+      "sentence_ko": "그녀는 세계에서 가장 명망 있는 미술 학교 중 한 곳에 합격했다.",
+      "tags": ["art", "learning"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "The prestigious film festival attracts directors and actors from around the globe.",
+      "sentence_ko": "그 권위 있는 영화제는 전 세계의 감독과 배우들을 끌어모은다.",
+      "tags": ["movie", "place"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "Landing an interview at such a prestigious company felt like a dream come true.",
+      "sentence_ko": "그렇게 명망 있는 회사에서 면접 기회를 얻은 것은 꿈만 같았다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "The prestigious dining establishment has maintained three Michelin stars for a decade.",
+      "sentence_ko": "그 명망 있는 레스토랑은 10년 동안 미슐랭 3스타를 유지해 왔다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "He received a prestigious award for his contributions to environmental research.",
+      "sentence_ko": "그는 환경 연구에 대한 공헌으로 권위 있는 상을 받았다.",
+      "tags": ["environment", "learning"]
+    },
+    {
+      "word": "Prestigious",
+      "sentence_en": "The prestigious digital platform only features verified and credible content.",
+      "sentence_ko": "그 권위 있는 디지털 플랫폼은 검증된 신뢰할 수 있는 콘텐츠만 다룬다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "The esteemed artist's exhibition drew thousands of visitors over the weekend.",
+      "sentence_ko": "그 존경받는 작가의 전시회는 주말 동안 수천 명의 방문객을 끌어모았다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "We are honored to welcome our esteemed guest speaker today.",
+      "sentence_ko": "오늘 존경하는 초청 연사를 모시게 되어 영광입니다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "The esteemed film critic gave the movie a rare five-star review.",
+      "sentence_ko": "그 저명한 영화 평론가가 그 영화에 드물게 별 5개 리뷰를 주었다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "Dining at this esteemed restaurant is an experience you will never forget.",
+      "sentence_ko": "이 격조 높은 레스토랑에서의 식사는 잊을 수 없는 경험이 될 것이다.",
+      "tags": ["dining", "feeling"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "The esteemed professor shared her insights on environmental policy during the lecture.",
+      "sentence_ko": "그 존경받는 교수님이 강의 중 환경 정책에 대한 견해를 나누었다.",
+      "tags": ["environment", "learning"]
+    },
+    {
+      "word": "Esteemed",
+      "sentence_en": "His esteemed colleagues praised his innovative approach to digital learning.",
+      "sentence_ko": "그의 존경하는 동료들이 디지털 학습에 대한 그의 혁신적인 접근 방식을 칭찬했다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "The renowned photographer's work is displayed in museums around the world.",
+      "sentence_ko": "그 저명한 사진작가의 작품은 전 세계 박물관에 전시되어 있다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "This city is renowned for its vibrant street art and creative culture.",
+      "sentence_ko": "이 도시는 생동감 넘치는 거리 예술과 창의적인 문화로 유명하다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "The renowned director's latest movie received standing ovations at the premiere.",
+      "sentence_ko": "그 저명한 감독의 최신 영화는 시사회에서 기립 박수를 받았다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "She became renowned for her groundbreaking research on environmental sustainability.",
+      "sentence_ko": "그녀는 환경 지속 가능성에 관한 획기적인 연구로 유명해졌다.",
+      "tags": ["environment", "learning"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "The restaurant is renowned for its innovative fusion cuisine.",
+      "sentence_ko": "그 레스토랑은 혁신적인 퓨전 요리로 유명하다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Renowned",
+      "sentence_en": "The renowned app developer shared his success story during the interview.",
+      "sentence_ko": "그 유명한 앱 개발자가 인터뷰에서 자신의 성공 스토리를 공유했다.",
+      "tags": ["digital", "interview"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "Several prominent artists participated in the charity auction for environmental causes.",
+      "sentence_ko": "여러 저명한 예술가들이 환경을 위한 자선 경매에 참여했다.",
+      "tags": ["art", "environment"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "The prominent movie star spoke candidly about her struggles during the interview.",
+      "sentence_ko": "그 유명 영화배우는 인터뷰에서 자신의 힘든 시절에 대해 솔직하게 이야기했다.",
+      "tags": ["movie", "interview"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "This prominent landmark has become a must-visit place for tourists.",
+      "sentence_ko": "이 유명한 랜드마크는 관광객들의 필수 방문지가 되었다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "The prominent chef opened a new restaurant featuring locally sourced ingredients.",
+      "sentence_ko": "그 유명한 셰프가 지역 재료를 사용한 새 레스토랑을 열었다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "He plays a prominent role in shaping the company's digital strategy.",
+      "sentence_ko": "그는 회사의 디지털 전략을 수립하는 데 중요한 역할을 하고 있다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Prominent",
+      "sentence_en": "The museum features prominent works from the Renaissance period.",
+      "sentence_ko": "그 박물관에는 르네상스 시대의 주요 작품들이 전시되어 있다.",
+      "tags": ["art", "learning", "place"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "The documentary raised legitimate concerns about environmental pollution in the area.",
+      "sentence_ko": "그 다큐멘터리는 그 지역의 환경 오염에 대한 정당한 우려를 제기했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "Make sure you download apps only from legitimate sources on your smartphone.",
+      "sentence_ko": "스마트폰에서는 앱을 반드시 정식 경로에서만 다운로드하세요.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "Her frustration with the interview process was completely legitimate.",
+      "sentence_ko": "면접 과정에 대한 그녀의 불만은 충분히 이해할 만했다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "The art dealer assured the buyer that the painting was a legitimate original.",
+      "sentence_ko": "미술상은 구매자에게 그 그림이 정품 원작임을 보증했다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "The restaurant has legitimate claims to being the best Italian place in the city.",
+      "sentence_ko": "그 레스토랑은 도시 최고의 이탈리안 레스토랑이라는 명성에 손색이 없다.",
+      "tags": ["dining", "place"]
+    },
+    {
+      "word": "Legitimate",
+      "sentence_en": "Online courses from legitimate institutions can be just as valuable as traditional education.",
+      "sentence_ko": "공인된 기관의 온라인 강좌는 전통적인 교육만큼 가치가 있을 수 있다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "Plastic pollution has become increasingly prevalent in our oceans and beaches.",
+      "sentence_ko": "플라스틱 오염이 바다와 해변에서 점점 더 널리 퍼지고 있다.",
+      "tags": ["environment", "place"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "Streaming services have become prevalent, changing how we watch movies.",
+      "sentence_ko": "스트리밍 서비스가 보편화되면서 우리가 영화를 보는 방식이 바뀌었다.",
+      "tags": ["movie", "digital"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "The feeling of uncertainty is prevalent among job seekers after the interview.",
+      "sentence_ko": "면접 후 불확실함을 느끼는 것은 구직자들 사이에서 흔한 일이다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "Plant-based options are now prevalent on menus at fine dining restaurants.",
+      "sentence_ko": "이제 파인 다이닝 레스토랑 메뉴에서도 식물성 옵션을 흔히 볼 수 있다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "Smartphone addiction has become prevalent among teenagers worldwide.",
+      "sentence_ko": "스마트폰 중독이 전 세계 청소년들 사이에서 만연해졌다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Prevalent",
+      "sentence_en": "The use of digital tools in learning has become prevalent in modern education.",
+      "sentence_ko": "현대 교육에서 디지털 도구를 활용한 학습이 보편화되었다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "The distinguished professor has published over fifty papers on environmental science.",
+      "sentence_ko": "그 저명한 교수는 환경 과학에 관한 논문을 50편 넘게 발표했다.",
+      "tags": ["environment", "learning"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "He has had a distinguished career spanning over three decades in the film industry.",
+      "sentence_ko": "그는 영화 산업에서 30년이 넘는 빛나는 경력을 쌓아왔다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "The gallery features works by distinguished artists from around the world.",
+      "sentence_ko": "이 갤러리에는 세계 각국의 저명한 예술가들의 작품이 전시되어 있다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "His distinguished appearance and manner impressed everyone at the formal dinner.",
+      "sentence_ko": "그의 기품 있는 외모와 매너가 격식 있는 만찬에서 모두에게 깊은 인상을 주었다.",
+      "tags": ["dining", "feeling"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "The distinguished speaker shared valuable insights during the interview.",
+      "sentence_ko": "그 저명한 연사가 인터뷰에서 귀중한 통찰을 나누었다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Distinguished",
+      "sentence_en": "She received the distinguished service award for her contributions to digital education.",
+      "sentence_ko": "그녀는 디지털 교육에 대한 공헌으로 공로상을 수상했다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "The eminent scientist warned about the effects of climate change on the environment.",
+      "sentence_ko": "그 저명한 과학자는 기후 변화가 환경에 미치는 영향에 대해 경고했다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "Several eminent art historians contributed to the exhibition's catalog.",
+      "sentence_ko": "여러 저명한 미술사학자들이 전시회 도록에 기고했다.",
+      "tags": ["art", "learning"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "The eminent director's film explores themes of identity and belonging.",
+      "sentence_ko": "그 탁월한 감독의 영화는 정체성과 소속감이라는 주제를 다룬다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "We had the privilege of dining with an eminent chef at his private restaurant.",
+      "sentence_ko": "우리는 저명한 셰프의 프라이빗 레스토랑에서 식사하는 영광을 누렸다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "The eminent scholar gave a lecture on the future of digital learning.",
+      "sentence_ko": "그 저명한 학자가 디지털 학습의 미래에 대해 강연했다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Eminent",
+      "sentence_en": "An eminent psychologist discussed the emotional impact of social media during the interview.",
+      "sentence_ko": "저명한 심리학자가 인터뷰에서 소셜 미디어의 정서적 영향에 대해 논의했다.",
+      "tags": ["interview", "feeling", "digital"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "The documentary was so persuasive that it changed my views on environmental protection.",
+      "sentence_ko": "그 다큐멘터리는 너무 설득력이 있어서 환경 보호에 대한 내 생각을 바꿔놓았다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "She gave a persuasive presentation during the interview that won over the panel.",
+      "sentence_ko": "그녀는 면접에서 패널을 설득하는 인상적인 프레젠테이션을 했다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "The artist's persuasive use of color evokes strong feelings in viewers.",
+      "sentence_ko": "그 작가가 설득력 있게 활용한 색채는 보는 이에게 강한 감정을 불러일으킨다.",
+      "tags": ["art", "feeling"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "Good advertising needs to be persuasive without being manipulative.",
+      "sentence_ko": "좋은 광고는 조작적이지 않으면서도 설득력이 있어야 한다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "The waiter was persuasive in recommending the chef's special dish.",
+      "sentence_ko": "웨이터는 셰프 스페셜 요리를 추천하며 설득력 있게 말했다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Persuasive",
+      "sentence_en": "His persuasive argument for online learning convinced many skeptical parents.",
+      "sentence_ko": "온라인 학습에 대한 그의 설득력 있는 주장이 많은 회의적인 학부모들을 납득시켰다.",
+      "tags": ["learning", "digital"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The charismatic tour guide made the museum visit an unforgettable experience.",
+      "sentence_ko": "카리스마 있는 투어 가이드 덕분에 박물관 관람이 잊을 수 없는 경험이 되었다.",
+      "tags": ["place", "art"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The charismatic lead actor brought the complex character to life on screen.",
+      "sentence_ko": "카리스마 넘치는 주연 배우가 복잡한 캐릭터를 스크린에서 살려냈다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "Her charismatic personality shone through during the entire interview process.",
+      "sentence_ko": "면접 내내 그녀의 카리스마 있는 성격이 빛을 발했다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The charismatic chef hosted a live cooking show that went viral online.",
+      "sentence_ko": "카리스마 있는 셰프가 진행한 라이브 쿠킹쇼가 온라인에서 화제가 되었다.",
+      "tags": ["dining", "digital"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "Charismatic teachers can inspire a lifelong love of learning in students.",
+      "sentence_ko": "카리스마 있는 선생님들은 학생들에게 평생 배움에 대한 사랑을 심어줄 수 있다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Charismatic",
+      "sentence_en": "The environmental activist's charismatic speeches mobilized thousands of supporters.",
+      "sentence_ko": "그 환경 운동가의 카리스마 넘치는 연설은 수천 명의 지지자를 움직였다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "The documentary tells the inspiring story of communities fighting for environmental justice.",
+      "sentence_ko": "그 다큐멘터리는 환경 정의를 위해 싸우는 지역사회의 감동적인 이야기를 전한다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "She shared her inspiring journey from student to successful artist during the interview.",
+      "sentence_ko": "그녀는 인터뷰에서 학생에서 성공한 예술가가 되기까지의 영감을 주는 여정을 나누었다.",
+      "tags": ["interview", "art"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "The art exhibition was truly inspiring and left visitors feeling moved.",
+      "sentence_ko": "그 미술 전시는 정말 영감을 주었고 관람객들에게 깊은 감동을 남겼다.",
+      "tags": ["art", "feeling", "place"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "Learning a new language through an inspiring teacher changed my perspective on education.",
+      "sentence_ko": "영감을 주는 선생님을 통해 새로운 언어를 배우면서 교육에 대한 내 시각이 바뀌었다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "The restaurant's inspiring farm-to-table concept promotes sustainable dining.",
+      "sentence_ko": "레스토랑의 고무적인 팜투테이블 컨셉은 지속 가능한 외식을 추구한다.",
+      "tags": ["dining", "environment"]
+    },
+    {
+      "word": "Inspiring",
+      "sentence_en": "Watching inspiring TED talks on my smartphone has become my daily habit.",
+      "sentence_ko": "스마트폰으로 영감을 주는 TED 강연을 보는 것이 내 일상이 되었다.",
+      "tags": ["smartphone", "digital", "learning"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "The actor gave a convincing performance that earned him critical acclaim.",
+      "sentence_ko": "그 배우는 평단의 극찬을 받은 설득력 있는 연기를 펼쳤다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "She made a convincing argument for why the company should invest in environmental initiatives.",
+      "sentence_ko": "그녀는 회사가 왜 환경 사업에 투자해야 하는지 설득력 있게 주장했다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "His convincing explanation during the interview secured him the position.",
+      "sentence_ko": "면접에서의 설득력 있는 설명 덕분에 그는 그 자리를 얻었다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "The digital advertisement was convincing enough to make me try the new product.",
+      "sentence_ko": "그 디지털 광고가 충분히 설득력 있어서 신제품을 사용해 보게 되었다.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "The evidence presented in the documentary was convincing and well-researched.",
+      "sentence_ko": "다큐멘터리에 제시된 증거는 설득력 있고 잘 조사된 것이었다.",
+      "tags": ["movie", "learning"]
+    },
+    {
+      "word": "Convincing",
+      "sentence_en": "The art restorer did such convincing work that you cannot tell the difference.",
+      "sentence_ko": "그 미술품 복원가의 솜씨가 너무 훌륭해서 차이를 알 수 없을 정도다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "The documentary about ocean pollution was incredibly impactful and eye-opening.",
+      "sentence_ko": "해양 오염에 관한 다큐멘터리는 매우 충격적이고 눈을 뜨게 해주었다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "Social media has become an impactful tool for raising awareness about environmental issues.",
+      "sentence_ko": "소셜 미디어는 환경 문제에 대한 인식을 높이는 영향력 있는 도구가 되었다.",
+      "tags": ["digital", "environment"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "Her impactful speech during the interview left a lasting impression on the panel.",
+      "sentence_ko": "면접 중 그녀의 임팩트 있는 발언이 심사위원들에게 강한 인상을 남겼다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "The most impactful art often challenges viewers to see the world differently.",
+      "sentence_ko": "가장 영향력 있는 예술은 종종 관람자에게 세상을 다르게 보도록 도전한다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "The restaurant's impactful commitment to sustainability has inspired others in the industry.",
+      "sentence_ko": "레스토랑의 지속 가능성에 대한 강력한 의지가 업계의 다른 이들에게 영감을 주었다.",
+      "tags": ["dining", "environment"]
+    },
+    {
+      "word": "Impactful",
+      "sentence_en": "Using impactful visuals in learning materials helps students retain information better.",
+      "sentence_ko": "학습 자료에 임팩트 있는 시각 자료를 사용하면 학생들이 정보를 더 잘 기억한다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "The museum houses a significant collection of contemporary art from Asia.",
+      "sentence_ko": "이 박물관은 아시아 현대 미술의 중요한 컬렉션을 소장하고 있다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "The film made a significant contribution to raising awareness about environmental issues.",
+      "sentence_ko": "그 영화는 환경 문제에 대한 인식을 높이는 데 상당한 기여를 했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "This smartphone update includes significant improvements in battery life.",
+      "sentence_ko": "이번 스마트폰 업데이트에는 배터리 수명의 획기적인 개선이 포함되어 있다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "Her interview experience taught her significant lessons about professional communication.",
+      "sentence_ko": "그녀의 면접 경험은 전문적인 소통에 대한 중요한 교훈을 주었다.",
+      "tags": ["interview", "learning"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "The restaurant's move to eco-friendly packaging was a significant step for the industry.",
+      "sentence_ko": "레스토랑이 친환경 포장으로 전환한 것은 업계에 의미 있는 진전이었다.",
+      "tags": ["dining", "environment"]
+    },
+    {
+      "word": "Significant",
+      "sentence_en": "Experiencing different cultures has had a significant impact on my personal growth.",
+      "sentence_ko": "다양한 문화를 경험하는 것이 나의 성장에 큰 영향을 미쳤다.",
+      "tags": ["feeling", "place"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The documentary played a pivotal role in changing environmental policies worldwide.",
+      "sentence_ko": "그 다큐멘터리는 전 세계 환경 정책을 바꾸는 데 결정적인 역할을 했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "That interview was a pivotal moment that launched her career in digital media.",
+      "sentence_ko": "그 면접은 그녀의 디지털 미디어 커리어를 시작하게 한 결정적인 순간이었다.",
+      "tags": ["interview", "digital"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The invention of the smartphone was pivotal in transforming how we communicate.",
+      "sentence_ko": "스마트폰의 발명은 우리의 소통 방식을 변화시킨 핵심적인 사건이었다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The art exhibition served as a pivotal event in the artist's career.",
+      "sentence_ko": "그 미술 전시회는 작가의 경력에서 중추적인 행사가 되었다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "Early childhood education plays a pivotal role in shaping future success.",
+      "sentence_ko": "유아 교육은 미래의 성공을 형성하는 데 핵심적인 역할을 한다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Pivotal",
+      "sentence_en": "The restaurant's decision to source locally was pivotal to its unique identity.",
+      "sentence_ko": "지역 재료를 사용하기로 한 레스토랑의 결정은 고유한 정체성을 만드는 데 결정적이었다.",
+      "tags": ["dining", "place"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The film explores weighty themes of mortality and the meaning of life.",
+      "sentence_ko": "그 영화는 죽음과 삶의 의미라는 무거운 주제를 탐구한다.",
+      "tags": ["movie", "feeling"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The environmental report contained weighty evidence that demanded immediate action.",
+      "sentence_ko": "환경 보고서에는 즉각적인 조치를 요구하는 중대한 증거가 담겨 있었다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The interview panel asked weighty questions about leadership and ethics.",
+      "sentence_ko": "면접관들은 리더십과 윤리에 관한 심도 있는 질문을 했다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The artist's latest exhibition tackles weighty social issues through visual metaphors.",
+      "sentence_ko": "작가의 최신 전시회는 시각적 은유를 통해 무거운 사회적 문제를 다룬다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "Making a career change is a weighty decision that requires careful consideration.",
+      "sentence_ko": "직업을 바꾸는 것은 신중한 고려가 필요한 중대한 결정이다.",
+      "tags": ["feeling"]
+    },
+    {
+      "word": "Weighty",
+      "sentence_en": "The book offers weighty insights into the history of digital innovation.",
+      "sentence_ko": "이 책은 디지털 혁신의 역사에 관한 묵직한 통찰을 제공한다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "Always check if the source is credible before sharing information on your smartphone.",
+      "sentence_ko": "스마트폰으로 정보를 공유하기 전에 출처가 신뢰할 만한지 항상 확인하세요.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "The documentary presents credible evidence from leading environmental scientists.",
+      "sentence_ko": "그 다큐멘터리는 저명한 환경 과학자들의 신뢰할 수 있는 증거를 제시한다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "Building a credible portfolio is essential for any aspiring artist.",
+      "sentence_ko": "신뢰할 수 있는 포트폴리오를 구축하는 것은 모든 예비 아티스트에게 필수적이다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "She gave credible answers to all the challenging questions during the interview.",
+      "sentence_ko": "그녀는 면접에서 모든 까다로운 질문에 신뢰할 수 있는 답변을 했다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "Online learning platforms need credible instructors to gain students' trust.",
+      "sentence_ko": "온라인 학습 플랫폼은 학생들의 신뢰를 얻기 위해 믿을 만한 강사가 필요하다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Credible",
+      "sentence_en": "The restaurant earned credible reviews from respected food critics.",
+      "sentence_ko": "그 레스토랑은 존경받는 음식 평론가들로부터 신뢰할 만한 평가를 받았다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "The official announcement about the film's release date excited fans worldwide.",
+      "sentence_ko": "영화 개봉일에 대한 공식 발표가 전 세계 팬들을 흥분시켰다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "Download the official app from your smartphone's app store for security.",
+      "sentence_ko": "보안을 위해 스마트폰 앱스토어에서 공식 앱을 다운로드하세요.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "The museum's official website offers virtual tours of the art collection.",
+      "sentence_ko": "박물관 공식 웹사이트에서 미술 컬렉션의 가상 투어를 제공한다.",
+      "tags": ["art", "digital", "place"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "The company sent an official letter confirming my interview appointment.",
+      "sentence_ko": "회사에서 면접 일정을 확인하는 공식 서한을 보내왔다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "The official report on environmental damage sparked public debate.",
+      "sentence_ko": "환경 피해에 관한 공식 보고서가 대중의 논쟁을 촉발했다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Official",
+      "sentence_en": "The restaurant received official recognition as a UNESCO heritage dining experience.",
+      "sentence_ko": "그 레스토랑은 유네스코 유산 다이닝 경험으로 공식 인정을 받았다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "Only authorized personnel can access the restricted areas of the museum.",
+      "sentence_ko": "박물관의 제한 구역에는 허가된 직원만 출입할 수 있다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "Make sure you purchase smartphones from authorized dealers to avoid fakes.",
+      "sentence_ko": "가품을 피하기 위해 공인 대리점에서 스마트폰을 구매하세요.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "The documentary used authorized footage from various environmental organizations.",
+      "sentence_ko": "그 다큐멘터리는 여러 환경 단체로부터 허가받은 영상을 사용했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "The website is authorized to provide official exam preparation materials.",
+      "sentence_ko": "이 웹사이트는 공식 시험 준비 자료를 제공하도록 허가받았다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "Only authorized food critics are invited to the exclusive dining event.",
+      "sentence_ko": "독점적인 식사 이벤트에는 공인된 음식 평론가만 초대된다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Authorized",
+      "sentence_en": "The authorized biography of the film director revealed many unknown facts.",
+      "sentence_ko": "그 영화감독의 공인 전기가 많은 알려지지 않은 사실들을 밝혔다.",
+      "tags": ["movie", "learning"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "The restaurant only serves dishes prepared by licensed chefs.",
+      "sentence_ko": "그 레스토랑은 자격증을 갖춘 셰프가 만든 요리만 제공한다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "Make sure to use licensed software to avoid legal issues on your digital devices.",
+      "sentence_ko": "법적 문제를 피하기 위해 디지털 기기에서 정품 소프트웨어를 사용하세요.",
+      "tags": ["digital"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "The museum hired a licensed art restorer to preserve the ancient paintings.",
+      "sentence_ko": "박물관은 고대 그림을 보존하기 위해 자격을 갖춘 미술품 복원가를 고용했다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "All tour guides at this environmental reserve are licensed professionals.",
+      "sentence_ko": "이 환경 보호구역의 모든 투어 가이드는 자격증을 갖춘 전문가이다.",
+      "tags": ["environment", "place"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "Only licensed instructors should teach advanced courses in professional settings.",
+      "sentence_ko": "전문적인 환경에서는 자격을 갖춘 강사만 고급 과정을 가르쳐야 한다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Licensed",
+      "sentence_en": "The film production company hired licensed drone operators for aerial shots.",
+      "sentence_ko": "영화 제작사는 항공 촬영을 위해 면허를 가진 드론 조종사를 고용했다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "The documentary left viewers feeling empowered to make environmental changes.",
+      "sentence_ko": "그 다큐멘터리는 시청자들에게 환경 변화를 이끌 수 있다는 힘을 느끼게 해주었다.",
+      "tags": ["movie", "environment", "feeling"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "Digital tools have empowered students to learn at their own pace.",
+      "sentence_ko": "디지털 도구 덕분에 학생들이 자신만의 속도로 학습할 수 있게 되었다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "She felt empowered after successfully completing the challenging interview.",
+      "sentence_ko": "그녀는 어려운 면접을 성공적으로 마친 후 자신감을 얻었다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "Art can make people feel empowered to express their true emotions.",
+      "sentence_ko": "예술은 사람들이 진정한 감정을 표현할 수 있는 힘을 느끼게 해준다.",
+      "tags": ["art", "feeling"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "Smartphones have empowered users to access information anywhere, anytime.",
+      "sentence_ko": "스마트폰은 사용자가 언제 어디서나 정보에 접근할 수 있게 해주었다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Empowered",
+      "sentence_en": "The community felt empowered after the restaurant started supporting local farmers.",
+      "sentence_ko": "레스토랑이 지역 농가를 지원하기 시작하면서 지역 사회가 힘을 얻었다.",
+      "tags": ["dining", "place"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "The director is now recognized as one of the greatest filmmakers of our time.",
+      "sentence_ko": "그 감독은 이제 우리 시대 최고의 영화감독 중 한 명으로 인정받고 있다.",
+      "tags": ["movie"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "The gallery is internationally recognized for its collection of modern art.",
+      "sentence_ko": "그 갤러리는 현대 미술 컬렉션으로 국제적으로 인정받고 있다.",
+      "tags": ["art", "place"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "Being recognized for your efforts at work creates a wonderful feeling.",
+      "sentence_ko": "직장에서 노력을 인정받는 것은 정말 좋은 기분을 준다.",
+      "tags": ["feeling"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "The smartphone brand is recognized globally for its innovative design.",
+      "sentence_ko": "이 스마트폰 브랜드는 혁신적인 디자인으로 전 세계적으로 인정받고 있다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "The restaurant is recognized for its commitment to sustainable dining practices.",
+      "sentence_ko": "그 레스토랑은 지속 가능한 외식 문화에 대한 헌신으로 인정받고 있다.",
+      "tags": ["dining", "environment"]
+    },
+    {
+      "word": "Recognized",
+      "sentence_en": "Online certifications from recognized institutions can boost your resume.",
+      "sentence_ko": "인정받는 기관에서 발급한 온라인 자격증은 이력서에 도움이 될 수 있다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "She is a leading expert in the field of environmental conservation.",
+      "sentence_ko": "그녀는 환경 보전 분야의 선도적인 전문가이다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "The museum is a leading institution for contemporary art research.",
+      "sentence_ko": "이 박물관은 현대 미술 연구의 선도적인 기관이다.",
+      "tags": ["art", "place", "learning"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "The company developed a leading smartphone technology that revolutionized the industry.",
+      "sentence_ko": "그 회사는 업계를 혁신한 선도적인 스마트폰 기술을 개발했다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "The documentary features interviews with leading scientists in their fields.",
+      "sentence_ko": "그 다큐멘터리에는 각 분야의 선도적인 과학자들과의 인터뷰가 담겨 있다.",
+      "tags": ["movie", "interview"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "This restaurant has become a leading destination for food enthusiasts worldwide.",
+      "sentence_ko": "이 레스토랑은 전 세계 미식가들의 선호하는 곳이 되었다.",
+      "tags": ["dining", "place"]
+    },
+    {
+      "word": "Leading",
+      "sentence_en": "The platform offers courses taught by leading professors from top universities.",
+      "sentence_ko": "이 플랫폼은 명문 대학의 최고 교수들이 가르치는 강좌를 제공한다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "The short film about ocean pollution went viral and raised millions for the cause.",
+      "sentence_ko": "해양 오염에 관한 단편 영화가 입소문을 타며 그 운동을 위해 수백만 달러를 모금했다.",
+      "tags": ["movie", "environment", "digital"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "Her interview clip went viral on social media within hours.",
+      "sentence_ko": "그녀의 인터뷰 영상이 몇 시간 만에 소셜 미디어에서 화제가 되었다.",
+      "tags": ["interview", "digital"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "The restaurant's unique dish became viral after a food blogger posted about it.",
+      "sentence_ko": "음식 블로거가 포스팅한 후 그 레스토랑의 독특한 요리가 화제가 되었다.",
+      "tags": ["dining", "digital"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "The artist's digital painting went viral and was shared by millions of users.",
+      "sentence_ko": "그 작가의 디지털 그림이 입소문을 타며 수백만 사용자에게 공유되었다.",
+      "tags": ["art", "digital"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "Educational videos can easily go viral on smartphone apps like TikTok.",
+      "sentence_ko": "교육 영상은 틱톡 같은 스마트폰 앱에서 쉽게 입소문을 탈 수 있다.",
+      "tags": ["smartphone", "digital", "learning"]
+    },
+    {
+      "word": "Viral",
+      "sentence_en": "The scenic view from this place went viral and attracted tourists from everywhere.",
+      "sentence_ko": "이곳의 경치 좋은 전망이 화제가 되어 전 세계에서 관광객들이 몰려들었다.",
+      "tags": ["place"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "The lead actor has a magnetic presence that captivates audiences instantly.",
+      "sentence_ko": "그 주연 배우는 관객을 즉시 사로잡는 자석 같은 매력을 가지고 있다.",
+      "tags": ["movie", "feeling"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "Her magnetic personality made the interview feel like a casual conversation.",
+      "sentence_ko": "그녀의 사람을 끄는 성격 덕분에 면접이 편안한 대화처럼 느껴졌다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "The artist's magnetic use of colors draws viewers into the painting.",
+      "sentence_ko": "작가의 강렬한 색채 사용이 관람객을 그림 속으로 끌어들인다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "The restaurant has a magnetic atmosphere that keeps customers coming back.",
+      "sentence_ko": "그 레스토랑은 손님들을 계속 찾아오게 만드는 끌리는 분위기가 있다.",
+      "tags": ["dining", "place"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "Great teachers have a magnetic way of making learning exciting.",
+      "sentence_ko": "훌륭한 선생님들은 배움을 흥미롭게 만드는 매력적인 방식을 가지고 있다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Magnetic",
+      "sentence_en": "The environmental activist's magnetic speeches mobilized thousands of young people.",
+      "sentence_ko": "그 환경 운동가의 사람을 끄는 연설은 수천 명의 젊은이들을 움직였다.",
+      "tags": ["environment"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "The documentary presented a compelling case for protecting endangered species.",
+      "sentence_ko": "그 다큐멘터리는 멸종 위기종 보호를 위한 설득력 있는 논거를 제시했다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "She told a compelling story during the interview that moved everyone.",
+      "sentence_ko": "그녀는 면접에서 모두를 감동시킨 강렬한 이야기를 들려주었다.",
+      "tags": ["interview", "feeling"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "The artwork tells a compelling visual story about human migration.",
+      "sentence_ko": "그 예술 작품은 인간의 이주에 관한 강렬한 시각적 이야기를 전달한다.",
+      "tags": ["art"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "The new smartphone features are so compelling that I had to upgrade.",
+      "sentence_ko": "새 스마트폰 기능이 너무 매력적이어서 업그레이드하지 않을 수 없었다.",
+      "tags": ["smartphone", "digital"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "The restaurant's farm-to-table story is a compelling reason to dine there.",
+      "sentence_ko": "레스토랑의 팜투테이블 스토리는 그곳에서 식사해야 할 강력한 이유가 된다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Compelling",
+      "sentence_en": "Compelling evidence suggests that early childhood education improves future outcomes.",
+      "sentence_ko": "설득력 있는 증거에 따르면 유아 교육이 미래의 성과를 향상시킨다고 한다.",
+      "tags": ["learning"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "The documentary proved to be effectual in changing public attitudes toward recycling.",
+      "sentence_ko": "그 다큐멘터리는 재활용에 대한 대중의 태도를 바꾸는 데 효과적임이 입증되었다.",
+      "tags": ["movie", "environment"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "Her effectual communication skills impressed everyone during the interview.",
+      "sentence_ko": "그녀의 효과적인 소통 능력이 면접에서 모두에게 깊은 인상을 주었다.",
+      "tags": ["interview"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "Digital tools can be highly effectual for collaborative learning projects.",
+      "sentence_ko": "디지털 도구는 협업 학습 프로젝트에 매우 효과적일 수 있다.",
+      "tags": ["digital", "learning"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "The artist's effectual use of symbolism conveyed deep emotional meaning.",
+      "sentence_ko": "작가의 효과적인 상징 사용은 깊은 감정적 의미를 전달했다.",
+      "tags": ["art", "feeling"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "The restaurant's effectual reservation system ensures smooth dining experiences.",
+      "sentence_ko": "레스토랑의 효과적인 예약 시스템은 원활한 식사 경험을 보장한다.",
+      "tags": ["dining"]
+    },
+    {
+      "word": "Effectual",
+      "sentence_en": "Smartphones have become an effectual tool for accessing information on the go.",
+      "sentence_ko": "스마트폰은 이동 중에 정보에 접근하는 효과적인 도구가 되었다.",
+      "tags": ["smartphone", "digital"]
+    }
+  ]
+}

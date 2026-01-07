@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: STUPIDITY_DULLNESS
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Stupid - 멍청한 (가장 일반적인 비하 표현)
+2. Dumb - 바보 같은 (원래는 벙어리의 뜻, 구어체)
+3. Idiotic - 백치 같은 (매우 멍청한)
+4. Moronic - 저능한 (어리석음을 강조하는 모욕)
+5. Imbecilic - 천치 같은 (지능이 매우 낮은)
+6. Foolish - 어리석은 (지혜롭지 못한 행동)
+7. Silly - 철없는, 바보 같은 (가벼운 어리석음, 장난스러운)
+8. Ridiculous - 터무니없는, 웃기는 (말도 안 되게 어리석은)
+9. Absurd - 부조리한, 불합리한 (논리에 맞지 않는)
+10. Ludicrous - 우스꽝스러운 (비웃음을 살 만한)
+11. Preposterous - 가당찮은, 앞뒤가 바뀐 (상식 밖의)
+12. Senseless - 무분별한, 무의미한 (지각없는)
+13. Mindless - 생각 없는 (지성이 필요 없거나 사용 안 함)
+14. Brainless - 뇌가 없는 (멍청한) (지능이 없음을 비꼬는)
+15. Vacuous - 멍한, 공허한 (지성이 비어 있는)
+16. Vapid - 흥미롭지 못한, 김빠진 (지적 자극이 없는)
+17. Dense - 둔한 (이해가 느리고 꽉 막힌)
+18. Thick - 머리가 나쁜 (구어체) (Dense와 유사)
+19. Slow - (이해가) 느린
+20. Dim - 흐릿한, 둔한 (똑똑하지 않은)
+21. Dull - 둔감한, 우둔한 (예리하지 못한)
+22. Obtuse - 둔감한 (일부러 이해하려 하지 않는 듯한)
+23. Unintelligent - 지능이 낮은 (객관적 묘사)
+24. Simple-minded - 단순한 (복잡한 것을 이해 못 하는)
+25. Half-witted - 얼간이 같은 (지능이 모자라는)
+26. Crazy - 미친, 말도 안 되는
+27. Insane - 정신 나간, 비상식적인
+28. Mad - 미친 (화난/정신 이상)
+29. Lunatic - 광적인, 미치광이 같은
+30. Deranged - 정신 착란의 (정상이 아닌)
+
+## 추천 태그 (상황/맥락)
+place, travel, wellness, restaurant, sad, schedule, health, learning, daily_life, movie
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "STUPIDITY_DULLNESS",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "STUPIDITY_DULLNESS",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

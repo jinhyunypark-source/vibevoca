@@ -1,0 +1,102 @@
+# 영어 학습 예문 생성 요청
+
+## 덱 정보
+- **덱 이름**: ATTITUDE_TONE
+- **총 단어 수**: 30개
+
+## 단어 목록
+1. Assertive - 단호한, 자기주장이 강한
+2. Polite - 예의 바른
+3. Enthusiastic - 열정적인
+4. Humble - 겸손한
+5. Aggressive - 공격적인
+6. Condescending - 거들먹거리는
+7. Passive - 수동적인
+8. Patronizing - 가르치려 드는, 생색내는
+9. Defensive - 방어적인
+10. Sarcastic - 빈정대는
+11. Haughty - 거만한
+12. Insincere - 가식적인
+13. Apathetic - 무관심한
+14. Arrogant - 오만한
+15. Rude - 무례한
+16. Flippant - 경박한, 건방진
+17. Offensive - 모욕적인, 불쾌한
+18. Cynical - 냉소적인
+19. Ironic - 반어적인, 아이러니한
+20. Sympathetic - 동정적인, 공감하는
+21. Hypocritical - 위선적인
+22. Empathetic - 감정이입하는
+23. Hostile - 적대적인
+24. Friendly - 우호적인
+25. Cold - 차가운
+26. Distant - 거리감을 두는
+27. Indifferent - 무심한, 관심 없는
+28. Sincere - 진심 어린
+29. Earnest - 성실한, 진지한
+30. Respectful - 존중하는
+
+## 추천 태그 (상황/맥락)
+develope, entrepreneur, activity, conversation, vacation, emotion, place, planning, time, movie
+
+## 작업 요구사항
+
+당신은 영어 학습 예문을 생성하는 전문가입니다. 위의 단어들에 대해 학습자가 쉽게 이해하고 기억할 수 있는 자연스러운 예문을 만들어주세요.
+
+### 예문 생성 가이드라인
+
+1. **예문 개수**: 각 단어당 5-8개의 예문 생성
+2. **예문 길이**: 10-20단어 정도의 자연스러운 문장
+3. **태그 활용**:
+   - 위의 추천 태그(상황/맥락)를 자연스럽게 활용
+   - 각 예문마다 어울리는 태그 5개 내외만 선택
+   - **중요**: 모든 태그를 억지로 사용하지 말 것
+4. **다양성**: 다양한 맥락과 상황을 다룰 것
+5. **실용성**: 실생활에서 사용 가능한 자연스러운 문장
+6. **한국어 번역**:
+   - 직역이 아닌 **자연스러운 한국어 의역**
+   - 한국인이 실제로 사용하는 표현으로 번역
+
+### 출력 형식
+
+반드시 아래의 JSON 형식으로 출력해주세요:
+
+```json
+{
+  "deck_title": "ATTITUDE_TONE",
+  "total_sentences": 0,
+  "sentences": [
+    {
+      "word": "단어",
+      "sentence_en": "영어 예문",
+      "sentence_ko": "자연스러운 한국어 번역",
+      "tags": ["선택된", "태그", "5개", "내외"]
+    }
+  ]
+}
+```
+
+### 예시
+
+```json
+{
+  "deck_title": "ATTITUDE_TONE",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "word": "prudent",
+      "sentence_en": "A prudent investor always diversifies their portfolio to minimize risk.",
+      "sentence_ko": "신중한 투자자는 리스크를 최소화하기 위해 항상 포트폴리오를 분산시킵니다.",
+      "tags": ["business", "work", "planning"]
+    },
+    {
+      "word": "sage",
+      "sentence_en": "The sage advice from my mentor helped me navigate the difficult decision.",
+      "sentence_ko": "멘토의 현명한 조언 덕분에 어려운 결정을 내릴 수 있었습니다.",
+      "tags": ["conversation", "relationship", "learning"]
+    }
+  ]
+}
+```
+
+이제 위의 30개 단어에 대해 예문을 생성해주세요. JSON 형식으로만 응답해주시고, 다른 설명은 포함하지 마세요.

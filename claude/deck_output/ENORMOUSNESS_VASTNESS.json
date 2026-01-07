@@ -1,0 +1,906 @@
+{
+  "deck_title": "ENORMOUSNESS_VASTNESS",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "word": "Colossal",
+      "sentence_en": "The marketing campaign was a colossal failure, costing the company millions.",
+      "sentence_ko": "그 마케팅 캠페인은 회사에 수백만 달러의 손해를 입힌 거대한 실패였습니다.",
+      "tags": ["marketing", "entrepreneur", "social"]
+    },
+    {
+      "word": "Colossal",
+      "sentence_en": "We stood in front of the colossal statue, feeling incredibly small.",
+      "sentence_ko": "우리는 그 거대한 동상 앞에 서서 자신이 한없이 작게 느껴졌습니다.",
+      "tags": ["place", "social", "travel"]
+    },
+    {
+      "word": "Colossal",
+      "sentence_en": "The internet processes a colossal amount of data every single second.",
+      "sentence_ko": "인터넷은 매초 엄청난 양의 데이터를 처리합니다.",
+      "tags": ["internet", "marketing", "social"]
+    },
+    {
+      "word": "Colossal",
+      "sentence_en": "It took a colossal effort to finish the marathon in such hot weather.",
+      "sentence_ko": "그렇게 더운 날씨에 마라톤을 완주하는 데는 엄청난 노력이 필요했습니다.",
+      "tags": ["health", "exercise", "hot"]
+    },
+    {
+      "word": "Colossal",
+      "sentence_en": "The restaurant serves a colossal burger that is impossible to finish alone.",
+      "sentence_ko": "그 식당은 혼자서는 다 먹을 수 없는 거대한 햄버거를 제공합니다.",
+      "tags": ["restaurant", "food", "social"]
+    },
+    {
+      "word": "Enormous",
+      "sentence_en": "She felt enormous pressure to succeed in her new social circle.",
+      "sentence_ko": "그녀는 새로운 사교 모임에서 성공해야 한다는 엄청난 압박감을 느꼈습니다.",
+      "tags": ["social", "health", "entrepreneur"]
+    },
+    {
+      "word": "Enormous",
+      "sentence_en": "This startup has enormous potential to change the environment.",
+      "sentence_ko": "이 스타트업은 환경을 변화시킬 막대한 잠재력을 가지고 있습니다.",
+      "tags": ["entrepreneur", "environment", "marketing"]
+    },
+    {
+      "word": "Enormous",
+      "sentence_en": "We ordered an enormous meal to celebrate the team's success.",
+      "sentence_ko": "우리는 팀의 성공을 축하하기 위해 엄청난 양의 식사를 주문했습니다.",
+      "tags": ["restaurant", "social", "food"]
+    },
+    {
+      "word": "Enormous",
+      "sentence_en": "Regular exercise has an enormous impact on your mental health.",
+      "sentence_ko": "규칙적인 운동은 정신 건강에 지대한 영향을 미칩니다.",
+      "tags": ["health", "exercise", "social"]
+    },
+    {
+      "word": "Enormous",
+      "sentence_en": "An enormous crowd gathered at the hot new club downtown.",
+      "sentence_ko": "시내의 핫한 새 클럽에 엄청난 인파가 모였습니다.",
+      "tags": ["place", "hot", "social"]
+    },
+    {
+      "word": "Gigantic",
+      "sentence_en": "He bought a gigantic monitor to improve his coding environment.",
+      "sentence_ko": "그는 코딩 환경을 개선하기 위해 아주 큰 모니터를 샀습니다.",
+      "tags": ["internet", "environment", "work"]
+    },
+    {
+      "word": "Gigantic",
+      "sentence_en": "Launching the app was a gigantic step for the young entrepreneur.",
+      "sentence_ko": "앱 출시는 그 젊은 사업가에게 있어 거대한 발걸음이었습니다.",
+      "tags": ["entrepreneur", "internet", "marketing"]
+    },
+    {
+      "word": "Gigantic",
+      "sentence_en": "Gigantic waves crashed against the shore during the storm.",
+      "sentence_ko": "폭풍우 속에 거대한 파도가 해안을 강타했습니다.",
+      "tags": ["environment", "place", "nature"]
+    },
+    {
+      "word": "Gigantic",
+      "sentence_en": "They served a gigantic portion of pasta that could feed three people.",
+      "sentence_ko": "그들은 세 명이 먹을 수 있을 만큼 엄청난 양의 파스타를 내왔습니다.",
+      "tags": ["restaurant", "food", "social"]
+    },
+    {
+      "word": "Gigantic",
+      "sentence_en": "Ignoring the issue created a gigantic problem for the community.",
+      "sentence_ko": "그 문제를 무시한 것이 지역 사회에 거대한 문제를 야기했습니다.",
+      "tags": ["social", "environment", "health"]
+    },
+    {
+      "word": "Massive",
+      "sentence_en": "The website crashed due to a massive spike in traffic.",
+      "sentence_ko": "트래픽이 대규모로 급증하여 웹사이트가 다운되었습니다.",
+      "tags": ["internet", "marketing", "social"]
+    },
+    {
+      "word": "Massive",
+      "sentence_en": "He built massive muscles after months of intense training.",
+      "sentence_ko": "그는 몇 달간의 강도 높은 훈련 끝에 육중한 근육을 만들었습니다.",
+      "tags": ["exercise", "health", "social"]
+    },
+    {
+      "word": "Massive",
+      "sentence_en": "The store is holding a massive sale to clear out inventory.",
+      "sentence_ko": "그 가게는 재고 정리를 위해 대규모 세일을 진행 중입니다.",
+      "tags": ["marketing", "place", "shopping"]
+    },
+    {
+      "word": "Massive",
+      "sentence_en": "A massive stone wall surrounds the ancient castle.",
+      "sentence_ko": "거대한 돌벽이 그 고성을 둘러싸고 있습니다.",
+      "tags": ["place", "history", "environment"]
+    },
+    {
+      "word": "Massive",
+      "sentence_en": "We received massive support from the local community.",
+      "sentence_ko": "우리는 지역 사회로부터 엄청난 지지를 받았습니다.",
+      "tags": ["social", "entrepreneur", "marketing"]
+    },
+    {
+      "word": "Vast",
+      "sentence_en": "The vast desert seemed to go on forever under the hot sun.",
+      "sentence_ko": "뜨거운 태양 아래 광활한 사막은 끝없이 펼쳐진 것 같았습니다.",
+      "tags": ["environment", "hot", "place"]
+    },
+    {
+      "word": "Vast",
+      "sentence_en": "The internet contains a vast amount of information on every topic.",
+      "sentence_ko": "인터넷은 모든 주제에 대한 방대한 양의 정보를 담고 있습니다.",
+      "tags": ["internet", "education", "social"]
+    },
+    {
+      "word": "Vast",
+      "sentence_en": "The CEO has vast experience in international marketing.",
+      "sentence_ko": "그 CEO는 국제 마케팅 분야에서 광범위한 경험을 가지고 있습니다.",
+      "tags": ["entrepreneur", "marketing", "business"]
+    },
+    {
+      "word": "Vast",
+      "sentence_en": "The vast majority of people prefer healthy food options these days.",
+      "sentence_ko": "요즘은 대다수의 사람이 건강한 음식 선택지를 선호합니다.",
+      "tags": ["health", "restaurant", "social"]
+    },
+    {
+      "word": "Vast",
+      "sentence_en": "We looked out over the vast landscape from the mountain top.",
+      "sentence_ko": "우리는 산 정상에서 광활한 풍경을 내려다보았습니다.",
+      "tags": ["place", "environment", "exercise"]
+    },
+    {
+      "word": "Immense",
+      "sentence_en": "It gives me immense pleasure to see you healthy and happy.",
+      "sentence_ko": "당신이 건강하고 행복한 모습을 보니 더할 나위 없이 기쁩니다.",
+      "tags": ["health", "social", "family"]
+    },
+    {
+      "word": "Immense",
+      "sentence_en": "This data is of immense value to our marketing strategy.",
+      "sentence_ko": "이 데이터는 우리 마케팅 전략에 있어 헤아릴 수 없는 가치가 있습니다.",
+      "tags": ["marketing", "entrepreneur", "internet"]
+    },
+    {
+      "word": "Immense",
+      "sentence_en": "Social media places immense pressure on teenagers to look perfect.",
+      "sentence_ko": "소셜 미디어는 십대들에게 완벽해 보여야 한다는 엄청난 압박을 줍니다.",
+      "tags": ["social", "internet", "health"]
+    },
+    {
+      "word": "Immense",
+      "sentence_en": "The immense size of the glacier was breathtaking.",
+      "sentence_ko": "빙하의 거대한 크기는 숨이 멎을 듯했습니다.",
+      "tags": ["environment", "place", "travel"]
+    },
+    {
+      "word": "Immense",
+      "sentence_en": "The tech giant accumulated immense wealth in a short time.",
+      "sentence_ko": "그 거대 기술 기업은 단기간에 막대한 부를 축적했습니다.",
+      "tags": ["entrepreneur", "internet", "business"]
+    },
+    {
+      "word": "Huge",
+      "sentence_en": "It was a huge mistake to ignore the customer feedback.",
+      "sentence_ko": "고객의 피드백을 무시한 것은 큰 실수였습니다.",
+      "tags": ["marketing", "social", "entrepreneur"]
+    },
+    {
+      "word": "Huge",
+      "sentence_en": "The new restaurant was a huge success from day one.",
+      "sentence_ko": "새로 문을 연 식당은 첫날부터 대성공이었습니다.",
+      "tags": ["restaurant", "entrepreneur", "place"]
+    },
+    {
+      "word": "Huge",
+      "sentence_en": "I am a huge fan of outdoor exercise in the morning.",
+      "sentence_ko": "저는 아침 야외 운동의 열렬한 팬입니다.",
+      "tags": ["exercise", "health", "social"]
+    },
+    {
+      "word": "Huge",
+      "sentence_en": "Drinking water makes a huge difference to your skin health.",
+      "sentence_ko": "물을 마시는 것은 피부 건강에 아주 큰 차이를 만듭니다.",
+      "tags": ["health", "social", "beauty"]
+    },
+    {
+      "word": "Huge",
+      "sentence_en": "The video file is too huge to send via email.",
+      "sentence_ko": "비디오 파일이 너무 커서 이메일로 보낼 수 없습니다.",
+      "tags": ["internet", "social", "tech"]
+    },
+    {
+      "word": "Mammoth",
+      "sentence_en": "Organizing the conference was a mammoth task for the marketing team.",
+      "sentence_ko": "콘퍼런스를 준비하는 것은 마케팅 팀에게 거대한 과제였습니다.",
+      "tags": ["marketing", "social", "work"]
+    },
+    {
+      "word": "Mammoth",
+      "sentence_en": "It is hard to compete against such a mammoth corporation.",
+      "sentence_ko": "그렇게 거대한 기업과 경쟁하는 것은 어렵습니다.",
+      "tags": ["entrepreneur", "business", "social"]
+    },
+    {
+      "word": "Mammoth",
+      "sentence_en": "Cleaning up the beach was a mammoth undertaking for the volunteers.",
+      "sentence_ko": "해변을 청소하는 것은 자원봉사자들에게 엄청난 일이었습니다.",
+      "tags": ["environment", "social", "place"]
+    },
+    {
+      "word": "Mammoth",
+      "sentence_en": "A mammoth crowd attended the concert in the park.",
+      "sentence_ko": "공원에서 열린 콘서트에 엄청난 인파가 참석했습니다.",
+      "tags": ["social", "place", "music"]
+    },
+    {
+      "word": "Mammoth",
+      "sentence_en": "You need a mammoth appetite to finish this steak challenge.",
+      "sentence_ko": "이 스테이크 챌린지를 끝내려면 엄청난 식욕이 필요합니다.",
+      "tags": ["restaurant", "food", "health"]
+    },
+    {
+      "word": "Titanic",
+      "sentence_en": "It was a titanic struggle for control of the company.",
+      "sentence_ko": "그것은 회사 경영권을 둘러싼 거대한 싸움이었습니다.",
+      "tags": ["entrepreneur", "business", "social"]
+    },
+    {
+      "word": "Titanic",
+      "sentence_en": "He made a titanic effort to recover from his injury.",
+      "sentence_ko": "그는 부상에서 회복하기 위해 엄청난 노력을 기울였습니다.",
+      "tags": ["health", "exercise", "sport"]
+    },
+    {
+      "word": "Titanic",
+      "sentence_en": "The election was a titanic clash between two ideologies.",
+      "sentence_ko": "그 선거는 두 이념 간의 거대한 충돌이었습니다.",
+      "tags": ["social", "politics", "news"]
+    },
+    {
+      "word": "Titanic",
+      "sentence_en": "The titanic force of the earthquake destroyed the bridge.",
+      "sentence_ko": "지진의 엄청난 위력이 다리를 파괴했습니다.",
+      "tags": ["environment", "place", "disaster"]
+    },
+    {
+      "word": "Titanic",
+      "sentence_en": "The movie was a titanic success at the box office.",
+      "sentence_ko": "그 영화는 박스오피스에서 엄청난 성공을 거두었습니다.",
+      "tags": ["marketing", "social", "entertainment"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "Discovering the cure was a monumental achievement for medical science.",
+      "sentence_ko": "치료법을 발견한 것은 의학계의 기념비적인 업적이었습니다.",
+      "tags": ["health", "social", "science"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "The company made a monumental decision to rebrand entirely.",
+      "sentence_ko": "회사는 전면적인 리브랜딩이라는 대단한 결정을 내렸습니다.",
+      "tags": ["marketing", "entrepreneur", "business"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "A monumental error in the code caused the system to fail.",
+      "sentence_ko": "코드의 엄청난 오류로 인해 시스템이 실패했습니다.",
+      "tags": ["internet", "tech", "work"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "The monumental architecture of the city attracts many tourists.",
+      "sentence_ko": "그 도시의 기념비적인 건축물은 많은 관광객을 끌어모읍니다.",
+      "tags": ["place", "travel", "social"]
+    },
+    {
+      "word": "Monumental",
+      "sentence_en": "We are witnessing a monumental shift in how people view the environment.",
+      "sentence_ko": "우리는 사람들이 환경을 바라보는 관점의 거대한 변화를 목격하고 있습니다.",
+      "tags": ["environment", "social", "internet"]
+    },
+    {
+      "word": "Gargantuan",
+      "sentence_en": "He has a gargantuan appetite after his swimming exercise.",
+      "sentence_ko": "그는 수영 운동 후 엄청난 식욕을 보입니다.",
+      "tags": ["exercise", "restaurant", "health"]
+    },
+    {
+      "word": "Gargantuan",
+      "sentence_en": "The project required a gargantuan budget to complete.",
+      "sentence_ko": "그 프로젝트는 완료하는 데 막대한 예산이 필요했습니다.",
+      "tags": ["entrepreneur", "marketing", "business"]
+    },
+    {
+      "word": "Gargantuan",
+      "sentence_en": "The gargantuan shopping mall took all day to explore.",
+      "sentence_ko": "그 거대한 쇼핑몰을 구경하는 데 하루 종일 걸렸습니다.",
+      "tags": ["place", "shopping", "social"]
+    },
+    {
+      "word": "Gargantuan",
+      "sentence_en": "His gargantuan ego made it difficult to work with him.",
+      "sentence_ko": "그의 엄청난 자존심 때문에 함께 일하기가 어려웠습니다.",
+      "tags": ["social", "work", "entrepreneur"]
+    },
+    {
+      "word": "Gargantuan",
+      "sentence_en": "Sorting through the data was a gargantuan task.",
+      "sentence_ko": "데이터를 분류하는 것은 엄청난 작업이었습니다.",
+      "tags": ["internet", "social", "work"]
+    },
+    {
+      "word": "Tremendous",
+      "sentence_en": "The product launch was a tremendous success in the market.",
+      "sentence_ko": "제품 출시는 시장에서 대단한 성공을 거두었습니다.",
+      "tags": ["marketing", "entrepreneur", "business"]
+    },
+    {
+      "word": "Tremendous",
+      "sentence_en": "There was a tremendous amount of energy at the hot concert venue.",
+      "sentence_ko": "그 핫한 콘서트장은 엄청난 에너지로 가득 찼습니다.",
+      "tags": ["place", "hot", "social"]
+    },
+    {
+      "word": "Tremendous",
+      "sentence_en": "I have tremendous respect for people who volunteer.",
+      "sentence_ko": "저는 자원봉사하는 분들에게 대단한 존경심을 가지고 있습니다.",
+      "tags": ["social", "love", "community"]
+    },
+    {
+      "word": "Tremendous",
+      "sentence_en": "He was in tremendous pain after the accident.",
+      "sentence_ko": "그는 사고 후 엄청난 고통을 겪었습니다.",
+      "tags": ["health", "social", "life"]
+    },
+    {
+      "word": "Tremendous",
+      "sentence_en": "The internet has brought tremendous changes to society.",
+      "sentence_ko": "인터넷은 사회에 엄청난 변화를 가져왔습니다.",
+      "tags": ["internet", "social", "tech"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "He invested a substantial amount of money in the restaurant.",
+      "sentence_ko": "그는 그 식당에 상당한 금액을 투자했습니다.",
+      "tags": ["entrepreneur", "restaurant", "business"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "There has been a substantial improvement in his health.",
+      "sentence_ko": "그의 건강이 상당히 호전되었습니다.",
+      "tags": ["health", "exercise", "social"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "We need a substantial meal before we go hiking.",
+      "sentence_ko": "등산을 가기 전에 속이 든든한 식사를 해야 합니다.",
+      "tags": ["restaurant", "exercise", "health"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "They live in a substantial house near the park.",
+      "sentence_ko": "그들은 공원 근처의 꽤 크고 번듯한 집에 삽니다.",
+      "tags": ["place", "social", "home"]
+    },
+    {
+      "word": "Substantial",
+      "sentence_en": "There is substantial evidence to support the theory.",
+      "sentence_ko": "그 이론을 뒷받침할 만한 상당한 증거가 있습니다.",
+      "tags": ["internet", "education", "social"]
+    },
+    {
+      "word": "Expansive",
+      "sentence_en": "The hotel room offered an expansive view of the ocean.",
+      "sentence_ko": "그 호텔 방은 탁 트인 바다 전망을 제공했습니다.",
+      "tags": ["place", "environment", "travel"]
+    },
+    {
+      "word": "Expansive",
+      "sentence_en": "He was in an expansive mood and chatted with everyone.",
+      "sentence_ko": "그는 쾌활하고 개방적인 기분이 되어 모두와 수다를 떨었습니다.",
+      "tags": ["social", "happy", "party"]
+    },
+    {
+      "word": "Expansive",
+      "sentence_en": "We played soccer on the expansive lawn behind the school.",
+      "sentence_ko": "우리는 학교 뒤편의 넓게 펼쳐진 잔디밭에서 축구를 했습니다.",
+      "tags": ["exercise", "place", "social"]
+    },
+    {
+      "word": "Expansive",
+      "sentence_en": "The company adopted an expansive marketing strategy.",
+      "sentence_ko": "회사는 사업을 확장하는 공격적인 마케팅 전략을 채택했습니다.",
+      "tags": ["marketing", "entrepreneur", "business"]
+    },
+    {
+      "word": "Expansive",
+      "sentence_en": "The website has an expansive collection of free resources.",
+      "sentence_ko": "그 웹사이트는 광범위한 무료 자료 컬렉션을 보유하고 있습니다.",
+      "tags": ["internet", "education", "social"]
+    },
+    {
+      "word": "Extensive",
+      "sentence_en": "The fire caused extensive damage to the forest.",
+      "sentence_ko": "화재로 인해 숲에 광범위한 피해가 발생했습니다.",
+      "tags": ["environment", "social", "news"]
+    },
+    {
+      "word": "Extensive",
+      "sentence_en": "She has extensive knowledge of nutrition and exercise.",
+      "sentence_ko": "그녀는 영양과 운동에 대해 해박한 지식을 가지고 있습니다.",
+      "tags": ["health", "exercise", "education"]
+    },
+    {
+      "word": "Extensive",
+      "sentence_en": "The restaurant underwent extensive renovations last year.",
+      "sentence_ko": "그 식당은 작년에 대대적인 리모델링을 거쳤습니다.",
+      "tags": ["restaurant", "place", "business"]
+    },
+    {
+      "word": "Extensive",
+      "sentence_en": "We conducted extensive research before launching the product.",
+      "sentence_ko": "우리는 제품 출시 전에 광범위한 조사를 수행했습니다.",
+      "tags": ["marketing", "entrepreneur", "business"]
+    },
+    {
+      "word": "Extensive",
+      "sentence_en": "He has an extensive social network of business contacts.",
+      "sentence_ko": "그는 비즈니스 인맥으로 구성된 광범위한 소셜 네트워크를 가지고 있습니다.",
+      "tags": ["social", "entrepreneur", "work"]
+    },
+    {
+      "word": "Broad",
+      "sentence_en": "Swimming helped him develop broad shoulders.",
+      "sentence_ko": "수영은 그가 넓은 어깨를 만드는 데 도움이 되었습니다.",
+      "tags": ["exercise", "health", "beauty"]
+    },
+    {
+      "word": "Broad",
+      "sentence_en": "She greeted us with a broad smile on her face.",
+      "sentence_ko": "그녀는 얼굴에 환한 미소를 띠며 우리를 맞이했습니다.",
+      "tags": ["social", "happy", "friend"]
+    },
+    {
+      "word": "Broad",
+      "sentence_en": "We walked down the broad avenue lined with trees.",
+      "sentence_ko": "우리는 나무가 늘어선 넓은 거리를 걸었습니다.",
+      "tags": ["place", "environment", "travel"]
+    },
+    {
+      "word": "Broad",
+      "sentence_en": "The website offers a broad range of products.",
+      "sentence_ko": "그 웹사이트는 폭넓은 종류의 제품을 제공합니다.",
+      "tags": ["internet", "marketing", "shopping"]
+    },
+    {
+      "word": "Broad",
+      "sentence_en": "There is broad agreement that we need to protect the environment.",
+      "sentence_ko": "환경을 보호해야 한다는 데 폭넓은 합의가 있습니다.",
+      "tags": ["environment", "social", "politics"]
+    },
+    {
+      "word": "Wide",
+      "sentence_en": "There is a wide gap between the rich and the poor.",
+      "sentence_ko": "빈부 격차가 큽니다.",
+      "tags": ["social", "money", "society"]
+    },
+    {
+      "word": "Wide",
+      "sentence_en": "The restaurant offers a wide variety of vegetarian dishes.",
+      "sentence_ko": "그 식당은 다양한 종류의 채식 요리를 제공합니다.",
+      "tags": ["restaurant", "food", "health"]
+    },
+    {
+      "word": "Wide",
+      "sentence_en": "The World Wide Web connects people globally.",
+      "sentence_ko": "월드 와이드 웹은 전 세계 사람들을 연결합니다.",
+      "tags": ["internet", "social", "tech"]
+    },
+    {
+      "word": "Wide",
+      "sentence_en": "We ran through the wide open fields.",
+      "sentence_ko": "우리는 탁 트인 넓은 들판을 달렸습니다.",
+      "tags": ["environment", "exercise", "place"]
+    },
+    {
+      "word": "Wide",
+      "sentence_en": "This product has a wide appeal to young people.",
+      "sentence_ko": "이 제품은 젊은 층에게 폭넓은 호응을 얻고 있습니다.",
+      "tags": ["marketing", "social", "business"]
+    },
+    {
+      "word": "Towering",
+      "sentence_en": "Towering trees blocked the sunlight in the forest.",
+      "sentence_ko": "우뚝 솟은 나무들이 숲속의 햇빛을 가렸습니다.",
+      "tags": ["environment", "place", "nature"]
+    },
+    {
+      "word": "Towering",
+      "sentence_en": "The basketball player was towering over the fans.",
+      "sentence_ko": "그 농구 선수는 팬들보다 머리 하나는 더 높이 솟아 있었습니다.",
+      "tags": ["exercise", "social", "sport"]
+    },
+    {
+      "word": "Towering",
+      "sentence_en": "He was in a towering rage after the meeting.",
+      "sentence_ko": "그는 회의가 끝난 후 노발대발했습니다.",
+      "tags": ["social", "business", "emotion"]
+    },
+    {
+      "word": "Towering",
+      "sentence_en": "He is a towering figure in the tech industry.",
+      "sentence_ko": "그는 기술 업계의 거물입니다.",
+      "tags": ["entrepreneur", "internet", "social"]
+    },
+    {
+      "word": "Towering",
+      "sentence_en": "The towering skyscraper is the city's main landmark.",
+      "sentence_ko": "그 우뚝 솟은 마천루는 도시의 주요 랜드마크입니다.",
+      "tags": ["place", "travel", "city"]
+    },
+    {
+      "word": "Soaring",
+      "sentence_en": "Soaring temperatures made it dangerous to exercise outside.",
+      "sentence_ko": "치솟는 기온 때문에 밖에서 운동하는 것이 위험해졌습니다.",
+      "tags": ["environment", "exercise", "hot"]
+    },
+    {
+      "word": "Soaring",
+      "sentence_en": "Food prices are soaring due to inflation.",
+      "sentence_ko": "인플레이션으로 인해 식료품 가격이 치솟고 있습니다.",
+      "tags": ["restaurant", "marketing", "money"]
+    },
+    {
+      "word": "Soaring",
+      "sentence_en": "We watched an eagle soaring high above the mountains.",
+      "sentence_ko": "우리는 독수리가 산 위로 높이 날아오르는 것을 지켜보았습니다.",
+      "tags": ["place", "environment", "nature"]
+    },
+    {
+      "word": "Soaring",
+      "sentence_en": "Team morale is soaring after the big win.",
+      "sentence_ko": "큰 승리 이후 팀의 사기가 치솟고 있습니다.",
+      "tags": ["social", "exercise", "happy"]
+    },
+    {
+      "word": "Soaring",
+      "sentence_en": "The soaring cathedral ceilings were magnificent.",
+      "sentence_ko": "높이 솟은 대성당 천장은 웅장했습니다.",
+      "tags": ["place", "travel", "art"]
+    },
+    {
+      "word": "Lofty",
+      "sentence_en": "He has lofty ambitions to change the world.",
+      "sentence_ko": "그는 세상을 바꾸겠다는 높은 야망을 품고 있습니다.",
+      "tags": ["entrepreneur", "social", "dream"]
+    },
+    {
+      "word": "Lofty",
+      "sentence_en": "We climbed the lofty peaks of the Himalayas.",
+      "sentence_ko": "우리는 히말라야의 아주 높은 봉우리에 올랐습니다.",
+      "tags": ["place", "environment", "exercise"]
+    },
+    {
+      "word": "Lofty",
+      "sentence_en": "She treated us with a lofty attitude.",
+      "sentence_ko": "그녀는 거만한(고압적인) 태도로 우리를 대했습니다.",
+      "tags": ["social", "relationship", "emotion"]
+    },
+    {
+      "word": "Lofty",
+      "sentence_en": "Peace is a lofty ideal worth fighting for.",
+      "sentence_ko": "평화는 싸워서 지킬 가치가 있는 고귀한 이상입니다.",
+      "tags": ["social", "health", "world"]
+    },
+    {
+      "word": "Lofty",
+      "sentence_en": "The restaurant features a large hall with a lofty ceiling.",
+      "sentence_ko": "그 식당은 천장이 아주 높은 넓은 홀이 특징입니다.",
+      "tags": ["restaurant", "place", "interior"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "The sofa is too bulky to fit through the door.",
+      "sentence_ko": "소파가 너무 커서 문을 통과할 수 없습니다.",
+      "tags": ["place", "home", "social"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "Bodybuilders often have bulky muscles.",
+      "sentence_ko": "보디빌더들은 종종 부피가 큰 근육을 가지고 있습니다.",
+      "tags": ["exercise", "health", "sport"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "I hate wearing bulky sweaters even when it's cold.",
+      "sentence_ko": "저는 추울 때도 두툼한 스웨터 입는 걸 싫어합니다.",
+      "tags": ["social", "hot", "fashion"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "I received a bulky package from the online store.",
+      "sentence_ko": "온라인 쇼핑몰에서 부피가 큰 소포를 받았습니다.",
+      "tags": ["internet", "shopping", "home"]
+    },
+    {
+      "word": "Bulky",
+      "sentence_en": "The old machinery was bulky and inefficient.",
+      "sentence_ko": "그 낡은 기계는 부피만 크고 비효율적이었습니다.",
+      "tags": ["entrepreneur", "tech", "work"]
+    },
+    {
+      "word": "Voluminous",
+      "sentence_en": "She wore a voluminous dress to the gala.",
+      "sentence_ko": "그녀는 갈라 행사 때 풍성한 드레스를 입었습니다.",
+      "tags": ["social", "place", "fashion"]
+    },
+    {
+      "word": "Voluminous",
+      "sentence_en": "The project involves processing voluminous data sets.",
+      "sentence_ko": "그 프로젝트는 방대한 데이터 세트를 처리하는 것을 포함합니다.",
+      "tags": ["internet", "marketing", "tech"]
+    },
+    {
+      "word": "Voluminous",
+      "sentence_en": "The author kept up a voluminous correspondence with fans.",
+      "sentence_ko": "그 작가는 팬들과 방대한 양의 서신을 주고받았습니다.",
+      "tags": ["social", "internet", "hobby"]
+    },
+    {
+      "word": "Voluminous",
+      "sentence_en": "She used a special shampoo to make her hair voluminous.",
+      "sentence_ko": "그녀는 머리숱을 풍성하게 보이게 하려고 특별한 샴푸를 썼습니다.",
+      "tags": ["health", "beauty", "social"]
+    },
+    {
+      "word": "Voluminous",
+      "sentence_en": "Voluminous clouds of smoke rose from the fire.",
+      "sentence_ko": "화재 현장에서 엄청난 양의 연기구름이 피어올랐습니다.",
+      "tags": ["environment", "hot", "danger"]
+    },
+    {
+      "word": "Hefty",
+      "sentence_en": "We were surprised by the hefty bill after dinner.",
+      "sentence_ko": "우리는 저녁 식사 후 꽤 많이 나온 청구서를 보고 놀랐습니다.",
+      "tags": ["restaurant", "money", "social"]
+    },
+    {
+      "word": "Hefty",
+      "sentence_en": "He paid a hefty fine for parking illegally.",
+      "sentence_ko": "그는 불법 주차로 두둑한 벌금을 냈습니다.",
+      "tags": ["social", "car", "money"]
+    },
+    {
+      "word": "Hefty",
+      "sentence_en": "He lifted the hefty box with ease.",
+      "sentence_ko": "그는 무거운 상자를 쉽게 들어 올렸습니다.",
+      "tags": ["exercise", "health", "work"]
+    },
+    {
+      "word": "Hefty",
+      "sentence_en": "The CEO received a hefty bonus this year.",
+      "sentence_ko": "CEO는 올해 두둑한 보너스를 받았습니다.",
+      "tags": ["entrepreneur", "business", "money"]
+    },
+    {
+      "word": "Hefty",
+      "sentence_en": "The textbook was hefty and difficult to carry.",
+      "sentence_ko": "교과서가 너무 두껍고 무거워서 들고 다니기 힘들었습니다.",
+      "tags": ["education", "school", "place"]
+    },
+    {
+      "word": "Astronomical",
+      "sentence_en": "The cost of the new project is astronomical.",
+      "sentence_ko": "새 프로젝트 비용은 천문학적입니다.",
+      "tags": ["marketing", "entrepreneur", "business"]
+    },
+    {
+      "word": "Astronomical",
+      "sentence_en": "The odds of winning the lottery are astronomical.",
+      "sentence_ko": "복권에 당첨될 확률은 천문학적입니다 (매우 희박합니다).",
+      "tags": ["social", "money", "chance"]
+    },
+    {
+      "word": "Astronomical",
+      "sentence_en": "Stars are at astronomical distances from Earth.",
+      "sentence_ko": "별들은 지구로부터 천문학적인 거리에 있습니다.",
+      "tags": ["environment", "space", "science"]
+    },
+    {
+      "word": "Astronomical",
+      "sentence_en": "The company accumulated astronomical debts.",
+      "sentence_ko": "그 회사는 천문학적인 빚을 졌습니다.",
+      "tags": ["entrepreneur", "business", "money"]
+    },
+    {
+      "word": "Astronomical",
+      "sentence_en": "The website saw astronomical growth in users.",
+      "sentence_ko": "그 웹사이트는 사용자 수가 천문학적으로 증가했습니다.",
+      "tags": ["internet", "marketing", "tech"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "The internet offers infinite possibilities for learning.",
+      "sentence_ko": "인터넷은 배움에 있어 무한한 가능성을 제공합니다.",
+      "tags": ["internet", "education", "entrepreneur"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "She seems to have infinite patience with children.",
+      "sentence_ko": "그녀는 아이들에게 무한한 인내심을 가진 것 같습니다.",
+      "tags": ["social", "family", "love"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "We looked up at the infinite stars in the night sky.",
+      "sentence_ko": "우리는 밤하늘의 무수한 별들을 올려다보았습니다.",
+      "tags": ["environment", "place", "night"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "Nature holds infinite wisdom if you look closely.",
+      "sentence_ko": "자세히 들여다보면 자연은 무한한 지혜를 담고 있습니다.",
+      "tags": ["health", "environment", "mind"]
+    },
+    {
+      "word": "Infinite",
+      "sentence_en": "There seems to be an infinite variety of coffee choices.",
+      "sentence_ko": "커피 종류는 끝이 없어 보입니다.",
+      "tags": ["restaurant", "food", "social"]
+    },
+    {
+      "word": "Limitless",
+      "sentence_en": "Children seem to have limitless energy.",
+      "sentence_ko": "아이들은 에너지가 무한한 것 같습니다.",
+      "tags": ["exercise", "health", "family"]
+    },
+    {
+      "word": "Limitless",
+      "sentence_en": "Our new software has limitless potential for growth.",
+      "sentence_ko": "우리의 새 소프트웨어는 무한한 성장 잠재력을 가지고 있습니다.",
+      "tags": ["entrepreneur", "internet", "tech"]
+    },
+    {
+      "word": "Limitless",
+      "sentence_en": "Online shopping provides limitless options for consumers.",
+      "sentence_ko": "온라인 쇼핑은 소비자들에게 무한한 선택지를 제공합니다.",
+      "tags": ["internet", "marketing", "shopping"]
+    },
+    {
+      "word": "Limitless",
+      "sentence_en": "We gazed at the limitless blue sky.",
+      "sentence_ko": "우리는 끝없이 펼쳐진 푸른 하늘을 바라보았습니다.",
+      "tags": ["environment", "place", "relax"]
+    },
+    {
+      "word": "Limitless",
+      "sentence_en": "His ambition to succeed is limitless.",
+      "sentence_ko": "성공에 대한 그의 야망은 끝이 없습니다.",
+      "tags": ["social", "entrepreneur", "work"]
+    },
+    {
+      "word": "Boundless",
+      "sentence_en": "Her boundless enthusiasm is contagious in the office.",
+      "sentence_ko": "그녀의 무한한 열정은 사무실 내에 전염성이 있습니다.",
+      "tags": ["entrepreneur", "social", "happy"]
+    },
+    {
+      "word": "Boundless",
+      "sentence_en": "I wish I had his boundless energy for running.",
+      "sentence_ko": "달리기를 할 때 그의 지칠 줄 모르는 에너지가 부럽습니다.",
+      "tags": ["exercise", "health", "sport"]
+    },
+    {
+      "word": "Boundless",
+      "sentence_en": "The ship sailed across the boundless ocean.",
+      "sentence_ko": "배는 끝없는 대양을 가로질러 항해했습니다.",
+      "tags": ["environment", "place", "travel"]
+    },
+    {
+      "word": "Boundless",
+      "sentence_en": "The digital world offers boundless opportunities.",
+      "sentence_ko": "디지털 세상은 무한한 기회를 제공합니다.",
+      "tags": ["internet", "marketing", "tech"]
+    },
+    {
+      "word": "Boundless",
+      "sentence_en": "He is known for his boundless generosity to the poor.",
+      "sentence_ko": "그는 가난한 이들에 대한 끝없는 관대함으로 알려져 있습니다.",
+      "tags": ["social", "love", "community"]
+    },
+    {
+      "word": "Grand",
+      "sentence_en": "We stayed at a grand hotel near the beach.",
+      "sentence_ko": "우리는 해변 근처의 웅장한 호텔에 머물렀습니다.",
+      "tags": ["place", "restaurant", "travel"]
+    },
+    {
+      "word": "Grand",
+      "sentence_en": "He has a grand plan to revolutionize the industry.",
+      "sentence_ko": "그는 산업에 혁명을 일으킬 거대한 계획을 가지고 있습니다.",
+      "tags": ["entrepreneur", "marketing", "business"]
+    },
+    {
+      "word": "Grand",
+      "sentence_en": "The event was organized on a grand scale.",
+      "sentence_ko": "그 행사는 성대한 규모로 기획되었습니다.",
+      "tags": ["marketing", "social", "party"]
+    },
+    {
+      "word": "Grand",
+      "sentence_en": "She made a grand entrance at the party.",
+      "sentence_ko": "그녀는 파티에 화려하게 등장했습니다.",
+      "tags": ["social", "fashion", "place"]
+    },
+    {
+      "word": "Grand",
+      "sentence_en": "The Grand Canyon offers a spectacular view.",
+      "sentence_ko": "그랜드 캐니언은 장관을 이룹니다.",
+      "tags": ["environment", "place", "travel"]
+    },
+    {
+      "word": "Majestic",
+      "sentence_en": "The majestic mountains were covered in snow.",
+      "sentence_ko": "장엄한 산들이 눈으로 뒤덮여 있었습니다.",
+      "tags": ["environment", "place", "travel"]
+    },
+    {
+      "word": "Majestic",
+      "sentence_en": "The lion looked majestic as it walked through the grass.",
+      "sentence_ko": "풀숲을 걸어가는 사자의 모습은 위엄이 있었습니다.",
+      "tags": ["environment", "nature", "animal"]
+    },
+    {
+      "word": "Majestic",
+      "sentence_en": "The orchestra played a majestic symphony.",
+      "sentence_ko": "오케스트라가 웅장한 교향곡을 연주했습니다.",
+      "tags": ["social", "art", "music"]
+    },
+    {
+      "word": "Majestic",
+      "sentence_en": "The palace is a majestic example of ancient architecture.",
+      "sentence_ko": "그 궁전은 고대 건축의 장엄한 예입니다.",
+      "tags": ["place", "history", "travel"]
+    },
+    {
+      "word": "Majestic",
+      "sentence_en": "A majestic oak tree stood in the center of the park.",
+      "sentence_ko": "공원 중앙에 웅장한 참나무 한 그루가 서 있었습니다.",
+      "tags": ["environment", "place", "nature"]
+    },
+    {
+      "word": "Prodigious",
+      "sentence_en": "The young musician showed prodigious talent.",
+      "sentence_ko": "그 어린 음악가는 경이로운 재능을 보여주었습니다.",
+      "tags": ["social", "art", "music"]
+    },
+    {
+      "word": "Prodigious",
+      "sentence_en": "He has a prodigious memory for facts and figures.",
+      "sentence_ko": "그는 사실과 수치에 대해 엄청난 기억력을 가지고 있습니다.",
+      "tags": ["health", "mind", "work"]
+    },
+    {
+      "word": "Prodigious",
+      "sentence_en": "The factory produces a prodigious amount of goods.",
+      "sentence_ko": "그 공장은 엄청난 양의 상품을 생산합니다.",
+      "tags": ["entrepreneur", "marketing", "business"]
+    },
+    {
+      "word": "Prodigious",
+      "sentence_en": "The athlete displayed prodigious strength during the competition.",
+      "sentence_ko": "그 선수는 경기 중에 엄청난 힘을 발휘했습니다.",
+      "tags": ["exercise", "sport", "health"]
+    },
+    {
+      "word": "Prodigious",
+      "sentence_en": "After the hike, he ate with a prodigious appetite.",
+      "sentence_ko": "등산 후에 그는 엄청난 식욕으로 밥을 먹었습니다.",
+      "tags": ["restaurant", "food", "health"]
+    }
+  ]
+}

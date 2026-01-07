@@ -1,0 +1,355 @@
+{
+  "started_at": "2026-01-04T21:15:14.778520",
+  "completed_decks": [
+    {
+      "deck_name": "1_GENERAL_INTELLIGENCE_BRILLIANCE",
+      "completed_at": "2026-01-04T21:19:43.535823",
+      "words_count": 31,
+      "sentences_count": 310
+    },
+    {
+      "deck_name": "2_WISDOM_INSIGHT_PRUDENCE",
+      "completed_at": "2026-01-04T21:20:44.207620",
+      "words_count": 31,
+      "sentences_count": 310
+    },
+    {
+      "deck_name": "ABUNDANCE_EXCESS",
+      "completed_at": "2026-01-04T21:21:48.782865",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "AESTHETIC_SENSE",
+      "completed_at": "2026-01-04T21:22:53.635378",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "ATTITUDE_TONE",
+      "completed_at": "2026-01-04T21:23:58.163951",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "AUTHORITY_PRESTIGE",
+      "completed_at": "2026-01-04T21:25:00.751856",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "AUTONOMY_LENIENCY",
+      "completed_at": "2026-01-04T21:26:05.382409",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "BREVITY_VERBOSITY",
+      "completed_at": "2026-01-04T21:27:11.846327",
+      "words_count": 31,
+      "sentences_count": 310
+    },
+    {
+      "deck_name": "COMPLEXITY_INTRICACY",
+      "completed_at": "2026-01-04T21:28:14.883500",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "CONFLICT_DISTANCE",
+      "completed_at": "2026-01-04T21:29:19.520424",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "COOPERATION_HARMONY",
+      "completed_at": "2026-01-04T21:30:23.541798",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "COST_PRICE_VALUE",
+      "completed_at": "2026-01-04T21:31:28.251606",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "DECLINE_DETERIORATION",
+      "completed_at": "2026-01-04T21:32:33.791432",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "DOMINANCE_CONTROL",
+      "completed_at": "2026-01-04T21:33:37.502952",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "ENORMOUSNESS_VASTNESS",
+      "completed_at": "2026-01-04T21:34:42.100652",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "FLUCTUATION_STAGNATION",
+      "completed_at": "2026-01-04T21:35:45.952933",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "FLUENCY_DELIVERY",
+      "completed_at": "2026-01-04T21:36:46.809250",
+      "words_count": 29,
+      "sentences_count": 290
+    },
+    {
+      "deck_name": "FRUGALITY_STINGINESS",
+      "completed_at": "2026-01-04T21:39:03.943307",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "GROWTH_PROSPERITY",
+      "completed_at": "2026-01-04T21:40:14.181327",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "HIGH_DIFFICULTY_EFFORT",
+      "completed_at": "2026-01-04T21:41:23.037826",
+      "words_count": 29,
+      "sentences_count": 290
+    },
+    {
+      "deck_name": "INCOME_PROFIT_FINANCIAL_STATUS",
+      "completed_at": "2026-01-04T22:02:47.886380",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "INTIMACY_AFFECTION",
+      "completed_at": "2026-01-04T22:03:56.931014",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "LOGIC_CLARITY",
+      "completed_at": "2026-01-04T22:05:06.245719",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "LOW_DIFFICULTY_EASE",
+      "completed_at": "2026-01-04T22:06:16.588767",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "LUXURY_EXTRAVAGANCE",
+      "completed_at": "2026-01-04T22:07:25.514588",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "MINUTENESS_SMALLNESS",
+      "completed_at": "2026-01-04T22:08:35.291103",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "OPPRESSION_TYRANNY",
+      "completed_at": "2026-01-04T22:09:46.223696",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "PERMANENCE_LONGEVITY",
+      "completed_at": "2026-01-04T22:10:56.497144",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "PERSUASION_CONFLICT",
+      "completed_at": "2026-01-04T22:12:22.483564",
+      "words_count": 36,
+      "sentences_count": 360
+    },
+    {
+      "deck_name": "POVERTY_HARDSHIP",
+      "completed_at": "2026-01-04T22:13:33.030013",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "PRACTICALITY_WIT_CUNNING",
+      "completed_at": "2026-01-04T22:14:46.415141",
+      "words_count": 32,
+      "sentences_count": 320
+    },
+    {
+      "deck_name": "SCARCITY_DEFICIENCY",
+      "completed_at": "2026-01-04T22:15:55.496164",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SCOPE_COMPREHENSIVENESS",
+      "completed_at": "2026-01-04T22:17:03.817308",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SEQUENCE_INTERVAL_DURATION",
+      "completed_at": "2026-01-04T22:18:11.843108",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SIGHT",
+      "completed_at": "2026-01-04T22:19:21.306461",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SIGNIFICANCE_DEPTH",
+      "completed_at": "2026-01-04T22:20:30.776499",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SIMPLICITY_CLARITY",
+      "completed_at": "2026-01-04T22:21:37.042205",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SMELL_SCENT",
+      "completed_at": "2026-01-04T22:22:21.286212",
+      "words_count": 21,
+      "sentences_count": 210
+    },
+    {
+      "deck_name": "SOCIAL_BEHAVIOR_PERSONALITY",
+      "completed_at": "2026-01-04T22:23:28.393282",
+      "words_count": 32,
+      "sentences_count": 320
+    },
+    {
+      "deck_name": "SOCIAL_STATUS_CONNECTION",
+      "completed_at": "2026-01-04T22:24:30.001867",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "SOUND_AUDITORY",
+      "completed_at": "2026-01-04T22:25:14.431139",
+      "words_count": 21,
+      "sentences_count": 210
+    },
+    {
+      "deck_name": "SUBMISSION_COMPLIANCE",
+      "completed_at": "2026-01-05T01:31:58.936296",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "TASTE",
+      "completed_at": "2026-01-05T01:50:15.298783",
+      "words_count": 22,
+      "sentences_count": 220
+    },
+    {
+      "deck_name": "TIMELINESS_FUTURE_PAST",
+      "completed_at": "2026-01-05T01:51:17.556049",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "TIMING_SPEED_PUNCTUALITY",
+      "completed_at": "2026-01-05T01:52:21.295410",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "TOUCH_TEXTURE",
+      "completed_at": "2026-01-05T01:53:09.528590",
+      "words_count": 23,
+      "sentences_count": 230
+    },
+    {
+      "deck_name": "TRANSFORMATION_ADAPTATION",
+      "completed_at": "2026-01-05T01:54:13.194734",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "TRANSIENCE_BREVITY",
+      "completed_at": "2026-01-05T01:55:18.083806",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "WEALTH_AFFLUENCE",
+      "completed_at": "2026-01-05T01:56:20.118088",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "FREQUENCY_REPETITION",
+      "completed_at": "2026-01-05T07:53:26.051946",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "IGNORANCE_NAIVETY_CONFUSION",
+      "completed_at": "2026-01-05T07:54:19.635729",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "START_END_RECOVERY",
+      "completed_at": "2026-01-05T07:55:12.423106",
+      "words_count": 30,
+      "sentences_count": 300
+    },
+    {
+      "deck_name": "STUPIDITY_DULLNESS",
+      "completed_at": "2026-01-05T07:56:07.179026",
+      "words_count": 30,
+      "sentences_count": 300
+    }
+  ],
+  "failed_decks": [
+    {
+      "deck_name": "1_GENERAL_INTELLIGENCE_BRILLIANCE",
+      "failed_at": "2026-01-04T21:16:20.395383",
+      "error": "28 sentences failed to upload"
+    },
+    {
+      "deck_name": "FREQUENCY_REPETITION",
+      "failed_at": "2026-01-04T21:37:54.854982",
+      "error": "1 sentences failed to upload"
+    },
+    {
+      "deck_name": "IGNORANCE_NAIVETY_CONFUSION",
+      "failed_at": "2026-01-04T22:01:36.294451",
+      "error": "1 sentences failed to upload"
+    },
+    {
+      "deck_name": "START_END_RECOVERY",
+      "failed_at": "2026-01-05T00:54:53.694340",
+      "error": "1 sentences failed to upload"
+    },
+    {
+      "deck_name": "STUPIDITY_DULLNESS",
+      "failed_at": "2026-01-05T01:30:57.113680",
+      "error": "1 sentences failed to upload"
+    }
+  ],
+  "current_deck": null,
+  "total_decks": 53,
+  "total_words_processed": 1568,
+  "total_sentences_generated": 15680,
+  "last_updated": "2026-01-05T07:56:07.179082"
+}
