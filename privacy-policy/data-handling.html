@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>데이터 처리 규정 - VibeVoca</title>
+    <style>
+        :root {
+            --primary-color: #0f172a;
+            --secondary-color: #3b82f6;
+            --accent-color: #ef4444;
+            --text-color: #334155;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        .back-link {
+            display: inline-block;
+            color: var(--secondary-color);
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 0.875rem;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            font-size: 2.25rem;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .highlight-box {
+            background-color: #fef3c7;
+            border-left: 4px solid #f59e0b;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .highlight-box h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+            font-size: 1.25rem;
+        }
+
+        .contact-box {
+            background-color: #eff6ff;
+            border: 2px solid var(--secondary-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .contact-box strong {
+            font-size: 1.125rem;
+            color: var(--primary-color);
+        }
+
+        .email-link {
+            color: var(--secondary-color);
+            font-size: 1.25rem;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .email-link:hover {
+            text-decoration: underline;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        .data-table th,
+        .data-table td {
+            border: 1px solid #e2e8f0;
+            padding: 12px;
+            text-align: left;
+        }
+
+        .data-table th {
+            background-color: #f1f5f9;
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        .data-table tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #e2e8f0;
+            font-size: 0.875rem;
+            color: #64748b;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.75rem;
+            }
+
+            .data-table {
+                font-size: 0.875rem;
+            }
+
+            .data-table th,
+            .data-table td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← 메인으로 돌아가기</a>
+
+        <h1>데이터 처리 규정</h1>
+
+        <p><strong>VibeVoca</strong>(이하 "서비스")는 사용자의 데이터를 투명하게 처리하며, 사용자의 권리를 최우선으로 보장합니다.</p>
+
+        <div class="highlight-box">
+            <h3>📌 계정 삭제 요청 방법</h3>
+            <p>사용자는 언제든지 계정 삭제를 요청할 수 있으며, 다음의 방법으로 진행할 수 있습니다:</p>
+            <ol>
+                <li><strong>앱 내 설정:</strong> VibeVoca 앱 내 설정 메뉴에서 '계정 삭제' 버튼을 통해 즉시 삭제</li>
+                <li><strong>이메일 요청:</strong> 아래 이메일로 계정 삭제 요청 (24시간 내 처리)</li>
+            </ol>
+        </div>
+
+        <div class="contact-box">
+            <p><strong>계정 삭제 문의</strong></p>
+            <p><a href="mailto:vibevoca4@gmail.com" class="email-link">vibevoca4@gmail.com</a></p>
+            <p style="margin-top: 10px; font-size: 0.875rem; color: #64748b;">
+                이메일 제목: "계정 삭제 요청" / 본문: 가입 이메일 또는 사용자 ID
+            </p>
+        </div>
+
+        <h2>1. 수집 및 처리되는 데이터</h2>
+        <p>VibeVoca는 다음과 같은 데이터를 수집 및 처리합니다:</p>
+        <ul>
+            <li><strong>계정 정보:</strong> 이메일 주소, 로그인 식별자 (인증 및 계정 관리 목적)</li>
+            <li><strong>학습 데이터:</strong> 사용자가 생성한 학습 기록, 진행 상황, 즐겨찾기 (서비스 제공 및 개인화 목적)</li>
+            <li><strong>기기 정보:</strong> 앱 버전, OS 버전, 기기 ID (서비스 최적화 및 오류 추적 목적)</li>
+        </ul>
+
+        <h2>2. 계정 삭제 시 데이터 처리</h2>
+        <p>사용자가 계정 삭제를 요청하면 다음과 같이 처리됩니다:</p>
+
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>데이터 유형</th>
+                    <th>처리 방법</th>
+                    <th>보관 기간</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>계정 정보 (이메일, 로그인 ID)</td>
+                    <td>즉시 삭제</td>
+                    <td>삭제 요청 후 즉시</td>
+                </tr>
+                <tr>
+                    <td>학습 데이터 (진행 상황, 기록)</td>
+                    <td>즉시 삭제</td>
+                    <td>삭제 요청 후 즉시</td>
+                </tr>
+                <tr>
+                    <td>로그 데이터 (오류 기록, 접속 기록)</td>
+                    <td>익명화 후 보관</td>
+                    <td>최대 30일</td>
+                </tr>
+                <tr>
+                    <td>법적 의무 이행 데이터*</td>
+                    <td>최소 정보만 보관</td>
+                    <td>관련 법령에 따라 최대 1년</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p style="font-size: 0.875rem; color: #64748b;">
+            * 부정 사용 방지, 사기 방지 등 법적 의무 이행을 위해 필요한 경우에 한해 최소한의 정보(예: 거래 기록)만 보관될 수 있습니다.
+        </p>
+
+        <h2>3. 데이터 보관 정책</h2>
+        <ul>
+            <li><strong>활성 계정:</strong> 서비스 이용 기간 동안 안전하게 보관</li>
+            <li><strong>비활성 계정:</strong> 1년 이상 미사용 시 사전 안내 후 자동 삭제</li>
+            <li><strong>삭제 요청 계정:</strong> 요청 즉시 또는 24시간 이내 삭제 완료</li>
+        </ul>
+
+        <h2>4. 사용자 권리 및 보장</h2>
+        <p>VibeVoca 사용자는 다음의 권리를 가집니다:</p>
+        <ul>
+            <li><strong>열람권:</strong> 본인의 개인정보 및 데이터를 언제든지 확인 가능</li>
+            <li><strong>정정권:</strong> 잘못된 정보를 수정 요청 가능</li>
+            <li><strong>삭제권:</strong> 언제든지 계정 및 데이터 삭제 요청 가능</li>
+            <li><strong>처리 정지권:</strong> 개인정보 처리의 일시 정지 요청 가능</li>
+            <li><strong>이동권:</strong> 본인의 데이터를 다운로드하여 이동 가능</li>
+        </ul>
+
+        <h2>5. 제3자 제공 및 공유</h2>
+        <p>VibeVoca는 사용자의 개인정보를 <strong>어떠한 제3자에게도 판매, 공유 또는 제공하지 않습니다.</strong></p>
+        <p>다만, 다음의 경우에 한해 최소한의 정보가 공유될 수 있습니다:</p>
+        <ul>
+            <li>법적 요구사항 준수 (법원 명령, 수사기관 요청 등)</li>
+            <li>사용자의 명시적 동의가 있는 경우</li>
+        </ul>
+
+        <h2>6. 데이터 보안</h2>
+        <p>VibeVoca는 사용자 데이터를 안전하게 보호하기 위해 다음의 조치를 취합니다:</p>
+        <ul>
+            <li>암호화된 통신 (HTTPS/TLS)</li>
+            <li>데이터베이스 암호화 저장</li>
+            <li>정기적인 보안 점검 및 업데이트</li>
+            <li>접근 권한 엄격 관리</li>
+        </ul>
+
+        <h2>7. 문의 및 고객 지원</h2>
+        <p>데이터 처리 규정 및 개인정보 관련 문의사항이 있으시면 언제든지 연락주시기 바랍니다:</p>
+
+        <div class="contact-box">
+            <p><strong>고객 지원 이메일</strong></p>
+            <p><a href="mailto:vibevoca4@gmail.com" class="email-link">vibevoca4@gmail.com</a></p>
+            <p style="margin-top: 10px; font-size: 0.875rem; color: #64748b;">
+                평균 응답 시간: 24시간 이내
+            </p>
+        </div>
+
+        <h2>8. 규정 개정</h2>
+        <p>본 데이터 처리 규정은 관련 법령 및 서비스 정책 변경에 따라 수정될 수 있습니다. 중요한 변경사항이 있을 경우 앱 내 공지 및 이메일을 통해 사전 안내합니다.</p>
+        <p><strong>최종 업데이트:</strong> 2026년 1월 7일</p>
+
+        <div class="footer">
+            <p><strong>서비스 제공자:</strong> VibeVoca (vibevoca4@gmail.com)</p>
+            <p>&copy; 2026 VibeVoca. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

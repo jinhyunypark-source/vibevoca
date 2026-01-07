@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>개인정보 처리방침 - VibeVoca</title>
+    <title>VibeVoca - 정책 및 약관</title>
     <style>
         :root {
             --primary-color: #0f172a;
+            --secondary-color: #3b82f6;
             --text-color: #334155;
             --bg-color: #f8fafc;
             --card-bg: #ffffff;
+            --hover-color: #eff6ff;
         }
 
         body {
@@ -36,30 +38,59 @@
 
         h1 {
             color: var(--primary-color);
-            font-size: 2.25rem;
-            margin-bottom: 30px;
-            border-bottom: 2px solid #e2e8f0;
-            padding-bottom: 15px;
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            text-align: center;
         }
 
-        h2 {
+        .subtitle {
+            text-align: center;
+            color: #64748b;
+            font-size: 1.125rem;
+            margin-bottom: 40px;
+        }
+
+        .nav-cards {
+            display: grid;
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .nav-card {
+            background: var(--card-bg);
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 25px;
+            text-decoration: none;
+            color: var(--text-color);
+            transition: all 0.3s ease;
+            display: block;
+        }
+
+        .nav-card:hover {
+            background: var(--hover-color);
+            border-color: var(--secondary-color);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+        }
+
+        .nav-card h2 {
             color: var(--primary-color);
             font-size: 1.5rem;
-            margin-top: 30px;
-            margin-bottom: 15px;
+            margin: 0 0 10px 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
         }
 
-        p {
-            margin-bottom: 15px;
+        .nav-card p {
+            margin: 0;
+            color: #64748b;
+            line-height: 1.5;
         }
 
-        ul {
-            margin-bottom: 15px;
-            padding-left: 20px;
-        }
-
-        li {
-            margin-bottom: 8px;
+        .icon {
+            font-size: 1.75rem;
         }
 
         .footer {
@@ -75,34 +106,39 @@
             .container {
                 padding: 20px;
             }
-            
+
             h1 {
-                font-size: 1.75rem;
+                font-size: 2rem;
+            }
+
+            .nav-card h2 {
+                font-size: 1.25rem;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>개인정보 처리방침</h1>
-        
-        <p>VibeVoca(이하 "서비스")는 사용자의 개인정보를 소중히 다루며, 다음과 같은 방침을 가지고 있습니다.</p>
+        <h1>VibeVoca</h1>
+        <p class="subtitle">정책 및 약관</p>
 
-        <h2>1. 개인정보의 수집 및 이용 목적</h2>
-        <p>본 서비스는 사용자의 <strong>데이터 백업 및 복구를 위한 인증 정보</strong>(예: 이메일, 로그인 식별자)만을 활용합니다.</p>
-        <p>수집된 정보는 사용자 본인 확인 및 데이터 동기화 목적 외에는 어떠한 용도로도 활용되지 않으며, 제3자에게 제공되지 않습니다.</p>
+        <div class="nav-cards">
+            <a href="privacy-policy.html" class="nav-card">
+                <h2>
+                    <span class="icon">🔒</span>
+                    개인정보 처리방침
+                </h2>
+                <p>VibeVoca의 개인정보 수집, 이용, 보관 및 파기에 관한 정책을 확인하실 수 있습니다.</p>
+            </a>
 
-        <h2>2. 개인정보의 보유 및 파기</h2>
-        <ul>
-            <li><strong>서비스 종료 시 즉시 삭제:</strong> 서비스 운영이 종료되는 시점에 사용자의 모든 개인정보는 지체 없이 파기됩니다.</li>
-            <li><strong>회원 탈퇴 시:</strong> 사용자가 회원 탈퇴를 요청하거나 앱 내에서 데이터 삭제를 진행할 경우 해당 정보는 즉시 삭제됩니다.</li>
-        </ul>
-
-        <h2>3. 사용자의 권리 및 행사 방법</h2>
-        <p>사용자는 언제든지 서비스 내에서 자신의 개인정보를 관리할 수 있습니다.</p>
-        <ul>
-            <li><strong>정보 삭제 및 초기화:</strong> 사용자는 언제든 앱 내 설정 메뉴를 통해 자신의 계정 정보와 데이터를 즉시 삭제하거나 초기화할 수 있습니다.</li>
-        </ul>
+            <a href="data-handling.html" class="nav-card">
+                <h2>
+                    <span class="icon">📋</span>
+                    데이터 처리 규정
+                </h2>
+                <p>계정 삭제 절차, 데이터 보관 및 삭제 기간, 사용자 권리에 관한 상세 규정을 확인하실 수 있습니다.</p>
+            </a>
+        </div>
 
         <div class="footer">
             <p>&copy; 2026 VibeVoca. All rights reserved.</p>
