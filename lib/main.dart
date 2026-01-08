@@ -20,7 +20,7 @@ Future<void> main() async {
       // Initialize Supabase
       await Supabase.initialize(
         url: 'https://anizwbojntonkfwgyosa.supabase.co',
-        anonKey: 'sb_publishable_exQ8_OAtcUAle1wtPwxj0w_IIfKNudu',
+        anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFuaXp3Ym9qbnRvbmtmd2d5b3NhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjcyOTgyNzIsImV4cCI6MjA4Mjg3NDI3Mn0.4Jjl6OWoQXyjD-vYMVbZ4hTkECfWT7erW3j8y2Qynd8',
       );
       print("✅ [Main] Supabase initialized");
 
