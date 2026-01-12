@@ -43,7 +43,7 @@ class _DeckSelectionPageState extends ConsumerState<DeckSelectionPage> {
     return Scaffold(
       backgroundColor: AppColors.background,
       appBar: AppBar(
-        title: const Text("Select Deck", style: TextStyle(fontWeight: FontWeight.bold, letterSpacing: 1.2)),
+        title: const Text("주제 선택", style: TextStyle(fontWeight: FontWeight.bold, letterSpacing: 1.2)),
         centerTitle: true,
         backgroundColor: Colors.transparent,
         elevation: 0,

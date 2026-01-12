@@ -90,24 +90,52 @@ class BattleController extends _$BattleController {
     // 3. Fetch Vibe Sentences
     final profile = await ref.watch(userProfileProvider.future);
     final contextItems = ref.watch(selectedContextProvider);
-    // Resolve Interest IDs -> Semantic Tags (Codes)
+    // Resolve Interest IDs -> Semantic Tags (Codes) and Icons
     final allInterests = await ref.read(interestsProvider.future);
-    final interestMap = { for (var i in allInterests) i.id: i.code }; 
+    final interestMap = { for (var i in allInterests) i.id: i.code };
+    final iconMap = { for (var i in allInterests) i.code: i.icon }; // Code -> IconName (Material)
     
     final tags = <String>[
       if (profile != null)
-         for (final id in profile.interestIds)
-            if (interestMap.containsKey(id)) interestMap[id]!,
+        for (final id in profile.interestIds)
+          if (interestMap.containsKey(id)) interestMap[id]!,
             
       for (final item in contextItems) item.slug.contains('_') ? item.slug.split('_').last : item.slug, 
     ];
     
     final vibeList = await repo.getVibeSentencesForDeck(deckId, tags);
-    final vibeMap = <String, List<String>>{};
+    final vibeMap = <String, List<VibeDisplayInfo>>{};
+    
     for (var v in vibeList) {
        if ((vibeMap[v.cardId]?.length ?? 0) < 3) { // Limit to 3 max locally
           final uniqueSentence = v.sentenceKo != null ? "${v.sentenceEn}\n(${v.sentenceKo})" : v.sentenceEn;
-          vibeMap.putIfAbsent(v.cardId, () => []).add(uniqueSentence);
+          
+          // Resolve Icon (Prioritize matching user interest/context)
+          // v.tags contains 'ID' of the interest. We need to map ID -> Code -> Icon OR ID -> Icon.
+          // Wait, 'getVibeSentencesForDeck' might return raw tags?
+          // The DB function 'get_vibe_sentences_for_deck' likely returns IDs or Codes?
+          // Usually 'tags' in VibeSentence are the meta_interests.id or code. 
+          // Assuming tags are IDs similar to input.
+          
+          String? iconName;
+          String? tagName;
+          
+          // Find first matching tag that has an icon
+          for (final tagId in v.tags) {
+             // Try to find interest object
+             final interest = allInterests.where((i) => i.id == tagId || i.code == tagId).firstOrNull;
+             if (interest != null) {
+                iconName = interest.icon;
+                tagName = interest.code ?? interest.labelKo; // Fallback to label
+                break;
+             }
+          }
+           
+          vibeMap.putIfAbsent(v.cardId, () => []).add(VibeDisplayInfo(
+             sentence: uniqueSentence,
+             icon: iconName,
+             tagName: tagName
+          ));
        }
     }
 

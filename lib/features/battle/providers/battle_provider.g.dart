@@ -50,7 +50,7 @@ final class BattleControllerProvider
   }
 }
 
-String _$battleControllerHash() => r'1366d323187f3137c3342ee4fa284e60ce937b67';
+String _$battleControllerHash() => r'a8b2b098f5d7d38b3cca88aa1970d066f29e010b';
 
 final class BattleControllerFamily extends $Family
     with

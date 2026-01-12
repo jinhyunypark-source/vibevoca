@@ -4,6 +4,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:go_router/go_router.dart';
 import 'package:gap/gap.dart';
 import '../../../core/theme/app_colors.dart';
+import '../../../core/utils/material_icons_mapper.dart';
 import 'providers/context_provider.dart';
 import 'models/context_item.dart';
 import 'providers/deck_collection_provider.dart';
@@ -199,30 +200,6 @@ class _CompactContextSlot extends ConsumerWidget {
 
   const _CompactContextSlot({required this.type, this.selectedItem});
 
-  IconData _getIcon(String iconKey) {
-     switch (iconKey) {
-      // Place
-      case 'home': return Icons.home;
-      case 'work': return Icons.work;
-      case 'directions_transit': return Icons.directions_transit;
-      case 'train': return Icons.directions_subway;
-      case 'coffee': return Icons.coffee;
-      // Emotion
-      case 'sentiment_very_satisfied': return Icons.sentiment_very_satisfied;
-      case 'sentiment_very_dissatisfied': return Icons.sentiment_very_dissatisfied;
-      case 'mood_bad': return Icons.mood_bad;
-      case 'battery_alert': return Icons.battery_alert;
-      case 'self_improvement': return Icons.self_improvement;
-      // Environment
-      case 'wb_sunny': return Icons.wb_sunny;
-      case 'water_drop': return Icons.water_drop;
-      case 'local_fire_department': return Icons.local_fire_department;
-      case 'ac_unit': return Icons.ac_unit;
-      case 'thermostat': return Icons.thermostat;
-      default: return Icons.help_outline;
-    }
-  }
-
   String _getTypeLabel(ContextType t) {
      return t.name.toUpperCase();
   }
@@ -245,7 +222,7 @@ class _CompactContextSlot extends ConsumerWidget {
                 ),
                 child: Center(
                   child: Icon(
-                    selectedItem != null ? _getIcon(selectedItem!.iconAsset) : Icons.add,
+                    selectedItem != null ? MaterialIconsMapper.getIcon(selectedItem!.iconAsset) : Icons.add,
                     color: selectedItem != null ? AppColors.accent : Colors.grey,
                     size: 30,
                   ),
@@ -280,30 +257,6 @@ class _ContextOptionsSheet extends ConsumerWidget {
   final ContextType type;
 
   const _ContextOptionsSheet({required this.type});
-
-  IconData _getIcon(String iconKey) {
-     switch (iconKey) {
-      // Place
-      case 'home': return Icons.home;
-      case 'work': return Icons.work;
-      case 'directions_transit': return Icons.directions_transit;
-      case 'train': return Icons.directions_subway;
-      case 'coffee': return Icons.coffee;
-      // Emotion
-      case 'sentiment_very_satisfied': return Icons.sentiment_very_satisfied;
-      case 'sentiment_very_dissatisfied': return Icons.sentiment_very_dissatisfied;
-      case 'mood_bad': return Icons.mood_bad;
-      case 'battery_alert': return Icons.battery_alert;
-      case 'self_improvement': return Icons.self_improvement;
-      // Environment
-      case 'wb_sunny': return Icons.wb_sunny;
-      case 'water_drop': return Icons.water_drop;
-      case 'local_fire_department': return Icons.local_fire_department;
-      case 'ac_unit': return Icons.ac_unit;
-      case 'thermostat': return Icons.thermostat;
-      default: return Icons.help_outline;
-    }
-  }
 
   String _getTypeLabel(ContextType t) {
      return t.name.toUpperCase();
@@ -355,10 +308,10 @@ class _ContextOptionsSheet extends ConsumerWidget {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Icon(_getIcon(item.iconAsset), color: isSelected ? Colors.white : AppColors.textPrimary, size: 32),
+                            Icon(MaterialIconsMapper.getIcon(item.iconAsset), color: isSelected ? Colors.white : AppColors.textPrimary, size: 32),
                             const Gap(8),
                             Text(
-                                item.label, 
+                                item.label,
                                 style: TextStyle(fontSize: 12, color: isSelected ? Colors.white : null),
                                 textAlign: TextAlign.center,
                             ),

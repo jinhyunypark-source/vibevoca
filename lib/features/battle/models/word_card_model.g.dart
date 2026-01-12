@@ -14,7 +14,7 @@ _WordCardModel _$WordCardModelFromJson(Map<String, dynamic> json) =>
       exampleSentence: json['exampleSentence'] as String,
       vibeSentences:
           (json['vibeSentences'] as List<dynamic>?)
-              ?.map((e) => e as String)
+              ?.map((e) => VibeDisplayInfo.fromJson(e as Map<String, dynamic>))
               .toList() ??
           const [],
       isMemorized: json['isMemorized'] as bool? ?? false,
@@ -32,4 +32,18 @@ Map<String, dynamic> _$WordCardModelToJson(_WordCardModel instance) =>
       'isMemorized': instance.isMemorized,
       'failCount': instance.failCount,
       'originalDeckId': instance.originalDeckId,
+    };
+
+_VibeDisplayInfo _$VibeDisplayInfoFromJson(Map<String, dynamic> json) =>
+    _VibeDisplayInfo(
+      sentence: json['sentence'] as String,
+      icon: json['icon'] as String?,
+      tagName: json['tagName'] as String?,
+    );
+
+Map<String, dynamic> _$VibeDisplayInfoToJson(_VibeDisplayInfo instance) =>
+    <String, dynamic>{
+      'sentence': instance.sentence,
+      'icon': instance.icon,
+      'tagName': instance.tagName,
     };

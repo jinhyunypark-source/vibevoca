@@ -14,11 +14,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "160924627442-qnbplb7jftgsttskhnss1juh9ua8t1u0.apps.googleusercontent.com",
+          "client_id": "830072949698-1nlgrnos5osdu31urgugh56a403ov6na.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.vibevoca.app",
-            "certificate_hash": "bdb6f520ecea1fca4c662e33563d36e6c0387952"
+            "certificate_hash": "4fe9d4e5d8d08769d1e379d44f125b2ff63a77b7"
+          }
+        },
+        {
+          "client_id": "830072949698-3oa6ajrfcfmrcidtq0t5hjlaoaufq6st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibevoca.app",
+            "certificate_hash": "bd17bcea253f931ad08567f6b9f159d55f2cf5c7"
           }
         }
       ],
@@ -29,12 +37,7 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "160924627442-f7r6ild0e3q441997pme8mbnrresav8r.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

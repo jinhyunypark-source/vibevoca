@@ -4,6 +4,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:vibevoca/core/theme/app_colors.dart';
+import 'package:vibevoca/core/utils/material_icons_mapper.dart';
 import 'package:vibevoca/features/profile/providers/profile_provider.dart';
 import 'package:vibevoca/features/profile/models/job_interest_model.dart';
 
@@ -215,7 +216,7 @@ class _ProfileSetupPageState extends ConsumerState<ProfileSetupPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Icon(
-                  _getIconData(item.icon),
+                  MaterialIconsMapper.getIcon(item.icon),
                   color: isSelected ? Colors.black : Colors.white70,
                   size: 28,
                 ),
@@ -279,7 +280,7 @@ class _ProfileSetupPageState extends ConsumerState<ProfileSetupPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Icon(
-                  _getIconData(item.icon),
+                  MaterialIconsMapper.getIcon(item.icon),
                   color: isSelected ? Colors.black : Colors.white70,
                   size: 28,
                 ),
@@ -301,26 +302,5 @@ class _ProfileSetupPageState extends ConsumerState<ProfileSetupPage> {
         );
       },
     );
-  }
-
-  IconData _getIconData(String? iconName) {
-    if (iconName == null) return Icons.help_outline;
-    switch (iconName) {
-      case 'school': return Icons.school;
-      case 'code': return Icons.code;
-      case 'brush': return Icons.brush;
-      case 'business_center': return Icons.business_center;
-      case 'laptop_mac': return Icons.laptop_mac;
-      case 'person': return Icons.person;
-      case 'flight': return Icons.flight;
-      case 'trending_up': return Icons.trending_up;
-      case 'memory': return Icons.memory;
-      case 'palette': return Icons.palette;
-      case 'theater_comedy': return Icons.theater_comedy;
-      case 'restaurant': return Icons.restaurant;
-      case 'local_cafe': return Icons.local_cafe;
-      case 'import_contacts': return Icons.import_contacts;
-      default: return Icons.category;
-    }
   }
 }

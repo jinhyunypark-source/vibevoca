@@ -1,21 +1,24 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart'; // Added
 import 'package:flutter_animate/flutter_animate.dart';
+import '../../../core/services/tts_service.dart'; // Added
+import '../../../core/utils/material_icons_mapper.dart'; // Added
 import 'dart:math';
 import '../../../core/theme/app_colors.dart';
 import '../models/word_card_model.dart';
 import 'generative_card_background.dart';
 
-class FlashCard extends StatefulWidget {
+class FlashCard extends ConsumerStatefulWidget {
   final WordCardModel card;
   final String? deckIcon;
   final void Function(DismissDirection)? onSwipe;
   const FlashCard({super.key, required this.card, this.deckIcon, this.onSwipe});
 
   @override
-  State<FlashCard> createState() => _FlashCardState();
+  ConsumerState<FlashCard> createState() => _FlashCardState();
 }
 
-class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMixin {
+class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProviderStateMixin {
   late final AnimationController _controller;
   late final Animation<double> _animation;
   bool _isFlipped = false;
@@ -42,6 +45,12 @@ class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMix
       _controller.forward();
     }
     _isFlipped = !_isFlipped;
+  }
+  
+  void _speak(String text) {
+    if (text.isNotEmpty) {
+      ref.read(ttsServiceProvider).speak(text);
+    }
   }
 
   @override
@@ -189,16 +198,32 @@ class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMix
                   child: Column(
                      mainAxisAlignment: MainAxisAlignment.center,
                      children: [
-                        Text(
-                          widget.card.word,
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                            fontSize: 40,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white,
-                            height: 1.1,
-                            shadows: [Shadow(blurRadius: 10, color: Colors.black, offset: Offset(0, 2))],
-                          ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                             Flexible(
+                               child: Text(
+                                 widget.card.word,
+                                 textAlign: TextAlign.center,
+                                 style: const TextStyle(
+                                   fontSize: 40,
+                                   fontWeight: FontWeight.bold,
+                                   color: Colors.white,
+                                   height: 1.1,
+                                   shadows: [Shadow(blurRadius: 10, color: Colors.black, offset: Offset(0, 2))],
+                                 ),
+                               ),
+                             ),
+                             const SizedBox(width: 8),
+                             GestureDetector(
+                               onTap: () => _speak(widget.card.word),
+                               child: Container(
+                                 padding: const EdgeInsets.all(8),
+                                 decoration: BoxDecoration(color: Colors.white24, shape: BoxShape.circle),
+                                 child: const Icon(Icons.volume_up_rounded, color: Colors.white, size: 24),
+                               ),
+                             )
+                          ]
                         ),
                      ],
                   ),
@@ -258,10 +283,22 @@ class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMix
               child: _buildZonedPage(
                 topContent: Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 24.0),
-                  child: Text(
-                    widget.card.word,
-                    style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: AppColors.accent),
-                    textAlign: TextAlign.center,
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Flexible(
+                        child: Text(
+                          widget.card.word,
+                          style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: AppColors.accent),
+                          textAlign: TextAlign.center,
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      GestureDetector(
+                        onTap: () => _speak(widget.card.word),
+                        child: const Icon(Icons.volume_up_rounded, color: AppColors.accent, size: 20),
+                      ),
+                    ],
                   ),
                 ),
                 middleContent: Padding(
@@ -275,24 +312,19 @@ class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMix
                         textAlign: TextAlign.center,
                       ),
                       const Divider(color: Colors.white24, height: 40),
-                      Text(
-                        "\"${widget.card.exampleSentence}\"",
-                        style: const TextStyle(fontSize: 16, color: Colors.white70, fontStyle: FontStyle.italic),
-                        textAlign: TextAlign.center,
-                      ),
+                      
+                      // Sentence Logic: Prioritize Vibe Sentences. If empty, fallback to exampleSentence.
                       if (widget.card.vibeSentences.isNotEmpty) ...[
-                         const SizedBox(height: 24),
-                         Container(
-                           padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                           decoration: BoxDecoration(color: AppColors.primary.withOpacity(0.2), borderRadius: BorderRadius.circular(6)),
-                           child: const Text("Vibe Context", style: TextStyle(color: AppColors.primary, fontWeight: FontWeight.bold, fontSize: 12)),
-                         ),
-                         const SizedBox(height: 12),
-                         ...widget.card.vibeSentences.map((s) => Padding(
-                           padding: const EdgeInsets.only(bottom: 12.0),
-                           child: Text("\"$s\"", style: const TextStyle(fontSize: 15, color: Colors.white, fontWeight: FontWeight.w500, height: 1.4), textAlign: TextAlign.center),
-                         )),
-                       ],
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                            decoration: BoxDecoration(color: AppColors.primary.withOpacity(0.2), borderRadius: BorderRadius.circular(6)),
+                            child: const Text("Vibe Context", style: TextStyle(color: AppColors.primary, fontWeight: FontWeight.bold, fontSize: 12)),
+                          ),
+                          const SizedBox(height: 12),
+                          ...widget.card.vibeSentences.map((info) => _buildSentenceWithSpeaker(info.sentence, iconName: info.icon)),
+                      ] else ...[
+                          _buildSentenceWithSpeaker(widget.card.exampleSentence),
+                      ],
                        const SizedBox(height: 20),
                     ],
                   ),
@@ -307,5 +339,33 @@ class _FlashCardState extends State<FlashCard> with SingleTickerProviderStateMix
         ),
       ),
     );
+  }
+
+  Widget _buildSentenceWithSpeaker(String text, {String? iconName}) {
+     return Padding(
+       padding: const EdgeInsets.only(bottom: 16.0),
+       child: Column(
+         children: [
+            if (iconName != null)
+               Padding(
+                 padding: const EdgeInsets.only(bottom: 4),
+                 child: Icon(MaterialIconsMapper.getIcon(iconName), size: 20, color: AppColors.primary.withOpacity(0.8)),
+               ),
+            Text(
+              "\"$text\"",
+              style: const TextStyle(fontSize: 16, color: Colors.white, height: 1.4, fontStyle: FontStyle.italic),
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: 4),
+            GestureDetector(
+              onTap: () => _speak(text),
+              child: Container(
+                padding: const EdgeInsets.all(8), // Touch target
+                child: const Icon(Icons.volume_up_rounded, color: Colors.white54, size: 20),
+              ),
+            ),
+         ],
+       ),
+     );
   }
 }

@@ -5,6 +5,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:go_router/go_router.dart';
 import 'package:gap/gap.dart';
 import '../../../core/theme/app_colors.dart';
+import '../../../core/utils/material_icons_mapper.dart';
 import '../context/models/deck_group.dart';
 import '../context/providers/context_provider.dart';
 import 'providers/battle_provider.dart';
@@ -48,91 +49,6 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
     super.dispose();
   }
 
-  IconData _getIcon(String iconKey) {
-     switch (iconKey) {
-      // === Contexts ===
-      // Place
-      case 'home': return Icons.home;
-      case 'work': return Icons.work;
-      case 'directions_transit': return Icons.directions_transit;
-      case 'train': return Icons.directions_subway;
-      case 'coffee': return Icons.coffee;
-      // Emotion
-      case 'sentiment_very_satisfied': return Icons.sentiment_very_satisfied;
-      case 'sentiment_very_dissatisfied': return Icons.sentiment_very_dissatisfied;
-      case 'mood_bad': return Icons.mood_bad;
-      case 'battery_alert': return Icons.battery_alert;
-      // Environment
-      case 'wb_sunny': return Icons.wb_sunny;
-      case 'water_drop': return Icons.water_drop;
-      case 'local_fire_department': return Icons.local_fire_department;
-      case 'ac_unit': return Icons.ac_unit;
-      case 'thermostat': return Icons.thermostat;
-      // === Decks (Material Icons from DB) ===
-      // Communication
-      case 'psychology': return Icons.psychology;
-      case 'record_voice_over': return Icons.record_voice_over;
-      case 'sentiment_satisfied': return Icons.sentiment_satisfied;
-      case 'short_text': return Icons.short_text;
-      case 'handshake': return Icons.handshake;
-      // Sense & Style
-      case 'visibility': return Icons.visibility;
-      case 'hearing': return Icons.hearing;
-      case 'restaurant': return Icons.restaurant;
-      case 'air': return Icons.air;
-      case 'touch_app': return Icons.touch_app;
-      case 'palette': return Icons.palette;
-      // Intelligence & Judgment
-      case 'lightbulb': return Icons.lightbulb;
-      case 'self_improvement': return Icons.self_improvement;
-      case 'tips_and_updates': return Icons.tips_and_updates;
-      case 'block': return Icons.block;
-      case 'help_outline': return Icons.help_outline;
-      // Relationships & Social
-      case 'favorite': return Icons.favorite;
-      case 'groups': return Icons.groups;
-      case 'diversity_3': return Icons.diversity_3;
-      case 'remove_circle': return Icons.remove_circle;
-      case 'person': return Icons.person;
-      case 'diamond': return Icons.diamond;
-      // Change & Growth
-      case 'trending_up': return Icons.trending_up;
-      case 'trending_down': return Icons.trending_down;
-      case 'autorenew': return Icons.autorenew;
-      case 'swap_vert': return Icons.swap_vert;
-      case 'replay': return Icons.replay;
-      // Difficulty & Complexity
-      case 'fitness_center': return Icons.fitness_center;
-      case 'spa': return Icons.spa;
-      case 'hub': return Icons.hub;
-      case 'circle': return Icons.circle;
-      // Power & Authority
-      case 'gavel': return Icons.gavel;
-      case 'volunteer_activism': return Icons.volunteer_activism;
-      case 'military_tech': return Icons.military_tech;
-      case 'diversity_1': return Icons.diversity_1;
-      // Size & Quantity
-      case 'open_in_full': return Icons.open_in_full;
-      case 'close_fullscreen': return Icons.close_fullscreen;
-      case 'inventory_2': return Icons.inventory_2;
-      case 'inventory': return Icons.inventory;
-      case 'zoom_out_map': return Icons.zoom_out_map;
-      // Money & Finance
-      case 'account_balance': return Icons.account_balance;
-      case 'money_off': return Icons.money_off;
-      case 'savings': return Icons.savings;
-      case 'sell': return Icons.sell;
-      case 'payments': return Icons.payments;
-      // Time & Duration
-      case 'all_inclusive': return Icons.all_inclusive;
-      case 'hourglass_empty': return Icons.hourglass_empty;
-      case 'repeat': return Icons.repeat;
-      case 'speed': return Icons.speed;
-      case 'timeline': return Icons.timeline;
-      case 'schedule': return Icons.schedule;
-      default: return Icons.help_outline;
-    }
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -146,6 +62,11 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
       error: (err, stack) => Scaffold(backgroundColor: AppColors.background, body: Center(child: Text('Error: $err', style: const TextStyle(color: Colors.white)))),
       data: (session) {
           final isCleared = session.isCleared; 
+          
+          // --- Empty Review Session Check ---
+          if (widget.deckGroup?.id == 'Review_Session' && session.totalInitialCount == 0) {
+            return _buildEmptyReviewScreen(context);
+          }
           
           if (isCleared) {
             return _buildVictoryScreen(context);
@@ -216,7 +137,7 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             IconButton(
-                              icon: const Icon(Icons.close, color: Colors.white54), 
+                              icon: const Icon(Icons.arrow_back, color: Colors.white54), 
                               onPressed: () {
                                 if (context.canPop()) {
                                   context.pop();
@@ -430,8 +351,8 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                                   shape: BoxShape.circle,
                                 ),
                                 child: Icon(
-                                  _getIcon(item.iconAsset), 
-                                  size: 20, 
+                                  MaterialIconsMapper.getIcon(item.iconAsset),
+                                  size: 20,
                                   color: Colors.white70
                                 ),
                               ),
@@ -488,7 +409,7 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
     if (iconKey.runes.length <= 2) {
        return Text(iconKey, style: const TextStyle(fontSize: 40));
     }
-    return Icon(_getIcon(iconKey), size: 40, color: Colors.white);
+    return Icon(MaterialIconsMapper.getIcon(iconKey), size: 40, color: Colors.white);
   }
 
   Widget _buildVictoryScreen(BuildContext context) {
@@ -551,6 +472,71 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
         ),
       ),
     );  
+  }
+  Widget _buildEmptyReviewScreen(BuildContext context) {
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      body: Center(
+        child: Padding(
+          padding: const EdgeInsets.all(30.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+               Container(
+                 padding: const EdgeInsets.all(30),
+                 decoration: BoxDecoration(
+                   color: Colors.white.withOpacity(0.05),
+                   shape: BoxShape.circle,
+                 ),
+                 child: const Icon(Icons.playlist_add_check, size: 80, color: Colors.white24),
+               ).animate().scale(duration: 800.ms, curve: Curves.easeOutBack),
+               
+               const Gap(30),
+               
+               const Text(
+                 "복습할 단어가 없습니다",
+                 style: TextStyle(
+                   fontSize: 24, 
+                   fontWeight: FontWeight.bold, 
+                   color: Colors.white,
+                   letterSpacing: 1.0
+                 ),
+               ).animate().fadeIn().moveY(begin: 10, end: 0),
+               
+               const Gap(16),
+               
+               const Text(
+                 "단어 카드를 위로 스와이프해서\n복습 목록에 추가해보세요!",
+                 textAlign: TextAlign.center,
+                 style: TextStyle(
+                   fontSize: 16, 
+                   color: Colors.white54, 
+                   height: 1.6
+                 ),
+               ).animate().fadeIn(delay: 200.ms),
+               
+               const Gap(50),
+               
+               ElevatedButton(
+                 onPressed: () {
+                   if (context.mounted) {
+                     context.go('/deck-selection');
+                   }
+                 },
+                 style: ElevatedButton.styleFrom(
+                   backgroundColor: AppColors.primary,
+                   foregroundColor: Colors.white,
+                   padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 16),
+                   shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
+                   elevation: 4,
+                 ),
+                 child: const Text("로비로 돌아가기", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+               ).animate().fadeIn(delay: 400.ms).moveY(begin: 20, end: 0),
+            ],
+          ),
+        ),
+      ),
+    );
   }
 }
 

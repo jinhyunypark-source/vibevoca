@@ -4,6 +4,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:go_router/go_router.dart';
 import 'package:gap/gap.dart';
 import '../../../core/theme/app_colors.dart';
+import '../../../core/utils/material_icons_mapper.dart';
 import 'providers/context_provider.dart';
 import 'models/context_item.dart';
 import 'providers/deck_collection_provider.dart';
@@ -96,7 +97,7 @@ class ContextInitPage extends ConsumerWidget {
                                mainAxisAlignment: MainAxisAlignment.center,
                                children: [
                                   Icon(
-                                    _getIcon(item.iconAsset),
+                                    MaterialIconsMapper.getIcon(item.iconAsset),
                                     color: isSelected ? Colors.white : Colors.white24,
                                     size: 32
                                   ),
@@ -186,28 +187,6 @@ class ContextInitPage extends ConsumerWidget {
         ),
       ),
     );
-  }
-
-  // Icon Helper
-  IconData _getIcon(String iconKey) {
-     switch (iconKey) {
-      case 'home': return Icons.home;
-      case 'work': return Icons.work;
-      case 'directions_transit': return Icons.directions_transit;
-      case 'train': return Icons.directions_subway; // Map 'train' to subway icon
-      case 'coffee': return Icons.coffee;
-      case 'sentiment_very_satisfied': return Icons.sentiment_very_satisfied;
-      case 'sentiment_very_dissatisfied': return Icons.sentiment_very_dissatisfied;
-      case 'mood_bad': return Icons.mood_bad;
-      case 'battery_alert': return Icons.battery_alert;
-      case 'self_improvement': return Icons.self_improvement;
-      case 'wb_sunny': return Icons.wb_sunny;
-      case 'water_drop': return Icons.water_drop;
-      case 'local_fire_department': return Icons.local_fire_department;
-      case 'ac_unit': return Icons.ac_unit;
-      case 'thermostat': return Icons.thermostat;
-      default: return Icons.help_outline;
-    }
   }
 } // End of ContextInitPage class
 

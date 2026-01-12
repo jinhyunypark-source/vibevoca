@@ -7,14 +7,20 @@ import 'package:vibevoca/core/theme/app_colors.dart';
 import 'package:vibevoca/features/auth/providers/auth_provider.dart';
 import 'package:vibevoca/features/context/providers/deck_collection_provider.dart'; // For supabaseRepositoryProvider
 
-class LoginPage extends ConsumerWidget {
+class LoginPage extends ConsumerStatefulWidget {
   const LoginPage({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<LoginPage> createState() => _LoginPageState();
+}
+
+class _LoginPageState extends ConsumerState<LoginPage> {
+  bool _isSigningIn = false;
+
+  @override
+  Widget build(BuildContext context) {
     final authState = ref.watch(authProvider);
 
-    // Listen for successful login handling
     // Listen for successful login handling
     ref.listen(authProvider, (previous, next) async {
       if (next.hasValue && next.value != null) {
@@ -28,10 +34,16 @@ class LoginPage extends ConsumerWidget {
         if (context.mounted) {
           // If profile exists and has interest_ids (meaning setup completed at least once)
           // Redirect to Context Selection.
-          // Always go to Profile Setup as per requested flow
-          context.go('/profile-setup');
+          if (profile != null && profile.interestIds.isNotEmpty) {
+             context.go('/context-selection');
+          } else {
+             context.go('/profile-setup');
+          }
         }
       } else if (next.hasError) {
+        if (mounted) {
+          setState(() => _isSigningIn = false);
+        }
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(content: Text('Login Failed: ${next.error}')),
         );
@@ -93,45 +105,99 @@ class LoginPage extends ConsumerWidget {
 
               const Spacer(),
 
-              // Google Sign-In Button
-              if (authState.isLoading)
-                const Center(child: CircularProgressIndicator(color: AppColors.primary))
+              // Primary Action: Start as Guest
+              ElevatedButton(
+                onPressed: _isSigningIn ? null : () => context.go('/context-selection'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: AppColors.primary,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(vertical: 18),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(30),
+                  ),
+                  elevation: 8,
+                  shadowColor: AppColors.primary.withOpacity(0.5),
+                ),
+                child: const Text(
+                  "Start as Guest",
+                  style: TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    letterSpacing: 0.5,
+                  ),
+                ),
+              ).animate().fadeIn(delay: 400.ms).moveY(begin: 20, end: 0),
+
+              const Gap(20),
+
+              // Secondary Action: Google Sign In (Handles Sign Up too)
+              if (authState.isLoading || _isSigningIn)
+                const Center(
+                  child: SizedBox(
+                    width: 24,
+                    height: 24,
+                    child: CircularProgressIndicator(
+                      color: AppColors.primary,
+                      strokeWidth: 2.5,
+                    ),
+                  )
+                )
               else
-                ElevatedButton.icon(
-                  onPressed: () {
-                    ref.read(authProvider.notifier).signInWithGoogle();
+                OutlinedButton.icon(
+                  onPressed: () async {
+                    setState(() => _isSigningIn = true);
+                    try {
+                      await ref.read(authProvider.notifier).signInWithGoogle();
+                    } catch (e) {
+                      if (mounted) {
+                        setState(() => _isSigningIn = false);
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(content: Text('Sign in failed: $e')),
+                        );
+                      }
+                    }
+                    // Safety check: if after delay we are still here and no user, stop loading.
+                    // But usually listener handles success.
+                    if (mounted) {
+                       // Give it a moment? No, rely on listener.
+                       // Use a timeout just in case?
+                       /* 
+                       Future.delayed(const Duration(seconds: 10), () {
+                          if (mounted && _isSigningIn) {
+                             setState(() => _isSigningIn = false);
+                          }
+                       });
+                       */
+                    }
                   },
                   icon: Image.asset(
-                     // We might need a google logo asset, using standard icon for now if asset missing
-                     // or creating a placeholder
-                    'assets/images/google_logo.png', 
+                    'assets/images/google_logo.png', // Ensure this asset exists or use Icon
                     height: 24,
-                    errorBuilder: (ctx, _, __) => const Icon(Icons.login, color: Colors.black),
+                    errorBuilder: (ctx, _, __) => const Icon(Icons.login, color: Colors.white),
                   ),
                   label: const Text(
-                    "Sign in with Google",
+                    "Continue with Google",
                     style: TextStyle(
-                      color: Colors.black87,
+                      color: Colors.white,
                       fontSize: 16,
-                      fontWeight: FontWeight.bold,
+                      fontWeight: FontWeight.w600,
                     ),
                   ),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.white,
-                    foregroundColor: Colors.black87,
+                  style: OutlinedButton.styleFrom(
+                    side: const BorderSide(color: Colors.white30, width: 1.5),
                     padding: const EdgeInsets.symmetric(vertical: 16),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(30),
                     ),
                   ),
-                ).animate().fadeIn(delay: 400.ms).moveY(begin: 20, end: 0),
+                ).animate().fadeIn(delay: 600.ms).moveY(begin: 20, end: 0),
               
-              const Gap(20),
-              
-              // Skip option (optional)
-              TextButton(
-                onPressed: () => context.go('/context-selection'),
-                child: const Text("Continue as Guest", style: TextStyle(color: Colors.white54)),
+              const Gap(10),
+              const Center(
+                child: Text(
+                  "Sign in to sync your progress across devices",
+                  style: TextStyle(color: Colors.white38, fontSize: 12),
+                ),
               ),
               
               const Gap(40),

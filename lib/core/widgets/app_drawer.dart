@@ -97,6 +97,11 @@ class AppDrawer extends ConsumerWidget {
                   icon: Icons.cloud_upload,
                   title: "Backup to Cloud",
                   onTap: () async {
+                    if (user == null) {
+                       _showGuestRestrictionDialog(context);
+                       return;
+                    }
+
                     // Show Loading Dialog (on top of Drawer)
                     showDialog(
                       context: context,
@@ -163,6 +168,10 @@ class AppDrawer extends ConsumerWidget {
                   title: "Restore from Cloud",
                   color: AppColors.warning,
                   onTap: () {
+                    if (user == null) {
+                       _showGuestRestrictionDialog(context);
+                       return;
+                    }
                     // Do not close drawer immediately to keep context valid
                     _showRestoreDialog(context, ref);
                   },
@@ -175,7 +184,7 @@ class AppDrawer extends ConsumerWidget {
                   color: AppColors.fail,
                   onTap: () {
                     // Do not close drawer immediately to keep context valid
-                    _showResetDialog(context, ref, l10n);
+                    _showResetDialog(context, ref, l10n, user != null);
                   },
                 ),
               ],
@@ -192,7 +201,28 @@ class AppDrawer extends ConsumerWidget {
     );
   }
 
-  void _showResetDialog(BuildContext context, WidgetRef ref, AppLocalizations l10n) {
+  void _showGuestRestrictionDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: AppColors.surface,
+        title: const Text("Guest Feature", style: TextStyle(color: Colors.white)),
+        content: const Text("Cloud features are not available for guests. Would you like to go to the login screen?", style: TextStyle(color: Colors.white70)),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(ctx), child: const Text("Cancel")),
+          TextButton(
+            onPressed: () {
+              Navigator.pop(ctx);
+              context.go('/login');
+            },
+            child: const Text("Go to Login", style: TextStyle(color: AppColors.primary)),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _showResetDialog(BuildContext context, WidgetRef ref, AppLocalizations l10n, bool isUser) {
     showDialog(
       context: context,
       builder: (ctx) => AlertDialog(
@@ -209,15 +239,20 @@ class AppDrawer extends ConsumerWidget {
                Navigator.pop(ctx); 
                
                try {
-                 // 1. Reset Data
                  ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Resetting all data...")));
                  
-                 await ref.read(sessionServiceProvider).resetAllData();
+                 if (isUser) {
+                    // 1. Full Reset (Cloud + Local)
+                    await ref.read(sessionServiceProvider).resetAllData();
+                 } else {
+                    // 2. Local Reset Only (Guest)
+                    await ref.read(sessionServiceProvider).clearLocalData();
+                 }
                  
                  if (context.mounted) {
                     ScaffoldMessenger.of(context).hideCurrentSnackBar();
                     
-                    // 2. Show Success Dialog (Green)
+                    // Show Success Dialog
                     await showDialog(
                       context: context,
                       barrierDismissible: false,
@@ -240,8 +275,10 @@ class AppDrawer extends ConsumerWidget {
                     
                     await Future.delayed(const Duration(seconds: 1));
                     
-                    // 3. Logout & Navigate
-                    await Supabase.instance.client.auth.signOut();
+                    // Navigate to Login/Start
+                    if (isUser) {
+                        await Supabase.instance.client.auth.signOut();
+                    }
                     if (context.mounted) {
                        context.go('/login');
                     }

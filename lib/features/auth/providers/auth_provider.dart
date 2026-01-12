@@ -12,7 +12,7 @@ part 'auth_provider.g.dart';
 class Auth extends _$Auth {
   final _googleSignIn = gsi.GoogleSignIn(
     // TODO: Replace with your actual Web Client ID
-    serverClientId: '160924627442-f7r6ild0e3q441997pme8mbnrresav8r.apps.googleusercontent.com', 
+    serverClientId: '830072949698-midq7i26a9huoa635mkltc3lo890r0up.apps.googleusercontent.com', 
   );
 
   @override

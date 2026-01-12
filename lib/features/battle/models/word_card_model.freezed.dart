@@ -16,7 +16,7 @@ T _$identity<T>(T value) => value;
 mixin _$WordCardModel {
 
  String get id; String get word; String get meaning; String get exampleSentence;// "AI Generated" context
- List<String> get vibeSentences; bool get isMemorized; int get failCount; String? get originalDeckId;
+ List<VibeDisplayInfo> get vibeSentences; bool get isMemorized; int get failCount; String? get originalDeckId;
 /// Create a copy of WordCardModel
 /// with the given fields replaced by the non-null parameter values.
 @JsonKey(includeFromJson: false, includeToJson: false)
@@ -49,7 +49,7 @@ abstract mixin class $WordCardModelCopyWith<$Res>  {
   factory $WordCardModelCopyWith(WordCardModel value, $Res Function(WordCardModel) _then) = _$WordCardModelCopyWithImpl;
 @useResult
 $Res call({
- String id, String word, String meaning, String exampleSentence, List<String> vibeSentences, bool isMemorized, int failCount, String? originalDeckId
+ String id, String word, String meaning, String exampleSentence, List<VibeDisplayInfo> vibeSentences, bool isMemorized, int failCount, String? originalDeckId
 });
 
 
@@ -73,7 +73,7 @@ as String,word: null == word ? _self.word : word // ignore: cast_nullable_to_non
 as String,meaning: null == meaning ? _self.meaning : meaning // ignore: cast_nullable_to_non_nullable
 as String,exampleSentence: null == exampleSentence ? _self.exampleSentence : exampleSentence // ignore: cast_nullable_to_non_nullable
 as String,vibeSentences: null == vibeSentences ? _self.vibeSentences : vibeSentences // ignore: cast_nullable_to_non_nullable
-as List<String>,isMemorized: null == isMemorized ? _self.isMemorized : isMemorized // ignore: cast_nullable_to_non_nullable
+as List<VibeDisplayInfo>,isMemorized: null == isMemorized ? _self.isMemorized : isMemorized // ignore: cast_nullable_to_non_nullable
 as bool,failCount: null == failCount ? _self.failCount : failCount // ignore: cast_nullable_to_non_nullable
 as int,originalDeckId: freezed == originalDeckId ? _self.originalDeckId : originalDeckId // ignore: cast_nullable_to_non_nullable
 as String?,
@@ -161,7 +161,7 @@ return $default(_that);case _:
 /// }
 /// ```
 
-@optionalTypeArgs TResult maybeWhen<TResult extends Object?>(TResult Function( String id,  String word,  String meaning,  String exampleSentence,  List<String> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)?  $default,{required TResult orElse(),}) {final _that = this;
+@optionalTypeArgs TResult maybeWhen<TResult extends Object?>(TResult Function( String id,  String word,  String meaning,  String exampleSentence,  List<VibeDisplayInfo> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)?  $default,{required TResult orElse(),}) {final _that = this;
 switch (_that) {
 case _WordCardModel() when $default != null:
 return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vibeSentences,_that.isMemorized,_that.failCount,_that.originalDeckId);case _:
@@ -182,7 +182,7 @@ return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vi
 /// }
 /// ```
 
-@optionalTypeArgs TResult when<TResult extends Object?>(TResult Function( String id,  String word,  String meaning,  String exampleSentence,  List<String> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)  $default,) {final _that = this;
+@optionalTypeArgs TResult when<TResult extends Object?>(TResult Function( String id,  String word,  String meaning,  String exampleSentence,  List<VibeDisplayInfo> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)  $default,) {final _that = this;
 switch (_that) {
 case _WordCardModel():
 return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vibeSentences,_that.isMemorized,_that.failCount,_that.originalDeckId);case _:
@@ -202,7 +202,7 @@ return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vi
 /// }
 /// ```
 
-@optionalTypeArgs TResult? whenOrNull<TResult extends Object?>(TResult? Function( String id,  String word,  String meaning,  String exampleSentence,  List<String> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)?  $default,) {final _that = this;
+@optionalTypeArgs TResult? whenOrNull<TResult extends Object?>(TResult? Function( String id,  String word,  String meaning,  String exampleSentence,  List<VibeDisplayInfo> vibeSentences,  bool isMemorized,  int failCount,  String? originalDeckId)?  $default,) {final _that = this;
 switch (_that) {
 case _WordCardModel() when $default != null:
 return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vibeSentences,_that.isMemorized,_that.failCount,_that.originalDeckId);case _:
@@ -217,7 +217,7 @@ return $default(_that.id,_that.word,_that.meaning,_that.exampleSentence,_that.vi
 @JsonSerializable()
 
 class _WordCardModel implements WordCardModel {
-  const _WordCardModel({required this.id, required this.word, required this.meaning, required this.exampleSentence, final  List<String> vibeSentences = const [], this.isMemorized = false, this.failCount = 0, this.originalDeckId}): _vibeSentences = vibeSentences;
+  const _WordCardModel({required this.id, required this.word, required this.meaning, required this.exampleSentence, final  List<VibeDisplayInfo> vibeSentences = const [], this.isMemorized = false, this.failCount = 0, this.originalDeckId}): _vibeSentences = vibeSentences;
   factory _WordCardModel.fromJson(Map<String, dynamic> json) => _$WordCardModelFromJson(json);
 
 @override final  String id;
@@ -225,9 +225,9 @@ class _WordCardModel implements WordCardModel {
 @override final  String meaning;
 @override final  String exampleSentence;
 // "AI Generated" context
- final  List<String> _vibeSentences;
+ final  List<VibeDisplayInfo> _vibeSentences;
 // "AI Generated" context
-@override@JsonKey() List<String> get vibeSentences {
+@override@JsonKey() List<VibeDisplayInfo> get vibeSentences {
   if (_vibeSentences is EqualUnmodifiableListView) return _vibeSentences;
   // ignore: implicit_dynamic_type
   return EqualUnmodifiableListView(_vibeSentences);
@@ -270,7 +270,7 @@ abstract mixin class _$WordCardModelCopyWith<$Res> implements $WordCardModelCopy
   factory _$WordCardModelCopyWith(_WordCardModel value, $Res Function(_WordCardModel) _then) = __$WordCardModelCopyWithImpl;
 @override @useResult
 $Res call({
- String id, String word, String meaning, String exampleSentence, List<String> vibeSentences, bool isMemorized, int failCount, String? originalDeckId
+ String id, String word, String meaning, String exampleSentence, List<VibeDisplayInfo> vibeSentences, bool isMemorized, int failCount, String? originalDeckId
 });
 
 
@@ -294,9 +294,280 @@ as String,word: null == word ? _self.word : word // ignore: cast_nullable_to_non
 as String,meaning: null == meaning ? _self.meaning : meaning // ignore: cast_nullable_to_non_nullable
 as String,exampleSentence: null == exampleSentence ? _self.exampleSentence : exampleSentence // ignore: cast_nullable_to_non_nullable
 as String,vibeSentences: null == vibeSentences ? _self._vibeSentences : vibeSentences // ignore: cast_nullable_to_non_nullable
-as List<String>,isMemorized: null == isMemorized ? _self.isMemorized : isMemorized // ignore: cast_nullable_to_non_nullable
+as List<VibeDisplayInfo>,isMemorized: null == isMemorized ? _self.isMemorized : isMemorized // ignore: cast_nullable_to_non_nullable
 as bool,failCount: null == failCount ? _self.failCount : failCount // ignore: cast_nullable_to_non_nullable
 as int,originalDeckId: freezed == originalDeckId ? _self.originalDeckId : originalDeckId // ignore: cast_nullable_to_non_nullable
+as String?,
+  ));
+}
+
+
+}
+
+
+/// @nodoc
+mixin _$VibeDisplayInfo {
+
+ String get sentence; String? get icon;// Material Icon name string
+ String? get tagName;
+/// Create a copy of VibeDisplayInfo
+/// with the given fields replaced by the non-null parameter values.
+@JsonKey(includeFromJson: false, includeToJson: false)
+@pragma('vm:prefer-inline')
+$VibeDisplayInfoCopyWith<VibeDisplayInfo> get copyWith => _$VibeDisplayInfoCopyWithImpl<VibeDisplayInfo>(this as VibeDisplayInfo, _$identity);
+
+  /// Serializes this VibeDisplayInfo to a JSON map.
+  Map<String, dynamic> toJson();
+
+
+@override
+bool operator ==(Object other) {
+  return identical(this, other) || (other.runtimeType == runtimeType&&other is VibeDisplayInfo&&(identical(other.sentence, sentence) || other.sentence == sentence)&&(identical(other.icon, icon) || other.icon == icon)&&(identical(other.tagName, tagName) || other.tagName == tagName));
+}
+
+@JsonKey(includeFromJson: false, includeToJson: false)
+@override
+int get hashCode => Object.hash(runtimeType,sentence,icon,tagName);
+
+@override
+String toString() {
+  return 'VibeDisplayInfo(sentence: $sentence, icon: $icon, tagName: $tagName)';
+}
+
+
+}
+
+/// @nodoc
+abstract mixin class $VibeDisplayInfoCopyWith<$Res>  {
+  factory $VibeDisplayInfoCopyWith(VibeDisplayInfo value, $Res Function(VibeDisplayInfo) _then) = _$VibeDisplayInfoCopyWithImpl;
+@useResult
+$Res call({
+ String sentence, String? icon, String? tagName
+});
+
+
+
+
+}
+/// @nodoc
+class _$VibeDisplayInfoCopyWithImpl<$Res>
+    implements $VibeDisplayInfoCopyWith<$Res> {
+  _$VibeDisplayInfoCopyWithImpl(this._self, this._then);
+
+  final VibeDisplayInfo _self;
+  final $Res Function(VibeDisplayInfo) _then;
+
+/// Create a copy of VibeDisplayInfo
+/// with the given fields replaced by the non-null parameter values.
+@pragma('vm:prefer-inline') @override $Res call({Object? sentence = null,Object? icon = freezed,Object? tagName = freezed,}) {
+  return _then(_self.copyWith(
+sentence: null == sentence ? _self.sentence : sentence // ignore: cast_nullable_to_non_nullable
+as String,icon: freezed == icon ? _self.icon : icon // ignore: cast_nullable_to_non_nullable
+as String?,tagName: freezed == tagName ? _self.tagName : tagName // ignore: cast_nullable_to_non_nullable
+as String?,
+  ));
+}
+
+}
+
+
+/// Adds pattern-matching-related methods to [VibeDisplayInfo].
+extension VibeDisplayInfoPatterns on VibeDisplayInfo {
+/// A variant of `map` that fallback to returning `orElse`.
+///
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case final Subclass value:
+///     return ...;
+///   case _:
+///     return orElse();
+/// }
+/// ```
+
+@optionalTypeArgs TResult maybeMap<TResult extends Object?>(TResult Function( _VibeDisplayInfo value)?  $default,{required TResult orElse(),}){
+final _that = this;
+switch (_that) {
+case _VibeDisplayInfo() when $default != null:
+return $default(_that);case _:
+  return orElse();
+
+}
+}
+/// A `switch`-like method, using callbacks.
+///
+/// Callbacks receives the raw object, upcasted.
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case final Subclass value:
+///     return ...;
+///   case final Subclass2 value:
+///     return ...;
+/// }
+/// ```
+
+@optionalTypeArgs TResult map<TResult extends Object?>(TResult Function( _VibeDisplayInfo value)  $default,){
+final _that = this;
+switch (_that) {
+case _VibeDisplayInfo():
+return $default(_that);case _:
+  throw StateError('Unexpected subclass');
+
+}
+}
+/// A variant of `map` that fallback to returning `null`.
+///
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case final Subclass value:
+///     return ...;
+///   case _:
+///     return null;
+/// }
+/// ```
+
+@optionalTypeArgs TResult? mapOrNull<TResult extends Object?>(TResult? Function( _VibeDisplayInfo value)?  $default,){
+final _that = this;
+switch (_that) {
+case _VibeDisplayInfo() when $default != null:
+return $default(_that);case _:
+  return null;
+
+}
+}
+/// A variant of `when` that fallback to an `orElse` callback.
+///
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case Subclass(:final field):
+///     return ...;
+///   case _:
+///     return orElse();
+/// }
+/// ```
+
+@optionalTypeArgs TResult maybeWhen<TResult extends Object?>(TResult Function( String sentence,  String? icon,  String? tagName)?  $default,{required TResult orElse(),}) {final _that = this;
+switch (_that) {
+case _VibeDisplayInfo() when $default != null:
+return $default(_that.sentence,_that.icon,_that.tagName);case _:
+  return orElse();
+
+}
+}
+/// A `switch`-like method, using callbacks.
+///
+/// As opposed to `map`, this offers destructuring.
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case Subclass(:final field):
+///     return ...;
+///   case Subclass2(:final field2):
+///     return ...;
+/// }
+/// ```
+
+@optionalTypeArgs TResult when<TResult extends Object?>(TResult Function( String sentence,  String? icon,  String? tagName)  $default,) {final _that = this;
+switch (_that) {
+case _VibeDisplayInfo():
+return $default(_that.sentence,_that.icon,_that.tagName);case _:
+  throw StateError('Unexpected subclass');
+
+}
+}
+/// A variant of `when` that fallback to returning `null`
+///
+/// It is equivalent to doing:
+/// ```dart
+/// switch (sealedClass) {
+///   case Subclass(:final field):
+///     return ...;
+///   case _:
+///     return null;
+/// }
+/// ```
+
+@optionalTypeArgs TResult? whenOrNull<TResult extends Object?>(TResult? Function( String sentence,  String? icon,  String? tagName)?  $default,) {final _that = this;
+switch (_that) {
+case _VibeDisplayInfo() when $default != null:
+return $default(_that.sentence,_that.icon,_that.tagName);case _:
+  return null;
+
+}
+}
+
+}
+
+/// @nodoc
+@JsonSerializable()
+
+class _VibeDisplayInfo implements VibeDisplayInfo {
+  const _VibeDisplayInfo({required this.sentence, this.icon, this.tagName});
+  factory _VibeDisplayInfo.fromJson(Map<String, dynamic> json) => _$VibeDisplayInfoFromJson(json);
+
+@override final  String sentence;
+@override final  String? icon;
+// Material Icon name string
+@override final  String? tagName;
+
+/// Create a copy of VibeDisplayInfo
+/// with the given fields replaced by the non-null parameter values.
+@override @JsonKey(includeFromJson: false, includeToJson: false)
+@pragma('vm:prefer-inline')
+_$VibeDisplayInfoCopyWith<_VibeDisplayInfo> get copyWith => __$VibeDisplayInfoCopyWithImpl<_VibeDisplayInfo>(this, _$identity);
+
+@override
+Map<String, dynamic> toJson() {
+  return _$VibeDisplayInfoToJson(this, );
+}
+
+@override
+bool operator ==(Object other) {
+  return identical(this, other) || (other.runtimeType == runtimeType&&other is _VibeDisplayInfo&&(identical(other.sentence, sentence) || other.sentence == sentence)&&(identical(other.icon, icon) || other.icon == icon)&&(identical(other.tagName, tagName) || other.tagName == tagName));
+}
+
+@JsonKey(includeFromJson: false, includeToJson: false)
+@override
+int get hashCode => Object.hash(runtimeType,sentence,icon,tagName);
+
+@override
+String toString() {
+  return 'VibeDisplayInfo(sentence: $sentence, icon: $icon, tagName: $tagName)';
+}
+
+
+}
+
+/// @nodoc
+abstract mixin class _$VibeDisplayInfoCopyWith<$Res> implements $VibeDisplayInfoCopyWith<$Res> {
+  factory _$VibeDisplayInfoCopyWith(_VibeDisplayInfo value, $Res Function(_VibeDisplayInfo) _then) = __$VibeDisplayInfoCopyWithImpl;
+@override @useResult
+$Res call({
+ String sentence, String? icon, String? tagName
+});
+
+
+
+
+}
+/// @nodoc
+class __$VibeDisplayInfoCopyWithImpl<$Res>
+    implements _$VibeDisplayInfoCopyWith<$Res> {
+  __$VibeDisplayInfoCopyWithImpl(this._self, this._then);
+
+  final _VibeDisplayInfo _self;
+  final $Res Function(_VibeDisplayInfo) _then;
+
+/// Create a copy of VibeDisplayInfo
+/// with the given fields replaced by the non-null parameter values.
+@override @pragma('vm:prefer-inline') $Res call({Object? sentence = null,Object? icon = freezed,Object? tagName = freezed,}) {
+  return _then(_VibeDisplayInfo(
+sentence: null == sentence ? _self.sentence : sentence // ignore: cast_nullable_to_non_nullable
+as String,icon: freezed == icon ? _self.icon : icon // ignore: cast_nullable_to_non_nullable
+as String?,tagName: freezed == tagName ? _self.tagName : tagName // ignore: cast_nullable_to_non_nullable
 as String?,
   ));
 }
