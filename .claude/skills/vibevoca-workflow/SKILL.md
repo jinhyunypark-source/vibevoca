@@ -55,6 +55,7 @@ vibevoca/
   - `decks`: 단어 데크 모음
   - `categories`: 카테고리
   - `contexts`: 컨텍스트 정보 (place, emotion, environment)
+  - `meta_interests`: 사용자 관심사 메타데이터 (code, label_en, label_ko, icon, category, tags)
 
 ### 3. 개발 워크플로우
 
@@ -272,9 +273,104 @@ def process(verbose=False):
 
 ```
 SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
+SUPABASE_ANON_KEY=your_supabase_anon_key
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
 ```
+
+**주의**: Python 스크립트에서 Supabase 연결 시:
+- 읽기 전용 작업: `SUPABASE_ANON_KEY` 사용
+- 관리자 작업 (데이터 수정): `SUPABASE_SERVICE_ROLE_KEY` 사용
+
+### 7. 데이터베이스 유지보수 작업
+
+#### meta_interests 테이블 관리
+
+`meta_interests` 테이블은 사용자 프로필의 직업, 취미, 관심사 메타데이터를 저장합니다.
+
+**테이블 구조:**
+- `code`: 고유 식별자 (예: 'soccer', 'developer')
+- `label_en`: 영어 레이블
+- `label_ko`: 한국어 레이블
+- `icon`: Material Icon 이름 (예: 'sports_soccer', 'code')
+- `category`: 카테고리 ('job', 'hobby', 'vibe')
+- `tags`: 검색/추천용 태그 배열
+- `order_index`: 정렬 순서
+
+**아이콘 업데이트 작업:**
+
+Material Icons가 올바르게 표시되지 않거나 중복되는 경우:
+
+```bash
+# 1. database/update_icons.py 스크립트 사용
+cd /path/to/vibevoca
+source claude/venv/bin/activate
+python database/update_icons.py
+```
+
+**스크립트 작성 시 주의사항:**
+
+```python
+# 올바른 Supabase 연결 설정
+from dotenv import load_dotenv
+from supabase import create_client
+import os
+
+load_dotenv('.env')
+
+def get_supabase_client():
+    url = os.getenv("SUPABASE_URL")
+    # 관리자 작업이므로 SERVICE_ROLE_KEY 사용
+    key = os.getenv("SUPABASE_SERVICE_ROLE_KEY") or os.getenv("SUPABASE_ANON_KEY")
+    return create_client(url, key)
+```
+
+**업데이트 예시:**
+
+```python
+# 단일 아이콘 업데이트
+client.table('meta_interests').update({'icon': 'sports_soccer'}).eq('code', 'soccer').execute()
+
+# 배치 업데이트
+ICON_UPDATES = {
+    'soccer': 'sports_soccer',
+    'travel': 'flight',
+    'developer': 'code',
+    'student': 'school',
+}
+
+for code, icon in ICON_UPDATES.items():
+    client.table('meta_interests').update({'icon': icon}).eq('code', code).execute()
+```
+
+**Material Icons 참고:**
+- [Material Icons 검색](https://fonts.google.com/icons)
+- 아이콘 이름은 스네이크 케이스 사용 (예: `sports_soccer`, `medical_services`)
+
+**새 아이콘 추가 방법 (개선됨):**
+1. Material Icons 선택 (Flutter Icons 클래스 확인: `Icons.music_note`)
+2. `lib/core/utils/material_icons_mapper.dart`에 한 줄 추가:
+   ```dart
+   'music_note': Icons.music_note,
+   ```
+3. 데이터베이스에 아이콘 이름 저장
+4. 끝! (자세한 내용: `claude/docs/add_new_interest_icon.md`)
+
+**작업 이력:**
+- 2026-01-09: meta_interests 아이콘 중복 문제 해결 (3단계 개선)
+  - **문제**: 여러 항목이 같은 아이콘(삼각형+원) 표시
+  - **1차 해결**: 데이터베이스 아이콘 업데이트
+    - `database/update_icons.py` 스크립트로 16개 interest에 고유한 Material Icon 할당
+  - **2차 문제**: 데이터베이스 업데이트 후에도 아이콘 중복 지속
+    - 원인: Flutter 코드의 아이콘 매핑 누락
+  - **2차 해결**: Flutter 코드 수정
+    - `lib/features/profile/profile_setup_page.dart`의 `_getIconData()` 함수에 모든 아이콘 추가
+  - **3차 문제**: 하드코딩된 switch문(40줄)으로 유지보수 어려움
+  - **3차 해결**: 아키텍처 개선 ⭐
+    - `MaterialIconsMapper` 유틸리티 클래스 생성
+    - Material Icons CodePoint 기반 동적 매핑
+    - 하드코딩 완전 제거, 코드 40줄 → 1줄
+  - **최종 교훈**: 이제 `MaterialIconsMapper` 한 곳만 관리하면 됨!
 
 ## 작업 체크리스트
 

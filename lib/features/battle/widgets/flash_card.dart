@@ -202,15 +202,18 @@ class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProvider
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                              Flexible(
-                               child: Text(
-                                 widget.card.word,
-                                 textAlign: TextAlign.center,
-                                 style: const TextStyle(
-                                   fontSize: 40,
-                                   fontWeight: FontWeight.bold,
-                                   color: Colors.white,
-                                   height: 1.1,
-                                   shadows: [Shadow(blurRadius: 10, color: Colors.black, offset: Offset(0, 2))],
+                               child: FittedBox(
+                                 fit: BoxFit.scaleDown,
+                                 child: Text(
+                                   widget.card.word,
+                                   textAlign: TextAlign.center,
+                                   style: const TextStyle(
+                                     fontSize: 40,
+                                     fontWeight: FontWeight.bold,
+                                     color: Colors.white,
+                                     height: 1.1,
+                                     shadows: [Shadow(blurRadius: 10, color: Colors.black, offset: Offset(0, 2))],
+                                   ),
                                  ),
                                ),
                              ),
@@ -231,18 +234,21 @@ class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProvider
                 bottomContent: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Text("Tap to flip", style: TextStyle(fontSize: 14, color: Colors.white.withOpacity(0.5))),
-                    const SizedBox(height: 8),
+                    Text("탭 해서 뜻보기", style: TextStyle(fontSize: 16, color: Colors.white.withOpacity(0.6), fontWeight: FontWeight.w600)),
+                    const SizedBox(height: 12),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Icon(Icons.keyboard_arrow_up, color: AppColors.fail.withOpacity(0.8), size: 20),
-                        Text("Review", style: TextStyle(color: AppColors.fail.withOpacity(0.8), fontSize: 12, fontWeight: FontWeight.bold)),
-                        const SizedBox(width: 20),
-                        Text("Memorized", style: TextStyle(color: AppColors.pass.withOpacity(0.8), fontSize: 12, fontWeight: FontWeight.bold)),
-                        Icon(Icons.keyboard_arrow_down, color: AppColors.pass.withOpacity(0.8), size: 20),
+                        Icon(Icons.keyboard_arrow_up, color: AppColors.fail.withOpacity(0.9), size: 26),
+                        const SizedBox(width: 4),
+                        Text("암기장", style: TextStyle(color: AppColors.fail.withOpacity(0.9), fontSize: 16, fontWeight: FontWeight.bold)),
+                        const SizedBox(width: 30),
+                        Text("암기완료", style: TextStyle(color: AppColors.pass.withOpacity(0.9), fontSize: 16, fontWeight: FontWeight.bold)),
+                        const SizedBox(width: 4),
+                        Icon(Icons.keyboard_arrow_down, color: AppColors.pass.withOpacity(0.9), size: 26),
                       ],
                     ),
+                    const SizedBox(height: 30), // Lift up from bottom
                   ],
                 ),
               ),
@@ -329,9 +335,12 @@ class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProvider
                     ],
                   ),
                 ),
-                bottomContent: Text(
-                   "Tap to flip back",
-                   style: TextStyle(fontSize: 12, color: Colors.white.withOpacity(0.3)),
+                bottomContent: Padding(
+                  padding: const EdgeInsets.only(bottom: 20.0),
+                  child: Text(
+                     "탭 해서 뒤집기",
+                     style: TextStyle(fontSize: 14, color: Colors.white.withOpacity(0.5), fontWeight: FontWeight.w500),
+                  ),
                 ),
               ),
             ),
