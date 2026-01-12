@@ -234,21 +234,21 @@ class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProvider
                 bottomContent: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Text("탭 해서 뜻보기", style: TextStyle(fontSize: 16, color: Colors.white.withOpacity(0.6), fontWeight: FontWeight.w600)),
+                    Text("탭 해서 뜻보기", style: TextStyle(fontSize: 18, color: Colors.white.withOpacity(0.6), fontWeight: FontWeight.w600)),
                     const SizedBox(height: 12),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Icon(Icons.keyboard_arrow_up, color: AppColors.fail.withOpacity(0.9), size: 26),
-                        const SizedBox(width: 4),
-                        Text("암기장", style: TextStyle(color: AppColors.fail.withOpacity(0.9), fontSize: 16, fontWeight: FontWeight.bold)),
-                        const SizedBox(width: 30),
-                        Text("암기완료", style: TextStyle(color: AppColors.pass.withOpacity(0.9), fontSize: 16, fontWeight: FontWeight.bold)),
-                        const SizedBox(width: 4),
-                        Icon(Icons.keyboard_arrow_down, color: AppColors.pass.withOpacity(0.9), size: 26),
+                        Icon(Icons.keyboard_arrow_up, color: AppColors.fail.withOpacity(0.9), size: 32),
+                        const SizedBox(width: 8),
+                        Text("암기장", style: TextStyle(color: AppColors.fail.withOpacity(0.9), fontSize: 20, fontWeight: FontWeight.bold)),
+                        const SizedBox(width: 40),
+                        Text("암기완료", style: TextStyle(color: AppColors.pass.withOpacity(0.9), fontSize: 20, fontWeight: FontWeight.bold)),
+                        const SizedBox(width: 8),
+                        Icon(Icons.keyboard_arrow_down, color: AppColors.pass.withOpacity(0.9), size: 32),
                       ],
                     ),
-                    const SizedBox(height: 30), // Lift up from bottom
+                    const SizedBox(height: 40), // Lift up further
                   ],
                 ),
               ),
@@ -339,7 +339,7 @@ class _FlashCardState extends ConsumerState<FlashCard> with SingleTickerProvider
                   padding: const EdgeInsets.only(bottom: 20.0),
                   child: Text(
                      "탭 해서 뒤집기",
-                     style: TextStyle(fontSize: 14, color: Colors.white.withOpacity(0.5), fontWeight: FontWeight.w500),
+                     style: TextStyle(fontSize: 16, color: Colors.white.withOpacity(0.5), fontWeight: FontWeight.w500),
                   ),
                 ),
               ),
