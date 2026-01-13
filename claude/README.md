@@ -7,14 +7,25 @@ VibeVoca 앱의 단어 컨텐츠를 AI를 활용해 관리하는 도구 모음�
 ```
 claude/
 ├── config/
-│   └── supabase_config.py    # Supabase 연결 설정
+│   └── supabase_config.py       # Supabase 연결 설정
 ├── prompts/
-│   └── word_prompts.md       # AI 프롬프트 템플릿
+│   └── word_prompts.md          # AI 프롬프트 템플릿
 ├── scripts/
-│   ├── word_manager.py       # 단어 CRUD 관리
-│   └── ai_generator.py       # AI 기반 생성 도구
+│   ├── word_manager.py          # 단어 CRUD 관리
+│   └── ai_generator.py          # AI 기반 생성 도구
+├── word_files/                  # 추출된 단어 파일들 (1.txt ~ 25.txt, 64개씩)
+├── word_prompts_output/         # 생성된 프롬프트 파일들 (1_prompt.txt ~ 25_prompt.txt, 8x8 그리드)
+├── input_image/                 # AI 생성 이미지 입력 (2048x2048)
+├── output_images/               # 분할된 이미지 출력 (256x256)
+├── export_words.py              # Supabase 단어 추출 스크립트
+├── generate_prompts.py          # 프롬프트 생성 스크립트
+├── split_images.py              # 이미지 분할 및 매핑 스크립트
+├── word_image_mapping.csv       # 이미지-단어-card_id 매핑 (CSV)
+├── word_image_mapping.json      # 이미지-단어-card_id 매핑 (JSON)
+├── word_image_summary.txt       # 매핑 요약
 ├── requirements.txt
-└── README.md
+├── README.md
+└── WORK_LOG.md                  # 작업 이력 기록
 ```
 
 ## 설치
@@ -82,6 +93,46 @@ python scripts/ai_generator.py improve-definition <card_id>
 # 유사 단어 추천
 python scripts/ai_generator.py suggest-similar <card_id> --count 3
 ```
+
+### 3. 단어 추출 도구 (export_words.py)
+
+```bash
+# Supabase cards 테이블에서 영어 단어 추출하여 파일로 저장
+python export_words.py
+```
+
+- cards 테이블의 front_text 필드에서 모든 영어 단어를 가져옴
+- 64개씩 그룹으로 나누어 `word_files/1.txt`, `word_files/2.txt` 등으로 저장
+- 총 1568개 단어 → 25개 파일 생성 (마지막 파일은 32개)
+- 자세한 내용은 `WORK_LOG.md` 참고
+
+### 4. 프롬프트 생성 도구 (generate_prompts.py)
+
+```bash
+# 단어 파일에서 이미지 생성용 프롬프트 자동 생성
+python3 generate_prompts.py
+```
+
+- `word_files/` 디렉토리의 각 txt 파일을 읽어 프롬프트 생성
+- AI 이미지 생성 도구(DALL-E, Midjourney 등)에 사용할 프롬프트 출력
+- **설정**: 64개 단어, 8x8 그리드, 2048x2048 픽셀, 흰색 배경, 테두리 없음
+- 스크립트 상단의 `PROMPT_TEMPLATE` 변수를 수정하여 프롬프트 내용 변경 가능
+- 생성된 프롬프트는 `word_prompts_output/` 디렉토리에 저장
+- 자세한 내용은 `WORK_LOG.md` 참고
+
+### 5. 이미지 분할 도구 (split_images.py)
+
+```bash
+# AI 생성 이미지를 64개 개별 이미지로 분할
+python split_images.py
+```
+
+- `input_image/` 디렉토리의 2048x2048 이미지를 8x8 그리드로 분할
+- 각 분할 이미지: 256x256 픽셀
+- Supabase cards 테이블의 card_id와 자동 매핑
+- 매핑 파일 생성: CSV, JSON, TXT 형식
+- 출력: `output_images/` 디렉토리에 `{원본번호}_{위치}.png` 형식으로 저장
+- 자세한 내용은 `WORK_LOG.md` 참고
 
 ## 주요 기능
 
