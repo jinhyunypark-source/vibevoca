@@ -402,3 +402,161 @@ image_file,word,card_id,original_image,position,word_file,row,col
 
 ---
 
+## 2026-01-13: PNG → JPG 변환으로 용량 최적화
+
+### 작업 내용
+output_images/ 폴더의 PNG 이미지를 JPG로 변환하여 용량 대폭 절감
+
+### 배경
+- 분할된 PNG 이미지 총 용량이 약 134MB로 앱 번들에 포함하기엔 과다
+- JPG 포맷으로 변환 시 품질 유지하면서 용량 80% 이상 절감 가능
+- 단어 학습용 이미지는 JPG 손실 압축에도 충분한 품질 유지
+
+### 사용한 스크립트
+- **파일명**: `convert_to_jpg.py`
+- **위치**: `/Users/jin/dev/vibevoca/claude/convert_to_jpg.py`
+
+### 스크립트 주요 기능
+1. output_images/ 폴더의 모든 PNG 파일 읽기
+2. RGBA → RGB 변환 (흰색 배경에 합성)
+3. JPG 품질 85로 최적화 압축
+4. output_images_jpg/ 폴더에 저장
+
+### 설정 값
+```python
+JPG_QUALITY = 85  # 품질 (1-100, 높을수록 품질 좋고 용량 큼)
+```
+
+### 실행 방법
+```bash
+cd /Users/jin/dev/vibevoca
+source backend/venv/bin/activate
+python claude/convert_to_jpg.py
+```
+
+### 결과물
+- **변환된 파일**: 1,600개
+- **원본 총 용량 (PNG)**: 133.79 MB
+- **변환 후 용량 (JPG)**: 19.57 MB
+- **절감된 용량**: 114.22 MB (85.4%)
+
+### 필요 패키지
+- Pillow (PIL)
+
+---
+
+## 2026-01-13: Flutter 앱 이미지 번들링 및 FlashCard 연동
+
+### 작업 내용
+1. JPG 이미지를 card_id 기반 파일명으로 Flutter assets에 복사
+2. 버전 관리용 manifest.json 생성
+3. FlashCard 위젯에서 이미지 표시 기능 추가
+
+### 배경
+- 변환된 JPG 이미지를 앱에 번들로 포함하여 배포 필요
+- card_id 기반 파일명으로 DB 연동 간소화
+- 향후 이미지 업데이트를 위한 버전 관리 체계 필요
+
+### 사용한 스크립트
+- **파일명**: `prepare_assets.py`
+- **위치**: `/Users/jin/dev/vibevoca/claude/prepare_assets.py`
+
+### 스크립트 주요 기능
+1. word_image_mapping.json에서 card_id 매핑 정보 로드
+2. output_images_jpg/ 이미지를 {card_id}.jpg로 복사
+3. assets/word_images/ 폴더에 저장
+4. 버전 관리용 manifest.json 생성
+
+### 실행 방법
+```bash
+cd /Users/jin/dev/vibevoca
+source backend/venv/bin/activate
+python claude/prepare_assets.py
+```
+
+### 결과물
+
+#### 이미지 파일
+- **위치**: `assets/word_images/`
+- **파일명**: `{card_id}.jpg` (예: `2caa0b2a-dad1-4cc7-ad56-02982280cd86.jpg`)
+- **총 파일 수**: 1,423개
+- **총 용량**: ~19 MB
+
+#### Manifest 파일 (버전 관리)
+- **위치**: `assets/word_images/manifest.json`
+- **형식**:
+```json
+{
+  "version": "1.0.0",
+  "created_at": "2026-01-13T...",
+  "total_images": 1423,
+  "image_format": "jpg",
+  "image_size": "256x256",
+  "images": {
+    "2caa0b2a-dad1-4cc7-ad56-02982280cd86": {
+      "filename": "2caa0b2a-dad1-4cc7-ad56-02982280cd86.jpg",
+      "word": "Articulate",
+      "hash": "abc123...",
+      "size": 12345,
+      "original_file": "1_1.png"
+    },
+    ...
+  }
+}
+```
+
+### pubspec.yaml 업데이트
+```yaml
+flutter:
+  assets:
+    - assets/images/decks/
+    - assets/sherpa_models/vits-piper-en_US-amy-low/
+    - assets/word_images/  # 추가
+```
+
+### FlashCard 위젯 수정
+**파일**: `lib/features/battle/widgets/flash_card.dart`
+
+#### 추가된 기능
+1. `_getWordImagePath()`: card.id로 이미지 경로 생성
+2. `_checkImageExists()`: 이미지 존재 여부 확인 (캐시 사용)
+3. FutureBuilder로 이미지 로딩 및 표시
+
+#### 주요 코드
+```dart
+/// 카드 ID로 이미지 경로 생성
+String _getWordImagePath() {
+  return 'assets/word_images/${widget.card.id}.jpg';
+}
+
+/// 이미지 파일 존재 여부 확인 (캐시 사용)
+static final Map<String, bool> _imageExistsCache = {};
+
+Future<bool> _checkImageExists(String path) async {
+  if (_imageExistsCache.containsKey(path)) {
+    return _imageExistsCache[path]!;
+  }
+  try {
+    await rootBundle.load(path);
+    _imageExistsCache[path] = true;
+    return true;
+  } catch (_) {
+    _imageExistsCache[path] = false;
+    return false;
+  }
+}
+```
+
+#### UI 변경사항
+- 이미지가 있는 경우: 이미지를 배경으로 표시 + 그라데이션 오버레이 (텍스트 가독성)
+- 이미지가 없는 경우: 기존 GenerativeCardBackground 사용 (폴백)
+
+### 향후 계획 (버전 업데이트)
+manifest.json을 활용한 이미지 업데이트 시스템 (추후 구현):
+1. 앱 시작 시 서버의 manifest 버전 확인
+2. 새 버전이 있으면 변경된 이미지만 다운로드
+3. 로컬 manifest 업데이트
+4. 파일 해시로 무결성 검증
+
+---
+

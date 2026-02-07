@@ -16,6 +16,7 @@ import '../profile/providers/profile_provider.dart';
 import '../context/providers/deck_collection_provider.dart';
 import '../sync/services/session_service.dart';
 import 'package:vibevoca/features/analytics/services/analytics_service.dart';
+import '../../features/ads/widgets/ad_banner_widget.dart';
 
 class DeckBattlePage extends ConsumerStatefulWidget {
   final DeckGroup? deckGroup; // Passed from selection
@@ -161,7 +162,7 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                       // Deck Header (Icon + Title) - Horizontal Layout
                       if (widget.deckGroup != null)
                         Container(
-                          margin: const EdgeInsets.fromLTRB(30, 20, 30, 20),
+                          margin: const EdgeInsets.fromLTRB(30, 5, 30, 10),
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
@@ -207,10 +208,10 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                                       widget.deckGroup!.titleKo,
                                       style: const TextStyle(
                                         color: Colors.white, 
-                                        fontSize: 24, 
+                                        fontSize: 20, 
                                         fontWeight: FontWeight.bold,
                                         letterSpacing: 1.2,
-                                        height: 1.0,
+                                        height: 1.2,
                                       ),
                                     ).animate().fadeIn(delay: 200.ms).moveX(begin: 10, end: 0),
                                   ],
@@ -222,7 +223,7 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                       
                       // Stats Dashboard (Total, Review, Memorized)
                       Padding(
-                        padding: const EdgeInsets.only(left: 40, right: 40, bottom: 20),
+                        padding: const EdgeInsets.only(left: 40, right: 40, bottom: 10),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
                           children: [
@@ -363,6 +364,8 @@ class _DeckBattlePageState extends ConsumerState<DeckBattlePage> {
                     ),
 
 
+                  const Gap(10),
+                  const AdBannerWidget(),
                 ],
               ),
             ),

@@ -14,12 +14,15 @@ claude/
 │   ├── word_manager.py          # 단어 CRUD 관리
 │   └── ai_generator.py          # AI 기반 생성 도구
 ├── word_files/                  # 추출된 단어 파일들 (1.txt ~ 25.txt, 64개씩)
-├── word_prompts_output/         # 생성된 프롬프트 파일들 (1_prompt.txt ~ 25_prompt.txt, 8x8 그리드)
+├── word_prompts_output/         # 생성된 프롬프트 파일들 (1_prompt.txt ~ 25_prompt.txt)
 ├── input_image/                 # AI 생성 이미지 입력 (2048x2048)
-├── output_images/               # 분할된 이미지 출력 (256x256)
+├── output_images/               # 분할된 PNG 이미지 (256x256)
+├── output_images_jpg/           # JPG 변환된 이미지 (용량 최적화)
 ├── export_words.py              # Supabase 단어 추출 스크립트
 ├── generate_prompts.py          # 프롬프트 생성 스크립트
 ├── split_images.py              # 이미지 분할 및 매핑 스크립트
+├── convert_to_jpg.py            # PNG → JPG 변환 스크립트
+├── prepare_assets.py            # Flutter assets 준비 스크립트
 ├── word_image_mapping.csv       # 이미지-단어-card_id 매핑 (CSV)
 ├── word_image_mapping.json      # 이미지-단어-card_id 매핑 (JSON)
 ├── word_image_summary.txt       # 매핑 요약
@@ -133,6 +136,30 @@ python split_images.py
 - 매핑 파일 생성: CSV, JSON, TXT 형식
 - 출력: `output_images/` 디렉토리에 `{원본번호}_{위치}.png` 형식으로 저장
 - 자세한 내용은 `WORK_LOG.md` 참고
+
+### 6. JPG 변환 도구 (convert_to_jpg.py)
+
+```bash
+# PNG 이미지를 JPG로 변환하여 용량 절감
+python convert_to_jpg.py
+```
+
+- `output_images/` 디렉토리의 PNG 파일을 JPG로 변환
+- 품질 85로 최적화 (약 85% 용량 절감)
+- RGBA → RGB 변환 (흰색 배경에 합성)
+- 출력: `output_images_jpg/` 디렉토리
+
+### 7. Flutter Assets 준비 도구 (prepare_assets.py)
+
+```bash
+# 이미지를 card_id 기반 파일명으로 Flutter assets에 복사
+python prepare_assets.py
+```
+
+- `output_images_jpg/` 이미지를 `{card_id}.jpg`로 복사
+- `assets/word_images/` 폴더에 저장
+- 버전 관리용 `manifest.json` 생성
+- 앱에서 card.id로 바로 이미지 로드 가능
 
 ## 주요 기능
 

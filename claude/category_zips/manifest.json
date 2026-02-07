@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "created_at": "2026-01-13T14:52:14.272608",
+  "total_packs": 10,
+  "packs": [
+    {
+      "category_id": "eec83079-d8a3-4516-bf30-fc78977f72cd",
+      "category_title": "소통과 표현",
+      "file_name": "eec83079-d8a3-4516-bf30-fc78977f72cd.zip",
+      "zip_size_bytes": 1849738,
+      "image_count": 156,
+      "missing_count": 0,
+      "total_cards": 156,
+      "updated_at": "2026-01-13T14:52:07.295925"
+    },
+    {
+      "category_id": "aab861e4-0bd5-4ea6-877b-1bd3d2907ae5",
+      "category_title": "감각과 스타일",
+      "file_name": "aab861e4-0bd5-4ea6-877b-1bd3d2907ae5.zip",
+      "zip_size_bytes": 1729587,
+      "image_count": 147,
+      "missing_count": 0,
+      "total_cards": 147,
+      "updated_at": "2026-01-13T14:52:08.104526"
+    },
+    {
+      "category_id": "5cf95eb1-6cb4-4a4c-a0e6-20cfb2b68d9e",
+      "category_title": "지혜와 통찰",
+      "file_name": "5cf95eb1-6cb4-4a4c-a0e6-20cfb2b68d9e.zip",
+      "zip_size_bytes": 1792466,
+      "image_count": 154,
+      "missing_count": 0,
+      "total_cards": 154,
+      "updated_at": "2026-01-13T14:52:08.823962"
+    },
+    {
+      "category_id": "05ee314f-6ba9-40cc-99e3-15db7665b559",
+      "category_title": "관계와 사회",
+      "file_name": "05ee314f-6ba9-40cc-99e3-15db7665b559.zip",
+      "zip_size_bytes": 2677324,
+      "image_count": 182,
+      "missing_count": 0,
+      "total_cards": 182,
+      "updated_at": "2026-01-13T14:52:09.651427"
+    },
+    {
+      "category_id": "a95ff17d-4b0c-4de0-8fa3-0ae9049d738b",
+      "category_title": "변화와 성장",
+      "file_name": "a95ff17d-4b0c-4de0-8fa3-0ae9049d738b.zip",
+      "zip_size_bytes": 1948571,
+      "image_count": 150,
+      "missing_count": 0,
+      "total_cards": 150,
+      "updated_at": "2026-01-13T14:52:10.371138"
+    },
+    {
+      "category_id": "8aef3fa6-99b8-4513-9e5b-f2500cd5e242",
+      "category_title": "난이도와 복잡성",
+      "file_name": "8aef3fa6-99b8-4513-9e5b-f2500cd5e242.zip",
+      "zip_size_bytes": 1529448,
+      "image_count": 119,
+      "missing_count": 0,
+      "total_cards": 119,
+      "updated_at": "2026-01-13T14:52:11.033630"
+    },
+    {
+      "category_id": "09116f7d-d6e5-43a3-a814-e38a38b57b0c",
+      "category_title": "권력과 권위",
+      "file_name": "09116f7d-d6e5-43a3-a814-e38a38b57b0c.zip",
+      "zip_size_bytes": 1905710,
+      "image_count": 150,
+      "missing_count": 0,
+      "total_cards": 150,
+      "updated_at": "2026-01-13T14:52:11.859624"
+    },
+    {
+      "category_id": "40ed82b7-339c-4317-830a-fcec90cf592a",
+      "category_title": "규모와 수량",
+      "file_name": "40ed82b7-339c-4317-830a-fcec90cf592a.zip",
+      "zip_size_bytes": 2138238,
+      "image_count": 150,
+      "missing_count": 0,
+      "total_cards": 150,
+      "updated_at": "2026-01-13T14:52:12.640354"
+    },
+    {
+      "category_id": "c3501063-19e9-43ef-a77c-763cb968c668",
+      "category_title": "돈과 경제",
+      "file_name": "c3501063-19e9-43ef-a77c-763cb968c668.zip",
+      "zip_size_bytes": 2762630,
+      "image_count": 180,
+      "missing_count": 0,
+      "total_cards": 180,
+      "updated_at": "2026-01-13T14:52:13.456938"
+    },
+    {
+      "category_id": "78d7cc78-5a76-4195-8b3b-58ffba152834",
+      "category_title": "시간과 기간",
+      "file_name": "78d7cc78-5a76-4195-8b3b-58ffba152834.zip",
+      "zip_size_bytes": 2519503,
+      "image_count": 180,
+      "missing_count": 0,
+      "total_cards": 180,
+      "updated_at": "2026-01-13T14:52:14.272560"
+    }
+  ]
+}

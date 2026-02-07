@@ -1,0 +1,1238 @@
+{
+  "total_images": 137,
+  "results": [
+    {
+      "png_file": "missing_1_1.png",
+      "jpg_file": "09b99b8f-9d7e-4175-9687-b7c0aab10721.jpg",
+      "word": "Accessible",
+      "card_id": "09b99b8f-9d7e-4175-9687-b7c0aab10721",
+      "position": 1,
+      "row": 1,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_2.png",
+      "jpg_file": "510fe3f5-fc19-4274-8b48-b45178de2af1.jpg",
+      "word": "Acrid",
+      "card_id": "510fe3f5-fc19-4274-8b48-b45178de2af1",
+      "position": 2,
+      "row": 1,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_3.png",
+      "jpg_file": "a83e2b59-0e29-4535-9ecf-388a9aa319d4.jpg",
+      "word": "Affluent",
+      "card_id": "a83e2b59-0e29-4535-9ecf-388a9aa319d4",
+      "position": 3,
+      "row": 1,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_4.png",
+      "jpg_file": "a51a91ed-34d8-4f34-a7e3-9cc37e68c2c1.jpg",
+      "word": "Agreeable",
+      "card_id": "a51a91ed-34d8-4f34-a7e3-9cc37e68c2c1",
+      "position": 4,
+      "row": 1,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_5.png",
+      "jpg_file": "a3b7c9ed-9552-4258-9a39-cbc90e971d87.jpg",
+      "word": "Alternate",
+      "card_id": "a3b7c9ed-9552-4258-9a39-cbc90e971d87",
+      "position": 5,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_6.png",
+      "jpg_file": "44d271e7-6787-47b7-a935-5171fa2d45b3.jpg",
+      "word": "Arrogant",
+      "card_id": "44d271e7-6787-47b7-a935-5171fa2d45b3",
+      "position": 6,
+      "row": 1,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_7.png",
+      "jpg_file": "6e5f306d-dcf5-4d1f-a0b1-b6fdd7a8e5a6.jpg",
+      "word": "Assertive",
+      "card_id": "6e5f306d-dcf5-4d1f-a0b1-b6fdd7a8e5a6",
+      "position": 7,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_8.png",
+      "jpg_file": "03c68ddd-3514-495d-868c-0fbaac6c2b94.jpg",
+      "word": "Audible",
+      "card_id": "03c68ddd-3514-495d-868c-0fbaac6c2b94",
+      "position": 8,
+      "row": 1,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_9.png",
+      "jpg_file": "57e37378-8371-4598-a6e0-ce185cf88a8e.jpg",
+      "word": "Basic",
+      "card_id": "57e37378-8371-4598-a6e0-ce185cf88a8e",
+      "position": 9,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_10.png",
+      "jpg_file": "16f8c3ff-d135-428e-b83b-6e1756f2f345.jpg",
+      "word": "Bitter",
+      "card_id": "16f8c3ff-d135-428e-b83b-6e1756f2f345",
+      "position": 10,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_11.png",
+      "jpg_file": "9aa0dee5-6fe3-42ee-bdc3-681432bdefba.jpg",
+      "word": "Brief",
+      "card_id": "9aa0dee5-6fe3-42ee-bdc3-681432bdefba",
+      "position": 11,
+      "row": 2,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_12.png",
+      "jpg_file": "027efbcc-c722-4e2c-8aa8-f043e2d1ca81.jpg",
+      "word": "Budget",
+      "card_id": "027efbcc-c722-4e2c-8aa8-f043e2d1ca81",
+      "position": 12,
+      "row": 2,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_13.png",
+      "jpg_file": "52d7ed93-cd10-4856-93b2-65db5743dfa8.jpg",
+      "word": "Bulky",
+      "card_id": "52d7ed93-cd10-4856-93b2-65db5743dfa8",
+      "position": 13,
+      "row": 2,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_14.png",
+      "jpg_file": "09d51f56-8aa9-43ab-b91f-1dda0964d2e5.jpg",
+      "word": "Capital",
+      "card_id": "09d51f56-8aa9-43ab-b91f-1dda0964d2e5",
+      "position": 14,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_15.png",
+      "jpg_file": "f0ff1faf-468a-4a81-ad0d-128a387c6f1d.jpg",
+      "word": "Charismatic",
+      "card_id": "f0ff1faf-468a-4a81-ad0d-128a387c6f1d",
+      "position": 15,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_16.png",
+      "jpg_file": "e3d1e013-30de-4683-b0e5-ec6840b5582e.jpg",
+      "word": "Charming",
+      "card_id": "e3d1e013-30de-4683-b0e5-ec6840b5582e",
+      "position": 16,
+      "row": 2,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_17.png",
+      "jpg_file": "d40de30c-b26a-4b5b-ac91-a4c22b2558dc.jpg",
+      "word": "Cheap",
+      "card_id": "d40de30c-b26a-4b5b-ac91-a4c22b2558dc",
+      "position": 17,
+      "row": 3,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_18.png",
+      "jpg_file": "c7699e8b-ec39-4d7f-b103-33205a7782ad.jpg",
+      "word": "Close",
+      "card_id": "c7699e8b-ec39-4d7f-b103-33205a7782ad",
+      "position": 18,
+      "row": 3,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_19.png",
+      "jpg_file": "1c5374e9-7c36-4423-a3a1-28319069f58e.jpg",
+      "word": "Coercive",
+      "card_id": "1c5374e9-7c36-4423-a3a1-28319069f58e",
+      "position": 19,
+      "row": 3,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_20.png",
+      "jpg_file": "e019f073-2e65-4763-8ab4-e02f0db156f0.jpg",
+      "word": "Coherent",
+      "card_id": "e019f073-2e65-4763-8ab4-e02f0db156f0",
+      "position": 20,
+      "row": 3,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_21.png",
+      "jpg_file": "e071f04d-cd01-440d-99fc-a8cc783221d4.jpg",
+      "word": "Cold",
+      "card_id": "e071f04d-cd01-440d-99fc-a8cc783221d4",
+      "position": 21,
+      "row": 3,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_22.png",
+      "jpg_file": "8cd69f42-5d63-4ba4-a89e-e08522f7c5ad.jpg",
+      "word": "Compact",
+      "card_id": "8cd69f42-5d63-4ba4-a89e-e08522f7c5ad",
+      "position": 22,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_23.png",
+      "jpg_file": "2ad51eda-ffc3-411c-ad5f-5d815eb89d75.jpg",
+      "word": "Compelling",
+      "card_id": "2ad51eda-ffc3-411c-ad5f-5d815eb89d75",
+      "position": 23,
+      "row": 3,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_24.png",
+      "jpg_file": "f2eb1835-8086-48e8-bbaf-347128eb32e8.jpg",
+      "word": "Comprehensive",
+      "card_id": "f2eb1835-8086-48e8-bbaf-347128eb32e8",
+      "position": 24,
+      "row": 3,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_25.png",
+      "jpg_file": "486d65ca-383e-4570-8c3f-4bbf715a243a.jpg",
+      "word": "Concise",
+      "card_id": "486d65ca-383e-4570-8c3f-4bbf715a243a",
+      "position": 25,
+      "row": 4,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_26.png",
+      "jpg_file": "f365c466-6cea-4564-99ce-15be59d21bd0.jpg",
+      "word": "Constant",
+      "card_id": "f365c466-6cea-4564-99ce-15be59d21bd0",
+      "position": 26,
+      "row": 4,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_27.png",
+      "jpg_file": "955d8501-cf32-45d6-9cec-de3573ed383a.jpg",
+      "word": "Constructive",
+      "card_id": "955d8501-cf32-45d6-9cec-de3573ed383a",
+      "position": 27,
+      "row": 4,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_28.png",
+      "jpg_file": "d9c8815f-8a5d-48db-a2a6-5054137982f6.jpg",
+      "word": "Continual",
+      "card_id": "d9c8815f-8a5d-48db-a2a6-5054137982f6",
+      "position": 28,
+      "row": 4,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_29.png",
+      "jpg_file": "d9cf3cc3-2b64-43bc-b5e9-1b73419524d4.jpg",
+      "word": "Controlling",
+      "card_id": "d9cf3cc3-2b64-43bc-b5e9-1b73419524d4",
+      "position": 29,
+      "row": 4,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_30.png",
+      "jpg_file": "f5c0b316-c04e-4001-a3da-a137e3d2a73e.jpg",
+      "word": "Convincing",
+      "card_id": "f5c0b316-c04e-4001-a3da-a137e3d2a73e",
+      "position": 30,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_31.png",
+      "jpg_file": "3d41d582-0176-43d1-a86c-2cf907ea3ef5.jpg",
+      "word": "Critical",
+      "card_id": "3d41d582-0176-43d1-a86c-2cf907ea3ef5",
+      "position": 31,
+      "row": 4,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_32.png",
+      "jpg_file": "400ab95a-50be-4777-b8c2-ff83571657d1.jpg",
+      "word": "Crucial",
+      "card_id": "400ab95a-50be-4777-b8c2-ff83571657d1",
+      "position": 32,
+      "row": 4,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_33.png",
+      "jpg_file": "72dd24cb-5f59-44e4-8e0b-497b3e803017.jpg",
+      "word": "Dear",
+      "card_id": "72dd24cb-5f59-44e4-8e0b-497b3e803017",
+      "position": 33,
+      "row": 5,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_34.png",
+      "jpg_file": "4e79001b-db0f-43a0-a009-2b83c412985c.jpg",
+      "word": "Deep",
+      "card_id": "4e79001b-db0f-43a0-a009-2b83c412985c",
+      "position": 34,
+      "row": 5,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_35.png",
+      "jpg_file": "432cf8ed-8198-4d3d-bc1a-9373348117b3.jpg",
+      "word": "Dense",
+      "card_id": "432cf8ed-8198-4d3d-bc1a-9373348117b3",
+      "position": 35,
+      "row": 5,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_36.png",
+      "jpg_file": "30ec2696-1735-41ad-a006-1765810eb530.jpg",
+      "word": "Deprived",
+      "card_id": "30ec2696-1735-41ad-a006-1765810eb530",
+      "position": 36,
+      "row": 5,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_37.png",
+      "jpg_file": "076b9226-81e0-4ae9-b4a3-80eca737d0b2.jpg",
+      "word": "Destitute",
+      "card_id": "076b9226-81e0-4ae9-b4a3-80eca737d0b2",
+      "position": 37,
+      "row": 5,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_38.png",
+      "jpg_file": "e4b92c46-540c-47db-bd4c-9e6261068c5c.jpg",
+      "word": "Direct",
+      "card_id": "e4b92c46-540c-47db-bd4c-9e6261068c5c",
+      "position": 38,
+      "row": 5,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_39.png",
+      "jpg_file": "6aebb31e-a5e7-4a22-85a0-d4778d04b301.jpg",
+      "word": "Distant",
+      "card_id": "6aebb31e-a5e7-4a22-85a0-d4778d04b301",
+      "position": 39,
+      "row": 5,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_40.png",
+      "jpg_file": "51f74d17-c82f-4757-b6c8-0b6b716e41bb.jpg",
+      "word": "Dominant",
+      "card_id": "51f74d17-c82f-4757-b6c8-0b6b716e41bb",
+      "position": 40,
+      "row": 5,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_41.png",
+      "jpg_file": "c029d3e4-a344-4e35-8c9a-fa23c6b14bf1.jpg",
+      "word": "Elaborate",
+      "card_id": "c029d3e4-a344-4e35-8c9a-fa23c6b14bf1",
+      "position": 41,
+      "row": 6,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_42.png",
+      "jpg_file": "eb0d513d-06a4-4b1b-8423-920bf79592aa.jpg",
+      "word": "Elementary",
+      "card_id": "eb0d513d-06a4-4b1b-8423-920bf79592aa",
+      "position": 42,
+      "row": 6,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_43.png",
+      "jpg_file": "1ec36930-b442-48b7-95c3-c76b7376d4be.jpg",
+      "word": "Essential",
+      "card_id": "1ec36930-b442-48b7-95c3-c76b7376d4be",
+      "position": 43,
+      "row": 6,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_44.png",
+      "jpg_file": "02322395-c4ee-4f8e-9d1e-e9e18fb33bd3.jpg",
+      "word": "Excessive",
+      "card_id": "02322395-c4ee-4f8e-9d1e-e9e18fb33bd3",
+      "position": 44,
+      "row": 6,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_45.png",
+      "jpg_file": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962.jpg",
+      "word": "Explicit",
+      "card_id": "a205a4d0-bef3-4073-a7b1-c68a9e6b0962",
+      "position": 45,
+      "row": 6,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_46.png",
+      "jpg_file": "19841029-1883-4aa5-a4f2-83a4a7904f0e.jpg",
+      "word": "Exquisite",
+      "card_id": "19841029-1883-4aa5-a4f2-83a4a7904f0e",
+      "position": 46,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_47.png",
+      "jpg_file": "8c4c6f93-3d33-4c3b-8c0b-bc7bd2bc98c7.jpg",
+      "word": "Flush",
+      "card_id": "8c4c6f93-3d33-4c3b-8c0b-bc7bd2bc98c7",
+      "position": 47,
+      "row": 6,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_48.png",
+      "jpg_file": "91ea577f-84be-4980-8a26-572781fac7fb.jpg",
+      "word": "Friendly",
+      "card_id": "91ea577f-84be-4980-8a26-572781fac7fb",
+      "position": 48,
+      "row": 6,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_49.png",
+      "jpg_file": "b7c21305-bba3-4469-98bb-4a7e2625ffec.jpg",
+      "word": "Generous",
+      "card_id": "b7c21305-bba3-4469-98bb-4a7e2625ffec",
+      "position": 49,
+      "row": 7,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_50.png",
+      "jpg_file": "f05d288b-943e-4c95-b18f-e299fa3a7c9c.jpg",
+      "word": "Gentle",
+      "card_id": "f05d288b-943e-4c95-b18f-e299fa3a7c9c",
+      "position": 50,
+      "row": 7,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_51.png",
+      "jpg_file": "d8664a32-ea6d-49fe-87e7-2ead9baef8a4.jpg",
+      "word": "Harmonious",
+      "card_id": "d8664a32-ea6d-49fe-87e7-2ead9baef8a4",
+      "position": 51,
+      "row": 7,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_52.png",
+      "jpg_file": "357eb383-7a5f-42c1-9203-1a79bddfc1a0.jpg",
+      "word": "Harsh",
+      "card_id": "357eb383-7a5f-42c1-9203-1a79bddfc1a0",
+      "position": 52,
+      "row": 7,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_53.png",
+      "jpg_file": "16bb79b6-64aa-49fa-be70-1d1b116a4011.jpg",
+      "word": "Hasty",
+      "card_id": "16bb79b6-64aa-49fa-be70-1d1b116a4011",
+      "position": 53,
+      "row": 7,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_54.png",
+      "jpg_file": "f5ed5060-92be-4a20-b6cd-11dddacd4d7d.jpg",
+      "word": "Hostile",
+      "card_id": "f5ed5060-92be-4a20-b6cd-11dddacd4d7d",
+      "position": 54,
+      "row": 7,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_55.png",
+      "jpg_file": "b87c515a-f04d-457e-a155-f0ff5c4cc563.jpg",
+      "word": "Humble",
+      "card_id": "b87c515a-f04d-457e-a155-f0ff5c4cc563",
+      "position": 55,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_56.png",
+      "jpg_file": "7f3dc99a-bca3-4498-bc76-9b18b95f2ec0.jpg",
+      "word": "Husky",
+      "card_id": "7f3dc99a-bca3-4498-bc76-9b18b95f2ec0",
+      "position": 56,
+      "row": 7,
+      "col": 8
+    },
+    {
+      "png_file": "missing_1_57.png",
+      "jpg_file": "c5054790-d06a-49fb-bce9-b0486bbfae69.jpg",
+      "word": "Impoverished",
+      "card_id": "c5054790-d06a-49fb-bce9-b0486bbfae69",
+      "position": 57,
+      "row": 8,
+      "col": 1
+    },
+    {
+      "png_file": "missing_1_58.png",
+      "jpg_file": "30f49383-d125-48ca-949b-e3a030ccddd6.jpg",
+      "word": "Indulgent",
+      "card_id": "30f49383-d125-48ca-949b-e3a030ccddd6",
+      "position": 58,
+      "row": 8,
+      "col": 2
+    },
+    {
+      "png_file": "missing_1_59.png",
+      "jpg_file": "588a0510-e147-4d7d-8202-51f2657f893f.jpg",
+      "word": "Inferior",
+      "card_id": "588a0510-e147-4d7d-8202-51f2657f893f",
+      "position": 59,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "png_file": "missing_1_60.png",
+      "jpg_file": "770bbd34-1ba8-48f3-b4aa-a6aedc8208a7.jpg",
+      "word": "Infinite",
+      "card_id": "770bbd34-1ba8-48f3-b4aa-a6aedc8208a7",
+      "position": 60,
+      "row": 8,
+      "col": 4
+    },
+    {
+      "png_file": "missing_1_61.png",
+      "jpg_file": "43f1aaf2-34ca-432d-babe-4a926cc74828.jpg",
+      "word": "Influential",
+      "card_id": "43f1aaf2-34ca-432d-babe-4a926cc74828",
+      "position": 61,
+      "row": 8,
+      "col": 5
+    },
+    {
+      "png_file": "missing_1_62.png",
+      "jpg_file": "92fc8836-4069-4b10-ad4c-78e3989effd7.jpg",
+      "word": "Inspiring",
+      "card_id": "92fc8836-4069-4b10-ad4c-78e3989effd7",
+      "position": 62,
+      "row": 8,
+      "col": 6
+    },
+    {
+      "png_file": "missing_1_63.png",
+      "jpg_file": "e4c33656-982a-4651-a800-994fc62d1055.jpg",
+      "word": "Interim",
+      "card_id": "e4c33656-982a-4651-a800-994fc62d1055",
+      "position": 63,
+      "row": 8,
+      "col": 7
+    },
+    {
+      "png_file": "missing_1_64.png",
+      "jpg_file": "e7c373b2-6e88-4776-90b2-5e2a75f28b65.jpg",
+      "word": "Intuitive",
+      "card_id": "e7c373b2-6e88-4776-90b2-5e2a75f28b65",
+      "position": 64,
+      "row": 8,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_1.png",
+      "jpg_file": "7b52e8b9-c898-40bb-8e65-79afc40fb792.jpg",
+      "word": "Irrational",
+      "card_id": "7b52e8b9-c898-40bb-8e65-79afc40fb792",
+      "position": 1,
+      "row": 1,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_2.png",
+      "jpg_file": "722cc6f8-bde3-4a28-bc20-595af484cdef.jpg",
+      "word": "Lavish",
+      "card_id": "722cc6f8-bde3-4a28-bc20-595af484cdef",
+      "position": 2,
+      "row": 1,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_3.png",
+      "jpg_file": "2854ae15-e6f2-472c-b470-e6022ee9f2af.jpg",
+      "word": "Limited",
+      "card_id": "2854ae15-e6f2-472c-b470-e6022ee9f2af",
+      "position": 3,
+      "row": 1,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_4.png",
+      "jpg_file": "64bc5af4-af65-4aab-8a40-cb4507472a51.jpg",
+      "word": "Loaded",
+      "card_id": "64bc5af4-af65-4aab-8a40-cb4507472a51",
+      "position": 4,
+      "row": 1,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_5.png",
+      "jpg_file": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc.jpg",
+      "word": "Logical",
+      "card_id": "63f9e3bc-0ff6-4c6e-ad7a-9b98bc5bdfcc",
+      "position": 5,
+      "row": 1,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_6.png",
+      "jpg_file": "ec32d9ce-527f-499f-a68e-337215d94919.jpg",
+      "word": "Lucid",
+      "card_id": "ec32d9ce-527f-499f-a68e-337215d94919",
+      "position": 6,
+      "row": 1,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_7.png",
+      "jpg_file": "a09997e5-1911-4c9b-8ace-a0114b56b8cc.jpg",
+      "word": "Majestic",
+      "card_id": "a09997e5-1911-4c9b-8ace-a0114b56b8cc",
+      "position": 7,
+      "row": 1,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_8.png",
+      "jpg_file": "1d774029-cff9-4f8a-a265-b8fd93dd4d7b.jpg",
+      "word": "Manipulative",
+      "card_id": "1d774029-cff9-4f8a-a265-b8fd93dd4d7b",
+      "position": 8,
+      "row": 1,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_9.png",
+      "jpg_file": "dc785122-2776-465b-8b2d-3a98b849fd89.jpg",
+      "word": "Marginal",
+      "card_id": "dc785122-2776-465b-8b2d-3a98b849fd89",
+      "position": 9,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_10.png",
+      "jpg_file": "92f5195d-a5c2-4acd-bf88-5debb313348d.jpg",
+      "word": "Masterful",
+      "card_id": "92f5195d-a5c2-4acd-bf88-5debb313348d",
+      "position": 10,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_11.png",
+      "jpg_file": "8e551d97-6ed5-4ecf-baa0-f21a85e39d72.jpg",
+      "word": "Minimal",
+      "card_id": "8e551d97-6ed5-4ecf-baa0-f21a85e39d72",
+      "position": 11,
+      "row": 2,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_12.png",
+      "jpg_file": "53bbb825-f5de-4b93-a05b-0247698ced4c.jpg",
+      "word": "Minimalist",
+      "card_id": "53bbb825-f5de-4b93-a05b-0247698ced4c",
+      "position": 12,
+      "row": 2,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_13.png",
+      "jpg_file": "92489897-eebb-47c5-b815-2a64cfbb89e3.jpg",
+      "word": "Modest",
+      "card_id": "92489897-eebb-47c5-b815-2a64cfbb89e3",
+      "position": 13,
+      "row": 2,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_14.png",
+      "jpg_file": "a887d93a-13e5-4ea7-8fd1-c6169632de12.jpg",
+      "word": "Monotone",
+      "card_id": "a887d93a-13e5-4ea7-8fd1-c6169632de12",
+      "position": 14,
+      "row": 2,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_15.png",
+      "jpg_file": "7bddc203-9af9-4a7c-b451-e7a7f515546f.jpg",
+      "word": "Monumental",
+      "card_id": "7bddc203-9af9-4a7c-b451-e7a7f515546f",
+      "position": 15,
+      "row": 2,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_16.png",
+      "jpg_file": "81ee2eb0-db57-4110-85ff-81d11856c8d7.jpg",
+      "word": "Negligible",
+      "card_id": "81ee2eb0-db57-4110-85ff-81d11856c8d7",
+      "position": 16,
+      "row": 2,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_17.png",
+      "jpg_file": "88761816-356d-4fbb-8c56-14483386ad69.jpg",
+      "word": "Obscure",
+      "card_id": "88761816-356d-4fbb-8c56-14483386ad69",
+      "position": 17,
+      "row": 3,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_18.png",
+      "jpg_file": "c5b1e01f-f4da-47db-ad91-1fb8cb1a19aa.jpg",
+      "word": "Opulent",
+      "card_id": "c5b1e01f-f4da-47db-ad91-1fb8cb1a19aa",
+      "position": 18,
+      "row": 3,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_19.png",
+      "jpg_file": "5e668c65-1e01-4b5b-b343-5e2682eddfdb.jpg",
+      "word": "Ostentatious",
+      "card_id": "5e668c65-1e01-4b5b-b343-5e2682eddfdb",
+      "position": 19,
+      "row": 3,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_20.png",
+      "jpg_file": "dfd1b4b0-75df-4415-b012-8cd7febdafa1.jpg",
+      "word": "Passive",
+      "card_id": "dfd1b4b0-75df-4415-b012-8cd7febdafa1",
+      "position": 20,
+      "row": 3,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_21.png",
+      "jpg_file": "645f2feb-428d-496f-94db-fb2fabe274e2.jpg",
+      "word": "Perennial",
+      "card_id": "645f2feb-428d-496f-94db-fb2fabe274e2",
+      "position": 21,
+      "row": 3,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_22.png",
+      "jpg_file": "880ac916-2094-4c6e-994a-deb47b100d2e.jpg",
+      "word": "Persuasive",
+      "card_id": "880ac916-2094-4c6e-994a-deb47b100d2e",
+      "position": 22,
+      "row": 3,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_23.png",
+      "jpg_file": "54812bb7-9178-4cfb-8f8f-87ab9d47bfe0.jpg",
+      "word": "Phase",
+      "card_id": "54812bb7-9178-4cfb-8f8f-87ab9d47bfe0",
+      "position": 23,
+      "row": 3,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_24.png",
+      "jpg_file": "cd19bb74-2349-4d32-8283-cc8206d5aae4.jpg",
+      "word": "Pivotal",
+      "card_id": "cd19bb74-2349-4d32-8283-cc8206d5aae4",
+      "position": 24,
+      "row": 3,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_25.png",
+      "jpg_file": "fa5517bb-378b-4323-a4ed-7753db3f2adb.jpg",
+      "word": "Polite",
+      "card_id": "fa5517bb-378b-4323-a4ed-7753db3f2adb",
+      "position": 25,
+      "row": 4,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_26.png",
+      "jpg_file": "0f964b87-0601-4b23-a8cc-0f9ada9d904c.jpg",
+      "word": "Poor",
+      "card_id": "0f964b87-0601-4b23-a8cc-0f9ada9d904c",
+      "position": 26,
+      "row": 4,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_27.png",
+      "jpg_file": "69dff655-5634-45d9-b46b-09078819150f.jpg",
+      "word": "Pressing",
+      "card_id": "69dff655-5634-45d9-b46b-09078819150f",
+      "position": 27,
+      "row": 4,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_28.png",
+      "jpg_file": "0276981b-dacf-4012-8795-1fa2cf94c167.jpg",
+      "word": "Profound",
+      "card_id": "0276981b-dacf-4012-8795-1fa2cf94c167",
+      "position": 28,
+      "row": 4,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_29.png",
+      "jpg_file": "3d7a4680-3cac-42e2-b76e-d052bde4a577.jpg",
+      "word": "Prudent",
+      "card_id": "3d7a4680-3cac-42e2-b76e-d052bde4a577",
+      "position": 29,
+      "row": 4,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_30.png",
+      "jpg_file": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0.jpg",
+      "word": "Pungent",
+      "card_id": "4b54d7ef-a7aa-40e9-b448-af57ebd8d8f0",
+      "position": 30,
+      "row": 4,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_31.png",
+      "jpg_file": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5.jpg",
+      "word": "Rancid",
+      "card_id": "9d9faa94-10cd-4f03-8fe2-0a231a6a7ad5",
+      "position": 31,
+      "row": 4,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_32.png",
+      "jpg_file": "41bcdd11-91ab-43b2-93ad-32655a856897.jpg",
+      "word": "Rare",
+      "card_id": "41bcdd11-91ab-43b2-93ad-32655a856897",
+      "position": 32,
+      "row": 4,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_33.png",
+      "jpg_file": "a2a6a064-a982-44a2-8688-c978866317d8.jpg",
+      "word": "Rational",
+      "card_id": "a2a6a064-a982-44a2-8688-c978866317d8",
+      "position": 33,
+      "row": 5,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_34.png",
+      "jpg_file": "6fce9b2d-259c-46d5-a814-6fa3a264672b.jpg",
+      "word": "Reasonable",
+      "card_id": "6fce9b2d-259c-46d5-a814-6fa3a264672b",
+      "position": 34,
+      "row": 5,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_35.png",
+      "jpg_file": "8699b088-a527-4d3f-9ab4-bc088d7f07e5.jpg",
+      "word": "Redundant",
+      "card_id": "8699b088-a527-4d3f-9ab4-bc088d7f07e5",
+      "position": 35,
+      "row": 5,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_36.png",
+      "jpg_file": "2403c4f9-cce9-4565-8572-0d635e7d0522.jpg",
+      "word": "Resonant",
+      "card_id": "2403c4f9-cce9-4565-8572-0d635e7d0522",
+      "position": 36,
+      "row": 5,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_37.png",
+      "jpg_file": "359dca20-bbf3-48ef-8438-1eced62d0ad1.jpg",
+      "word": "Rich",
+      "card_id": "359dca20-bbf3-48ef-8438-1eced62d0ad1",
+      "position": 37,
+      "row": 5,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_38.png",
+      "jpg_file": "53e99fba-fdfd-4d41-baa9-e70e307d9bbf.jpg",
+      "word": "Rough",
+      "card_id": "53e99fba-fdfd-4d41-baa9-e70e307d9bbf",
+      "position": 38,
+      "row": 5,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_39.png",
+      "jpg_file": "1205b133-17ec-4f81-a152-1738703f3ded.jpg",
+      "word": "Scarce",
+      "card_id": "1205b133-17ec-4f81-a152-1738703f3ded",
+      "position": 39,
+      "row": 5,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_40.png",
+      "jpg_file": "471da5d0-ba71-4bdd-898f-951330a5bf91.jpg",
+      "word": "Severe",
+      "card_id": "471da5d0-ba71-4bdd-898f-951330a5bf91",
+      "position": 40,
+      "row": 5,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_41.png",
+      "jpg_file": "83a0372a-af20-491b-a120-06a12e3b55bd.jpg",
+      "word": "Sharp",
+      "card_id": "83a0372a-af20-491b-a120-06a12e3b55bd",
+      "position": 41,
+      "row": 6,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_42.png",
+      "jpg_file": "a4276337-e5e3-48f9-938c-27fc9b31b1bd.jpg",
+      "word": "Short",
+      "card_id": "a4276337-e5e3-48f9-938c-27fc9b31b1bd",
+      "position": 42,
+      "row": 6,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_43.png",
+      "jpg_file": "5a7d40bc-175b-4ca7-9638-a3994482c59f.jpg",
+      "word": "Shrill",
+      "card_id": "5a7d40bc-175b-4ca7-9638-a3994482c59f",
+      "position": 43,
+      "row": 6,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_44.png",
+      "jpg_file": "a68c7c44-21a7-42a8-96b8-80f48ec4964e.jpg",
+      "word": "Simple",
+      "card_id": "a68c7c44-21a7-42a8-96b8-80f48ec4964e",
+      "position": 44,
+      "row": 6,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_45.png",
+      "jpg_file": "fb1c9b01-646a-4b2a-a8d3-8dc66dc8d408.jpg",
+      "word": "Simultaneous",
+      "card_id": "fb1c9b01-646a-4b2a-a8d3-8dc66dc8d408",
+      "position": 45,
+      "row": 6,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_46.png",
+      "jpg_file": "b5e88c19-43fc-4dd0-9559-2716117babd4.jpg",
+      "word": "Sleek",
+      "card_id": "b5e88c19-43fc-4dd0-9559-2716117babd4",
+      "position": 46,
+      "row": 6,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_47.png",
+      "jpg_file": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8.jpg",
+      "word": "Slight",
+      "card_id": "fc9182dc-2d93-4e26-92a0-751fd2cd8dd8",
+      "position": 47,
+      "row": 6,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_48.png",
+      "jpg_file": "01590c34-f005-4cab-ba7a-e8356a3deff8.jpg",
+      "word": "Sophisticated",
+      "card_id": "01590c34-f005-4cab-ba7a-e8356a3deff8",
+      "position": 48,
+      "row": 6,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_49.png",
+      "jpg_file": "66380a74-8f88-409a-8754-22f50ed17490.jpg",
+      "word": "Sound",
+      "card_id": "66380a74-8f88-409a-8754-22f50ed17490",
+      "position": 49,
+      "row": 7,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_50.png",
+      "jpg_file": "86d5d8c7-7c84-4553-9d31-00fcacb0e18f.jpg",
+      "word": "Sovereign",
+      "card_id": "86d5d8c7-7c84-4553-9d31-00fcacb0e18f",
+      "position": 50,
+      "row": 7,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_51.png",
+      "jpg_file": "0e052f16-9e6c-442d-99f6-31ea37a58d0d.jpg",
+      "word": "Span",
+      "card_id": "0e052f16-9e6c-442d-99f6-31ea37a58d0d",
+      "position": 51,
+      "row": 7,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_52.png",
+      "jpg_file": "5eb78bd9-3438-4f39-a778-7cbebe94237d.jpg",
+      "word": "Stale",
+      "card_id": "5eb78bd9-3438-4f39-a778-7cbebe94237d",
+      "position": 52,
+      "row": 7,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_53.png",
+      "jpg_file": "7ea22579-4d4a-464c-8148-15ffac332f85.jpg",
+      "word": "Steep",
+      "card_id": "7ea22579-4d4a-464c-8148-15ffac332f85",
+      "position": 53,
+      "row": 7,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_54.png",
+      "jpg_file": "447c59a0-1b55-46ee-a6ee-f16f42c05514.jpg",
+      "word": "Straightforward",
+      "card_id": "447c59a0-1b55-46ee-a6ee-f16f42c05514",
+      "position": 54,
+      "row": 7,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_55.png",
+      "jpg_file": "8152cdb5-b098-4462-bcb1-d8047f4a4b42.jpg",
+      "word": "Submissive",
+      "card_id": "8152cdb5-b098-4462-bcb1-d8047f4a4b42",
+      "position": 55,
+      "row": 7,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_56.png",
+      "jpg_file": "0738e0e0-f20c-4a15-89a9-4815c386d1bd.jpg",
+      "word": "Subordinate",
+      "card_id": "0738e0e0-f20c-4a15-89a9-4815c386d1bd",
+      "position": 56,
+      "row": 7,
+      "col": 8
+    },
+    {
+      "png_file": "missing_2_57.png",
+      "jpg_file": "7e29136c-f559-466c-b0c7-c5d6ad619774.jpg",
+      "word": "Substantial",
+      "card_id": "7e29136c-f559-466c-b0c7-c5d6ad619774",
+      "position": 57,
+      "row": 8,
+      "col": 1
+    },
+    {
+      "png_file": "missing_2_58.png",
+      "jpg_file": "63d43d1b-7f01-4482-aa35-ffc58607f700.jpg",
+      "word": "Superior",
+      "card_id": "63d43d1b-7f01-4482-aa35-ffc58607f700",
+      "position": 58,
+      "row": 8,
+      "col": 2
+    },
+    {
+      "png_file": "missing_2_59.png",
+      "jpg_file": "cfa34e39-4707-4efc-afa3-0ec3195d3ab4.jpg",
+      "word": "Swift",
+      "card_id": "cfa34e39-4707-4efc-afa3-0ec3195d3ab4",
+      "position": 59,
+      "row": 8,
+      "col": 3
+    },
+    {
+      "png_file": "missing_2_60.png",
+      "jpg_file": "58a3c151-be2a-49af-b14b-c3c59cf777d9.jpg",
+      "word": "Sympathetic",
+      "card_id": "58a3c151-be2a-49af-b14b-c3c59cf777d9",
+      "position": 60,
+      "row": 8,
+      "col": 4
+    },
+    {
+      "png_file": "missing_2_61.png",
+      "jpg_file": "bc6ee05b-b14a-4b92-bdd7-448453559c89.jpg",
+      "word": "Tight",
+      "card_id": "bc6ee05b-b14a-4b92-bdd7-448453559c89",
+      "position": 61,
+      "row": 8,
+      "col": 5
+    },
+    {
+      "png_file": "missing_2_62.png",
+      "jpg_file": "767b8cb3-71ac-48d8-b9ee-3309fc2db2be.jpg",
+      "word": "Timeless",
+      "card_id": "767b8cb3-71ac-48d8-b9ee-3309fc2db2be",
+      "position": 62,
+      "row": 8,
+      "col": 6
+    },
+    {
+      "png_file": "missing_2_63.png",
+      "jpg_file": "0acc52fe-cb12-458d-bf4f-70fb44bd6c9c.jpg",
+      "word": "Timely",
+      "card_id": "0acc52fe-cb12-458d-bf4f-70fb44bd6c9c",
+      "position": 63,
+      "row": 8,
+      "col": 7
+    },
+    {
+      "png_file": "missing_2_64.png",
+      "jpg_file": "f3971bba-8a66-434a-953f-88c72199dbd5.jpg",
+      "word": "Timid",
+      "card_id": "f3971bba-8a66-434a-953f-88c72199dbd5",
+      "position": 64,
+      "row": 8,
+      "col": 8
+    },
+    {
+      "png_file": "missing_3_1.png",
+      "jpg_file": "904028f4-292d-48fe-8b42-6acbe7205109.jpg",
+      "word": "Tolerant",
+      "card_id": "904028f4-292d-48fe-8b42-6acbe7205109",
+      "position": 1,
+      "row": 1,
+      "col": 1
+    },
+    {
+      "png_file": "missing_3_2.png",
+      "jpg_file": "6e319580-47e4-4982-81cc-0e6beaabc8ac.jpg",
+      "word": "Tricky",
+      "card_id": "6e319580-47e4-4982-81cc-0e6beaabc8ac",
+      "position": 2,
+      "row": 1,
+      "col": 2
+    },
+    {
+      "png_file": "missing_3_3.png",
+      "jpg_file": "5670aefc-d549-4f00-b2e3-b219f1f4991f.jpg",
+      "word": "Trifling",
+      "card_id": "5670aefc-d549-4f00-b2e3-b219f1f4991f",
+      "position": 3,
+      "row": 1,
+      "col": 3
+    },
+    {
+      "png_file": "missing_3_4.png",
+      "jpg_file": "5a23555f-69d2-47e6-836b-54d03e8078e4.jpg",
+      "word": "Upscale",
+      "card_id": "5a23555f-69d2-47e6-836b-54d03e8078e4",
+      "position": 4,
+      "row": 2,
+      "col": 1
+    },
+    {
+      "png_file": "missing_3_5.png",
+      "jpg_file": "4c5af2c3-6932-419c-8322-258f61b18892.jpg",
+      "word": "Urgent",
+      "card_id": "4c5af2c3-6932-419c-8322-258f61b18892",
+      "position": 5,
+      "row": 2,
+      "col": 2
+    },
+    {
+      "png_file": "missing_3_6.png",
+      "jpg_file": "fbb286cc-d04a-421f-a230-c4fadf16092f.jpg",
+      "word": "Value",
+      "card_id": "fbb286cc-d04a-421f-a230-c4fadf16092f",
+      "position": 6,
+      "row": 2,
+      "col": 3
+    },
+    {
+      "png_file": "missing_3_7.png",
+      "jpg_file": "5a3caaf5-4b6b-43c1-a30c-c17c4a614fc1.jpg",
+      "word": "Vary",
+      "card_id": "5a3caaf5-4b6b-43c1-a30c-c17c4a614fc1",
+      "position": 7,
+      "row": 3,
+      "col": 1
+    },
+    {
+      "png_file": "missing_3_8.png",
+      "jpg_file": "d6c5937e-9fbb-427a-b6cd-6d97849b9056.jpg",
+      "word": "Wealthy",
+      "card_id": "d6c5937e-9fbb-427a-b6cd-6d97849b9056",
+      "position": 8,
+      "row": 3,
+      "col": 2
+    },
+    {
+      "png_file": "missing_3_9.png",
+      "jpg_file": "7aed1ba5-7978-4337-9960-3804763dd5e4.jpg",
+      "word": "Weighty",
+      "card_id": "7aed1ba5-7978-4337-9960-3804763dd5e4",
+      "position": 9,
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

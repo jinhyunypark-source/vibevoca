@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:supabase_flutter/supabase_flutter.dart'; // Import Supabase
 import 'package:firebase_core/firebase_core.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart'; // Added import for Mobile Ads
 import 'package:vibevoca/core/router/app_router.dart';
 import 'package:vibevoca/core/theme/app_theme.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -13,6 +14,9 @@ import 'dart:ui' as io;
 Future<void> main() async {
   runZonedGuarded(() async {
     WidgetsFlutterBinding.ensureInitialized();
+
+    // Initialize Mobile Ads
+    await MobileAds.instance.initialize();
 
     print("🚀 [Main] App Starting...");
 
